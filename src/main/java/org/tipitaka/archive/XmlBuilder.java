@@ -54,14 +54,11 @@ public class XmlBuilder
     @Override
     public XmlBuilder create(File file, final Script script, final String path) throws IOException {
       ObjectMapper xmlMapper = new XmlMapper();
-      //file = new File("../tipitaka-archive/archive/notes/roman/tipitaka (mula)/vinayapitaka/parajikapali/1. parajikakandam-notes.xml");
-      File nfile = Paths.get(notesBasedir.getPath(), script.name, path + "-notes.xml").toFile();
-         // "../tipitaka-archive/archive/notes/roman/tipitaka (mula)/vinayapitaka/parajikapali/veranjakandam-notes.xml");
-      System.err.println(nfile + " " + nfile.exists());
+      File notesFile = Paths.get(notesBasedir.getPath(), script.name, path + "-notes.xml").toFile();
       Notes notes = new Notes();
-      if (nfile != null && nfile.exists()) {
+      if (notesFile != null && notesFile.exists()) {
         try {
-          notes = xmlMapper.readValue(new FileReader(nfile), Notes.class);
+          notes = xmlMapper.readValue(new FileReader(notesFile), Notes.class);
         }
         catch (IOException e) {
           // ignore and create a new one as notes list can be empty
@@ -99,11 +96,9 @@ public class XmlBuilder
 
   public XmlBuilder(Writer writer, BuilderFactory factory) {
     super(writer, factory);
-    //this.notes = new Notes();
     ObjectMapper xmlMapper = new XmlMapper();
     //File file = new File("../tipitaka-archive/archive/notes/roman/tipitaka (mula)/vinayapitaka/parajikapali/1. parajikakandam-notes.xml");
     File file = new File("../tipitaka-archive/archive/notes/roman/tipitaka (mula)/vinayapitaka/parajikapali/veranjakandam-notes.xml");
-    System.err.println(file);
     Notes notes = new Notes();
     if (file != null && file.exists()) {
       try {
@@ -213,7 +208,7 @@ public class XmlBuilder
     if (NOTE.equals(state.peek())) {
       Note note = notes.get(state.getId());
       if (note == null) {
-        System.err.println(notes);
+        System.err.println("\n\nno note with id: " + state.getId());
       }
       if (!note.original.equals(text)){
         System.err.println("\n\nnote error text: " + text + " <> " + note.original);
@@ -227,15 +222,11 @@ public class XmlBuilder
         state.appendText(text);
         state.append("</note>");
       }
-      else {
-        state.append("\n" + note +"\n");
-      }
       state.nextId();
     }
     else {
       if (!state.notes.isEmpty()) {
         Note note = state.notes.peek();
-        //Note note = notes.findNote(state.getLineNumber());
         if ((note.type == Type.auto || note.type == Type.manual) && note.getVRI() != null) {
           String vri = note.getVRI();
           if (vri.endsWith("ti")) {
@@ -247,7 +238,7 @@ public class XmlBuilder
           Matcher matcher = alternatives.matcher(text);
           if (matcher.matches()) {
             state.append(matcher.group(1));
-            state.append("<alternatives>");
+            state.append("<alternatives line=\"").append(note.line).append("\">");
             for (Alternative alternative : note.alternatives) {
               state.append("<alternative lang=\"" + alternative.lang + "\">")
                   .append(alternative.text).append("</alternative>");
@@ -257,8 +248,6 @@ public class XmlBuilder
             state.notes.pop();
           }
           else {
-            //System.out.println("\n" + note);
-            //System.out.println("\ncan not match: " + alternatives + " with: " + text);
             state.appendText(text.replaceFirst("^ *", ""));
           }
         }
