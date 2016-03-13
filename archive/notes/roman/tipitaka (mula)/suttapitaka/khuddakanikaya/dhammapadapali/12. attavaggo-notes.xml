@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<notes archive-path="roman/tipitaka (mula)/suttapitaka/khuddakanikaya/dhammapadapali/12. attavaggo-notes.xml">
+  <note line="3" original="abhimantati (sī. pī.)" reference-line="16" id="0">
+    <alternatives>
+      <alternative lang="vri">Abhimatthati</alternative>
+      <alternative lang="sī. pī.">abhimantati</alternative>
+    </alternatives>
+    <type>auto</type>
+    <previous>Abhimatthati </previous>
+  </note>
+  <note line="12" original="vajiraṃva’mhamayaṃ (syā. ka.)" reference-line="16" id="1">
+    <alternatives>
+      <alternative lang="vri">vasmamayaṃ</alternative>
+      <alternative lang="syā. ka.">vajiraṃva’mhamayaṃ</alternative>
+    </alternatives>
+    <type>auto</type>
+    <previous> dummedhaṃ, vajiraṃ vasmamayaṃ </previous>
+  </note>
+  <note line="21" original="attaghaññāya (sī. syā. pī.)" reference-line="26" id="2">
+    <alternatives>
+      <alternative lang="vri">attaghātāya</alternative>
+      <alternative lang="sī. syā. pī.">attaghaññāya</alternative>
+    </alternatives>
+    <type>auto</type>
+    <previous>Phalāni kaṭṭhakasseva, attaghātāya </previous>
+  </note>
+  <note line="30" original="attanāva (sī. syā. pī.)" reference-line="28" id="3">
+    <alternatives>
+      <alternative lang="sī. syā. pī.">attanāva</alternative>
+    </alternatives>
+    <type>no_match</type>
+    <previous> hi </previous>
+  </note>
+  <note line="38" original="nāññamañño(sī.)" reference-line="30" id="4">
+    <alternatives>
+      <alternative lang="sī.">nāññamañño</alternative>
+    </alternatives>
+    <type>no_match</type>
+    <previous>Suddhī asuddhi paccattaṃ, nāñño aññaṃ </previous>
+  </note>
+</notes>

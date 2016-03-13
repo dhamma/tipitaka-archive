@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<notes archive-path="roman/tipitaka (mula)/suttapitaka/anguttaranikaya/sattakanipatapali/8. vinayavaggo-notes.xml">
+  <note line="3" original="pari. 327" reference-line="3" id="0">
+    <type>raw</type>
+  </note>
+  <note line="6" original="pari. 327" reference-line="5" id="1">
+    <type>raw</type>
+  </note>
+  <note line="9" original="pari. 327" reference-line="9" id="2">
+    <type>raw</type>
+  </note>
+  <note line="12" original="samannāgato bhikkhu (sī. syā. ka.) anantarasuttadveye pana idaṃ pāṭhanānattaṃ natthi. pari. 327" reference-line="11" id="3">
+    <alternatives>
+      <alternative lang="vri">samannāgato</alternative>
+      <alternative lang="sī. syā. ka.">samannāgato bhikkhu</alternative>
+    </alternatives>
+    <type>auto</type>
+    <previous>, bhikkhave, dhammehi samannāgato </previous>
+  </note>
+  <note line="21" original="samannāgato bhikkhu (ka.)" reference-line="17" id="4">
+    <alternatives>
+      <alternative lang="vri">samannāgato</alternative>
+      <alternative lang="ka.">samannāgato bhikkhu</alternative>
+    </alternatives>
+    <type>auto</type>
+    <previous>, bhikkhave, dhammehi samannāgato </previous>
+  </note>
+  <note line="30" original="paṭiññātakaraṇaṃ, yebhuyyassikā, tassapāpiyyassikā, tiṇavatthārako (syā.) dī. ni. 3.332 saṅgītisuttena ca pāci. 655 vinayena ca saṃsandetabbaṃ" reference-line="22" id="5">
+    <alternatives>
+      <alternative lang="syā.">paṭiññātakaraṇaṃ, yebhuyyassikā, tassapāpiyyassikā, tiṇavatthārako</alternative>
+    </alternatives>
+    <type>no_match</type>
+    <previous>, sativinayo dātabbo, amūḷhavinayo dātabbo </previous>
+  </note>
+  <note line="38" original="paṭiññātakaraṇaṃ, yebhuyyassikā, tassapāpiyyassikā, tiṇavatthārako (syā.) dī. ni. 3.332 saṅgītisuttena ca pāci. 655 vinayena ca saṃsandetabbaṃ" reference-line="22" id="6">
+    <alternatives>
+      <alternative lang="vri">tiṇavatthārako dātabbo</alternative>
+      <alternative lang="syā.">paṭiññātakaraṇaṃ, yebhuyyassikā, tassapāpiyyassikā, tiṇavatthārako</alternative>
+    </alternatives>
+    <type>auto</type>
+    <previous>, paṭiññātakaraṇaṃ dātabbaṃ, yebhuyyasikā dātabbā, tassapāpiyasikā dātabbā, tiṇavatthārako dātabbo </previous>
+  </note>
+</notes>
