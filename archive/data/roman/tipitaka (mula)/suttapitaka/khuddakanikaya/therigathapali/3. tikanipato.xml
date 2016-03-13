@@ -28,11 +28,7 @@
 <gathalast line="20">Sā me dhammamadesesi, khandhāyatanadhātuyo.</gathalast>
 <hangnum line="21" number="44"></hangnum>
 <gatha1 line="22">‘‘Tassā dhammaṃ suṇitvāna, yathā maṃ anusāsi sā;</gatha1>
-<gatha2 line="23">Sattāhaṃ ekapallaṅkena, nisīdiṃ pītisukhasamappitā 
-Note { id=0, line='3', referenceLine='23', original='nisīdiṃ sukhasamappitā (sī.)', type='auto', previous='Sattāhaṃ ekapallaṅkena, nisīdiṃ pītisukhasamappitā '
-	Alternative{lang='vri', text='nisīdiṃ pītisukhasamappitā'}
-	Alternative{lang='sī.', text='nisīdiṃ sukhasamappitā'}}
-;</gatha2>
+<gatha2 line="23">Sattāhaṃ ekapallaṅkena, nisīdiṃ pītisukhasamappitā ;</gatha2>
 <gathalast line="24">Aṭṭhamiyā pāde pasāresiṃ, tamokhandhaṃ padāliyā’’ti.</gathalast>
 <centered line="25">… Uttamā therī….</centered>
 <subhead line="26">3. Aparāuttamātherīgāthā</subhead>
@@ -60,23 +56,10 @@ Note { id=0, line='3', referenceLine='23', original='nisīdiṃ sukhasamappitā 
 <subhead line="48">5. Ubbiritherīgāthā</subhead>
 <hangnum line="49" number="51"></hangnum>
 <gatha1 line="50">‘‘Amma jīvāti vanamhi kandasi, attānaṃ adhigaccha ubbiri;</gatha1>
-<gatha2 line="51"><alternatives><alternative lang="vri">Cullāsītisahassāni</alternative><alternative lang="sī.">cūḷāsītisahassāni</alternative></alternatives> 
-Note { id=1, line='12', referenceLine='51', original='cūḷāsītisahassāni (sī.)', type='auto', previous='Cullāsītisahassāni '
-	Alternative{lang='vri', text='Cullāsītisahassāni'}
-	Alternative{lang='sī.', text='cūḷāsītisahassāni'}}
-, sabbā jīvasanāmikā;</gatha2>
+<gatha2 line="51"><alternatives line="11"><alternative lang="vri">Cullāsītisahassāni</alternative><alternative lang="sī.">cūḷāsītisahassāni</alternative></alternatives> , sabbā jīvasanāmikā;</gatha2>
 <gathalast line="52">Etamhāḷāhane daḍḍhā, tāsaṃ kamanusocasi.</gathalast>
 <hangnum line="53" number="52"></hangnum>
-<gatha1 line="54"> ‘‘<alternatives><alternative lang="vri">Abbahī</alternative><alternative lang="syā.">abbutī</alternative><alternative lang="ka.">abbuḷhaṃ</alternative></alternatives> <pageBreak edition="V" number="0.0312" /><pageBreak edition="P" number="0.0129" />
-Note { id=2, line='21', referenceLine='54', original='abbutī (syā.), abbuḷhaṃ (ka.)', type='auto', previous=' Abbahī '
-	Alternative{lang='vri', text='Abbahī'}
-	Alternative{lang='syā.', text='abbutī'}
-	Alternative{lang='ka.', text='abbuḷhaṃ'}}
- vata me sallaṃ, duddasaṃ <alternatives><alternative lang="vri">hadayassitaṃ</alternative><alternative lang="sī. syā.">hadayanissitaṃ</alternative></alternatives> 
-Note { id=3, line='31', referenceLine='54', original='hadayanissitaṃ (sī. syā.)', type='auto', previous=' vata me sallaṃ, duddasaṃ hadayassitaṃ '
-	Alternative{lang='vri', text='hadayassitaṃ'}
-	Alternative{lang='sī. syā.', text='hadayanissitaṃ'}}
-;</gatha1>
+<gatha1 line="54"> ‘‘<alternatives line="19"><alternative lang="vri">Abbahī</alternative><alternative lang="syā.">abbutī</alternative><alternative lang="ka.">abbuḷhaṃ</alternative></alternatives> <pageBreak edition="V" number="0.0312" /><pageBreak edition="P" number="0.0129" /> vata me sallaṃ, duddasaṃ <alternatives line="28"><alternative lang="vri">hadayassitaṃ</alternative><alternative lang="sī. syā.">hadayanissitaṃ</alternative></alternatives> ;</gatha1>
 <gathalast line="55">Yaṃ me sokaparetāya, dhītusokaṃ byapānudi.</gathalast>
 <hangnum line="56" number="53"></hangnum>
 <gatha1 line="57">‘‘Sājja abbūḷhasallāhaṃ, nicchātā parinibbutā;</gatha1>
@@ -84,11 +67,7 @@ Note { id=3, line='31', referenceLine='54', original='hadayanissitaṃ (sī. sy�
 <centered line="59">… Ubbirī therī….</centered>
 <subhead line="60">6. Sukkātherīgāthā</subhead>
 <hangnum line="61" number="54"></hangnum>
-<gatha1 line="62"> ‘‘Kiṃme katā rājagahe manussā, madhuṃ <alternatives><alternative lang="vri">pītāva</alternative><alternative lang="sī.">madhupītāva</alternative></alternatives> 
-Note { id=4, line='40', referenceLine='62', original='madhupītāva (sī.)', type='auto', previous=' Kiṃme katā rājagahe manussā, madhuṃ pītāva '
-	Alternative{lang='vri', text='pītāva'}
-	Alternative{lang='sī.', text='madhupītāva'}}
-acchare;</gatha1>
+<gatha1 line="62"> ‘‘Kiṃme katā rājagahe manussā, madhuṃ <alternatives line="36"><alternative lang="vri">pītāva</alternative><alternative lang="sī.">madhupītāva</alternative></alternatives> acchare;</gatha1>
 <gathalast line="63">Ye sukkaṃ na upāsanti, desentiṃ buddhasāsanaṃ.</gathalast>
 <hangnum line="64" number="55"></hangnum>
 <gatha1 line="65">‘‘Tañca appaṭivānīyaṃ, asecanakamojavaṃ;</gatha1>
@@ -105,11 +84,7 @@ acchare;</gatha1>
 <gatha1 line="76">‘‘Sattisūlūpamā kāmā, khandhāsaṃ adhikuṭṭanā;</gatha1>
 <gathalast line="77">Yaṃ tvaṃ ‘kāmaratiṃ’ brūsi, ‘aratī’ dāni sā mama.</gathalast>
 <hangnum line="78" number="59"></hangnum>
-<gatha1 line="79"> ‘‘Sabbattha vihatā <alternatives><alternative lang="vri">nandī</alternative><alternative lang="sī. syā.">nandi</alternative></alternatives> 
-Note { id=5, line='49', referenceLine='79', original='nandi (sī. syā.)', type='auto', previous=' Sabbattha vihatā nandī '
-	Alternative{lang='vri', text='nandī'}
-	Alternative{lang='sī. syā.', text='nandi'}}
-, tamokhandho padālito;</gatha1>
+<gatha1 line="79"> ‘‘Sabbattha vihatā <alternatives line="44"><alternative lang="vri">nandī</alternative><alternative lang="sī. syā.">nandi</alternative></alternatives> , tamokhandho padālito;</gatha1>
 <gathalast line="80">Evaṃ jānāhi pāpima, nihato tvamasi antakā’’ti.</gathalast>
 <centered line="81">… Selā therī….</centered>
 <subhead line="82">8. Somātherīgāthā</subhead>

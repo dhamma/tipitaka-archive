@@ -9,24 +9,11 @@
 <chapter line="1">3. Dvattiṃsākāro</chapter>
 <paragraph line="2">Atthi <pageBreak edition="V" number="0.0003" />imasmiṃ kāye –</paragraph>
 <gatha1 line="3">Kesā lomā nakhā dantā taco,</gatha1>
-<gatha2 line="4">Maṃsaṃ <alternatives><alternative lang="vri">nhāru</alternative><alternative lang="sī. pī.">nahāru</alternative><alternative lang="syā. kaṃ.">nahārū</alternative></alternatives> 
-Note { id=0, line='3', referenceLine='4', original='nahāru (sī. pī.), nahārū (syā. kaṃ.)', type='auto', previous='Maṃsaṃ nhāru '
-	Alternative{lang='vri', text='nhāru'}
-	Alternative{lang='sī. pī.', text='nahāru'}
-	Alternative{lang='syā. kaṃ.', text='nahārū'}}
- <alternatives><alternative lang="vri">aṭṭhi</alternative><alternative lang="syā. kaṃ">aṭṭhī</alternative></alternatives> 
-Note { id=1, line='13', referenceLine='4', original='aṭṭhī (syā. kaṃ)', type='auto', previous=' aṭṭhi '
-	Alternative{lang='vri', text='aṭṭhi'}
-	Alternative{lang='syā. kaṃ', text='aṭṭhī'}}
-aṭṭhimiñjaṃ vakkaṃ,</gatha2>
+<gatha2 line="4">Maṃsaṃ <alternatives line="3"><alternative lang="vri">nhāru</alternative><alternative lang="sī. pī.">nahāru</alternative><alternative lang="syā. kaṃ.">nahārū</alternative></alternatives>  <alternatives line="12"><alternative lang="vri">aṭṭhi</alternative><alternative lang="syā. kaṃ">aṭṭhī</alternative></alternatives> aṭṭhimiñjaṃ vakkaṃ,</gatha2>
 <gatha3 line="5">Hadayaṃ yakanaṃ kilomakaṃ pihakaṃ papphāsaṃ,</gatha3>
 <gatha2 line="6"><note>( ) sabbattha natthi, aṭṭhakathā ca dvattiṃsasaṅkhyā ca manasi kātabbā</note>,</gatha2>
 <gatha3 line="7">Pittaṃ semhaṃ pubbo lohitaṃ sedo medo,</gatha3>
-<gathalast line="8">Assu vasā kheḷo siṅghāṇikā lasikā <alternatives><alternative lang="vri">muttanti</alternative><alternative lang="syā.">muttaṃ, matthake matthaluṅganti</alternative></alternatives> 
-Note { id=3, line='25', referenceLine='8', original='muttaṃ, matthake matthaluṅganti (syā.)', type='auto', previous='Assu vasā kheḷo siṅghāṇikā lasikā muttanti '
-	Alternative{lang='vri', text='muttanti'}
-	Alternative{lang='syā.', text='muttaṃ, matthake matthaluṅganti'}}
-.</gathalast>
+<gathalast line="8">Assu vasā kheḷo siṅghāṇikā lasikā <alternatives line="23"><alternative lang="vri">muttanti</alternative><alternative lang="syā.">muttaṃ, matthake matthaluṅganti</alternative></alternatives> .</gathalast>
 <centered line="9">Dvattiṃsākāro niṭṭhito.</centered>
 </body>
 </document>

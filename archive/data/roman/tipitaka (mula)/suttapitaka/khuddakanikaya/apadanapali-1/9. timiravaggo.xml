@@ -12,11 +12,7 @@
 <gatha1 line="4">‘‘Candabhāgānadītīre <pageBreak edition="T" number="1.0182" /><pageBreak edition="M" number="1.0140" /><pageBreak edition="V" number="1.0127" />, anusotaṃ vajāmahaṃ;</gatha1>
 <gathalast line="5">Nisinnaṃ samaṇaṃ disvā, vippasannamanāvilaṃ.</gathalast>
 <hangnum line="6" number="2"></hangnum>
-<gatha1 line="7"> ‘‘Tattha cittaṃ <alternatives><alternative lang="vri">pasādetvā</alternative><alternative lang="syā.">pasādesiṃ</alternative></alternatives> 
-Note { id=0, line='3', referenceLine='7', original='pasādesiṃ (syā.)', type='auto', previous=' Tattha cittaṃ pasādetvā '
-	Alternative{lang='vri', text='pasādetvā'}
-	Alternative{lang='syā.', text='pasādesiṃ'}}
-, evaṃ cintesahaṃ tadā;</gatha1>
+<gatha1 line="7"> ‘‘Tattha cittaṃ <alternatives line="3"><alternative lang="vri">pasādetvā</alternative><alternative lang="syā.">pasādesiṃ</alternative></alternatives> , evaṃ cintesahaṃ tadā;</gatha1>
 <gathalast line="8">Tārayissati tiṇṇoyaṃ, dantoyaṃ damayissati.</gathalast>
 <hangnum line="9" number="3"></hangnum>
 <gatha1 line="10">‘‘Assāsissati assattho, santo ca samayissati;</gatha1>
@@ -32,17 +28,9 @@ Note { id=0, line='3', referenceLine='7', original='pasādesiṃ (syā.)', type=
 <gathalast line="20">Papātamanugacchanto, tattheva papatiṃ ahaṃ.</gathalast>
 <hangnum line="21" number="7"></hangnum>
 <gatha1 line="22">‘‘Catunnavutito kappe, yaṃ pupphamabhiropayiṃ;</gatha1>
-<gathalast line="23">Duggatiṃ nābhijānāmi, <alternatives><alternative lang="vri">pupphapūjāyidaṃ</alternative><alternative lang="sī. syā.">buddhapūjāyidaṃ</alternative></alternatives> 
-Note { id=2, line='20', referenceLine='23', original='buddhapūjāyidaṃ (sī. syā.)', type='auto', previous='Duggatiṃ nābhijānāmi, pupphapūjāyidaṃ '
-	Alternative{lang='vri', text='pupphapūjāyidaṃ'}
-	Alternative{lang='sī. syā.', text='buddhapūjāyidaṃ'}}
-phalaṃ.</gathalast>
+<gathalast line="23">Duggatiṃ nābhijānāmi, <alternatives line="18"><alternative lang="vri">pupphapūjāyidaṃ</alternative><alternative lang="sī. syā.">buddhapūjāyidaṃ</alternative></alternatives> phalaṃ.</gathalast>
 <hangnum line="24" number="8"></hangnum>
-<gatha1 line="25">‘‘Chappaññāsamhi <pageBreak edition="P" number="1.0127" /> kappamhi, sattevāsuṃ <alternatives><alternative lang="vri">mahāyasā</alternative><alternative lang="syā. ka.">mahārahā</alternative></alternatives> 
-Note { id=3, line='29', referenceLine='25', original='mahārahā (syā. ka.)', type='auto', previous=' kappamhi, sattevāsuṃ mahāyasā '
-	Alternative{lang='vri', text='mahāyasā'}
-	Alternative{lang='syā. ka.', text='mahārahā'}}
-;</gatha1>
+<gatha1 line="25">‘‘Chappaññāsamhi <pageBreak edition="P" number="1.0127" /> kappamhi, sattevāsuṃ <alternatives line="26"><alternative lang="vri">mahāyasā</alternative><alternative lang="syā. ka.">mahārahā</alternative></alternatives> ;</gatha1>
 <gathalast line="26">Sattaratanasampannā, cakkavattī mahabbalā.</gathalast>
 <hangnum line="27" number="9"></hangnum>
 <gatha1 line="28">‘‘Paṭisambhidā catasso, vimokkhāpi ca aṭṭhime;</gatha1>
@@ -58,11 +46,7 @@ Note { id=3, line='29', referenceLine='25', original='mahārahā (syā. ka.)', t
 <gathalast line="38">Tissaṃ buddhaṃ samuddissa, anantaguṇasāgaraṃ.</gathalast>
 <hangnum line="39" number="12"></hangnum>
 <gatha1 line="40">‘‘Sugatānugataṃ maggaṃ, pūjetvā haṭṭhamānaso;</gatha1>
-<gathalast line="41"><alternatives><alternative lang="vri">Añjaliñca</alternative><alternative lang="ka.">añjalissa</alternative></alternatives> 
-Note { id=4, line='38', referenceLine='41', original='añjalissa (ka.)', type='auto', previous='Añjaliñca '
-	Alternative{lang='vri', text='Añjaliñca'}
-	Alternative{lang='ka.', text='añjalissa'}}
-tadākāsiṃ, pasanno sehi pāṇibhi.</gathalast>
+<gathalast line="41"><alternatives line="34"><alternative lang="vri">Añjaliñca</alternative><alternative lang="ka.">añjalissa</alternative></alternatives> tadākāsiṃ, pasanno sehi pāṇibhi.</gathalast>
 <hangnum line="42" number="13"></hangnum>
 <gatha1 line="43">‘‘Dvenavute ito kappe, yaṃ kammamakariṃ tadā;</gatha1>
 <gathalast line="44">Duggatiṃ nābhijānāmi, buddhapūjāyidaṃ phalaṃ.</gathalast>
@@ -102,25 +86,13 @@ tadākāsiṃ, pasanno sehi pāṇibhi.</gathalast>
 <gathalast line="78">Vasāmi appamaññāsu, iddhīsu ca tadā vasī.</gathalast>
 <hangnum line="79" number="24"></hangnum>
 <gatha1 line="80"><note>abhipatthayiṃ (syā.), abhimatthayiṃ (ka.), adhivatthayinti pabbatassa upari gacchintiattho</note>;</gatha1>
-<gathalast line="81">Adhopupphaṃ gahetvāna, <alternatives><alternative lang="vri">āgacchiṃ</alternative><alternative lang="ka.">agacchiṃ</alternative></alternatives> 
-Note { id=6, line='56', referenceLine='81', original='agacchiṃ (ka.)', type='auto', previous='Adhopupphaṃ gahetvāna, āgacchiṃ '
-	Alternative{lang='vri', text='āgacchiṃ'}
-	Alternative{lang='ka.', text='agacchiṃ'}}
-pabbataṃ ahaṃ.</gathalast>
+<gathalast line="81">Adhopupphaṃ gahetvāna, <alternatives line="50"><alternative lang="vri">āgacchiṃ</alternative><alternative lang="ka.">agacchiṃ</alternative></alternatives> pabbataṃ ahaṃ.</gathalast>
 <hangnum line="82" number="25"></hangnum>
 <gatha1 line="83">‘‘Satta pupphāni gaṇhitvā, matthake okiriṃ ahaṃ;</gatha1>
-<gathalast line="84"><alternatives><alternative lang="vri">Ālokite</alternative><alternative lang="syā.">ālokito</alternative></alternatives> 
-Note { id=7, line='65', referenceLine='84', original='ālokito (syā.)', type='auto', previous='Ālokite '
-	Alternative{lang='vri', text='Ālokite'}
-	Alternative{lang='syā.', text='ālokito'}}
-ca vīrena, pakkāmiṃ pācināmukho.</gathalast>
+<gathalast line="84"><alternatives line="58"><alternative lang="vri">Ālokite</alternative><alternative lang="syā.">ālokito</alternative></alternatives> ca vīrena, pakkāmiṃ pācināmukho.</gathalast>
 <hangnum line="85" number="26"></hangnum>
 <gatha1 line="86">‘‘Āvāsaṃ <pageBreak edition="P" number="1.0129" />abhisambhosiṃ, patvāna assamaṃ ahaṃ;</gatha1>
-<gathalast line="87">Khāribhāraṃ gahetvāna, <alternatives><alternative lang="vri">pāyāsiṃ</alternative><alternative lang="sī.">pāvisiṃ</alternative></alternatives> 
-Note { id=8, line='74', referenceLine='87', original='pāvisiṃ (sī.)', type='auto', previous='Khāribhāraṃ gahetvāna, pāyāsiṃ '
-	Alternative{lang='vri', text='pāyāsiṃ'}
-	Alternative{lang='sī.', text='pāvisiṃ'}}
-pabbatantaraṃ.</gathalast>
+<gathalast line="87">Khāribhāraṃ gahetvāna, <alternatives line="66"><alternative lang="vri">pāyāsiṃ</alternative><alternative lang="sī.">pāvisiṃ</alternative></alternatives> pabbatantaraṃ.</gathalast>
 <hangnum line="88" number="27"></hangnum>
 <gatha1 line="89">‘‘Ajagaro maṃ pīḷesi, ghorarūpo mahabbalo;</gatha1>
 <gathalast line="90">Pubbakammaṃ saritvāna, tattha kālaṅkato ahaṃ.</gathalast>
@@ -139,17 +111,8 @@ pabbatantaraṃ.</gathalast>
 <gatha1 line="103">‘‘Suvaṇṇavaṇṇaṃ <pageBreak edition="T" number="1.0186" /><pageBreak edition="V" number="1.0130" />sambuddhaṃ, sataraṃsiṃva bhāṇumaṃ;</gatha1>
 <gathalast line="104">Vanantaragataṃ disvā, sālarājaṃva pupphitaṃ.</gathalast>
 <hangnum line="105" number="32"></hangnum>
-<gatha1 line="106"> ‘‘<alternatives><alternative lang="vri">Raṃsyā</alternative><alternative lang="syā. ka.">raṃse</alternative></alternatives> 
-Note { id=9, line='83', referenceLine='106', original='raṃse (syā. ka.)', type='auto', previous=' Raṃsyā '
-	Alternative{lang='vri', text='Raṃsyā'}
-	Alternative{lang='syā. ka.', text='raṃse'}}
-cittaṃ pasādetvā, vipassissa mahesino;</gatha1>
-<gathalast line="107">Paggayha añjaliṃ vandiṃ, sirasā ukkuṭī 
-Note { id=10, line='92', referenceLine='107', original='sirasā ukkuṭiko (syā.), sirasukkuṭiko (ka.)', type='auto', previous='Paggayha añjaliṃ vandiṃ, sirasā ukkuṭī '
-	Alternative{lang='vri', text='sirasā ukkuṭī'}
-	Alternative{lang='syā.', text='sirasā ukkuṭiko'}
-	Alternative{lang='ka.', text='sirasukkuṭiko'}}
-ahaṃ.</gathalast>
+<gatha1 line="106"> ‘‘<alternatives line="74"><alternative lang="vri">Raṃsyā</alternative><alternative lang="syā. ka.">raṃse</alternative></alternatives> cittaṃ pasādetvā, vipassissa mahesino;</gatha1>
+<gathalast line="107">Paggayha añjaliṃ vandiṃ, sirasā ukkuṭī ahaṃ.</gathalast>
 <hangnum line="108" number="33"></hangnum>
 <gatha1 line="109">‘‘Ekanavutito kappe, yaṃ kammamakariṃ tadā;</gatha1>
 <gathalast line="110">Duggatiṃ nābhijānāmi, raṃsisaññāyidaṃ phalaṃ.</gathalast>
@@ -216,11 +179,7 @@ ahaṃ.</gathalast>
 <subhead line="171">10. Padumapupphiyattheraapadānaṃ</subhead>
 <hangnum line="172" number="51"></hangnum>
 <gatha1 line="173">‘‘Pokkharavanaṃ <pageBreak edition="V" number="1.0132" /><pageBreak edition="P" number="1.0132" />paviṭṭho, bhañjanto padumānihaṃ;</gatha1>
-<gathalast line="174">Tatthaddasaṃ phussaṃ buddhaṃ 
-Note { id=11, line='102', referenceLine='174', original='addasaṃ phussasambuddhaṃ (sī. syā.)', type='auto', previous='Tatthaddasaṃ phussaṃ buddhaṃ '
-	Alternative{lang='vri', text='phussaṃ buddhaṃ'}
-	Alternative{lang='sī. syā.', text='addasaṃ phussasambuddhaṃ'}}
-, bāttiṃsavaralakkhaṇaṃ.</gathalast>
+<gathalast line="174">Tatthaddasaṃ phussaṃ buddhaṃ , bāttiṃsavaralakkhaṇaṃ.</gathalast>
 <hangnum line="175" number="52"></hangnum>
 <gatha1 line="176">‘‘Padumapupphaṃ gahetvāna, ākāse ukkhipiṃ ahaṃ;</gatha1>
 <gathalast line="177">Pāpakammaṃ saritvāna, pabbajiṃ anagāriyaṃ.</gathalast>
