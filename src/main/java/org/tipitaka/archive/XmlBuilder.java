@@ -240,7 +240,8 @@ public class XmlBuilder
             state.append(matcher.group(1));
             state.append("<alternatives line=\"").append(note.line).append("\">");
             for (Alternative alternative : note.alternatives) {
-              state.append("<alternative lang=\"" + alternative.lang + "\">")
+              state.append("<alternative source-abbr=\"").append(alternative.sourceAbbreviation)
+                  .append("\" source=\"").append(alternative.source).append("\">")
                   .append(alternative.text).append("</alternative>");
             }
             state.append("</alternatives>");
