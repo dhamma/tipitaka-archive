@@ -3,6 +3,9 @@ package org.tipitaka.archive;
 import java.io.IOException;
 import java.io.Writer;
 import java.util.LinkedList;
+import java.util.List;
+
+import org.tipitaka.archive.Notes.Note;
 
 /**
  * Created by cmeier on 3/6/16.
@@ -10,6 +13,10 @@ import java.util.LinkedList;
 class State
 {
   private int count = 0;
+
+  private int lineCount = 0;
+
+  private int id = 0;
 
   private final Writer writer;
 
@@ -33,6 +40,9 @@ class State
     stack.push(name);
   }
 
+  // TODO move into specialist State
+  LinkedList<Note> notes;
+
   String pop() {
     return stack.pop();
   }
@@ -40,6 +50,23 @@ class State
   String nextNumber() {
     count++;
     return String.valueOf(count);
+  }
+
+  int getId() {
+    return id;
+  }
+
+  String nextId() {
+    return String.valueOf(id++);
+  }
+
+  String getLineNumber() {
+    return String.valueOf(lineCount);
+  }
+
+  String nextLineNumber() {
+    lineCount++;
+    return String.valueOf(lineCount);
   }
 
   Writer appendText(String text) throws IOException {
@@ -59,4 +86,7 @@ class State
     writer.flush();;
   }
 
+  public void close() throws IOException {
+    writer.close();
+  }
 }

@@ -17,17 +17,24 @@ public class NoopBuilder
     implements Builder
 {
 
-  protected final BuilderFactory<?> factory;
 
   protected  final State state;
 
-  protected NoopBuilder(Writer writer, BuilderFactory<?> factory) {
-    this.factory = factory;
+  protected final BuilderFactory factory;
+
+  protected NoopBuilder(Writer writer, BuilderFactory factory) {
     this.state = new State(writer);
+    this.factory = factory;
   }
 
+  @Override
   public void flush() throws IOException {
     state.flush();
+  }
+
+  @Override
+  public void close() throws IOException {
+    state.close();
   }
 
   protected Builder appendTitle(Map<String, String> breadCrumbs) throws IOException {

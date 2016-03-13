@@ -1,10 +1,13 @@
 package org.tipitaka.archive;
 
 import java.io.BufferedReader;
+import java.io.File;
+import java.io.FileWriter;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.io.Reader;
 import java.io.Writer;
+import java.net.MalformedURLException;
 import java.net.URL;
 
 import org.tipitaka.search.Script;
@@ -26,9 +29,28 @@ public class TipitakaVisitor
     this.builders = factory;
   }
 
+  public void accept(File basedir, Script script) throws IOException {
+    for (String path : this.builders.getDirectory().allPaths()) {
+      File file = new File(basedir, this.builders.archivePath(script, path).getPath());
+      System.err.println(this.builders.getDirectory().fileOf(path) + " " + file);
+      file.getParentFile().mkdirs();
+      accept(file, script, path);
+    }
+  }
+
+  public void accept(File file, Script script, String path) throws IOException {
+    try (Builder builder = builders.create(file, script, path)) {
+      accept(builder, script, path);
+    }
+  }
+
   public void accept(Writer writer, Script script, String path) throws IOException {
+    accept(builders.create(writer), script, path);
+  }
+
+  public void accept(Builder builder, Script script, String path) throws IOException {
     URL url = builders.getUrlFactory().sourceURL(script, builders.getDirectory().fileOf(path));
-    Builder builder = builders.create(writer);
+
     builder.documentStart(script, path);
     Reader reader = null;
     try {
@@ -103,4 +125,5 @@ public class TipitakaVisitor
       builder.highlightEnd();
     }
   }
+
 }

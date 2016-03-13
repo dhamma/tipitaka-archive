@@ -8,6 +8,7 @@ import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.ParameterizedType;
 
 import org.tipitaka.search.DirectoryStructure;
+import org.tipitaka.search.Script;
 import org.tipitaka.search.TipitakaUrlFactory;
 import org.xmlpull.v1.XmlPullParserException;
 
@@ -21,17 +22,15 @@ abstract class BuilderFactory<T extends Builder>
 
   private final TipitakaUrlFactory urlFactory;
 
-  public BuilderFactory(TipitakaUrlFactory urlFactory, File directoryMap)
-      throws XmlPullParserException, IOException
+  public BuilderFactory() throws IOException {
+    this(new Layout());
+  }
+
+  public BuilderFactory(Layout layout) throws IOException
   {
-    this.urlFactory = urlFactory;
+    this.urlFactory = new TipitakaUrlFactory(layout.tipitakaOrgMirror());
     this.directory = new DirectoryStructure(urlFactory);
-    if (directoryMap == null) {
-      this.directory.reload();
-    }
-    else {
-      this.directory.load(directoryMap);
-    }
+    this.directory.load(layout.directoryMap());
   }
 
   public DirectoryStructure getDirectory() {
@@ -43,4 +42,8 @@ abstract class BuilderFactory<T extends Builder>
   }
 
   public abstract T create(Writer writer);
+
+  public abstract T create(final File file, final Script script, final String path) throws IOException;
+
+  public abstract File archivePath(final Script script, final String path);
 }

@@ -1,82 +1,121 @@
 package org.tipitaka.archive;
 
 import java.io.File;
+import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.io.OutputStreamWriter;
 import java.io.Writer;
 import java.net.URL;
+import java.nio.file.Paths;
 import java.util.Collections;
 import java.util.LinkedList;
 import java.util.List;
 import java.util.Map;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
 
+import com.fasterxml.jackson.databind.ObjectMapper;
+import com.fasterxml.jackson.dataformat.xml.XmlMapper;
+import org.tipitaka.archive.Notes.Alternative;
+import org.tipitaka.archive.Notes.Note;
+import org.tipitaka.archive.Notes.Type;
 import org.tipitaka.search.Script;
 import org.tipitaka.search.ScriptFactory;
-import org.tipitaka.search.TipitakaUrlFactory;
-import org.xmlpull.v1.XmlPullParserException;
 
 public class XmlBuilder
-    implements Builder
+     extends NoopBuilder
 {
 
   public static final String NOTE = "__NOTE__";
 
   public static final String OMIT = "__OMIT__";
 
+  private final Notes notes;
+
   static public class XmlBuilderFactory extends BuilderFactory<XmlBuilder> {
 
-    public XmlBuilderFactory(final TipitakaUrlFactory urlFactory, final File directoryMap)
-        throws XmlPullParserException, IOException
-    {
-      super(urlFactory, directoryMap);
+    private final File notesBasedir;
+
+    public XmlBuilderFactory() throws IOException {
+      this(new Layout());
+    }
+
+    private XmlBuilderFactory(Layout layout) throws IOException {
+      super(layout);
+      this.notesBasedir = layout.notesArchive();
     }
 
     @Override
     public XmlBuilder create(final Writer writer) {
       return new XmlBuilder(writer, this);
     }
+
+    @Override
+    public XmlBuilder create(File file, final Script script, final String path) throws IOException {
+      ObjectMapper xmlMapper = new XmlMapper();
+      //file = new File("../tipitaka-archive/archive/notes/roman/tipitaka (mula)/vinayapitaka/parajikapali/1. parajikakandam-notes.xml");
+      File nfile = Paths.get(notesBasedir.getPath(), script.name, path + "-notes.xml").toFile();
+         // "../tipitaka-archive/archive/notes/roman/tipitaka (mula)/vinayapitaka/parajikapali/veranjakandam-notes.xml");
+      System.err.println(nfile + " " + nfile.exists());
+      Notes notes = new Notes();
+      if (nfile != null && nfile.exists()) {
+        try {
+          notes = xmlMapper.readValue(new FileReader(nfile), Notes.class);
+        }
+        catch (IOException e) {
+          // ignore and create a new one as notes list can be empty
+        }
+      }
+      return new XmlBuilder(notes, file, this);
+    }
+
+    @Override
+    public File archivePath(final Script script, final String path) {
+      return new File(script.name, path + ".xml");
+    }
   }
-
-  private final BuilderFactory<XmlBuilder> factory;
-
-  public void flush() throws IOException {
-    state.flush();
-  }
-
-  private State state;
 
   static public void main(String... args) throws Exception {
-    BuilderFactory<XmlBuilder> factory = new XmlBuilderFactory(new TipitakaUrlFactory("file:../tipitaka-search/solr/tipitaka/"),
-        new File("../tipitaka-search/solr/tipitaka/directory.map"));
 
-    TipitakaVisitor visitor = new TipitakaVisitor(factory);
+    TipitakaVisitor visitor = new TipitakaVisitor(new XmlBuilderFactory());
 
-    visitor.accept(new OutputStreamWriter(System.out), new ScriptFactory().script("romn"),
-        //    "/tipitaka (mula)/vinayapitaka/parajikapali/veranjakandam");
-        "/tipitaka (mula)/vinayapitaka/parajikapali/1. parajikakandam");
-        //visitor.generateAll(new File("archive"), new ScriptFactory().script("romn"));
-    for(String i : Fuzzy.results) {
-      System.out.println(i);
+    String file =
+        "/tipitaka (mula)/vinayapitaka/parajikapali/veranjakandam";
+        //"/tipitaka (mula)/vinayapitaka/parajikapali/1. parajikakandam";
+   // "/tipitaka (mula)/vinayapitaka/parajikapali/2. sanghadisesakandam";
+    visitor.accept(new OutputStreamWriter(System.out), new ScriptFactory().script("romn"), file);
+    //File datafile = new File("../tipitaka-archive/target/data.xml");
+    //visitor.accept(datafile, new ScriptFactory().script("romn"), file);
+
+    visitor.accept(new Layout().dataArchive(), new ScriptFactory().script("romn"));
+
+  }
+
+  public XmlBuilder(Notes notes, File file, BuilderFactory factory) throws IOException {
+    super(new FileWriter(file), factory);
+    this.notes = notes;
+  }
+
+  public XmlBuilder(Writer writer, BuilderFactory factory) {
+    super(writer, factory);
+    //this.notes = new Notes();
+    ObjectMapper xmlMapper = new XmlMapper();
+    //File file = new File("../tipitaka-archive/archive/notes/roman/tipitaka (mula)/vinayapitaka/parajikapali/1. parajikakandam-notes.xml");
+    File file = new File("../tipitaka-archive/archive/notes/roman/tipitaka (mula)/vinayapitaka/parajikapali/veranjakandam-notes.xml");
+    System.err.println(file);
+    Notes notes = new Notes();
+    if (file != null && file.exists()) {
+      try {
+        notes = xmlMapper.readValue(new FileReader(file), Notes.class);
+      }
+      catch (IOException e) {
+        // ignore and create a new one, could be empty notes
+      }
     }
+    this.notes = notes;
   }
 
-  public void generateAll(File basedir, Script script) throws IOException {
-    for (String path : this.factory.getDirectory().allPaths()) {
-      File index = new File(basedir, script.name + path + ".html");
-      System.err.println(index+ " " + this.factory.getDirectory().fileOf(path));
-      index.getParentFile().mkdirs();
-      // TODO ensure utf-8
-      Writer writer = new FileWriter(index);
-      //accept(writer, script, path);
-      writer.close();
-    }
-  }
-
-  public XmlBuilder(Writer writer, BuilderFactory<XmlBuilder> factory) {
-    this.factory = factory;
-    this.state = new State(writer);
-  }
   public Builder appendTitle(Map<String, String> breadCrumbs) throws IOException {
     state.append("<title>");
     boolean first = true;
@@ -103,7 +142,7 @@ public class XmlBuilder
     state.append("<?xml version=\"1.0\"?>\n").append("<document>\n<metadata>\n");
 
     state.append("<normativeSource>").append(url.toString()).append("</normativeSource>\n");
-    state.append("<archivePath>").append("/").append(script.name).append(path).append(".xml</archivePath>\n");
+    state.append("<archivePath>").append(factory.archivePath(script, path).getPath()).append("</archivePath>\n");
 
     appendTitle(factory.getDirectory().breadCrumbs(script, path));
 
@@ -133,7 +172,8 @@ public class XmlBuilder
   }
 
   public void paraStart(String name, String number) throws IOException {
-    String lineNumber = state.nextNumber();
+    String lineNumber = state.nextLineNumber();
+    state.notes = new LinkedList<>(notes.findNotes(lineNumber));
     if ("bodytext".equals(name)) {
       name = "paragraph";
     }
@@ -149,6 +189,9 @@ public class XmlBuilder
   }
 
   public void paraEnd() throws IOException {
+    if (state.notes.size() > 0) {
+      System.err.println("\nmissed " + state.notes.size() + " notes in line " + state.getLineNumber());
+    }
     String name = state.pop();
     if ("bodytext".equals(name)) {
       name = "paragraph";
@@ -168,51 +211,62 @@ public class XmlBuilder
       return;
     }
     if (NOTE.equals(state.peek())) {
+      Note note = notes.get(state.getId());
+      if (note == null) {
+        System.err.println(notes);
+      }
+      if (!note.original.equals(text)){
+        System.err.println("\n\nnote error text: " + text + " <> " + note.original);
+      }
+      if (!note.referenceLine.equals(state.getLineNumber())) {
+        System.err.println("\n\nnote error line: " + state.getLineNumber() + " <> " + note.referenceLine);
+      }
+      if (Type.raw == note.type || Type.no_match == note.type) {
+        state.notes.pop();
         state.append("<note>");
         state.appendText(text);
         state.append("</note>");
+      }
+      else {
+        state.append("\n" + note +"\n");
+      }
+      state.nextId();
     }
     else {
-      state.appendText(text.replaceFirst("^ *", ""));
+      if (!state.notes.isEmpty()) {
+        Note note = state.notes.peek();
+        //Note note = notes.findNote(state.getLineNumber());
+        if ((note.type == Type.auto || note.type == Type.manual) && note.getVRI() != null) {
+          String vri = note.getVRI();
+          if (vri.endsWith("ti")) {
+            vri = vri.substring(0, vri.length() - 2) + ".?.?ti";
+          }
+          Pattern alternatives = Pattern.compile("(.*)" + vri.replace(" ", "[;,– ‘]+")
+              .replace("]", "[\\]]").replace("[", "[\\[]")
+              .replace(")", "[)]").replace("(", "[(]") + "([. ]*)$");
+          Matcher matcher = alternatives.matcher(text);
+          if (matcher.matches()) {
+            state.append(matcher.group(1));
+            state.append("<alternatives>");
+            for (Alternative alternative : note.alternatives) {
+              state.append("<alternative lang=\"" + alternative.lang + "\">")
+                  .append(alternative.text).append("</alternative>");
+            }
+            state.append("</alternatives>");
+            state.append(matcher.group(2));
+            state.notes.pop();
+          }
+          else {
+            //System.out.println("\n" + note);
+            //System.out.println("\ncan not match: " + alternatives + " with: " + text);
+            state.appendText(text.replaceFirst("^ *", ""));
+          }
+        }
+      }
+      else {
+        state.appendText(text.replaceFirst("^ *", ""));
+      }
     }
-    ////writer.append("<n>").append(text).append("</n>");
-    //if (text.contains("(")) {
-    //  Pattern NOTE = Pattern.compile("^([^()]*)\\((([^()]+[.][^()]*)|\\?)\\)$");
-    //  Matcher matcher = NOTE.matcher(text);
-    //  if (matcher.matches()) {
-    //    writer.append("<alternative>");
-    //    String altText = matcher.group(1).trim();
-    //    String[] words = previous.split(" ");
-    //    int count = altText.replaceAll("[^ ]*", "").length() + 1;
-    //    if (count == 1) {
-    //      String pre = words[words.length - 1];
-    //      if (new Fuzzy().similar(altText, pre)) {
-    //        writer.append("<text>").append(pre.replace("‘‘", "")).append("</text>");
-    //      }
-    //    }
-    //    if (count == 2) {
-    //      String pre1 = words[words.length - 1];
-    //      String pre2 = words[words.length - 2];
-    //      String[] parts = altText.split(" ");
-    //      if (new Fuzzy().similar(parts[0], pre2) && new Fuzzy().similar(parts[1], pre1)) {
-    //        writer.append("<text>").append(pre2.replace("‘‘","")).append(" ").append(pre1.replace("‘‘","")).append(
-    //            "</text>");
-    //      }
-    //      else if (new Fuzzy().similar(altText, pre1)) {
-    //        writer.append("<text>").append(pre1.replace("‘‘","")).append("</text>");
-    //      }
-    //    }
-    //    writer.append("<altText lang=\"").append(matcher.group(2)).append("\">").append(altText).append("</altText>");
-    //    writer.append("</alternative>");
-    //    //text = matcher.group(3);
-    //  }
-    //}
-    //if (text.length() > 0) {
-    //  writer.append("<note>");
-    //  writer.append(text);
-    //  writer.append("</note>");
-    //}
-
   }
 
   public void noteEnd() throws IOException {
