@@ -197,6 +197,9 @@ public class NoteBuilder
         state.nextNumber();
         String name = matcher.group(2);
         Version version = Version.toVersion(name);
+        if (version == null) {
+          System.err.println("notes source: " + name + " " + type);
+        }
         state.append("      <alternative source-abbr=\"").append(version == null ? name : version.getAbbrevation())
             .append("\" source=\"").append(version == null? name : version.getName())
             .append("\">").append(altText)
