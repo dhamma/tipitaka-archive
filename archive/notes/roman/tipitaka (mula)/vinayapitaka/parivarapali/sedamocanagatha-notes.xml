@@ -2,25 +2,25 @@
 <notes archive-path="roman/tipitaka (mula)/vinayapitaka/parivarapali/sedamocanagatha-notes.xml">
   <note line="3" original="no saṃghassa (ka.), no ca saṃghassa (syā.), no ce saṃghassa (sī.)" reference-line="150" id="0">
     <alternatives>
-      <alternative lang="ka.">no saṃghassa</alternative>
-      <alternative lang="vri">no ca saṅghe</alternative>
-      <alternative lang="syā.">no ca saṃghassa</alternative>
-      <alternative lang="sī.">no ce saṃghassa</alternative>
+      <alternative source-abbr="ka." source="cambodian">no saṃghassa</alternative>
+      <alternative source-abbr="vri" source="vipassana research institut">no ca saṅghe</alternative>
+      <alternative source-abbr="syā." source="thai">no ca saṃghassa</alternative>
+      <alternative source-abbr="sī." source="sri lanka">no ce saṃghassa</alternative>
     </alternatives>
     <type>auto</type>
     <previous>Mātaraṃ cīvaraṃ yāce, no ca saṅghe </previous>
   </note>
   <note line="13" original="na kāyikaṃ sunāsitaṃ (syā.)" reference-line="187" id="1">
     <alternatives>
-      <alternative lang="vri">na vācasikaṃ</alternative>
-      <alternative lang="syā.">na kāyikaṃ sunāsitaṃ</alternative>
+      <alternative source-abbr="vri" source="vipassana research institut">na vācasikaṃ</alternative>
+      <alternative source-abbr="syā." source="thai">na kāyikaṃ sunāsitaṃ</alternative>
     </alternatives>
     <type>auto</type>
     <previous> kāyikañca garukaṃ, na kāyikaṃ na vācasikaṃ </previous>
   </note>
   <note line="21" original="viññūvibhāvitā (sī. syā.)" reference-line="196" id="2">
     <alternatives>
-      <alternative lang="sī. syā.">viññūvibhāvitā</alternative>
+      <alternative source-abbr="sī. syā." source="sī. syā.">viññūvibhāvitā</alternative>
     </alternatives>
     <type>no_match</type>
     <previous>Sedamocanikā gāthā, pañhā viññūhi vibhāvitāti </previous>

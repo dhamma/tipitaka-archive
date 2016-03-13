@@ -2,24 +2,24 @@
 <notes archive-path="roman/tipitaka (mula)/suttapitaka/khuddakanikaya/buddhavamsapali/6. sumanabuddhavamso-notes.xml">
   <note line="3" original="koṭisatasahassāni (syā. kaṃ.), koṭisatasahassānaṃ (ka.)" reference-line="25" id="0">
     <alternatives>
-      <alternative lang="syā. kaṃ.">koṭisatasahassāni</alternative>
-      <alternative lang="ka.">koṭisatasahassānaṃ</alternative>
+      <alternative source-abbr="syā. kaṃ." source="syā. kaṃ.">koṭisatasahassāni</alternative>
+      <alternative source-abbr="ka." source="cambodian">koṭisatasahassānaṃ</alternative>
     </alternatives>
     <type>no_match</type>
     <previous>Koṭisahassābhisamiṃsu </previous>
   </note>
   <note line="11" original="mekhalaṃ nāma nagaraṃ (sī. syā.)" reference-line="62" id="1">
     <alternatives>
-      <alternative lang="vri">mekhalaṃ nāma</alternative>
-      <alternative lang="sī. syā.">mekhalaṃ nāma nagaraṃ</alternative>
+      <alternative source-abbr="vri" source="vipassana research institut">mekhalaṃ nāma</alternative>
+      <alternative source-abbr="sī. syā." source="sī. syā.">mekhalaṃ nāma nagaraṃ</alternative>
     </alternatives>
     <type>auto</type>
     <previous> Nagaraṃ mekhalaṃ nāma </previous>
   </note>
   <note line="19" original="uccatarena (ka.)" reference-line="86" id="2">
     <alternatives>
-      <alternative lang="vri">Uccattanena</alternative>
-      <alternative lang="ka.">uccatarena</alternative>
+      <alternative source-abbr="vri" source="vipassana research institut">Uccattanena</alternative>
+      <alternative source-abbr="ka." source="cambodian">uccatarena</alternative>
     </alternatives>
     <type>auto</type>
     <previous> Uccattanena </previous>

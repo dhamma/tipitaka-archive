@@ -2,8 +2,8 @@
 <notes archive-path="roman/anya/ledi sayado gantha-sangaho/niruttidipani/1. sandhikanda-notes.xml">
   <note line="3" original="titālīsa (bahūsu)" reference-line="20" id="0">
     <alternatives>
-      <alternative lang="vri">titālīsaṃ</alternative>
-      <alternative lang="bahūsu">titālīsa</alternative>
+      <alternative source-abbr="vri" source="vipassana research institut">titālīsaṃ</alternative>
+      <alternative source-abbr="bahūsu" source="bahūsu">titālīsa</alternative>
     </alternatives>
     <type>auto</type>
     <previous>Aādayo titālīsaṃ</previous>
@@ -40,9 +40,9 @@
   </note>
   <note line="41" original="rū. 2 (piṭṭhe); nī 6 (piṭṭhe); 23 (suttaṅke)" reference-line="44" id="11">
     <alternatives>
-      <alternative lang="piṭṭhe">rū. 2</alternative>
-      <alternative lang="piṭṭhe">; nī 6</alternative>
-      <alternative lang="suttaṅke">; 23</alternative>
+      <alternative source-abbr="piṭṭhe" source="piṭṭhe">rū. 2</alternative>
+      <alternative source-abbr="piṭṭhe" source="piṭṭhe">; nī 6</alternative>
+      <alternative source-abbr="suttaṅke" source="suttaṅke">; 23</alternative>
     </alternatives>
     <type>no_match</type>
     <previous>Ṭhānaṃ, karaṇaṃ, payatanaṃ </previous>
@@ -52,8 +52,8 @@
   </note>
   <note line="53" original="iyuvaṇṇā (bahūsu)" reference-line="58" id="13">
     <alternatives>
-      <alternative lang="vri">Yuvaṇṇā</alternative>
-      <alternative lang="bahūsu">iyuvaṇṇā</alternative>
+      <alternative source-abbr="vri" source="vipassana research institut">Yuvaṇṇā</alternative>
+      <alternative source-abbr="bahūsu" source="bahūsu">iyuvaṇṇā</alternative>
     </alternatives>
     <type>auto</type>
     <previous>Yuvaṇṇā</previous>
@@ -72,15 +72,15 @@
   </note>
   <note line="73" original="caṃ. 1.1.6; pā. 1.1.72; vidhibbisesanantassa (bahūsu)" reference-line="69" id="18">
     <alternatives>
-      <alternative lang="vri">tassa</alternative>
-      <alternative lang="bahūsu">caṃ. 1.1.6; pā. 1.1.72; vidhibbisesanantassa</alternative>
+      <alternative source-abbr="vri" source="vipassana research institut">tassa</alternative>
+      <alternative source-abbr="bahūsu" source="bahūsu">caṃ. 1.1.6; pā. 1.1.72; vidhibbisesanantassa</alternative>
     </alternatives>
     <type>auto</type>
     <previous>Vidhi visesanaṃ yaṃ tassa</previous>
   </note>
   <note line="81" original="rū. 8 (piṭṭhe); caṃ. 1.1.7; pā. 1.1.66" reference-line="72" id="19">
     <alternatives>
-      <alternative lang="piṭṭhe">rū. 8</alternative>
+      <alternative source-abbr="piṭṭhe" source="piṭṭhe">rū. 8</alternative>
     </alternatives>
     <type>no_match</type>
     <previous>Sattamiyaṃ pubbassa</previous>
@@ -96,8 +96,8 @@
   </note>
   <note line="97" original="dissamāno (mū)" reference-line="79" id="23">
     <alternatives>
-      <alternative lang="vri">sissamāno</alternative>
-      <alternative lang="mū">dissamāno</alternative>
+      <alternative source-abbr="vri" source="vipassana research institut">sissamāno</alternative>
+      <alternative source-abbr="mū" source="mū">dissamāno</alternative>
     </alternatives>
     <type>auto</type>
     <previous>Parassa sissamāno </previous>
@@ -110,8 +110,8 @@
   </note>
   <note line="111" original="caṃ. 1.1.12; pā. 1.1.55; ṭānubandhānekavaṇṇā sabbassa (bahūsu)" reference-line="87" id="26">
     <alternatives>
-      <alternative lang="vri">Ṭānubandhonekavaṇṇo sabbassa</alternative>
-      <alternative lang="bahūsu">caṃ. 1.1.12; pā. 1.1.55; ṭānubandhānekavaṇṇā sabbassa</alternative>
+      <alternative source-abbr="vri" source="vipassana research institut">Ṭānubandhonekavaṇṇo sabbassa</alternative>
+      <alternative source-abbr="bahūsu" source="bahūsu">caṃ. 1.1.12; pā. 1.1.55; ṭānubandhānekavaṇṇā sabbassa</alternative>
     </alternatives>
     <type>auto</type>
     <previous>Ṭānubandhonekavaṇṇo sabbassa</previous>
@@ -133,8 +133,8 @@
   </note>
   <note line="134" original="ntu vantumantvāvantutavantu sambandhī (bahūsu)" reference-line="111" id="32">
     <alternatives>
-      <alternative lang="vri">Ntuvantumantāvantutavantusambandhī</alternative>
-      <alternative lang="bahūsu">ntu vantumantvāvantutavantu sambandhī</alternative>
+      <alternative source-abbr="vri" source="vipassana research institut">Ntuvantumantāvantutavantusambandhī</alternative>
+      <alternative source-abbr="bahūsu" source="bahūsu">ntu vantumantvāvantutavantu sambandhī</alternative>
     </alternatives>
     <type>auto</type>
     <previous>Ntuvantumantāvantutavantusambandhī</previous>
@@ -591,7 +591,7 @@
   </note>
   <note line="592" original="moga. 5-136 (yuvaṇṇāna miya ṅu va ṅa sare)" reference-line="258" id="183">
     <alternatives>
-      <alternative lang="yuvaṇṇāna miya ṅu va ṅa sare">moga. 5-136</alternative>
+      <alternative source-abbr="yuvaṇṇāna miya ṅu va ṅa sare" source="yuvaṇṇāna miya ṅu va ṅa sare">moga. 5-136</alternative>
     </alternatives>
     <type>no_match</type>
     <previous>Yuvaṇṇānamiyaṅuvaṅa</previous>
@@ -601,7 +601,7 @@
   </note>
   <note line="602" original="rū. 33 (piṭṭhe)" reference-line="265" id="185">
     <alternatives>
-      <alternative lang="piṭṭhe">rū. 33</alternative>
+      <alternative source-abbr="piṭṭhe" source="piṭṭhe">rū. 33</alternative>
     </alternatives>
     <type>no_match</type>
     <previous>Vitisseve vā</previous>
@@ -647,7 +647,7 @@
   </note>
   <note line="648" original="jā. 2.22.2161 (dinnamhāti janindena)" reference-line="274" id="199">
     <alternatives>
-      <alternative lang="dinnamhāti janindena">jā. 2.22.2161</alternative>
+      <alternative source-abbr="dinnamhāti janindena" source="dinnamhāti janindena">jā. 2.22.2161</alternative>
     </alternatives>
     <type>no_match</type>
     <previous>, dinnamāsi janindena </previous>
@@ -696,7 +696,7 @@
   </note>
   <note line="697" original="jā. 1.5.110 (na hi no koci pariyāyo)" reference-line="286" id="214">
     <alternatives>
-      <alternative lang="na hi no koci pariyāyo">jā. 1.5.110</alternative>
+      <alternative source-abbr="na hi no koci pariyāyo" source="na hi no koci pariyāyo">jā. 1.5.110</alternative>
     </alternatives>
     <type>no_match</type>
     <previous>, natthi no koci pariyāyo </previous>
@@ -736,7 +736,7 @@
   </note>
   <note line="737" original="rū. 3 (piṭṭhe)" reference-line="311" id="226">
     <alternatives>
-      <alternative lang="piṭṭhe">rū. 3</alternative>
+      <alternative source-abbr="piṭṭhe" source="piṭṭhe">rū. 3</alternative>
     </alternatives>
     <type>no_match</type>
     <previous>ṭaṭhaṇalā</previous>
@@ -1097,7 +1097,7 @@
   </note>
   <note line="1098" original="ka. 35; rū. 21 (piṭṭhe); nī. 56" reference-line="490" id="345">
     <alternatives>
-      <alternative lang="piṭṭhe">ka. 35; rū. 21</alternative>
+      <alternative source-abbr="piṭṭhe" source="piṭṭhe">ka. 35; rū. 21</alternative>
     </alternatives>
     <type>no_match</type>
     <previous>Niggahītaṃ</previous>
@@ -1170,8 +1170,8 @@
   </note>
   <note line="1171" original="caṃ. 6.3.14; pā. 8.1.12; yāvabodhaṃ sambhame (bahūsu)" reference-line="583" id="368">
     <alternatives>
-      <alternative lang="vri">Yāvatātāvaṃ sambhame</alternative>
-      <alternative lang="bahūsu">caṃ. 6.3.14; pā. 8.1.12; yāvabodhaṃ sambhame</alternative>
+      <alternative source-abbr="vri" source="vipassana research institut">Yāvatātāvaṃ sambhame</alternative>
+      <alternative source-abbr="bahūsu" source="bahūsu">caṃ. 6.3.14; pā. 8.1.12; yāvabodhaṃ sambhame</alternative>
     </alternatives>
     <type>auto</type>
     <previous>Yāvatātāvaṃ sambhame</previous>
@@ -1190,7 +1190,7 @@
   </note>
   <note line="1191" original="rū. 40 (piṭṭhe)" reference-line="614" id="373">
     <alternatives>
-      <alternative lang="piṭṭhe">rū. 40</alternative>
+      <alternative source-abbr="piṭṭhe" source="piṭṭhe">rū. 40</alternative>
     </alternatives>
     <type>no_match</type>
     <previous>Ve vā</previous>

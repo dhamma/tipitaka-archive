@@ -17,6 +17,34 @@ public class Notes
 
   enum Type { raw, auto, manual, no_match }
 
+  enum Version {
+    SRI_LANKA("sī."), PALI_TEXT_SOCIETY("pī."), VIPASSANA_RESEARCH_INSTITUT("vri"),
+    CAMBODIAN("ka."), THAI("syā."), UNKNOWN("?");
+
+    private final String abbrevation;
+
+    Version(String abbreviation) {
+      this.abbrevation = abbreviation;
+    }
+
+    String getAbbrevation() {
+      return this.abbrevation;
+    }
+
+    String getName() {
+      return name().toLowerCase().replace("_", " ");
+    }
+
+    static Version toVersion(String name) {
+      for (Version version: values()) {
+        if (version.getAbbrevation().equals(name)) {
+          return version;
+        }
+      }
+      return null;
+    }
+  }
+
   public static class Note
   {
 
@@ -104,24 +132,23 @@ public class Notes
       return sb.toString();
     }
 
-    public String get(final String lang) {
+    public String getVRI() {
       for (Alternative alternative: alternatives) {
-        if (lang.equals(alternative.lang)) {
+        if (Version.VIPASSANA_RESEARCH_INSTITUT == Version.toVersion(alternative.sourceAbbreviation)) {
           return alternative.text;
         }
       }
       return null;
     }
-
-    public String getVRI() {
-      return get("vri");
-    }
   }
 
   public static class Alternative
   {
+    @JacksonXmlProperty(isAttribute = true, localName = "source-abbr")
+    public String sourceAbbreviation;
+
     @JacksonXmlProperty(isAttribute = true)
-    public String lang;
+    public String source;
 
     @JacksonXmlText
     public String text;
@@ -137,7 +164,7 @@ public class Notes
 
       Alternative that = (Alternative) o;
 
-      if (!lang.equals(that.lang)) {
+      if (!sourceAbbreviation.equals(that.sourceAbbreviation)) {
         return false;
       }
       return text.equals(that.text);
@@ -146,7 +173,7 @@ public class Notes
 
     @Override
     public int hashCode() {
-      int result = lang.hashCode();
+      int result = sourceAbbreviation.hashCode();
       result = 31 * result + text.hashCode();
       return result;
     }
@@ -154,7 +181,7 @@ public class Notes
     @Override
     public String toString() {
       final StringBuilder sb = new StringBuilder("Alternative{");
-      sb.append("lang='").append(lang).append('\'');
+      sb.append("lang='").append(sourceAbbreviation).append('\'');
       sb.append(", text='").append(text).append('\'');
       sb.append('}');
       return sb.toString();

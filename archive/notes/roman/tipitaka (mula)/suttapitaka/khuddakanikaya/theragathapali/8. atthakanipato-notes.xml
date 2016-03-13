@@ -2,38 +2,38 @@
 <notes archive-path="roman/tipitaka (mula)/suttapitaka/khuddakanikaya/theragathapali/8. atthakanipato-notes.xml">
   <note line="3" original="yathā vetti (sī.)" reference-line="14" id="0">
     <alternatives>
-      <alternative lang="vri">yathāvedi</alternative>
-      <alternative lang="sī.">yathā vetti</alternative>
+      <alternative source-abbr="vri" source="vipassana research institut">yathāvedi</alternative>
+      <alternative source-abbr="sī." source="sri lanka">yathā vetti</alternative>
     </alternatives>
     <type>auto</type>
     <previous>Attā ca naṃ yathāvedi </previous>
   </note>
   <note line="11" original="abhāvena (sī. aṭṭha.)" reference-line="20" id="1">
     <alternatives>
-      <alternative lang="sī. aṭṭha.">abhāvena</alternative>
+      <alternative source-abbr="sī. aṭṭha." source="sī. aṭṭha.">abhāvena</alternative>
     </alternatives>
     <type>no_match</type>
     <previous>Paññāya ca alābhena </previous>
   </note>
   <note line="18" original="passetha (ka.)" reference-line="27" id="2">
     <alternatives>
-      <alternative lang="vri">sayetha</alternative>
-      <alternative lang="ka.">passetha</alternative>
+      <alternative source-abbr="vri" source="vipassana research institut">sayetha</alternative>
+      <alternative source-abbr="ka." source="cambodian">passetha</alternative>
     </alternatives>
     <type>auto</type>
     <previous>Atha atthe samuppanne, sayetha </previous>
   </note>
   <note line="26" original="yo (syā.)" reference-line="38" id="3">
     <alternatives>
-      <alternative lang="syā.">yo</alternative>
+      <alternative source-abbr="syā." source="thai">yo</alternative>
     </alternatives>
     <type>no_match</type>
     <previous>Kalyāṇasīlo so </previous>
   </note>
   <note line="33" original="vivasane (sī. syā.)" reference-line="78" id="4">
     <alternatives>
-      <alternative lang="vri">vivasāne</alternative>
-      <alternative lang="sī. syā.">vivasane</alternative>
+      <alternative source-abbr="vri" source="vipassana research institut">vivasāne</alternative>
+      <alternative source-abbr="sī. syā." source="sī. syā.">vivasane</alternative>
     </alternatives>
     <type>auto</type>
     <previous> ratyā vivasāne </previous>

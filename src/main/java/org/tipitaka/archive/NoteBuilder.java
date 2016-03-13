@@ -14,6 +14,7 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.dataformat.xml.XmlMapper;
 import org.tipitaka.archive.Notes.Note;
 import org.tipitaka.archive.Notes.Type;
+import org.tipitaka.archive.Notes.Version;
 import org.tipitaka.search.Script;
 import org.tipitaka.search.ScriptFactory;
 
@@ -45,6 +46,7 @@ public class NoteBuilder
           notes = xmlMapper.readValue(new FileReader(file), Notes.class);
         }
         catch (IOException e) {
+          //e.printStackTrace();
           // ignore and create a new one
         }
       }
@@ -130,7 +132,7 @@ public class NoteBuilder
 
         state.nextNumber();
         state.append("    <alternatives>\n");
-        Type type = appendAlternatives(text, previous, isManual ? note.get("vri") : null);
+        Type type = appendAlternatives(text, previous, isManual ? note.getVRI() : null);
         state.nextNumber();
         state.append("    </alternatives>\n");
         state.nextNumber();
@@ -166,7 +168,9 @@ public class NoteBuilder
     if (manual != null) {
       count ++;
       state.nextNumber();
-      state.append("      <alternative lang=\"vri\">").append(manual) .append("</alternative>\n");
+      state.append("      <alternative source-abbr=\"").append(Version.VIPASSANA_RESEARCH_INSTITUT.getAbbrevation())
+          .append("\" source=\"").append(Version.VIPASSANA_RESEARCH_INSTITUT.getName()).append("\">")
+          .append(manual).append("</alternative>\n");
     }
 
     Type type = manual == null ? Type.no_match : Type.manual;
@@ -183,20 +187,25 @@ public class NoteBuilder
             type = Type.auto;
             count ++;
             state.nextNumber();
-            state.append("      <alternative lang=\"vri\">").append(found.replaceFirst("^‘‘", ""))
-                .append("</alternative>\n");
+            state.append("      <alternative source-abbr=\"").append(Version.VIPASSANA_RESEARCH_INSTITUT.getAbbrevation())
+                .append("\" source=\"").append(Version.VIPASSANA_RESEARCH_INSTITUT.getName()).append("\">")
+                .append(found.replaceFirst("^‘‘", "")).append("</alternative>\n");
           }
         }
         final String altText = matcher.group(1).trim();
         count ++;
         state.nextNumber();
-        state.append("      <alternative lang=\"").append(matcher.group(2)).append("\">").append(altText)
+        String name = matcher.group(2);
+        Version version = Version.toVersion(name);
+        state.append("      <alternative source-abbr=\"").append(version == null ? name : version.getAbbrevation())
+            .append("\" source=\"").append(version == null? name : version.getName())
+            .append("\">").append(altText)
             .append("</alternative>\n");
       }
     }
     if (count == 0) {
       state.nextNumber();
-      state.append("      <alternative lang=\"dummy\"></alternative>\n");
+      state.append("      <alternative source-abbr=\"dummy\" source=\"dummy\"></alternative>\n");
     }
     return type;
   }
