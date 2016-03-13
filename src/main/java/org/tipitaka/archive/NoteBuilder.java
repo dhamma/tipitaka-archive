@@ -125,7 +125,6 @@ public class NoteBuilder
           .append("\" reference-line=\"").append(state.getLineNumber())
           .append("\" id=\"").append(state.nextId()).append("\">\n");
       if (text.contains(")") && !text.startsWith("(")) {
-        state.nextNumber();
         Note note = notes.get(id);
         boolean isManual = note != null && Type.manual == note.type;
 
@@ -196,6 +195,7 @@ public class NoteBuilder
       }
     }
     if (count == 0) {
+      state.nextNumber();
       state.append("      <alternative lang=\"dummy\"></alternative>\n");
     }
     return type;
