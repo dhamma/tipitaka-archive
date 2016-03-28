@@ -3,24 +3,22 @@ package org.tipitaka.archive;
 import java.io.File;
 import java.io.IOException;
 import java.io.Writer;
-import java.lang.reflect.Constructor;
-import java.lang.reflect.InvocationTargetException;
-import java.lang.reflect.ParameterizedType;
 
 import org.tipitaka.search.DirectoryStructure;
 import org.tipitaka.search.Script;
 import org.tipitaka.search.TipitakaUrlFactory;
-import org.xmlpull.v1.XmlPullParserException;
 
 /**
  * Created by cmeier on 3/6/16.
  */
-abstract class BuilderFactory<T extends Builder>
+abstract class BuilderFactory<T extends BaseBuilder>
 {
 
   private final DirectoryStructure directory;
 
   private final TipitakaUrlFactory urlFactory;
+
+  private final File archiveDirectory;
 
   public BuilderFactory() throws IOException {
     this(new Layout());
@@ -31,6 +29,11 @@ abstract class BuilderFactory<T extends Builder>
     this.urlFactory = new TipitakaUrlFactory(layout.tipitakaOrgMirror());
     this.directory = new DirectoryStructure(urlFactory);
     this.directory.load(layout.directoryMap());
+    this.archiveDirectory = layout.dataArchive();
+  }
+
+  public File getArchiveDirectory() {
+    return archiveDirectory;
   }
 
   public DirectoryStructure getDirectory() {

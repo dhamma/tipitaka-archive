@@ -10,10 +10,9 @@ import org.tipitaka.search.Script;
 /**
  * Created by cmeier on 3/6/16.
  */
-public interface Builder extends Closeable
+public interface LegacyBuilder
+    extends BaseBuilder
 {
-
-  void flush() throws IOException;
 
   void documentStart(Script script, String path) throws IOException;
 
@@ -28,8 +27,6 @@ public interface Builder extends Closeable
   void paraEnd() throws IOException;
 
   void noteStart() throws IOException;
-
-  void text(String text) throws IOException;
 
   void noteEnd() throws IOException;
 

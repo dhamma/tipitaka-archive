@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <notes archive-path="roman/tipitaka (mula)/suttapitaka/khuddakanikaya/dhammapadapali/21. pakinnakavaggo-notes.xml">
   <note line="3" original="yo attano (syā. pī. ka.)" reference-line="6" id="0">
+    <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">attano</alternative>
       <alternative source-abbr="syā. pī. ka." source="syā. pī. ka.">yo attano</alternative>
@@ -9,6 +10,7 @@
     <previous> Paradukkhūpadhānena, attano </previous>
   </note>
   <note line="11" original="tadapaviddhaṃ (sī. syā.)" reference-line="9" id="1">
+    <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">apaviddhaṃ</alternative>
       <alternative source-abbr="sī. syā." source="sī. syā.">tadapaviddhaṃ</alternative>
@@ -17,14 +19,16 @@
     <previous> kiccaṃ apaviddhaṃ </previous>
   </note>
   <note line="19" original="tasmā na caddhagū na ca (ka.)" reference-line="42" id="2">
+    <extra></extra>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">na ca</alternative>
+      <alternative source-abbr="vri" source="vipassana research institut">na caddhagū siyā, na ca</alternative>
       <alternative source-abbr="ka." source="cambodian">tasmā na caddhagū na ca</alternative>
     </alternatives>
     <type>auto</type>
     <previous>Tasmā na caddhagū siyā, na ca </previous>
   </note>
   <note line="27" original="dukkhānupātito (?)" reference-line="42" id="3">
+    <extra></extra>
     <alternatives>
       <alternative source-abbr="?" source="unknown">dukkhānupātito</alternative>
     </alternatives>

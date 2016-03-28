@@ -7,6 +7,7 @@ import java.io.IOException;
 import java.io.OutputStreamWriter;
 import java.io.Writer;
 import java.util.LinkedList;
+import java.util.List;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
@@ -20,7 +21,7 @@ import org.tipitaka.search.ScriptFactory;
 
 
 public class NoteBuilder
-    extends NoopBuilder
+    extends NoopLegacyBuilder
 {
 
   public static final String NOTE = "__NOTE__";
@@ -60,7 +61,7 @@ public class NoteBuilder
 
   static public void main(String... args) throws Exception {
 
-    TipitakaVisitor visitor = new TipitakaVisitor(new BuilderFactory());
+    LegacyVisitor visitor = new LegacyVisitor(new BuilderFactory());
 
     String file =
         //"/tipitaka (mula)/vinayapitaka/parajikapali/veranjakandam";
@@ -131,8 +132,11 @@ public class NoteBuilder
         boolean isManual = note != null && Type.manual == note.type;
 
         state.nextNumber();
+        LinkedList<String> sections = new LinkedList<>();
+        String extraNote = fillSections(text, sections);
+        state.append("    <extra>").append(extraNote).append("</extra>\n");
         state.append("    <alternatives>\n");
-        Type type = appendAlternatives(text, previous, isManual ? note.getVRI() : null);
+        Type type = appendAlternatives(sections, previous, isManual ? note.getVRI() : null);
         state.nextNumber();
         state.append("    </alternatives>\n");
         state.nextNumber();
@@ -156,14 +160,20 @@ public class NoteBuilder
 
   private final static Pattern ALT_TEXT = Pattern.compile("^([^()]*)\\((([^()]+[.]?[^()]*)|\\?)\\)$");
 
-  private Type appendAlternatives(String text, String previous, String manual) throws IOException {
-    LinkedList<String> sections = new LinkedList<>();
-    String current = text;
+  private String fillSections(String current, List<String> sections) {
+    String last = current;
     for (int i = current.indexOf(')'); i > -1; i = current.indexOf(')')) {
       sections.add(current.substring(0, i + 1));
-      current = current.substring(i + 1).replaceFirst(", ?", "");
+      last = current.substring(i + 1);
+      current = last.replaceFirst("^, ?", "");
     }
+    if (last.length() > 0) {
+      return last;
+    }
+    return "";
+  }
 
+  private Type appendAlternatives(final List<String> sections, final String previous, final String manual) throws IOException {
     int count = 0;
     if (manual != null) {
       count ++;
@@ -184,21 +194,33 @@ public class NoteBuilder
               previous.trim().replaceAll("–|’’$", "").replaceFirst("^.*[;]", "").replaceAll("[,\\.‘]", "")
                   .replaceAll("  ", " ").trim());
           if (found != null && manual == null) {
+            if (previous.endsWith("’’ti ") && found.endsWith("ti")) {
+              found = found.substring(0, found.length() - 2) + "’’ti";
+            }
+            int index = found.indexOf(" ");
+            if (index > -1) {
+              found = previous.substring(previous.indexOf(found.substring(0, index))).trim();
+            }
             type = Type.auto;
             count ++;
             state.nextNumber();
             state.append("      <alternative source-abbr=\"").append(Version.VIPASSANA_RESEARCH_INSTITUT.getAbbrevation())
                 .append("\" source=\"").append(Version.VIPASSANA_RESEARCH_INSTITUT.getName()).append("\">")
-                .append(found.replaceFirst("^‘‘", "")).append("</alternative>\n");
+                .append(found).append("</alternative>\n");
           }
         }
-        final String altText = matcher.group(1).trim();
+
+        String altText = matcher.group(1).trim();
         count ++;
         state.nextNumber();
         String name = matcher.group(2);
         Version version = Version.toVersion(name);
         if (version == null) {
           System.err.println("notes source: " + name + " " + type);
+        }
+        if (previous.endsWith("’’ti ") && altText.contains("ti") && found != null && found.endsWith("’’ti")) {
+          int index = altText.lastIndexOf("ti");
+          altText = altText.substring(0, index) + "’’" + altText.substring(index);
         }
         state.append("      <alternative source-abbr=\"").append(version == null ? name : version.getAbbrevation())
             .append("\" source=\"").append(version == null? name : version.getName())

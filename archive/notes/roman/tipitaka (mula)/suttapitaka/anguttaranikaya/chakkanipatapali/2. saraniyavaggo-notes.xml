@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <notes archive-path="roman/tipitaka (mula)/suttapitaka/anguttaranikaya/chakkanipatapali/2. saraniyavaggo-notes.xml">
   <note line="3" original="sārāṇīyā (sī. syā. kaṃ. pī.)" reference-line="3" id="0">
+    <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">sāraṇīyā</alternative>
       <alternative source-abbr="sī. syā. kaṃ. pī." source="sī. syā. kaṃ. pī.">sārāṇīyā</alternative>
@@ -9,6 +10,7 @@
     <previous>, bhikkhave, dhammā sāraṇīyā </previous>
   </note>
   <note line="11" original="ṭhassatīti (sabbattha) dī. ni. 3.326 passitabbaṃ" reference-line="16" id="1">
+    <extra> dī. ni. 3.326 passitabbaṃ</extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">ṭhassati</alternative>
       <alternative source-abbr="sabbattha" source="sabbattha">ṭhassatīti</alternative>
@@ -17,14 +19,16 @@
     <previous> panassa byāpādo cittaṃ pariyādāya ṭhassati </previous>
   </note>
   <note line="19" original="mettācetovimutti (sabbattha)" reference-line="16" id="2">
+    <extra></extra>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">mettācetovimuttī’ti</alternative>
-      <alternative source-abbr="sabbattha" source="sabbattha">mettācetovimutti</alternative>
+      <alternative source-abbr="vri" source="vipassana research institut">mettācetovimuttī’’’ti</alternative>
+      <alternative source-abbr="sabbattha" source="sabbattha">mettācetovimut’’ti</alternative>
     </alternatives>
     <type>auto</type>
     <previous>, netaṃ ṭhānaṃ vijjati. Nissaraṇañhetaṃ, āvuso, byāpādassa yadidaṃ mettācetovimuttī’’’ti </previous>
   </note>
   <note line="27" original="vigate (syā.)" reference-line="21" id="3">
+    <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">vigataṃ</alternative>
       <alternative source-abbr="syā." source="thai">vigate</alternative>
@@ -36,6 +40,7 @@
     <type>raw</type>
   </note>
   <note line="38" original="kālaṃkiriyā (ka.) a. ni. 3.110" reference-line="24" id="5">
+    <extra> a. ni. 3.110</extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">kālakiriyā</alternative>
       <alternative source-abbr="ka." source="cambodian">kālaṃkiriyā</alternative>
@@ -44,6 +49,7 @@
     <previous>Tathā tathā, āvuso, bhikkhu vihāraṃ kappeti yathā yathāssa vihāraṃ kappayato na bhaddakaṃ maraṇaṃ hoti, na bhaddikā kālakiriyā </previous>
   </note>
   <note line="46" original="na pahāsi (sī. syā. kaṃ. pī.)" reference-line="25" id="6">
+    <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">nappajahāsi</alternative>
       <alternative source-abbr="sī. syā. kaṃ. pī." source="sī. syā. kaṃ. pī.">na pahāsi</alternative>
@@ -52,6 +58,7 @@
     <previous>Idhāvuso, bhikkhu kammārāmo hoti kammarato kammārāmataṃ anuyutto, bhassārāmo hoti bhassarato bhassārāmataṃ anuyutto, niddārāmo hoti niddārato niddārāmataṃ anuyutto, saṅgaṇikārāmo hoti saṅgaṇikarato saṅgaṇikārāmataṃ anuyutto, saṃsaggārāmo hoti saṃsaggarato saṃsaggārāmataṃ anuyutto, papañcārāmo hoti papañcarato papañcārāmataṃ anuyutto. Evaṃ kho, āvuso, bhikkhu tathā tathā vihāraṃ kappeti yathā yathāssa vihāraṃ kappayato na bhaddakaṃ maraṇaṃ hoti, na bhaddikā kālakiriyā. Ayaṃ vuccatāvuso – ‘bhikkhu sakkāyābhirato nappajahāsi </previous>
   </note>
   <note line="54" original="suṃsumāragire (sī. pī.), saṃsumāragire (katthaci)" reference-line="42" id="7">
+    <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">susumāragire</alternative>
       <alternative source-abbr="sī. pī." source="sī. pī.">suṃsumāragire</alternative>
@@ -61,6 +68,7 @@
     <previous> Ekaṃ samayaṃ bhagavā bhaggesu viharati susumāragire </previous>
   </note>
   <note line="63" original="sāpekho (pī. ka.)" reference-line="43" id="8">
+    <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">sāpekkho</alternative>
       <alternative source-abbr="pī. ka." source="pī. ka.">sāpekho</alternative>
@@ -69,6 +77,7 @@
     <previous>Mā kho tvaṃ, gahapati, sāpekkho </previous>
   </note>
   <note line="71" original="na sakkhissati (sī. syā. kaṃ.), sakkoti (pī. ka.)" reference-line="43" id="9">
+    <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">mamaccayena sakkhissati</alternative>
       <alternative source-abbr="sī. syā. kaṃ." source="sī. syā. kaṃ.">na sakkhissati</alternative>
@@ -78,6 +87,7 @@
     <previous> kālamakāsi. Dukkhā, gahapati, sāpekkhassa kālakiriyā; garahitā ca bhagavatā sāpekkhassa kālakiriyā. Siyā kho pana te, gahapati, evamassa – ‘na nakulamātā gahapatānī mamaccayena sakkhissati </previous>
   </note>
   <note line="80" original="sandharitunti (ka.), saṇṭharituṃ (syā.)" reference-line="43" id="10">
+    <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">sandharitu’nti</alternative>
       <alternative source-abbr="ka." source="cambodian">sandharitunti</alternative>
@@ -87,6 +97,7 @@
     <previous> dārake posetuṃ, gharāvāsaṃ sandharitu’nti </previous>
   </note>
   <note line="89" original="bhattāraṃ (syā. kaṃ.), vīraṃ (sī.)" reference-line="44" id="11">
+    <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">gharaṃ</alternative>
       <alternative source-abbr="syā. kaṃ." source="syā. kaṃ.">bhattāraṃ</alternative>
@@ -96,6 +107,7 @@
     <previous>Siyā kho pana te, gahapati, evamassa – ‘nakulamātā gahapatānī mamaccayena aññaṃ gharaṃ </previous>
   </note>
   <note line="98" original="yadā te (sī.), yathā (syā.), yathā no (pī.)" reference-line="44" id="12">
+    <extra></extra>
     <alternatives>
       <alternative source-abbr="sī." source="sri lanka">yadā te</alternative>
       <alternative source-abbr="syā." source="thai">yathā</alternative>
@@ -106,6 +118,7 @@
     <previous> gamissatī’ti. Na kho panetaṃ, gahapati, evaṃ daṭṭhabbaṃ. Tvañceva kho, gahapati, jānāsi ahañca, yaṃ no </previous>
   </note>
   <note line="108" original="samādinnaṃ (sī.)" reference-line="44" id="13">
+    <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">samāciṇṇaṃ</alternative>
       <alternative source-abbr="sī." source="sri lanka">samādinnaṃ</alternative>
@@ -114,6 +127,7 @@
     <previous> soḷasavassāni gahaṭṭhakaṃ brahmacariyaṃ samāciṇṇaṃ </previous>
   </note>
   <note line="116" original="nakulamātā… na sīlesu (sī. pī.)" reference-line="46" id="14">
+    <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">mamaccayena sīlesu</alternative>
       <alternative source-abbr="sī. pī." source="sī. pī.">nakulamātā… na sīlesu</alternative>
@@ -122,6 +136,7 @@
     <previous>Siyā kho pana te, gahapati, evamassa – ‘na nakulamātā gahapatānī mamaccayena sīlesu </previous>
   </note>
   <note line="124" original="nakulamātā gahapatānī na lābhinī (pī.)" reference-line="47" id="15">
+    <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">nakulamātā gahapatānī lābhinī</alternative>
       <alternative source-abbr="pī." source="pali text society">nakulamātā gahapatānī na lābhinī</alternative>
@@ -130,6 +145,7 @@
     <previous> kho pana te, gahapati, evamassa – ‘na nakulamātā gahapatānī lābhinī </previous>
   </note>
   <note line="132" original="nakulamātāya (sī. syā.), nakulamātuyā (ka.)" reference-line="49" id="16">
+    <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">nakulamātarā</alternative>
       <alternative source-abbr="sī. syā." source="sī. syā.">nakulamātāya</alternative>
@@ -139,6 +155,7 @@
     <previous>Atha kho nakulapituno gahapatissa nakulamātarā </previous>
   </note>
   <note line="141" original="vuṭṭhāti (ka.)" reference-line="49" id="17">
+    <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">Vuṭṭhahi</alternative>
       <alternative source-abbr="ka." source="cambodian">vuṭṭhāti</alternative>
@@ -150,6 +167,7 @@
     <type>raw</type>
   </note>
   <note line="152" original="mahākoṭṭhito (sī. pī.)" reference-line="52" id="19">
+    <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">mahākoṭṭhiko</alternative>
       <alternative source-abbr="sī. pī." source="sī. pī.">mahākoṭṭhito</alternative>
@@ -158,6 +176,7 @@
     <previous> abhivādetvā ekamantaṃ nisīdi. Āyasmāpi kho mahāmoggallāno…pe… āyasmāpi kho mahākassapo… āyasmāpi kho mahākaccāyano… āyasmāpi kho mahākoṭṭhiko </previous>
   </note>
   <note line="160" original="kena no (ka.), ke nu (katthaci)" reference-line="53" id="20">
+    <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">Kena no</alternative>
       <alternative source-abbr="ka." source="cambodian">kena no</alternative>
@@ -167,6 +186,7 @@
     <previous>Kahaṃ nu kho, bhikkhave, sāriputto? Kahaṃ mahāmoggallāno? Kahaṃ mahākassapo? Kahaṃ mahākaccāyano? Kahaṃ mahākoṭṭhiko? Kahaṃ mahācundo? Kahaṃ mahākappino? Kahaṃ anuruddho? Kahaṃ revato? Kahaṃ ānando? Kahaṃ nu kho te, bhikkhave, therā sāvakā gatā’’ti? Tepi kho, bhante, āyasmanto acirapakkantassa bhagavato uṭṭhāyāsanā yathāvihāraṃ agamaṃsū’’ti. Kena no </previous>
   </note>
   <note line="169" original="bhikkhū navā (sī. syā. kaṃ. pī.), bhikkhū gatāti (?)" reference-line="53" id="21">
+    <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">bhikkhū nāgatāti</alternative>
       <alternative source-abbr="sī. syā. kaṃ. pī." source="sī. syā. kaṃ. pī.">bhikkhū navā</alternative>
@@ -176,6 +196,7 @@
     <previous> tumhe, bhikkhave, therā bhikkhū nāgatāti </previous>
   </note>
   <note line="178" original="muddhābhisitto (ka.)" reference-line="53" id="22">
+    <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">muddhābhisitto</alternative>
       <alternative source-abbr="ka." source="cambodian">muddhābhisitto</alternative>
@@ -184,6 +205,7 @@
     <previous> vā – ‘rājā khattiyo muddhābhisitto </previous>
   </note>
   <note line="186" original="gāmagāmiko (sī. pī.)" reference-line="54" id="23">
+    <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">gāmagāmaṇiko</alternative>
       <alternative source-abbr="sī. pī." source="sī. pī.">gāmagāmiko</alternative>
@@ -192,6 +214,7 @@
     <previous>Taṃ kiṃ maññatha, bhikkhave, api nu tumhehi diṭṭhaṃ vā sutaṃ vā – ‘raṭṭhiko…pe… pettaṇiko… senāpatiko… gāmagāmaṇiko </previous>
   </note>
   <note line="194" original="bodhapakkhiyānaṃ (sī.), bodhapakkhikānaṃ (pī.)" reference-line="55" id="24">
+    <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">bodhipakkhiyānaṃ</alternative>
       <alternative source-abbr="sī." source="sri lanka">bodhapakkhiyānaṃ</alternative>
@@ -201,6 +224,7 @@
     <previous> kiṃ maññatha, bhikkhave, api nu tumhehi diṭṭhaṃ vā sutaṃ vā – ‘samaṇo vā brāhmaṇo vā yāvadatthaṃ seyyasukhaṃ passasukhaṃ middhasukhaṃ anuyutto indriyesu aguttadvāro bhojane amattaññū jāgariyaṃ ananuyutto avipassako kusalānaṃ dhammānaṃ pubbarattāpararattaṃ bodhipakkhiyānaṃ </previous>
   </note>
   <note line="203" original="vadhāyānīte (syā. kaṃ.), vadhāya nīte (ka.)" reference-line="59" id="25">
+    <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">vadhāyupanīte</alternative>
       <alternative source-abbr="syā. kaṃ." source="syā. kaṃ.">vadhāyānīte</alternative>
@@ -210,6 +234,7 @@
     <previous> vā mahantaṃ vā bhogakkhandhaṃ ajjhāvasanto’ti. Taṃ kissa hetu? Te hi so, bhikkhave, macche vajjhe vadhāyupanīte </previous>
   </note>
   <note line="212" original="sokariko (syā.)" reference-line="61" id="26">
+    <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">sūkariko</alternative>
       <alternative source-abbr="syā." source="thai">sokariko</alternative>
@@ -218,6 +243,7 @@
     <previous> sutaṃ vā – ‘orabbhiko…pe… sūkariko </previous>
   </note>
   <note line="220" original="mige (syā. kaṃ.)" reference-line="61" id="27">
+    <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">mage</alternative>
       <alternative source-abbr="syā. kaṃ." source="syā. kaṃ.">mige</alternative>
@@ -229,6 +255,7 @@
     <type>raw</type>
   </note>
   <note line="231" original="manasānupekkhati, tasmā so (syā. ka.)" reference-line="61" id="29">
+    <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">manasānupekkhamāno</alternative>
       <alternative source-abbr="syā. ka." source="syā. ka.">manasānupekkhati, tasmā so</alternative>
@@ -237,6 +264,7 @@
     <previous> so, bhikkhave, tiracchānagate pāṇe vajjhe vadhāyupanīte pāpakena manasānupekkhamāno </previous>
   </note>
   <note line="239" original="hoti (syā. ka.)" reference-line="61" id="30">
+    <extra></extra>
     <alternatives>
       <alternative source-abbr="syā. ka." source="syā. ka.">hoti</alternative>
     </alternatives>
@@ -244,6 +272,7 @@
     <previous> neva hatthiyāyī bhavissati </previous>
   </note>
   <note line="246" original="ajjhāvasati (syā. ka.)" reference-line="61" id="31">
+    <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">ajjhāvasissati</alternative>
       <alternative source-abbr="syā. ka." source="syā. ka.">ajjhāvasati</alternative>
@@ -252,6 +281,7 @@
     <previous> na assayāyī na rathayāyī na yānayāyī na bhogabhogī, na mahantaṃ bhogakkhandhaṃ ajjhāvasissati </previous>
   </note>
   <note line="254" original="taṃ hissa (pī. ka.)" reference-line="61" id="32">
+    <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">Tañhi tassa</alternative>
       <alternative source-abbr="pī. ka." source="pī. ka.">taṃ hissa</alternative>
@@ -260,6 +290,7 @@
     <previous>. Ko pana vādo yaṃ manussabhūtaṃ vajjhaṃ vadhāyupanītaṃ pāpakena manasānupekkhati! Tañhi tassa </previous>
   </note>
   <note line="262" original="nādike (sī. syā. kaṃ. pī.) a. ni. 8.73" reference-line="63" id="33">
+    <extra> a. ni. 8.73</extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">nātike</alternative>
       <alternative source-abbr="sī. syā. kaṃ. pī." source="sī. syā. kaṃ. pī.">nādike</alternative>
@@ -268,6 +299,7 @@
     <previous> Ekaṃ samayaṃ bhagavā nātike </previous>
   </note>
   <note line="270" original="saṅkharitvā (ka.)" reference-line="67" id="34">
+    <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">saṅkhāditvā</alternative>
       <alternative source-abbr="ka." source="cambodian">saṅkharitvā</alternative>
@@ -276,6 +308,7 @@
     <previous>Aññataropi kho bhikkhu bhagavantaṃ etadavoca – ahampi kho, bhante, bhāvemi maraṇassati’’nti. Yathā kathaṃ pana tvaṃ, bhikkhu, bhāvesi maraṇassati’’nti? Idha mayhaṃ, bhante, evaṃ hoti – ‘aho vatāhaṃ tadantaraṃ jīveyyaṃ yadantaraṃ cattāro pañca ālope saṅkhāditvā </previous>
   </note>
   <note line="278" original="saṃharitvā (ka.)" reference-line="68" id="35">
+    <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">saṅkhāditvā</alternative>
       <alternative source-abbr="ka." source="cambodian">saṃharitvā</alternative>
@@ -284,6 +317,7 @@
     <previous> kho, bhante, bhāvemi maraṇassati’’nti. Yathā kathaṃ pana tvaṃ, bhikkhu, bhāvesi maraṇassati’’nti? Idha mayhaṃ, bhante, evaṃ hoti – ‘aho vatāhaṃ tadantaraṃ jīveyyaṃ yadantaraṃ ekaṃ ālopaṃ saṅkhāditvā </previous>
   </note>
   <note line="286" original="yvāyaṃ (pī. ka.)" reference-line="70" id="36">
+    <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">cāyaṃ</alternative>
       <alternative source-abbr="pī. ka." source="pī. ka.">yvāyaṃ</alternative>
@@ -292,6 +326,7 @@
     <previous>Evaṃ vutte bhagavā te bhikkhū etadavoca – yo cāyaṃ </previous>
   </note>
   <note line="294" original="yopāyaṃ (ka.)" reference-line="71" id="37">
+    <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">cāyaṃ</alternative>
       <alternative source-abbr="ka." source="cambodian">yopāyaṃ</alternative>
@@ -300,6 +335,7 @@
     <previous>Yo cāyaṃ </previous>
   </note>
   <note line="302" original="yopāyaṃ (ka.)" reference-line="74" id="38">
+    <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">khvāyaṃ</alternative>
       <alternative source-abbr="ka." source="cambodian">yopāyaṃ</alternative>
@@ -308,6 +344,7 @@
     <previous>Yo ca khvāyaṃ </previous>
   </note>
   <note line="310" original="paṭigatāya (ka.) a. ni. 8.74" reference-line="79" id="39">
+    <extra> a. ni. 8.74</extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">patihitāya</alternative>
       <alternative source-abbr="ka." source="cambodian">paṭigatāya</alternative>

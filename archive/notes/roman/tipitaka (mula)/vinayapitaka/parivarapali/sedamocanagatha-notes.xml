@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <notes archive-path="roman/tipitaka (mula)/vinayapitaka/parivarapali/sedamocanagatha-notes.xml">
   <note line="3" original="no saṃghassa (ka.), no ca saṃghassa (syā.), no ce saṃghassa (sī.)" reference-line="150" id="0">
+    <extra></extra>
     <alternatives>
       <alternative source-abbr="ka." source="cambodian">no saṃghassa</alternative>
       <alternative source-abbr="vri" source="vipassana research institut">no ca saṅghe</alternative>
@@ -11,14 +12,16 @@
     <previous>Mātaraṃ cīvaraṃ yāce, no ca saṅghe </previous>
   </note>
   <note line="13" original="na kāyikaṃ sunāsitaṃ (syā.)" reference-line="187" id="1">
+    <extra></extra>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">na vācasikaṃ</alternative>
+      <alternative source-abbr="vri" source="vipassana research institut">na kāyikaṃ na vācasikaṃ</alternative>
       <alternative source-abbr="syā." source="thai">na kāyikaṃ sunāsitaṃ</alternative>
     </alternatives>
     <type>auto</type>
     <previous> kāyikañca garukaṃ, na kāyikaṃ na vācasikaṃ </previous>
   </note>
   <note line="21" original="viññūvibhāvitā (sī. syā.)" reference-line="196" id="2">
+    <extra></extra>
     <alternatives>
       <alternative source-abbr="sī. syā." source="sī. syā.">viññūvibhāvitā</alternative>
     </alternatives>

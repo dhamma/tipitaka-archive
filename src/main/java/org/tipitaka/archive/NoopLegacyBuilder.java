@@ -2,7 +2,6 @@ package org.tipitaka.archive;
 
 import java.io.IOException;
 import java.io.Writer;
-import java.net.URL;
 import java.util.Collections;
 import java.util.LinkedList;
 import java.util.List;
@@ -13,8 +12,8 @@ import org.tipitaka.search.Script;
 /**
  * Created by cmeier on 3/6/16.
  */
-public class NoopBuilder
-    implements Builder
+public class NoopLegacyBuilder
+    implements LegacyBuilder
 {
 
 
@@ -22,7 +21,7 @@ public class NoopBuilder
 
   protected final BuilderFactory factory;
 
-  protected NoopBuilder(Writer writer, BuilderFactory factory) {
+  protected NoopLegacyBuilder(Writer writer, BuilderFactory factory) {
     this.state = new State(writer);
     this.factory = factory;
   }
@@ -37,7 +36,7 @@ public class NoopBuilder
     state.close();
   }
 
-  protected Builder appendTitle(Map<String, String> breadCrumbs) throws IOException {
+  protected LegacyBuilder appendTitle(Map<String, String> breadCrumbs) throws IOException {
     state.append("<title>");
     boolean first = true;
     List<String> parts = new LinkedList<>(breadCrumbs.values());

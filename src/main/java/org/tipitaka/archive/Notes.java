@@ -64,11 +64,13 @@ public class Notes
 
     public List<Alternative> alternatives;
 
+    public String extra;
+
     public String previous;
 
-    String getKey() {
-      return referenceLine + " " + original;
-    }
+    //String getKey() {
+    //  return referenceLine + " " + original;
+    //}
 
     @Override
     public boolean equals(final Object o) {
@@ -99,6 +101,9 @@ public class Notes
       if (!alternatives.equals(note.alternatives)) {
         return false;
       }
+      if (!extra.equals(note.extra)) {
+        return false;
+      }
       return previous.equals(note.previous);
 
     }
@@ -111,6 +116,7 @@ public class Notes
       result = 31 * result + original.hashCode();
       result = 31 * result + type.hashCode();
       result = 31 * result + alternatives.hashCode();
+      result = 31 * result + extra.hashCode();
       result = 31 * result + previous.hashCode();
       return result;
     }
@@ -123,6 +129,7 @@ public class Notes
       sb.append(", referenceLine='").append(referenceLine).append('\'');
       sb.append(", original='").append(original).append('\'');
       sb.append(", type='").append(type).append('\'');
+      sb.append(", extra='").append(extra).append('\'');
       sb.append(", previous='").append(previous).append('\'');
       if (alternatives != null)
       for (Alternative alternative: alternatives) {

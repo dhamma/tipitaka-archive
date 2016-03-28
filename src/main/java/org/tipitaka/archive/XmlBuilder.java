@@ -24,7 +24,7 @@ import org.tipitaka.search.Script;
 import org.tipitaka.search.ScriptFactory;
 
 public class XmlBuilder
-     extends NoopBuilder
+     extends NoopLegacyBuilder
 {
 
   public static final String NOTE = "__NOTE__";
@@ -33,15 +33,17 @@ public class XmlBuilder
 
   private final Notes notes;
 
-  static public class XmlBuilderFactory extends BuilderFactory<XmlBuilder> {
+  static public class BuilderFactory
+      extends org.tipitaka.archive.BuilderFactory<XmlBuilder>
+  {
 
     private final File notesBasedir;
 
-    public XmlBuilderFactory() throws IOException {
+    public BuilderFactory() throws IOException {
       this(new Layout());
     }
 
-    private XmlBuilderFactory(Layout layout) throws IOException {
+    private BuilderFactory(Layout layout) throws IOException {
       super(layout);
       this.notesBasedir = layout.notesArchive();
     }
@@ -75,12 +77,12 @@ public class XmlBuilder
 
   static public void main(String... args) throws Exception {
 
-    TipitakaVisitor visitor = new TipitakaVisitor(new XmlBuilderFactory());
+    LegacyVisitor visitor = new LegacyVisitor(new BuilderFactory());
 
     String file =
-        "/tipitaka (mula)/vinayapitaka/parajikapali/veranjakandam";
+        //"/tipitaka (mula)/vinayapitaka/parajikapali/veranjakandam";
         //"/tipitaka (mula)/vinayapitaka/parajikapali/1. parajikakandam";
-   // "/tipitaka (mula)/vinayapitaka/parajikapali/2. sanghadisesakandam";
+    "/tipitaka (mula)/vinayapitaka/parajikapali/2. sanghadisesakandam";
     visitor.accept(new OutputStreamWriter(System.out), new ScriptFactory().script("romn"), file);
     //File datafile = new File("../tipitaka-archive/target/data.xml");
     //visitor.accept(datafile, new ScriptFactory().script("romn"), file);
@@ -89,16 +91,17 @@ public class XmlBuilder
 
   }
 
-  public XmlBuilder(Notes notes, File file, BuilderFactory factory) throws IOException {
+  public XmlBuilder(Notes notes, File file, org.tipitaka.archive.BuilderFactory factory) throws IOException {
     super(new FileWriter(file), factory);
     this.notes = notes;
   }
 
-  public XmlBuilder(Writer writer, BuilderFactory factory) {
+  public XmlBuilder(Writer writer, org.tipitaka.archive.BuilderFactory factory) {
     super(writer, factory);
     ObjectMapper xmlMapper = new XmlMapper();
     //File file = new File("../tipitaka-archive/archive/notes/roman/tipitaka (mula)/vinayapitaka/parajikapali/1. parajikakandam-notes.xml");
-    File file = new File("../tipitaka-archive/archive/notes/roman/tipitaka (mula)/vinayapitaka/parajikapali/veranjakandam-notes.xml");
+    File file = new File("../tipitaka-archive/archive/notes/roman/tipitaka (mula)/vinayapitaka/parajikapali/2. sanghadisesakandam-notes.xml");
+    //File file = new File("../tipitaka-archive/archive/notes/roman/tipitaka (mula)/vinayapitaka/parajikapali/veranjakandam-notes.xml");
     Notes notes = new Notes();
     if (file != null && file.exists()) {
       try {
@@ -111,8 +114,8 @@ public class XmlBuilder
     this.notes = notes;
   }
 
-  public Builder appendTitle(Map<String, String> breadCrumbs) throws IOException {
-    state.append("<title>");
+  public LegacyBuilder appendTitle(Map<String, String> breadCrumbs) throws IOException {
+    state.append("<titlePath>");
     boolean first = true;
     List<String> parts = new LinkedList<>(breadCrumbs.values());
     Collections.reverse(parts);
@@ -127,7 +130,7 @@ public class XmlBuilder
         state.append(part);
       }
     }
-    state.append("</title>");
+    state.append("</titlePath>");
     return this;
   }
 
@@ -232,13 +235,15 @@ public class XmlBuilder
           if (vri.endsWith("ti")) {
             vri = vri.substring(0, vri.length() - 2) + ".?.?ti";
           }
-          Pattern alternatives = Pattern.compile("(.*)" + vri.replace(" ", "[;,– ‘]+")
-              .replace("]", "[\\]]").replace("[", "[\\[]")
-              .replace(")", "[)]").replace("(", "[(]") + "([. ]*)$");
+          Pattern alternatives = Pattern.compile("(.*)"
+              + vri.replace("]", "[\\]]").replace("[", "[\\[]")
+              .replace(")", "[)]").replace("(", "[(]").replace(" ", "[;,– ‘]+") + "([. –’]*)$");
           Matcher matcher = alternatives.matcher(text);
           if (matcher.matches()) {
             state.append(matcher.group(1));
-            state.append("<alternatives line=\"").append(note.line).append("\">");
+            state.append("<alternatives line=\"").append(note.line)
+                .append("\" extra=\"").append(note.extra)
+                .append("\" separator=\"").append(Boolean.toString(note.original.contains("),"))).append("\">");
             for (Alternative alternative : note.alternatives) {
               state.append("<alternative source-abbr=\"").append(alternative.sourceAbbreviation)
                   .append("\" source=\"").append(alternative.source).append("\">")
@@ -249,12 +254,15 @@ public class XmlBuilder
             state.notes.pop();
           }
           else {
-            state.appendText(text.replaceFirst("^ *", ""));
+            state.appendText(text.replaceFirst("^ +", " "));
           }
+        }
+        else {
+          state.appendText(text.replaceFirst("^ +", " "));
         }
       }
       else {
-        state.appendText(text.replaceFirst("^ *", ""));
+        state.appendText(text.replaceFirst("^ +", " "));
       }
     }
   }

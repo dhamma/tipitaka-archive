@@ -8,7 +8,7 @@ import org.tipitaka.search.Script;
 /**
  * Created by cmeier on 2/28/16.
  */
-public interface Visitor
+public interface Visitor<T extends BaseBuilder>
 {
-  void accept(Builder builder, Script script, String path) throws IOException;
+  void accept(T builder, Script script, String path) throws IOException;
 }
