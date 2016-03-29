@@ -122,6 +122,9 @@ public class NGVisitor implements Visitor<NGBuilder>
       case "subhead":
         builder.startSubhead();
         return;
+      case "indent":
+        builder.startIndent();
+        return;
       case "bold":
         builder.startBold();
         return;
@@ -134,6 +137,10 @@ public class NGVisitor implements Visitor<NGBuilder>
       case "paragraph":
         String number = xpp.getAttributeValue(null, "number");
         builder.startParagraph(number);
+        return;
+      case "hangnum":
+        number = xpp.getAttributeValue(null, "number");
+        builder.startHangnum(number);
         return;
       case "note":
         builder.startNote();
@@ -214,6 +221,9 @@ public class NGVisitor implements Visitor<NGBuilder>
       case "title":
         builder.endTitle();
         return;
+      case "indent":
+        builder.endIndent();
+        return;
       case "bold":
         builder.endBold();
         return;
@@ -225,6 +235,9 @@ public class NGVisitor implements Visitor<NGBuilder>
         return;
       case "paragraph":
         builder.endParagraph();
+        return;
+      case "hangnum":
+        builder.endHangnum();
         return;
       case "note":
         builder.endNote();

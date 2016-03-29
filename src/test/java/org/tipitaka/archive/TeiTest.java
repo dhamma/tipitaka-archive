@@ -33,23 +33,21 @@ public class TeiTest
     script = new ScriptFactory().script("romn");
   }
 
-  @Test @Ignore("pending")
+  @Test //@Ignore("pending")
   public void testSingle() throws Exception {
-    assertTei("/tipitaka (mula)/vinayapitaka/parivarapali/antarapeyyalam");
+    assertTei("/tipitaka (mula)/vinayapitaka/culavaggapali/9. patimokkhatthapanakkhandhakam");
   }
 
   @Test
   public void testMulaVinayaCulavaggapali() throws Exception {
     // TODO missed note
-    assertTeiDirectory("/tipitaka (mula)/vinayapitaka/culavaggapali","3. samuccayakkhandhakam", "5. khuddakavatthukkhandhakam",
-        "9. patimokkhatthapanakkhandhakam");
+    assertTeiDirectory("/tipitaka (mula)/vinayapitaka/culavaggapali","3. samuccayakkhandhakam");
   }
 
   @Test
   public void testMulaVinayaMahavaggapali() throws Exception {
-    // TODO hangnum indent and missed notes and wrong alternatives splitting
-    assertTeiDirectory("/tipitaka (mula)/vinayapitaka/mahavaggapali", "1. mahakhandhako", "2. uposathakkhandhako",
-        "4. pavaranakkhandhako", "7. kathinakkhandhako", "8. civarakkhandhako" );
+    // TODO missed notes and wrong alternatives splitting
+    assertTeiDirectory("/tipitaka (mula)/vinayapitaka/mahavaggapali", "1. mahakhandhako", "8. civarakkhandhako");
   }
 
   @Test
@@ -65,10 +63,7 @@ public class TeiTest
 
   @Test
   public void testMulaVinayaParivarapali() throws Exception {
-    // TODO hangnum
-    assertTeiDirectory("/tipitaka (mula)/vinayapitaka/parivarapali", "antarapeyyalam", "aparagathasanganikam",
-        "codanakandam", "culasangamo", "dutiyagathasanganikam", "gathasanganikam", "kathinabhedo", "khandhakapucchavaro",
-        "mahasangamo", "samutthanasisasankhepo", "sedamocanagatha", "solasamahavaro");
+    assertTeiDirectory("/tipitaka (mula)/vinayapitaka/parivarapali");
   }
 
   private void assertTeiDirectory(String path, String... expeceptions) throws IOException {
@@ -102,8 +97,8 @@ public class TeiTest
         .replaceAll("–<note>", "<note>")
         .replaceAll("</note>–", "</note>")
         // white spaces and dots before and after notes
-        .replaceAll("</note> +", "</note>")
-        .replaceAll(" +<note>", "<note>")
+        .replaceAll("</note>[, ]+", "</note>")
+        .replaceAll("[, ]+<note>", "<note>")
         // notes inside quotes
         .replaceAll("’’<note>", "<note>")
         .replaceAll("</note>\\s*’’", "</note>")

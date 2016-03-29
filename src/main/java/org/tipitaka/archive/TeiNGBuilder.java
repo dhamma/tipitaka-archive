@@ -208,6 +208,16 @@ public class TeiNGBuilder
   }
 
   @Override
+  public void startIndent() throws IOException {
+    startP("indent");
+  }
+
+  @Override
+  public void endIndent() throws IOException {
+    endP();
+  }
+
+  @Override
   public void startBold() throws IOException {
     state.append("<hi rend=\"bold\">");
     isNested = true;
@@ -220,13 +230,18 @@ public class TeiNGBuilder
     needsSpace = false;
   }
 
+  private void appendP(final String number, final String name) throws IOException {
+    omit = false;
+    needsSpace = true;
+    state.append("\n<p rend=\"" + name + "\" n=\"").append(number).append("\"><hi rend=\"paranum\">").append(number)
+        .append("</hi><hi rend=\"dot\">.</hi>");
+  }
+
   @Override
   public void startParagraph(final String number) throws IOException {
+    String name = "bodytext";
     if (number != null) {
-      omit = false;
-      needsSpace = true;
-      state.append("\n<p rend=\"bodytext\" n=\"").append(number).append("\"><hi rend=\"paranum\">").append(number)
-          .append("</hi><hi rend=\"dot\">.</hi>");
+      appendP(number, name);
     }
     else {
       startP("bodytext");
@@ -235,6 +250,17 @@ public class TeiNGBuilder
 
   @Override
   public void endParagraph() throws IOException {
+    endP();
+  }
+
+  @Override
+  public void startHangnum(final String number) throws IOException {
+    String name = "hangnum";
+    appendP(number, name);
+  }
+
+  @Override
+  public void endHangnum() throws IOException {
     endP();
   }
 

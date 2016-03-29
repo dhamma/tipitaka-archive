@@ -82,7 +82,8 @@ public class XmlBuilder
     String file =
         //"/tipitaka (mula)/vinayapitaka/parajikapali/veranjakandam";
         //"/tipitaka (mula)/vinayapitaka/parajikapali/1. parajikakandam";
-    "/tipitaka (mula)/vinayapitaka/parajikapali/2. sanghadisesakandam";
+    //"/tipitaka (mula)/vinayapitaka/parajikapali/2. sanghadisesakandam";
+    "/tipitaka (mula)/vinayapitaka/mahavaggapali/4. pavaranakkhandhako";
     visitor.accept(new OutputStreamWriter(System.out), new ScriptFactory().script("romn"), file);
     //File datafile = new File("../tipitaka-archive/target/data.xml");
     //visitor.accept(datafile, new ScriptFactory().script("romn"), file);
@@ -100,8 +101,9 @@ public class XmlBuilder
     super(writer, factory);
     ObjectMapper xmlMapper = new XmlMapper();
     //File file = new File("../tipitaka-archive/archive/notes/roman/tipitaka (mula)/vinayapitaka/parajikapali/1. parajikakandam-notes.xml");
-    File file = new File("../tipitaka-archive/archive/notes/roman/tipitaka (mula)/vinayapitaka/parajikapali/2. sanghadisesakandam-notes.xml");
+    //File file = new File("../tipitaka-archive/archive/notes/roman/tipitaka (mula)/vinayapitaka/parajikapali/2. sanghadisesakandam-notes.xml");
     //File file = new File("../tipitaka-archive/archive/notes/roman/tipitaka (mula)/vinayapitaka/parajikapali/veranjakandam-notes.xml");
+    File file = new File("../tipitaka-archive/archive/notes/roman/tipitaka (mula)/vinayapitaka/mahavaggapali/4. pavaranakkhandhako-notes.xml");
     Notes notes = new Notes();
     if (file != null && file.exists()) {
       try {
@@ -231,14 +233,16 @@ public class XmlBuilder
       if (!state.notes.isEmpty()) {
         Note note = state.notes.peek();
         if ((note.type == Type.auto || note.type == Type.manual) && note.getVRI() != null) {
-          String vri = note.getVRI();
+          String vri = note.getVRI().replace("?", ".");
           if (vri.endsWith("ti")) {
             vri = vri.substring(0, vri.length() - 2) + ".?.?ti";
           }
           Pattern alternatives = Pattern.compile("(.*)"
-              + vri.replace("]", "[\\]]").replace("[", "[\\[]")
-              .replace(")", "[)]").replace("(", "[(]").replace(" ", "[;,– ‘]+") + "([. –’]*)$");
+              + vri
+              .replace("]", "[\\]]").replace("[", "[\\[]")
+              .replace(")", "[)]").replace("(", "[(]").replace(" ", "[;,– ‘]+") + "([,. –’]*)$");
           Matcher matcher = alternatives.matcher(text);
+          //System.err.println(vri + " | " + alternatives + " | " + text);
           if (matcher.matches()) {
             state.append(matcher.group(1));
             state.append("<alternatives line=\"").append(note.line)

@@ -38,11 +38,17 @@ public interface NGBuilder extends BaseBuilder
   void startSubhead() throws IOException;
   void endSubhead() throws IOException;
 
+  void startIndent() throws IOException;
+  void endIndent() throws IOException;
+
   void startBold() throws IOException;
   void endBold() throws IOException;
 
   void startParagraph(String number) throws IOException;
   void endParagraph() throws IOException;
+
+  void startHangnum(String number) throws IOException;
+  void endHangnum() throws IOException;
 
   void startGatha(String number) throws IOException;
   void endGatha(String substring) throws IOException;
