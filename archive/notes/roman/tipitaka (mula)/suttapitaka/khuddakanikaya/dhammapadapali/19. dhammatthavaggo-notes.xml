@@ -4,7 +4,9 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">sāhasā</alternative>
-      <alternative source-abbr="sī. syā. ka." source="sī. syā. ka.">sahasā</alternative>
+      <alternative source-abbr="sī." source="sri lanka">sahasā</alternative>
+      <alternative source-abbr="syā." source="thai">sahasā</alternative>
+      <alternative source-abbr="ka." source="cambodian">sahasā</alternative>
     </alternatives>
     <type>auto</type>
     <previous> tena hoti dhammaṭṭho, yenatthaṃ sāhasā </previous>
@@ -13,7 +15,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">so hoti</alternative>
-      <alternative source-abbr="sī. syā." source="sī. syā.">thero hoti</alternative>
+      <alternative source-abbr="sī." source="sri lanka">thero hoti</alternative>
+      <alternative source-abbr="syā." source="thai">thero hoti</alternative>
     </alternatives>
     <type>auto</type>
     <previous> tena thero so hoti </previous>
@@ -21,7 +24,8 @@
   <note line="19" original="so theroti (syā. ka.)" reference-line="20" id="2">
     <extra></extra>
     <alternatives>
-      <alternative source-abbr="syā. ka." source="syā. ka.">so theroti</alternative>
+      <alternative source-abbr="syā." source="thai">so theroti</alternative>
+      <alternative source-abbr="ka." source="cambodian">so theroti</alternative>
     </alternatives>
     <type>no_match</type>
     <previous>Sa ve vantamalo dhīro, thero’’ iti </previous>

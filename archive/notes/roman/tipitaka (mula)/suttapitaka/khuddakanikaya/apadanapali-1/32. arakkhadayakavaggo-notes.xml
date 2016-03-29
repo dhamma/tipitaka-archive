@@ -4,7 +4,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">tidivaṅgaṇe</alternative>
-      <alternative source-abbr="syā. ka." source="syā. ka.">tidivaṅgaṇaṃ</alternative>
+      <alternative source-abbr="syā." source="thai">tidivaṅgaṇaṃ</alternative>
+      <alternative source-abbr="ka." source="cambodian">tidivaṅgaṇaṃ</alternative>
     </alternatives>
     <type>auto</type>
     <previous>Siddhatthaṃ jinamaddakkhiṃ, gacchantaṃ tidivaṅgaṇe </previous>
@@ -31,7 +32,8 @@
   <note line="28" original="vanena (syā. ka.)" reference-line="54" id="3">
     <extra></extra>
     <alternatives>
-      <alternative source-abbr="syā. ka." source="syā. ka.">vanena</alternative>
+      <alternative source-abbr="syā." source="thai">vanena</alternative>
+      <alternative source-abbr="ka." source="cambodian">vanena</alternative>
     </alternatives>
     <type>no_match</type>
     <previous>Disvā nabhena </previous>
@@ -40,7 +42,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">pītaraṃsiṃva</alternative>
-      <alternative source-abbr="sī. syā." source="sī. syā.">sataraṃsiṃva</alternative>
+      <alternative source-abbr="sī." source="sri lanka">sataraṃsiṃva</alternative>
+      <alternative source-abbr="syā." source="thai">sataraṃsiṃva</alternative>
     </alternatives>
     <type>auto</type>
     <previous> sambuddhaṃ, pītaraṃsiṃva </previous>
@@ -59,7 +62,8 @@
       <alternative source-abbr="vri" source="vipassana research institut">āsanasanthaviko</alternative>
       <alternative source-abbr="?" source="unknown">āsanasanthavako</alternative>
       <alternative source-abbr="ka." source="cambodian">āsanathaviko</alternative>
-      <alternative source-abbr="sī. syā." source="sī. syā.">āsanatthaviko</alternative>
+      <alternative source-abbr="sī." source="sri lanka">āsanatthaviko</alternative>
+      <alternative source-abbr="syā." source="thai">āsanatthaviko</alternative>
     </alternatives>
     <type>auto</type>
     <previous>Itthaṃ sudaṃ āyasmā āsanasanthaviko </previous>
@@ -103,7 +107,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">bāttiṃsatimo</alternative>
-      <alternative source-abbr="sī. syā." source="sī. syā.">battiṃsatimo</alternative>
+      <alternative source-abbr="sī." source="sri lanka">battiṃsatimo</alternative>
+      <alternative source-abbr="syā." source="thai">battiṃsatimo</alternative>
     </alternatives>
     <type>auto</type>
     <previous>Ārakkhadāyakavaggo bāttiṃsatimo </previous>

@@ -4,7 +4,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">Desente</alternative>
-      <alternative source-abbr="syā. kaṃ." source="syā. kaṃ.">desento</alternative>
+      <alternative source-abbr="syā." source="thai">desento</alternative>
+      <alternative source-abbr="kaṃ." source="kaṃ.">desento</alternative>
     </alternatives>
     <type>auto</type>
     <previous> Desente </previous>
@@ -13,7 +14,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">sujāte lokanāyake</alternative>
-      <alternative source-abbr="syā. kaṃ." source="syā. kaṃ.">sujāto lokanāyako</alternative>
+      <alternative source-abbr="syā." source="thai">sujāto lokanāyako</alternative>
+      <alternative source-abbr="kaṃ." source="kaṃ.">sujāto lokanāyako</alternative>
     </alternatives>
     <type>auto</type>
     <previous> pavaraṃ dhammaṃ, sujāte lokanāyake </previous>
@@ -30,7 +32,8 @@
   <note line="27" original="tadā (syā. kaṃ.)" reference-line="45" id="3">
     <extra></extra>
     <alternatives>
-      <alternative source-abbr="syā. kaṃ." source="syā. kaṃ.">tadā</alternative>
+      <alternative source-abbr="syā." source="thai">tadā</alternative>
+      <alternative source-abbr="kaṃ." source="kaṃ.">tadā</alternative>
     </alternatives>
     <type>no_match</type>
     <previous> Sopi maṃ buddho </previous>
@@ -39,7 +42,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">ghanakkhandho</alternative>
-      <alternative source-abbr="sī. ka." source="sī. ka.">ghanaruciro</alternative>
+      <alternative source-abbr="sī." source="sri lanka">ghanaruciro</alternative>
+      <alternative source-abbr="ka." source="cambodian">ghanaruciro</alternative>
     </alternatives>
     <type>auto</type>
     <previous> So ca rukkho ghanakkhandho </previous>
@@ -48,7 +52,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">cittitaṃ</alternative>
-      <alternative source-abbr="syā. kaṃ." source="syā. kaṃ.">cittakaṃ</alternative>
+      <alternative source-abbr="syā." source="thai">cittakaṃ</alternative>
+      <alternative source-abbr="kaṃ." source="kaṃ.">cittakaṃ</alternative>
     </alternatives>
     <type>auto</type>
     <previous>Evaṃ tadā pāvacanaṃ, arahantehi cittitaṃ </previous>
@@ -57,7 +62,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">tassa cetiyo</alternative>
-      <alternative source-abbr="syā. kaṃ." source="syā. kaṃ.">tattheva cetiyo satthu</alternative>
+      <alternative source-abbr="syā." source="thai">tattheva cetiyo satthu</alternative>
+      <alternative source-abbr="kaṃ." source="kaṃ.">tattheva cetiyo satthu</alternative>
     </alternatives>
     <type>auto</type>
     <previous>Tattheva tassa cetiyo </previous>

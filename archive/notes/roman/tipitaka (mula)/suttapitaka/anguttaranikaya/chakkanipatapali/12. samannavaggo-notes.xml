@@ -31,7 +31,9 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">vicayo</alternative>
-      <alternative source-abbr="sī. syā. pī." source="sī. syā. pī.">vijayo</alternative>
+      <alternative source-abbr="sī." source="sri lanka">vijayo</alternative>
+      <alternative source-abbr="syā." source="thai">vijayo</alternative>
+      <alternative source-abbr="pī." source="pali text society">vijayo</alternative>
     </alternatives>
     <type>auto</type>
     <previous> gahapati… vicayo </previous>
@@ -39,7 +41,9 @@
   <note line="35" original="vajjiyamahito (sī. syā. pī.)" reference-line="10" id="4">
     <extra></extra>
     <alternatives>
-      <alternative source-abbr="sī. syā. pī." source="sī. syā. pī.">vajjiyamahito</alternative>
+      <alternative source-abbr="sī." source="sri lanka">vajjiyamahito</alternative>
+      <alternative source-abbr="syā." source="thai">vajjiyamahito</alternative>
+      <alternative source-abbr="pī." source="pali text society">vajjiyamahito</alternative>
     </alternatives>
     <type>no_match</type>
     <previous> gahapati… vijayamāhiko </previous>

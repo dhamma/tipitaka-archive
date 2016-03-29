@@ -4,7 +4,9 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">anvadeva</alternative>
-      <alternative source-abbr="sī. pī. ka." source="sī. pī. ka.">anudeva</alternative>
+      <alternative source-abbr="sī." source="sri lanka">anudeva</alternative>
+      <alternative source-abbr="pī." source="pali text society">anudeva</alternative>
+      <alternative source-abbr="ka." source="cambodian">anudeva</alternative>
     </alternatives>
     <type>auto</type>
     <previous>Avijjā, bhikkhave, pubbaṅgamā akusalānaṃ dhammānaṃ samāpattiyā, anvadeva </previous>
@@ -14,7 +16,8 @@
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">nagarakaṃ nāma</alternative>
       <alternative source-abbr="sī." source="sri lanka">nāgarakaṃ nāma</alternative>
-      <alternative source-abbr="syā. ka." source="syā. ka.">sakkaraṃ nāma</alternative>
+      <alternative source-abbr="syā." source="thai">sakkaraṃ nāma</alternative>
+      <alternative source-abbr="ka." source="cambodian">sakkaraṃ nāma</alternative>
     </alternatives>
     <type>auto</type>
     <previous> Evaṃ me sutaṃ – ekaṃ samayaṃ bhagavā sakyesu viharati nagarakaṃ nāma </previous>
@@ -50,7 +53,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">āyāmaṃ</alternative>
-      <alternative source-abbr="sī. syā." source="sī. syā.">vāyāmaṃ</alternative>
+      <alternative source-abbr="sī." source="sri lanka">vāyāmaṃ</alternative>
+      <alternative source-abbr="syā." source="thai">vāyāmaṃ</alternative>
     </alternatives>
     <type>auto</type>
     <previous> ca vūpasanto hoti, vitakko ca vūpasanto hoti, saññā ca vūpasantā hoti, tappaccayāpi vedayitaṃ; appattassa pattiyā atthi āyāmaṃ </previous>
@@ -59,7 +63,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">āyāmaṃ</alternative>
-      <alternative source-abbr="sī. syā." source="sī. syā.">vāyāmaṃ</alternative>
+      <alternative source-abbr="sī." source="sri lanka">vāyāmaṃ</alternative>
+      <alternative source-abbr="syā." source="thai">vāyāmaṃ</alternative>
     </alternatives>
     <type>auto</type>
     <previous>, vitakko ca vūpasanto hoti, saññā ca vūpasantā hoti, tappaccayāpi vedayitaṃ; appattassa pattiyā atthi āyāmaṃ </previous>
@@ -68,7 +73,10 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">sammāsati</alternative>
-      <alternative source-abbr="sī. syā. kaṃ. ka." source="sī. syā. kaṃ. ka.">sammāsamādhi</alternative>
+      <alternative source-abbr="sī." source="sri lanka">sammāsamādhi</alternative>
+      <alternative source-abbr="syā." source="thai">sammāsamādhi</alternative>
+      <alternative source-abbr="kaṃ." source="kaṃ.">sammāsamādhi</alternative>
+      <alternative source-abbr="ka." source="cambodian">sammāsamādhi</alternative>
     </alternatives>
     <type>auto</type>
     <previous> Sāvatthinidānaṃ. Ariyaṃ vo, bhikkhave, sammāsamādhiṃ desessāmi saupanisaṃ saparikkhāraṃ. Taṃ suṇātha. Katamo ca, bhikkhave, ariyo sammāsamādhi saupaniso saparikkhāro? Seyyathidaṃ – sammādiṭṭhi…pe… sammāsati </previous>
@@ -77,7 +85,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">saparikkhāratā</alternative>
-      <alternative source-abbr="sī. pī." source="sī. pī.">saparikkhatā</alternative>
+      <alternative source-abbr="sī." source="sri lanka">saparikkhatā</alternative>
+      <alternative source-abbr="pī." source="pali text society">saparikkhatā</alternative>
     </alternatives>
     <type>auto</type>
     <previous> kho, bhikkhave, imehi sattahaṅgehi cittassa ekaggatā saparikkhāratā </previous>
@@ -104,7 +113,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">candimappabhāya</alternative>
-      <alternative source-abbr="syā. ka." source="syā. ka.">candimāpabhāya</alternative>
+      <alternative source-abbr="syā." source="thai">candimāpabhāya</alternative>
+      <alternative source-abbr="ka." source="cambodian">candimāpabhāya</alternative>
     </alternatives>
     <type>auto</type>
     <previous>, bhikkhave, yā kāci tārakarūpānaṃ pabhā, sabbā tā candimappabhāya </previous>
@@ -113,8 +123,10 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">kusobbhe</alternative>
-      <alternative source-abbr="sī. syā." source="sī. syā.">kussubbhe</alternative>
-      <alternative source-abbr="pī. ka." source="pī. ka.">kusubbhe</alternative>
+      <alternative source-abbr="sī." source="sri lanka">kussubbhe</alternative>
+      <alternative source-abbr="syā." source="thai">kussubbhe</alternative>
+      <alternative source-abbr="pī." source="pali text society">kusubbhe</alternative>
+      <alternative source-abbr="ka." source="cambodian">kusubbhe</alternative>
     </alternatives>
     <type>auto</type>
     <previous>, bhikkhave, himavantaṃ pabbatarājaṃ nissāya nāgā kāyaṃ vaḍḍhenti, balaṃ gāhenti; te tattha kāyaṃ vaḍḍhetvā balaṃ gāhetvā kusobbhe otaranti, kusobbhe </previous>

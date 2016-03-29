@@ -4,7 +4,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">Bhikkhu, bhikkhave</alternative>
-      <alternative source-abbr="pī. ka." source="pī. ka.">idha bhikkhave bhikkhu</alternative>
+      <alternative source-abbr="pī." source="pali text society">idha bhikkhave bhikkhu</alternative>
+      <alternative source-abbr="ka." source="cambodian">idha bhikkhave bhikkhu</alternative>
     </alternatives>
     <type>auto</type>
     <previous>, bhikkhave, parisadūsanā. Katame cattāro? Bhikkhu, bhikkhave </previous>
@@ -29,7 +30,10 @@
   <note line="26" original="sobhanavaggo (sī. syā. kaṃ. pī.)" reference-line="26" id="3">
     <extra></extra>
     <alternatives>
-      <alternative source-abbr="sī. syā. kaṃ. pī." source="sī. syā. kaṃ. pī.">sobhanavaggo</alternative>
+      <alternative source-abbr="sī." source="sri lanka">sobhanavaggo</alternative>
+      <alternative source-abbr="syā." source="thai">sobhanavaggo</alternative>
+      <alternative source-abbr="kaṃ." source="kaṃ.">sobhanavaggo</alternative>
+      <alternative source-abbr="pī." source="pali text society">sobhanavaggo</alternative>
     </alternatives>
     <type>no_match</type>
     <previous>Parisāvaggo </previous>

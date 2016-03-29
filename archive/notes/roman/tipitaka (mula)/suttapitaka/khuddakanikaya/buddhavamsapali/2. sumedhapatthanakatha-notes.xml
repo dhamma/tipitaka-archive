@@ -4,7 +4,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">sahaṃ</alternative>
-      <alternative source-abbr="sī. syā." source="sī. syā.">cahaṃ</alternative>
+      <alternative source-abbr="sī." source="sri lanka">cahaṃ</alternative>
+      <alternative source-abbr="syā." source="thai">cahaṃ</alternative>
     </alternatives>
     <type>auto</type>
     <previous> Jātidhammo jarādhammo, byādhidhammo sahaṃ </previous>
@@ -23,7 +24,9 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">Buddhotivacanaṃ</alternative>
-      <alternative source-abbr="sī. syā. ka." source="sī. syā. ka.">buddhoti mama</alternative>
+      <alternative source-abbr="sī." source="sri lanka">buddhoti mama</alternative>
+      <alternative source-abbr="syā." source="thai">buddhoti mama</alternative>
+      <alternative source-abbr="ka." source="cambodian">buddhoti mama</alternative>
     </alternatives>
     <type>auto</type>
     <previous> Buddhotivacanaṃ </previous>
@@ -32,7 +35,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">manussā mānusehi ca</alternative>
-      <alternative source-abbr="syā. ka." source="syā. ka.">mānussakehi ca mānusakehi ca</alternative>
+      <alternative source-abbr="syā." source="thai">mānussakehi ca mānusakehi ca</alternative>
+      <alternative source-abbr="ka." source="cambodian">mānussakehi ca mānusakehi ca</alternative>
     </alternatives>
     <type>auto</type>
     <previous> Devā dibbehi turiyehi, manussā mānusehi ca </previous>
@@ -49,7 +53,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">anuttaro</alternative>
-      <alternative source-abbr="syā. kaṃ." source="syā. kaṃ.">anuttaraṃ</alternative>
+      <alternative source-abbr="syā." source="thai">anuttaraṃ</alternative>
+      <alternative source-abbr="kaṃ." source="kaṃ.">anuttaraṃ</alternative>
     </alternatives>
     <type>auto</type>
     <previous> Tato padakkhiṇaṃ katvā, bodhimaṇḍaṃ anuttaro </previous>
@@ -75,7 +80,8 @@
   <note line="67" original="buddhabījaṅkuro (sī. syā.)" reference-line="218" id="8">
     <extra></extra>
     <alternatives>
-      <alternative source-abbr="sī. syā." source="sī. syā.">buddhabījaṅkuro</alternative>
+      <alternative source-abbr="sī." source="sri lanka">buddhabījaṅkuro</alternative>
+      <alternative source-abbr="syā." source="thai">buddhabījaṅkuro</alternative>
     </alternatives>
     <type>no_match</type>
     <previous>Āmoditā naramarū, buddhabījaṃ kira </previous>
@@ -93,7 +99,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">padakkhiṇamakaṃsu</alternative>
-      <alternative source-abbr="syā. ka." source="syā. ka.">sabbe padakkhiṇamakaṃsu</alternative>
+      <alternative source-abbr="syā." source="thai">sabbe padakkhiṇamakaṃsu</alternative>
+      <alternative source-abbr="ka." source="cambodian">sabbe padakkhiṇamakaṃsu</alternative>
     </alternatives>
     <type>auto</type>
     <previous> Ye tatthāsuṃ jinaputtā, padakkhiṇamakaṃsu </previous>
@@ -120,7 +127,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">Anovaṭṭhena</alternative>
-      <alternative source-abbr="syā. ka." source="syā. ka.">anovuṭṭhena</alternative>
+      <alternative source-abbr="syā." source="thai">anovuṭṭhena</alternative>
+      <alternative source-abbr="ka." source="cambodian">anovuṭṭhena</alternative>
     </alternatives>
     <type>auto</type>
     <previous> ‘Anovaṭṭhena </previous>
@@ -155,7 +163,8 @@
   <note line="138" original="bhavatvantarāyo (sī. syā.)" reference-line="550" id="17">
     <extra></extra>
     <alternatives>
-      <alternative source-abbr="sī. syā." source="sī. syā.">bhavatvantarāyo</alternative>
+      <alternative source-abbr="sī." source="sri lanka">bhavatvantarāyo</alternative>
+      <alternative source-abbr="syā." source="thai">bhavatvantarāyo</alternative>
     </alternatives>
     <type>no_match</type>
     <previous>Mā te bhavantvantarāyā </previous>

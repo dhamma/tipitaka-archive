@@ -4,7 +4,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">ahuṃ</alternative>
-      <alternative source-abbr="sī. syā." source="sī. syā.">āsuṃ</alternative>
+      <alternative source-abbr="sī." source="sri lanka">āsuṃ</alternative>
+      <alternative source-abbr="syā." source="thai">āsuṃ</alternative>
     </alternatives>
     <type>auto</type>
     <previous> Tassāpi devadevassa, sannipātā tayo ahuṃ </previous>
@@ -13,7 +14,9 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">koṭisatasahassānaṃ</alternative>
-      <alternative source-abbr="sī. syā. kaṃ." source="sī. syā. kaṃ.">koṭisahassānaṃ</alternative>
+      <alternative source-abbr="sī." source="sri lanka">koṭisahassānaṃ</alternative>
+      <alternative source-abbr="syā." source="thai">koṭisahassānaṃ</alternative>
+      <alternative source-abbr="kaṃ." source="kaṃ.">koṭisahassānaṃ</alternative>
     </alternatives>
     <type>auto</type>
     <previous>Tadā koṭisatasahassānaṃ </previous>
@@ -22,7 +25,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">Ticattārīsasahassāni</alternative>
-      <alternative source-abbr="syā. kaṃ." source="syā. kaṃ.">cattālīsasahassāni</alternative>
+      <alternative source-abbr="syā." source="thai">cattālīsasahassāni</alternative>
+      <alternative source-abbr="kaṃ." source="kaṃ.">cattālīsasahassāni</alternative>
     </alternatives>
     <type>auto</type>
     <previous> Ticattārīsasahassāni </previous>
@@ -31,7 +35,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">Sunetto</alternative>
-      <alternative source-abbr="syā. kaṃ." source="syā. kaṃ.">sudatto</alternative>
+      <alternative source-abbr="syā." source="thai">sudatto</alternative>
+      <alternative source-abbr="kaṃ." source="kaṃ.">sudatto</alternative>
     </alternatives>
     <type>auto</type>
     <previous>Sunetto </previous>
@@ -40,7 +45,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">Sāḷiyā</alternative>
-      <alternative source-abbr="syā. kaṃ." source="syā. kaṃ.">sālisā</alternative>
+      <alternative source-abbr="syā." source="thai">sālisā</alternative>
+      <alternative source-abbr="kaṃ." source="kaṃ.">sālisā</alternative>
     </alternatives>
     <type>auto</type>
     <previous>Sāḷiyā </previous>

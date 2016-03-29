@@ -30,7 +30,9 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">pana</alternative>
-      <alternative source-abbr="sī. syā. pī." source="sī. syā. pī.">kiṃ pana</alternative>
+      <alternative source-abbr="sī." source="sri lanka">kiṃ pana</alternative>
+      <alternative source-abbr="syā." source="thai">kiṃ pana</alternative>
+      <alternative source-abbr="pī." source="pali text society">kiṃ pana</alternative>
     </alternatives>
     <type>auto</type>
     <previous> Iti pana </previous>
@@ -56,7 +58,8 @@
   <note line="50" original="ophuṭā (sī. ka.), ophutā (syā.)" reference-line="55" id="6">
     <extra></extra>
     <alternatives>
-      <alternative source-abbr="sī. ka." source="sī. ka.">ophuṭā</alternative>
+      <alternative source-abbr="sī." source="sri lanka">ophuṭā</alternative>
+      <alternative source-abbr="ka." source="cambodian">ophuṭā</alternative>
       <alternative source-abbr="syā." source="thai">ophutā</alternative>
     </alternatives>
     <type>no_match</type>
@@ -66,7 +69,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">pariyonaddhā</alternative>
-      <alternative source-abbr="syā. ka." source="syā. ka.">pariyonaddhā, te</alternative>
+      <alternative source-abbr="syā." source="thai">pariyonaddhā, te</alternative>
+      <alternative source-abbr="ka." source="cambodian">pariyonaddhā, te</alternative>
     </alternatives>
     <type>auto</type>
     <previous> dhammā brāhmaṇakārakā te dhamme pahāya vattamānā, ye dhammā abrāhmaṇakārakā te dhamme samādāya vattamānā pañcahi nīvaraṇehi āvuṭā nivuṭā onaddhā pariyonaddhā </previous>
@@ -84,7 +88,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">visāraṃ</alternative>
-      <alternative source-abbr="sī. pī." source="sī. pī.">visādaṃ</alternative>
+      <alternative source-abbr="sī." source="sri lanka">visādaṃ</alternative>
+      <alternative source-abbr="pī." source="pali text society">visādaṃ</alternative>
       <alternative source-abbr="syā." source="thai">visattaṃ</alternative>
     </alternatives>
     <type>auto</type>

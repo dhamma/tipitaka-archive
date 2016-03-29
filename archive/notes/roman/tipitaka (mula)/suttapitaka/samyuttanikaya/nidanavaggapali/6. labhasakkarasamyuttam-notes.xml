@@ -4,7 +4,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">papatāya</alternative>
-      <alternative source-abbr="syā. kaṃ." source="syā. kaṃ.">bhikkhu papatāya</alternative>
+      <alternative source-abbr="syā." source="thai">bhikkhu papatāya</alternative>
+      <alternative source-abbr="kaṃ." source="kaṃ.">bhikkhu papatāya</alternative>
       <alternative source-abbr="?" source="unknown">bhikkhu viddho papatāya</alternative>
     </alternatives>
     <type>auto</type>
@@ -15,7 +16,10 @@
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">gayheyya</alternative>
       <alternative source-abbr="sī." source="sri lanka">gaccheyya</alternative>
-      <alternative source-abbr="syā. kaṃ. pī. ka." source="syā. kaṃ. pī. ka.">gaṇheyya</alternative>
+      <alternative source-abbr="syā." source="thai">gaṇheyya</alternative>
+      <alternative source-abbr="kaṃ." source="kaṃ.">gaṇheyya</alternative>
+      <alternative source-abbr="pī." source="pali text society">gaṇheyya</alternative>
+      <alternative source-abbr="ka." source="cambodian">gaṇheyya</alternative>
     </alternatives>
     <type>auto</type>
     <previous> viharati…pe… dāruṇo, bhikkhave, lābhasakkārasiloko…pe… adhigamāya. Seyyathāpi, bhikkhave, dīghalomikā eḷakā kaṇṭakagahanaṃ paviseyya. Sā tatra tatra sajjeyya, tatra tatra gayheyya </previous>
@@ -30,8 +34,10 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">sekhaṃ</alternative>
-      <alternative source-abbr="pī. ka." source="pī. ka.">asanivicakkaṃ, taṃ sekhaṃ</alternative>
-      <alternative source-abbr="syā. kaṃ." source="syā. kaṃ.">asanivicakkaṃ, sekhaṃ</alternative>
+      <alternative source-abbr="pī." source="pali text society">asanivicakkaṃ, taṃ sekhaṃ</alternative>
+      <alternative source-abbr="ka." source="cambodian">asanivicakkaṃ, taṃ sekhaṃ</alternative>
+      <alternative source-abbr="syā." source="thai">asanivicakkaṃ, sekhaṃ</alternative>
+      <alternative source-abbr="kaṃ." source="kaṃ.">asanivicakkaṃ, sekhaṃ</alternative>
       <alternative source-abbr="?" source="unknown">asanivicakkaṃ āgacchatu, kaṃ sekhaṃ</alternative>
     </alternatives>
     <type>auto</type>
@@ -41,7 +47,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">anupāpuṇātu</alternative>
-      <alternative source-abbr="pī. ka." source="pī. ka.">anupāpuṇāti</alternative>
+      <alternative source-abbr="pī." source="pali text society">anupāpuṇāti</alternative>
+      <alternative source-abbr="ka." source="cambodian">anupāpuṇāti</alternative>
     </alternatives>
     <type>auto</type>
     <previous> appattamānasaṃ lābhasakkārasiloko anupāpuṇātu’’ </previous>
@@ -50,8 +57,10 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">visallena sallena</alternative>
-      <alternative source-abbr="ka. sī." source="ka. sī.">diṭṭhigatena visallena</alternative>
-      <alternative source-abbr="syā. kaṃ." source="syā. kaṃ.">diṭṭhigatena sallena</alternative>
+      <alternative source-abbr="ka." source="cambodian">diṭṭhigatena visallena</alternative>
+      <alternative source-abbr="sī." source="sri lanka">diṭṭhigatena visallena</alternative>
+      <alternative source-abbr="syā." source="thai">diṭṭhigatena sallena</alternative>
+      <alternative source-abbr="kaṃ." source="kaṃ.">diṭṭhigatena sallena</alternative>
       <alternative source-abbr="ka." source="cambodian">diṭṭhigatena visallena sallena</alternative>
       <alternative source-abbr="pī." source="pali text society">diṭṭhagatena visallena sallena</alternative>
     </alternatives>
@@ -63,7 +72,8 @@
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">sekhaṃ</alternative>
       <alternative source-abbr="sī." source="sri lanka">vijjhatu, taṃ sekhaṃ</alternative>
-      <alternative source-abbr="pī. ka." source="pī. ka.">vijjhati, taṃ sekhaṃ</alternative>
+      <alternative source-abbr="pī." source="pali text society">vijjhati, taṃ sekhaṃ</alternative>
+      <alternative source-abbr="ka." source="cambodian">vijjhati, taṃ sekhaṃ</alternative>
     </alternatives>
     <type>auto</type>
     <previous> vijjhatu, sekhaṃ </previous>
@@ -72,7 +82,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">anupāpuṇātu</alternative>
-      <alternative source-abbr="pī. ka." source="pī. ka.">anupāpuṇāti</alternative>
+      <alternative source-abbr="pī." source="pali text society">anupāpuṇāti</alternative>
+      <alternative source-abbr="ka." source="cambodian">anupāpuṇāti</alternative>
     </alternatives>
     <type>auto</type>
     <previous> appattamānasaṃ lābhasakkārasiloko anupāpuṇātu’’ </previous>
@@ -82,7 +93,9 @@
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">jarasiṅgālassa</alternative>
       <alternative source-abbr="ka." source="cambodian">siṅgālassa</alternative>
-      <alternative source-abbr="sī. syā. kaṃ." source="sī. syā. kaṃ.">jarasigālassa</alternative>
+      <alternative source-abbr="sī." source="sri lanka">jarasigālassa</alternative>
+      <alternative source-abbr="syā." source="thai">jarasigālassa</alternative>
+      <alternative source-abbr="kaṃ." source="kaṃ.">jarasigālassa</alternative>
     </alternatives>
     <type>auto</type>
     <previous> jarasiṅgālassa </previous>
@@ -92,7 +105,9 @@
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">ukkaṇḍakena</alternative>
       <alternative source-abbr="sī." source="sri lanka">ukkaṇḍakena</alternative>
-      <alternative source-abbr="syā. kaṃ. pī." source="syā. kaṃ. pī.">ukkaṇṇakena</alternative>
+      <alternative source-abbr="syā." source="thai">ukkaṇṇakena</alternative>
+      <alternative source-abbr="kaṃ." source="kaṃ.">ukkaṇṇakena</alternative>
+      <alternative source-abbr="pī." source="pali text society">ukkaṇṇakena</alternative>
     </alternatives>
     <type>auto</type>
     <previous> vassamānassā’’ti? Evaṃ, bhante’’. Eso kho, bhikkhave, jarasiṅgālo ukkaṇḍakena </previous>
@@ -101,7 +116,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">verambhā</alternative>
-      <alternative source-abbr="sī. pī." source="sī. pī.">verambā</alternative>
+      <alternative source-abbr="sī." source="sri lanka">verambā</alternative>
+      <alternative source-abbr="pī." source="pali text society">verambā</alternative>
     </alternatives>
     <type>auto</type>
     <previous> Sāvatthiyaṃ viharati…pe… dāruṇo, bhikkhave, lābhasakkārasiloko…pe… adhigamāya. Upari, bhikkhave, ākāse verambhā </previous>
@@ -110,7 +126,8 @@
     <extra> appamāṇoti hettha phalasamādhi, na sati</extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">appamāṇavihārino</alternative>
-      <alternative source-abbr="pī. ka." source="pī. ka.">appamādavihārino</alternative>
+      <alternative source-abbr="pī." source="pali text society">appamādavihārino</alternative>
+      <alternative source-abbr="ka." source="cambodian">appamādavihārino</alternative>
     </alternatives>
     <type>auto</type>
     <previous>Samādhi na vikampati, appamāṇavihārino </previous>
@@ -119,7 +136,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">veḷukaṇḍakiyā</alternative>
-      <alternative source-abbr="sī. chakkaṅguttarepi" source="sī. chakkaṅguttarepi">veḷukaṇḍakī</alternative>
+      <alternative source-abbr="sī." source="sri lanka">veḷukaṇḍakī</alternative>
+      <alternative source-abbr="chakkaṅguttarepi" source="chakkaṅguttarepi">veḷukaṇḍakī</alternative>
     </alternatives>
     <type>auto</type>
     <previous> Sāvatthiyaṃ viharati…pe… dāruṇo, bhikkhave, lābhasakkārasiloko…pe… saddhā bhikkhave upāsikā ekaṃ dhītaraṃ piyaṃ manāpaṃ evaṃ sammā āyācamānā āyāceyya – ‘tādisā, ayye, bhavāhi yādisā khujjuttarā ca upāsikā veḷukaṇḍakiyā </previous>

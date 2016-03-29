@@ -33,7 +33,9 @@
   <note line="30" original="atho (sī. syā. ka.)" reference-line="16" id="4">
     <extra></extra>
     <alternatives>
-      <alternative source-abbr="sī. syā. ka." source="sī. syā. ka.">atho</alternative>
+      <alternative source-abbr="sī." source="sri lanka">atho</alternative>
+      <alternative source-abbr="syā." source="thai">atho</alternative>
+      <alternative source-abbr="ka." source="cambodian">atho</alternative>
     </alternatives>
     <type>no_match</type>
     <previous>Cakkhu sotañca ghānañca, jivhā kāyo tathā </previous>
@@ -42,7 +44,10 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">nirayaṃ sopapajjatī’’ti</alternative>
-      <alternative source-abbr="sī. syā. kaṃ. pī." source="sī. syā. kaṃ. pī.">nirayaṃ so upapajjatī’’ti</alternative>
+      <alternative source-abbr="sī." source="sri lanka">nirayaṃ so upapajjatī’’ti</alternative>
+      <alternative source-abbr="syā." source="thai">nirayaṃ so upapajjatī’’ti</alternative>
+      <alternative source-abbr="kaṃ." source="kaṃ.">nirayaṃ so upapajjatī’’ti</alternative>
+      <alternative source-abbr="pī." source="pali text society">nirayaṃ so upapajjatī’’ti</alternative>
     </alternatives>
     <type>auto</type>
     <previous>Kāyassa bhedā duppañño, nirayaṃ sopapajjatī’’ti </previous>
@@ -69,7 +74,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">mahattehi</alternative>
-      <alternative source-abbr="sī. ka." source="sī. ka.">mahantehi</alternative>
+      <alternative source-abbr="sī." source="sri lanka">mahantehi</alternative>
+      <alternative source-abbr="ka." source="cambodian">mahantehi</alternative>
       <alternative source-abbr="syā." source="thai">mahatthehi</alternative>
     </alternatives>
     <type>auto</type>
@@ -79,7 +85,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">mahesibhi</alternative>
-      <alternative source-abbr="sī. ka." source="sī. ka.">mahesino</alternative>
+      <alternative source-abbr="sī." source="sri lanka">mahesino</alternative>
+      <alternative source-abbr="ka." source="cambodian">mahesino</alternative>
     </alternatives>
     <type>auto</type>
     <previous> mahesibhi </previous>
@@ -87,7 +94,9 @@
   <note line="78" original="yoniso (sī. syā. pī.), yonissa (ka.)" reference-line="82" id="10">
     <extra></extra>
     <alternatives>
-      <alternative source-abbr="sī. syā. pī." source="sī. syā. pī.">yoniso</alternative>
+      <alternative source-abbr="sī." source="sri lanka">yoniso</alternative>
+      <alternative source-abbr="syā." source="thai">yoniso</alternative>
+      <alternative source-abbr="pī." source="pali text society">yoniso</alternative>
       <alternative source-abbr="ka." source="cambodian">yonissa</alternative>
     </alternatives>
     <type>no_match</type>
@@ -97,7 +106,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">Saṃvejanīyaṭṭhānesu</alternative>
-      <alternative source-abbr="syā. pī." source="syā. pī.">saṃvejanīyesu ṭhānesu</alternative>
+      <alternative source-abbr="syā." source="thai">saṃvejanīyesu ṭhānesu</alternative>
+      <alternative source-abbr="pī." source="pali text society">saṃvejanīyesu ṭhānesu</alternative>
     </alternatives>
     <type>auto</type>
     <previous>Saṃvejanīyaṭṭhānesu </previous>
@@ -144,7 +154,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">Visantaraṃ</alternative>
-      <alternative source-abbr="sī. ka." source="sī. ka.">vesantaraṃ</alternative>
+      <alternative source-abbr="sī." source="sri lanka">vesantaraṃ</alternative>
+      <alternative source-abbr="ka." source="cambodian">vesantaraṃ</alternative>
       <alternative source-abbr="pī." source="pali text society">vissantaraṃ</alternative>
     </alternatives>
     <type>auto</type>
@@ -155,7 +166,8 @@
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">Mārañjahaṃ</alternative>
       <alternative source-abbr="syā." source="thai">mārajahaṃ</alternative>
-      <alternative source-abbr="sī. ka." source="sī. ka.">mānajahaṃ</alternative>
+      <alternative source-abbr="sī." source="sri lanka">mānajahaṃ</alternative>
+      <alternative source-abbr="ka." source="cambodian">mānajahaṃ</alternative>
       <alternative source-abbr="pī." source="pali text society">mānaṃ jahaṃ</alternative>
     </alternatives>
     <type>auto</type>
@@ -165,7 +177,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">cetaṃ</alternative>
-      <alternative source-abbr="sī. pī." source="sī. pī.">cekaṃ</alternative>
+      <alternative source-abbr="sī." source="sri lanka">cekaṃ</alternative>
+      <alternative source-abbr="pī." source="pali text society">cekaṃ</alternative>
       <alternative source-abbr="syā." source="thai">chekā</alternative>
     </alternatives>
     <type>auto</type>
@@ -184,7 +197,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">hāsapaññānaṃ</alternative>
-      <alternative source-abbr="sī. aṭṭha." source="sī. aṭṭha.">hāsupaññānaṃ</alternative>
+      <alternative source-abbr="sī." source="sri lanka">hāsupaññānaṃ</alternative>
+      <alternative source-abbr="aṭṭha." source="aṭṭha.">hāsupaññānaṃ</alternative>
     </alternatives>
     <type>auto</type>
     <previous> hāsapaññānaṃ </previous>
@@ -193,7 +207,10 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">Hirī</alternative>
-      <alternative source-abbr="sī. syā. kaṃ. pī." source="sī. syā. kaṃ. pī.">hiri</alternative>
+      <alternative source-abbr="sī." source="sri lanka">hiri</alternative>
+      <alternative source-abbr="syā." source="thai">hiri</alternative>
+      <alternative source-abbr="kaṃ." source="kaṃ.">hiri</alternative>
+      <alternative source-abbr="pī." source="pali text society">hiri</alternative>
     </alternatives>
     <type>auto</type>
     <previous>Dveme, bhikkhave, sukkā dhammā lokaṃ pālenti. Katame dve? Hirī </previous>
@@ -202,7 +219,10 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">soṇasiṅgālā</alternative>
-      <alternative source-abbr="sī. syā. kaṃ. pī." source="sī. syā. kaṃ. pī.">soṇasigālā</alternative>
+      <alternative source-abbr="sī." source="sri lanka">soṇasigālā</alternative>
+      <alternative source-abbr="syā." source="thai">soṇasigālā</alternative>
+      <alternative source-abbr="kaṃ." source="kaṃ.">soṇasigālā</alternative>
+      <alternative source-abbr="pī." source="pali text society">soṇasigālā</alternative>
     </alternatives>
     <type>auto</type>
     <previous> ca, ottappañca. Ime ce, bhikkhave, dve sukkā dhammā lokaṃ na pāleyyuṃ, nayidha paññāyetha mātāti vā mātucchāti vā mātulānīti vā ācariyabhariyāti vā garūnaṃ dārāti vā. Sambhedaṃ loko agamissa yathā ajeḷakā kukkuṭasūkarā soṇasiṅgālā </previous>
@@ -220,7 +240,9 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">pabhaṅguraṃ</alternative>
-      <alternative source-abbr="ka. sī. ka." source="ka. sī. ka.">pabhaṅgunaṃ</alternative>
+      <alternative source-abbr="ka." source="cambodian">pabhaṅgunaṃ</alternative>
+      <alternative source-abbr="sī." source="sri lanka">pabhaṅgunaṃ</alternative>
+      <alternative source-abbr="ka." source="cambodian">pabhaṅgunaṃ</alternative>
       <alternative source-abbr="syā." source="thai">pabhaṅguṇaṃ</alternative>
     </alternatives>
     <type>auto</type>
@@ -230,7 +252,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">avighātattā</alternative>
-      <alternative source-abbr="sī. aṭṭha." source="sī. aṭṭha.">avigatattā</alternative>
+      <alternative source-abbr="sī." source="sri lanka">avigatattā</alternative>
+      <alternative source-abbr="aṭṭha." source="aṭṭha.">avigatattā</alternative>
     </alternatives>
     <type>auto</type>
     <previous> ca, bhikkhave, saupādisesā nibbānadhātu? Idha, bhikkhave, bhikkhu arahaṃ hoti khīṇāsavo vusitavā katakaraṇīyo ohitabhāro anuppattasadattho parikkhīṇabhavasaṃyojano sammadaññā vimutto. Tassa tiṭṭhanteva pañcindriyāni yesaṃ avighātattā </previous>
@@ -256,7 +279,8 @@
   <note line="229" original="satimantova (sī. ka.)" reference-line="168" id="28">
     <extra></extra>
     <alternatives>
-      <alternative source-abbr="sī. ka." source="sī. ka.">satimantova</alternative>
+      <alternative source-abbr="sī." source="sri lanka">satimantova</alternative>
+      <alternative source-abbr="ka." source="cambodian">satimantova</alternative>
     </alternatives>
     <type>no_match</type>
     <previous>Ye santacittā nipakā, satimanto ca </previous>
@@ -274,7 +298,8 @@
   <note line="245" original="satto (sī. ka.)" reference-line="205" id="30">
     <extra></extra>
     <alternatives>
-      <alternative source-abbr="sī. ka." source="sī. ka.">satto</alternative>
+      <alternative source-abbr="sī." source="sri lanka">satto</alternative>
+      <alternative source-abbr="ka." source="cambodian">satto</alternative>
     </alternatives>
     <type>no_match</type>
     <previous> – yato kira, bho, ayaṃ attā </previous>
@@ -282,7 +307,8 @@
   <note line="252" original="yo (syā. ka.)" reference-line="207" id="31">
     <extra></extra>
     <alternatives>
-      <alternative source-abbr="syā. ka." source="syā. ka.">yo</alternative>
+      <alternative source-abbr="syā." source="thai">yo</alternative>
+      <alternative source-abbr="ka." source="cambodian">yo</alternative>
     </alternatives>
     <type>no_match</type>
     <previous>Ye </previous>
@@ -290,7 +316,10 @@
   <note line="259" original="sace (ka. sī. syā. pī.)" reference-line="209" id="32">
     <extra></extra>
     <alternatives>
-      <alternative source-abbr="ka. sī. syā. pī." source="ka. sī. syā. pī.">sace</alternative>
+      <alternative source-abbr="ka." source="cambodian">sace</alternative>
+      <alternative source-abbr="sī." source="sri lanka">sace</alternative>
+      <alternative source-abbr="syā." source="thai">sace</alternative>
+      <alternative source-abbr="pī." source="pali text society">sace</alternative>
     </alternatives>
     <type>no_match</type>
     <previous>Sa ve </previous>
@@ -299,7 +328,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">ceva</alternative>
-      <alternative source-abbr="sī. syā." source="sī. syā.">yeva</alternative>
+      <alternative source-abbr="sī." source="sri lanka">yeva</alternative>
+      <alternative source-abbr="syā." source="thai">yeva</alternative>
     </alternatives>
     <type>auto</type>
     <previous>Apāyadiṭṭhiyā ceva </previous>

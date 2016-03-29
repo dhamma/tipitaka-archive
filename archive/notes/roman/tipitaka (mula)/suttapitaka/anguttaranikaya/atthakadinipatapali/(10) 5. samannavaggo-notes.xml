@@ -7,7 +7,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">bojjhā</alternative>
-      <alternative source-abbr="ka. sī." source="ka. sī.">bojjhaṅgā</alternative>
+      <alternative source-abbr="ka." source="cambodian">bojjhaṅgā</alternative>
+      <alternative source-abbr="sī." source="sri lanka">bojjhaṅgā</alternative>
     </alternatives>
     <type>auto</type>
     <previous> bojjhā </previous>
@@ -19,7 +20,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">sutanā</alternative>
-      <alternative source-abbr="sī. pī." source="sī. pī.">sudhanā</alternative>
+      <alternative source-abbr="sī." source="sri lanka">sudhanā</alternative>
+      <alternative source-abbr="pī." source="pali text society">sudhanā</alternative>
       <alternative source-abbr="syā." source="thai">sudhammā</alternative>
     </alternatives>
     <type>auto</type>
@@ -29,7 +31,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">rucī</alternative>
-      <alternative source-abbr="sī. pī." source="sī. pī.">rūpī</alternative>
+      <alternative source-abbr="sī." source="sri lanka">rūpī</alternative>
+      <alternative source-abbr="pī." source="pali text society">rūpī</alternative>
     </alternatives>
     <type>auto</type>
     <previous>, manujā, uttarā, muttā, khemā, rucī </previous>
@@ -38,7 +41,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">tissā, tissamātā</alternative>
-      <alternative source-abbr="sī. pī." source="sī. pī.">tissāya mātā</alternative>
+      <alternative source-abbr="sī." source="sri lanka">tissāya mātā</alternative>
+      <alternative source-abbr="pī." source="pali text society">tissāya mātā</alternative>
     </alternatives>
     <type>auto</type>
     <previous>, tissā, tissamātā </previous>
@@ -56,7 +60,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">kāṇā, kāṇamātā</alternative>
-      <alternative source-abbr="sī. pī." source="sī. pī.">kāṇāya mātā</alternative>
+      <alternative source-abbr="sī." source="sri lanka">kāṇāya mātā</alternative>
+      <alternative source-abbr="pī." source="pali text society">kāṇāya mātā</alternative>
     </alternatives>
     <type>auto</type>
     <previous>, kāṇā, kāṇamātā </previous>
@@ -65,7 +70,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">koliyadhītā</alternative>
-      <alternative source-abbr="syā. pī." source="syā. pī.">koḷiyadhītā</alternative>
+      <alternative source-abbr="syā." source="thai">koḷiyadhītā</alternative>
+      <alternative source-abbr="pī." source="pali text society">koḷiyadhītā</alternative>
     </alternatives>
     <type>auto</type>
     <previous>, uttarā nandamātā, visākhā migāramātā, khujjuttarā upāsikā, sāmāvatī upāsikā, suppavāsā koliyadhītā </previous>

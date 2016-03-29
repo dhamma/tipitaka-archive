@@ -4,7 +4,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">miñjamadadiṃ</alternative>
-      <alternative source-abbr="sī. pī." source="sī. pī.">phalamadadiṃ</alternative>
+      <alternative source-abbr="sī." source="sri lanka">phalamadadiṃ</alternative>
+      <alternative source-abbr="pī." source="pali text society">phalamadadiṃ</alternative>
       <alternative source-abbr="syā." source="thai">bījamadadiṃ</alternative>
     </alternatives>
     <type>auto</type>
@@ -13,7 +14,8 @@
   <note line="12" original="vibhedaka… (syā. ka.)" reference-line="24" id="1">
     <extra></extra>
     <alternatives>
-      <alternative source-abbr="syā. ka." source="syā. ka.">vibhedaka…</alternative>
+      <alternative source-abbr="syā." source="thai">vibhedaka…</alternative>
+      <alternative source-abbr="ka." source="cambodian">vibhedaka…</alternative>
     </alternatives>
     <type>no_match</type>
     <previous>Itthaṃ sudaṃ āyasmā vibhītakamiñjiyo </previous>
@@ -22,7 +24,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">mamassamaṃ</alternative>
-      <alternative source-abbr="sī. pī." source="sī. pī.">khāribhāraṃ haritvāna, kolamāharimassamaṃ</alternative>
+      <alternative source-abbr="sī." source="sri lanka">khāribhāraṃ haritvāna, kolamāharimassamaṃ</alternative>
+      <alternative source-abbr="pī." source="pali text society">khāribhāraṃ haritvāna, kolamāharimassamaṃ</alternative>
     </alternatives>
     <type>auto</type>
     <previous>Khāriyā pūrayitvāna, kolaṃhāsiṃ mamassamaṃ </previous>
@@ -40,7 +43,9 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">Vipinaggena</alternative>
-      <alternative source-abbr="sī. syā. pī." source="sī. syā. pī.">pavanaggena</alternative>
+      <alternative source-abbr="sī." source="sri lanka">pavanaggena</alternative>
+      <alternative source-abbr="syā." source="thai">pavanaggena</alternative>
+      <alternative source-abbr="pī." source="pali text society">pavanaggena</alternative>
     </alternatives>
     <type>auto</type>
     <previous>Vipinaggena </previous>
@@ -57,7 +62,8 @@
   <note line="51" original="mahāvīraṃ (sī. syā.)" reference-line="121" id="6">
     <extra></extra>
     <alternatives>
-      <alternative source-abbr="sī. syā." source="sī. syā.">mahāvīraṃ</alternative>
+      <alternative source-abbr="sī." source="sri lanka">mahāvīraṃ</alternative>
+      <alternative source-abbr="syā." source="thai">mahāvīraṃ</alternative>
     </alternatives>
     <type>no_match</type>
     <previous>Puññakkhettaṃ anuttaraṃ </previous>
@@ -66,7 +72,9 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">lohitaṅgamayā</alternative>
-      <alternative source-abbr="sī. syā. pī." source="sī. syā. pī.">lohitaṅkamayā</alternative>
+      <alternative source-abbr="sī." source="sri lanka">lohitaṅkamayā</alternative>
+      <alternative source-abbr="syā." source="thai">lohitaṅkamayā</alternative>
+      <alternative source-abbr="pī." source="pali text society">lohitaṅkamayā</alternative>
     </alternatives>
     <type>auto</type>
     <previous> Soṇṇamayā rūpimayā, lohitaṅgamayā </previous>
@@ -75,7 +83,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">kiccayenahaṃ</alternative>
-      <alternative source-abbr="sī. pī." source="sī. pī.">paccayenahaṃ</alternative>
+      <alternative source-abbr="sī." source="sri lanka">paccayenahaṃ</alternative>
+      <alternative source-abbr="pī." source="pali text society">paccayenahaṃ</alternative>
     </alternatives>
     <type>auto</type>
     <previous> Yaṃ yaṃ disaṃ pakkamāmi, kenaci kiccayenahaṃ </previous>
@@ -93,7 +102,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">Atoḷārāni</alternative>
-      <alternative source-abbr="sī. pī." source="sī. pī.">athoḷārāni</alternative>
+      <alternative source-abbr="sī." source="sri lanka">athoḷārāni</alternative>
+      <alternative source-abbr="pī." source="pali text society">athoḷārāni</alternative>
       <alternative source-abbr="syā." source="thai">aggoḷārāni</alternative>
     </alternatives>
     <type>auto</type>
@@ -103,7 +113,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">vissakammena</alternative>
-      <alternative source-abbr="syā. ka." source="syā. ka.">visukammena</alternative>
+      <alternative source-abbr="syā." source="thai">visukammena</alternative>
+      <alternative source-abbr="ka." source="cambodian">visukammena</alternative>
     </alternatives>
     <type>auto</type>
     <previous>Kāsikaṃ nāma nagaraṃ, vissakammena </previous>

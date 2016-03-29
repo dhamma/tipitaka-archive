@@ -166,7 +166,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="ka." source="cambodian">jitaraṃsiṃ sītaraṃsiṃ</alternative>
-      <alternative source-abbr="sī. syā." source="sī. syā.">vītaraṃsiṃ</alternative>
+      <alternative source-abbr="sī." source="sri lanka">vītaraṃsiṃ</alternative>
+      <alternative source-abbr="syā." source="thai">vītaraṃsiṃ</alternative>
     </alternatives>
     <type>no_match</type>
     <previous> addasa buddhaṃ, pītaraṃsiṃva </previous>
@@ -175,7 +176,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">paripūraṃ</alternative>
-      <alternative source-abbr="sī. syā." source="sī. syā.">pāripūriṃ</alternative>
+      <alternative source-abbr="sī." source="sri lanka">pāripūriṃ</alternative>
+      <alternative source-abbr="syā." source="thai">pāripūriṃ</alternative>
     </alternatives>
     <type>auto</type>
     <previous>Candaṃ yathā pannarase, paripūraṃ </previous>
@@ -219,7 +221,8 @@
   <note line="195" original="sibbanimaccagā (sī. syā.)" reference-line="215" id="24">
     <extra></extra>
     <alternatives>
-      <alternative source-abbr="sī. syā." source="sī. syā.">sibbanimaccagā</alternative>
+      <alternative source-abbr="sī." source="sri lanka">sibbanimaccagā</alternative>
+      <alternative source-abbr="syā." source="thai">sibbanimaccagā</alternative>
     </alternatives>
     <type>no_match</type>
     <previous>Kaṃ brūsi mahāpurisoti, ko idha sibbinimaccagā’’ti </previous>
@@ -228,7 +231,9 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">abhijānamāno</alternative>
-      <alternative source-abbr="sī. syā. pī." source="sī. syā. pī.">ājānamāno</alternative>
+      <alternative source-abbr="sī." source="sri lanka">ājānamāno</alternative>
+      <alternative source-abbr="syā." source="thai">ājānamāno</alternative>
+      <alternative source-abbr="pī." source="pali text society">ājānamāno</alternative>
     </alternatives>
     <type>auto</type>
     <previous>Dhammañca seṭṭhaṃ abhijānamāno </previous>
@@ -246,7 +251,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">anānuyāyī</alternative>
-      <alternative source-abbr="syā. ka." source="syā. ka.">anānuvāyī</alternative>
+      <alternative source-abbr="syā." source="thai">anānuvāyī</alternative>
+      <alternative source-abbr="ka." source="cambodian">anānuvāyī</alternative>
     </alternatives>
     <type>auto</type>
     <previous>, tiṭṭhe nu so tattha anānuyāyī’’ </previous>
@@ -272,7 +278,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">Etaṃ</alternative>
-      <alternative source-abbr="syā. ka." source="syā. ka.">evaṃ</alternative>
+      <alternative source-abbr="syā." source="thai">evaṃ</alternative>
+      <alternative source-abbr="ka." source="cambodian">evaṃ</alternative>
     </alternatives>
     <type>auto</type>
     <previous>Etaṃ </previous>
@@ -303,7 +310,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">paricārakasoḷasānaṃ</alternative>
-      <alternative source-abbr="syā. ka." source="syā. ka.">paricārakasoḷasannaṃ</alternative>
+      <alternative source-abbr="syā." source="thai">paricārakasoḷasannaṃ</alternative>
+      <alternative source-abbr="ka." source="cambodian">paricārakasoḷasannaṃ</alternative>
     </alternatives>
     <type>auto</type>
     <previous> bhagavā magadhesu viharanto pāsāṇake cetiye, paricārakasoḷasānaṃ </previous>
@@ -312,7 +320,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">pañhaṃ</alternative>
-      <alternative source-abbr="sī. pī." source="sī. pī.">pañhe</alternative>
+      <alternative source-abbr="sī." source="sri lanka">pañhe</alternative>
+      <alternative source-abbr="pī." source="pali text society">pañhe</alternative>
     </alternatives>
     <type>auto</type>
     <previous> brāhmaṇānaṃ ajjhiṭṭho puṭṭho puṭṭho pañhaṃ </previous>
@@ -321,7 +330,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">pārāyananteva</alternative>
-      <alternative source-abbr="sī. aṭṭha." source="sī. aṭṭha.">pārāyaṇaṃtveva</alternative>
+      <alternative source-abbr="sī." source="sri lanka">pārāyaṇaṃtveva</alternative>
+      <alternative source-abbr="aṭṭha." source="aṭṭha.">pārāyaṇaṃtveva</alternative>
     </alternatives>
     <type>auto</type>
     <previous> byākāsi. Ekamekassa cepi pañhassa atthamaññāya dhammamaññāya dhammānudhammaṃ paṭipajjeyya, gaccheyyeva jarāmaraṇassa pāraṃ. Pāraṅgamanīyā ime dhammā’’ti – tasmā imassa dhammapariyāyassa pārāyananteva </previous>

@@ -32,7 +32,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">abbhuṭṭhahiya</alternative>
-      <alternative source-abbr="syā. ka." source="syā. ka.">abbhuṭṭhāsi ca</alternative>
+      <alternative source-abbr="syā." source="thai">abbhuṭṭhāsi ca</alternative>
+      <alternative source-abbr="ka." source="cambodian">abbhuṭṭhāsi ca</alternative>
     </alternatives>
     <type>auto</type>
     <previous> Vihārā abhinikkhamma, abbhuṭṭhahiya </previous>
@@ -41,7 +42,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">deseti</alternative>
-      <alternative source-abbr="syā. ka." source="syā. ka.">desento</alternative>
+      <alternative source-abbr="syā." source="thai">desento</alternative>
+      <alternative source-abbr="ka." source="cambodian">desento</alternative>
     </alternatives>
     <type>auto</type>
     <previous>Catusaccaṃ pakāsanto, deseti </previous>
@@ -68,7 +70,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">Sugatiṃ sukhasampattiṃ</alternative>
-      <alternative source-abbr="sī. syā." source="sī. syā.">sugatīsu susumpattiṃ</alternative>
+      <alternative source-abbr="sī." source="sri lanka">sugatīsu susumpattiṃ</alternative>
+      <alternative source-abbr="syā." source="thai">sugatīsu susumpattiṃ</alternative>
     </alternatives>
     <type>auto</type>
     <previous>Sugatiṃ sukhasampattiṃ </previous>
@@ -93,7 +96,8 @@
   <note line="83" original="terase (sī. syā.)" reference-line="113" id="10">
     <extra></extra>
     <alternatives>
-      <alternative source-abbr="sī. syā." source="sī. syā.">terase</alternative>
+      <alternative source-abbr="sī." source="sri lanka">terase</alternative>
+      <alternative source-abbr="syā." source="thai">terase</alternative>
     </alternatives>
     <type>no_match</type>
     <previous>Kappamhi cuddase </previous>

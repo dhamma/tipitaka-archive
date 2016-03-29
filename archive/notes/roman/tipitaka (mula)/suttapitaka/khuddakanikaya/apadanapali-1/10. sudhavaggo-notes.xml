@@ -14,7 +14,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">Aṭṭhārase</alternative>
-      <alternative source-abbr="sī. syā." source="sī. syā.">aṭṭhatiṃse</alternative>
+      <alternative source-abbr="sī." source="sri lanka">aṭṭhatiṃse</alternative>
+      <alternative source-abbr="syā." source="thai">aṭṭhatiṃse</alternative>
     </alternatives>
     <type>auto</type>
     <previous> Aṭṭhārase </previous>
@@ -23,7 +24,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">Paramakāpaññapattomhi</alternative>
-      <alternative source-abbr="syā. ka." source="syā. ka.">paramakāruññapattomhi</alternative>
+      <alternative source-abbr="syā." source="thai">paramakāruññapattomhi</alternative>
+      <alternative source-abbr="ka." source="cambodian">paramakāruññapattomhi</alternative>
     </alternatives>
     <type>auto</type>
     <previous>Paramakāpaññapattomhi </previous>
@@ -49,7 +51,8 @@
   <note line="44" original="khattiyāsuṃ (syā. ka.)" reference-line="58" id="5">
     <extra></extra>
     <alternatives>
-      <alternative source-abbr="syā. ka." source="syā. ka.">khattiyāsuṃ</alternative>
+      <alternative source-abbr="syā." source="thai">khattiyāsuṃ</alternative>
+      <alternative source-abbr="ka." source="cambodian">khattiyāsuṃ</alternative>
     </alternatives>
     <type>no_match</type>
     <previous>Samantacchadanā nāma, bāttiṃsāsuṃ </previous>
@@ -67,7 +70,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">ca bhave sabbe, vattamāne canāgate</alternative>
-      <alternative source-abbr="syā. ka." source="syā. ka.">atītā ca bhavā sabbe, vattamānā ca’nāgatā</alternative>
+      <alternative source-abbr="syā." source="thai">atītā ca bhavā sabbe, vattamānā ca’nāgatā</alternative>
+      <alternative source-abbr="ka." source="cambodian">atītā ca bhavā sabbe, vattamānā ca’nāgatā</alternative>
     </alternatives>
     <type>auto</type>
     <previous> ca bhave sabbe, vattamāne canāgate </previous>
@@ -104,7 +108,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">Vipine</alternative>
-      <alternative source-abbr="syā. aṭṭha." source="syā. aṭṭha.">vivane</alternative>
+      <alternative source-abbr="syā." source="thai">vivane</alternative>
+      <alternative source-abbr="aṭṭha." source="aṭṭha.">vivane</alternative>
     </alternatives>
     <type>auto</type>
     <previous> Vipine </previous>
@@ -123,7 +128,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">tāvade</alternative>
-      <alternative source-abbr="sī. syā." source="sī. syā.">vitti me pāhunā tāva</alternative>
+      <alternative source-abbr="sī." source="sri lanka">vitti me pāhunā tāva</alternative>
+      <alternative source-abbr="syā." source="thai">vitti me pāhunā tāva</alternative>
     </alternatives>
     <type>auto</type>
     <previous> Vitti mamāhu tāvade </previous>
@@ -141,7 +147,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">vāvaṭo</alternative>
-      <alternative source-abbr="sī. syā." source="sī. syā.">byāvaṭo</alternative>
+      <alternative source-abbr="sī." source="sri lanka">byāvaṭo</alternative>
+      <alternative source-abbr="syā." source="thai">byāvaṭo</alternative>
     </alternatives>
     <type>auto</type>
     <previous>Veyyāvaccakaro āsiṃ, sabbakiccesu vāvaṭo </previous>

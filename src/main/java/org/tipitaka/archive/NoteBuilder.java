@@ -213,19 +213,29 @@ public class NoteBuilder
         String altText = matcher.group(1).trim();
         count ++;
         state.nextNumber();
-        String name = matcher.group(2);
-        Version version = Version.toVersion(name);
-        if (version == null) {
-          System.err.println("notes source: " + name + " " + type);
-        }
         if (previous.endsWith("’’ti ") && altText.contains("ti") && found != null && found.endsWith("’’ti")) {
           int index = altText.lastIndexOf("ti");
           altText = altText.substring(0, index) + "’’" + altText.substring(index);
         }
-        state.append("      <alternative source-abbr=\"").append(version == null ? name : version.getAbbrevation())
-            .append("\" source=\"").append(version == null? name : version.getName())
-            .append("\">").append(altText)
-            .append("</alternative>\n");
+        String name = matcher.group(2);
+
+        boolean first = true;
+        for(String part: name.split(" ")) {
+          Version version = Version.toVersion(part);
+          if (version == null) {
+            // break the loop after using the name as source
+            System.err.println("notes source: " + name + " " + type + " " + sections);
+            if (first) part = name;
+          }
+          state.append("      <alternative source-abbr=\"").append(version == null ? part: version.getAbbrevation())
+              .append("\" source=\"").append(version == null ? part : version.getName())
+              .append("\">").append(altText)
+              .append("</alternative>\n");
+          if (first && name == part) {
+            break;
+          }
+          first = false;
+        }
       }
     }
     if (count == 0) {

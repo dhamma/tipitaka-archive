@@ -12,7 +12,8 @@
   <note line="11" original="ayoniso (syā. kaṃ.)" reference-line="3" id="1">
     <extra></extra>
     <alternatives>
-      <alternative source-abbr="syā. kaṃ." source="syā. kaṃ.">ayoniso</alternative>
+      <alternative source-abbr="syā." source="thai">ayoniso</alternative>
+      <alternative source-abbr="kaṃ." source="kaṃ.">ayoniso</alternative>
     </alternatives>
     <type>no_match</type>
     <previous> paribhoti, attānaṃ paribhoti, vikkhittacitto dhammaṃ suṇāti, anekaggacitto ayoniso ca </previous>
@@ -21,7 +22,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">upārambhacitto</alternative>
-      <alternative source-abbr="syā. kaṃ." source="syā. kaṃ.">saupārambhacitto</alternative>
+      <alternative source-abbr="syā." source="thai">saupārambhacitto</alternative>
+      <alternative source-abbr="kaṃ." source="kaṃ.">saupārambhacitto</alternative>
     </alternatives>
     <type>auto</type>
     <previous> Pañcahi, bhikkhave, dhammehi samannāgato suṇantopi saddhammaṃ abhabbo niyāmaṃ okkamituṃ kusalesu dhammesu sammattaṃ. Katamehi pañcahi? Makkhī dhammaṃ suṇāti makkhapariyuṭṭhito, upārambhacitto </previous>
@@ -30,7 +32,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">khīlajāto</alternative>
-      <alternative source-abbr="syā. pī." source="syā. pī.">khilajāto</alternative>
+      <alternative source-abbr="syā." source="thai">khilajāto</alternative>
+      <alternative source-abbr="pī." source="pali text society">khilajāto</alternative>
     </alternatives>
     <type>auto</type>
     <previous> āhatacitto hoti khīlajāto </previous>
@@ -39,7 +42,10 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">dhātānaṃ</alternative>
-      <alternative source-abbr="sī. syā. kaṃ. pī." source="sī. syā. kaṃ. pī.">dhatānaṃ</alternative>
+      <alternative source-abbr="sī." source="sri lanka">dhatānaṃ</alternative>
+      <alternative source-abbr="syā." source="thai">dhatānaṃ</alternative>
+      <alternative source-abbr="kaṃ." source="kaṃ.">dhatānaṃ</alternative>
+      <alternative source-abbr="pī." source="pali text society">dhatānaṃ</alternative>
     </alternatives>
     <type>auto</type>
     <previous> Pañcime, bhikkhave, dhammā saddhammassa sammosāya antaradhānāya saṃvattanti. Katame pañca? Idha, bhikkhave, bhikkhū na sakkaccaṃ dhammaṃ suṇanti, na sakkaccaṃ dhammaṃ pariyāpuṇanti, na sakkaccaṃ dhammaṃ dhārenti, na sakkaccaṃ dhātānaṃ </previous>
@@ -48,7 +54,10 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">paraṃ</alternative>
-      <alternative source-abbr="sī. syā. kaṃ. pī." source="sī. syā. kaṃ. pī.">paresaṃ</alternative>
+      <alternative source-abbr="sī." source="sri lanka">paresaṃ</alternative>
+      <alternative source-abbr="syā." source="thai">paresaṃ</alternative>
+      <alternative source-abbr="kaṃ." source="kaṃ.">paresaṃ</alternative>
+      <alternative source-abbr="pī." source="pali text society">paresaṃ</alternative>
       <alternative source-abbr="?" source="unknown">pare</alternative>
     </alternatives>
     <type>auto</type>
@@ -61,7 +70,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">pariccajanā</alternative>
-      <alternative source-abbr="syā. kaṃ." source="syā. kaṃ.">pariccajā</alternative>
+      <alternative source-abbr="syā." source="thai">pariccajā</alternative>
+      <alternative source-abbr="kaṃ." source="kaṃ.">pariccajā</alternative>
     </alternatives>
     <type>auto</type>
     <previous>Puna caparaṃ, bhikkhave, saṅgho bhinno hoti. Saṅghe kho pana, bhikkhave, bhinne aññamaññaṃ akkosā ca honti, aññamaññaṃ paribhāsā ca honti, aññamaññaṃ parikkhepā ca honti, aññamaññaṃ pariccajanā </previous>
@@ -79,7 +89,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">puggale puggalaṃ</alternative>
-      <alternative source-abbr="sī. pī." source="sī. pī.">puggalaṃ puggalaṃ</alternative>
+      <alternative source-abbr="sī." source="sri lanka">puggalaṃ puggalaṃ</alternative>
+      <alternative source-abbr="pī." source="pali text society">puggalaṃ puggalaṃ</alternative>
     </alternatives>
     <type>auto</type>
     <previous>, bhikkhave, puggalānaṃ kathā dukkathā puggale puggalaṃ </previous>
@@ -88,7 +99,9 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">maccharissa</alternative>
-      <alternative source-abbr="sī. pī. ka." source="sī. pī. ka.">macchariyassa</alternative>
+      <alternative source-abbr="sī." source="sri lanka">macchariyassa</alternative>
+      <alternative source-abbr="pī." source="pali text society">macchariyassa</alternative>
+      <alternative source-abbr="ka." source="cambodian">macchariyassa</alternative>
     </alternatives>
     <type>auto</type>
     <previous> upanidhāya. Katamesaṃ pañcannaṃ? Assaddhassa, bhikkhave, saddhākathā dukkathā; dussīlassa sīlakathā dukkathā; appassutassa bāhusaccakathā dukkathā; maccharissa </previous>
@@ -125,7 +138,9 @@
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">kathaṃ</alternative>
       <alternative source-abbr="sī." source="sri lanka">ānupubbikathaṃ</alternative>
-      <alternative source-abbr="syā. pī. ka." source="syā. pī. ka.">anupubbikathaṃ</alternative>
+      <alternative source-abbr="syā." source="thai">anupubbikathaṃ</alternative>
+      <alternative source-abbr="pī." source="pali text society">anupubbikathaṃ</alternative>
+      <alternative source-abbr="ka." source="cambodian">anupubbikathaṃ</alternative>
     </alternatives>
     <type>auto</type>
     <previous>, sukaraṃ paresaṃ dhammaṃ desetuṃ. Paresaṃ, ānanda, dhammaṃ desentena pañca dhamme ajjhattaṃ upaṭṭhāpetvā paresaṃ dhammo desetabbo. Katame pañca? ‘Anupubbiṃ kathaṃ </previous>

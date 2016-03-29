@@ -7,7 +7,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">arahaṃ</alternative>
-      <alternative source-abbr="syā. kaṃ." source="syā. kaṃ.">arahā</alternative>
+      <alternative source-abbr="syā." source="thai">arahā</alternative>
+      <alternative source-abbr="kaṃ." source="kaṃ.">arahā</alternative>
       <alternative source-abbr="ka." source="cambodian">arahanto</alternative>
     </alternatives>
     <type>auto</type>
@@ -17,7 +18,10 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">upaṭṭhāpeti</alternative>
-      <alternative source-abbr="sī. syā. kaṃ. pī." source="sī. syā. kaṃ. pī.">upaṭṭhapeti</alternative>
+      <alternative source-abbr="sī." source="sri lanka">upaṭṭhapeti</alternative>
+      <alternative source-abbr="syā." source="thai">upaṭṭhapeti</alternative>
+      <alternative source-abbr="kaṃ." source="kaṃ.">upaṭṭhapeti</alternative>
+      <alternative source-abbr="pī." source="pali text society">upaṭṭhapeti</alternative>
     </alternatives>
     <type>auto</type>
     <previous> Chahi, bhikkhave, dhammehi samannāgato suṇantopi saddhammaṃ abhabbo niyāmaṃ okkamituṃ kusalesu dhammesu sammattaṃ. Katamehi chahi? Tathāgatappavedite dhammavinaye desiyamāne na sussūsati, na sotaṃ odahati, na aññā cittaṃ upaṭṭhāpeti </previous>
@@ -36,7 +40,8 @@
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">kammaṃ</alternative>
       <alternative source-abbr="sī." source="sri lanka">ānantariyakammaṃ</alternative>
-      <alternative source-abbr="syā. pī." source="syā. pī.">anantariyakammaṃ</alternative>
+      <alternative source-abbr="syā." source="thai">anantariyakammaṃ</alternative>
+      <alternative source-abbr="pī." source="pali text society">anantariyakammaṃ</alternative>
     </alternatives>
     <type>auto</type>
     <previous> saṅkhāraṃ niccato upagantuṃ, abhabbo diṭṭhisampanno puggalo kañci saṅkhāraṃ sukhato upagantuṃ, abhabbo diṭṭhisampanno puggalo kañci dhammaṃ attato upagantuṃ, abhabbo diṭṭhisampanno puggalo ānantariyaṃ kammaṃ </previous>
@@ -45,7 +50,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">paraṃkataṃ</alternative>
-      <alternative source-abbr="sī. syā." source="sī. syā.">parakataṃ</alternative>
+      <alternative source-abbr="sī." source="sri lanka">parakataṃ</alternative>
+      <alternative source-abbr="syā." source="thai">parakataṃ</alternative>
     </alternatives>
     <type>auto</type>
     <previous>, bhikkhave, abhabbaṭṭhānāni. Katamāni cha? Abhabbo diṭṭhisampanno puggalo sayaṃkataṃ sukhadukkhaṃ paccāgantuṃ, abhabbo diṭṭhisampanno puggalo paraṃkataṃ </previous>
@@ -53,7 +59,8 @@
   <note line="48" original="catuttho (syā. ka.)" reference-line="29" id="6">
     <extra></extra>
     <alternatives>
-      <alternative source-abbr="syā. ka." source="syā. ka.">catuttho</alternative>
+      <alternative source-abbr="syā." source="thai">catuttho</alternative>
+      <alternative source-abbr="ka." source="cambodian">catuttho</alternative>
     </alternatives>
     <type>no_match</type>
     <previous>Sītivaggo navamo. </previous>

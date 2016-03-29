@@ -13,7 +13,9 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">vālukaṃ</alternative>
-      <alternative source-abbr="sī. syā. kaṃ." source="sī. syā. kaṃ.">vālikaṃ</alternative>
+      <alternative source-abbr="sī." source="sri lanka">vālikaṃ</alternative>
+      <alternative source-abbr="syā." source="thai">vālikaṃ</alternative>
+      <alternative source-abbr="kaṃ." source="kaṃ.">vālikaṃ</alternative>
     </alternatives>
     <type>auto</type>
     <previous>Tena hi, mahārāja, taññevettha paṭipucchissāmi. Yathā te khameyya tathā naṃ byākareyyāsi. Taṃ kiṃ maññasi, mahārāja, atthi te koci gaṇako vā muddiko vā saṅkhāyako vā yo pahoti gaṅgāya vālukaṃ </previous>
@@ -40,7 +42,9 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">virodhayissati</alternative>
-      <alternative source-abbr="sī. syā. kaṃ." source="sī. syā. kaṃ.">vihāyissati</alternative>
+      <alternative source-abbr="sī." source="sri lanka">vihāyissati</alternative>
+      <alternative source-abbr="syā." source="thai">vihāyissati</alternative>
+      <alternative source-abbr="kaṃ." source="kaṃ.">vihāyissati</alternative>
       <alternative source-abbr="ka." source="cambodian">vigāyissati</alternative>
     </alternatives>
     <type>auto</type>
@@ -59,7 +63,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">tathāgate anupalabbhiyamāne</alternative>
-      <alternative source-abbr="syā. ka." source="syā. ka.">tathāgato anupalabbhiyamāno</alternative>
+      <alternative source-abbr="syā." source="thai">tathāgato anupalabbhiyamāno</alternative>
+      <alternative source-abbr="ka." source="cambodian">tathāgato anupalabbhiyamāno</alternative>
       <alternative source-abbr="?" source="unknown">tathāgate anupalabbhamāne</alternative>
     </alternatives>
     <type>auto</type>
@@ -78,7 +83,9 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">vaṭṭaṃ</alternative>
-      <alternative source-abbr="syā. kaṃ. ka." source="syā. kaṃ. ka.">vattaṃ</alternative>
+      <alternative source-abbr="syā." source="thai">vattaṃ</alternative>
+      <alternative source-abbr="kaṃ." source="kaṃ.">vattaṃ</alternative>
+      <alternative source-abbr="ka." source="cambodian">vattaṃ</alternative>
       <alternative source-abbr="pī." source="pali text society">vaddhaṃ</alternative>
     </alternatives>
     <type>auto</type>
@@ -88,7 +95,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">satthu ca</alternative>
-      <alternative source-abbr="sī. pī." source="sī. pī.">satthussa ca</alternative>
+      <alternative source-abbr="sī." source="sri lanka">satthussa ca</alternative>
+      <alternative source-abbr="pī." source="pali text society">satthussa ca</alternative>
       <alternative source-abbr="khemāsutte" source="khemāsutte">satthu ceva</alternative>
     </alternatives>
     <type>auto</type>
@@ -98,7 +106,10 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">sañcayo</alternative>
-      <alternative source-abbr="sī. syā. kaṃ. pī." source="sī. syā. kaṃ. pī.">sañjayo</alternative>
+      <alternative source-abbr="sī." source="sri lanka">sañjayo</alternative>
+      <alternative source-abbr="syā." source="thai">sañjayo</alternative>
+      <alternative source-abbr="kaṃ." source="kaṃ.">sañjayo</alternative>
+      <alternative source-abbr="pī." source="pali text society">sañjayo</alternative>
     </alternatives>
     <type>auto</type>
     <previous>Ayampi kho makkhali gosālo…pe… ayampi kho nigaṇṭho nāṭaputto…pe… ayampi kho sañcayo </previous>
@@ -125,7 +136,10 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">kathaṃ nāma</alternative>
-      <alternative source-abbr="syā. kaṃ. pī. ka." source="syā. kaṃ. pī. ka.">kathañhi nāma</alternative>
+      <alternative source-abbr="syā." source="thai">kathañhi nāma</alternative>
+      <alternative source-abbr="kaṃ." source="kaṃ.">kathañhi nāma</alternative>
+      <alternative source-abbr="pī." source="pali text society">kathañhi nāma</alternative>
+      <alternative source-abbr="ka." source="cambodian">kathañhi nāma</alternative>
       <alternative source-abbr="chakkaṅguttare pañcamavagge dutiyasutte" source="chakkaṅguttare pañcamavagge dutiyasutte">kathaṃ kathaṃ nāma</alternative>
     </alternatives>
     <type>auto</type>
@@ -134,7 +148,8 @@
   <note line="120" original="dhammābhiññeyyāti (pī. ka.) dhammo… aññeyyo (chakkaṅguttare)" reference-line="73" id="14">
     <extra></extra>
     <alternatives>
-      <alternative source-abbr="pī. ka." source="pī. ka.">dhammābhiññeyyāti</alternative>
+      <alternative source-abbr="pī." source="pali text society">dhammābhiññeyyāti</alternative>
+      <alternative source-abbr="ka." source="cambodian">dhammābhiññeyyāti</alternative>
       <alternative source-abbr="chakkaṅguttare" source="chakkaṅguttare">dhammo… aññeyyo</alternative>
     </alternatives>
     <type>no_match</type>
@@ -161,7 +176,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">ko paccayo, yenetaṃ abyākataṃ samaṇena gotamenā’’ti? ‘‘Yo ca, vaccha, hetu, yo ca paccayo paññāpanāya rūpīti vā arūpīti vā saññīti vā asaññīti vā nevasaññīnāsaññīti vā, so ca hetu, so ca paccayo sabbena sabbaṃ sabbathā sabbaṃ aparisesaṃ nirujjheyya. Kena naṃ paññāpayamāno paññāpeyya rūpīti vā arūpīti vā saññīti vā asaññīti vā nevasaññīnāsaññīti vā’’ti. ‘‘Kīvaciraṃ pabbajitosi, bho kaccānā’’ti? ‘‘Naciraṃ, āvuso, tīṇi vassānī’’ti. ‘‘Yassapa’ssa, āvuso, etamettakena ettakameva taṃpa’ssa bahu, ko pana vādo evaṃ</alternative>
-      <alternative source-abbr="sī. pī." source="sī. pī.">ko pana vādo eva</alternative>
+      <alternative source-abbr="sī." source="sri lanka">ko pana vādo eva</alternative>
+      <alternative source-abbr="pī." source="pali text society">ko pana vādo eva</alternative>
     </alternatives>
     <type>auto</type>
     <previous> na hoti tathāgato paraṃ maraṇā’ti vadesi. Ko nu kho, bho kaccāna, hetu, ko paccayo, yenetaṃ abyākataṃ samaṇena gotamenā’’ti? Yo ca, vaccha, hetu, yo ca paccayo paññāpanāya rūpīti vā arūpīti vā saññīti vā asaññīti vā nevasaññīnāsaññīti vā, so ca hetu, so ca paccayo sabbena sabbaṃ sabbathā sabbaṃ aparisesaṃ nirujjheyya. Kena naṃ paññāpayamāno paññāpeyya rūpīti vā arūpīti vā saññīti vā asaññīti vā nevasaññīnāsaññīti vā’’ti. Kīvaciraṃ pabbajitosi, bho kaccānā’’ti? Naciraṃ, āvuso, tīṇi vassānī’’ti. Yassapa’ssa, āvuso, etamettakena ettakameva taṃpa’ssa bahu, ko pana vādo evaṃ </previous>

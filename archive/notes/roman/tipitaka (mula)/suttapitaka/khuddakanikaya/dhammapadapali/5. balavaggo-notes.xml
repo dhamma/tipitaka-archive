@@ -39,7 +39,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">bālo</alternative>
-      <alternative source-abbr="sī. syā." source="sī. syā.">atha bālo</alternative>
+      <alternative source-abbr="sī." source="sri lanka">atha bālo</alternative>
+      <alternative source-abbr="syā." source="thai">atha bālo</alternative>
       <alternative source-abbr="?" source="unknown">atha</alternative>
     </alternatives>
     <type>auto</type>
@@ -49,7 +50,9 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">saṅkhātadhammānaṃ</alternative>
-      <alternative source-abbr="sī. pī. ka." source="sī. pī. ka.">saṅkhatadhammānaṃ</alternative>
+      <alternative source-abbr="sī." source="sri lanka">saṅkhatadhammānaṃ</alternative>
+      <alternative source-abbr="pī." source="pali text society">saṅkhatadhammānaṃ</alternative>
+      <alternative source-abbr="ka." source="cambodian">saṅkhatadhammānaṃ</alternative>
     </alternatives>
     <type>auto</type>
     <previous>Na so saṅkhātadhammānaṃ </previous>
@@ -58,7 +61,9 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">bhasmacchannova</alternative>
-      <alternative source-abbr="sī. pī. ka." source="sī. pī. ka.">bhasmāchannova</alternative>
+      <alternative source-abbr="sī." source="sri lanka">bhasmāchannova</alternative>
+      <alternative source-abbr="pī." source="pali text society">bhasmāchannova</alternative>
+      <alternative source-abbr="ka." source="cambodian">bhasmāchannova</alternative>
     </alternatives>
     <type>auto</type>
     <previous>Ḍahantaṃ bālamanveti, bhasmacchannova </previous>

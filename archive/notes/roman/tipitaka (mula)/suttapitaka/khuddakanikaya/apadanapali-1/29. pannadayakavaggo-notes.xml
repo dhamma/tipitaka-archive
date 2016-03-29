@@ -13,7 +13,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">nisinnaṃ</alternative>
-      <alternative source-abbr="syā. aṭṭha." source="syā. aṭṭha.">nisinnassa</alternative>
+      <alternative source-abbr="syā." source="thai">nisinnassa</alternative>
+      <alternative source-abbr="aṭṭha." source="aṭṭha.">nisinnassa</alternative>
     </alternatives>
     <type>auto</type>
     <previous>Tassa paṇṇaṃ mayā dinnaṃ, nisinnaṃ </previous>
@@ -22,7 +23,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">dharaṇīsama</alternative>
-      <alternative source-abbr="sī. syā." source="sī. syā.">dharaṇīdhara</alternative>
+      <alternative source-abbr="sī." source="sri lanka">dharaṇīdhara</alternative>
+      <alternative source-abbr="syā." source="thai">dharaṇīdhara</alternative>
     </alternatives>
     <type>auto</type>
     <previous>, dharaṇīsama </previous>
@@ -40,7 +42,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">Sattatiṃse</alternative>
-      <alternative source-abbr="sī. syā." source="sī. syā.">sattavīse</alternative>
+      <alternative source-abbr="sī." source="sri lanka">sattavīse</alternative>
+      <alternative source-abbr="syā." source="thai">sattavīse</alternative>
     </alternatives>
     <type>auto</type>
     <previous> Sattatiṃse </previous>
@@ -85,7 +88,8 @@
   <note line="76" original="paricariṃ (sī. syā.)" reference-line="138" id="9">
     <extra></extra>
     <alternatives>
-      <alternative source-abbr="sī. syā." source="sī. syā.">paricariṃ</alternative>
+      <alternative source-abbr="sī." source="sri lanka">paricariṃ</alternative>
+      <alternative source-abbr="syā." source="thai">paricariṃ</alternative>
     </alternatives>
     <type>no_match</type>
     <previous> Ekattiṃse ito kappe, buddhe upaṭṭhahiṃ </previous>

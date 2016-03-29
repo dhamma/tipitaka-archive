@@ -4,7 +4,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">daḷhadhammino</alternative>
-      <alternative source-abbr="sī. aṭṭha." source="sī. aṭṭha.">daḷhadhanvino</alternative>
+      <alternative source-abbr="sī." source="sri lanka">daḷhadhanvino</alternative>
+      <alternative source-abbr="aṭṭha." source="aṭṭha.">daḷhadhanvino</alternative>
     </alternatives>
     <type>auto</type>
     <previous> Uggaputtā mahissāsā, sikkhitā daḷhadhammino </previous>
@@ -31,7 +32,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">samhi</alternative>
-      <alternative source-abbr="syā. ka." source="syā. ka.">dhammesvamhi</alternative>
+      <alternative source-abbr="syā." source="thai">dhammesvamhi</alternative>
+      <alternative source-abbr="ka." source="cambodian">dhammesvamhi</alternative>
     </alternatives>
     <type>auto</type>
     <previous>, dhamme samhi </previous>
@@ -127,7 +129,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">atikkamamaddasa</alternative>
-      <alternative source-abbr="sī. ka." source="sī. ka.">atikkamamadda</alternative>
+      <alternative source-abbr="sī." source="sri lanka">atikkamamadda</alternative>
+      <alternative source-abbr="ka." source="cambodian">atikkamamadda</alternative>
     </alternatives>
     <type>auto</type>
     <previous>, sabbaṭhitīnaṃ atikkamamaddasa </previous>
@@ -154,7 +157,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">saddhā</alternative>
-      <alternative source-abbr="sī. aṭṭha." source="sī. aṭṭha.">addhā</alternative>
+      <alternative source-abbr="sī." source="sri lanka">addhā</alternative>
+      <alternative source-abbr="aṭṭha." source="aṭṭha.">addhā</alternative>
     </alternatives>
     <type>auto</type>
     <previous>Dhammaṃ sutvā pasīdimha, saddhā </previous>
@@ -163,7 +167,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">Suvibhattesu</alternative>
-      <alternative source-abbr="sī. ka." source="sī. ka.">savibhattesu</alternative>
+      <alternative source-abbr="sī." source="sri lanka">savibhattesu</alternative>
+      <alternative source-abbr="ka." source="cambodian">savibhattesu</alternative>
     </alternatives>
     <type>auto</type>
     <previous>Suvibhattesu </previous>
@@ -171,7 +176,8 @@
   <note line="153" original="hetuṃ (sī. syā.) suttanipātaṭṭhakathā passitabbā" reference-line="174" id="19">
     <extra> suttanipātaṭṭhakathā passitabbā</extra>
     <alternatives>
-      <alternative source-abbr="sī. syā." source="sī. syā.">hetuṃ</alternative>
+      <alternative source-abbr="sī." source="sri lanka">hetuṃ</alternative>
+      <alternative source-abbr="syā." source="thai">hetuṃ</alternative>
     </alternatives>
     <type>no_match</type>
     <previous>Samavaṭṭhitā no savanāya sotā </previous>
@@ -188,7 +194,8 @@
   <note line="168" original="paṭivediyāmi (sī. ka.)" reference-line="191" id="21">
     <extra></extra>
     <alternatives>
-      <alternative source-abbr="sī. ka." source="sī. ka.">paṭivediyāmi</alternative>
+      <alternative source-abbr="sī." source="sri lanka">paṭivediyāmi</alternative>
+      <alternative source-abbr="ka." source="cambodian">paṭivediyāmi</alternative>
     </alternatives>
     <type>no_match</type>
     <previous> asesaṃ, niggayha dhonaṃ vadessāmi </previous>
@@ -197,7 +204,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">hi</alternative>
-      <alternative source-abbr="sī. ka." source="sī. ka.">hoti</alternative>
+      <alternative source-abbr="sī." source="sri lanka">hoti</alternative>
+      <alternative source-abbr="ka." source="cambodian">hoti</alternative>
     </alternatives>
     <type>auto</type>
     <previous>Na kāmakāro hi </previous>

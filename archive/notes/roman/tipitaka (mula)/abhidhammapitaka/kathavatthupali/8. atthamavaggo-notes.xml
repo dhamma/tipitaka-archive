@@ -7,7 +7,9 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">kālakañcikā</alternative>
-      <alternative source-abbr="sī. syā. kaṃ." source="sī. syā. kaṃ.">kālakañjikā</alternative>
+      <alternative source-abbr="sī." source="sri lanka">kālakañjikā</alternative>
+      <alternative source-abbr="syā." source="thai">kālakañjikā</alternative>
+      <alternative source-abbr="kaṃ." source="kaṃ.">kālakañjikā</alternative>
       <alternative source-abbr="pī." source="pali text society">kāḷakañjakā</alternative>
     </alternatives>
     <type>auto</type>
@@ -17,7 +19,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">vata re</alternative>
-      <alternative source-abbr="sī. ka." source="sī. ka.">no ca vata re</alternative>
+      <alternative source-abbr="sī." source="sri lanka">no ca vata re</alternative>
+      <alternative source-abbr="ka." source="cambodian">no ca vata re</alternative>
       <alternative source-abbr="syā." source="thai">no vata re</alternative>
     </alternatives>
     <type>auto</type>
@@ -104,7 +107,9 @@
   <note line="96" original="na hevaṃ vattabbe (syā. kaṃ. pī.)" reference-line="149" id="17">
     <extra></extra>
     <alternatives>
-      <alternative source-abbr="syā. kaṃ. pī." source="syā. kaṃ. pī.">na hevaṃ vattabbe</alternative>
+      <alternative source-abbr="syā." source="thai">na hevaṃ vattabbe</alternative>
+      <alternative source-abbr="kaṃ." source="kaṃ.">na hevaṃ vattabbe</alternative>
+      <alternative source-abbr="pī." source="pali text society">na hevaṃ vattabbe</alternative>
     </alternatives>
     <type>no_match</type>
     <previous> jīvitindriyānīti? Āmantā. Dvīhi jīvitehi jīvati, dvīhi maraṇehi mīyatīti? Āmantā </previous>

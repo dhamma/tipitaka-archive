@@ -4,7 +4,9 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">yassa</alternative>
-      <alternative source-abbr="sī. syā. pī." source="sī. syā. pī.">jitamassa</alternative>
+      <alternative source-abbr="sī." source="sri lanka">jitamassa</alternative>
+      <alternative source-abbr="syā." source="thai">jitamassa</alternative>
+      <alternative source-abbr="pī." source="pali text society">jitamassa</alternative>
       <alternative source-abbr="ka." source="cambodian">jitaṃ massa</alternative>
     </alternatives>
     <type>auto</type>
@@ -32,7 +34,9 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">nibbānaṃ</alternative>
-      <alternative source-abbr="ka. sī. pī." source="ka. sī. pī.">nibbāṇaṃ</alternative>
+      <alternative source-abbr="ka." source="cambodian">nibbāṇaṃ</alternative>
+      <alternative source-abbr="sī." source="sri lanka">nibbāṇaṃ</alternative>
+      <alternative source-abbr="pī." source="pali text society">nibbāṇaṃ</alternative>
     </alternatives>
     <type>auto</type>
     <previous> Khantī paramaṃ tapo titikkhā, nibbānaṃ </previous>
@@ -44,7 +48,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">Anūpavādo anūpaghāto</alternative>
-      <alternative source-abbr="syā. ka." source="syā. ka.">anupavādo anupaghāto</alternative>
+      <alternative source-abbr="syā." source="thai">anupavādo anupaghāto</alternative>
+      <alternative source-abbr="ka." source="cambodian">anupavādo anupaghāto</alternative>
     </alternatives>
     <type>auto</type>
     <previous> Anūpavādo anūpaghāto </previous>

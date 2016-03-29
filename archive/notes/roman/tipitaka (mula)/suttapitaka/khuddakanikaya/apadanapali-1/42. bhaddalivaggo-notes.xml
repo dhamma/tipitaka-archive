@@ -30,7 +30,8 @@
   <note line="27" original="vaka (sī. pī.), bakā (syā.), vakā (ka.)" reference-line="114" id="3">
     <extra></extra>
     <alternatives>
-      <alternative source-abbr="sī. pī." source="sī. pī.">vaka</alternative>
+      <alternative source-abbr="sī." source="sri lanka">vaka</alternative>
+      <alternative source-abbr="pī." source="pali text society">vaka</alternative>
       <alternative source-abbr="syā." source="thai">bakā</alternative>
       <alternative source-abbr="ka." source="cambodian">vakā</alternative>
     </alternatives>
@@ -40,7 +41,8 @@
   <note line="36" original="pupphanti mama assame (sī. pī.)" reference-line="121" id="4">
     <extra></extra>
     <alternatives>
-      <alternative source-abbr="sī. pī." source="sī. pī.">pupphanti mama assame</alternative>
+      <alternative source-abbr="sī." source="sri lanka">pupphanti mama assame</alternative>
+      <alternative source-abbr="pī." source="pali text society">pupphanti mama assame</alternative>
     </alternatives>
     <type>no_match</type>
     <previous>Atimuttā asokā ca, sobhayanti mamassamaṃ </previous>
@@ -49,7 +51,9 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">ca pupphanti, sobhayantā mamassamaṃ</alternative>
-      <alternative source-abbr="sī. syā. pī." source="sī. syā. pī.">kaṇikākaṇikārā ca, pupphanti mama assame</alternative>
+      <alternative source-abbr="sī." source="sri lanka">kaṇikākaṇikārā ca, pupphanti mama assame</alternative>
+      <alternative source-abbr="syā." source="thai">kaṇikākaṇikārā ca, pupphanti mama assame</alternative>
+      <alternative source-abbr="pī." source="pali text society">kaṇikākaṇikārā ca, pupphanti mama assame</alternative>
     </alternatives>
     <type>auto</type>
     <previous>Kaṇikārā ca pupphanti, sobhayantā mamassamaṃ </previous>
@@ -58,7 +62,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">girimālettha</alternative>
-      <alternative source-abbr="sī. pī." source="sī. pī.">bhaginimālettha</alternative>
+      <alternative source-abbr="sī." source="sri lanka">bhaginimālettha</alternative>
+      <alternative source-abbr="pī." source="pali text society">bhaginimālettha</alternative>
       <alternative source-abbr="syā." source="thai">bhaginimālā ca</alternative>
     </alternatives>
     <type>auto</type>
@@ -83,7 +88,9 @@
   <note line="74" original="kammassa nissando (sī. syā. pī.)" reference-line="292" id="9">
     <extra></extra>
     <alternatives>
-      <alternative source-abbr="sī. syā. pī." source="sī. syā. pī.">kammassa nissando</alternative>
+      <alternative source-abbr="sī." source="sri lanka">kammassa nissando</alternative>
+      <alternative source-abbr="syā." source="thai">kammassa nissando</alternative>
+      <alternative source-abbr="pī." source="pali text society">kammassa nissando</alternative>
     </alternatives>
     <type>no_match</type>
     <previous>Tassa kammanissandena </previous>
@@ -91,7 +98,8 @@
   <note line="81" original="so (syā. pī.)" reference-line="292" id="10">
     <extra></extra>
     <alternatives>
-      <alternative source-abbr="syā. pī." source="syā. pī.">so</alternative>
+      <alternative source-abbr="syā." source="thai">so</alternative>
+      <alternative source-abbr="pī." source="pali text society">so</alternative>
     </alternatives>
     <type>no_match</type>
     <previous>, pupphānaṃ pūjanāya ca </previous>
@@ -109,7 +117,9 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">saṃyuttaṃ</alternative>
-      <alternative source-abbr="sī. syā. pī." source="sī. syā. pī.">saṃyutto</alternative>
+      <alternative source-abbr="sī." source="sri lanka">saṃyutto</alternative>
+      <alternative source-abbr="syā." source="thai">saṃyutto</alternative>
+      <alternative source-abbr="pī." source="pali text society">saṃyutto</alternative>
     </alternatives>
     <type>auto</type>
     <previous>Puññakammena saṃyuttaṃ </previous>
@@ -127,7 +137,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">Ukkoṭaṃ randhayitvāna</alternative>
-      <alternative source-abbr="sī. syā." source="sī. syā.">ukkoṭakaṃ randhayitvā</alternative>
+      <alternative source-abbr="sī." source="sri lanka">ukkoṭakaṃ randhayitvā</alternative>
+      <alternative source-abbr="syā." source="thai">ukkoṭakaṃ randhayitvā</alternative>
     </alternatives>
     <type>auto</type>
     <previous>Ukkoṭaṃ randhayitvāna </previous>
@@ -146,7 +157,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">madhudānena</alternative>
-      <alternative source-abbr="sī. pī." source="sī. pī.">maṃsadānena</alternative>
+      <alternative source-abbr="sī." source="sri lanka">maṃsadānena</alternative>
+      <alternative source-abbr="pī." source="pali text society">maṃsadānena</alternative>
     </alternatives>
     <type>auto</type>
     <previous> Teneva madhudānena </previous>
@@ -155,7 +167,9 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">Tirokuṭṭaṃ</alternative>
-      <alternative source-abbr="sī. syā. ka." source="sī. syā. ka.">tirokuḍḍaṃ</alternative>
+      <alternative source-abbr="sī." source="sri lanka">tirokuḍḍaṃ</alternative>
+      <alternative source-abbr="syā." source="thai">tirokuḍḍaṃ</alternative>
+      <alternative source-abbr="ka." source="cambodian">tirokuḍḍaṃ</alternative>
     </alternatives>
     <type>auto</type>
     <previous> Tirokuṭṭaṃ </previous>

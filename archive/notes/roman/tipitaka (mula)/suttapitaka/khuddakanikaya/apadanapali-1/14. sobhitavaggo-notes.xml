@@ -40,7 +40,9 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">pilakkhu</alternative>
-      <alternative source-abbr="sī. theragāthā aṭṭha." source="sī. theragāthā aṭṭha.">pilakkho</alternative>
+      <alternative source-abbr="sī." source="sri lanka">pilakkho</alternative>
+      <alternative source-abbr="theragāthā" source="theragāthā">pilakkho</alternative>
+      <alternative source-abbr="aṭṭha." source="aṭṭha.">pilakkho</alternative>
     </alternatives>
     <type>auto</type>
     <previous> tīre, pilakkhu </previous>
@@ -78,7 +80,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">appamāṇe</alternative>
-      <alternative source-abbr="sī. syā." source="sī. syā.">appamāṇaṃ</alternative>
+      <alternative source-abbr="sī." source="sri lanka">appamāṇaṃ</alternative>
+      <alternative source-abbr="syā." source="thai">appamāṇaṃ</alternative>
     </alternatives>
     <type>auto</type>
     <previous>Mettāya aphari satte, appamāṇe </previous>
@@ -140,7 +143,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">Vikappetuṃ</alternative>
-      <alternative source-abbr="sī. syā." source="sī. syā.">vikopetuṃ</alternative>
+      <alternative source-abbr="sī." source="sri lanka">vikopetuṃ</alternative>
+      <alternative source-abbr="syā." source="thai">vikopetuṃ</alternative>
     </alternatives>
     <type>auto</type>
     <previous>Vikappetuṃ </previous>
@@ -158,7 +162,8 @@
     <extra> upari tevīsatimavagge pana chaṭṭhāpadāne ‘‘me nāmaṃ‘‘icceva dissati</extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">nāmaṃ</alternative>
-      <alternative source-abbr="syā. ka." source="syā. ka.">nārado iti nāmena</alternative>
+      <alternative source-abbr="syā." source="thai">nārado iti nāmena</alternative>
+      <alternative source-abbr="ka." source="cambodian">nārado iti nāmena</alternative>
     </alternatives>
     <type>auto</type>
     <previous> Nārado iti me nāmaṃ </previous>

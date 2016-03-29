@@ -36,6 +36,10 @@ public class Notes
     }
 
     static Version toVersion(String name) {
+      if (UNKNOWN.abbrevation.equals(name)) return UNKNOWN;
+      if (VIPASSANA_RESEARCH_INSTITUT.abbrevation.equals(name)) return VIPASSANA_RESEARCH_INSTITUT;
+      if (name.endsWith(",")) name = name.substring(0, name.length() - 1);
+      if (!name.endsWith(".")) name += ".";
       for (Version version: values()) {
         if (version.getAbbrevation().equals(name)) {
           return version;

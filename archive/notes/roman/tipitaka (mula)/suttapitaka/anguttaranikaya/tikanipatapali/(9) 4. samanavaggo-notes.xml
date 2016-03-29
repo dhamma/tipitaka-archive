@@ -5,7 +5,9 @@
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">ahampi dammo, ahampi dammo’ti</alternative>
       <alternative source-abbr="sī." source="sri lanka">ahampi go amhā ahampi go amhāti</alternative>
-      <alternative source-abbr="syā. kaṃ. pī." source="syā. kaṃ. pī.">ahampi amhā ahampi amhāti</alternative>
+      <alternative source-abbr="syā." source="thai">ahampi amhā ahampi amhāti</alternative>
+      <alternative source-abbr="kaṃ." source="kaṃ.">ahampi amhā ahampi amhāti</alternative>
+      <alternative source-abbr="pī." source="pali text society">ahampi amhā ahampi amhāti</alternative>
       <alternative source-abbr="?" source="unknown">ahampi go ahampi goti</alternative>
     </alternatives>
     <type>auto</type>
@@ -15,7 +17,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">paṭikacceva</alternative>
-      <alternative source-abbr="sī. pī." source="sī. pī.">paṭigacceva</alternative>
+      <alternative source-abbr="sī." source="sri lanka">paṭigacceva</alternative>
+      <alternative source-abbr="pī." source="pali text society">paṭigacceva</alternative>
     </alternatives>
     <type>auto</type>
     <previous> Tīṇimāni, bhikkhave, kassakassa gahapatissa pubbe karaṇīyāni. Katamāni tīṇi? Idha, bhikkhave, kassako gahapati paṭikacceva </previous>
@@ -108,8 +111,10 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">saṃsuddhacāriyaṃ</alternative>
-      <alternative source-abbr="sī. pī." source="sī. pī.">saṃsuddhacāraṇaṃ</alternative>
-      <alternative source-abbr="syā. kaṃ." source="syā. kaṃ.">saṃsuddhacārinaṃ</alternative>
+      <alternative source-abbr="sī." source="sri lanka">saṃsuddhacāraṇaṃ</alternative>
+      <alternative source-abbr="pī." source="pali text society">saṃsuddhacāraṇaṃ</alternative>
+      <alternative source-abbr="syā." source="thai">saṃsuddhacārinaṃ</alternative>
+      <alternative source-abbr="kaṃ." source="kaṃ.">saṃsuddhacārinaṃ</alternative>
     </alternatives>
     <type>auto</type>
     <previous>, atho saṃsuddhacāriyaṃ </previous>
@@ -117,7 +122,10 @@
   <note line="105" original="paṅkadhā (sī. syā. kaṃ. pī.)" reference-line="62" id="13">
     <extra></extra>
     <alternatives>
-      <alternative source-abbr="sī. syā. kaṃ. pī." source="sī. syā. kaṃ. pī.">paṅkadhā</alternative>
+      <alternative source-abbr="sī." source="sri lanka">paṅkadhā</alternative>
+      <alternative source-abbr="syā." source="thai">paṅkadhā</alternative>
+      <alternative source-abbr="kaṃ." source="kaṃ.">paṅkadhā</alternative>
+      <alternative source-abbr="pī." source="pali text society">paṅkadhā</alternative>
     </alternatives>
     <type>no_match</type>
     <previous> Ekaṃ samayaṃ bhagavā kosalesu cārikaṃ caramāno mahatā bhikkhusaṅghena saddhiṃ yena saṅkavā </previous>
@@ -126,7 +134,9 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">adhisallikhatevāyaṃ</alternative>
-      <alternative source-abbr="syā. kaṃ. ka." source="syā. kaṃ. ka.">adhisallekhatevāyaṃ</alternative>
+      <alternative source-abbr="syā." source="thai">adhisallekhatevāyaṃ</alternative>
+      <alternative source-abbr="kaṃ." source="kaṃ.">adhisallekhatevāyaṃ</alternative>
+      <alternative source-abbr="ka." source="cambodian">adhisallekhatevāyaṃ</alternative>
     </alternatives>
     <type>auto</type>
     <previous> nāma kosalānaṃ nigamo tadavasari. Tatra sudaṃ bhagavā saṅkavāyaṃ viharati. Tena kho pana samayena kassapagotto nāma bhikkhu saṅkavāyaṃ āvāsiko hoti. Tatra sudaṃ bhagavā sikkhāpadapaṭisaṃyuttāya dhammiyā kathāya bhikkhū sandasseti samādapeti samuttejeti sampahaṃseti. Atha kho kassapagottassa bhikkhuno bhagavati sikkhāpadapaṭisaṃyuttāya dhammiyā kathāya bhikkhū sandassente samādapente samuttejente sampahaṃsente ahudeva akkhanti ahu appaccayo – adhisallikhatevāyaṃ </previous>
@@ -138,7 +148,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">Taggha taṃ</alternative>
-      <alternative source-abbr="sī. pī." source="sī. pī.">taggha tvaṃ</alternative>
+      <alternative source-abbr="sī." source="sri lanka">taggha tvaṃ</alternative>
+      <alternative source-abbr="pī." source="pali text society">taggha tvaṃ</alternative>
     </alternatives>
     <type>auto</type>
     <previous>Taggha taṃ </previous>
@@ -147,7 +158,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">naṃ</alternative>
-      <alternative source-abbr="sī. pī." source="sī. pī.">taṃ</alternative>
+      <alternative source-abbr="sī." source="sri lanka">taṃ</alternative>
+      <alternative source-abbr="pī." source="pali text society">taṃ</alternative>
     </alternatives>
     <type>auto</type>
     <previous> sikkhākāmā tesañca na vaṇṇaṃ bhaṇati bhūtaṃ tacchaṃ kālena, evarūpassāhaṃ, kassapa, therassa bhikkhuno na vaṇṇaṃ bhaṇāmi. Taṃ kissa hetu? Satthā hissa vaṇṇaṃ bhaṇatīti aññe naṃ </previous>

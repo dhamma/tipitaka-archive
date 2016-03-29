@@ -4,7 +4,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">Kimaṅgaṃ pana</alternative>
-      <alternative source-abbr="sī. syā." source="sī. syā.">kimaṅga pana</alternative>
+      <alternative source-abbr="sī." source="sri lanka">kimaṅga pana</alternative>
+      <alternative source-abbr="syā." source="thai">kimaṅga pana</alternative>
       <alternative source-abbr="?" source="unknown">kiṃ pana</alternative>
     </alternatives>
     <type>auto</type>
@@ -51,7 +52,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">anīkaratto</alternative>
-      <alternative source-abbr="sī. syā." source="sī. syā.">aṇīkadatto</alternative>
+      <alternative source-abbr="sī." source="sri lanka">aṇīkadatto</alternative>
+      <alternative source-abbr="syā." source="thai">aṇīkadatto</alternative>
     </alternatives>
     <type>auto</type>
     <previous> anīkaratto </previous>
@@ -106,7 +108,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">pīḷiyamānassa</alternative>
-      <alternative source-abbr="syā. ka." source="syā. ka.">kilissamānassa</alternative>
+      <alternative source-abbr="syā." source="thai">kilissamānassa</alternative>
+      <alternative source-abbr="ka." source="cambodian">kilissamānassa</alternative>
     </alternatives>
     <type>auto</type>
     <previous> Ghātā nirayesu bahū, vinipātagatassa pīḷiyamānassa </previous>
@@ -115,7 +118,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">pidahitvā</alternative>
-      <alternative source-abbr="sī. syā." source="sī. syā.">pidhetvā</alternative>
+      <alternative source-abbr="sī." source="sri lanka">pidhetvā</alternative>
+      <alternative source-abbr="syā." source="thai">pidhetvā</alternative>
       <alternative source-abbr="ka." source="cambodian">pidhitvā</alternative>
     </alternatives>
     <type>auto</type>
@@ -124,7 +128,8 @@
   <note line="111" original="pāsādeva (sī. syā.)" reference-line="104" id="13">
     <extra></extra>
     <alternatives>
-      <alternative source-abbr="sī. syā." source="sī. syā.">pāsādeva</alternative>
+      <alternative source-abbr="sī." source="sri lanka">pāsādeva</alternative>
+      <alternative source-abbr="syā." source="thai">pāsādeva</alternative>
     </alternatives>
     <type>no_match</type>
     <previous>Pāsāde ca </previous>
@@ -202,7 +207,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">pariḷāhā</alternative>
-      <alternative source-abbr="sī. aṭṭha." source="sī. aṭṭha.">sapariḷāhā</alternative>
+      <alternative source-abbr="sī." source="sri lanka">sapariḷāhā</alternative>
+      <alternative source-abbr="aṭṭha." source="aṭṭha.">sapariḷāhā</alternative>
     </alternatives>
     <type>auto</type>
     <previous> Amatamhi vijjamāne, kiṃ tava kāmehi ye pariḷāhā </previous>

@@ -4,7 +4,9 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">api akuppadhammopi</alternative>
-      <alternative source-abbr="sī. syā. kaṃ." source="sī. syā. kaṃ.">api akuppadhammo</alternative>
+      <alternative source-abbr="sī." source="sri lanka">api akuppadhammo</alternative>
+      <alternative source-abbr="syā." source="thai">api akuppadhammo</alternative>
+      <alternative source-abbr="kaṃ." source="kaṃ.">api akuppadhammo</alternative>
     </alternatives>
     <type>auto</type>
     <previous>, bhikkhave, dhammehi samannāgato bhikkhu ussaṅkitaparisaṅkito hoti pāpabhikkhūti api akuppadhammopi </previous>
@@ -22,7 +24,10 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">gahaṇāni</alternative>
-      <alternative source-abbr="sī. syā. kaṃ. pī." source="sī. syā. kaṃ. pī.">niggahaṇāni</alternative>
+      <alternative source-abbr="sī." source="sri lanka">niggahaṇāni</alternative>
+      <alternative source-abbr="syā." source="thai">niggahaṇāni</alternative>
+      <alternative source-abbr="kaṃ." source="kaṃ.">niggahaṇāni</alternative>
+      <alternative source-abbr="pī." source="pali text society">niggahaṇāni</alternative>
     </alternatives>
     <type>auto</type>
     <previous>Kathañca, bhikkhave, mahācoro ekacārī hoti? Idha, bhikkhave, mahācoro ekakova gahaṇāni </previous>
@@ -50,7 +55,8 @@
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">catunnaṃ kho panasmi</alternative>
       <alternative source-abbr="sī." source="sri lanka">catunnaṃ kho pana</alternative>
-      <alternative source-abbr="syā. pī." source="syā. pī.">catunnaṃ</alternative>
+      <alternative source-abbr="syā." source="thai">catunnaṃ</alternative>
+      <alternative source-abbr="pī." source="pali text society">catunnaṃ</alternative>
     </alternatives>
     <type>auto</type>
     <previous> – tāni me na bahudeva uppajjanti. Appābādhohamasmi, catunnaṃ kho panasmi </previous>
@@ -59,7 +65,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">nikāmalābhī</alternative>
-      <alternative source-abbr="sī. ka." source="sī. ka.">nikāmalābhī homi</alternative>
+      <alternative source-abbr="sī." source="sri lanka">nikāmalābhī homi</alternative>
+      <alternative source-abbr="ka." source="cambodian">nikāmalābhī homi</alternative>
     </alternatives>
     <type>auto</type>
     <previous> jhānānaṃ ābhicetasikānaṃ diṭṭhadhammasukhavihārānaṃ nikāmalābhī </previous>
@@ -67,7 +74,8 @@
   <note line="60" original="bhikkhuṃsaṃgho (syā. pī.)" reference-line="37" id="7">
     <extra></extra>
     <alternatives>
-      <alternative source-abbr="syā. pī." source="syā. pī.">bhikkhuṃsaṃgho</alternative>
+      <alternative source-abbr="syā." source="thai">bhikkhuṃsaṃgho</alternative>
+      <alternative source-abbr="pī." source="pali text society">bhikkhuṃsaṃgho</alternative>
     </alternatives>
     <type>no_match</type>
     <previous>Kittāvatā nu kho, bhante, bhikkhu saṅghe </previous>
@@ -76,7 +84,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">attanā</alternative>
-      <alternative source-abbr="pī. ka." source="pī. ka.">attanā ca</alternative>
+      <alternative source-abbr="pī." source="pali text society">attanā ca</alternative>
+      <alternative source-abbr="ka." source="cambodian">attanā ca</alternative>
     </alternatives>
     <type>auto</type>
     <previous> attanā </previous>
@@ -103,7 +112,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">ānanda</alternative>
-      <alternative source-abbr="syā. pī." source="syā. pī.">ānandāti bhagavā āvoca</alternative>
+      <alternative source-abbr="syā." source="thai">ānandāti bhagavā āvoca</alternative>
+      <alternative source-abbr="pī." source="pali text society">ānandāti bhagavā āvoca</alternative>
     </alternatives>
     <type>auto</type>
     <previous>Siyā pana, bhante, aññopi pariyāyo yathā bhikkhu saṅghe viharanto phāsuṃ vihareyyā’’ti? Siyā, ānanda </previous>
@@ -112,7 +122,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">catunnañca</alternative>
-      <alternative source-abbr="pī. ka." source="pī. ka.">catunnaṃ</alternative>
+      <alternative source-abbr="pī." source="pali text society">catunnaṃ</alternative>
+      <alternative source-abbr="ka." source="cambodian">catunnaṃ</alternative>
     </alternatives>
     <type>auto</type>
     <previous>Siyā pana, bhante, aññopi pariyāyo yathā bhikkhu saṅghe viharanto phāsuṃ vihareyyā’’ti? Siyā, ānanda! Yato kho, ānanda, bhikkhu attanā sīlasampanno hoti, no paraṃ adhisīle sampavattā; attānupekkhī ca hoti, no parānupekkhī; apaññāto ca hoti, tena ca apaññātakena no paritassati; catunnañca </previous>
@@ -121,7 +132,9 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">āsavānañca</alternative>
-      <alternative source-abbr="sī. pī. ka." source="sī. pī. ka.">āsavānaṃ</alternative>
+      <alternative source-abbr="sī." source="sri lanka">āsavānaṃ</alternative>
+      <alternative source-abbr="pī." source="pali text society">āsavānaṃ</alternative>
+      <alternative source-abbr="ka." source="cambodian">āsavānaṃ</alternative>
     </alternatives>
     <type>auto</type>
     <previous> ca hoti, tena ca apaññātakena no paritassati; catunnañca jhānānaṃ ābhicetasikānaṃ diṭṭhadhammasukhavihārānaṃ nikāmalābhī hoti akicchalābhī akasiralābhī; āsavānañca </previous>

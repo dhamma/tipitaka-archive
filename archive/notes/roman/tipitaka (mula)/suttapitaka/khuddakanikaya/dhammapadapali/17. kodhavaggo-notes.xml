@@ -4,7 +4,9 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">vāraye</alternative>
-      <alternative source-abbr="sī. syā. pī." source="sī. syā. pī.">dhāraye</alternative>
+      <alternative source-abbr="sī." source="sri lanka">dhāraye</alternative>
+      <alternative source-abbr="syā." source="thai">dhāraye</alternative>
+      <alternative source-abbr="pī." source="pali text society">dhāraye</alternative>
     </alternatives>
     <type>auto</type>
     <previous> Yo ve uppatitaṃ kodhaṃ, rathaṃ bhantaṃva vāraye </previous>
@@ -12,9 +14,11 @@
   <note line="11" original="dajjā’ppasmimpi (sī. pī.), dajjā appasmi (syā. ka.)" reference-line="12" id="1">
     <extra></extra>
     <alternatives>
-      <alternative source-abbr="sī. pī." source="sī. pī.">dajjā’ppasmimpi</alternative>
+      <alternative source-abbr="sī." source="sri lanka">dajjā’ppasmimpi</alternative>
+      <alternative source-abbr="pī." source="pali text society">dajjā’ppasmimpi</alternative>
       <alternative source-abbr="vri" source="vipassana research institut">dajjā appampi</alternative>
-      <alternative source-abbr="syā. ka." source="syā. ka.">dajjā appasmi</alternative>
+      <alternative source-abbr="syā." source="thai">dajjā appasmi</alternative>
+      <alternative source-abbr="ka." source="cambodian">dajjā appasmi</alternative>
     </alternatives>
     <type>auto</type>
     <previous> Saccaṃ bhaṇe na kujjheyya, dajjā appampi </previous>
@@ -41,7 +45,9 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">Nikkhaṃ</alternative>
-      <alternative source-abbr="sī. syā. pī." source="sī. syā. pī.">nekkhaṃ</alternative>
+      <alternative source-abbr="sī." source="sri lanka">nekkhaṃ</alternative>
+      <alternative source-abbr="syā." source="thai">nekkhaṃ</alternative>
+      <alternative source-abbr="pī." source="pali text society">nekkhaṃ</alternative>
     </alternatives>
     <type>auto</type>
     <previous> Nikkhaṃ </previous>

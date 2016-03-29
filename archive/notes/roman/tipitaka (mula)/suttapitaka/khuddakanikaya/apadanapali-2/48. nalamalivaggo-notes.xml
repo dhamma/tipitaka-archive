@@ -4,7 +4,9 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">mālamabhiropayiṃ</alternative>
-      <alternative source-abbr="sī. syā. pī." source="sī. syā. pī.">pupphamabhiropayiṃ</alternative>
+      <alternative source-abbr="sī." source="sri lanka">pupphamabhiropayiṃ</alternative>
+      <alternative source-abbr="syā." source="thai">pupphamabhiropayiṃ</alternative>
+      <alternative source-abbr="pī." source="pali text society">pupphamabhiropayiṃ</alternative>
     </alternatives>
     <type>auto</type>
     <previous> Ekatiṃse ito kappe, yaṃ mālamabhiropayiṃ </previous>
@@ -13,7 +15,9 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">āmukkamaṇikuṇḍalā</alternative>
-      <alternative source-abbr="sī. syā. pī." source="sī. syā. pī.">āmuttamaṇikuṇḍalā</alternative>
+      <alternative source-abbr="sī." source="sri lanka">āmuttamaṇikuṇḍalā</alternative>
+      <alternative source-abbr="syā." source="thai">āmuttamaṇikuṇḍalā</alternative>
+      <alternative source-abbr="pī." source="pali text society">āmuttamaṇikuṇḍalā</alternative>
     </alternatives>
     <type>auto</type>
     <previous>Vicittavatthābharaṇā, āmukkamaṇikuṇḍalā </previous>
@@ -22,7 +26,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">yadicchasi</alternative>
-      <alternative source-abbr="sī. pī." source="sī. pī.">yadicchāya</alternative>
+      <alternative source-abbr="sī." source="sri lanka">yadicchāya</alternative>
+      <alternative source-abbr="pī." source="pali text society">yadicchāya</alternative>
     </alternatives>
     <type>auto</type>
     <previous>Bhaṇḍā me sukatā honti, yadicchasi </previous>
@@ -30,7 +35,9 @@
   <note line="27" original="samantā sattaratanā (sī. pī. ka.)" reference-line="78" id="3">
     <extra></extra>
     <alternatives>
-      <alternative source-abbr="sī. pī. ka." source="sī. pī. ka.">samantā sattaratanā</alternative>
+      <alternative source-abbr="sī." source="sri lanka">samantā sattaratanā</alternative>
+      <alternative source-abbr="pī." source="pali text society">samantā sattaratanā</alternative>
+      <alternative source-abbr="ka." source="cambodian">samantā sattaratanā</alternative>
     </alternatives>
     <type>no_match</type>
     <previous>Divasañceva rattiñca </previous>
@@ -39,7 +46,9 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">Ajjhogāhetvā</alternative>
-      <alternative source-abbr="sī. syā. pī." source="sī. syā. pī.">ajjhogahetvā</alternative>
+      <alternative source-abbr="sī." source="sri lanka">ajjhogahetvā</alternative>
+      <alternative source-abbr="syā." source="thai">ajjhogahetvā</alternative>
+      <alternative source-abbr="pī." source="pali text society">ajjhogahetvā</alternative>
     </alternatives>
     <type>auto</type>
     <previous> Ajjhogāhetvā </previous>
@@ -47,7 +56,8 @@
   <note line="42" original="buddho (syā. ka.)" reference-line="103" id="5">
     <extra></extra>
     <alternatives>
-      <alternative source-abbr="syā. ka." source="syā. ka.">buddho</alternative>
+      <alternative source-abbr="syā." source="thai">buddho</alternative>
+      <alternative source-abbr="ka." source="cambodian">buddho</alternative>
     </alternatives>
     <type>no_match</type>
     <previous>Sattarattindivaṃ ṭhatvā </previous>
@@ -90,7 +100,10 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">pulinaṃ</alternative>
-      <alternative source-abbr="sī. syā. pī. ka." source="sī. syā. pī. ka.">puḷinaṃ</alternative>
+      <alternative source-abbr="sī." source="sri lanka">puḷinaṃ</alternative>
+      <alternative source-abbr="syā." source="thai">puḷinaṃ</alternative>
+      <alternative source-abbr="pī." source="pali text society">puḷinaṃ</alternative>
+      <alternative source-abbr="ka." source="cambodian">puḷinaṃ</alternative>
     </alternatives>
     <type>auto</type>
     <previous> Ucchaṅgena pulinaṃ </previous>

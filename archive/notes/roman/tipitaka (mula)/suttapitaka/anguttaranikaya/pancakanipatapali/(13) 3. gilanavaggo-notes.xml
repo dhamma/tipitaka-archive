@@ -4,7 +4,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">kiñci</alternative>
-      <alternative source-abbr="syā. kaṃ." source="syā. kaṃ.">yaṃ kiñci</alternative>
+      <alternative source-abbr="syā." source="thai">yaṃ kiñci</alternative>
+      <alternative source-abbr="kaṃ." source="kaṃ.">yaṃ kiñci</alternative>
     </alternatives>
     <type>auto</type>
     <previous> kiñci </previous>
@@ -13,7 +14,10 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">bhikkhuṃ dubbalaṃ</alternative>
-      <alternative source-abbr="sī. syā. kaṃ. pī." source="sī. syā. kaṃ. pī.">bhikkhave dubbalaṃ</alternative>
+      <alternative source-abbr="sī." source="sri lanka">bhikkhave dubbalaṃ</alternative>
+      <alternative source-abbr="syā." source="thai">bhikkhave dubbalaṃ</alternative>
+      <alternative source-abbr="kaṃ." source="kaṃ.">bhikkhave dubbalaṃ</alternative>
+      <alternative source-abbr="pī." source="pali text society">bhikkhave dubbalaṃ</alternative>
     </alternatives>
     <type>auto</type>
     <previous>, bhikkhave, bhikkhuṃ dubbalaṃ </previous>
@@ -25,7 +29,10 @@
     <extra> mahāva. 366</extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">dūpaṭṭhāko</alternative>
-      <alternative source-abbr="syā. kaṃ. pī. ka." source="syā. kaṃ. pī. ka.">dupaṭṭhāko</alternative>
+      <alternative source-abbr="syā." source="thai">dupaṭṭhāko</alternative>
+      <alternative source-abbr="kaṃ." source="kaṃ.">dupaṭṭhāko</alternative>
+      <alternative source-abbr="pī." source="pali text society">dupaṭṭhāko</alternative>
+      <alternative source-abbr="ka." source="cambodian">dupaṭṭhāko</alternative>
     </alternatives>
     <type>auto</type>
     <previous> Pañcahi, bhikkhave, dhammehi samannāgato gilāno dūpaṭṭhāko </previous>

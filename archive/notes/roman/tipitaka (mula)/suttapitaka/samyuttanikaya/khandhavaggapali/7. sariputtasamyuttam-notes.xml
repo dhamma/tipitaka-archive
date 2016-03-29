@@ -4,7 +4,9 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">kuṭṭamūlaṃ</alternative>
-      <alternative source-abbr="sī. syā. kaṃ." source="sī. syā. kaṃ.">kuḍḍamūlaṃ</alternative>
+      <alternative source-abbr="sī." source="sri lanka">kuḍḍamūlaṃ</alternative>
+      <alternative source-abbr="syā." source="thai">kuḍḍamūlaṃ</alternative>
+      <alternative source-abbr="kaṃ." source="kaṃ.">kuḍḍamūlaṃ</alternative>
       <alternative source-abbr="pī." source="pali text society">kuḍḍaṃ</alternative>
     </alternatives>
     <type>auto</type>
@@ -14,7 +16,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">ubbhamukho</alternative>
-      <alternative source-abbr="sī. aṭṭha." source="sī. aṭṭha.">uddhaṃmukho</alternative>
+      <alternative source-abbr="sī." source="sri lanka">uddhaṃmukho</alternative>
+      <alternative source-abbr="aṭṭha." source="aṭṭha.">uddhaṃmukho</alternative>
     </alternatives>
     <type>auto</type>
     <previous> nu kho, samaṇa, adhomukho bhuñjasī’’ti? Na khvāhaṃ, bhagini, adhomukho bhuñjāmī’’ti. Tena hi, samaṇa, ubbhamukho </previous>
@@ -40,7 +43,10 @@
   <note line="36" original="… nuyogā (sī. syā. kaṃ. pī.), … nuyogena (?)" reference-line="29" id="4">
     <extra></extra>
     <alternatives>
-      <alternative source-abbr="sī. syā. kaṃ. pī." source="sī. syā. kaṃ. pī.">… nuyogā</alternative>
+      <alternative source-abbr="sī." source="sri lanka">… nuyogā</alternative>
+      <alternative source-abbr="syā." source="thai">… nuyogā</alternative>
+      <alternative source-abbr="kaṃ." source="kaṃ.">… nuyogā</alternative>
+      <alternative source-abbr="pī." source="pali text society">… nuyogā</alternative>
       <alternative source-abbr="?" source="unknown">… nuyogena</alternative>
     </alternatives>
     <type>no_match</type>

@@ -103,7 +103,7 @@
 <gathalast line="95">Muddhaṃ muddhādhipātañca, manasāyeva pucchatha.</gathalast>
 <hangnum line="96" number="30"></hangnum>
 <gatha1 line="97"> ‘‘Anāvaraṇadassāvī, yadi buddho bhavissati;</gatha1>
-<gathalast line="98">Manasā pucchite pañhe, vācāya visajjissati’’ .</gathalast>
+<gathalast line="98">Manasā pucchite pañhe, vācāya <alternatives line="123" extra="null" separator="false"><alternative source-abbr="vri" source="vipassana research institut">visajjissati</alternative><alternative source-abbr="ka." source="cambodian">vissajissati</alternative></alternatives>’’ .</gathalast>
 <hangnum line="99" number="31"></hangnum>
 <gatha1 line="100"> Bāvarissa <pageBreak edition="T" number="0.0005" /><pageBreak edition="M" number="0.0004" /> vaco sutvā, sissā soḷasa brāhmaṇā;</gatha1>
 <gathalast line="101">Ajito tissametteyyo, puṇṇako atha mettagū.</gathalast>
@@ -136,7 +136,7 @@
 <gathalast line="128">Bhikkhūnaṃ dhammaṃ deseti, sīhova nadatī vane.</gathalast>
 <hangnum line="129" number="41"></hangnum>
 <gatha1 line="130"> Ajito <pageBreak edition="T" number="0.0006" /> addasa buddhaṃ, pītaraṃsiṃva <note>jitaraṃsiṃ sītaraṃsiṃ (ka.), vītaraṃsiṃ (sī. syā.)</note> bhāṇumaṃ;</gatha1>
-<gathalast line="131">Candaṃ yathā pannarase, <alternatives line="155" extra="null" separator="false"><alternative source-abbr="vri" source="vipassana research institut">paripūraṃ</alternative><alternative source-abbr="sī. syā." source="sī. syā.">pāripūriṃ</alternative></alternatives>  upāgataṃ.</gathalast>
+<gathalast line="131">Candaṃ yathā pannarase, <alternatives line="155" extra="null" separator="false"><alternative source-abbr="vri" source="vipassana research institut">paripūraṃ</alternative><alternative source-abbr="sī." source="sri lanka">pāripūriṃ</alternative><alternative source-abbr="syā." source="thai">pāripūriṃ</alternative></alternatives>  upāgataṃ.</gathalast>
 <hangnum line="132" number="42"></hangnum>
 <gatha1 line="133"> Athassa gatte disvāna, paripūrañca byañjanaṃ;</gatha1>
 <gathalast line="134">Ekamantaṃ ṭhito haṭṭho, manopañhe apucchatha.</gathalast>
@@ -316,7 +316,7 @@
 <gathalast line="308">Taṃ taṃ namassāmi samantacakkhu, pamuñca maṃ sakka kathaṃkathāhi’’.</gathalast>
 <hangnum line="309" number="89"></hangnum>
 <gatha1 line="310"> ‘‘Nāhaṃ <pageBreak edition="M" number="0.0011" /> sahissāmi pamocanāya, kathaṃkathiṃ dhotaka kañci loke;</gatha1>
-<gathalast line="311">Dhammañca seṭṭhaṃ <alternatives line="202" extra="null" separator="false"><alternative source-abbr="vri" source="vipassana research institut">abhijānamāno</alternative><alternative source-abbr="sī. syā. pī." source="sī. syā. pī.">ājānamāno</alternative></alternatives> , evaṃ tuvaṃ oghamimaṃ taresi’’.</gathalast>
+<gathalast line="311">Dhammañca seṭṭhaṃ <alternatives line="202" extra="null" separator="false"><alternative source-abbr="vri" source="vipassana research institut">abhijānamāno</alternative><alternative source-abbr="sī." source="sri lanka">ājānamāno</alternative><alternative source-abbr="syā." source="thai">ājānamāno</alternative><alternative source-abbr="pī." source="pali text society">ājānamāno</alternative></alternatives> , evaṃ tuvaṃ oghamimaṃ taresi’’.</gathalast>
 <hangnum line="312" number="90"></hangnum>
 <gatha1 line="313"> ‘‘Anusāsa brahme karuṇāyamāno, vivekadhammaṃ yamahaṃ vijaññaṃ;</gatha1>
 <gathalast line="314">Yathāhaṃ ākāsova abyāpajjamāno, idheva santo asito careyyaṃ’’.</gathalast>
@@ -344,7 +344,7 @@
 <hangnum line="336" number="96"></hangnum>
 <gatha1 line="337"> ‘‘Sabbesu kāmesu yo vītarāgo, [iccāyasmā upasīvo]</gatha1>
 <gatha2 line="338">Ākiñcaññaṃ nissito hitvā maññaṃ;</gatha2>
-<gathalast line="339">Saññāvimokkhe parame <alternatives line="210" extra="null" separator="false"><alternative source-abbr="vri" source="vipassana research institut">vimutto</alternative><alternative source-abbr="ka." source="cambodian">dhimutto</alternative></alternatives> , tiṭṭhe nu so tattha anānuyāyī’’ .</gathalast>
+<gathalast line="339">Saññāvimokkhe parame <alternatives line="210" extra="null" separator="false"><alternative source-abbr="vri" source="vipassana research institut">vimutto</alternative><alternative source-abbr="ka." source="cambodian">dhimutto</alternative></alternatives> , tiṭṭhe nu so tattha <alternatives line="218" extra="null" separator="false"><alternative source-abbr="vri" source="vipassana research institut">anānuyāyī</alternative><alternative source-abbr="syā." source="thai">anānuvāyī</alternative><alternative source-abbr="ka." source="cambodian">anānuvāyī</alternative></alternatives>’’ .</gathalast>
 <hangnum line="340" number="97"></hangnum>
 <gatha1 line="341"> ‘‘Sabbesu kāmesu yo vītarāgo, [upasīvāti bhagavā]</gatha1>
 <gatha2 line="342">Ākiñcaññaṃ nissito hitvā maññaṃ;</gatha2>
@@ -531,7 +531,7 @@
 <hangnum line="523" number="140"></hangnum>
 <gatha1 line="524"> ‘‘Ākiñcaññasambhavaṃ ñatvā, nandī saṃyojanaṃ iti;</gatha1>
 <gatha2 line="525">Evametaṃ abhiññāya, tato tattha vipassati;</gatha2>
-<gathalast line="526"><alternatives line="241" extra="null" separator="false"><alternative source-abbr="vri" source="vipassana research institut">Etaṃ</alternative><alternative source-abbr="syā. ka." source="syā. ka.">evaṃ</alternative></alternatives>  ñāṇaṃ tathaṃ tassa, brāhmaṇassa vusīmato’’ti.</gathalast>
+<gathalast line="526"><alternatives line="241" extra="null" separator="false"><alternative source-abbr="vri" source="vipassana research institut">Etaṃ</alternative><alternative source-abbr="syā." source="thai">evaṃ</alternative><alternative source-abbr="ka." source="cambodian">evaṃ</alternative></alternatives>  ñāṇaṃ tathaṃ tassa, brāhmaṇassa vusīmato’’ti.</gathalast>
 <centered line="527">Posālamāṇavapucchā cuddasamā.</centered>
 <subhead line="528">15. Mogharājamāṇavapucchā</subhead>
 <hangnum line="529" number="141"></hangnum>
@@ -569,7 +569,7 @@
 <gathalast line="561">Tasmā tuvaṃ piṅgiya appamatto, jahassu taṇhaṃ apunabbhavāyā’’ti.</gathalast>
 <centered line="562">Piṅgiyamāṇavapucchā soḷasamā.</centered>
 <subhead line="563">17. Pārāyanatthutigāthā</subhead>
-<paragraph line="564">Idamavoca <pageBreak edition="M" number="0.0021" /> bhagavā magadhesu viharanto pāsāṇake cetiye, <alternatives line="269" extra="null" separator="false"><alternative source-abbr="vri" source="vipassana research institut">paricārakasoḷasānaṃ</alternative><alternative source-abbr="syā. ka." source="syā. ka.">paricārakasoḷasannaṃ</alternative></alternatives>  brāhmaṇānaṃ ajjhiṭṭho puṭṭho puṭṭho <alternatives line="277" extra="null" separator="false"><alternative source-abbr="vri" source="vipassana research institut">pañhaṃ</alternative><alternative source-abbr="sī. pī." source="sī. pī.">pañhe</alternative></alternatives>  byākāsi. Ekamekassa cepi pañhassa atthamaññāya dhammamaññāya dhammānudhammaṃ paṭipajjeyya, gaccheyyeva jarāmaraṇassa pāraṃ. ‘‘Pāraṅgamanīyā ime dhammā’’ti – tasmā imassa dhammapariyāyassa <alternatives line="285" extra="null" separator="false"><alternative source-abbr="vri" source="vipassana research institut">pārāyananteva</alternative><alternative source-abbr="sī. aṭṭha." source="sī. aṭṭha.">pārāyaṇaṃtveva</alternative></alternatives>  adhivacanaṃ.</paragraph>
+<paragraph line="564">Idamavoca <pageBreak edition="M" number="0.0021" /> bhagavā magadhesu viharanto pāsāṇake cetiye, <alternatives line="269" extra="null" separator="false"><alternative source-abbr="vri" source="vipassana research institut">paricārakasoḷasānaṃ</alternative><alternative source-abbr="syā." source="thai">paricārakasoḷasannaṃ</alternative><alternative source-abbr="ka." source="cambodian">paricārakasoḷasannaṃ</alternative></alternatives>  brāhmaṇānaṃ ajjhiṭṭho puṭṭho puṭṭho <alternatives line="277" extra="null" separator="false"><alternative source-abbr="vri" source="vipassana research institut">pañhaṃ</alternative><alternative source-abbr="sī." source="sri lanka">pañhe</alternative><alternative source-abbr="pī." source="pali text society">pañhe</alternative></alternatives>  byākāsi. Ekamekassa cepi pañhassa atthamaññāya dhammamaññāya dhammānudhammaṃ paṭipajjeyya, gaccheyyeva jarāmaraṇassa pāraṃ. ‘‘Pāraṅgamanīyā ime dhammā’’ti – tasmā imassa dhammapariyāyassa <alternatives line="285" extra="null" separator="false"><alternative source-abbr="vri" source="vipassana research institut">pārāyananteva</alternative><alternative source-abbr="sī." source="sri lanka">pārāyaṇaṃtveva</alternative><alternative source-abbr="aṭṭha." source="aṭṭha.">pārāyaṇaṃtveva</alternative></alternatives>  adhivacanaṃ.</paragraph>
 <hangnum line="565" number="149"></hangnum>
 <gatha1 line="566"> Ajito tissametteyyo, puṇṇako atha mettagū;</gatha1>
 <gathalast line="567">Dhotako upasīvo ca, nando ca atha hemako.</gathalast>
@@ -643,7 +643,7 @@
 <gathalast line="635">Athaddasāsiṃ sambuddhaṃ, oghatiṇṇamanāsavaṃ.</gathalast>
 <hangnum line="636" number="171"></hangnum>
 <gatha1 line="637"> ‘‘Yathā ahū vakkali muttasaddho, bhadrāvudho āḷavigotamo ca;</gatha1>
-<gathalast line="638">Evameva tvampi pamuñcassu saddhaṃ, gamissasi tvaṃ piṅgiya maccudheyyassa pāraṃ’’ .</gathalast>
+<gathalast line="638">Evameva tvampi pamuñcassu saddhaṃ, gamissasi tvaṃ piṅgiya maccudheyyassa <alternatives line="308" extra="null" separator="false"><alternative source-abbr="vri" source="vipassana research institut">pāraṃ</alternative><alternative source-abbr="sī." source="sri lanka">maccudheyyapāraṃ</alternative></alternatives>’’ .</gathalast>
 <hangnum line="639" number="172"></hangnum>
 <gatha1 line="640"> ‘‘Esa bhiyyo pasīdāmi, sutvāna munino vaco;</gatha1>
 <gathalast line="641">Vivaṭṭacchado sambuddho, akhilo paṭibhānavā.</gathalast>

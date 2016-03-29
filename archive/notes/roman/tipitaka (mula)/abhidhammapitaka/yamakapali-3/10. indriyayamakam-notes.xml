@@ -4,7 +4,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">vīriyindriyaṃ</alternative>
-      <alternative source-abbr="sī. syā." source="sī. syā.">viriyindiyaṃ</alternative>
+      <alternative source-abbr="sī." source="sri lanka">viriyindiyaṃ</alternative>
+      <alternative source-abbr="syā." source="thai">viriyindiyaṃ</alternative>
     </alternatives>
     <type>auto</type>
     <previous> – cakkhundriyaṃ, sotindriyaṃ, ghānindriyaṃ, jivhindriyaṃ, kāyindriyaṃ, manindriyaṃ, itthindriyaṃ, purisindriyaṃ, jīvitindriyaṃ, sukhindriyaṃ, dukkhindriyaṃ, somanassindriyaṃ, domanassindriyaṃ, upekkhindriyaṃ, saddhindriyaṃ, vīriyindriyaṃ </previous>
@@ -13,7 +14,9 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">avaseso kāyo</alternative>
-      <alternative source-abbr="sī. syā. ka." source="sī. syā. ka.">avasesā kāyo</alternative>
+      <alternative source-abbr="sī." source="sri lanka">avasesā kāyo</alternative>
+      <alternative source-abbr="syā." source="thai">avasesā kāyo</alternative>
+      <alternative source-abbr="ka." source="cambodian">avasesā kāyo</alternative>
     </alternatives>
     <type>auto</type>
     <previous>Kāyindriyaṃ ṭhapetvā avaseso kāyo </previous>
@@ -38,7 +41,9 @@
   <note line="34" original="satta (sī. syā. ka.)" reference-line="4322" id="4">
     <extra></extra>
     <alternatives>
-      <alternative source-abbr="sī. syā. ka." source="sī. syā. ka.">satta</alternative>
+      <alternative source-abbr="sī." source="sri lanka">satta</alternative>
+      <alternative source-abbr="syā." source="thai">satta</alternative>
+      <alternative source-abbr="ka." source="cambodian">satta</alternative>
     </alternatives>
     <type>no_match</type>
     <previous>Arahā anaññātaññassāmītindriyaṃ na bhāveti, no ca aññātāvindriyaṃ na sacchikarittha. Aṭṭha </previous>
@@ -46,7 +51,9 @@
   <note line="41" original="pañca (sī. syā. ka.)" reference-line="4326" id="5">
     <extra></extra>
     <alternatives>
-      <alternative source-abbr="sī. syā. ka." source="sī. syā. ka.">pañca</alternative>
+      <alternative source-abbr="sī." source="sri lanka">pañca</alternative>
+      <alternative source-abbr="syā." source="thai">pañca</alternative>
+      <alternative source-abbr="ka." source="cambodian">pañca</alternative>
     </alternatives>
     <type>no_match</type>
     <previous>Arahā aññindriyaṃ na bhāveti, no ca aññātāvindriyaṃ na sacchikarittha. Cha </previous>
@@ -54,7 +61,9 @@
   <note line="48" original="pañca (sī. syā. ka.)" reference-line="4328" id="6">
     <extra></extra>
     <alternatives>
-      <alternative source-abbr="sī. syā. ka." source="sī. syā. ka.">pañca</alternative>
+      <alternative source-abbr="sī." source="sri lanka">pañca</alternative>
+      <alternative source-abbr="syā." source="thai">pañca</alternative>
+      <alternative source-abbr="ka." source="cambodian">pañca</alternative>
     </alternatives>
     <type>no_match</type>
     <previous>Tayo maggasamaṅgino aññātāvindriyaṃ na sacchikarittha, no ca aññindriyaṃ na bhāventi. Cha </previous>

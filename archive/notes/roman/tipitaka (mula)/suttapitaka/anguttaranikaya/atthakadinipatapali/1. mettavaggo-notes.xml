@@ -19,7 +19,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">sātthaṃ sabyañjanaṃ</alternative>
-      <alternative source-abbr="ka. sī." source="ka. sī.">satthā sabyañjanā</alternative>
+      <alternative source-abbr="ka." source="cambodian">satthā sabyañjanā</alternative>
+      <alternative source-abbr="sī." source="sri lanka">satthā sabyañjanā</alternative>
     </alternatives>
     <type>auto</type>
     <previous> sātthaṃ sabyañjanaṃ </previous>
@@ -28,7 +29,10 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">dhātā</alternative>
-      <alternative source-abbr="sī. syā. kaṃ. pī." source="sī. syā. kaṃ. pī.">dhatā</alternative>
+      <alternative source-abbr="sī." source="sri lanka">dhatā</alternative>
+      <alternative source-abbr="syā." source="thai">dhatā</alternative>
+      <alternative source-abbr="kaṃ." source="kaṃ.">dhatā</alternative>
+      <alternative source-abbr="pī." source="pali text society">dhatā</alternative>
     </alternatives>
     <type>auto</type>
     <previous> kevalaparipuṇṇaṃ parisuddhaṃ brahmacariyaṃ abhivadanti, tathārūpāssa dhammā bahussutā honti dhātā </previous>
@@ -47,7 +51,8 @@
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">adhippayāso</alternative>
       <alternative source-abbr="sī." source="sri lanka">adhippāyo</alternative>
-      <alternative source-abbr="syā. kaṃ." source="syā. kaṃ.">adhippāyaso</alternative>
+      <alternative source-abbr="syā." source="thai">adhippāyaso</alternative>
+      <alternative source-abbr="kaṃ." source="kaṃ.">adhippāyaso</alternative>
     </alternatives>
     <type>auto</type>
     <previous> adhippayāso </previous>
@@ -96,7 +101,10 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">samiñjitaṃ</alternative>
-      <alternative source-abbr="sī. syā. kaṃ. pī." source="sī. syā. kaṃ. pī.">sammiñjitaṃ</alternative>
+      <alternative source-abbr="sī." source="sri lanka">sammiñjitaṃ</alternative>
+      <alternative source-abbr="syā." source="thai">sammiñjitaṃ</alternative>
+      <alternative source-abbr="kaṃ." source="kaṃ.">sammiñjitaṃ</alternative>
+      <alternative source-abbr="pī." source="pali text society">sammiñjitaṃ</alternative>
     </alternatives>
     <type>auto</type>
     <previous>Atha kho vessavaṇṇo mahārājā – seyyathāpi nāma balavā puriso samiñjitaṃ </previous>
@@ -105,7 +113,10 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">samiñjeyya</alternative>
-      <alternative source-abbr="sī. syā. kaṃ. pī." source="sī. syā. kaṃ. pī.">sammiñjeyya</alternative>
+      <alternative source-abbr="sī." source="sri lanka">sammiñjeyya</alternative>
+      <alternative source-abbr="syā." source="thai">sammiñjeyya</alternative>
+      <alternative source-abbr="kaṃ." source="kaṃ.">sammiñjeyya</alternative>
+      <alternative source-abbr="pī." source="pali text society">sammiñjeyya</alternative>
     </alternatives>
     <type>auto</type>
     <previous> vā bāhaṃ pasāreyya, pasāritaṃ vā bāhaṃ samiñjeyya </previous>
@@ -131,7 +142,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">upaṭṭhito</alternative>
-      <alternative source-abbr="sī. syā." source="sī. syā.">patiṭṭhito</alternative>
+      <alternative source-abbr="sī." source="sri lanka">patiṭṭhito</alternative>
+      <alternative source-abbr="syā." source="thai">patiṭṭhito</alternative>
     </alternatives>
     <type>auto</type>
     <previous>Ettāvatā, bhante uttara, manussesu catasso parisā – bhikkhū, bhikkhuniyo, upāsakā, upāsikāyo. Nāyaṃ dhammapariyāyo kismiñci upaṭṭhito </previous>
@@ -140,7 +152,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">ādibrahmacariyako’’ti</alternative>
-      <alternative source-abbr="sī. ka." source="sī. ka.">ādibrahmacariyiko</alternative>
+      <alternative source-abbr="sī." source="sri lanka">ādibrahmacariyiko</alternative>
+      <alternative source-abbr="ka." source="cambodian">ādibrahmacariyiko</alternative>
     </alternatives>
     <type>auto</type>
     <previous>. Uggaṇhatu, bhante, āyasmā uttaro imaṃ dhammapariyāyaṃ. Pariyāpuṇātu, bhante, āyasmā uttaro imaṃ dhammapariyāyaṃ. Dhāretu, bhante, āyasmā uttaro imaṃ dhammapariyāyaṃ. Atthasaṃhito ayaṃ, bhante, dhammapariyāyo ādibrahmacariyako’’ti </previous>
@@ -205,7 +218,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">phuṇamānassa</alternative>
-      <alternative source-abbr="sī. pī." source="sī. pī.">vuyhamānassa</alternative>
+      <alternative source-abbr="sī." source="sri lanka">vuyhamānassa</alternative>
+      <alternative source-abbr="pī." source="pali text society">vuyhamānassa</alternative>
       <alternative source-abbr="syā." source="thai">phusayamānassa</alternative>
       <alternative source-abbr="?" source="unknown">punamānassa</alternative>
     </alternatives>
@@ -225,7 +239,9 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">kuṭhāriṃ</alternative>
-      <alternative source-abbr="syā. kaṃ. ka." source="syā. kaṃ. ka.">kudhāriṃ</alternative>
+      <alternative source-abbr="syā." source="thai">kudhāriṃ</alternative>
+      <alternative source-abbr="kaṃ." source="kaṃ.">kudhāriṃ</alternative>
+      <alternative source-abbr="ka." source="cambodian">kudhāriṃ</alternative>
     </alternatives>
     <type>auto</type>
     <previous>Seyyathāpi, bhikkhave, puriso udapānapanāḷiyatthiko tiṇhaṃ kuṭhāriṃ </previous>

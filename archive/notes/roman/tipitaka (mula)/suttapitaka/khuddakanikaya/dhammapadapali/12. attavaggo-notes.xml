@@ -4,7 +4,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">Abhimatthati</alternative>
-      <alternative source-abbr="sī. pī." source="sī. pī.">abhimantati</alternative>
+      <alternative source-abbr="sī." source="sri lanka">abhimantati</alternative>
+      <alternative source-abbr="pī." source="pali text society">abhimantati</alternative>
     </alternatives>
     <type>auto</type>
     <previous>Abhimatthati </previous>
@@ -13,7 +14,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">vasmamayaṃ</alternative>
-      <alternative source-abbr="syā. ka." source="syā. ka.">vajiraṃva’mhamayaṃ</alternative>
+      <alternative source-abbr="syā." source="thai">vajiraṃva’mhamayaṃ</alternative>
+      <alternative source-abbr="ka." source="cambodian">vajiraṃva’mhamayaṃ</alternative>
     </alternatives>
     <type>auto</type>
     <previous> dummedhaṃ, vajiraṃ vasmamayaṃ </previous>
@@ -22,7 +24,9 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">attaghātāya</alternative>
-      <alternative source-abbr="sī. syā. pī." source="sī. syā. pī.">attaghaññāya</alternative>
+      <alternative source-abbr="sī." source="sri lanka">attaghaññāya</alternative>
+      <alternative source-abbr="syā." source="thai">attaghaññāya</alternative>
+      <alternative source-abbr="pī." source="pali text society">attaghaññāya</alternative>
     </alternatives>
     <type>auto</type>
     <previous>Phalāni kaṭṭhakasseva, attaghātāya </previous>
@@ -30,7 +34,9 @@
   <note line="27" original="attanāva (sī. syā. pī.)" reference-line="28" id="3">
     <extra></extra>
     <alternatives>
-      <alternative source-abbr="sī. syā. pī." source="sī. syā. pī.">attanāva</alternative>
+      <alternative source-abbr="sī." source="sri lanka">attanāva</alternative>
+      <alternative source-abbr="syā." source="thai">attanāva</alternative>
+      <alternative source-abbr="pī." source="pali text society">attanāva</alternative>
     </alternatives>
     <type>no_match</type>
     <previous> hi </previous>

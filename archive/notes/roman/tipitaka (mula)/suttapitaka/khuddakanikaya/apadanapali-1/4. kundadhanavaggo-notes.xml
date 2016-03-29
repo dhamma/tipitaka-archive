@@ -4,7 +4,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">Paṭiggahetvā</alternative>
-      <alternative source-abbr="syā. ka." source="syā. ka.">paṭiggahesi</alternative>
+      <alternative source-abbr="syā." source="thai">paṭiggahesi</alternative>
+      <alternative source-abbr="ka." source="cambodian">paṭiggahesi</alternative>
     </alternatives>
     <type>auto</type>
     <previous> Paṭiggahetvā </previous>
@@ -81,7 +82,8 @@
   <note line="72" original="tuṭṭhahaṭṭhaṃ (syā. ka.)" reference-line="85" id="9">
     <extra></extra>
     <alternatives>
-      <alternative source-abbr="syā. ka." source="syā. ka.">tuṭṭhahaṭṭhaṃ</alternative>
+      <alternative source-abbr="syā." source="thai">tuṭṭhahaṭṭhaṃ</alternative>
+      <alternative source-abbr="ka." source="cambodian">tuṭṭhahaṭṭhaṃ</alternative>
     </alternatives>
     <type>no_match</type>
     <previous> ‘Tena kammena sukatena, arahattaṃ </previous>
@@ -99,7 +101,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">vāḷabījaniṃ</alternative>
-      <alternative source-abbr="sī. syā." source="sī. syā.">vāḷabījanī</alternative>
+      <alternative source-abbr="sī." source="sri lanka">vāḷabījanī</alternative>
+      <alternative source-abbr="syā." source="thai">vāḷabījanī</alternative>
     </alternatives>
     <type>auto</type>
     <previous> Ratanāmayachattañca, paggayha vāḷabījaniṃ </previous>
@@ -125,7 +128,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">Saṃkhittapucchitaṃ</alternative>
-      <alternative source-abbr="syā. ka." source="syā. ka.">saṃkhittaṃ pucchitaṃ</alternative>
+      <alternative source-abbr="syā." source="thai">saṃkhittaṃ pucchitaṃ</alternative>
+      <alternative source-abbr="ka." source="cambodian">saṃkhittaṃ pucchitaṃ</alternative>
     </alternatives>
     <type>auto</type>
     <previous> ‘Saṃkhittapucchitaṃ </previous>
@@ -162,7 +166,9 @@
   <note line="144" original="nāmena (sī. syā. ka.)" reference-line="177" id="18">
     <extra></extra>
     <alternatives>
-      <alternative source-abbr="sī. syā. ka." source="sī. syā. ka.">nāmena</alternative>
+      <alternative source-abbr="sī." source="sri lanka">nāmena</alternative>
+      <alternative source-abbr="syā." source="thai">nāmena</alternative>
+      <alternative source-abbr="ka." source="cambodian">nāmena</alternative>
     </alternatives>
     <type>no_match</type>
     <previous>Gotamo nāma gottena </previous>
@@ -212,7 +218,8 @@
   <note line="188" original="saṃgharatanaṃ (sī. syā.)" reference-line="267" id="24">
     <extra></extra>
     <alternatives>
-      <alternative source-abbr="sī. syā." source="sī. syā.">saṃgharatanaṃ</alternative>
+      <alternative source-abbr="sī." source="sri lanka">saṃgharatanaṃ</alternative>
+      <alternative source-abbr="syā." source="thai">saṃgharatanaṃ</alternative>
     </alternatives>
     <type>no_match</type>
     <previous> bhikkhusaṅghaṃ </previous>
@@ -221,7 +228,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">abhibhomi</alternative>
-      <alternative source-abbr="sī. ka." source="sī. ka.">atibhomi</alternative>
+      <alternative source-abbr="sī." source="sri lanka">atibhomi</alternative>
+      <alternative source-abbr="ka." source="cambodian">atibhomi</alternative>
     </alternatives>
     <type>auto</type>
     <previous>Sabbe satte abhibhomi </previous>
@@ -239,7 +247,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">lagetvā</alternative>
-      <alternative source-abbr="sī. syā." source="sī. syā.">laggetvā</alternative>
+      <alternative source-abbr="sī." source="sri lanka">laggetvā</alternative>
+      <alternative source-abbr="syā." source="thai">laggetvā</alternative>
     </alternatives>
     <type>auto</type>
     <previous>Vicittadusse lagetvā </previous>

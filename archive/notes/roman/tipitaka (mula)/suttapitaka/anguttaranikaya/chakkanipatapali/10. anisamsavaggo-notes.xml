@@ -13,7 +13,9 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">chando</alternative>
-      <alternative source-abbr="sī. syā. pī." source="sī. syā. pī.">kusaladhammacchando</alternative>
+      <alternative source-abbr="sī." source="sri lanka">kusaladhammacchando</alternative>
+      <alternative source-abbr="syā." source="thai">kusaladhammacchando</alternative>
+      <alternative source-abbr="pī." source="pali text society">kusaladhammacchando</alternative>
     </alternatives>
     <type>auto</type>
     <previous> lokasmiṃ, indriyānaṃ avekallatā dullabhā lokasmiṃ, ajaḷatā aneḷamūgatā dullabhā lokasmiṃ, kusale dhamme chando </previous>
@@ -22,7 +24,9 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">dukkhaṃ hoti</alternative>
-      <alternative source-abbr="syā. pī. ka." source="syā. pī. ka.">dukkhaṃ na hoti</alternative>
+      <alternative source-abbr="syā." source="thai">dukkhaṃ na hoti</alternative>
+      <alternative source-abbr="pī." source="pali text society">dukkhaṃ na hoti</alternative>
+      <alternative source-abbr="ka." source="cambodian">dukkhaṃ na hoti</alternative>
     </alternatives>
     <type>auto</type>
     <previous> Chayime, bhikkhave, ānisaṃsā sotāpattiphalasacchikiriyāya. Katame cha? Saddhammaniyato hoti, aparihānadhammo hoti, pariyantakatassa dukkhaṃ hoti </previous>
@@ -40,7 +44,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">sabbasaṅkhāre</alternative>
-      <alternative source-abbr="sī. pī." source="sī. pī.">sabbasaṅkhāraṃ</alternative>
+      <alternative source-abbr="sī." source="sri lanka">sabbasaṅkhāraṃ</alternative>
+      <alternative source-abbr="pī." source="pali text society">sabbasaṅkhāraṃ</alternative>
     </alternatives>
     <type>auto</type>
     <previous> vata, bhikkhave, bhikkhu sabbasaṅkhāre </previous>
@@ -49,7 +54,8 @@
     <extra> paṭi. ma. 3.36</extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">sabbadhamme</alternative>
-      <alternative source-abbr="sī. pī." source="sī. pī.">sabbadhammaṃ</alternative>
+      <alternative source-abbr="sī." source="sri lanka">sabbadhammaṃ</alternative>
+      <alternative source-abbr="pī." source="pali text society">sabbadhammaṃ</alternative>
       <alternative source-abbr="ka." source="cambodian">kiñcidhammaṃ</alternative>
     </alternatives>
     <type>auto</type>
@@ -59,7 +65,9 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">anavatthitā</alternative>
-      <alternative source-abbr="sī. syā. pī." source="sī. syā. pī.">anavaṭṭhitato</alternative>
+      <alternative source-abbr="sī." source="sri lanka">anavaṭṭhitato</alternative>
+      <alternative source-abbr="syā." source="thai">anavaṭṭhitato</alternative>
+      <alternative source-abbr="pī." source="pali text society">anavaṭṭhitato</alternative>
     </alternatives>
     <type>auto</type>
     <previous>, bhikkhave, ānisaṃse sampassamānena alameva bhikkhunā sabbasaṅkhāresu anodhiṃ karitvā aniccasaññaṃ upaṭṭhāpetuṃ. Katame cha? ‘Sabbasaṅkhārā ca me anavatthitā </previous>
@@ -77,7 +85,9 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">gacchissanti</alternative>
-      <alternative source-abbr="syā. pī. ka." source="syā. pī. ka.">gacchanti</alternative>
+      <alternative source-abbr="syā." source="thai">gacchanti</alternative>
+      <alternative source-abbr="pī." source="pali text society">gacchanti</alternative>
+      <alternative source-abbr="ka." source="cambodian">gacchanti</alternative>
     </alternatives>
     <type>auto</type>
     <previous>, sabbalokā ca me mano vuṭṭhahissati, nibbānapoṇañca me mānasaṃ bhavissati, saṃyojanā ca me pahānaṃ gacchissanti </previous>
@@ -86,7 +96,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">gacchissanti</alternative>
-      <alternative source-abbr="pī. ka." source="pī. ka.">gacchanti</alternative>
+      <alternative source-abbr="pī." source="pali text society">gacchanti</alternative>
+      <alternative source-abbr="ka." source="cambodian">gacchanti</alternative>
     </alternatives>
     <type>auto</type>
     <previous> Cha, bhikkhave, ānisaṃse sampassamānena alameva bhikkhunā sabbasaṅkhāresu anodhiṃ karitvā dukkhasaññaṃ upaṭṭhāpetuṃ. Katame cha? ‘Sabbasaṅkhāresu ca me nibbidasaññā paccupaṭṭhitā bhavissati, seyyathāpi ukkhittāsike vadhake. Sabbalokā ca me mano vuṭṭhahissati, nibbāne ca santadassāvī bhavissāmi, anusayā ca me samugghātaṃ gacchissanti </previous>
@@ -94,7 +105,8 @@
   <note line="84" original="pañcamo (syā. ka.)" reference-line="26" id="10">
     <extra></extra>
     <alternatives>
-      <alternative source-abbr="syā. ka." source="syā. ka.">pañcamo</alternative>
+      <alternative source-abbr="syā." source="thai">pañcamo</alternative>
+      <alternative source-abbr="ka." source="cambodian">pañcamo</alternative>
     </alternatives>
     <type>no_match</type>
     <previous>Ānisaṃsavaggo dasamo. </previous>

@@ -7,7 +7,10 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">saccikaṭṭhaparamatthenāti</alternative>
-      <alternative source-abbr="syā. pī. ka. sī." source="syā. pī. ka. sī.">saccikaṭṭhaparamaṭṭhenāti</alternative>
+      <alternative source-abbr="syā." source="thai">saccikaṭṭhaparamaṭṭhenāti</alternative>
+      <alternative source-abbr="pī." source="pali text society">saccikaṭṭhaparamaṭṭhenāti</alternative>
+      <alternative source-abbr="ka." source="cambodian">saccikaṭṭhaparamaṭṭhenāti</alternative>
+      <alternative source-abbr="sī." source="sri lanka">saccikaṭṭhaparamaṭṭhenāti</alternative>
     </alternatives>
     <type>auto</type>
     <previous> upalabbhati saccikaṭṭhaparamatthenāti </previous>
@@ -16,7 +19,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">vata re</alternative>
-      <alternative source-abbr="syā. pī." source="syā. pī.">no vata re</alternative>
+      <alternative source-abbr="syā." source="thai">no vata re</alternative>
+      <alternative source-abbr="pī." source="pali text society">no vata re</alternative>
     </alternatives>
     <type>auto</type>
     <previous>No ce pana vattabbe – yo saccikaṭṭho paramattho, tato so puggalo upalabbhati saccikaṭṭhaparamatthenā’’ti, no ca vata re </previous>
@@ -91,7 +95,10 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">mahiṃso</alternative>
-      <alternative source-abbr="sī. syā. kaṃ. pī." source="sī. syā. kaṃ. pī.">mahiso</alternative>
+      <alternative source-abbr="sī." source="sri lanka">mahiso</alternative>
+      <alternative source-abbr="syā." source="thai">mahiso</alternative>
+      <alternative source-abbr="kaṃ." source="kaṃ.">mahiso</alternative>
+      <alternative source-abbr="pī." source="pali text society">mahiso</alternative>
     </alternatives>
     <type>auto</type>
     <previous>, tiracchānagato hoti, oṭṭho hoti, goṇo hoti, gadrabho hoti, sūkaro hoti, mahiṃso </previous>
@@ -189,7 +196,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">sammuti</alternative>
-      <alternative source-abbr="syā. kaṃ." source="syā. kaṃ.">sammati</alternative>
+      <alternative source-abbr="syā." source="thai">sammati</alternative>
+      <alternative source-abbr="kaṃ." source="kaṃ.">sammati</alternative>
     </alternatives>
     <type>auto</type>
     <previous>Evaṃ khandhesu santesu, hoti sattoti sammuti </previous>

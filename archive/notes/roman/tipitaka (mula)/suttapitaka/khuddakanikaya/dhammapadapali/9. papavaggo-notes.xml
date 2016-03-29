@@ -4,7 +4,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">na naṃ</alternative>
-      <alternative source-abbr="sī. pī." source="sī. pī.">na taṃ</alternative>
+      <alternative source-abbr="sī." source="sri lanka">na taṃ</alternative>
+      <alternative source-abbr="pī." source="pali text society">na taṃ</alternative>
     </alternatives>
     <type>auto</type>
     <previous> Pāpañce puriso kayirā, na naṃ </previous>
@@ -12,7 +13,8 @@
   <note line="11" original="kayirāthetaṃ (sī. syā.), kayirāthenaṃ (pī.)" reference-line="9" id="1">
     <extra></extra>
     <alternatives>
-      <alternative source-abbr="sī. syā." source="sī. syā.">kayirāthetaṃ</alternative>
+      <alternative source-abbr="sī." source="sri lanka">kayirāthetaṃ</alternative>
+      <alternative source-abbr="syā." source="thai">kayirāthetaṃ</alternative>
       <alternative source-abbr="vri" source="vipassana research institut">naṃ</alternative>
       <alternative source-abbr="pī." source="pali text society">kayirāthenaṃ</alternative>
     </alternatives>
@@ -41,7 +43,9 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">Māvamaññetha</alternative>
-      <alternative source-abbr="sī. syā. pī." source="sī. syā. pī.">māppamaññetha</alternative>
+      <alternative source-abbr="sī." source="sri lanka">māppamaññetha</alternative>
+      <alternative source-abbr="syā." source="thai">māppamaññetha</alternative>
+      <alternative source-abbr="pī." source="pali text society">māppamaññetha</alternative>
     </alternatives>
     <type>auto</type>
     <previous> Māvamaññetha </previous>
@@ -50,7 +54,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">na mantaṃ</alternative>
-      <alternative source-abbr="sī. pī." source="sī. pī.">na maṃ taṃ</alternative>
+      <alternative source-abbr="sī." source="sri lanka">na maṃ taṃ</alternative>
+      <alternative source-abbr="pī." source="pali text society">na maṃ taṃ</alternative>
       <alternative source-abbr="syā." source="thai">na mattaṃ</alternative>
     </alternatives>
     <type>auto</type>
@@ -60,7 +65,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">pūrati</alternative>
-      <alternative source-abbr="sī. ka." source="sī. ka.">pūrati bālo</alternative>
+      <alternative source-abbr="sī." source="sri lanka">pūrati bālo</alternative>
+      <alternative source-abbr="ka." source="cambodian">pūrati bālo</alternative>
       <alternative source-abbr="syā." source="thai">āpūrati bālo</alternative>
     </alternatives>
     <type>auto</type>
@@ -70,7 +76,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">thokaṃ thokampi</alternative>
-      <alternative source-abbr="sī. pī." source="sī. pī.">thoka thokampi</alternative>
+      <alternative source-abbr="sī." source="sri lanka">thoka thokampi</alternative>
+      <alternative source-abbr="pī." source="pali text society">thoka thokampi</alternative>
     </alternatives>
     <type>auto</type>
     <previous> pāpassa, thokaṃ thokampi </previous>
@@ -88,7 +95,10 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">vijjatī</alternative>
-      <alternative source-abbr="ka. sī. pī. ka." source="ka. sī. pī. ka.">na vijjati</alternative>
+      <alternative source-abbr="ka." source="cambodian">na vijjati</alternative>
+      <alternative source-abbr="sī." source="sri lanka">na vijjati</alternative>
+      <alternative source-abbr="pī." source="pali text society">na vijjati</alternative>
+      <alternative source-abbr="ka." source="cambodian">na vijjati</alternative>
     </alternatives>
     <type>auto</type>
     <previous> vijjatī </previous>

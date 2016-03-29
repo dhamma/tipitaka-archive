@@ -6,8 +6,10 @@
   <note line="6" original="evaṃ ādīvito (sī. pī.), evaṃ ādittako (syā. kaṃ.) saṃ. ni. 1.41" reference-line="17" id="1">
     <extra> saṃ. ni. 1.41</extra>
     <alternatives>
-      <alternative source-abbr="sī. pī." source="sī. pī.">evaṃ ādīvito</alternative>
-      <alternative source-abbr="syā. kaṃ." source="syā. kaṃ.">evaṃ ādittako</alternative>
+      <alternative source-abbr="sī." source="sri lanka">evaṃ ādīvito</alternative>
+      <alternative source-abbr="pī." source="pali text society">evaṃ ādīvito</alternative>
+      <alternative source-abbr="syā." source="thai">evaṃ ādittako</alternative>
+      <alternative source-abbr="kaṃ." source="kaṃ.">evaṃ ādittako</alternative>
     </alternatives>
     <type>no_match</type>
     <previous>Evaṃ āditto kho </previous>
@@ -25,7 +27,10 @@
     <extra> pañcamasuttassa ṭīkā oloketabbā</extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">opaneyyiko</alternative>
-      <alternative source-abbr="sī. syā. kaṃ. pī." source="sī. syā. kaṃ. pī.">opanayiko</alternative>
+      <alternative source-abbr="sī." source="sri lanka">opanayiko</alternative>
+      <alternative source-abbr="syā." source="thai">opanayiko</alternative>
+      <alternative source-abbr="kaṃ." source="kaṃ.">opanayiko</alternative>
+      <alternative source-abbr="pī." source="pali text society">opanayiko</alternative>
     </alternatives>
     <type>auto</type>
     <previous> bhagavantaṃ etadavoca – ‘sandiṭṭhiko dhammo sandiṭṭhiko dhammo’ti, bho gotama, vuccati. Kittāvatā nu kho, bho gotama, sandiṭṭhiko dhammo hoti akāliko ehipassiko opaneyyiko </previous>
@@ -37,7 +42,9 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">nassaṃ paṭisaṃvedeti. Dose pahīne nevattabyābādhāyapi ceteti, na parabyābādhāyapi ceteti, na ubhayabyābādhāyapi ceteti, na cetasikampi</alternative>
-      <alternative source-abbr="sī. syā. ka." source="sī. syā. ka.">na cetasikaṃ</alternative>
+      <alternative source-abbr="sī." source="sri lanka">na cetasikaṃ</alternative>
+      <alternative source-abbr="syā." source="thai">na cetasikaṃ</alternative>
+      <alternative source-abbr="ka." source="cambodian">na cetasikaṃ</alternative>
     </alternatives>
     <type>auto</type>
     <previous> ceteti, ubhayabyābādhāyapi ceteti, cetasikampi dukkhaṃ domanassaṃ paṭisaṃvedeti. Dose pahīne nevattabyābādhāyapi ceteti, na parabyābādhāyapi ceteti, na ubhayabyābādhāyapi ceteti, na cetasikampi </previous>
@@ -56,7 +63,10 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">sudaṃ</alternative>
-      <alternative source-abbr="sī. syā. kaṃ. pī." source="sī. syā. kaṃ. pī.">pubbassudaṃ</alternative>
+      <alternative source-abbr="sī." source="sri lanka">pubbassudaṃ</alternative>
+      <alternative source-abbr="syā." source="thai">pubbassudaṃ</alternative>
+      <alternative source-abbr="kaṃ." source="kaṃ.">pubbassudaṃ</alternative>
+      <alternative source-abbr="pī." source="pali text society">pubbassudaṃ</alternative>
     </alternatives>
     <type>auto</type>
     <previous> Atha kho aññataro brāhmaṇamahāsālo yena bhagavā tenupasaṅkami…pe… ekamantaṃ nisinno kho so brāhmaṇamahāsālo bhagavantaṃ etadavoca – sutaṃ metaṃ, bho gotama, pubbakānaṃ brāhmaṇānaṃ vuddhānaṃ mahallakānaṃ ācariyapācariyānaṃ bhāsamānānaṃ – ‘pubbe sudaṃ </previous>
@@ -101,7 +111,10 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">ca pana maṃ</alternative>
-      <alternative source-abbr="sī. syā. kaṃ. pī." source="sī. syā. kaṃ. pī.">ca pana maṃ te</alternative>
+      <alternative source-abbr="sī." source="sri lanka">ca pana maṃ te</alternative>
+      <alternative source-abbr="syā." source="thai">ca pana maṃ te</alternative>
+      <alternative source-abbr="kaṃ." source="kaṃ.">ca pana maṃ te</alternative>
+      <alternative source-abbr="pī." source="pali text society">ca pana maṃ te</alternative>
     </alternatives>
     <type>auto</type>
     <previous>Ye te, vaccha, evamāhaṃsu – ‘samaṇo gotamo evamāha – mayhameva dānaṃ dātabbaṃ…pe… nāññesaṃ sāvakānaṃ dinnaṃ mahapphala’nti na me te vuttavādino. Abbhācikkhanti ca pana maṃ </previous>
@@ -119,7 +132,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">Tasmiṃyeva</alternative>
-      <alternative source-abbr="syā. kaṃ." source="syā. kaṃ.">tasmiṃ ve</alternative>
+      <alternative source-abbr="syā." source="thai">tasmiṃ ve</alternative>
+      <alternative source-abbr="kaṃ." source="kaṃ.">tasmiṃ ve</alternative>
     </alternatives>
     <type>auto</type>
     <previous>Tasmiṃyeva </previous>
@@ -128,7 +142,10 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">antimadehinaṃ</alternative>
-      <alternative source-abbr="sī. syā. kaṃ. pī." source="sī. syā. kaṃ. pī.">antimasārīraṃ</alternative>
+      <alternative source-abbr="sī." source="sri lanka">antimasārīraṃ</alternative>
+      <alternative source-abbr="syā." source="thai">antimasārīraṃ</alternative>
+      <alternative source-abbr="kaṃ." source="kaṃ.">antimasārīraṃ</alternative>
+      <alternative source-abbr="pī." source="pali text society">antimasārīraṃ</alternative>
     </alternatives>
     <type>auto</type>
     <previous>Buddhaṃ antimadehinaṃ </previous>
@@ -143,7 +160,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">yo ceva yajati</alternative>
-      <alternative source-abbr="syā. kaṃ." source="syā. kaṃ.">yo ceva yaññaṃ yajati</alternative>
+      <alternative source-abbr="syā." source="thai">yo ceva yaññaṃ yajati</alternative>
+      <alternative source-abbr="kaṃ." source="kaṃ.">yo ceva yaññaṃ yajati</alternative>
     </alternatives>
     <type>auto</type>
     <previous> ekamantaṃ nisīdi. Ekamantaṃ nisinno kho saṅgāravo brāhmaṇo bhagavantaṃ etadavoca – mayamassu, bho gotama, brāhmaṇā nāma. Yaññaṃ yajāmapi yajāpemapi. Tatra, bho gotama, yo ceva yajati </previous>
@@ -181,7 +199,10 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">rājapurisānaṃ</alternative>
-      <alternative source-abbr="sī. syā. kaṃ. pī." source="sī. syā. kaṃ. pī.">rājaparisāyaṃ</alternative>
+      <alternative source-abbr="sī." source="sri lanka">rājaparisāyaṃ</alternative>
+      <alternative source-abbr="syā." source="thai">rājaparisāyaṃ</alternative>
+      <alternative source-abbr="kaṃ." source="kaṃ.">rājaparisāyaṃ</alternative>
+      <alternative source-abbr="pī." source="pali text society">rājaparisāyaṃ</alternative>
     </alternatives>
     <type>auto</type>
     <previous> no vissajjeti. Yaṃnūnāhaṃ parimoceyya’’nti. Atha kho bhagavā saṅgāravaṃ brāhmaṇaṃ etadavoca – kā nvajja, brāhmaṇa, rājantepure rājapurisānaṃ </previous>
@@ -196,7 +217,9 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">yadidaṃ</alternative>
-      <alternative source-abbr="syā. kaṃ. pī." source="syā. kaṃ. pī.">yamidaṃ</alternative>
+      <alternative source-abbr="syā." source="thai">yamidaṃ</alternative>
+      <alternative source-abbr="kaṃ." source="kaṃ.">yamidaṃ</alternative>
+      <alternative source-abbr="pī." source="pali text society">yamidaṃ</alternative>
     </alternatives>
     <type>auto</type>
     <previous>Tatra, bho gotama, yadidaṃ </previous>
@@ -205,7 +228,10 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">yova</alternative>
-      <alternative source-abbr="syā. kaṃ. pī. ka." source="syā. kaṃ. pī. ka.">yo ca</alternative>
+      <alternative source-abbr="syā." source="thai">yo ca</alternative>
+      <alternative source-abbr="kaṃ." source="kaṃ.">yo ca</alternative>
+      <alternative source-abbr="pī." source="pali text society">yo ca</alternative>
+      <alternative source-abbr="ka." source="cambodian">yo ca</alternative>
     </alternatives>
     <type>auto</type>
     <previous> pāṭihāriyaṃ idhekacco anekavihitaṃ iddhividhaṃ paccanubhoti…pe… yāva brāhmalokāpi kāyena vasaṃ vatteti, idaṃ, bho gotama, pāṭihāriyaṃ yova </previous>
@@ -214,7 +240,10 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">sova</alternative>
-      <alternative source-abbr="syā. kaṃ pī. ka." source="syā. kaṃ pī. ka.">soca ca</alternative>
+      <alternative source-abbr="syā." source="thai">soca ca</alternative>
+      <alternative source-abbr="kaṃ" source="kaṃ">soca ca</alternative>
+      <alternative source-abbr="pī." source="pali text society">soca ca</alternative>
+      <alternative source-abbr="ka." source="cambodian">soca ca</alternative>
     </alternatives>
     <type>auto</type>
     <previous> naṃ karoti sova </previous>
@@ -223,7 +252,10 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">yova</alternative>
-      <alternative source-abbr="syā. kaṃ. pī. ka." source="syā. kaṃ. pī. ka.">yo ca</alternative>
+      <alternative source-abbr="syā." source="thai">yo ca</alternative>
+      <alternative source-abbr="kaṃ." source="kaṃ.">yo ca</alternative>
+      <alternative source-abbr="pī." source="pali text society">yo ca</alternative>
+      <alternative source-abbr="ka." source="cambodian">yo ca</alternative>
     </alternatives>
     <type>auto</type>
     <previous> naṃ paṭisaṃvedeti, yova </previous>
@@ -232,8 +264,11 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">tasseva</alternative>
-      <alternative source-abbr="sī. ka." source="sī. ka.">tassameva</alternative>
-      <alternative source-abbr="syā. kaṃ. pī." source="syā. kaṃ. pī.">tassa ceva</alternative>
+      <alternative source-abbr="sī." source="sri lanka">tassameva</alternative>
+      <alternative source-abbr="ka." source="cambodian">tassameva</alternative>
+      <alternative source-abbr="syā." source="thai">tassa ceva</alternative>
+      <alternative source-abbr="kaṃ." source="kaṃ.">tassa ceva</alternative>
+      <alternative source-abbr="pī." source="pali text society">tassa ceva</alternative>
     </alternatives>
     <type>auto</type>
     <previous> naṃ karoti tasseva </previous>

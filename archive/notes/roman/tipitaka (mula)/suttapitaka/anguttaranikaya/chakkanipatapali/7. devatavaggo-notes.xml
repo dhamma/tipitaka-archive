@@ -4,7 +4,10 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">Thinaṃ</alternative>
-      <alternative source-abbr="sī. syā. kaṃ. pī." source="sī. syā. kaṃ. pī.">thīnaṃ</alternative>
+      <alternative source-abbr="sī." source="sri lanka">thīnaṃ</alternative>
+      <alternative source-abbr="syā." source="thai">thīnaṃ</alternative>
+      <alternative source-abbr="kaṃ." source="kaṃ.">thīnaṃ</alternative>
+      <alternative source-abbr="pī." source="pali text society">thīnaṃ</alternative>
     </alternatives>
     <type>auto</type>
     <previous> Cha, bhikkhave, dhamme appahāya abhabbo arahattaṃ sacchikātuṃ. Katame cha? Thinaṃ </previous>
@@ -48,7 +51,8 @@
   <note line="43" original="dutiyo (syā. ka.)" reference-line="34" id="5">
     <extra></extra>
     <alternatives>
-      <alternative source-abbr="syā. ka." source="syā. ka.">dutiyo</alternative>
+      <alternative source-abbr="syā." source="thai">dutiyo</alternative>
+      <alternative source-abbr="ka." source="cambodian">dutiyo</alternative>
     </alternatives>
     <type>no_match</type>
     <previous>Devatāvaggo sattamo. </previous>

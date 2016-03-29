@@ -13,7 +13,9 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">kosambaṃ</alternative>
-      <alternative source-abbr="sī. syā. pī." source="sī. syā. pī.">kosumbaṃ</alternative>
+      <alternative source-abbr="sī." source="sri lanka">kosumbaṃ</alternative>
+      <alternative source-abbr="syā." source="thai">kosumbaṃ</alternative>
+      <alternative source-abbr="pī." source="pali text society">kosumbaṃ</alternative>
     </alternatives>
     <type>auto</type>
     <previous>Rathiyaṃ paṭipajjantaṃ, kosambaṃ </previous>
@@ -30,7 +32,8 @@
   <note line="27" original="cāvalo (sī. pī.), accayo (syā.)" reference-line="121" id="3">
     <extra></extra>
     <alternatives>
-      <alternative source-abbr="sī. pī." source="sī. pī.">cāvalo</alternative>
+      <alternative source-abbr="sī." source="sri lanka">cāvalo</alternative>
+      <alternative source-abbr="pī." source="pali text society">cāvalo</alternative>
       <alternative source-abbr="syā." source="thai">accayo</alternative>
     </alternatives>
     <type>no_match</type>
@@ -39,7 +42,9 @@
   <note line="35" original="katvānahaṃ tadā (syā. pī. ka.)" reference-line="127" id="4">
     <extra></extra>
     <alternatives>
-      <alternative source-abbr="syā. pī. ka." source="syā. pī. ka.">katvānahaṃ tadā</alternative>
+      <alternative source-abbr="syā." source="thai">katvānahaṃ tadā</alternative>
+      <alternative source-abbr="pī." source="pali text society">katvānahaṃ tadā</alternative>
+      <alternative source-abbr="ka." source="cambodian">katvānahaṃ tadā</alternative>
     </alternatives>
     <type>no_match</type>
     <previous> kuṭajamādāya, sire katvāna añjaliṃ </previous>
@@ -48,7 +53,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">uttariṃ</alternative>
-      <alternative source-abbr="sī. pī." source="sī. pī.">atariṃ</alternative>
+      <alternative source-abbr="sī." source="sri lanka">atariṃ</alternative>
+      <alternative source-abbr="pī." source="pali text society">atariṃ</alternative>
     </alternatives>
     <type>auto</type>
     <previous>Tattha cittaṃ pasādetvā, uttariṃ </previous>

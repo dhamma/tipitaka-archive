@@ -4,7 +4,9 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">sivathikaṃ</alternative>
-      <alternative source-abbr="sī. syā. pī." source="sī. syā. pī.">sīvathikaṃ</alternative>
+      <alternative source-abbr="sī." source="sri lanka">sīvathikaṃ</alternative>
+      <alternative source-abbr="syā." source="thai">sīvathikaṃ</alternative>
+      <alternative source-abbr="pī." source="pali text society">sīvathikaṃ</alternative>
     </alternatives>
     <type>auto</type>
     <previous> sivathikaṃ </previous>
@@ -37,7 +39,9 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">sugandhakaṃ</alternative>
-      <alternative source-abbr="sī. syā. pī." source="sī. syā. pī.">sagandhakaṃ</alternative>
+      <alternative source-abbr="sī." source="sri lanka">sagandhakaṃ</alternative>
+      <alternative source-abbr="syā." source="thai">sagandhakaṃ</alternative>
+      <alternative source-abbr="pī." source="pali text society">sagandhakaṃ</alternative>
     </alternatives>
     <type>auto</type>
     <previous> ruciraṃ pupphaṃ, vaṇṇavantaṃ sugandhakaṃ </previous>
@@ -45,7 +49,8 @@
   <note line="41" original="sakubbato (sī. pī.), sukubbato (syā.)" reference-line="34" id="6">
     <extra></extra>
     <alternatives>
-      <alternative source-abbr="sī. pī." source="sī. pī.">sakubbato</alternative>
+      <alternative source-abbr="sī." source="sri lanka">sakubbato</alternative>
+      <alternative source-abbr="pī." source="pali text society">sakubbato</alternative>
       <alternative source-abbr="syā." source="thai">sukubbato</alternative>
     </alternatives>
     <type>no_match</type>
@@ -64,7 +69,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="sī." source="sri lanka">pakkhanto</alternative>
-      <alternative source-abbr="syā. pī." source="syā. pī.">pakkhanno</alternative>
+      <alternative source-abbr="syā." source="thai">pakkhanno</alternative>
+      <alternative source-abbr="pī." source="pali text society">pakkhanno</alternative>
     </alternatives>
     <type>no_match</type>
     <previous> Diṭṭhigahanapakkhando </previous>
@@ -100,7 +106,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">sarīraja</alternative>
-      <alternative source-abbr="syā. ka." source="syā. ka.">sarīrajaṃ</alternative>
+      <alternative source-abbr="syā." source="thai">sarīrajaṃ</alternative>
+      <alternative source-abbr="ka." source="cambodian">sarīrajaṃ</alternative>
     </alternatives>
     <type>auto</type>
     <previous> sarīraja </previous>
@@ -109,7 +116,7 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">na gacchasi</alternative>
-      <alternative source-abbr="pī" source="pī">na gañchisi</alternative>
+      <alternative source-abbr="pī." source="pali text society">na gañchisi</alternative>
     </alternatives>
     <type>auto</type>
     <previous> olaggo na gacchasi </previous>
@@ -118,7 +125,9 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">pasakka</alternative>
-      <alternative source-abbr="sī. syā. pī." source="sī. syā. pī.">pasahaṃ</alternative>
+      <alternative source-abbr="sī." source="sri lanka">pasahaṃ</alternative>
+      <alternative source-abbr="syā." source="thai">pasahaṃ</alternative>
+      <alternative source-abbr="pī." source="pali text society">pasahaṃ</alternative>
     </alternatives>
     <type>auto</type>
     <previous>Na ca cittakali punappunaṃ, pasakka </previous>

@@ -3,9 +3,14 @@
   <note line="3" original="te (sī. syā.), naṃ (sī. syā. pī. aṭṭha.), taṃ (ka. aṭṭha.)" reference-line="6" id="0">
     <extra></extra>
     <alternatives>
-      <alternative source-abbr="sī. syā." source="sī. syā.">te</alternative>
-      <alternative source-abbr="sī. syā. pī. aṭṭha." source="sī. syā. pī. aṭṭha.">naṃ</alternative>
-      <alternative source-abbr="ka. aṭṭha." source="ka. aṭṭha.">taṃ</alternative>
+      <alternative source-abbr="sī." source="sri lanka">te</alternative>
+      <alternative source-abbr="syā." source="thai">te</alternative>
+      <alternative source-abbr="sī." source="sri lanka">naṃ</alternative>
+      <alternative source-abbr="syā." source="thai">naṃ</alternative>
+      <alternative source-abbr="pī." source="pali text society">naṃ</alternative>
+      <alternative source-abbr="aṭṭha." source="aṭṭha.">naṃ</alternative>
+      <alternative source-abbr="ka." source="cambodian">taṃ</alternative>
+      <alternative source-abbr="aṭṭha." source="aṭṭha.">taṃ</alternative>
     </alternatives>
     <type>no_match</type>
     <previous>Paṭivedemi te brahme, na ne </previous>
@@ -14,7 +19,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">nesaṃ</alternative>
-      <alternative source-abbr="sī. aṭṭha." source="sī. aṭṭha.">tesaṃ</alternative>
+      <alternative source-abbr="sī." source="sri lanka">tesaṃ</alternative>
+      <alternative source-abbr="aṭṭha." source="aṭṭha.">tesaṃ</alternative>
     </alternatives>
     <type>auto</type>
     <previous> Eko ca tattha sakuṇo, yo nesaṃ </previous>
@@ -22,7 +28,8 @@
   <note line="20" original="ujjhuntu (syā. ka.) aṅguttaranikāye passitabbaṃ" reference-line="11" id="2">
     <extra> aṅguttaranikāye passitabbaṃ</extra>
     <alternatives>
-      <alternative source-abbr="syā. ka." source="syā. ka.">ujjhuntu</alternative>
+      <alternative source-abbr="syā." source="thai">ujjhuntu</alternative>
+      <alternative source-abbr="ka." source="cambodian">ujjhuntu</alternative>
     </alternatives>
     <type>no_match</type>
     <previous> Oḍḍentu </previous>
@@ -31,7 +38,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">ānayehi</alternative>
-      <alternative source-abbr="sī. pī." source="sī. pī.">ānayetha</alternative>
+      <alternative source-abbr="sī." source="sri lanka">ānayetha</alternative>
+      <alternative source-abbr="pī." source="pali text society">ānayetha</alternative>
     </alternatives>
     <type>auto</type>
     <previous>Jīvañca naṃ gahetvāna, ānayehi </previous>
@@ -67,7 +75,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">Īdisaṃ</alternative>
-      <alternative source-abbr="sī. pī." source="sī. pī.">edisaṃ</alternative>
+      <alternative source-abbr="sī." source="sri lanka">edisaṃ</alternative>
+      <alternative source-abbr="pī." source="pali text society">edisaṃ</alternative>
     </alternatives>
     <type>auto</type>
     <previous> Īdisaṃ </previous>
@@ -75,7 +84,8 @@
   <note line="67" original="nidhiṃ nidhānaṃ akkhātaṃ (sī. pī.)" reference-line="40" id="8">
     <extra></extra>
     <alternatives>
-      <alternative source-abbr="sī. pī." source="sī. pī.">nidhiṃ nidhānaṃ akkhātaṃ</alternative>
+      <alternative source-abbr="sī." source="sri lanka">nidhiṃ nidhānaṃ akkhātaṃ</alternative>
+      <alternative source-abbr="pī." source="pali text society">nidhiṃ nidhānaṃ akkhātaṃ</alternative>
     </alternatives>
     <type>no_match</type>
     <previous>Nidhinidhānamakkhāmi </previous>
@@ -93,7 +103,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">rattiñca</alternative>
-      <alternative source-abbr="sī. pī." source="sī. pī.">ratī ca</alternative>
+      <alternative source-abbr="sī." source="sri lanka">ratī ca</alternative>
+      <alternative source-abbr="pī." source="pali text society">ratī ca</alternative>
     </alternatives>
     <type>auto</type>
     <previous>, rattiñca </previous>
@@ -102,7 +113,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">yo addasāsiṃ pavaraṃ</alternative>
-      <alternative source-abbr="syā. ka." source="syā. ka.">yohaṃ adassaṃ paramaṃ</alternative>
+      <alternative source-abbr="syā." source="thai">yohaṃ adassaṃ paramaṃ</alternative>
+      <alternative source-abbr="ka." source="cambodian">yohaṃ adassaṃ paramaṃ</alternative>
     </alternatives>
     <type>auto</type>
     <previous> Lakkhī vata me udapādi ajja, yo addasāsiṃ pavaraṃ </previous>
@@ -128,7 +140,9 @@
   <note line="114" original="lohitamadena majjāmi; vijahāmi jīvitaṃ pāṇā, (sī. pī. aṭṭha.)" reference-line="60" id="14">
     <extra></extra>
     <alternatives>
-      <alternative source-abbr="sī. pī. aṭṭha." source="sī. pī. aṭṭha.">lohitamadena majjāmi; vijahāmi jīvitaṃ pāṇā,</alternative>
+      <alternative source-abbr="sī." source="sri lanka">lohitamadena majjāmi; vijahāmi jīvitaṃ pāṇā,</alternative>
+      <alternative source-abbr="pī." source="pali text society">lohitamadena majjāmi; vijahāmi jīvitaṃ pāṇā,</alternative>
+      <alternative source-abbr="aṭṭha." source="aṭṭha.">lohitamadena majjāmi; vijahāmi jīvitaṃ pāṇā,</alternative>
     </alternatives>
     <type>no_match</type>
     <previous> Upanīyatidaṃ maññe, cande </previous>
@@ -137,7 +151,9 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">jahāmi jīvitaṃ, pāṇā</alternative>
-      <alternative source-abbr="sī. pī. aṭṭha." source="sī. pī. aṭṭha.">lohitamadena majjāmi; vijahāmi jīvitaṃ pāṇā,</alternative>
+      <alternative source-abbr="sī." source="sri lanka">lohitamadena majjāmi; vijahāmi jīvitaṃ pāṇā,</alternative>
+      <alternative source-abbr="pī." source="pali text society">lohitamadena majjāmi; vijahāmi jīvitaṃ pāṇā,</alternative>
+      <alternative source-abbr="aṭṭha." source="aṭṭha.">lohitamadena majjāmi; vijahāmi jīvitaṃ pāṇā,</alternative>
     </alternatives>
     <type>auto</type>
     <previous>Ajja jahāmi jīvitaṃ, pāṇā </previous>
@@ -146,7 +162,9 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">Osīdi</alternative>
-      <alternative source-abbr="sī. syā. pī." source="sī. syā. pī.">osadhi</alternative>
+      <alternative source-abbr="sī." source="sri lanka">osadhi</alternative>
+      <alternative source-abbr="syā." source="thai">osadhi</alternative>
+      <alternative source-abbr="pī." source="pali text society">osadhi</alternative>
       <alternative source-abbr="ka." source="cambodian">osaṭṭhi</alternative>
       <alternative source-abbr="abhinavaṭīkā" source="abhinavaṭīkā">osati</alternative>
       <alternative source-abbr="?" source="unknown">osīdati</alternative>
@@ -158,7 +176,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">dukkhaṃ</alternative>
-      <alternative source-abbr="sī. pī." source="sī. pī.">dukkhaṃ me</alternative>
+      <alternative source-abbr="sī." source="sri lanka">dukkhaṃ me</alternative>
+      <alternative source-abbr="pī." source="pali text society">dukkhaṃ me</alternative>
     </alternatives>
     <type>auto</type>
     <previous> me dukkhaṃ </previous>
@@ -168,7 +187,9 @@
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">milāyāmi</alternative>
       <alternative source-abbr="sī." source="sri lanka">milayāmi</alternative>
-      <alternative source-abbr="sī. pī. aṭṭha." source="sī. pī. aṭṭha.">miyyāmi</alternative>
+      <alternative source-abbr="sī." source="sri lanka">miyyāmi</alternative>
+      <alternative source-abbr="pī." source="pali text society">miyyāmi</alternative>
+      <alternative source-abbr="aṭṭha." source="aṭṭha.">miyyāmi</alternative>
     </alternatives>
     <type>auto</type>
     <previous> Tiṇamiva vanamiva milāyāmi </previous>
@@ -177,7 +198,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">aparipuṇṇāva</alternative>
-      <alternative source-abbr="sī. pī." source="sī. pī.">aparipuṇṇiyāva</alternative>
+      <alternative source-abbr="sī." source="sri lanka">aparipuṇṇiyāva</alternative>
+      <alternative source-abbr="pī." source="pali text society">aparipuṇṇiyāva</alternative>
     </alternatives>
     <type>auto</type>
     <previous>, nadī aparipuṇṇāva </previous>
@@ -197,7 +219,8 @@
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">Pāpo khosi</alternative>
       <alternative source-abbr="sī." source="sri lanka">pāposi kho</alternative>
-      <alternative source-abbr="syā. pī." source="syā. pī.">pāpo kho</alternative>
+      <alternative source-abbr="syā." source="thai">pāpo kho</alternative>
+      <alternative source-abbr="pī." source="pali text society">pāpo kho</alternative>
     </alternatives>
     <type>auto</type>
     <previous> Pāpo khosi </previous>
@@ -206,7 +229,9 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">icchitaṃ</alternative>
-      <alternative source-abbr="sī. syā. pī." source="sī. syā. pī.">icchita</alternative>
+      <alternative source-abbr="sī." source="sri lanka">icchita</alternative>
+      <alternative source-abbr="syā." source="thai">icchita</alternative>
+      <alternative source-abbr="pī." source="pali text society">icchita</alternative>
     </alternatives>
     <type>auto</type>
     <previous> rājaputta, yo me icchitaṃ </previous>
@@ -215,7 +240,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">puttaṃ</alternative>
-      <alternative source-abbr="sī. pī." source="sī. pī.">putte</alternative>
+      <alternative source-abbr="sī." source="sri lanka">putte</alternative>
+      <alternative source-abbr="pī." source="pali text society">putte</alternative>
     </alternatives>
     <type>auto</type>
     <previous> ca puttaṃ </previous>
@@ -232,7 +258,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">nārībhi</alternative>
-      <alternative source-abbr="sī. pī." source="sī. pī.">nārī</alternative>
+      <alternative source-abbr="sī." source="sri lanka">nārī</alternative>
+      <alternative source-abbr="pī." source="pali text society">nārī</alternative>
     </alternatives>
     <type>auto</type>
     <previous>Mama tvaṃ hehisi bhariyā, rājakule pūjitā nārībhi </previous>
@@ -241,7 +268,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">nāhaṃ</alternative>
-      <alternative source-abbr="sī. pī." source="sī. pī.">na ca panāhaṃ</alternative>
+      <alternative source-abbr="sī." source="sri lanka">na ca panāhaṃ</alternative>
+      <alternative source-abbr="pī." source="pali text society">na ca panāhaṃ</alternative>
     </alternatives>
     <type>auto</type>
     <previous> Api nūnahaṃ marissaṃ, nāhaṃ </previous>
@@ -250,7 +278,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">Tālīsatagarabhojanā, aññe</alternative>
-      <alternative source-abbr="sī. pī." source="sī. pī.">tālissatagarabhojane, araññe</alternative>
+      <alternative source-abbr="sī." source="sri lanka">tālissatagarabhojane, araññe</alternative>
+      <alternative source-abbr="pī." source="pali text society">tālissatagarabhojane, araññe</alternative>
     </alternatives>
     <type>auto</type>
     <previous>Tālīsatagarabhojanā, aññe </previous>
@@ -259,7 +288,9 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">ca kandarā,</alternative>
-      <alternative source-abbr="sī. syā. pī." source="sī. syā. pī.">tā ca giriguhāyo</alternative>
+      <alternative source-abbr="sī." source="sri lanka">tā ca giriguhāyo</alternative>
+      <alternative source-abbr="syā." source="thai">tā ca giriguhāyo</alternative>
+      <alternative source-abbr="pī." source="pali text society">tā ca giriguhāyo</alternative>
     </alternatives>
     <type>auto</type>
     <previous> pabbatā tā ca kandarā, </previous>
@@ -268,7 +299,9 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">tatheva tiṭṭhanti</alternative>
-      <alternative source-abbr="sī. syā. pī." source="sī. syā. pī.">tā ca giriguhāyo</alternative>
+      <alternative source-abbr="sī." source="sri lanka">tā ca giriguhāyo</alternative>
+      <alternative source-abbr="syā." source="thai">tā ca giriguhāyo</alternative>
+      <alternative source-abbr="pī." source="pali text society">tā ca giriguhāyo</alternative>
     </alternatives>
     <type>auto</type>
     <previous> tā ca giriguhāyo tatheva tiṭṭhanti </previous>
@@ -277,7 +310,9 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">Tattheva</alternative>
-      <alternative source-abbr="sī. syā. pī." source="sī. syā. pī.">tattha</alternative>
+      <alternative source-abbr="sī." source="sri lanka">tattha</alternative>
+      <alternative source-abbr="syā." source="thai">tattha</alternative>
+      <alternative source-abbr="pī." source="pali text society">tattha</alternative>
     </alternatives>
     <type>auto</type>
     <previous>Tattheva </previous>
@@ -286,7 +321,9 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">kassaṃ</alternative>
-      <alternative source-abbr="sī. syā. pī." source="sī. syā. pī.">kāsaṃ</alternative>
+      <alternative source-abbr="sī." source="sri lanka">kāsaṃ</alternative>
+      <alternative source-abbr="syā." source="thai">kāsaṃ</alternative>
+      <alternative source-abbr="pī." source="pali text society">kāsaṃ</alternative>
     </alternatives>
     <type>auto</type>
     <previous>Tattheva taṃ apassantī, kimpurisa kathaṃ ahaṃ kassaṃ </previous>
@@ -295,7 +332,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">girivana</alternative>
-      <alternative source-abbr="sī. pī." source="sī. pī.">girivara</alternative>
+      <alternative source-abbr="sī." source="sri lanka">girivara</alternative>
+      <alternative source-abbr="pī." source="pali text society">girivara</alternative>
     </alternatives>
     <type>auto</type>
     <previous> Acchā savanti girivana </previous>
@@ -304,7 +342,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">dassanīyāni</alternative>
-      <alternative source-abbr="sī. pī." source="sī. pī.">dassaneyyāni</alternative>
+      <alternative source-abbr="sī." source="sri lanka">dassaneyyāni</alternative>
+      <alternative source-abbr="pī." source="pali text society">dassaneyyāni</alternative>
     </alternatives>
     <type>auto</type>
     <previous> Nīlāni himavato pabbatassa, kūṭāni dassanīyāni </previous>
@@ -322,7 +361,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">girivana</alternative>
-      <alternative source-abbr="sī. pī." source="sī. pī.">girivara</alternative>
+      <alternative source-abbr="sī." source="sri lanka">girivara</alternative>
+      <alternative source-abbr="pī." source="pali text society">girivara</alternative>
     </alternatives>
     <type>auto</type>
     <previous> Vicarāma dāni girivana </previous>
@@ -339,7 +379,9 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">Candakinnarījātakaṃ</alternative>
-      <alternative source-abbr="sī. syā. pī." source="sī. syā. pī.">candakinnarajātakaṃ</alternative>
+      <alternative source-abbr="sī." source="sri lanka">candakinnarajātakaṃ</alternative>
+      <alternative source-abbr="syā." source="thai">candakinnarajātakaṃ</alternative>
+      <alternative source-abbr="pī." source="pali text society">candakinnarajātakaṃ</alternative>
     </alternatives>
     <type>auto</type>
     <previous>Candakinnarījātakaṃ </previous>
@@ -348,7 +390,9 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">cilācā</alternative>
-      <alternative source-abbr="sī. syā. pī." source="sī. syā. pī.">milācā</alternative>
+      <alternative source-abbr="sī." source="sri lanka">milācā</alternative>
+      <alternative source-abbr="syā." source="thai">milācā</alternative>
+      <alternative source-abbr="pī." source="pali text society">milācā</alternative>
     </alternatives>
     <type>auto</type>
     <previous> Ukkā cilācā </previous>
@@ -366,7 +410,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">pakkhima</alternative>
-      <alternative source-abbr="sī. pī." source="sī. pī.">pakkhi</alternative>
+      <alternative source-abbr="sī." source="sri lanka">pakkhi</alternative>
+      <alternative source-abbr="pī." source="pali text society">pakkhi</alternative>
       <alternative source-abbr="syā." source="thai">pakkhi ca</alternative>
     </alternatives>
     <type>auto</type>
@@ -376,7 +421,9 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">upema</alternative>
-      <alternative source-abbr="sī. syā. pī." source="sī. syā. pī.">upemi</alternative>
+      <alternative source-abbr="sī." source="sri lanka">upemi</alternative>
+      <alternative source-abbr="syā." source="thai">upemi</alternative>
+      <alternative source-abbr="pī." source="pali text society">upemi</alternative>
     </alternatives>
     <type>auto</type>
     <previous>, ukkusarāja saraṇaṃ taṃ upema </previous>
@@ -385,7 +432,9 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">cilācā</alternative>
-      <alternative source-abbr="sī. syā. pī." source="sī. syā. pī.">milācā</alternative>
+      <alternative source-abbr="sī." source="sri lanka">milācā</alternative>
+      <alternative source-abbr="syā." source="thai">milācā</alternative>
+      <alternative source-abbr="pī." source="pali text society">milācā</alternative>
     </alternatives>
     <type>auto</type>
     <previous>Pajā mamaṃ khādituṃ patthayanti, luddā cilācā </previous>
@@ -402,7 +451,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">tayīdaṃ</alternative>
-      <alternative source-abbr="sī. pī." source="sī. pī.">tava yidaṃ</alternative>
+      <alternative source-abbr="sī." source="sri lanka">tava yidaṃ</alternative>
+      <alternative source-abbr="pī." source="pali text society">tava yidaṃ</alternative>
     </alternatives>
     <type>auto</type>
     <previous> Yaṃ hoti kiccaṃ anukampakena, ariyassa ariyena kataṃ tayīdaṃ </previous>
@@ -411,7 +461,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">adayhi</alternative>
-      <alternative source-abbr="sī. pī." source="sī. pī.">aḍayha</alternative>
+      <alternative source-abbr="sī." source="sri lanka">aḍayha</alternative>
+      <alternative source-abbr="pī." source="pali text society">aḍayha</alternative>
     </alternatives>
     <type>auto</type>
     <previous>Attānurakkhī bhava mā adayhi </previous>
@@ -420,7 +471,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">Taveva</alternative>
-      <alternative source-abbr="syā. ka." source="syā. ka.">tameva</alternative>
+      <alternative source-abbr="syā." source="thai">tameva</alternative>
+      <alternative source-abbr="ka." source="cambodian">tameva</alternative>
     </alternatives>
     <type>auto</type>
     <previous> Taveva </previous>
@@ -429,7 +481,10 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">heke</alternative>
-      <alternative source-abbr="ka. sī. syā. pī." source="ka. sī. syā. pī.">hete</alternative>
+      <alternative source-abbr="ka." source="cambodian">hete</alternative>
+      <alternative source-abbr="sī." source="sri lanka">hete</alternative>
+      <alternative source-abbr="syā." source="thai">hete</alternative>
+      <alternative source-abbr="pī." source="pali text society">hete</alternative>
     </alternatives>
     <type>auto</type>
     <previous>Karonti heke </previous>
@@ -438,7 +493,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">cajantā</alternative>
-      <alternative source-abbr="sī. pī." source="sī. pī.">cajanti</alternative>
+      <alternative source-abbr="sī." source="sri lanka">cajanti</alternative>
+      <alternative source-abbr="pī." source="pali text society">cajanti</alternative>
     </alternatives>
     <type>auto</type>
     <previous> sakhīnaṃ sakhāro, pāṇaṃ cajantā </previous>
@@ -455,7 +511,8 @@
   <note line="405" original="makā (sī. pī.)" reference-line="156" id="50">
     <extra></extra>
     <alternatives>
-      <alternative source-abbr="sī. pī." source="sī. pī.">makā</alternative>
+      <alternative source-abbr="sī." source="sri lanka">makā</alternative>
+      <alternative source-abbr="pī." source="pali text society">makā</alternative>
     </alternatives>
     <type>no_match</type>
     <previous> Sudukkaraṃ kammamakāsi </previous>
@@ -464,7 +521,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">heke</alternative>
-      <alternative source-abbr="sī. pī." source="sī. pī.">eke</alternative>
+      <alternative source-abbr="sī." source="sri lanka">eke</alternative>
+      <alternative source-abbr="pī." source="pali text society">eke</alternative>
     </alternatives>
     <type>auto</type>
     <previous> Cutāpi heke </previous>
@@ -473,7 +531,9 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">caretho</alternative>
-      <alternative source-abbr="sī. syā. pī." source="sī. syā. pī.">caretha</alternative>
+      <alternative source-abbr="sī." source="sri lanka">caretha</alternative>
+      <alternative source-abbr="syā." source="thai">caretha</alternative>
+      <alternative source-abbr="pī." source="pali text society">caretha</alternative>
     </alternatives>
     <type>auto</type>
     <previous>Puttā mamaṭṭā gatimāgatosmi, atthaṃ caretho </previous>
@@ -482,7 +542,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">vāricara</alternative>
-      <alternative source-abbr="sī. pī." source="sī. pī.">vārichanna</alternative>
+      <alternative source-abbr="sī." source="sri lanka">vārichanna</alternative>
+      <alternative source-abbr="pī." source="pali text society">vārichanna</alternative>
     </alternatives>
     <type>auto</type>
     <previous> mama vāricara </previous>
@@ -492,7 +553,8 @@
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">yaṃ care</alternative>
       <alternative source-abbr="ka." source="cambodian">pitunaṃ care</alternative>
-      <alternative source-abbr="sī. pī." source="sī. pī.">pitu yañcaretha</alternative>
+      <alternative source-abbr="sī." source="sri lanka">pitu yañcaretha</alternative>
+      <alternative source-abbr="pī." source="pali text society">pitu yañcaretha</alternative>
     </alternatives>
     <type>auto</type>
     <previous> hi tāta satamesa dhammo, putto pitu yaṃ care </previous>
@@ -501,7 +563,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">migavīraseṭṭha</alternative>
-      <alternative source-abbr="sī. pī." source="sī. pī.">migaviriyaseṭṭha</alternative>
+      <alternative source-abbr="sī." source="sri lanka">migaviriyaseṭṭha</alternative>
+      <alternative source-abbr="pī." source="pali text society">migaviriyaseṭṭha</alternative>
     </alternatives>
     <type>auto</type>
     <previous> Pasū manussā migavīraseṭṭha </previous>
@@ -510,7 +573,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">bhayaṭṭitā</alternative>
-      <alternative source-abbr="sī. pī." source="sī. pī.">bhayadditā</alternative>
+      <alternative source-abbr="sī." source="sri lanka">bhayadditā</alternative>
+      <alternative source-abbr="pī." source="pali text society">bhayadditā</alternative>
     </alternatives>
     <type>auto</type>
     <previous>, bhayaṭṭitā </previous>
@@ -528,7 +592,8 @@
   <note line="470" original="kojova (sī. pī.)" reference-line="178" id="58">
     <extra></extra>
     <alternatives>
-      <alternative source-abbr="sī. pī." source="sī. pī.">kojova</alternative>
+      <alternative source-abbr="sī." source="sri lanka">kojova</alternative>
+      <alternative source-abbr="pī." source="pali text society">kojova</alternative>
     </alternatives>
     <type>no_match</type>
     <previous>Nivatthakocova </previous>
@@ -537,7 +602,9 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">asmiṃdhaloke</alternative>
-      <alternative source-abbr="sī. syā. pī." source="sī. syā. pī.">asmiñca loke</alternative>
+      <alternative source-abbr="sī." source="sri lanka">asmiñca loke</alternative>
+      <alternative source-abbr="syā." source="thai">asmiñca loke</alternative>
+      <alternative source-abbr="pī." source="pali text society">asmiñca loke</alternative>
     </alternatives>
     <type>auto</type>
     <previous>So mittavā yasavā uggatatto, asmiṃdhaloke </previous>
@@ -565,7 +632,9 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">dummakkharūpā</alternative>
-      <alternative source-abbr="sī. pī. ka." source="sī. pī. ka.">dummudharūpā</alternative>
+      <alternative source-abbr="sī." source="sri lanka">dummudharūpā</alternative>
+      <alternative source-abbr="pī." source="pali text society">dummudharūpā</alternative>
+      <alternative source-abbr="ka." source="cambodian">dummudharūpā</alternative>
     </alternatives>
     <type>auto</type>
     <previous> jaṭilā paṅkadantā, dummakkharūpā </previous>
@@ -574,7 +643,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">jappanti</alternative>
-      <alternative source-abbr="sī. pī." source="sī. pī.">yeme japanti</alternative>
+      <alternative source-abbr="sī." source="sri lanka">yeme japanti</alternative>
+      <alternative source-abbr="pī." source="pali text society">yeme japanti</alternative>
       <alternative source-abbr="jā. 1.6.10" source="jā. 1.6.10">ye’me jappanti mante</alternative>
     </alternatives>
     <type>auto</type>
@@ -612,8 +682,11 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">puṇāti</alternative>
-      <alternative source-abbr="sī. aṭṭha." source="sī. aṭṭha.">punoti</alternative>
-      <alternative source-abbr="syā. jā. 1.6.13" source="syā. jā. 1.6.13">puṇeti</alternative>
+      <alternative source-abbr="sī." source="sri lanka">punoti</alternative>
+      <alternative source-abbr="aṭṭha." source="aṭṭha.">punoti</alternative>
+      <alternative source-abbr="syā." source="thai">puṇeti</alternative>
+      <alternative source-abbr="jā." source="jā.">puṇeti</alternative>
+      <alternative source-abbr="1.6.13" source="1.6.13">puṇeti</alternative>
       <alternative source-abbr="pī." source="pali text society">puneti</alternative>
     </alternatives>
     <type>auto</type>
@@ -639,7 +712,8 @@
   <note line="569" original="bho (syā. ka.)" reference-line="222" id="70">
     <extra></extra>
     <alternatives>
-      <alternative source-abbr="syā. ka." source="syā. ka.">bho</alternative>
+      <alternative source-abbr="syā." source="thai">bho</alternative>
+      <alternative source-abbr="ka." source="cambodian">bho</alternative>
     </alternatives>
     <type>no_match</type>
     <previous> Kathaṃ so </previous>
@@ -648,7 +722,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">seyyotha</alternative>
-      <alternative source-abbr="sī. pī." source="sī. pī.">seyyova</alternative>
+      <alternative source-abbr="sī." source="sri lanka">seyyova</alternative>
+      <alternative source-abbr="pī." source="pali text society">seyyova</alternative>
     </alternatives>
     <type>auto</type>
     <previous>Sabbesaṃ sītibhūtānaṃ, atthi seyyotha </previous>
@@ -676,7 +751,9 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">Te sajātiṃ pamuñcanti</alternative>
-      <alternative source-abbr="sī. syā. pī." source="sī. syā. pī.">na tesaṃ jātiṃ pucchanti</alternative>
+      <alternative source-abbr="sī." source="sri lanka">na tesaṃ jātiṃ pucchanti</alternative>
+      <alternative source-abbr="syā." source="thai">na tesaṃ jātiṃ pucchanti</alternative>
+      <alternative source-abbr="pī." source="pali text society">na tesaṃ jātiṃ pucchanti</alternative>
       <alternative source-abbr="ka." source="cambodian">na tesaṃ jāti sujjhati</alternative>
     </alternatives>
     <type>auto</type>
@@ -686,7 +763,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">rājābhirājā</alternative>
-      <alternative source-abbr="syā. ka." source="syā. ka.">rājādhirājā</alternative>
+      <alternative source-abbr="syā." source="thai">rājādhirājā</alternative>
+      <alternative source-abbr="ka." source="cambodian">rājādhirājā</alternative>
     </alternatives>
     <type>auto</type>
     <previous> So khattiyo hotu pasayhakārī, rājābhirājā </previous>
@@ -705,7 +783,9 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">byasana mālattha</alternative>
-      <alternative source-abbr="sī. syā. pī." source="sī. syā. pī.">mā rājato vyasana’malattha</alternative>
+      <alternative source-abbr="sī." source="sri lanka">mā rājato vyasana’malattha</alternative>
+      <alternative source-abbr="syā." source="thai">mā rājato vyasana’malattha</alternative>
+      <alternative source-abbr="pī." source="pali text society">mā rājato vyasana’malattha</alternative>
     </alternatives>
     <type>auto</type>
     <previous>So rājato byasana mālattha </previous>
@@ -714,7 +794,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">itthīsahassāna</alternative>
-      <alternative source-abbr="sī. pī." source="sī. pī.">itthīsahassassa</alternative>
+      <alternative source-abbr="sī." source="sri lanka">itthīsahassassa</alternative>
+      <alternative source-abbr="pī." source="pali text society">itthīsahassassa</alternative>
     </alternatives>
     <type>auto</type>
     <previous> Yaṃ ekarājā pathaviṃ vijetvā, itthīsahassāna </previous>
@@ -723,7 +804,9 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">gajaṅgalāyaṃ</alternative>
-      <alternative source-abbr="sī. syā. pī." source="sī. syā. pī.">kajaṅgalāyaṃ</alternative>
+      <alternative source-abbr="sī." source="sri lanka">kajaṅgalāyaṃ</alternative>
+      <alternative source-abbr="syā." source="thai">kajaṅgalāyaṃ</alternative>
+      <alternative source-abbr="pī." source="pali text society">kajaṅgalāyaṃ</alternative>
     </alternatives>
     <type>auto</type>
     <previous> Āvāsiko hotu mahāvihāre, navakammiko hotu gajaṅgalāyaṃ </previous>
@@ -732,7 +815,9 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">divasaṃ</alternative>
-      <alternative source-abbr="sī. syā. pī." source="sī. syā. pī.">divasā</alternative>
+      <alternative source-abbr="sī." source="sri lanka">divasā</alternative>
+      <alternative source-abbr="syā." source="thai">divasā</alternative>
+      <alternative source-abbr="pī." source="pali text society">divasā</alternative>
     </alternatives>
     <type>auto</type>
     <previous>Ālokasandhiṃ divasaṃ </previous>
@@ -741,7 +826,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">chabbhi</alternative>
-      <alternative source-abbr="sī. pī." source="sī. pī.">chamhi</alternative>
+      <alternative source-abbr="sī." source="sri lanka">chamhi</alternative>
+      <alternative source-abbr="pī." source="pali text society">chamhi</alternative>
       <alternative source-abbr="?" source="unknown">chassu</alternative>
     </alternatives>
     <type>auto</type>
@@ -760,7 +846,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">Sakacchabandho</alternative>
-      <alternative source-abbr="sī. pī." source="sī. pī.">sakkaccabaddho</alternative>
+      <alternative source-abbr="sī." source="sri lanka">sakkaccabaddho</alternative>
+      <alternative source-abbr="pī." source="pali text society">sakkaccabaddho</alternative>
       <alternative source-abbr="niyya" source="niyya">saṃkaccabandho</alternative>
     </alternatives>
     <type>auto</type>
@@ -770,7 +857,9 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">anaṭṭhaṃva</alternative>
-      <alternative source-abbr="sī. syā. pī." source="sī. syā. pī.">anaṭṭhaṃ</alternative>
+      <alternative source-abbr="sī." source="sri lanka">anaṭṭhaṃ</alternative>
+      <alternative source-abbr="syā." source="thai">anaṭṭhaṃ</alternative>
+      <alternative source-abbr="pī." source="pali text society">anaṭṭhaṃ</alternative>
     </alternatives>
     <type>auto</type>
     <previous> Yo ve anaṭṭhaṃva </previous>
@@ -797,7 +886,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">Pālileyyo</alternative>
-      <alternative source-abbr="sī. pī." source="sī. pī.">pārileyyo</alternative>
+      <alternative source-abbr="sī." source="sri lanka">pārileyyo</alternative>
+      <alternative source-abbr="pī." source="pali text society">pārileyyo</alternative>
     </alternatives>
     <type>auto</type>
     <previous> Pālileyyo </previous>
@@ -806,7 +896,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">madhudo</alternative>
-      <alternative source-abbr="sī. pī." source="sī. pī.">madhuvā</alternative>
+      <alternative source-abbr="sī." source="sri lanka">madhuvā</alternative>
+      <alternative source-abbr="pī." source="pali text society">madhuvā</alternative>
     </alternatives>
     <type>auto</type>
     <previous> tadā nāgo, madhudo </previous>
@@ -815,7 +906,9 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">surucino</alternative>
-      <alternative source-abbr="sī. syā. pī." source="sī. syā. pī.">rucino</alternative>
+      <alternative source-abbr="sī." source="sri lanka">rucino</alternative>
+      <alternative source-abbr="syā." source="thai">rucino</alternative>
+      <alternative source-abbr="pī." source="pali text society">rucino</alternative>
     </alternatives>
     <type>auto</type>
     <previous> surucino </previous>
@@ -824,7 +917,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">atimaññittha</alternative>
-      <alternative source-abbr="sī. pī." source="sī. pī.">atimaññittho</alternative>
+      <alternative source-abbr="sī." source="sri lanka">atimaññittho</alternative>
+      <alternative source-abbr="pī." source="pali text society">atimaññittho</alternative>
       <alternative source-abbr="?" source="unknown">atimaññitā</alternative>
     </alternatives>
     <type>auto</type>
@@ -834,7 +928,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">āvi</alternative>
-      <alternative source-abbr="sī. pī." source="sī. pī.">āviṃ</alternative>
+      <alternative source-abbr="sī." source="sri lanka">āviṃ</alternative>
+      <alternative source-abbr="pī." source="pali text society">āviṃ</alternative>
     </alternatives>
     <type>auto</type>
     <previous>, āvi </previous>
@@ -861,7 +956,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">pesse</alternative>
-      <alternative source-abbr="syā. ka." source="syā. ka.">pose</alternative>
+      <alternative source-abbr="syā." source="thai">pose</alternative>
+      <alternative source-abbr="ka." source="cambodian">pose</alternative>
     </alternatives>
     <type>auto</type>
     <previous> kammakare pesse </previous>
@@ -870,7 +966,9 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">Pesemi</alternative>
-      <alternative source-abbr="sī. syā. pī." source="sī. syā. pī.">posemi</alternative>
+      <alternative source-abbr="sī." source="sri lanka">posemi</alternative>
+      <alternative source-abbr="syā." source="thai">posemi</alternative>
+      <alternative source-abbr="pī." source="pali text society">posemi</alternative>
     </alternatives>
     <type>auto</type>
     <previous>Pesemi </previous>
@@ -879,7 +977,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">pañcaddasiṃ</alternative>
-      <alternative source-abbr="sī. pī." source="sī. pī.">pannarasiṃ</alternative>
+      <alternative source-abbr="sī." source="sri lanka">pannarasiṃ</alternative>
+      <alternative source-abbr="pī." source="pali text society">pannarasiṃ</alternative>
     </alternatives>
     <type>auto</type>
     <previous> Cātuddasiṃ pañcaddasiṃ </previous>
@@ -888,7 +987,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">aṭṭhamī</alternative>
-      <alternative source-abbr="sī. pī." source="sī. pī.">aṭṭhamiṃ</alternative>
+      <alternative source-abbr="sī." source="sri lanka">aṭṭhamiṃ</alternative>
+      <alternative source-abbr="pī." source="pali text society">aṭṭhamiṃ</alternative>
     </alternatives>
     <type>auto</type>
     <previous>, yā ca pakkhassa aṭṭhamī </previous>
@@ -915,7 +1015,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">tava</alternative>
-      <alternative source-abbr="sī. pī." source="sī. pī.">tavaṃ</alternative>
+      <alternative source-abbr="sī." source="sri lanka">tavaṃ</alternative>
+      <alternative source-abbr="pī." source="pali text society">tavaṃ</alternative>
     </alternatives>
     <type>auto</type>
     <previous>Dhammarājā videhānaṃ, putto uppajjate tava </previous>
@@ -924,7 +1025,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">Dummī</alternative>
-      <alternative source-abbr="sī. pī." source="sī. pī.">rummī</alternative>
+      <alternative source-abbr="sī." source="sri lanka">rummī</alternative>
+      <alternative source-abbr="pī." source="pali text society">rummī</alternative>
     </alternatives>
     <type>auto</type>
     <previous> Dummī </previous>
@@ -950,7 +1052,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">hoti</alternative>
-      <alternative source-abbr="sī. syā." source="sī. syā.">honti</alternative>
+      <alternative source-abbr="sī." source="sri lanka">honti</alternative>
+      <alternative source-abbr="syā." source="thai">honti</alternative>
     </alternatives>
     <type>auto</type>
     <previous> jīvalokasmiṃ, yā hoti </previous>
@@ -968,7 +1071,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">Khudaṃ</alternative>
-      <alternative source-abbr="syā. ka." source="syā. ka.">khuddaṃ</alternative>
+      <alternative source-abbr="syā." source="thai">khuddaṃ</alternative>
+      <alternative source-abbr="ka." source="cambodian">khuddaṃ</alternative>
       <alternative source-abbr="sakkata-pākatānurūpaṃ" source="sakkata-pākatānurūpaṃ">khudhaṃ</alternative>
     </alternatives>
     <type>auto</type>
@@ -978,7 +1082,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">kapota</alternative>
-      <alternative source-abbr="sī. pī." source="sī. pī.">kapoto</alternative>
+      <alternative source-abbr="sī." source="sri lanka">kapoto</alternative>
+      <alternative source-abbr="pī." source="pali text society">kapoto</alternative>
     </alternatives>
     <type>auto</type>
     <previous> pipāsaṃ adhivāsayanto, kasmā bhavaṃposathiko kapota </previous>
@@ -987,7 +1092,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">vedana vedayāmi</alternative>
-      <alternative source-abbr="sī. pī." source="sī. pī.">vedanaṃ vediyāmi</alternative>
+      <alternative source-abbr="sī." source="sri lanka">vedanaṃ vediyāmi</alternative>
+      <alternative source-abbr="pī." source="pali text society">vedanaṃ vediyāmi</alternative>
     </alternatives>
     <type>auto</type>
     <previous> Nānābhavā vippayogena tassā, manomayaṃ vedana vedayāmi </previous>
@@ -1005,7 +1111,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">dīgha</alternative>
-      <alternative source-abbr="sī. pī." source="sī. pī.">dīgho</alternative>
+      <alternative source-abbr="sī." source="sri lanka">dīgho</alternative>
+      <alternative source-abbr="pī." source="pali text society">dīgho</alternative>
     </alternatives>
     <type>auto</type>
     <previous> bhavaṃposathiko nu dīgha </previous>
@@ -1014,7 +1121,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">upāgā</alternative>
-      <alternative source-abbr="sī. pī." source="sī. pī.">upāgami</alternative>
+      <alternative source-abbr="sī." source="sri lanka">upāgami</alternative>
+      <alternative source-abbr="pī." source="pali text society">upāgami</alternative>
     </alternatives>
     <type>auto</type>
     <previous>So maṃ akkami taṃ kupito aḍaṃsi, dukkhābhituṇṇo maraṇaṃ upāgā </previous>
@@ -1031,7 +1139,8 @@
   <note line="918" original="sigālo (sī. pī.)" reference-line="425" id="113">
     <extra></extra>
     <alternatives>
-      <alternative source-abbr="sī. pī." source="sī. pī.">sigālo</alternative>
+      <alternative source-abbr="sī." source="sri lanka">sigālo</alternative>
+      <alternative source-abbr="pī." source="pali text society">sigālo</alternative>
     </alternatives>
     <type>no_match</type>
     <previous>Khudaṃ pipāsaṃ adhivāsayanto, kasmā bhavaṃposathiko siṅgāla </previous>
@@ -1040,7 +1149,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">Pavisi</alternative>
-      <alternative source-abbr="sī. pī." source="sī. pī.">pavissaṃ</alternative>
+      <alternative source-abbr="sī." source="sri lanka">pavissaṃ</alternative>
+      <alternative source-abbr="pī." source="pali text society">pavissaṃ</alternative>
       <alternative source-abbr="syā." source="thai">pavissa</alternative>
     </alternatives>
     <type>auto</type>
@@ -1050,7 +1160,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">hatthimaṃsesu giddho</alternative>
-      <alternative source-abbr="sī. pī." source="sī. pī.">hatthimaṃse pagiddho</alternative>
+      <alternative source-abbr="sī." source="sri lanka">hatthimaṃse pagiddho</alternative>
+      <alternative source-abbr="pī." source="pali text society">hatthimaṃse pagiddho</alternative>
     </alternatives>
     <type>auto</type>
     <previous> kucchiṃ mahato gajassa, kuṇape rato hatthimaṃsesu giddho </previous>
@@ -1059,7 +1170,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">accha</alternative>
-      <alternative source-abbr="sī. pī." source="sī. pī.">accho</alternative>
+      <alternative source-abbr="sī." source="sri lanka">accho</alternative>
+      <alternative source-abbr="pī." source="pali text society">accho</alternative>
     </alternatives>
     <type>auto</type>
     <previous> bhavaṃposathiko nu accha </previous>
@@ -1068,7 +1180,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">atihīḷayāno</alternative>
-      <alternative source-abbr="syā. ka." source="syā. ka.">atiheḷayāno</alternative>
+      <alternative source-abbr="syā." source="thai">atiheḷayāno</alternative>
+      <alternative source-abbr="ka." source="cambodian">atiheḷayāno</alternative>
     </alternatives>
     <type>auto</type>
     <previous> Sakaṃ niketaṃ atihīḷayāno </previous>
@@ -1077,7 +1190,9 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">atricchatā</alternative>
-      <alternative source-abbr="sī. syā. pī." source="sī. syā. pī.">atricchatāya</alternative>
+      <alternative source-abbr="sī." source="sri lanka">atricchatāya</alternative>
+      <alternative source-abbr="syā." source="thai">atricchatāya</alternative>
+      <alternative source-abbr="pī." source="pali text society">atricchatāya</alternative>
     </alternatives>
     <type>auto</type>
     <previous>, atricchatā </previous>
@@ -1086,7 +1201,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">mallagāmaṃ</alternative>
-      <alternative source-abbr="sī. pī." source="sī. pī.">malataṃ</alternative>
+      <alternative source-abbr="sī." source="sri lanka">malataṃ</alternative>
+      <alternative source-abbr="pī." source="pali text society">malataṃ</alternative>
       <alternative source-abbr="ka." source="cambodian">mallayataṃ</alternative>
     </alternatives>
     <type>auto</type>
@@ -1096,7 +1212,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">sakaṃ</alternative>
-      <alternative source-abbr="syā. ka." source="syā. ka.">sa sakaṃ</alternative>
+      <alternative source-abbr="syā." source="thai">sa sakaṃ</alternative>
+      <alternative source-abbr="ka." source="cambodian">sa sakaṃ</alternative>
       <alternative source-abbr="?" source="unknown">’tha sakaṃ</alternative>
     </alternatives>
     <type>auto</type>
@@ -1106,7 +1223,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">na</alternative>
-      <alternative source-abbr="sī. pī." source="sī. pī.">evampahaṃ naggahe</alternative>
+      <alternative source-abbr="sī." source="sri lanka">evampahaṃ naggahe</alternative>
+      <alternative source-abbr="pī." source="pali text society">evampahaṃ naggahe</alternative>
     </alternatives>
     <type>auto</type>
     <previous> Evampahaṃ vandi na </previous>
@@ -1114,7 +1232,8 @@
   <note line="992" original="raññova (sī. pī.)" reference-line="458" id="122">
     <extra></extra>
     <alternatives>
-      <alternative source-abbr="sī. pī." source="sī. pī.">raññova</alternative>
+      <alternative source-abbr="sī." source="sri lanka">raññova</alternative>
+      <alternative source-abbr="pī." source="pali text society">raññova</alternative>
     </alternatives>
     <type>no_match</type>
     <previous>Rañño ca </previous>
@@ -1123,7 +1242,9 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">upantikaṃ</alternative>
-      <alternative source-abbr="sī. syā. pī." source="sī. syā. pī.">upanti</alternative>
+      <alternative source-abbr="sī." source="sri lanka">upanti</alternative>
+      <alternative source-abbr="syā." source="thai">upanti</alternative>
+      <alternative source-abbr="pī." source="pali text society">upanti</alternative>
     </alternatives>
     <type>auto</type>
     <previous> maṃ samma upantikaṃ </previous>
@@ -1132,7 +1253,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">cāpadhure</alternative>
-      <alternative source-abbr="sī. pī." source="sī. pī.">cāpavare</alternative>
+      <alternative source-abbr="sī." source="sri lanka">cāpavare</alternative>
+      <alternative source-abbr="pī." source="pali text society">cāpavare</alternative>
       <alternative source-abbr="syā." source="thai">cāpavaro</alternative>
     </alternatives>
     <type>auto</type>
@@ -1142,7 +1264,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">āhu</alternative>
-      <alternative source-abbr="sī. pī." source="sī. pī.">iccāhu</alternative>
+      <alternative source-abbr="sī." source="sri lanka">iccāhu</alternative>
+      <alternative source-abbr="pī." source="pali text society">iccāhu</alternative>
     </alternatives>
     <type>auto</type>
     <previous> Na santi devā iti āhu </previous>
@@ -1151,7 +1274,9 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">tavedaṃ</alternative>
-      <alternative source-abbr="sī. syā. pī." source="sī. syā. pī.">tavetaṃ</alternative>
+      <alternative source-abbr="sī." source="sri lanka">tavetaṃ</alternative>
+      <alternative source-abbr="syā." source="thai">tavetaṃ</alternative>
+      <alternative source-abbr="pī." source="pali text society">tavetaṃ</alternative>
     </alternatives>
     <type>auto</type>
     <previous> Addhā hi saccaṃ vacanaṃ tavedaṃ </previous>
@@ -1159,7 +1284,8 @@
   <note line="1032" original="vadeyya (sī. pī.)" reference-line="488" id="127">
     <extra></extra>
     <alternatives>
-      <alternative source-abbr="sī. pī." source="sī. pī.">vadeyya</alternative>
+      <alternative source-abbr="sī." source="sri lanka">vadeyya</alternative>
+      <alternative source-abbr="pī." source="pali text society">vadeyya</alternative>
     </alternatives>
     <type>no_match</type>
     <previous>, kathañhi dānaṃ aphalaṃ bhaveyya </previous>
@@ -1177,7 +1303,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">Tesampahaṃ</alternative>
-      <alternative source-abbr="syā. ka." source="syā. ka.">tesaṃ ahaṃ</alternative>
+      <alternative source-abbr="syā." source="thai">tesaṃ ahaṃ</alternative>
+      <alternative source-abbr="ka." source="cambodian">tesaṃ ahaṃ</alternative>
     </alternatives>
     <type>auto</type>
     <previous>Tesampahaṃ </previous>
@@ -1196,7 +1323,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">Bandhitvā</alternative>
-      <alternative source-abbr="sī. pī." source="sī. pī.">bandhitva</alternative>
+      <alternative source-abbr="sī." source="sri lanka">bandhitva</alternative>
+      <alternative source-abbr="pī." source="pali text society">bandhitva</alternative>
     </alternatives>
     <type>auto</type>
     <previous>Bandhitvā </previous>
@@ -1206,7 +1334,8 @@
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">sassiṃ, dukkhā sa pamucci</alternative>
       <alternative source-abbr="sī." source="sri lanka">dukkhā pamucci</alternative>
-      <alternative source-abbr="syā. pī." source="syā. pī.">dukkhā pamuñci</alternative>
+      <alternative source-abbr="syā." source="thai">dukkhā pamuñci</alternative>
+      <alternative source-abbr="pī." source="pali text society">dukkhā pamuñci</alternative>
     </alternatives>
     <type>auto</type>
     <previous> morādhipatiṃ yasassiṃ, dukkhā sa pamucci </previous>
@@ -1214,7 +1343,8 @@
   <note line="1081" original="vipule (syā. ka.)" reference-line="513" id="133">
     <extra></extra>
     <alternatives>
-      <alternative source-abbr="syā. ka." source="syā. ka.">vipule</alternative>
+      <alternative source-abbr="syā." source="thai">vipule</alternative>
+      <alternative source-abbr="ka." source="cambodian">vipule</alternative>
     </alternatives>
     <type>no_match</type>
     <previous> vicariṃ </previous>
@@ -1223,7 +1353,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">girīnajjo</alternative>
-      <alternative source-abbr="sī. pī." source="sī. pī.">girinadiyo</alternative>
+      <alternative source-abbr="sī." source="sri lanka">girinadiyo</alternative>
+      <alternative source-abbr="pī." source="pali text society">girinadiyo</alternative>
     </alternatives>
     <type>auto</type>
     <previous>Rammā cimā girīnajjo </previous>
@@ -1232,7 +1363,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">Aññampi</alternative>
-      <alternative source-abbr="sī. pī." source="sī. pī.">aññaṃ hi</alternative>
+      <alternative source-abbr="sī." source="sri lanka">aññaṃ hi</alternative>
+      <alternative source-abbr="pī." source="pali text society">aññaṃ hi</alternative>
     </alternatives>
     <type>auto</type>
     <previous> Aññampi </previous>
@@ -1241,7 +1373,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">Ko numhākaṃ</alternative>
-      <alternative source-abbr="sī. pī." source="sī. pī.">ko namhākaṃ</alternative>
+      <alternative source-abbr="sī." source="sri lanka">ko namhākaṃ</alternative>
+      <alternative source-abbr="pī." source="pali text society">ko namhākaṃ</alternative>
     </alternatives>
     <type>auto</type>
     <previous> Ko numhākaṃ </previous>
@@ -1250,7 +1383,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">Duppadhaṃse</alternative>
-      <alternative source-abbr="sī. pī." source="sī. pī.">appadhaṃse</alternative>
+      <alternative source-abbr="sī." source="sri lanka">appadhaṃse</alternative>
+      <alternative source-abbr="pī." source="pali text society">appadhaṃse</alternative>
     </alternatives>
     <type>auto</type>
     <previous>Duppadhaṃse </previous>
@@ -1267,7 +1401,9 @@
   <note line="1128" original="miga viriyaṃ (sī. syā. pī.)" reference-line="537" id="139">
     <extra></extra>
     <alternatives>
-      <alternative source-abbr="sī. syā. pī." source="sī. syā. pī.">miga viriyaṃ</alternative>
+      <alternative source-abbr="sī." source="sri lanka">miga viriyaṃ</alternative>
+      <alternative source-abbr="syā." source="thai">miga viriyaṃ</alternative>
+      <alternative source-abbr="pī." source="pali text society">miga viriyaṃ</alternative>
     </alternatives>
     <type>no_match</type>
     <previous>Dāṭhā nu te migavadhāya </previous>
@@ -1284,7 +1420,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">byagghe</alternative>
-      <alternative source-abbr="sī. pī." source="sī. pī.">byagghe ca</alternative>
+      <alternative source-abbr="sī." source="sri lanka">byagghe ca</alternative>
+      <alternative source-abbr="pī." source="pali text society">byagghe ca</alternative>
       <alternative source-abbr="syā." source="thai">byaggho na</alternative>
     </alternatives>
     <type>auto</type>
@@ -1294,7 +1431,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">apasakkati</alternative>
-      <alternative source-abbr="sī. pī." source="sī. pī.">apavattati</alternative>
+      <alternative source-abbr="sī." source="sri lanka">apavattati</alternative>
+      <alternative source-abbr="pī." source="pali text society">apavattati</alternative>
     </alternatives>
     <type>auto</type>
     <previous> Tesañca ḍayamānānaṃ, ekettha apasakkati </previous>
@@ -1303,7 +1441,9 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">chāyayā</alternative>
-      <alternative source-abbr="sī. syā. pī." source="sī. syā. pī.">chādiyā</alternative>
+      <alternative source-abbr="sī." source="sri lanka">chādiyā</alternative>
+      <alternative source-abbr="syā." source="thai">chādiyā</alternative>
+      <alternative source-abbr="pī." source="pali text society">chādiyā</alternative>
     </alternatives>
     <type>auto</type>
     <previous> Te ca tattha nisīditvā, tassa rukkhassa chāyayā </previous>
@@ -1312,7 +1452,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">Allāyate</alternative>
-      <alternative source-abbr="sī. pī." source="sī. pī.">addāyate</alternative>
+      <alternative source-abbr="sī." source="sri lanka">addāyate</alternative>
+      <alternative source-abbr="pī." source="pali text society">addāyate</alternative>
     </alternatives>
     <type>auto</type>
     <previous> Allāyate </previous>
@@ -1321,7 +1462,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">vārīva</alternative>
-      <alternative source-abbr="sī. pī." source="sī. pī.">vāri ca</alternative>
+      <alternative source-abbr="sī." source="sri lanka">vāri ca</alternative>
+      <alternative source-abbr="pī." source="pali text society">vāri ca</alternative>
     </alternatives>
     <type>auto</type>
     <previous> ayaṃ rukkho, api vārīva </previous>
@@ -1330,7 +1472,8 @@
     <extra> vidalaṃ kalāyādimhi vattatīti sakkatābhidhāne</extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">siṅgiṃ vidalasūpiyo</alternative>
-      <alternative source-abbr="sī. pī." source="sī. pī.">siṅgiṃ bidalasūpiyo</alternative>
+      <alternative source-abbr="sī." source="sri lanka">siṅgiṃ bidalasūpiyo</alternative>
+      <alternative source-abbr="pī." source="pali text society">siṅgiṃ bidalasūpiyo</alternative>
       <alternative source-abbr="ka." source="cambodian">siṅgīveraṃ lasūpiyo</alternative>
       <alternative source-abbr="aṭṭha." source="aṭṭha.">siṅgīnti siṅgīverādikaṃ uttaribhaṅgaṃ; vidalasūpiyoti muggasūpādayo</alternative>
     </alternatives>
@@ -1350,7 +1493,9 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">parivāriṃsu</alternative>
-      <alternative source-abbr="sī. syā. pī." source="sī. syā. pī.">parikariṃsu</alternative>
+      <alternative source-abbr="sī." source="sri lanka">parikariṃsu</alternative>
+      <alternative source-abbr="syā." source="thai">parikariṃsu</alternative>
+      <alternative source-abbr="pī." source="pali text society">parikariṃsu</alternative>
     </alternatives>
     <type>auto</type>
     <previous>Samantā parivāriṃsu </previous>
@@ -1359,7 +1504,9 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">chāyayā</alternative>
-      <alternative source-abbr="sī. syā. pī." source="sī. syā. pī.">chādiyā</alternative>
+      <alternative source-abbr="sī." source="sri lanka">chādiyā</alternative>
+      <alternative source-abbr="syā." source="thai">chādiyā</alternative>
+      <alternative source-abbr="pī." source="pali text society">chādiyā</alternative>
     </alternatives>
     <type>auto</type>
     <previous>, tassa rukkhassa chāyayā </previous>
@@ -1368,7 +1515,9 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">paricāretvā</alternative>
-      <alternative source-abbr="sī. syā. pī." source="sī. syā. pī.">parivāretvā</alternative>
+      <alternative source-abbr="sī." source="sri lanka">parivāretvā</alternative>
+      <alternative source-abbr="syā." source="thai">parivāretvā</alternative>
+      <alternative source-abbr="pī." source="pali text society">parivāretvā</alternative>
     </alternatives>
     <type>auto</type>
     <previous> Te tāhi paricāretvā </previous>
@@ -1377,7 +1526,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">uddiyāni ca kambalā</alternative>
-      <alternative source-abbr="sī. pī." source="sī. pī.">uddiyāne ca kambale</alternative>
+      <alternative source-abbr="sī." source="sri lanka">uddiyāne ca kambale</alternative>
+      <alternative source-abbr="pī." source="pali text society">uddiyāne ca kambale</alternative>
     </alternatives>
     <type>auto</type>
     <previous> Kāsikāni ca vatthāni, uddiyāni ca kambalā </previous>
@@ -1386,7 +1536,9 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">mūle</alternative>
-      <alternative source-abbr="sī. pī. ka." source="sī. pī. ka.">mūlaṃ</alternative>
+      <alternative source-abbr="sī." source="sri lanka">mūlaṃ</alternative>
+      <alternative source-abbr="pī." source="pali text society">mūlaṃ</alternative>
+      <alternative source-abbr="ka." source="cambodian">mūlaṃ</alternative>
     </alternatives>
     <type>auto</type>
     <previous> mūle </previous>
@@ -1396,7 +1548,8 @@
     <alternatives>
       <alternative source-abbr="sī." source="sri lanka">aparajjhatha</alternative>
       <alternative source-abbr="vri" source="vipassana research institut">parajjhati</alternative>
-      <alternative source-abbr="syā. pī." source="syā. pī.">aparajjhati</alternative>
+      <alternative source-abbr="syā." source="thai">aparajjhati</alternative>
+      <alternative source-abbr="pī." source="pali text society">aparajjhati</alternative>
     </alternatives>
     <type>auto</type>
     <previous>Nigrodho kiṃ parajjhati </previous>
@@ -1405,7 +1558,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">tassānādiyitvā</alternative>
-      <alternative source-abbr="sī. syā." source="sī. syā.">tassa anāditvā</alternative>
+      <alternative source-abbr="sī." source="sri lanka">tassa anāditvā</alternative>
+      <alternative source-abbr="syā." source="thai">tassa anāditvā</alternative>
     </alternatives>
     <type>auto</type>
     <previous> Te ca tassānādiyitvā </previous>
@@ -1451,7 +1605,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">Eva</alternative>
-      <alternative source-abbr="sī. pī." source="sī. pī.">eta</alternative>
+      <alternative source-abbr="sī." source="sri lanka">eta</alternative>
+      <alternative source-abbr="pī." source="pali text society">eta</alternative>
     </alternatives>
     <type>auto</type>
     <previous> Eva </previous>
@@ -1469,7 +1624,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">sādhino</alternative>
-      <alternative source-abbr="sī. pī." source="sī. pī.">sādhīno</alternative>
+      <alternative source-abbr="sī." source="sri lanka">sādhīno</alternative>
+      <alternative source-abbr="pī." source="pali text society">sādhīno</alternative>
     </alternatives>
     <type>auto</type>
     <previous> Tato ca rājā sādhino </previous>
@@ -1477,7 +1633,8 @@
   <note line="1315" original="pamukho rathamāruhi (sī. pī.)" reference-line="657" id="162">
     <extra></extra>
     <alternatives>
-      <alternative source-abbr="sī. pī." source="sī. pī.">pamukho rathamāruhi</alternative>
+      <alternative source-abbr="sī." source="sri lanka">pamukho rathamāruhi</alternative>
+      <alternative source-abbr="pī." source="pali text society">pamukho rathamāruhi</alternative>
     </alternatives>
     <type>no_match</type>
     <previous>, vedeho mithilaggaho </previous>
@@ -1495,7 +1652,9 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">rājīsi</alternative>
-      <alternative source-abbr="sī. syā. pī." source="sī. syā. pī.">rājisi</alternative>
+      <alternative source-abbr="sī." source="sri lanka">rājisi</alternative>
+      <alternative source-abbr="syā." source="thai">rājisi</alternative>
+      <alternative source-abbr="pī." source="pali text society">rājisi</alternative>
     </alternatives>
     <type>auto</type>
     <previous>Nisīda dāni rājīsi </previous>
@@ -1504,7 +1663,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">Nimantayittha</alternative>
-      <alternative source-abbr="sī. pī." source="sī. pī.">nimantayī ca</alternative>
+      <alternative source-abbr="sī." source="sri lanka">nimantayī ca</alternative>
+      <alternative source-abbr="pī." source="pali text society">nimantayī ca</alternative>
     </alternatives>
     <type>auto</type>
     <previous>Nimantayittha </previous>
@@ -1522,7 +1682,9 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">Na tāyu</alternative>
-      <alternative source-abbr="sī. pī. ka." source="sī. pī. ka.">na cāyu</alternative>
+      <alternative source-abbr="sī." source="sri lanka">na cāyu</alternative>
+      <alternative source-abbr="pī." source="pali text society">na cāyu</alternative>
+      <alternative source-abbr="ka." source="cambodian">na cāyu</alternative>
     </alternatives>
     <type>auto</type>
     <previous> Na tāyu </previous>
@@ -1531,7 +1693,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">maraṇañca</alternative>
-      <alternative source-abbr="sī. pī." source="sī. pī.">maraṇaṃ te</alternative>
+      <alternative source-abbr="sī." source="sri lanka">maraṇaṃ te</alternative>
+      <alternative source-abbr="pī." source="pali text society">maraṇaṃ te</alternative>
     </alternatives>
     <type>auto</type>
     <previous> khīṇaṃ maraṇañca </previous>
@@ -1540,7 +1703,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">Tuyhañca</alternative>
-      <alternative source-abbr="sī. pī." source="sī. pī.">tavañca</alternative>
+      <alternative source-abbr="sī." source="sri lanka">tavañca</alternative>
+      <alternative source-abbr="pī." source="pali text society">tavañca</alternative>
       <alternative source-abbr="ka." source="cambodian">tava ca</alternative>
     </alternatives>
     <type>auto</type>
@@ -1550,7 +1714,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">vedayittho</alternative>
-      <alternative source-abbr="pī. ka." source="pī. ka.">vedayato</alternative>
+      <alternative source-abbr="pī." source="pali text society">vedayato</alternative>
+      <alternative source-abbr="ka." source="cambodian">vedayato</alternative>
     </alternatives>
     <type>auto</type>
     <previous> puññāni parittakāni, yesaṃ vipākaṃ idha vedayittho </previous>
@@ -1559,7 +1724,9 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">āveṇikaṃ</alternative>
-      <alternative source-abbr="sī. syā. pī." source="sī. syā. pī.">āveṇiyaṃ</alternative>
+      <alternative source-abbr="sī." source="sri lanka">āveṇiyaṃ</alternative>
+      <alternative source-abbr="syā." source="thai">āveṇiyaṃ</alternative>
+      <alternative source-abbr="pī." source="pali text society">āveṇiyaṃ</alternative>
       <alternative source-abbr="ka." source="cambodian">āvenikaṃ</alternative>
     </alternatives>
     <type>auto</type>
@@ -1569,7 +1736,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">cakkavākapakūjitā</alternative>
-      <alternative source-abbr="sī. pī." source="sī. pī.">cakkavākūpakūjitā</alternative>
+      <alternative source-abbr="sī." source="sri lanka">cakkavākūpakūjitā</alternative>
+      <alternative source-abbr="pī." source="pali text society">cakkavākūpakūjitā</alternative>
     </alternatives>
     <type>auto</type>
     <previous> Imā tā pokkharaṇī rammā, cakkavākapakūjitā </previous>
@@ -1578,7 +1746,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">teyeva ārāmavanupacārā</alternative>
-      <alternative source-abbr="sī. pī." source="sī. pī.">te ārāmā te vana’me pacārā</alternative>
+      <alternative source-abbr="sī." source="sri lanka">te ārāmā te vana’me pacārā</alternative>
+      <alternative source-abbr="pī." source="pali text society">te ārāmā te vana’me pacārā</alternative>
       <alternative source-abbr="ka." source="cambodian">te yeva ārāmavanāni sañcarā</alternative>
     </alternatives>
     <type>auto</type>
@@ -1588,7 +1757,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">dibyaṃ</alternative>
-      <alternative source-abbr="sī. pī." source="sī. pī.">dibbaṃ</alternative>
+      <alternative source-abbr="sī." source="sri lanka">dibbaṃ</alternative>
+      <alternative source-abbr="pī." source="pali text society">dibbaṃ</alternative>
     </alternatives>
     <type>auto</type>
     <previous> Vutthaṃ me bhavanaṃ dibyaṃ </previous>
@@ -1623,7 +1793,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">Osadhikāyo</alternative>
-      <alternative source-abbr="syā. ka." source="syā. ka.">osadhikāye</alternative>
+      <alternative source-abbr="syā." source="thai">osadhikāye</alternative>
+      <alternative source-abbr="ka." source="cambodian">osadhikāye</alternative>
     </alternatives>
     <type>auto</type>
     <previous>Osadhikāyo </previous>
@@ -1632,7 +1803,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">nhāpayanti</alternative>
-      <alternative source-abbr="sī. pī." source="sī. pī.">nahāyanti</alternative>
+      <alternative source-abbr="sī." source="sri lanka">nahāyanti</alternative>
+      <alternative source-abbr="pī." source="pali text society">nahāyanti</alternative>
     </alternatives>
     <type>auto</type>
     <previous> ganthenti, nhāpayanti </previous>
@@ -1640,7 +1812,8 @@
   <note line="1460" original="te (sī. pī.)" reference-line="734" id="180">
     <extra></extra>
     <alternatives>
-      <alternative source-abbr="sī. pī." source="sī. pī.">te</alternative>
+      <alternative source-abbr="sī." source="sri lanka">te</alternative>
+      <alternative source-abbr="pī." source="pali text society">te</alternative>
     </alternatives>
     <type>no_match</type>
     <previous> Apetā te ca </previous>
@@ -1649,7 +1822,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">rājā</alternative>
-      <alternative source-abbr="syā. ka." source="syā. ka.">rājā ca</alternative>
+      <alternative source-abbr="syā." source="thai">rājā ca</alternative>
+      <alternative source-abbr="ka." source="cambodian">rājā ca</alternative>
     </alternatives>
     <type>auto</type>
     <previous>(Iti rājā </previous>
@@ -1668,7 +1842,9 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">gahetvā</alternative>
-      <alternative source-abbr="sī. syā. pī." source="sī. syā. pī.">gahetvāna</alternative>
+      <alternative source-abbr="sī." source="sri lanka">gahetvāna</alternative>
+      <alternative source-abbr="syā." source="thai">gahetvāna</alternative>
+      <alternative source-abbr="pī." source="pali text society">gahetvāna</alternative>
     </alternatives>
     <type>auto</type>
     <previous> gahetvā </previous>
@@ -1677,7 +1853,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">vā vanamhi vā</alternative>
-      <alternative source-abbr="sī. pī." source="sī. pī.">vāmamhi ca vanamhi ca</alternative>
+      <alternative source-abbr="sī." source="sri lanka">vāmamhi ca vanamhi ca</alternative>
+      <alternative source-abbr="pī." source="pali text society">vāmamhi ca vanamhi ca</alternative>
       <alternative source-abbr="syā." source="thai">gāmamhi nigamamhi vā</alternative>
     </alternatives>
     <type>auto</type>
@@ -1696,7 +1873,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">vibhītakaṃ</alternative>
-      <alternative source-abbr="sī. pī." source="sī. pī.">ambajambuvibhīṭakaṃ</alternative>
+      <alternative source-abbr="sī." source="sri lanka">ambajambuvibhīṭakaṃ</alternative>
+      <alternative source-abbr="pī." source="pali text society">ambajambuvibhīṭakaṃ</alternative>
     </alternatives>
     <type>auto</type>
     <previous> āmalakaṃ, ambaṃ jambuṃ vibhītakaṃ </previous>
@@ -1705,7 +1883,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">Kasi-vāṇijjaṃ</alternative>
-      <alternative source-abbr="sī. pī." source="sī. pī.">kasiṃ vaṇijjaṃ</alternative>
+      <alternative source-abbr="sī." source="sri lanka">kasiṃ vaṇijjaṃ</alternative>
+      <alternative source-abbr="pī." source="pali text society">kasiṃ vaṇijjaṃ</alternative>
     </alternatives>
     <type>auto</type>
     <previous> Kasi-vāṇijjaṃ </previous>
@@ -1713,7 +1892,8 @@
   <note line="1525" original="ne (syā. ka.)" reference-line="817" id="188">
     <extra></extra>
     <alternatives>
-      <alternative source-abbr="syā. ka." source="syā. ka.">ne</alternative>
+      <alternative source-abbr="syā." source="thai">ne</alternative>
+      <alternative source-abbr="ka." source="cambodian">ne</alternative>
     </alternatives>
     <type>no_match</type>
     <previous>Bahū te </previous>
@@ -1731,7 +1911,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">luddakasamā rāja</alternative>
-      <alternative source-abbr="sī. pī." source="sī. pī.">luddakā te mahārāja</alternative>
+      <alternative source-abbr="sī." source="sri lanka">luddakā te mahārāja</alternative>
+      <alternative source-abbr="pī." source="pali text society">luddakā te mahārāja</alternative>
     </alternatives>
     <type>auto</type>
     <previous> Te luddakasamā rāja </previous>
@@ -1740,7 +1921,9 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">pasakkitā</alternative>
-      <alternative source-abbr="sī. syā. pī." source="sī. syā. pī.">pasakkhitā</alternative>
+      <alternative source-abbr="sī." source="sri lanka">pasakkhitā</alternative>
+      <alternative source-abbr="syā." source="thai">pasakkhitā</alternative>
+      <alternative source-abbr="pī." source="pali text society">pasakkhitā</alternative>
     </alternatives>
     <type>auto</type>
     <previous> Aññe dhanassa kāmā hi, heṭṭhāmañce pasakkitā </previous>
@@ -1758,7 +1941,9 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">disvā</alternative>
-      <alternative source-abbr="ka. sī. aṭṭha." source="ka. sī. aṭṭha.">disvāna</alternative>
+      <alternative source-abbr="ka." source="cambodian">disvāna</alternative>
+      <alternative source-abbr="sī." source="sri lanka">disvāna</alternative>
+      <alternative source-abbr="aṭṭha." source="aṭṭha.">disvāna</alternative>
     </alternatives>
     <type>auto</type>
     <previous> Sukhumālarūpaṃ disvā </previous>
@@ -1775,7 +1960,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">vaḍḍhamodanaṃ</alternative>
-      <alternative source-abbr="sī. pī." source="sī. pī.">baddhamodanaṃ</alternative>
+      <alternative source-abbr="sī." source="sri lanka">baddhamodanaṃ</alternative>
+      <alternative source-abbr="pī." source="pali text society">baddhamodanaṃ</alternative>
     </alternatives>
     <type>auto</type>
     <previous> te pemakenāhaṃ, adāsiṃ vaḍḍhamodanaṃ </previous>
@@ -1784,7 +1970,9 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">adāsayi</alternative>
-      <alternative source-abbr="sī. syā. pī." source="sī. syā. pī.">adāpayi</alternative>
+      <alternative source-abbr="sī." source="sri lanka">adāpayi</alternative>
+      <alternative source-abbr="syā." source="thai">adāpayi</alternative>
+      <alternative source-abbr="pī." source="pali text society">adāpayi</alternative>
     </alternatives>
     <type>auto</type>
     <previous> Taṃ tvaṃ bhattaṃ paṭiggayha, brāhmaṇassa adāsayi </previous>
@@ -1793,7 +1981,9 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">Attānaṃ</alternative>
-      <alternative source-abbr="pī. aṭṭha. pāṭhantaraṃ" source="pī. aṭṭha. pāṭhantaraṃ">attanā</alternative>
+      <alternative source-abbr="pī." source="pali text society">attanā</alternative>
+      <alternative source-abbr="aṭṭha." source="aṭṭha.">attanā</alternative>
+      <alternative source-abbr="pāṭhantaraṃ" source="pāṭhantaraṃ">attanā</alternative>
     </alternatives>
     <type>auto</type>
     <previous>Attānaṃ </previous>
@@ -1811,7 +2001,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">āmantanīyo</alternative>
-      <alternative source-abbr="sī. pī." source="sī. pī.">āmantaṇīyo</alternative>
+      <alternative source-abbr="sī." source="sri lanka">āmantaṇīyo</alternative>
+      <alternative source-abbr="pī." source="pali text society">āmantaṇīyo</alternative>
     </alternatives>
     <type>auto</type>
     <previous>Garu ca āmantanīyo </previous>
@@ -1820,7 +2011,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">putta</alternative>
-      <alternative source-abbr="sī. pī." source="sī. pī.">putte</alternative>
+      <alternative source-abbr="sī." source="sri lanka">putte</alternative>
+      <alternative source-abbr="pī." source="pali text society">putte</alternative>
     </alternatives>
     <type>auto</type>
     <previous> Bharāmi putta </previous>
@@ -1829,7 +2021,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">gadhito</alternative>
-      <alternative source-abbr="sī. pī." source="sī. pī.">gathito</alternative>
+      <alternative source-abbr="sī." source="sri lanka">gathito</alternative>
+      <alternative source-abbr="pī." source="pali text society">gathito</alternative>
     </alternatives>
     <type>auto</type>
     <previous> dāre ca, gharesu gadhito </previous>
@@ -1838,7 +2031,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">Āraññikassa</alternative>
-      <alternative source-abbr="sī. pī." source="sī. pī.">āraññakassa</alternative>
+      <alternative source-abbr="sī." source="sri lanka">āraññakassa</alternative>
+      <alternative source-abbr="pī." source="pali text society">āraññakassa</alternative>
     </alternatives>
     <type>auto</type>
     <previous> Āraññikassa </previous>
@@ -1856,7 +2050,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">Khaṇantālukalambāni</alternative>
-      <alternative source-abbr="syā. ka." source="syā. ka.">khaṇamālukalambāni</alternative>
+      <alternative source-abbr="syā." source="thai">khaṇamālukalambāni</alternative>
+      <alternative source-abbr="ka." source="cambodian">khaṇamālukalambāni</alternative>
     </alternatives>
     <type>auto</type>
     <previous> Khaṇantālukalambāni </previous>
@@ -1865,7 +2060,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">bilālitakkalāni ca</alternative>
-      <alternative source-abbr="sī. pī." source="sī. pī.">biḷālitakkaḷāni ca</alternative>
+      <alternative source-abbr="sī." source="sri lanka">biḷālitakkaḷāni ca</alternative>
+      <alternative source-abbr="pī." source="pali text society">biḷālitakkaḷāni ca</alternative>
     </alternatives>
     <type>auto</type>
     <previous>, bilālitakkalāni ca </previous>
@@ -1884,7 +2080,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">āharitvā</alternative>
-      <alternative source-abbr="sī. syā." source="sī. syā.">āhatva</alternative>
+      <alternative source-abbr="sī." source="sri lanka">āhatva</alternative>
+      <alternative source-abbr="syā." source="thai">āhatva</alternative>
     </alternatives>
     <type>auto</type>
     <previous>Tāni āharitvā </previous>
@@ -1911,7 +2108,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">pajānāmi</alternative>
-      <alternative source-abbr="sī. pī." source="sī. pī.">ito pubbe na jānāmi</alternative>
+      <alternative source-abbr="sī." source="sri lanka">ito pubbe na jānāmi</alternative>
+      <alternative source-abbr="pī." source="pali text society">ito pubbe na jānāmi</alternative>
     </alternatives>
     <type>auto</type>
     <previous>Sohaṃ ajja pajānāmi </previous>

@@ -28,7 +28,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">Phāsu</alternative>
-      <alternative source-abbr="syā. pī." source="syā. pī.">phāsuṃ</alternative>
+      <alternative source-abbr="syā." source="thai">phāsuṃ</alternative>
+      <alternative source-abbr="pī." source="pali text society">phāsuṃ</alternative>
     </alternatives>
     <type>auto</type>
     <previous>Phāsu </previous>
@@ -36,7 +37,9 @@
   <note line="33" original="gandhake (syā. pī. ka.)" reference-line="58" id="5">
     <extra></extra>
     <alternatives>
-      <alternative source-abbr="syā. pī. ka." source="syā. pī. ka.">gandhake</alternative>
+      <alternative source-abbr="syā." source="thai">gandhake</alternative>
+      <alternative source-abbr="pī." source="pali text society">gandhake</alternative>
+      <alternative source-abbr="ka." source="cambodian">gandhake</alternative>
     </alternatives>
     <type>no_match</type>
     <previous> Mālute upavāyante, sīte surabhigandhike </previous>
@@ -57,7 +60,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="sī." source="sri lanka">upahanti ruṇṇaṃ</alternative>
-      <alternative source-abbr="syā. pī." source="syā. pī.">upahanti roṇṇaṃ</alternative>
+      <alternative source-abbr="syā." source="thai">upahanti roṇṇaṃ</alternative>
+      <alternative source-abbr="pī." source="pali text society">upahanti roṇṇaṃ</alternative>
     </alternatives>
     <type>no_match</type>
     <previous> Cakkhuṃ sarīraṃ upahanti tena </previous>
@@ -74,7 +78,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">āgacchi</alternative>
-      <alternative source-abbr="sī. pī." source="sī. pī.">āgañchi</alternative>
+      <alternative source-abbr="sī." source="sri lanka">āgañchi</alternative>
+      <alternative source-abbr="pī." source="pali text society">āgañchi</alternative>
     </alternatives>
     <type>auto</type>
     <previous> Bhagavā tattha āgacchi </previous>
@@ -83,7 +88,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">vehāsādupasaṅkamiṃ</alternative>
-      <alternative source-abbr="syā. ka." source="syā. ka.">vehāsānupasaṅkamiṃ</alternative>
+      <alternative source-abbr="syā." source="thai">vehāsānupasaṅkamiṃ</alternative>
+      <alternative source-abbr="ka." source="cambodian">vehāsānupasaṅkamiṃ</alternative>
     </alternatives>
     <type>auto</type>
     <previous>Paveditamhi kālamhi, vehāsādupasaṅkamiṃ </previous>
@@ -92,7 +98,9 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">gūthakūpena gāḷhito</alternative>
-      <alternative source-abbr="syā. pī. ka." source="syā. pī. ka.">gūthakūpe nigāḷhito</alternative>
+      <alternative source-abbr="syā." source="thai">gūthakūpe nigāḷhito</alternative>
+      <alternative source-abbr="pī." source="pali text society">gūthakūpe nigāḷhito</alternative>
+      <alternative source-abbr="ka." source="cambodian">gūthakūpe nigāḷhito</alternative>
     </alternatives>
     <type>auto</type>
     <previous> Pubbaruhirasampuṇṇo, gūthakūpena gāḷhito </previous>

@@ -25,8 +25,11 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">diṭṭhisandānabandhitaṃ</alternative>
-      <alternative source-abbr="sī. syā." source="sī. syā.">sandhitaṃ</alternative>
-      <alternative source-abbr="pī. sī. aṭṭha." source="pī. sī. aṭṭha.">sanditaṃ</alternative>
+      <alternative source-abbr="sī." source="sri lanka">sandhitaṃ</alternative>
+      <alternative source-abbr="syā." source="thai">sandhitaṃ</alternative>
+      <alternative source-abbr="pī." source="pali text society">sanditaṃ</alternative>
+      <alternative source-abbr="sī." source="sri lanka">sanditaṃ</alternative>
+      <alternative source-abbr="aṭṭha." source="aṭṭha.">sanditaṃ</alternative>
     </alternatives>
     <type>auto</type>
     <previous> Cirasaṃkiliṭṭhaṃ vata maṃ, diṭṭhisandānabandhitaṃ </previous>
@@ -68,7 +71,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">leṇassa</alternative>
-      <alternative source-abbr="syā. ka." source="syā. ka.">mahāleṇassa</alternative>
+      <alternative source-abbr="syā." source="thai">mahāleṇassa</alternative>
+      <alternative source-abbr="ka." source="cambodian">mahāleṇassa</alternative>
     </alternatives>
     <type>auto</type>
     <previous>Sobhenti āpagākūlaṃ, mama leṇassa </previous>

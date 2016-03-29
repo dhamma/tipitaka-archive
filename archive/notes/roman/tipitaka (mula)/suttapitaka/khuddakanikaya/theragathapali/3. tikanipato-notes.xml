@@ -14,7 +14,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">nhātako</alternative>
-      <alternative source-abbr="sī. aṭṭha." source="sī. aṭṭha.">nahātako</alternative>
+      <alternative source-abbr="sī." source="sri lanka">nahātako</alternative>
+      <alternative source-abbr="aṭṭha." source="aṭṭha.">nahātako</alternative>
     </alternatives>
     <type>auto</type>
     <previous>Tevijjo nhātako </previous>
@@ -32,7 +33,9 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">Vassiko</alternative>
-      <alternative source-abbr="sī. syā. pī." source="sī. syā. pī.">passiko</alternative>
+      <alternative source-abbr="sī." source="sri lanka">passiko</alternative>
+      <alternative source-abbr="syā." source="thai">passiko</alternative>
+      <alternative source-abbr="pī." source="pali text society">passiko</alternative>
     </alternatives>
     <type>auto</type>
     <previous>… Vassiko </previous>
@@ -50,7 +53,9 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">padālitā</alternative>
-      <alternative source-abbr="sī. pī. aṭṭha." source="sī. pī. aṭṭha.">vidālitā</alternative>
+      <alternative source-abbr="sī." source="sri lanka">vidālitā</alternative>
+      <alternative source-abbr="pī." source="pali text society">vidālitā</alternative>
+      <alternative source-abbr="aṭṭha." source="aṭṭha.">vidālitā</alternative>
     </alternatives>
     <type>auto</type>
     <previous> kāmā pahīnā me, bhavā sabbe padālitā </previous>
@@ -62,7 +67,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">Ārambhatha</alternative>
-      <alternative source-abbr="sī. syā." source="sī. syā.">ārabhatha</alternative>
+      <alternative source-abbr="sī." source="sri lanka">ārabhatha</alternative>
+      <alternative source-abbr="syā." source="thai">ārabhatha</alternative>
       <alternative source-abbr="ka." source="cambodian">ārabbhatha</alternative>
     </alternatives>
     <type>auto</type>
@@ -72,7 +78,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">vihassati</alternative>
-      <alternative source-abbr="syā. pī." source="syā. pī.">vihessati</alternative>
+      <alternative source-abbr="syā." source="thai">vihessati</alternative>
+      <alternative source-abbr="pī." source="pali text society">vihessati</alternative>
     </alternatives>
     <type>auto</type>
     <previous> vihassati </previous>

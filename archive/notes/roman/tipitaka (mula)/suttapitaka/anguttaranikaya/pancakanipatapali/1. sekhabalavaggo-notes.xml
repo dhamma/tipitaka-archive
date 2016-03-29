@@ -13,7 +13,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">hirībalaṃ</alternative>
-      <alternative source-abbr="sī. pī." source="sī. pī.">hiribalaṃ</alternative>
+      <alternative source-abbr="sī." source="sri lanka">hiribalaṃ</alternative>
+      <alternative source-abbr="pī." source="pali text society">hiribalaṃ</alternative>
     </alternatives>
     <type>auto</type>
     <previous>. Katamāni pañca? Saddhābalaṃ, hirībalaṃ </previous>
@@ -22,7 +23,10 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">vīriyabalaṃ</alternative>
-      <alternative source-abbr="sī. syā. kaṃ. pī." source="sī. syā. kaṃ. pī.">viriyabalaṃ</alternative>
+      <alternative source-abbr="sī." source="sri lanka">viriyabalaṃ</alternative>
+      <alternative source-abbr="syā." source="thai">viriyabalaṃ</alternative>
+      <alternative source-abbr="kaṃ." source="kaṃ.">viriyabalaṃ</alternative>
+      <alternative source-abbr="pī." source="pali text society">viriyabalaṃ</alternative>
     </alternatives>
     <type>auto</type>
     <previous>, ottappabalaṃ, vīriyabalaṃ </previous>
@@ -129,7 +133,9 @@
   <note line="115" original="anapekkhā pana (sī. syā. kaṃ.)" reference-line="33" id="14">
     <extra></extra>
     <alternatives>
-      <alternative source-abbr="sī. syā. kaṃ." source="sī. syā. kaṃ.">anapekkhā pana</alternative>
+      <alternative source-abbr="sī." source="sri lanka">anapekkhā pana</alternative>
+      <alternative source-abbr="syā." source="thai">anapekkhā pana</alternative>
+      <alternative source-abbr="kaṃ." source="kaṃ.">anapekkhā pana</alternative>
     </alternatives>
     <type>no_match</type>
     <previous> hoti alaṃpañño, anapekkhā dāni </previous>
@@ -137,7 +143,9 @@
   <note line="122" original="panāhaṃ (sī. syā. kaṃ.)" reference-line="34" id="15">
     <extra></extra>
     <alternatives>
-      <alternative source-abbr="sī. syā. kaṃ." source="sī. syā. kaṃ.">panāhaṃ</alternative>
+      <alternative source-abbr="sī." source="sri lanka">panāhaṃ</alternative>
+      <alternative source-abbr="syā." source="thai">panāhaṃ</alternative>
+      <alternative source-abbr="kaṃ." source="kaṃ.">panāhaṃ</alternative>
     </alternatives>
     <type>no_match</type>
     <previous> kusalesu dhammesu, paññāya akataṃ hoti kusalesu dhammesu, anurakkhitabbo tāva me so, bhikkhave, bhikkhu hoti. Yato ca kho, bhikkhave, bhikkhuno saddhāya kataṃ hoti kusalesu dhammesu, hiriyā kataṃ hoti kusalesu dhammesu, ottappena kataṃ hoti kusalesu dhammesu, vīriyena kataṃ hoti kusalesu dhammesu, paññāya kataṃ hoti kusalesu dhammesu, anapekkho dānāhaṃ, bhikkhave </previous>

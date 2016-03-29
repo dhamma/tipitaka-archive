@@ -4,7 +4,9 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">Avasesaṃ</alternative>
-      <alternative source-abbr="sī. aṭṭha. mūlapāṭho" source="sī. aṭṭha. mūlapāṭho">avase taṃ</alternative>
+      <alternative source-abbr="sī." source="sri lanka">avase taṃ</alternative>
+      <alternative source-abbr="aṭṭha." source="aṭṭha.">avase taṃ</alternative>
+      <alternative source-abbr="mūlapāṭho" source="mūlapāṭho">avase taṃ</alternative>
       <alternative source-abbr="aṭṭha.?" source="aṭṭha.?">avasesānaṃ</alternative>
     </alternatives>
     <type>auto</type>
@@ -32,7 +34,8 @@
     <extra> ‘‘hadaye’’ti taṃsaṃvaṇṇanā</extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">yadi</alternative>
-      <alternative source-abbr="sī. aṭṭha." source="sī. aṭṭha.">yada</alternative>
+      <alternative source-abbr="sī." source="sri lanka">yada</alternative>
+      <alternative source-abbr="aṭṭha." source="aṭṭha.">yada</alternative>
       <alternative source-abbr="?" source="unknown">hadi</alternative>
     </alternatives>
     <type>auto</type>
@@ -51,7 +54,10 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">kuddiṭṭhiṃ</alternative>
-      <alternative source-abbr="sī. dha. pa. 339" source="sī. dha. pa. 339">duddiṭṭhiṃ</alternative>
+      <alternative source-abbr="sī." source="sri lanka">duddiṭṭhiṃ</alternative>
+      <alternative source-abbr="dha." source="dha.">duddiṭṭhiṃ</alternative>
+      <alternative source-abbr="pa." source="pa.">duddiṭṭhiṃ</alternative>
+      <alternative source-abbr="339" source="339">duddiṭṭhiṃ</alternative>
     </alternatives>
     <type>auto</type>
     <previous>Vāhā vahanti kuddiṭṭhiṃ </previous>
@@ -119,7 +125,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">bhogī rājāno</alternative>
-      <alternative source-abbr="sī. ka." source="sī. ka.">bhogā rājāno</alternative>
+      <alternative source-abbr="sī." source="sri lanka">bhogā rājāno</alternative>
+      <alternative source-abbr="ka." source="cambodian">bhogā rājāno</alternative>
       <alternative source-abbr="syā." source="thai">bhojarājāno</alternative>
     </alternatives>
     <type>auto</type>
@@ -129,7 +136,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">Rājābhirājā</alternative>
-      <alternative source-abbr="sī. ka." source="sī. ka.">rājādhirājā</alternative>
+      <alternative source-abbr="sī." source="sri lanka">rājādhirājā</alternative>
+      <alternative source-abbr="ka." source="cambodian">rājādhirājā</alternative>
     </alternatives>
     <type>auto</type>
     <previous>Rājābhirājā </previous>
@@ -156,7 +164,14 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">vase</alternative>
-      <alternative source-abbr="syā. ka., ma. ni. 2.399; su. ni. 966" source="syā. ka., ma. ni. 2.399; su. ni. 966">vasī</alternative>
+      <alternative source-abbr="syā." source="thai">vasī</alternative>
+      <alternative source-abbr="ka." source="cambodian">vasī</alternative>
+      <alternative source-abbr="ma." source="ma.">vasī</alternative>
+      <alternative source-abbr="ni." source="ni.">vasī</alternative>
+      <alternative source-abbr="2.399;" source="2.399;">vasī</alternative>
+      <alternative source-abbr="su." source="su.">vasī</alternative>
+      <alternative source-abbr="ni." source="ni.">vasī</alternative>
+      <alternative source-abbr="966" source="966">vasī</alternative>
     </alternatives>
     <type>auto</type>
     <previous>Sabbāmitte vase </previous>
@@ -174,7 +189,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">aṭṭhame</alternative>
-      <alternative source-abbr="syā. ka." source="syā. ka.">aṭṭhami</alternative>
+      <alternative source-abbr="syā." source="thai">aṭṭhami</alternative>
+      <alternative source-abbr="ka." source="cambodian">aṭṭhami</alternative>
     </alternatives>
     <type>auto</type>
     <previous>, ito aṭṭhame </previous>
@@ -200,7 +216,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">pidhīyati</alternative>
-      <alternative source-abbr="sī. syā." source="sī. syā.">pithīyati</alternative>
+      <alternative source-abbr="sī." source="sri lanka">pithīyati</alternative>
+      <alternative source-abbr="syā." source="thai">pithīyati</alternative>
     </alternatives>
     <type>auto</type>
     <previous> pāpaṃ kataṃ kammaṃ, kusalena pidhīyati </previous>
@@ -208,14 +225,19 @@
   <note line="186" original="disā hi (syā. ka., ma. ni. 2.352)" reference-line="520" id="24">
     <extra></extra>
     <alternatives>
-      <alternative source-abbr="syā. ka., ma. ni. 2.352" source="syā. ka., ma. ni. 2.352">disā hi</alternative>
+      <alternative source-abbr="syā." source="thai">disā hi</alternative>
+      <alternative source-abbr="ka." source="cambodian">disā hi</alternative>
+      <alternative source-abbr="ma." source="ma.">disā hi</alternative>
+      <alternative source-abbr="ni." source="ni.">disā hi</alternative>
+      <alternative source-abbr="2.352" source="2.352">disā hi</alternative>
     </alternatives>
     <type>no_match</type>
   </note>
   <note line="192" original="kañcinaṃ (sī. syā.), kañcanaṃ (?)" reference-line="526" id="25">
     <extra></extra>
     <alternatives>
-      <alternative source-abbr="sī. syā." source="sī. syā.">kañcinaṃ</alternative>
+      <alternative source-abbr="sī." source="sri lanka">kañcinaṃ</alternative>
+      <alternative source-abbr="syā." source="thai">kañcinaṃ</alternative>
       <alternative source-abbr="vri" source="vipassana research institut">kiñcanaṃ</alternative>
       <alternative source-abbr="?" source="unknown">kañcanaṃ</alternative>
     </alternatives>
@@ -246,7 +268,8 @@
   <note line="220" original="kañcinaṃ (sī. syā.), kañcanaṃ (?)" reference-line="536" id="29">
     <extra></extra>
     <alternatives>
-      <alternative source-abbr="sī. syā." source="sī. syā.">kañcinaṃ</alternative>
+      <alternative source-abbr="sī." source="sri lanka">kañcinaṃ</alternative>
+      <alternative source-abbr="syā." source="thai">kañcinaṃ</alternative>
       <alternative source-abbr="vri" source="vipassana research institut">kiñcanaṃ</alternative>
       <alternative source-abbr="?" source="unknown">kañcanaṃ</alternative>
     </alternatives>
@@ -264,7 +287,8 @@
   <note line="236" original="suddhamajjhagā (sī. ka.), suddhimajjhagamā (syā.)" reference-line="580" id="31">
     <extra></extra>
     <alternatives>
-      <alternative source-abbr="sī. ka." source="sī. ka.">suddhamajjhagā</alternative>
+      <alternative source-abbr="sī." source="sri lanka">suddhamajjhagā</alternative>
+      <alternative source-abbr="ka." source="cambodian">suddhamajjhagā</alternative>
       <alternative source-abbr="vri" source="vipassana research institut">suddhimajjhagaṃ</alternative>
       <alternative source-abbr="syā." source="thai">suddhimajjhagamā</alternative>
     </alternatives>
@@ -280,7 +304,8 @@
   <note line="251" original="sabhikkhuno (sī. ka.)" reference-line="628" id="34">
     <extra></extra>
     <alternatives>
-      <alternative source-abbr="sī. ka." source="sī. ka.">sabhikkhuno</alternative>
+      <alternative source-abbr="sī." source="sri lanka">sabhikkhuno</alternative>
+      <alternative source-abbr="ka." source="cambodian">sabhikkhuno</alternative>
     </alternatives>
     <type>no_match</type>
     <previous>Vasī iddhiguṇe cutūpapāte, kāle passati devatā sa bhikkhu </previous>
@@ -307,7 +332,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">Kathaṃ vattenti</alternative>
-      <alternative source-abbr="sī. ka." source="sī. ka.">kathā vaḍḍhenti</alternative>
+      <alternative source-abbr="sī." source="sri lanka">kathā vaḍḍhenti</alternative>
+      <alternative source-abbr="ka." source="cambodian">kathā vaḍḍhenti</alternative>
     </alternatives>
     <type>auto</type>
     <previous>Kathaṃ vattenti </previous>

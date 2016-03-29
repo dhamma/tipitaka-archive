@@ -4,7 +4,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">sahampatī</alternative>
-      <alternative source-abbr="syā. kaṃ." source="syā. kaṃ.">sahampati</alternative>
+      <alternative source-abbr="syā." source="thai">sahampati</alternative>
+      <alternative source-abbr="kaṃ." source="kaṃ.">sahampati</alternative>
     </alternatives>
     <type>auto</type>
     <previous> ca lokādhipatī sahampatī </previous>
@@ -12,7 +13,8 @@
   <note line="11" original="parasmiṃ cūbhaye (syā. kaṃ.)" reference-line="28" id="1">
     <extra></extra>
     <alternatives>
-      <alternative source-abbr="syā. kaṃ." source="syā. kaṃ.">parasmiṃ cūbhaye</alternative>
+      <alternative source-abbr="syā." source="thai">parasmiṃ cūbhaye</alternative>
+      <alternative source-abbr="kaṃ." source="kaṃ.">parasmiṃ cūbhaye</alternative>
     </alternatives>
     <type>no_match</type>
     <previous> loke parasmiñcobhayasmiṃ </previous>
@@ -30,7 +32,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">dvipaduttamo</alternative>
-      <alternative source-abbr="sī. syā." source="sī. syā.">dipaduttamo</alternative>
+      <alternative source-abbr="sī." source="sri lanka">dipaduttamo</alternative>
+      <alternative source-abbr="syā." source="thai">dipaduttamo</alternative>
     </alternatives>
     <type>auto</type>
     <previous>Parāyano patiṭṭhā ca, dīpo ca dvipaduttamo </previous>
@@ -48,7 +51,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">ca</alternative>
-      <alternative source-abbr="sī. syā." source="sī. syā.">hiṅkāraṃ sādhukārañca</alternative>
+      <alternative source-abbr="sī." source="sri lanka">hiṅkāraṃ sādhukārañca</alternative>
+      <alternative source-abbr="syā." source="thai">hiṅkāraṃ sādhukārañca</alternative>
     </alternatives>
     <type>auto</type>
     <previous> Hiṅkārā sādhukārā ca </previous>
@@ -76,7 +80,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">Ukkāsitañca khipitaṃ</alternative>
-      <alternative source-abbr="syā. aṭṭha." source="syā. aṭṭha.">ukkāsitañca khipitañca</alternative>
+      <alternative source-abbr="syā." source="thai">ukkāsitañca khipitañca</alternative>
+      <alternative source-abbr="aṭṭha." source="aṭṭha.">ukkāsitañca khipitañca</alternative>
     </alternatives>
     <type>auto</type>
     <previous> Ukkāsitañca khipitaṃ </previous>
@@ -86,7 +91,8 @@
     <alternatives>
       <alternative source-abbr="sī." source="sri lanka">kālo deva</alternative>
       <alternative source-abbr="vri" source="vipassana research institut">kho te</alternative>
-      <alternative source-abbr="syā. ka." source="syā. ka.">kāloyaṃ te</alternative>
+      <alternative source-abbr="syā." source="thai">kāloyaṃ te</alternative>
+      <alternative source-abbr="ka." source="cambodian">kāloyaṃ te</alternative>
     </alternatives>
     <type>auto</type>
     <previous> ‘Kālo kho te </previous>
@@ -95,7 +101,9 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">Bhagavā tamhi</alternative>
-      <alternative source-abbr="sī. syā. ka." source="sī. syā. ka.">bhagavā ca tamhi</alternative>
+      <alternative source-abbr="sī." source="sri lanka">bhagavā ca tamhi</alternative>
+      <alternative source-abbr="syā." source="thai">bhagavā ca tamhi</alternative>
+      <alternative source-abbr="ka." source="cambodian">bhagavā ca tamhi</alternative>
     </alternatives>
     <type>auto</type>
     <previous> Bhagavā tamhi </previous>

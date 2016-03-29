@@ -12,7 +12,8 @@
   <note line="11" original="yā cāyaṃ (syā. ka.)" reference-line="5" id="1">
     <extra></extra>
     <alternatives>
-      <alternative source-abbr="syā. ka." source="syā. ka.">yā cāyaṃ</alternative>
+      <alternative source-abbr="syā." source="thai">yā cāyaṃ</alternative>
+      <alternative source-abbr="ka." source="cambodian">yā cāyaṃ</alternative>
     </alternatives>
     <type>no_match</type>
     <previous> mayā paritto nakhasikhāyaṃ paṃsu āropito ayaṃ vā </previous>
@@ -43,7 +44,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">mudutalunahatthapādā</alternative>
-      <alternative source-abbr="syā. kaṃ." source="syā. kaṃ.">mudutalāhatthapādā</alternative>
+      <alternative source-abbr="syā." source="thai">mudutalāhatthapādā</alternative>
+      <alternative source-abbr="kaṃ." source="kaṃ.">mudutalāhatthapādā</alternative>
     </alternatives>
     <type>auto</type>
     <previous> mudutalunahatthapādā </previous>
@@ -52,7 +54,9 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">tūlabimbohanāsu</alternative>
-      <alternative source-abbr="syā. kaṃ. pī." source="syā. kaṃ. pī.">tūlabimbohanāsu</alternative>
+      <alternative source-abbr="syā." source="thai">tūlabimbohanāsu</alternative>
+      <alternative source-abbr="kaṃ." source="kaṃ.">tūlabimbohanāsu</alternative>
+      <alternative source-abbr="pī." source="pali text society">tūlabimbohanāsu</alternative>
       <alternative source-abbr="sī." source="sri lanka">tūlabimbohanādīsu</alternative>
       <alternative source-abbr="ka." source="cambodian">tūlabibbohanādīsu</alternative>
     </alternatives>
@@ -82,7 +86,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">saṅkhāditvā</alternative>
-      <alternative source-abbr="pī. ka." source="pī. ka.">saṅkharitvā</alternative>
+      <alternative source-abbr="pī." source="pali text society">saṅkharitvā</alternative>
+      <alternative source-abbr="ka." source="cambodian">saṅkharitvā</alternative>
     </alternatives>
     <type>auto</type>
     <previous> suvikkhālitaṃ vikkhāletvā akaddamaṃ saṅkhāditvā </previous>
@@ -100,8 +105,10 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">saṅkhāditvā</alternative>
-      <alternative source-abbr="pī. ka." source="pī. ka.">saṅkharitvā</alternative>
-      <alternative source-abbr="syā. kaṃ." source="syā. kaṃ.">maṃsaṃ khāditvā</alternative>
+      <alternative source-abbr="pī." source="pali text society">saṅkharitvā</alternative>
+      <alternative source-abbr="ka." source="cambodian">saṅkharitvā</alternative>
+      <alternative source-abbr="syā." source="thai">maṃsaṃ khāditvā</alternative>
+      <alternative source-abbr="kaṃ." source="kaṃ.">maṃsaṃ khāditvā</alternative>
       <alternative source-abbr="katthaci" source="katthaci">asaṃkhāditvā</alternative>
     </alternatives>
     <type>auto</type>
@@ -114,8 +121,10 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">nassissatī’ti</alternative>
-      <alternative source-abbr="sī. pī." source="sī. pī.">mā nassissatīti</alternative>
-      <alternative source-abbr="syā. kaṃ." source="syā. kaṃ.">vinassissatīti</alternative>
+      <alternative source-abbr="sī." source="sri lanka">mā nassissatīti</alternative>
+      <alternative source-abbr="pī." source="pali text society">mā nassissatīti</alternative>
+      <alternative source-abbr="syā." source="thai">vinassissatīti</alternative>
+      <alternative source-abbr="kaṃ." source="kaṃ.">vinassissatīti</alternative>
     </alternatives>
     <type>auto</type>
     <previous> amhesu appakampi kataṃ nassissatī’ti </previous>

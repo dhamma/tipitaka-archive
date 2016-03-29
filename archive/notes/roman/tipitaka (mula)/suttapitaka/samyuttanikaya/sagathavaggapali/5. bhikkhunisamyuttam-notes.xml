@@ -4,7 +4,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">suphussitaṃ</alternative>
-      <alternative source-abbr="sī. pī." source="sī. pī.">suphassitaṃ</alternative>
+      <alternative source-abbr="sī." source="sri lanka">suphassitaṃ</alternative>
+      <alternative source-abbr="pī." source="pali text society">suphassitaṃ</alternative>
     </alternatives>
     <type>auto</type>
     <previous>Atthi nissaraṇaṃ loke, paññāya me suphussitaṃ </previous>
@@ -12,7 +13,9 @@
   <note line="11" original="asmīti (syā. kaṃ. pī.)" reference-line="20" id="1">
     <extra></extra>
     <alternatives>
-      <alternative source-abbr="syā. kaṃ. pī." source="syā. kaṃ. pī.">asmīti</alternative>
+      <alternative source-abbr="syā." source="thai">asmīti</alternative>
+      <alternative source-abbr="kaṃ." source="kaṃ.">asmīti</alternative>
+      <alternative source-abbr="pī." source="pali text society">asmīti</alternative>
     </alternatives>
     <type>no_match</type>
     <previous>Kiñci vā pana aññasmi </previous>
@@ -39,7 +42,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">arūpaṭṭhāyino</alternative>
-      <alternative source-abbr="sī. pī." source="sī. pī.">āruppaṭṭhāyino</alternative>
+      <alternative source-abbr="sī." source="sri lanka">āruppaṭṭhāyino</alternative>
+      <alternative source-abbr="pī." source="pali text society">āruppaṭṭhāyino</alternative>
     </alternatives>
     <type>auto</type>
     <previous>Ye ca rūpūpagā sattā, ye ca arūpaṭṭhāyino </previous>
@@ -48,7 +52,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">mādapayi, jātiṃ mā roca</alternative>
-      <alternative source-abbr="sī. pī." source="sī. pī.">mā rocesi</alternative>
+      <alternative source-abbr="sī." source="sri lanka">mā rocesi</alternative>
+      <alternative source-abbr="pī." source="pali text society">mā rocesi</alternative>
     </alternatives>
     <type>auto</type>
     <previous>Ko nu taṃ idamādapayi, jātiṃ mā roca </previous>
@@ -57,7 +62,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">phussati</alternative>
-      <alternative source-abbr="sī. pī." source="sī. pī.">passati</alternative>
+      <alternative source-abbr="sī." source="sri lanka">passati</alternative>
+      <alternative source-abbr="pī." source="pali text society">passati</alternative>
     </alternatives>
     <type>auto</type>
     <previous>Jātassa maraṇaṃ hoti, jāto dukkhāni phussati </previous>
@@ -66,7 +72,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">Sabbo ādīpito</alternative>
-      <alternative source-abbr="syā. kaṃ." source="syā. kaṃ.">sabbova āditto</alternative>
+      <alternative source-abbr="syā." source="thai">sabbova āditto</alternative>
+      <alternative source-abbr="kaṃ." source="kaṃ.">sabbova āditto</alternative>
     </alternatives>
     <type>auto</type>
     <previous>Sabbo ādīpito </previous>
@@ -84,7 +91,10 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">apajjalitaṃ</alternative>
-      <alternative source-abbr="sī. syā. kaṃ. pī." source="sī. syā. kaṃ. pī.">acalitaṃ</alternative>
+      <alternative source-abbr="sī." source="sri lanka">acalitaṃ</alternative>
+      <alternative source-abbr="syā." source="thai">acalitaṃ</alternative>
+      <alternative source-abbr="kaṃ." source="kaṃ.">acalitaṃ</alternative>
+      <alternative source-abbr="pī." source="pali text society">acalitaṃ</alternative>
     </alternatives>
     <type>auto</type>
     <previous>Akampitaṃ apajjalitaṃ </previous>
@@ -102,8 +112,11 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">kvanu</alternative>
-      <alternative source-abbr="sī. pī." source="sī. pī.">kvannu</alternative>
-      <alternative source-abbr="syā. kaṃ. ka." source="syā. kaṃ. ka.">kvaci</alternative>
+      <alternative source-abbr="sī." source="sri lanka">kvannu</alternative>
+      <alternative source-abbr="pī." source="pali text society">kvannu</alternative>
+      <alternative source-abbr="syā." source="thai">kvaci</alternative>
+      <alternative source-abbr="kaṃ." source="kaṃ.">kvaci</alternative>
+      <alternative source-abbr="ka." source="cambodian">kvaci</alternative>
     </alternatives>
     <type>auto</type>
     <previous>Kenidaṃ pakataṃ bimbaṃ, kvanu </previous>
@@ -112,7 +125,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">Nayidaṃ attakataṃ</alternative>
-      <alternative source-abbr="syā. kaṃ." source="syā. kaṃ.">nayidaṃ pakataṃ</alternative>
+      <alternative source-abbr="syā." source="thai">nayidaṃ pakataṃ</alternative>
+      <alternative source-abbr="kaṃ." source="kaṃ.">nayidaṃ pakataṃ</alternative>
     </alternatives>
     <type>auto</type>
     <previous>Nayidaṃ attakataṃ </previous>
@@ -121,7 +135,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">nayidaṃ parakataṃ</alternative>
-      <alternative source-abbr="syā. kaṃ." source="syā. kaṃ.">nayidaṃ pakataṃ</alternative>
+      <alternative source-abbr="syā." source="thai">nayidaṃ pakataṃ</alternative>
+      <alternative source-abbr="kaṃ." source="kaṃ.">nayidaṃ pakataṃ</alternative>
     </alternatives>
     <type>auto</type>
     <previous> bimbaṃ, nayidaṃ parakataṃ </previous>
@@ -130,7 +145,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">sammuti</alternative>
-      <alternative source-abbr="syā. kaṃ." source="syā. kaṃ.">sammati</alternative>
+      <alternative source-abbr="syā." source="thai">sammati</alternative>
+      <alternative source-abbr="kaṃ." source="kaṃ.">sammati</alternative>
     </alternatives>
     <type>auto</type>
     <previous>Evaṃ khandhesu santesu, hoti sattoti sammuti </previous>

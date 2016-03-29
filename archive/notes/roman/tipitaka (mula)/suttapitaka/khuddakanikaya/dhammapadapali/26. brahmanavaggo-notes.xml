@@ -13,7 +13,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">Dhī</alternative>
-      <alternative source-abbr="syā. byākaraṇesu" source="syā. byākaraṇesu">dhi</alternative>
+      <alternative source-abbr="syā." source="thai">dhi</alternative>
+      <alternative source-abbr="byākaraṇesu" source="byākaraṇesu">dhi</alternative>
     </alternatives>
     <type>auto</type>
     <previous>Dhī </previous>
@@ -25,7 +26,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">naddhiṃ</alternative>
-      <alternative source-abbr="ka. sī." source="ka. sī.">nandhiṃ</alternative>
+      <alternative source-abbr="ka." source="cambodian">nandhiṃ</alternative>
+      <alternative source-abbr="sī." source="sri lanka">nandhiṃ</alternative>
       <alternative source-abbr="pī." source="pali text society">nandiṃ</alternative>
     </alternatives>
     <type>auto</type>
@@ -44,7 +46,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">limpati</alternative>
-      <alternative source-abbr="sī. pī." source="sī. pī.">lippati</alternative>
+      <alternative source-abbr="sī." source="sri lanka">lippati</alternative>
+      <alternative source-abbr="pī." source="pali text society">lippati</alternative>
     </alternatives>
     <type>auto</type>
     <previous>Yo na limpati </previous>
@@ -80,7 +83,9 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">Nirāsāsaṃ</alternative>
-      <alternative source-abbr="sī. syā. pī." source="sī. syā. pī.">nirāsayaṃ</alternative>
+      <alternative source-abbr="sī." source="sri lanka">nirāsayaṃ</alternative>
+      <alternative source-abbr="syā." source="thai">nirāsayaṃ</alternative>
+      <alternative source-abbr="pī." source="pali text society">nirāsayaṃ</alternative>
       <alternative source-abbr="?" source="unknown">nirāsakaṃ</alternative>
     </alternatives>
     <type>auto</type>
@@ -90,7 +95,10 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">Yomaṃ</alternative>
-      <alternative source-abbr="sī. syā. kaṃ. pī." source="sī. syā. kaṃ. pī.">yo imaṃ</alternative>
+      <alternative source-abbr="sī." source="sri lanka">yo imaṃ</alternative>
+      <alternative source-abbr="syā." source="thai">yo imaṃ</alternative>
+      <alternative source-abbr="kaṃ." source="kaṃ.">yo imaṃ</alternative>
+      <alternative source-abbr="pī." source="pali text society">yo imaṃ</alternative>
     </alternatives>
     <type>auto</type>
     <previous> Yomaṃ </previous>
@@ -99,7 +107,10 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">pāragato</alternative>
-      <alternative source-abbr="sī. syā. kaṃ. pī." source="sī. syā. kaṃ. pī.">pāragato</alternative>
+      <alternative source-abbr="sī." source="sri lanka">pāragato</alternative>
+      <alternative source-abbr="syā." source="thai">pāragato</alternative>
+      <alternative source-abbr="kaṃ." source="kaṃ.">pāragato</alternative>
+      <alternative source-abbr="pī." source="pali text society">pāragato</alternative>
     </alternatives>
     <type>auto</type>
     <previous>Tiṇṇo pāragato </previous>
@@ -108,7 +119,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">pahantvāna</alternative>
-      <alternative source-abbr="sī. pī." source="sī. pī.">pahatvāna</alternative>
+      <alternative source-abbr="sī." source="sri lanka">pahatvāna</alternative>
+      <alternative source-abbr="pī." source="pali text society">pahatvāna</alternative>
     </alternatives>
     <type>auto</type>
     <previous> kāme pahantvāna </previous>
@@ -120,7 +132,10 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">nhātakaṃ</alternative>
-      <alternative source-abbr="sī. syā. kaṃ pī." source="sī. syā. kaṃ pī.">nahātakaṃ</alternative>
+      <alternative source-abbr="sī." source="sri lanka">nahātakaṃ</alternative>
+      <alternative source-abbr="syā." source="thai">nahātakaṃ</alternative>
+      <alternative source-abbr="kaṃ" source="kaṃ">nahātakaṃ</alternative>
+      <alternative source-abbr="pī." source="pali text society">nahātakaṃ</alternative>
     </alternatives>
     <type>auto</type>
     <previous>Anejaṃ nhātakaṃ </previous>

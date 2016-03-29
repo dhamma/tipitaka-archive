@@ -3,7 +3,8 @@
   <note line="3" original="patapati (sī. pī.), tapati (syā.)" reference-line="66" id="0">
     <extra></extra>
     <alternatives>
-      <alternative source-abbr="sī. pī." source="sī. pī.">patapati</alternative>
+      <alternative source-abbr="sī." source="sri lanka">patapati</alternative>
+      <alternative source-abbr="pī." source="pali text society">patapati</alternative>
       <alternative source-abbr="syā." source="thai">tapati</alternative>
     </alternatives>
     <type>no_match</type>
@@ -13,7 +14,9 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">Purohito</alternative>
-      <alternative source-abbr="ka. sī. ka." source="ka. sī. ka.">purohitopi</alternative>
+      <alternative source-abbr="ka." source="cambodian">purohitopi</alternative>
+      <alternative source-abbr="sī." source="sri lanka">purohitopi</alternative>
+      <alternative source-abbr="ka." source="cambodian">purohitopi</alternative>
     </alternatives>
     <type>auto</type>
     <previous> Purohito </previous>
@@ -31,7 +34,10 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">barihisatthāya</alternative>
-      <alternative source-abbr="syā. ka. sī. ka." source="syā. ka. sī. ka.">parihiṃsatthāya</alternative>
+      <alternative source-abbr="syā." source="thai">parihiṃsatthāya</alternative>
+      <alternative source-abbr="ka." source="cambodian">parihiṃsatthāya</alternative>
+      <alternative source-abbr="sī." source="sri lanka">parihiṃsatthāya</alternative>
+      <alternative source-abbr="ka." source="cambodian">parihiṃsatthāya</alternative>
       <alternative source-abbr="ka." source="cambodian">parahiṃsatthāya</alternative>
     </alternatives>
     <type>auto</type>
@@ -41,7 +47,9 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">yaññavāṭassa</alternative>
-      <alternative source-abbr="sī. pī. ka." source="sī. pī. ka.">yaññāvāṭassa</alternative>
+      <alternative source-abbr="sī." source="sri lanka">yaññāvāṭassa</alternative>
+      <alternative source-abbr="pī." source="pali text society">yaññāvāṭassa</alternative>
+      <alternative source-abbr="ka." source="cambodian">yaññāvāṭassa</alternative>
     </alternatives>
     <type>auto</type>
     <previous> Atha kho, brāhmaṇa, puratthimena yaññavāṭassa </previous>
@@ -59,7 +67,8 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">appaṭṭhataro</alternative>
-      <alternative source-abbr="syā. kaṃ." source="syā. kaṃ.">appatthataro</alternative>
+      <alternative source-abbr="syā." source="thai">appatthataro</alternative>
+      <alternative source-abbr="kaṃ." source="kaṃ.">appatthataro</alternative>
     </alternatives>
     <type>auto</type>
     <previous> soḷasaparikkhārāya appaṭṭhataro </previous>
@@ -68,7 +77,9 @@
     <extra></extra>
     <alternatives>
       <alternative source-abbr="vri" source="vipassana research institut">appasamārambhataro</alternative>
-      <alternative source-abbr="sī. pī. ka." source="sī. pī. ka.">appasamārabbhataro</alternative>
+      <alternative source-abbr="sī." source="sri lanka">appasamārabbhataro</alternative>
+      <alternative source-abbr="pī." source="pali text society">appasamārabbhataro</alternative>
+      <alternative source-abbr="ka." source="cambodian">appasamārabbhataro</alternative>
     </alternatives>
     <type>auto</type>
     <previous> ca appasamārambhataro </previous>
