@@ -11,7 +11,7 @@ import org.tipitaka.search.TipitakaUrlFactory;
 /**
  * Created by cmeier on 3/6/16.
  */
-abstract class BuilderFactory<T extends BaseBuilder>
+public abstract class BuilderFactory<T extends BaseBuilder>
 {
 
   private final DirectoryStructure directory;

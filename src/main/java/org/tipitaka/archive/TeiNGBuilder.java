@@ -58,7 +58,8 @@ public class TeiNGBuilder
 
     String file =
         //"/tipitaka (mula)/vinayapitaka/parajikapali/veranjakandam";
-        "/tipitaka (mula)/vinayapitaka/parajikapali/1. parajikakandam";
+        "/tipitaka (mula)/vinayapitaka/pacittiyapali/5. pacittiyakandam";
+    //"/tipitaka (mula)/vinayapitaka/parajikapali/1. parajikakandam";
    // "/tipitaka (mula)/vinayapitaka/parajikapali/2. sanghadisesakandam";
     visitor.accept(new OutputStreamWriter(System.out), new ScriptFactory().script("romn"), file);
     //File datafile = new File("../tipitaka-archive/target/data.xml");
@@ -88,16 +89,14 @@ public class TeiNGBuilder
         }
       }
 
-      //if (!" ".equals(text)) {
-        state.append(text);
-      //}
+      state.append(text);
     }
   }
 
   @Override
   public void startDocument() throws IOException {
-    state.append("<?xml version=\"1.0\" encoding=\"UTF-16\"?>\n" +
-        "<?xml-stylesheet type=\"text/xsl\" href=\"tipitaka-latn.xsl\"?>\n" +
+    state.append("<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n" +
+        "<?xml-stylesheet type=\"text/xsl\" href=\"/tipitaka-latn.xsl\"?>\n" +
         "<TEI.2>\n" +
         "<teiHeader></teiHeader>\n" +
         "<text>\n" +

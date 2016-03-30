@@ -81,9 +81,10 @@ public class XmlBuilder
 
     String file =
         //"/tipitaka (mula)/vinayapitaka/parajikapali/veranjakandam";
-        //"/tipitaka (mula)/vinayapitaka/parajikapali/1. parajikakandam";
+        "/tipitaka (mula)/vinayapitaka/pacittiyapali/5. pacittiyakandam";
     //"/tipitaka (mula)/vinayapitaka/parajikapali/2. sanghadisesakandam";
-    "/tipitaka (mula)/vinayapitaka/mahavaggapali/4. pavaranakkhandhako";
+    //"/tipitaka (mula)/vinayapitaka/mahavaggapali/2. uposathakkhandhako";
+    //"/tipitaka (mula)/vinayapitaka/culavaggapali/3. samuccayakkhandhakam";
     visitor.accept(new OutputStreamWriter(System.out), new ScriptFactory().script("romn"), file);
     //File datafile = new File("../tipitaka-archive/target/data.xml");
     //visitor.accept(datafile, new ScriptFactory().script("romn"), file);
@@ -100,10 +101,11 @@ public class XmlBuilder
   public XmlBuilder(Writer writer, org.tipitaka.archive.BuilderFactory factory) {
     super(writer, factory);
     ObjectMapper xmlMapper = new XmlMapper();
-    //File file = new File("../tipitaka-archive/archive/notes/roman/tipitaka (mula)/vinayapitaka/parajikapali/1. parajikakandam-notes.xml");
+    File file = new File("../tipitaka-archive/archive/notes/roman/tipitaka (mula)/vinayapitaka/pacittiyapali/5. pacittiyakandam-notes.xml");
     //File file = new File("../tipitaka-archive/archive/notes/roman/tipitaka (mula)/vinayapitaka/parajikapali/2. sanghadisesakandam-notes.xml");
     //File file = new File("../tipitaka-archive/archive/notes/roman/tipitaka (mula)/vinayapitaka/parajikapali/veranjakandam-notes.xml");
-    File file = new File("../tipitaka-archive/archive/notes/roman/tipitaka (mula)/vinayapitaka/mahavaggapali/4. pavaranakkhandhako-notes.xml");
+    //File file = new File("../tipitaka-archive/archive/notes/roman/tipitaka (mula)/vinayapitaka/mahavaggapali/2. uposathakkhandhako-notes.xml");
+    //File file = new File("../tipitaka-archive/archive/notes/roman/tipitaka (mula)/vinayapitaka/culavaggapali/3. samuccayakkhandhakam-notes.xml");
     Notes notes = new Notes();
     if (file != null && file.exists()) {
       try {
@@ -237,12 +239,17 @@ public class XmlBuilder
           if (vri.endsWith("ti")) {
             vri = vri.substring(0, vri.length() - 2) + ".?.?ti";
           }
-          Pattern alternatives = Pattern.compile("(.*)"
-              + vri
-              .replace("]", "[\\]]").replace("[", "[\\[]")
-              .replace(")", "[)]").replace("(", "[(]").replace(" ", "[;,– ‘]+") + "([,. –’]*)$");
+          vri = vri.replace("]", "[\\]]").replace("[", "[\\[]")
+              .replace(")", "[)]").replace("(", "[(]").replace(" ", "[;,– ‘]+");
+          Pattern alternatives = Pattern.compile("(.*[,. –‘]|^)" + vri + "([,. –’]*)$");
           Matcher matcher = alternatives.matcher(text);
-          //System.err.println(vri + " | " + alternatives + " | " + text);
+          //if (!matcher.matches()) {
+            //System.err.println(matcher);
+            //alternatives = Pattern.compile("(.*)" + vri + "([,. –’]*)$");
+            //matcher = alternatives.matcher(text);
+          //}
+          //System.err.println("\n" + vri + " | " + alternatives + " | " + text);
+          //System.err.println(note);
           if (matcher.matches()) {
             state.append(matcher.group(1));
             state.append("<alternatives line=\"").append(note.line)
