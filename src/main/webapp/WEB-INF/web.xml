@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<web-app>
+
+  <servlet>
+    <servlet-name>tei</servlet-name>
+    <servlet-class>org.tipitaka.archive.servlets.TeiServlet</servlet-class>
+  </servlet>
+
+  <servlet-mapping>
+    <servlet-name>tei</servlet-name>
+    <url-pattern>*.tei</url-pattern>
+  </servlet-mapping>
+  
+</web-app>
