@@ -6,6 +6,7 @@ import java.io.Writer;
 
 import org.tipitaka.search.DirectoryStructure;
 import org.tipitaka.search.Script;
+import org.tipitaka.search.ScriptFactory;
 import org.tipitaka.search.TipitakaUrlFactory;
 
 /**
@@ -20,6 +21,8 @@ public abstract class BuilderFactory<T extends BaseBuilder>
 
   private final File archiveDirectory;
 
+  private final ScriptFactory scriptFactory;
+
   public BuilderFactory() throws IOException {
     this(new Layout());
   }
@@ -30,6 +33,7 @@ public abstract class BuilderFactory<T extends BaseBuilder>
     this.directory = new DirectoryStructure(urlFactory);
     this.directory.load(layout.directoryMap());
     this.archiveDirectory = layout.dataArchive();
+    this.scriptFactory = new ScriptFactory(layout.scriptDirectory().getAbsolutePath() + "/");
   }
 
   public File getArchiveDirectory() {
@@ -42,6 +46,10 @@ public abstract class BuilderFactory<T extends BaseBuilder>
 
   public TipitakaUrlFactory getUrlFactory() {
     return urlFactory;
+  }
+
+  public Script script(String name) throws IOException {
+    return scriptFactory.script(name);
   }
 
   public abstract T create(Writer writer);

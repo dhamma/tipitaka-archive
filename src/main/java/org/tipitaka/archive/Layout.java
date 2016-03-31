@@ -23,6 +23,10 @@ public class Layout
   }
 
   public File directoryMap() {
-    return new File("../tipitaka-archive/archive/directory.map");
+    return new File(scriptDirectory(), "directory.map");
+  }
+
+  public File scriptDirectory() {
+    return new File("../tipitaka-archive/archive/");
   }
 }

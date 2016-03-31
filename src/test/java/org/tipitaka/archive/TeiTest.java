@@ -1,13 +1,14 @@
 package org.tipitaka.archive;
 
+import java.io.BufferedReader;
 import java.io.File;
 import java.io.IOException;
+import java.io.InputStream;
+import java.io.InputStreamReader;
 import java.io.StringWriter;
 import java.net.URL;
 import java.util.Arrays;
-import java.util.List;
 
-import org.apache.commons.io.IOUtils;
 import org.junit.Before;
 import org.junit.Test;
 import org.tipitaka.search.Script;
@@ -29,7 +30,7 @@ public class TeiTest
   public void setup() throws Exception {
     factory = new TeiNGBuilder.BuilderFactory();
     visitor = new NGVisitor(factory);
-    script = new ScriptFactory().script("romn");
+    script = factory.script("romn");
   }
 
   //@Test
@@ -106,6 +107,7 @@ public class TeiTest
 
   private String normalize(String string) {
     return string
+        .replace("/tipitaka-latn.xs", "tipitaka-latn.xs")
         // notes inside quotes
         .replaceAll("’’<note>", "<note>")
         .replaceAll("</note>’’", "</note>")
@@ -179,21 +181,24 @@ public class TeiTest
         ;
   }
 
-  private void assertTei(final String path, Integer... skip) throws IOException {StringWriter writer = new StringWriter();
+  private void assertTei(final String path, Integer... skip) throws IOException {
+    StringWriter writer = new StringWriter();
     visitor.accept(writer, script, path);
 
     URL source = factory.getUrlFactory().sourceURL(script, factory.getDirectory().fileOf(path));
 
-    List<String> expected = IOUtils.readLines(source.openStream(), "utf-16");
     int index = 0;
-    String[] result = writer.toString().split("\n");
-    for(String exp : expected) {
-      index++;
-      if (Arrays.asList(skip).indexOf(index) == -1) {
-        String res = normalize(result[index - 1]);
-        assertThat(path + " line " + index, res, is(normalize(exp)));
+    try (InputStream is = source.openStream()) {
+      BufferedReader reader = new BufferedReader(new InputStreamReader(is, "utf-16"));
+      String[] result = writer.toString().split("\n");
+      for (String exp = reader.readLine(); exp != null; exp = reader.readLine()) {//expected) {
+        index++;
+        if (Arrays.asList(skip).indexOf(index) == -1) {
+          String res = normalize(result[index - 1]);
+          assertThat(path + " line " + index, res, is(normalize(exp)));
+        }
       }
+      if (skip.length > 0) System.err.println("\t" + path + "\n\t" + Arrays.asList(skip));
     }
-    if (skip.length > 0) System.err.println("\t" + path + "\n\t" + Arrays.asList(skip));
   }
 }

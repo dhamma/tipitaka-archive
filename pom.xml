@@ -6,7 +6,30 @@
   <version>1.0-SNAPSHOT</version>
   <packaging>war</packaging>
   <name>Tipitaka Archive</name>
-  <url>http://tipitaka.org</url>
+  <url>http://tipitaka.de</url>
+  
+  <licenses>
+    <license>
+      <name>AGPL</name>
+    </license>
+  </licenses>
+  <developers>
+    <developer>
+      <name>Christian Meier</name>
+      <email>m.kristian@web.de</email>
+    </developer>
+  </developers>
+  
+  <scm>
+    <connection>scm:git:git://github.com/tipitaka-org/tipitaka-archive.git</connection>
+    <developerConnection>scm:git:git@github.com:tipitaka-org/tipitaka-archive.git</developerConnection>
+    <url>https://github.com/tipitaka-org/tipitaka-archive</url>
+  </scm>
+
+  <properties>
+    <maven.build.timestamp.format>yyyy-MM-dd</maven.build.timestamp.format>
+  </properties>
+  
   <dependencies>
     <dependency>
       <groupId>javax.servlet</groupId>
@@ -21,6 +44,14 @@
 	<exclusion>
 	  <groupId>org.apache.solr</groupId>
 	  <artifactId>solr</artifactId>
+	</exclusion>
+	<exclusion>
+	  <groupId>org.apache.solr</groupId>
+	  <artifactId>solr-core</artifactId>
+	</exclusion>
+	<exclusion>
+	  <groupId>org.apache.zookeeper</groupId>
+	  <artifactId>zookeeper</artifactId>
 	</exclusion>
       </exclusions>
     </dependency>
@@ -49,7 +80,25 @@
   </dependencies>
 
   <build>
+    <finalName>${project.artifactId}-${maven.build.timestamp}-r${buildNumber}</finalName>
     <plugins>
+      <plugin>
+        <groupId>org.codehaus.mojo</groupId>
+        <artifactId>buildnumber-maven-plugin</artifactId>
+        <version>1.4</version>
+        <configuration>
+	  <shortRevisionLength>5</shortRevisionLength>
+        </configuration>
+        <executions>
+          <execution>
+            <phase>prepare-package</phase>
+            <goals>
+              <goal>create</goal>
+            </goals>
+          </execution>
+        </executions>
+      </plugin>
+      
       <plugin>
         <artifactId>maven-compiler-plugin</artifactId>
 	<version>3.1</version>
@@ -66,12 +115,29 @@
         <configuration>
 	  <webApp>
 	    <resourceBases>
-	      <resourceBase>../tipitaka-search/archive</resourceBase>
 	      <resourceBase>archive/data</resourceBase>
 	      <resourceBase>archive/static</resourceBase>
+	      <resourceBase>archive</resourceBase>
+	      <resourceBase>../tipitaka-search/archive</resourceBase>
 	    </resourceBases>
 	  </webApp>
           <scanIntervalSeconds>10</scanIntervalSeconds>
+        </configuration>
+      </plugin>
+
+      <plugin>
+        <artifactId>maven-war-plugin</artifactId>
+        <configuration>
+	  <webResources>
+	    <webResource>
+	      <directory>${project.basedir}/archive</directory>
+	      <includes>
+		<include>*.script</include>
+		<include>directory.map</include>
+	      </includes>
+	      <targetPath>WEB-INF</targetPath>
+	    </webResource>
+	  </webResources>
         </configuration>
       </plugin>
     </plugins>

@@ -2,6 +2,8 @@ package org.tipitaka.archive.servlets;
 
 import java.io.FileNotFoundException;
 import java.io.IOException;
+import java.net.MalformedURLException;
+import java.net.URL;
 import java.nio.file.Path;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
@@ -12,6 +14,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
 import org.tipitaka.archive.BuilderFactory;
+import org.tipitaka.archive.Layout;
 import org.tipitaka.archive.NGVisitor;
 import org.tipitaka.archive.TeiNGBuilder;
 import org.tipitaka.search.Script;
@@ -24,14 +27,15 @@ import org.xmlpull.v1.XmlPullParserException;
 public class TeiServlet extends HttpServlet
 {
 
-  NGVisitor visitor;
-  ScriptFactory scripts;
+  private NGVisitor visitor;
+  private BuilderFactory factory;
 
   @Override
   public void init() throws ServletException {
     try {
-      visitor = new NGVisitor(new TeiNGBuilder.BuilderFactory());
-      scripts = new ScriptFactory();
+      Layout layout = new ServletLayout(getServletContext());
+      factory = new TeiNGBuilder.BuilderFactory(layout);
+      visitor = new NGVisitor(factory);
     }
     catch (IOException | XmlPullParserException e) {
       throw new ServletException(e);
@@ -49,10 +53,11 @@ public class TeiServlet extends HttpServlet
       resp.setStatus(HttpServletResponse.SC_NOT_FOUND);
     }
     else {
-      resp.setCharacterEncoding("UTF-8");
+      resp.setCharacterEncoding("UTF-16");
       resp.setContentType("application/xml");
+      resp.setHeader("X-Robots-Tag", "noindex, nofollow");
       visitor.accept(resp.getWriter(),
-          scripts.script(matcher.group(1)),
+          factory.script(matcher.group(1)),
           matcher.group(2));
     }
   }
