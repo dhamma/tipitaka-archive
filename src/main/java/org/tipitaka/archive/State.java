@@ -3,7 +3,6 @@ package org.tipitaka.archive;
 import java.io.IOException;
 import java.io.Writer;
 import java.util.LinkedList;
-import java.util.List;
 
 import org.tipitaka.archive.Notes.Note;
 

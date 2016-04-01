@@ -16,8 +16,6 @@ import com.fasterxml.jackson.dataformat.xml.XmlMapper;
 import org.tipitaka.archive.Notes.Note;
 import org.tipitaka.archive.Notes.Type;
 import org.tipitaka.archive.Notes.Version;
-import org.tipitaka.search.Script;
-import org.tipitaka.search.ScriptFactory;
 
 
 public class NoteBuilder

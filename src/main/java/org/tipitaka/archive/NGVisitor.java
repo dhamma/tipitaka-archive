@@ -8,8 +8,6 @@ import java.io.Reader;
 import java.io.Writer;
 import java.net.URL;
 
-import org.tipitaka.archive.Notes.Version;
-import org.tipitaka.search.Script;
 import org.xmlpull.v1.XmlPullParser;
 import org.xmlpull.v1.XmlPullParserException;
 import org.xmlpull.v1.XmlPullParserFactory;
@@ -42,7 +40,7 @@ public class NGVisitor implements Visitor<NGBuilder>
   }
 
   public void accept(Writer writer, Script script, String path) throws IOException {
-    accept( builders.create(writer), script, path);
+    accept(builders.create(writer), script, path);
   }
 
   public void accept(NGBuilder builder, Script script, String path) throws IOException {
@@ -102,7 +100,8 @@ public class NGVisitor implements Visitor<NGBuilder>
         state = State.TITLE;
         return;
       case "body":
-        builder.startBody();
+      case "content":
+        builder.startContent();
         return;
       case "nikaya":
         builder.startNikaya();
@@ -201,7 +200,8 @@ public class NGVisitor implements Visitor<NGBuilder>
       case "titlePath":
         return;
       case "body":
-        builder.endBody();
+      case "content":
+        builder.endContent();
         return;
       case "nikaya":
         builder.endNikaya();

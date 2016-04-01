@@ -4,11 +4,6 @@ import java.io.File;
 import java.io.IOException;
 import java.io.Writer;
 
-import org.tipitaka.search.DirectoryStructure;
-import org.tipitaka.search.Script;
-import org.tipitaka.search.ScriptFactory;
-import org.tipitaka.search.TipitakaUrlFactory;
-
 /**
  * Created by cmeier on 3/6/16.
  */
@@ -33,7 +28,7 @@ public abstract class BuilderFactory<T extends BaseBuilder>
     this.directory = new DirectoryStructure(urlFactory);
     this.directory.load(layout.directoryMap());
     this.archiveDirectory = layout.dataArchive();
-    this.scriptFactory = new ScriptFactory(layout.scriptDirectory().getAbsolutePath() + "/");
+    this.scriptFactory = new ScriptFactory(layout);
   }
 
   public File getArchiveDirectory() {

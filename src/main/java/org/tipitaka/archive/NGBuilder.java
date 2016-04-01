@@ -2,8 +2,6 @@ package org.tipitaka.archive;
 
 import java.io.IOException;
 
-import org.tipitaka.archive.Notes.Version;
-
 /**
  * Created by cmeier on 3/6/16.
  */
@@ -20,8 +18,8 @@ public interface NGBuilder extends BaseBuilder
   void archivePath(String path);
   void title(String title);
 
-  void startBody() throws IOException;
-  void endBody() throws IOException;
+  void startContent() throws IOException;
+  void endContent() throws IOException;
 
   void startNikaya() throws IOException;
   void endNikaya() throws IOException;

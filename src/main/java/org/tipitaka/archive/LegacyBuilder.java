@@ -1,11 +1,6 @@
 package org.tipitaka.archive;
 
-import java.io.Closeable;
-import java.io.File;
 import java.io.IOException;
-import java.io.Writer;
-
-import org.tipitaka.search.Script;
 
 /**
  * Created by cmeier on 3/6/16.

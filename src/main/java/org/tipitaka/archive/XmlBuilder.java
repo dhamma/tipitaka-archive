@@ -20,8 +20,6 @@ import com.fasterxml.jackson.dataformat.xml.XmlMapper;
 import org.tipitaka.archive.Notes.Alternative;
 import org.tipitaka.archive.Notes.Note;
 import org.tipitaka.archive.Notes.Type;
-import org.tipitaka.search.Script;
-import org.tipitaka.search.ScriptFactory;
 
 public class XmlBuilder
      extends NoopLegacyBuilder
@@ -113,6 +111,7 @@ public class XmlBuilder
       }
       catch (IOException e) {
         // ignore and create a new one, could be empty notes
+        e.printStackTrace();
       }
     }
     this.notes = notes;
@@ -141,19 +140,28 @@ public class XmlBuilder
   public void documentStart(Script script, String path) throws IOException {
     String legacy = this.factory.getDirectory().fileOf(path);
     URL url = this.factory.getUrlFactory().normativeURL(script, legacy);
-    state.append("<?xml version=\"1.0\"?>\n").append("<document>\n<metadata>\n");
+    state.append("<?xml version=\"1.0\" encoding=\"utf-8\"?>\n").append("<document>\n  <metadata>\n");
 
-    state.append("<normativeSource>").append(url.toString()).append("</normativeSource>\n");
-    state.append("<archivePath>").append(factory.archivePath(script, path).getPath()).append("</archivePath>\n");
+    state.append("    <normativeSource>").append(url.toString()).append("</normativeSource>\n");
+    File archivePath = factory.archivePath(script, path);
+    state.append("    <archivePath>").append(archivePath.getPath()).append("</archivePath>\n");
+    state.append("    <baseFileName>").append(archivePath.getName().replace(".xml", "")).append("</baseFileName>\n");
+    state.append("    ");
 
     appendTitle(factory.getDirectory().breadCrumbs(script, path));
 
-    state.append("\n</metadata>\n");
-    state.append("<body>\n");
+    state.append("\n").append("    <versions>\n");
+    for (Map.Entry<String, String> entry: notes.getVersions().entrySet()) {
+      state.append("      <version source=\"").append(entry.getValue()).append("\" source-abbr=\"")
+          .append(entry.getKey()).append("\"/>\n");
+    }
+    state.append("    </versions>\n");
+    state.append("  </metadata>\n");
+    state.append("  <content>\n");
   }
 
   public void documentEnd() throws IOException {
-    state.append("</body>\n</document>");
+    state.append("  </content>\n</document>");
   }
 
   public  void highlightStart(String name) throws IOException {
@@ -182,7 +190,7 @@ public class XmlBuilder
     else if ("centre".equals(name)) {
       name = "centered";
     }
-    state.append("<").append(name).append(" line=\"").append(lineNumber).append("\"");
+    state.append("    <").append(name).append(" line=\"").append(lineNumber).append("\"");
     if (number != null) {
       state.append(" number=\"").append(number).append("\"");
     }

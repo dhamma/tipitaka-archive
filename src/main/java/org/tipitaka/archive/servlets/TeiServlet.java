@@ -1,10 +1,6 @@
 package org.tipitaka.archive.servlets;
 
-import java.io.FileNotFoundException;
 import java.io.IOException;
-import java.net.MalformedURLException;
-import java.net.URL;
-import java.nio.file.Path;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
@@ -15,10 +11,9 @@ import javax.servlet.http.HttpServletResponse;
 
 import org.tipitaka.archive.BuilderFactory;
 import org.tipitaka.archive.Layout;
+import org.tipitaka.archive.NGBuilder;
 import org.tipitaka.archive.NGVisitor;
 import org.tipitaka.archive.TeiNGBuilder;
-import org.tipitaka.search.Script;
-import org.tipitaka.search.ScriptFactory;
 import org.xmlpull.v1.XmlPullParserException;
 
 /**
@@ -28,7 +23,7 @@ public class TeiServlet extends HttpServlet
 {
 
   private NGVisitor visitor;
-  private BuilderFactory factory;
+  private BuilderFactory<NGBuilder> factory;
 
   @Override
   public void init() throws ServletException {

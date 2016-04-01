@@ -72,6 +72,14 @@ public class Notes
 
     public String previous;
 
+    public void setExtra(String value) {
+      if (value == null || "null".equals(value)) {
+        extra = "";
+      }
+      else {
+        extra = value;
+      }
+    }
     //String getKey() {
     //  return referenceLine + " " + original;
     //}
@@ -205,6 +213,7 @@ public class Notes
 
   Map<String, List<Note>> perLine = new LinkedHashMap<>();
   List<Note> notes = new LinkedList<>();
+  Map<String, String> versions = new LinkedHashMap<>();
 
   @JacksonXmlProperty(localName = "note")
   public void addNote(Note note) {
@@ -212,13 +221,21 @@ public class Notes
       throw new IllegalArgumentException("mismatched id: " + note + " expected " + notes.size());
     }
     this.notes.add(note);
-
+    if (note.alternatives != null) {
+      for (Alternative alt: note.alternatives) {
+        versions.putIfAbsent(alt.sourceAbbreviation, alt.source);
+      }
+    }
     List<Note> notes = perLine.get(note.referenceLine);
     if (notes == null) {
       notes = new LinkedList<>();
       perLine.put(note.referenceLine, notes);
     }
     notes.add(note);
+  }
+
+  public Map<String, String> getVersions(){
+    return Collections.unmodifiableMap(versions);
   }
 
   public Note get(final int id) {

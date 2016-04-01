@@ -2,8 +2,6 @@ package org.tipitaka.archive;
 
 import java.io.File;
 import java.io.FileOutputStream;
-import java.io.FileReader;
-import java.io.FileWriter;
 import java.io.IOException;
 import java.io.OutputStreamWriter;
 import java.io.Writer;
@@ -12,8 +10,6 @@ import java.util.LinkedHashMap;
 import java.util.Map;
 
 import org.tipitaka.archive.Notes.Version;
-import org.tipitaka.search.Script;
-import org.tipitaka.search.ScriptFactory;
 
 public class TeiNGBuilder
     extends AbstractNGBuilder
@@ -138,11 +134,11 @@ public class TeiNGBuilder
   }
 
   @Override
-  public void startBody() throws IOException {
+  public void startContent() throws IOException {
   }
 
   @Override
-  public void endBody() throws IOException {
+  public void endContent() throws IOException {
 
   }
 

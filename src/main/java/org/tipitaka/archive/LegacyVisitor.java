@@ -8,7 +8,6 @@ import java.io.Reader;
 import java.io.Writer;
 import java.net.URL;
 
-import org.tipitaka.search.Script;
 import org.xmlpull.v1.XmlPullParser;
 import org.xmlpull.v1.XmlPullParserException;
 import org.xmlpull.v1.XmlPullParserFactory;
