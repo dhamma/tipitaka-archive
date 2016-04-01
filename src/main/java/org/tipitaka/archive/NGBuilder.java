@@ -51,7 +51,7 @@ public interface NGBuilder extends BaseBuilder
   void startGatha(String number) throws IOException;
   void endGatha(String substring) throws IOException;
 
-  void pageBreak(String edition, String number) throws IOException;
+  void pageBreak(Edition edition, String number) throws IOException;
 
   void startNote() throws IOException;
   void endNote() throws IOException;
@@ -59,10 +59,15 @@ public interface NGBuilder extends BaseBuilder
   void startAlternatives(final String extra, final boolean hasSeparator) throws IOException;
   void endAlternatives() throws IOException;
 
-  void beginAlternative(String source);
+  void beginAlternative(final String abbr, String source);
   void finalizeAlternative(String text);
 
   void startTitle() throws IOException;
   void endTitle() throws IOException;
+
+  void startVersions();
+  void addVersion(String abbr, String source);
+  void endVersions();
+
 }
 

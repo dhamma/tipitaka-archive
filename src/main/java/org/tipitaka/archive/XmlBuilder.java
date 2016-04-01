@@ -291,7 +291,7 @@ public class XmlBuilder
   }
 
   public void pageBreak(String edition, String number) throws IOException {
-    // TODO make enum for edition
-    state.append("<pageBreak edition=\"").append(edition).append("\" number=\"").append(number).append("\" />");
+    state.append("<pageBreak edition=\"").append(Edition.from(edition).display())
+        .append("\" number=\"").append(number).append("\" />");
   }
 }

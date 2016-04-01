@@ -77,7 +77,7 @@ public class NGVisitor implements Visitor<NGBuilder>
   }
 
   enum State {
-    NORMATIVE, ARCHIVE, TITLE, ALTERNATIVE
+    NORMATIVE, ARCHIVE, TITLE, BASENAME, ALTERNATIVE
   }
   private State state = null;
 
@@ -93,13 +93,15 @@ public class NGVisitor implements Visitor<NGBuilder>
       case "normativeSource":
         state = State.NORMATIVE;
         return;
+      case "baseFileName":
+        state = State.BASENAME;
+        return;
       case "archivePath":
         state = State.ARCHIVE;
         return;
       case "titlePath":
         state = State.TITLE;
         return;
-      case "body":
       case "content":
         builder.startContent();
         return;
@@ -147,7 +149,7 @@ public class NGVisitor implements Visitor<NGBuilder>
       case "pageBreak":
         number = xpp.getAttributeValue(null, "number");
         String edition = xpp.getAttributeValue(null, "edition");
-        builder.pageBreak(edition, number);
+        builder.pageBreak(Edition.from(edition), number);
         return;
       case "alternatives":
         String extra = xpp.getAttributeValue(null, "extra");
@@ -155,9 +157,18 @@ public class NGVisitor implements Visitor<NGBuilder>
         builder.startAlternatives(extra, "true".equals(separator));
         return;
       case "alternative":
-        String source = xpp.getAttributeValue(null, "source-abbr");
-        builder.beginAlternative(source);
+        String abbr = xpp.getAttributeValue(null, "source-abbr");
+        String source = xpp.getAttributeValue(null, "source");
+        builder.beginAlternative(abbr, source);
         state = State.ALTERNATIVE;
+        return;
+      case "versions":
+        builder.startVersions();
+        return;
+      case "version":
+        abbr = xpp.getAttributeValue(null, "source-abbr");
+        source = xpp.getAttributeValue(null, "source");
+        builder.addVersion(abbr, source);
         return;
       default:
         System.err.println("TODO " + name);
@@ -197,9 +208,10 @@ public class NGVisitor implements Visitor<NGBuilder>
         return;
       case "normativeSource":
       case "archivePath":
+      case "baseFileName":
+      case "version":
       case "titlePath":
         return;
-      case "body":
       case "content":
         builder.endContent();
         return;
@@ -249,6 +261,9 @@ public class NGVisitor implements Visitor<NGBuilder>
         return;
       case "alternative":
         state = null;
+        return;
+      case "versions":
+        builder.endVersions();
         return;
       default:
         System.err.println("TODO " + name);

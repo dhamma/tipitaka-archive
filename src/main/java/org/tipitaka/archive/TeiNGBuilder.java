@@ -271,8 +271,8 @@ public class TeiNGBuilder
   }
 
   @Override
-  public void pageBreak(final String edition, final String number) throws IOException {
-    state.append("<pb ed=\"").append(edition).append("\" n=\"").append(number).append("\" />");
+  public void pageBreak(final Edition edition, final String number) throws IOException {
+    state.append("<pb ed=\"").append(edition.name().substring(0, 1)).append("\" n=\"").append(number).append("\" />");
     needsSpace = true;
   }
 
@@ -354,8 +354,8 @@ public class TeiNGBuilder
   }
 
   @Override
-  public void beginAlternative(final String source) {
-    this.source = source;
+  public void beginAlternative(final String abbr, final String source) {
+    this.source = abbr;
   }
 
   @Override
@@ -376,5 +376,17 @@ public class TeiNGBuilder
   @Override
   public void endTitle() throws IOException {
     endP();
+  }
+
+  @Override
+  public void startVersions() {
+  }
+
+  @Override
+  public void addVersion(final String abbr, final String source) {
+  }
+
+  @Override
+  public void endVersions() {
   }
 }
