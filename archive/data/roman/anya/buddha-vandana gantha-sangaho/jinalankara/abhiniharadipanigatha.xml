@@ -1,59 +1,62 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="utf-8"?>
 <document>
-<metadata>
-<normativeSource>http://tipitaka.org/romn/cscd/e0605n.nrf4.xml</normativeSource>
-<archivePath>roman/anya/buddha-vandana gantha-sangaho/jinalankara/abhiniharadipanigatha.xml</archivePath>
-<titlePath>Abhinīhāradīpanīgāthā - Jinālaṅkāra - Buddha-vandanā gantha-saṅgaho - Anya</titlePath>
-</metadata>
-<body>
-<chapter line="1">Abhinīhāradīpanīgāthā</chapter>
-<hangnum line="2" number="13"></hangnum>
-<gatha1 line="3"> Vadetha tassīdha anappakaṃ guṇaṃ,</gatha1>
-<gatha2 line="4">Na tena tulyo paramo ca vijjati;</gatha2>
-<gatha3 line="5">Kiṃ taṃ guṇaṃ taṃ sadisena dinnaṃ,</gatha3>
-<gathalast line="6">Sayaṃkataṃ kinnu adhiccaladdhaṃ.</gathalast>
-<hangnum line="7" number="14"></hangnum>
-<gatha1 line="8"> Nādhiccaladdhaṃ na ca pubbabuddhā,</gatha1>
-<gatha2 line="9">Brahmādinaṃ sammutiyā bahūnaṃ;</gatha2>
-<gatha3 line="10">Sayaṃkateneva anopamena,</gatha3>
-<gathalast line="11">Dānādinā laddhamidaṃ vipākaṃ.</gathalast>
-<hangnum line="12" number="15"></hangnum>
-<gatha1 line="13"> Ito catunnaṃ asaṅkhiyānaṃ,</gatha1>
-<gatha2 line="14">Sataṃsahassānadhikānamatthake;</gatha2>
-<gatha3 line="15">Kappe atītamhi sumedhatāpaso,</gatha3>
-<gathalast line="16">Vehāyasaṃ gacchati iddhiyā tadā.</gathalast>
-<hangnum line="17" number="16"></hangnum>
-<gatha1 line="18"> Dipaṅkaro nāma jino sasaṅgho,</gatha1>
-<gatha2 line="19">Rammaṃ puraṃ yāti virocamāno;</gatha2>
-<gatha3 line="20">Manussadevehibhipūjiyanto,</gatha3>
-<gathalast line="21">Sahassaraṃsi viya bhāṇumā nabhe.</gathalast>
-<hangnum line="22" number="17"></hangnum>
-<gatha1 line="23"> Tassañjasaṃ kātubahussahānaṃ,</gatha1>
-<gatha2 line="24">Buddhoti sutvā sumano patīto;</gatha2>
-<gatha3 line="25">Mamajja dehaṃ panimassa datvā,</gatha3>
-<gathalast line="26">Buddho ahaṃ hessamanāgatediso.</gathalast>
-<hangnum line="27" number="18"></hangnum>
-<gatha1 line="28"> Tasmiñjase kandaratamhi paṅke,</gatha1>
-<gatha2 line="29">Katvāna setuṃ sayi so sadehaṃ;</gatha2>
-<gatha3 line="30">Buddho ayaṃ gacchatu piṭṭhiyā mamaṃ,</gatha3>
-<gathalast line="31">Bodhissace hessati me anāgate.</gathalast>
-<hangnum line="32" number="19"></hangnum>
-<gatha1 line="33"> Ussīsakaṃ yāti jino hi tassa,</gatha1>
-<gatha2 line="34">Ajjhāsayo sijjhatimassanāgate;</gatha2>
-<gatha3 line="35">Ñatvāna byākāsi asesato hi,</gatha3>
-<gathalast line="36">Buddho ayaṃ hessatināgatesu.</gathalast>
-<hangnum line="37" number="20"></hangnum>
-<gatha1 line="38"> Sutvāna patto va mahābhisekaṃ,</gatha1>
-<gatha2 line="39">Laddhaṃ va bodhiṃ samanussaranto;</gatha2>
-<gatha3 line="40">Pūjetvā yāte munidevamānuse,</gatha3>
-<gathalast line="41">Uṭṭhāya so sammasi pāramī dasa.</gathalast>
-<hangnum line="42" number="21"></hangnum>
-<gatha1 line="43"> Daḷhaṃ gahetvā samatiṃsapāramī,</gatha1>
-<gatha2 line="44">Sikkhattayañcassa jinassa santike;</gatha2>
-<gatha3 line="45">Kātuṃ samattho pi bhavassa pāraṃ,</gatha3>
-<gathalast line="46">Sattesu kāruññabalā bhavaṃ gato.</gathalast>
-<hangnum line="47" number="22"></hangnum>
-<gatha1 line="48"> Uppannuppannake so jinavaramatule pūjayitvā asesaṃ buddho eso hi oso bhavati niyamato byākato tehi tehi tesaṃ tesaṃ jinānaṃ acanamanupamaṃ pūjayitvā sirena,</gatha1>
-<gathalast line="49">Taṃ taṃ dukkhaṃ sahitvā sakalaguṇadadaṃ pāramī pūrayittha.</gathalast>
-</body>
+  <metadata>
+    <normativeSource>http://tipitaka.org/romn/cscd/e0605n.nrf4.xml</normativeSource>
+    <archivePath>roman/anya/buddha-vandana gantha-sangaho/jinalankara/abhiniharadipanigatha.xml</archivePath>
+    <baseFileName>abhiniharadipanigatha</baseFileName>
+    <titlePath>Abhinīhāradīpanīgāthā - Jinālaṅkāra - Buddha-vandanā gantha-saṅgaho - Anya</titlePath>
+    <versions>
+    </versions>
+  </metadata>
+  <content>
+    <chapter line="1">Abhinīhāradīpanīgāthā</chapter>
+    <hangnum line="2" number="13"></hangnum>
+    <gatha1 line="3"> Vadetha tassīdha anappakaṃ guṇaṃ,</gatha1>
+    <gatha2 line="4">Na tena tulyo paramo ca vijjati;</gatha2>
+    <gatha3 line="5">Kiṃ taṃ guṇaṃ taṃ sadisena dinnaṃ,</gatha3>
+    <gathalast line="6">Sayaṃkataṃ kinnu adhiccaladdhaṃ.</gathalast>
+    <hangnum line="7" number="14"></hangnum>
+    <gatha1 line="8"> Nādhiccaladdhaṃ na ca pubbabuddhā,</gatha1>
+    <gatha2 line="9">Brahmādinaṃ sammutiyā bahūnaṃ;</gatha2>
+    <gatha3 line="10">Sayaṃkateneva anopamena,</gatha3>
+    <gathalast line="11">Dānādinā laddhamidaṃ vipākaṃ.</gathalast>
+    <hangnum line="12" number="15"></hangnum>
+    <gatha1 line="13"> Ito catunnaṃ asaṅkhiyānaṃ,</gatha1>
+    <gatha2 line="14">Sataṃsahassānadhikānamatthake;</gatha2>
+    <gatha3 line="15">Kappe atītamhi sumedhatāpaso,</gatha3>
+    <gathalast line="16">Vehāyasaṃ gacchati iddhiyā tadā.</gathalast>
+    <hangnum line="17" number="16"></hangnum>
+    <gatha1 line="18"> Dipaṅkaro nāma jino sasaṅgho,</gatha1>
+    <gatha2 line="19">Rammaṃ puraṃ yāti virocamāno;</gatha2>
+    <gatha3 line="20">Manussadevehibhipūjiyanto,</gatha3>
+    <gathalast line="21">Sahassaraṃsi viya bhāṇumā nabhe.</gathalast>
+    <hangnum line="22" number="17"></hangnum>
+    <gatha1 line="23"> Tassañjasaṃ kātubahussahānaṃ,</gatha1>
+    <gatha2 line="24">Buddhoti sutvā sumano patīto;</gatha2>
+    <gatha3 line="25">Mamajja dehaṃ panimassa datvā,</gatha3>
+    <gathalast line="26">Buddho ahaṃ hessamanāgatediso.</gathalast>
+    <hangnum line="27" number="18"></hangnum>
+    <gatha1 line="28"> Tasmiñjase kandaratamhi paṅke,</gatha1>
+    <gatha2 line="29">Katvāna setuṃ sayi so sadehaṃ;</gatha2>
+    <gatha3 line="30">Buddho ayaṃ gacchatu piṭṭhiyā mamaṃ,</gatha3>
+    <gathalast line="31">Bodhissace hessati me anāgate.</gathalast>
+    <hangnum line="32" number="19"></hangnum>
+    <gatha1 line="33"> Ussīsakaṃ yāti jino hi tassa,</gatha1>
+    <gatha2 line="34">Ajjhāsayo sijjhatimassanāgate;</gatha2>
+    <gatha3 line="35">Ñatvāna byākāsi asesato hi,</gatha3>
+    <gathalast line="36">Buddho ayaṃ hessatināgatesu.</gathalast>
+    <hangnum line="37" number="20"></hangnum>
+    <gatha1 line="38"> Sutvāna patto va mahābhisekaṃ,</gatha1>
+    <gatha2 line="39">Laddhaṃ va bodhiṃ samanussaranto;</gatha2>
+    <gatha3 line="40">Pūjetvā yāte munidevamānuse,</gatha3>
+    <gathalast line="41">Uṭṭhāya so sammasi pāramī dasa.</gathalast>
+    <hangnum line="42" number="21"></hangnum>
+    <gatha1 line="43"> Daḷhaṃ gahetvā samatiṃsapāramī,</gatha1>
+    <gatha2 line="44">Sikkhattayañcassa jinassa santike;</gatha2>
+    <gatha3 line="45">Kātuṃ samattho pi bhavassa pāraṃ,</gatha3>
+    <gathalast line="46">Sattesu kāruññabalā bhavaṃ gato.</gathalast>
+    <hangnum line="47" number="22"></hangnum>
+    <gatha1 line="48"> Uppannuppannake so jinavaramatule pūjayitvā asesaṃ buddho eso hi oso bhavati niyamato byākato tehi tehi tesaṃ tesaṃ jinānaṃ acanamanupamaṃ pūjayitvā sirena,</gatha1>
+    <gathalast line="49">Taṃ taṃ dukkhaṃ sahitvā sakalaguṇadadaṃ pāramī pūrayittha.</gathalast>
+  </content>
 </document>

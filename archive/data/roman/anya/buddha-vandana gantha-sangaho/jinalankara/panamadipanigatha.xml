@@ -1,21 +1,24 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="utf-8"?>
 <document>
-<metadata>
-<normativeSource>http://tipitaka.org/romn/cscd/e0605n.nrf0.xml</normativeSource>
-<archivePath>roman/anya/buddha-vandana gantha-sangaho/jinalankara/panamadipanigatha.xml</archivePath>
-<titlePath>Paṇāmadīpanīgāthā - Jinālaṅkāra - Buddha-vandanā gantha-saṅgaho - Anya</titlePath>
-</metadata>
-<body>
-<centered line="1"> Namo tassa bhagavato arahato sammāsambuddhassa</centered>
-<book line="2">Jinālaṅkāra</book>
-<chapter line="3">Paṇāmadīpanīgāthā</chapter>
-<hangnum line="4" number="1"></hangnum>
-<gatha1 line="5"> Yo lokatthāya buddho dhanasutabhariyāaṅgajīve cajitvā pūretvā āramiyo tidasamanupame bodhipakkhīyadhamme,</gatha1>
-<gatha2 line="6">Patvā bodhiṃ visuddhaṃ sakalaguṇadadaṃ seṭṭhabhūto tiloke,</gatha2>
-<gathalast line="7">Katvā dukkhassa antaṃ katasubhajanataṃ dukkhato mocayittha.</gathalast>
-<hangnum line="8" number="2"></hangnum>
-<gatha1 line="9"> Natvānāhaṃ jinantaṃ samupacitasubhaṃ sabbalokekabandhuṃ,</gatha1>
-<gatha2 line="10">Nāhu yenapi tulyo kusalamahimato uttamo bhūtaloke tassevāyaṃ uvimhaṃ suvipulamamalaṃ bodhisambhārabhūtaṃ,</gatha2>
-<gathalast line="11">Hetuṃ hetvānurūpaṃ sugatagataphalaṃ bhāsato me suṇātha.</gathalast>
-</body>
+  <metadata>
+    <normativeSource>http://tipitaka.org/romn/cscd/e0605n.nrf0.xml</normativeSource>
+    <archivePath>roman/anya/buddha-vandana gantha-sangaho/jinalankara/panamadipanigatha.xml</archivePath>
+    <baseFileName>panamadipanigatha</baseFileName>
+    <titlePath>Paṇāmadīpanīgāthā - Jinālaṅkāra - Buddha-vandanā gantha-saṅgaho - Anya</titlePath>
+    <versions>
+    </versions>
+  </metadata>
+  <content>
+    <centered line="1"> Namo tassa bhagavato arahato sammāsambuddhassa</centered>
+    <book line="2">Jinālaṅkāra</book>
+    <chapter line="3">Paṇāmadīpanīgāthā</chapter>
+    <hangnum line="4" number="1"></hangnum>
+    <gatha1 line="5"> Yo lokatthāya buddho dhanasutabhariyāaṅgajīve cajitvā pūretvā āramiyo tidasamanupame bodhipakkhīyadhamme,</gatha1>
+    <gatha2 line="6">Patvā bodhiṃ visuddhaṃ sakalaguṇadadaṃ seṭṭhabhūto tiloke,</gatha2>
+    <gathalast line="7">Katvā dukkhassa antaṃ katasubhajanataṃ dukkhato mocayittha.</gathalast>
+    <hangnum line="8" number="2"></hangnum>
+    <gatha1 line="9"> Natvānāhaṃ jinantaṃ samupacitasubhaṃ sabbalokekabandhuṃ,</gatha1>
+    <gatha2 line="10">Nāhu yenapi tulyo kusalamahimato uttamo bhūtaloke tassevāyaṃ uvimhaṃ suvipulamamalaṃ bodhisambhārabhūtaṃ,</gatha2>
+    <gathalast line="11">Hetuṃ hetvānurūpaṃ sugatagataphalaṃ bhāsato me suṇātha.</gathalast>
+  </content>
 </document>

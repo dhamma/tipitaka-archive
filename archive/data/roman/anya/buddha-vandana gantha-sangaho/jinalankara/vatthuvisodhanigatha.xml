@@ -1,24 +1,27 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="utf-8"?>
 <document>
-<metadata>
-<normativeSource>http://tipitaka.org/romn/cscd/e0605n.nrf2.xml</normativeSource>
-<archivePath>roman/anya/buddha-vandana gantha-sangaho/jinalankara/vatthuvisodhanigatha.xml</archivePath>
-<titlePath>Vatthuvisodhanīgāthā - Jinālaṅkāra - Buddha-vandanā gantha-saṅgaho - Anya</titlePath>
-</metadata>
-<body>
-<chapter line="1">Vatthuvisodhanīgāthā</chapter>
-<hangnum line="2" number="4"></hangnum>
-<gatha1 line="3"> Buddhoti ko buddhaguṇo ti ko so,</gatha1>
-<gatha2 line="4">Acintayādittamupāgato yo;</gatha2>
-<gatha3 line="5">Anaññasādhāraṇabhūtamatthaṃ,</gatha3>
-<gathalast line="6">Akāsi kiṃ so kimavoca buddho.</gathalast>
-<hangnum line="7" number="5"></hangnum>
-<gatha1 line="8"> Visuddhakhandhasantāno buddhoti niyamo kato,</gatha1>
-<gathalast line="9">Khandhasantānasuddhī tu guṇoti niyamo kato.</gathalast>
-<hangnum line="10" number="6"></hangnum>
-<gatha1 line="11"> Akāsi kiccāni dinesu pañca,</gatha1>
-<gatha2 line="12">Pasādayañciddhibalena sena;</gatha2>
-<gatha3 line="13">Janānasesaṃ cariyānukūlaṃ,</gatha3>
-<gathalast line="14">Ñatvānavocānusayappahānaṃ.</gathalast>
-</body>
+  <metadata>
+    <normativeSource>http://tipitaka.org/romn/cscd/e0605n.nrf2.xml</normativeSource>
+    <archivePath>roman/anya/buddha-vandana gantha-sangaho/jinalankara/vatthuvisodhanigatha.xml</archivePath>
+    <baseFileName>vatthuvisodhanigatha</baseFileName>
+    <titlePath>Vatthuvisodhanīgāthā - Jinālaṅkāra - Buddha-vandanā gantha-saṅgaho - Anya</titlePath>
+    <versions>
+    </versions>
+  </metadata>
+  <content>
+    <chapter line="1">Vatthuvisodhanīgāthā</chapter>
+    <hangnum line="2" number="4"></hangnum>
+    <gatha1 line="3"> Buddhoti ko buddhaguṇo ti ko so,</gatha1>
+    <gatha2 line="4">Acintayādittamupāgato yo;</gatha2>
+    <gatha3 line="5">Anaññasādhāraṇabhūtamatthaṃ,</gatha3>
+    <gathalast line="6">Akāsi kiṃ so kimavoca buddho.</gathalast>
+    <hangnum line="7" number="5"></hangnum>
+    <gatha1 line="8"> Visuddhakhandhasantāno buddhoti niyamo kato,</gatha1>
+    <gathalast line="9">Khandhasantānasuddhī tu guṇoti niyamo kato.</gathalast>
+    <hangnum line="10" number="6"></hangnum>
+    <gatha1 line="11"> Akāsi kiccāni dinesu pañca,</gatha1>
+    <gatha2 line="12">Pasādayañciddhibalena sena;</gatha2>
+    <gatha3 line="13">Janānasesaṃ cariyānukūlaṃ,</gatha3>
+    <gathalast line="14">Ñatvānavocānusayappahānaṃ.</gathalast>
+  </content>
 </document>

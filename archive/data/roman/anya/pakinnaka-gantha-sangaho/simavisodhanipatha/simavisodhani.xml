@@ -1,45 +1,48 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="utf-8"?>
 <document>
-<metadata>
-<normativeSource>http://tipitaka.org/romn/cscd/e1102n.nrf0.xml</normativeSource>
-<archivePath>roman/anya/pakinnaka-gantha-sangaho/simavisodhanipatha/simavisodhani.xml</archivePath>
-<titlePath>Sīmavisodhanī - Sīmavisodhanīpāṭha - Pakiṇṇaka-gantha-saṅgaho - Anya</titlePath>
-</metadata>
-<body>
-<centered line="1">Namo tassa bhagavato arahato sammāsambuddhassa.</centered>
-<book line="2">Sīmavisodhanī</book>
-<gatha1 line="3">Varadaṃ <pageBreak edition="M" number="0.0005" /> varadaṃ aggaṃ, diccaṃ diccaṃva vanajaṃ;</gatha1>
-<gathalast line="4">Bodhakaṃ bodhakaṃ pāṇaṃ, deva’devaṃ namāma’haṃ.</gathalast>
-<gatha1 line="5">Santaṃ santaṃ sadā vaṭṭaṃ, pajaṃ’bhave sutaṃ;</gatha1>
-<gathalast line="6">Nibbudaṃ nibbudaṃ tāraṃ, dhammavaraṃ namāma’haṃ.</gathalast>
-<gatha1 line="7">Sutaṃ sutaṃ bhavane yaṃ, natanaṃ natanā’rahaṃ;</gatha1>
-<gathalast line="8">Narā’narā sadā’kaṃsu, saṅghavaraṃ namāma’haṃ.</gathalast>
-<gatha1 line="9">Icceva’maccantanatassaneyyaṃ, natayyamāno ratanattayaṃ yaṃ;</gatha1>
-<gathalast line="10">Puññābhivaḍḍhiṃ mahagghaṃ alatthaṃ, tassānubhāvena hatantarāyo.</gathalast>
-<gatha1 line="11">Vinaye sati ṭhite yaṃ, sāsanaṃ saṇṭhitaṃ bhave;</gatha1>
-<gathalast line="12">Vinaye sati naṭṭhe yaṃ, vinaṭṭhaṃ sāsanaṃ bhave.</gathalast>
-<gatha1 line="13">Tasmā dittaṃ mame’dāni, jotayitvāna sāsane;</gatha1>
-<gathalast line="14">Bhinditvā dveḷhakaṃ vādaṃ, ekībhāvaṃ karoma’haṃ.</gathalast>
-<gatha1 line="15">Attukkaṃsana-bhāvañca, paravambhanakampica;</gatha1>
-<gathalast line="16">Tesu cittaṃ apesetvā, sāsanassa suvuḍḍhiyā.</gathalast>
-<gatha1 line="17">Yadi me īdisaṃ cittaṃ, bhaveyyuṃ pāpasaṅkappā;</gatha1>
-<gathalast line="18">Paccissaṃ niraye bhayaṃ, hīna’jjhāsayakāraṇā.</gathalast>
-<gatha1 line="19">Sāsanassa <pageBreak edition="M" number="0.0006" /> sulabhaṃ’va patthayanto satā’cāro;</gatha1>
-<gathalast line="20">Saṃsandissamahaṃ dāni, ciraṃ saddhamma’suddhiyā.</gathalast>
-<gatha1 line="21">Sudullabhaṃ labhitvāna, pabbajjaṃ jinasāsane;</gatha1>
-<gathalast line="22">Sambuddhassa varaṃ vādaṃ, katvā dveḷhaka’mekikaṃ.</gathalast>
-<gatha1 line="23">Sīmavisodhaniṃ nāma, nānāganthasamāhaṭaṃ;</gatha1>
-<gathalast line="24">Karissaṃ me nisāmentu, sādhavo kavipuṅgavā.</gathalast>
-<gatha1 line="25">Pāḷiṃ aṭṭhakathañceva, mātikaṃ padabhājaniṃ;</gatha1>
-<gathalast line="26">Ogāhetvāna taṃ sabbaṃ, punappunaṃ asesato.</gathalast>
-<gatha1 line="27">Attanomatiganthesu, ṭīkāgaṇṭhipadesuca;</gatha1>
-<gathalast line="28">Vinicchayavimatīsu, mātikā’ṭṭhakathāsupi.</gathalast>
-<gatha1 line="29">Sabbaṃ asesakaṃ katvā, saṃsanditvāna ekato;</gatha1>
-<gathalast line="30">Pavattā vaṇṇanā esā, tosayantī vicakkhaṇeti.</gathalast>
-<paragraph line="31">Buddhuppādo hi dullabho, tato pabbajjā ca upasampadā ca, vuttañhetaṃ</paragraph>
-<gatha1 line="32">Buddho ca dullabho loke, saddhammasavanampi ca;</gatha1>
-<gathalast line="33">Saṅgho ca dullabho loke, sappūrisā’tidullabhā.</gathalast>
-<gatha1 line="34">Dullabhañca manussattaṃ, buddhuppādo ca dullabho;</gatha1>
-<gathalast line="35">Dullabhā khaṇasampatti, saddhammo paramadullabho’ti.</gathalast>
-</body>
+  <metadata>
+    <normativeSource>http://tipitaka.org/romn/cscd/e1102n.nrf0.xml</normativeSource>
+    <archivePath>roman/anya/pakinnaka-gantha-sangaho/simavisodhanipatha/simavisodhani.xml</archivePath>
+    <baseFileName>simavisodhani</baseFileName>
+    <titlePath>Sīmavisodhanī - Sīmavisodhanīpāṭha - Pakiṇṇaka-gantha-saṅgaho - Anya</titlePath>
+    <versions>
+    </versions>
+  </metadata>
+  <content>
+    <centered line="1">Namo tassa bhagavato arahato sammāsambuddhassa.</centered>
+    <book line="2">Sīmavisodhanī</book>
+    <gatha1 line="3">Varadaṃ <pageBreak edition="M" number="0.0005" /> varadaṃ aggaṃ, diccaṃ diccaṃva vanajaṃ;</gatha1>
+    <gathalast line="4">Bodhakaṃ bodhakaṃ pāṇaṃ, deva’devaṃ namāma’haṃ.</gathalast>
+    <gatha1 line="5">Santaṃ santaṃ sadā vaṭṭaṃ, pajaṃ’bhave sutaṃ;</gatha1>
+    <gathalast line="6">Nibbudaṃ nibbudaṃ tāraṃ, dhammavaraṃ namāma’haṃ.</gathalast>
+    <gatha1 line="7">Sutaṃ sutaṃ bhavane yaṃ, natanaṃ natanā’rahaṃ;</gatha1>
+    <gathalast line="8">Narā’narā sadā’kaṃsu, saṅghavaraṃ namāma’haṃ.</gathalast>
+    <gatha1 line="9">Icceva’maccantanatassaneyyaṃ, natayyamāno ratanattayaṃ yaṃ;</gatha1>
+    <gathalast line="10">Puññābhivaḍḍhiṃ mahagghaṃ alatthaṃ, tassānubhāvena hatantarāyo.</gathalast>
+    <gatha1 line="11">Vinaye sati ṭhite yaṃ, sāsanaṃ saṇṭhitaṃ bhave;</gatha1>
+    <gathalast line="12">Vinaye sati naṭṭhe yaṃ, vinaṭṭhaṃ sāsanaṃ bhave.</gathalast>
+    <gatha1 line="13">Tasmā dittaṃ mame’dāni, jotayitvāna sāsane;</gatha1>
+    <gathalast line="14">Bhinditvā dveḷhakaṃ vādaṃ, ekībhāvaṃ karoma’haṃ.</gathalast>
+    <gatha1 line="15">Attukkaṃsana-bhāvañca, paravambhanakampica;</gatha1>
+    <gathalast line="16">Tesu cittaṃ apesetvā, sāsanassa suvuḍḍhiyā.</gathalast>
+    <gatha1 line="17">Yadi me īdisaṃ cittaṃ, bhaveyyuṃ pāpasaṅkappā;</gatha1>
+    <gathalast line="18">Paccissaṃ niraye bhayaṃ, hīna’jjhāsayakāraṇā.</gathalast>
+    <gatha1 line="19">Sāsanassa <pageBreak edition="M" number="0.0006" /> sulabhaṃ’va patthayanto satā’cāro;</gatha1>
+    <gathalast line="20">Saṃsandissamahaṃ dāni, ciraṃ saddhamma’suddhiyā.</gathalast>
+    <gatha1 line="21">Sudullabhaṃ labhitvāna, pabbajjaṃ jinasāsane;</gatha1>
+    <gathalast line="22">Sambuddhassa varaṃ vādaṃ, katvā dveḷhaka’mekikaṃ.</gathalast>
+    <gatha1 line="23">Sīmavisodhaniṃ nāma, nānāganthasamāhaṭaṃ;</gatha1>
+    <gathalast line="24">Karissaṃ me nisāmentu, sādhavo kavipuṅgavā.</gathalast>
+    <gatha1 line="25">Pāḷiṃ aṭṭhakathañceva, mātikaṃ padabhājaniṃ;</gatha1>
+    <gathalast line="26">Ogāhetvāna taṃ sabbaṃ, punappunaṃ asesato.</gathalast>
+    <gatha1 line="27">Attanomatiganthesu, ṭīkāgaṇṭhipadesuca;</gatha1>
+    <gathalast line="28">Vinicchayavimatīsu, mātikā’ṭṭhakathāsupi.</gathalast>
+    <gatha1 line="29">Sabbaṃ asesakaṃ katvā, saṃsanditvāna ekato;</gatha1>
+    <gathalast line="30">Pavattā vaṇṇanā esā, tosayantī vicakkhaṇeti.</gathalast>
+    <paragraph line="31">Buddhuppādo hi dullabho, tato pabbajjā ca upasampadā ca, vuttañhetaṃ</paragraph>
+    <gatha1 line="32">Buddho ca dullabho loke, saddhammasavanampi ca;</gatha1>
+    <gathalast line="33">Saṅgho ca dullabho loke, sappūrisā’tidullabhā.</gathalast>
+    <gatha1 line="34">Dullabhañca manussattaṃ, buddhuppādo ca dullabho;</gatha1>
+    <gathalast line="35">Dullabhā khaṇasampatti, saddhammo paramadullabho’ti.</gathalast>
+  </content>
 </document>

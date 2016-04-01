@@ -1,24 +1,27 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="utf-8"?>
 <document>
-<metadata>
-<normativeSource>http://tipitaka.org/romn/cscd/e0105n.nrf24.xml</normativeSource>
-<archivePath>roman/anya/visuddhimagga/visuddhimagga nidanakatha/tannissayo.xml</archivePath>
-<titlePath>Tannissayo - Visuddhimagga nidānakathā - Visuddhimagga - Anya</titlePath>
-</metadata>
-<body>
-<chapter line="1">Tannissayo</chapter>
-<paragraph line="2"><bold>Kiṃ nissāya kato</bold>ti etassapi pañhassa attho ācariyeneva pakāsito. Vuttañhi ettha ganthārambhe –</paragraph>
-<indent line="3">‘‘Mahāvihāravāsīnaṃ, desanānayanissita’’nti <note>visuddhi. 1.2</note>.</indent>
-<paragraph line="4">Tathā nigamanepi –</paragraph>
-<gatha1 line="5">‘‘Tesaṃ sīlādibhedānaṃ, atthānaṃ yo vinicchayo;</gatha1>
-<gathalast line="6"><bold>Pañcannampi nikāyānaṃ,</bold> vutto aṭṭhakathānaye.</gathalast>
-<gatha1 line="7">Samāharitvā taṃ sabbaṃ, yebhuyyena sanicchayo;</gatha1>
-<gathalast line="8">Sabbasaṅkaradosehi, mutto yasmā pakāsito’’ti <note>dī. ni. aṭṭha. 1.ganthārambhakathā</note>.</gathalast>
-<paragraph line="9">Iminā <pageBreak edition="M" number="0.0039" /> pana vacanena ayamattho pākaṭo hoti – ‘‘visuddhimaggaṃ kurumāno ācariyo mahāvihāravāsīnaṃ desanānayasaṅkhātā pañcannampi nikāyānaṃ porāṇaṭṭhakathāyo nissāya tāsu vuttaṃ gahetabbaṃ sabbaṃ vinicchayaṃ samāharitvā akāsī’’ti. Tasmā yā yā ettha padavaṇṇanā vā vinicchayo vā sādhakavatthu vā dassīyati, taṃ sabbaṃ tassa tassa niddhāritapāḷipadassanikāyasaṃvaṇṇanābhūtāya porāṇasīhaḷaṭṭhakathāto ānetvā bhāsāparivattanavaseneva dassitanti veditabbaṃ. Ayampi hi visuddhimaggo na kevalaṃ attano ñāṇappabhāvena kato, visuṃ pakaraṇabhāvena ca, atha kho catunnampi āgamaṭṭhakathānaṃ <bold>avayavabhāveneva</bold> kato. Vuttañhi tāsaṃ nigamane –</paragraph>
-<gatha1 line="10">‘‘Ekūnasaṭṭhimatto, visuddhimaggopi bhāṇavārehi;</gatha1>
-<gathalast line="11">Atthappakāsanatthāya, āgamānaṃ kato yasmā.</gathalast>
-<gatha1 line="12">Tasmā tena sahāyaṃ, aṭṭhakathā bhāṇavāragaṇanāya;</gatha1>
-<gathalast line="13">Suparimitaparicchinnaṃ, cattālīsasataṃ hotī’’tiādi <note>dī. ni. aṭṭha. 3.nigamanakathā</note>.</gathalast>
-<paragraph line="14">Yā pana visuddhimagge maggāmaggañāṇadassanavisuddhiniddese ‘‘ayaṃ tāva visuddhikathāyaṃ nayo. Ariyavaṃsakathāyaṃ panā’’tiādinā <note>visuddhi. 2.717</note> dve kathā vuttā, tāpi mahāvihāravāsīnaṃ desanānaye antogadhā imassa visuddhimaggassa nissayāyevāti veditabbāti.</paragraph>
-</body>
+  <metadata>
+    <normativeSource>http://tipitaka.org/romn/cscd/e0105n.nrf24.xml</normativeSource>
+    <archivePath>roman/anya/visuddhimagga/visuddhimagga nidanakatha/tannissayo.xml</archivePath>
+    <baseFileName>tannissayo</baseFileName>
+    <titlePath>Tannissayo - Visuddhimagga nidānakathā - Visuddhimagga - Anya</titlePath>
+    <versions>
+    </versions>
+  </metadata>
+  <content>
+    <chapter line="1">Tannissayo</chapter>
+    <paragraph line="2"><bold>Kiṃ nissāya kato</bold>ti etassapi pañhassa attho ācariyeneva pakāsito. Vuttañhi ettha ganthārambhe –</paragraph>
+    <indent line="3">‘‘Mahāvihāravāsīnaṃ, desanānayanissita’’nti <note>visuddhi. 1.2</note>.</indent>
+    <paragraph line="4">Tathā nigamanepi –</paragraph>
+    <gatha1 line="5">‘‘Tesaṃ sīlādibhedānaṃ, atthānaṃ yo vinicchayo;</gatha1>
+    <gathalast line="6"><bold>Pañcannampi nikāyānaṃ,</bold> vutto aṭṭhakathānaye.</gathalast>
+    <gatha1 line="7">Samāharitvā taṃ sabbaṃ, yebhuyyena sanicchayo;</gatha1>
+    <gathalast line="8">Sabbasaṅkaradosehi, mutto yasmā pakāsito’’ti <note>dī. ni. aṭṭha. 1.ganthārambhakathā</note>.</gathalast>
+    <paragraph line="9">Iminā <pageBreak edition="M" number="0.0039" /> pana vacanena ayamattho pākaṭo hoti – ‘‘visuddhimaggaṃ kurumāno ācariyo mahāvihāravāsīnaṃ desanānayasaṅkhātā pañcannampi nikāyānaṃ porāṇaṭṭhakathāyo nissāya tāsu vuttaṃ gahetabbaṃ sabbaṃ vinicchayaṃ samāharitvā akāsī’’ti. Tasmā yā yā ettha padavaṇṇanā vā vinicchayo vā sādhakavatthu vā dassīyati, taṃ sabbaṃ tassa tassa niddhāritapāḷipadassanikāyasaṃvaṇṇanābhūtāya porāṇasīhaḷaṭṭhakathāto ānetvā bhāsāparivattanavaseneva dassitanti veditabbaṃ. Ayampi hi visuddhimaggo na kevalaṃ attano ñāṇappabhāvena kato, visuṃ pakaraṇabhāvena ca, atha kho catunnampi āgamaṭṭhakathānaṃ <bold>avayavabhāveneva</bold> kato. Vuttañhi tāsaṃ nigamane –</paragraph>
+    <gatha1 line="10">‘‘Ekūnasaṭṭhimatto, visuddhimaggopi bhāṇavārehi;</gatha1>
+    <gathalast line="11">Atthappakāsanatthāya, āgamānaṃ kato yasmā.</gathalast>
+    <gatha1 line="12">Tasmā tena sahāyaṃ, aṭṭhakathā bhāṇavāragaṇanāya;</gatha1>
+    <gathalast line="13">Suparimitaparicchinnaṃ, cattālīsasataṃ hotī’’tiādi <note>dī. ni. aṭṭha. 3.nigamanakathā</note>.</gathalast>
+    <paragraph line="14">Yā pana visuddhimagge maggāmaggañāṇadassanavisuddhiniddese ‘‘ayaṃ tāva visuddhikathāyaṃ nayo. Ariyavaṃsakathāyaṃ panā’’tiādinā <note>visuddhi. 2.717</note> dve kathā vuttā, tāpi mahāvihāravāsīnaṃ desanānaye antogadhā imassa visuddhimaggassa nissayāyevāti veditabbāti.</paragraph>
+  </content>
 </document>

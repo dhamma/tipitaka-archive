@@ -1,43 +1,46 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="utf-8"?>
 <document>
-<metadata>
-<normativeSource>http://tipitaka.org/romn/cscd/e0702n.nrf0.xml</normativeSource>
-<archivePath>roman/anya/vamsa-gantha-sangaho/sasanavamsa/sasanavamsappadipika.xml</archivePath>
-<titlePath>Sāsanavaṃsappadīpikā - Sāsanavaṃsa - Vaṃsa-gantha-saṅgaho - Anya</titlePath>
-</metadata>
-<body>
-<centered line="1"> Namo tassa bhagavato arahato sammāsambuddhassa</centered>
-<book line="2">Sāsanavaṃsappadīpikā</book>
-<gatha1 line="3">Buddhaṃ <pageBreak edition="M" number="0.0001" /> sumālī dvipaduttamo tamo,</gatha1>
-<gatha2 line="4">Hantvāna bodhesidha paṅkajaṃ kajaṃ;</gatha2>
-<gatha3 line="5">Maggaggaselamhi suñaṭṭhito ṭhito,</gatha3>
-<gathalast line="6">So maṃ ciraṃ pātu sukhaṃ sadā sadā.</gathalast>
-<gatha1 line="7">Sīhaḷaddīpatoyeva,</gatha1>
-<gatha2 line="8">Āgatehi disantare;</gatha2>
-<gatha3 line="9">Bhikkhūhi yācito kassaṃ,</gatha3>
-<gathalast line="10">Sāsnavaṃsappadīpikaṃ.</gathalast>
-<gatha1 line="11">Kāmañca porāṇehi yā,</gatha1>
-<gatha2 line="12">Sāsnavaṃsappadipikā;</gatha2>
-<gatha3 line="13">Vitthāra vācanāmaggā,</gatha3>
-<gathalast line="14">Viracitā vinicchayā.</gathalast>
-<gatha1 line="15">Sā <pageBreak edition="M" number="0.0002" /> pana mrammasāsāya,</gatha1>
-<gatha2 line="16">Katattāyeva etesaṃ;</gatha2>
-<gatha3 line="17">Dīpantaranivāsinaṃ,</gatha3>
-<gathalast line="18">Vahāti suṭṭhunātthaṃ.</gathalast>
-<gatha1 line="19">Tasmā hi mūlabhāsāya,</gatha1>
-<gatha2 line="20">Karissāmi ahaṃ have;</gatha2>
-<gatha3 line="21">Saṃsanditvāna ganthehi,</gatha3>
-<gathalast line="22">Taṃ sallakkhentu sādhavoti.</gathalast>
-<subhead line="23">Tatrāyaṃmātikā –</subhead>
-<indent line="24" number="1">. Navaṭṭhānāgatasāsanavaṃsakathāmaggo,</indent>
-<indent line="25" number="2">. Sīhaḷadīpikasāsanavaṃsakathāmaggo,</indent>
-<indent line="26" number="3">. Suvaṇṇabhūmisāsanavaṃsakathāmaggo,</indent>
-<indent line="27" number="4">. Yonakaraṭṭhasāsanavaṃsakathāmaggo,</indent>
-<indent line="28" number="5">. Vanavāsīraṭṭhasāsanavaṃsakathāmaggo,</indent>
-<indent line="29" number="6">. Aparantaraṭṭhasāsanavaṃsakathāmaggo,</indent>
-<indent line="30" number="7">. Kasmīragandhāraraṭṭhasāsanavaṃsakathāmaggo,</indent>
-<indent line="31" number="8">. Mahiṃsakaraṭṭhasāsanavaṃsakathāmaggo,</indent>
-<indent line="32" number="9">. Mahāraṭṭhasāsanavaṃsavathāmaggo,</indent>
-<indent line="33" number="10">. Cinaraṭṭhasāsanavaṃsakathāmaggocāti.</indent>
-</body>
+  <metadata>
+    <normativeSource>http://tipitaka.org/romn/cscd/e0702n.nrf0.xml</normativeSource>
+    <archivePath>roman/anya/vamsa-gantha-sangaho/sasanavamsa/sasanavamsappadipika.xml</archivePath>
+    <baseFileName>sasanavamsappadipika</baseFileName>
+    <titlePath>Sāsanavaṃsappadīpikā - Sāsanavaṃsa - Vaṃsa-gantha-saṅgaho - Anya</titlePath>
+    <versions>
+    </versions>
+  </metadata>
+  <content>
+    <centered line="1"> Namo tassa bhagavato arahato sammāsambuddhassa</centered>
+    <book line="2">Sāsanavaṃsappadīpikā</book>
+    <gatha1 line="3">Buddhaṃ <pageBreak edition="M" number="0.0001" /> sumālī dvipaduttamo tamo,</gatha1>
+    <gatha2 line="4">Hantvāna bodhesidha paṅkajaṃ kajaṃ;</gatha2>
+    <gatha3 line="5">Maggaggaselamhi suñaṭṭhito ṭhito,</gatha3>
+    <gathalast line="6">So maṃ ciraṃ pātu sukhaṃ sadā sadā.</gathalast>
+    <gatha1 line="7">Sīhaḷaddīpatoyeva,</gatha1>
+    <gatha2 line="8">Āgatehi disantare;</gatha2>
+    <gatha3 line="9">Bhikkhūhi yācito kassaṃ,</gatha3>
+    <gathalast line="10">Sāsnavaṃsappadīpikaṃ.</gathalast>
+    <gatha1 line="11">Kāmañca porāṇehi yā,</gatha1>
+    <gatha2 line="12">Sāsnavaṃsappadipikā;</gatha2>
+    <gatha3 line="13">Vitthāra vācanāmaggā,</gatha3>
+    <gathalast line="14">Viracitā vinicchayā.</gathalast>
+    <gatha1 line="15">Sā <pageBreak edition="M" number="0.0002" /> pana mrammasāsāya,</gatha1>
+    <gatha2 line="16">Katattāyeva etesaṃ;</gatha2>
+    <gatha3 line="17">Dīpantaranivāsinaṃ,</gatha3>
+    <gathalast line="18">Vahāti suṭṭhunātthaṃ.</gathalast>
+    <gatha1 line="19">Tasmā hi mūlabhāsāya,</gatha1>
+    <gatha2 line="20">Karissāmi ahaṃ have;</gatha2>
+    <gatha3 line="21">Saṃsanditvāna ganthehi,</gatha3>
+    <gathalast line="22">Taṃ sallakkhentu sādhavoti.</gathalast>
+    <subhead line="23">Tatrāyaṃmātikā –</subhead>
+    <indent line="24" number="1">. Navaṭṭhānāgatasāsanavaṃsakathāmaggo,</indent>
+    <indent line="25" number="2">. Sīhaḷadīpikasāsanavaṃsakathāmaggo,</indent>
+    <indent line="26" number="3">. Suvaṇṇabhūmisāsanavaṃsakathāmaggo,</indent>
+    <indent line="27" number="4">. Yonakaraṭṭhasāsanavaṃsakathāmaggo,</indent>
+    <indent line="28" number="5">. Vanavāsīraṭṭhasāsanavaṃsakathāmaggo,</indent>
+    <indent line="29" number="6">. Aparantaraṭṭhasāsanavaṃsakathāmaggo,</indent>
+    <indent line="30" number="7">. Kasmīragandhāraraṭṭhasāsanavaṃsakathāmaggo,</indent>
+    <indent line="31" number="8">. Mahiṃsakaraṭṭhasāsanavaṃsakathāmaggo,</indent>
+    <indent line="32" number="9">. Mahāraṭṭhasāsanavaṃsavathāmaggo,</indent>
+    <indent line="33" number="10">. Cinaraṭṭhasāsanavaṃsakathāmaggocāti.</indent>
+  </content>
 </document>

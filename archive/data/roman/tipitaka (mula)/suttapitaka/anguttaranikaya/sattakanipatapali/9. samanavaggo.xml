@@ -1,35 +1,42 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="utf-8"?>
 <document>
-<metadata>
-<normativeSource>http://tipitaka.org/romn/cscd/s0403m3.mul8.xml</normativeSource>
-<archivePath>roman/tipitaka (mula)/suttapitaka/anguttaranikaya/sattakanipatapali/9. samanavaggo.xml</archivePath>
-<titlePath>9. Samaṇavaggo - Sattakanipātapāḷi - Aṅguttaranikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
-</metadata>
-<body>
-<chapter line="1">9. Samaṇavaggo</chapter>
-<subhead line="2">1. Bhikkhusuttaṃ</subhead>
-<paragraph line="3" number="85"><note>mahāni. 18; cūḷani. ajitamāṇavapucchāniddesa 8</note> ‘‘Sattannaṃ <pageBreak edition="V" number="2.0272" />, bhikkhave, dhammānaṃ bhinnattā bhikkhu hoti. Katamesaṃ sattannaṃ? Sakkāyadiṭṭhi bhinnā hoti, vicikicchā bhinnā hoti, sīlabbataparāmāso bhinno hoti, rāgo bhinno hoti, doso bhinno hoti, moho bhinno hoti, māno bhinno hoti. Imesaṃ kho, bhikkhave, sattannaṃ dhammānaṃ bhinnattā bhikkhu hotī’’ti. Paṭhamaṃ.</paragraph>
-<subhead line="4">2. Samaṇasuttaṃ</subhead>
-<paragraph line="5" number="86"> Sattannaṃ, bhikkhave, dhammānaṃ samitattā samaṇo hoti…pe…. Dutiyaṃ.</paragraph>
-<subhead line="6">3. Brāhmaṇasuttaṃ</subhead>
-<paragraph line="7" number="87"> Bāhitattā brāhmaṇo hoti…pe…. Tatiyaṃ.</paragraph>
-<subhead line="8">4. Sottiyasuttaṃ</subhead>
-<paragraph line="9" number="88"> <alternatives line="6" extra=" ma. ni. 1.434 passitabbaṃ" separator="false"><alternative source-abbr="vri" source="vipassana research institut">Nissutattā</alternative><alternative source-abbr="syā." source="thai">nissuttattā</alternative></alternatives>  <alternatives line="14" extra="null" separator="true"><alternative source-abbr="vri" source="vipassana research institut">sottiyo</alternative><alternative source-abbr="sī." source="sri lanka">sotthiko</alternative><alternative source-abbr="syā." source="thai">sottiko</alternative></alternatives>  hoti…pe…. Catutthaṃ.</paragraph>
-<subhead line="10">5. Nhātakasuttaṃ</subhead>
-<paragraph line="11" number="89"> Nhātattā <pageBreak edition="T" number="4.0147" /><pageBreak edition="M" number="2.0509" /> <alternatives line="23" extra="null" separator="false"><alternative source-abbr="vri" source="vipassana research institut">nhātako</alternative><alternative source-abbr="sī." source="sri lanka">nahātatto nahātako</alternative><alternative source-abbr="syā." source="thai">nahātatto nahātako</alternative></alternatives>  hoti…pe…. Pañcamaṃ.</paragraph>
-<subhead line="12">6. Vedagūsuttaṃ</subhead>
-<paragraph line="13" number="90"> Viditattā <pageBreak edition="P" number="4.0145" /> vedagū hoti…pe…. Chaṭṭhaṃ.</paragraph>
-<subhead line="14">7. Ariyasuttaṃ</subhead>
-<paragraph line="15" number="91"> <alternatives line="31" extra=" ma. ni. 1.434 pāḷi aṭṭhakathāṭīkā passitabbā. syāmapotthake pana sakalampi idaṃ sattamasuttaṃ natthi" separator="true"><alternative source-abbr="vri" source="vipassana research institut">Ārakattā</alternative><alternative source-abbr="sī." source="sri lanka">arahattā</alternative><alternative source-abbr="ka." source="cambodian">arī hatattā</alternative></alternatives> <pageBreak edition="V" number="2.0273" /> ariyo hoti…pe…. Sattamaṃ.</paragraph>
-<subhead line="16">8. Arahāsuttaṃ</subhead>
-<paragraph line="17" number="92"> ‘‘Ārakattā arahā hoti. Katamesaṃ sattannaṃ? Sakkāyadiṭṭhi ārakā hoti, vicikicchā ārakā hoti, sīlabbataparāmāso ārako hoti, rāgo ārako hoti, doso ārako hoti, moho ārako hoti, māno ārako hoti. Imesaṃ kho, bhikkhave, sattannaṃ dhammānaṃ ārakattā arahā hotī’’ti. Aṭṭhamaṃ.</paragraph>
-<subhead line="18">9. Asaddhammasuttaṃ</subhead>
-<paragraph line="19" number="93"> ‘‘Sattime, bhikkhave, asaddhammā. Katame satta? Assaddho hoti, ahiriko hoti, anottappī hoti, appassuto hoti, kusīto hoti, muṭṭhassati hoti, duppañño hoti. Ime kho, bhikkhave, satta asaddhammā’’ti. Navamaṃ.</paragraph>
-<subhead line="20">10. Saddhammasuttaṃ</subhead>
-<paragraph line="21" number="94"> ‘‘Sattime, bhikkhave, saddhammā. Katame satta? Saddho hoti, hirīmā hoti, ottappī hoti, bahussuto hoti, āraddhavīriyo hoti, satimā hoti, paññavā hoti. Ime kho, bhikkhave, satta saddhammā’’ti. Dasamaṃ.</paragraph>
-<centered line="22">Samaṇavaggo navamo.</centered>
-<paragraph line="23">Tassuddānaṃ –</paragraph>
-<gatha1 line="24">Bhikkhuṃ <pageBreak edition="M" number="2.0510" /> samaṇo brāhmaṇo, sottiyo ceva nhātako;</gatha1>
-<gathalast line="25">Vedagū ariyo arahā, asaddhammā ca saddhammāti.</gathalast>
-</body>
+  <metadata>
+    <normativeSource>http://tipitaka.org/romn/cscd/s0403m3.mul8.xml</normativeSource>
+    <archivePath>roman/tipitaka (mula)/suttapitaka/anguttaranikaya/sattakanipatapali/9. samanavaggo.xml</archivePath>
+    <baseFileName>9. samanavaggo</baseFileName>
+    <titlePath>9. Samaṇavaggo - Sattakanipātapāḷi - Aṅguttaranikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
+    <versions>
+      <version source="vipassana research institut" source-abbr="vri"/>
+      <version source="thai" source-abbr="syā."/>
+      <version source="sri lanka" source-abbr="sī."/>
+      <version source="cambodian" source-abbr="ka."/>
+    </versions>
+  </metadata>
+  <content>
+    <chapter line="1">9. Samaṇavaggo</chapter>
+    <subhead line="2">1. Bhikkhusuttaṃ</subhead>
+    <paragraph line="3" number="85"><note>mahāni. 18; cūḷani. ajitamāṇavapucchāniddesa 8</note> ‘‘Sattannaṃ <pageBreak edition="V" number="2.0272" />, bhikkhave, dhammānaṃ bhinnattā bhikkhu hoti. Katamesaṃ sattannaṃ? Sakkāyadiṭṭhi bhinnā hoti, vicikicchā bhinnā hoti, sīlabbataparāmāso bhinno hoti, rāgo bhinno hoti, doso bhinno hoti, moho bhinno hoti, māno bhinno hoti. Imesaṃ kho, bhikkhave, sattannaṃ dhammānaṃ bhinnattā bhikkhu hotī’’ti. Paṭhamaṃ.</paragraph>
+    <subhead line="4">2. Samaṇasuttaṃ</subhead>
+    <paragraph line="5" number="86"> Sattannaṃ, bhikkhave, dhammānaṃ samitattā samaṇo hoti…pe…. Dutiyaṃ.</paragraph>
+    <subhead line="6">3. Brāhmaṇasuttaṃ</subhead>
+    <paragraph line="7" number="87"> Bāhitattā brāhmaṇo hoti…pe…. Tatiyaṃ.</paragraph>
+    <subhead line="8">4. Sottiyasuttaṃ</subhead>
+    <paragraph line="9" number="88"> <alternatives line="6" extra=" ma. ni. 1.434 passitabbaṃ" separator="false"><alternative source-abbr="vri" source="vipassana research institut">Nissutattā</alternative><alternative source-abbr="syā." source="thai">nissuttattā</alternative></alternatives>  <alternatives line="14" extra="" separator="true"><alternative source-abbr="vri" source="vipassana research institut">sottiyo</alternative><alternative source-abbr="sī." source="sri lanka">sotthiko</alternative><alternative source-abbr="syā." source="thai">sottiko</alternative></alternatives>  hoti…pe…. Catutthaṃ.</paragraph>
+    <subhead line="10">5. Nhātakasuttaṃ</subhead>
+    <paragraph line="11" number="89"> Nhātattā <pageBreak edition="T" number="4.0147" /><pageBreak edition="M" number="2.0509" /> <alternatives line="23" extra="" separator="false"><alternative source-abbr="vri" source="vipassana research institut">nhātako</alternative><alternative source-abbr="sī." source="sri lanka">nahātatto nahātako</alternative><alternative source-abbr="syā." source="thai">nahātatto nahātako</alternative></alternatives>  hoti…pe…. Pañcamaṃ.</paragraph>
+    <subhead line="12">6. Vedagūsuttaṃ</subhead>
+    <paragraph line="13" number="90"> Viditattā <pageBreak edition="P" number="4.0145" /> vedagū hoti…pe…. Chaṭṭhaṃ.</paragraph>
+    <subhead line="14">7. Ariyasuttaṃ</subhead>
+    <paragraph line="15" number="91"> <alternatives line="31" extra=" ma. ni. 1.434 pāḷi aṭṭhakathāṭīkā passitabbā. syāmapotthake pana sakalampi idaṃ sattamasuttaṃ natthi" separator="true"><alternative source-abbr="vri" source="vipassana research institut">Ārakattā</alternative><alternative source-abbr="sī." source="sri lanka">arahattā</alternative><alternative source-abbr="ka." source="cambodian">arī hatattā</alternative></alternatives> <pageBreak edition="V" number="2.0273" /> ariyo hoti…pe…. Sattamaṃ.</paragraph>
+    <subhead line="16">8. Arahāsuttaṃ</subhead>
+    <paragraph line="17" number="92"> ‘‘Ārakattā arahā hoti. Katamesaṃ sattannaṃ? Sakkāyadiṭṭhi ārakā hoti, vicikicchā ārakā hoti, sīlabbataparāmāso ārako hoti, rāgo ārako hoti, doso ārako hoti, moho ārako hoti, māno ārako hoti. Imesaṃ kho, bhikkhave, sattannaṃ dhammānaṃ ārakattā arahā hotī’’ti. Aṭṭhamaṃ.</paragraph>
+    <subhead line="18">9. Asaddhammasuttaṃ</subhead>
+    <paragraph line="19" number="93"> ‘‘Sattime, bhikkhave, asaddhammā. Katame satta? Assaddho hoti, ahiriko hoti, anottappī hoti, appassuto hoti, kusīto hoti, muṭṭhassati hoti, duppañño hoti. Ime kho, bhikkhave, satta asaddhammā’’ti. Navamaṃ.</paragraph>
+    <subhead line="20">10. Saddhammasuttaṃ</subhead>
+    <paragraph line="21" number="94"> ‘‘Sattime, bhikkhave, saddhammā. Katame satta? Saddho hoti, hirīmā hoti, ottappī hoti, bahussuto hoti, āraddhavīriyo hoti, satimā hoti, paññavā hoti. Ime kho, bhikkhave, satta saddhammā’’ti. Dasamaṃ.</paragraph>
+    <centered line="22">Samaṇavaggo navamo.</centered>
+    <paragraph line="23">Tassuddānaṃ –</paragraph>
+    <gatha1 line="24">Bhikkhuṃ <pageBreak edition="M" number="2.0510" /> samaṇo brāhmaṇo, sottiyo ceva nhātako;</gatha1>
+    <gathalast line="25">Vedagū ariyo arahā, asaddhammā ca saddhammāti.</gathalast>
+  </content>
 </document>

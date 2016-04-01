@@ -1,80 +1,90 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="utf-8"?>
 <document>
-<metadata>
-<normativeSource>http://tipitaka.org/romn/cscd/s0502m.mul0.xml</normativeSource>
-<archivePath>roman/tipitaka (mula)/suttapitaka/khuddakanikaya/dhammapadapali/1. yamakavaggo.xml</archivePath>
-<titlePath>1. Yamakavaggo - Dhammapadapāḷi - Khuddakanikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
-</metadata>
-<body>
-<centered line="1"> Namo tassa bhagavato arahato sammāsambuddhassa</centered>
-<nikaya line="2">Khuddakanikāye</nikaya>
-<book line="3">Dhammapadapāḷi</book>
-<chapter line="4">1. Yamakavaggo</chapter>
-<hangnum line="5" number="1"></hangnum>
-<gatha1 line="6"> Manopubbaṅgamā <pageBreak edition="M" number="0.0013" /><pageBreak edition="V" number="0.0013" /><pageBreak edition="P" number="0.0001" /><pageBreak edition="T" number="0.0015" /> dhammā, manoseṭṭhā manomayā;</gatha1>
-<gatha2 line="7">Manasā ce paduṭṭhena, bhāsati vā karoti vā;</gatha2>
-<gathalast line="8">Tato naṃ dukkhamanveti, cakkaṃva vahato padaṃ.</gathalast>
-<hangnum line="9" number="2"></hangnum>
-<gatha1 line="10"> Manopubbaṅgamā dhammā, manoseṭṭhā manomayā;</gatha1>
-<gatha2 line="11">Manasā ce pasannena, bhāsati vā karoti vā;</gatha2>
-<gathalast line="12">Tato naṃ sukhamanveti, chāyāva <alternatives line="3" extra="null" separator="false"><alternative source-abbr="vri" source="vipassana research institut">anapāyinī</alternative><alternative source-abbr="ka." source="cambodian">anupāyinī</alternative></alternatives> .</gathalast>
-<hangnum line="13" number="3"></hangnum>
-<gatha1 line="14"> Akkocchi <pageBreak edition="V" number="0.0014" /> maṃ avadhi maṃ, <alternatives line="11" extra="null" separator="false"><alternative source-abbr="vri" source="vipassana research institut">ajini</alternative><alternative source-abbr="?" source="unknown">ajinī</alternative></alternatives>  maṃ ahāsi me;</gatha1>
-<gathalast line="15">Ye ca taṃ upanayhanti, veraṃ tesaṃ na sammati.</gathalast>
-<hangnum line="16" number="4"></hangnum>
-<gatha1 line="17"> Akkocchi maṃ avadhi maṃ, ajini maṃ ahāsi me;</gatha1>
-<gathalast line="18">Ye ca taṃ nupanayhanti, veraṃ tesūpasammati.</gathalast>
-<hangnum line="19" number="5"></hangnum>
-<gatha1 line="20"> Na <pageBreak edition="M" number="0.0014" /><pageBreak edition="P" number="0.0002" /> hi verena verāni, sammantīdha kudācanaṃ;</gatha1>
-<gathalast line="21">Averena ca sammanti, esa dhammo sanantano.</gathalast>
-<hangnum line="22" number="6"></hangnum>
-<gatha1 line="23"> Pare <pageBreak edition="T" number="0.0016" /> ca na vijānanti, mayamettha yamāmase;</gatha1>
-<gathalast line="24">Ye ca tattha vijānanti, tato sammanti medhagā.</gathalast>
-<hangnum line="25" number="7"></hangnum>
-<gatha1 line="26"> Subhānupassiṃ viharantaṃ, indriyesu asaṃvutaṃ;</gatha1>
-<gatha2 line="27">Bhojanamhi cāmattaññuṃ, kusītaṃ hīnavīriyaṃ;</gatha2>
-<gathalast line="28">Taṃ ve pasahati māro, vāto rukkhaṃva dubbalaṃ.</gathalast>
-<hangnum line="29" number="8"></hangnum>
-<gatha1 line="30"> Asubhānupassiṃ viharantaṃ, indriyesu susaṃvutaṃ;</gatha1>
-<gatha2 line="31">Bhojanamhi ca mattaññuṃ, saddhaṃ āraddhavīriyaṃ;</gatha2>
-<gathalast line="32">Taṃ ve nappasahati māro, vāto selaṃva pabbataṃ.</gathalast>
-<hangnum line="33" number="9"></hangnum>
-<gatha1 line="34"> Anikkasāvo kāsāvaṃ, yo vatthaṃ paridahissati;</gatha1>
-<gathalast line="35">Apeto damasaccena, na so kāsāvamarahati.</gathalast>
-<hangnum line="36" number="10"></hangnum>
-<gatha1 line="37"> Yo ca vantakasāvassa, sīlesu susamāhito;</gatha1>
-<gathalast line="38">Upeto damasaccena, sa ve kāsāvamarahati.</gathalast>
-<hangnum line="39" number="11"></hangnum>
-<gatha1 line="40"> Asāre sāramatino, sāre cāsāradassino;</gatha1>
-<gathalast line="41">Te sāraṃ nādhigacchanti, micchāsaṅkappagocarā.</gathalast>
-<hangnum line="42" number="12"></hangnum>
-<gatha1 line="43"> Sārañca <pageBreak edition="V" number="0.0015" /> sārato ñatvā, asārañca asārato;</gatha1>
-<gathalast line="44">Te sāraṃ adhigacchanti, sammāsaṅkappagocarā.</gathalast>
-<hangnum line="45" number="13"></hangnum>
-<gatha1 line="46"> Yathā agāraṃ ducchannaṃ, vuṭṭhī samativijjhati;</gatha1>
-<gathalast line="47">Evaṃ abhāvitaṃ cittaṃ, rāgo samativijjhati.</gathalast>
-<hangnum line="48" number="14"></hangnum>
-<gatha1 line="49"> Yathā <pageBreak edition="M" number="0.0015" /><pageBreak edition="P" number="0.0003" /> agāraṃ suchannaṃ, vuṭṭhī na samativijjhati;</gatha1>
-<gathalast line="50">Evaṃ subhāvitaṃ cittaṃ, rāgo na samativijjhati.</gathalast>
-<hangnum line="51" number="15"></hangnum>
-<gatha1 line="52"> Idha <pageBreak edition="T" number="0.0017" /> socati pecca socati, pāpakārī ubhayattha socati;</gatha1>
-<gathalast line="53">So socati so vihaññati, disvā kammakiliṭṭhamattano.</gathalast>
-<hangnum line="54" number="16"></hangnum>
-<gatha1 line="55"> Idha modati pecca modati, katapuñño ubhayattha modati;</gatha1>
-<gathalast line="56">So modati so pamodati, disvā kammavisuddhimattano.</gathalast>
-<hangnum line="57" number="17"></hangnum>
-<gatha1 line="58"> Idha tappati pecca tappati, <alternatives line="19" extra="null" separator="false"><alternative source-abbr="vri" source="vipassana research institut">pāpakārī</alternative><alternative source-abbr="?" source="unknown">pāpakāri</alternative></alternatives>  ubhayattha tappati;</gatha1>
-<gathalast line="59">‘‘Pāpaṃ me kata’’nti tappati, <alternatives line="27" extra="null" separator="false"><alternative source-abbr="vri" source="vipassana research institut">bhiyyo</alternative><alternative source-abbr="sī." source="sri lanka">bhīyo</alternative></alternatives>  tappati duggatiṃ gato.</gathalast>
-<hangnum line="60" number="18"></hangnum>
-<gatha1 line="61"> Idha nandati pecca nandati, katapuñño ubhayattha nandati;</gatha1>
-<gathalast line="62">‘‘Puññaṃ me kata’’nti nandati, bhiyyo nandati suggatiṃ gato.</gathalast>
-<hangnum line="63" number="19"></hangnum>
-<gatha1 line="64"> Bahumpi ce saṃhita <note>sahitaṃ (sī. syā. kaṃ. pī.)</note> bhāsamāno, na takkaro hoti naro pamatto;</gatha1>
-<gathalast line="65">Gopova <pageBreak edition="M" number="0.0016" /> gāvo gaṇayaṃ paresaṃ, na bhāgavā sāmaññassa hoti.</gathalast>
-<hangnum line="66" number="20"></hangnum>
-<gatha1 line="67"> Appampi ce saṃhita bhāsamāno, dhammassa <alternatives line="42" extra="null" separator="false"><alternative source-abbr="vri" source="vipassana research institut">hoti</alternative><alternative source-abbr="sī." source="sri lanka">hotī</alternative><alternative source-abbr="pī." source="pali text society">hotī</alternative></alternatives>  anudhammacārī;</gatha1>
-<gatha2 line="68">Rāgañca dosañca pahāya mohaṃ, sammappajāno suvimuttacitto;</gatha2>
-<gathalast line="69">Anupādiyāno idha vā huraṃ vā, sa bhāgavā sāmaññassa hoti.</gathalast>
-<centered line="70">Yamakavaggo paṭhamo niṭṭhito.</centered>
-</body>
+  <metadata>
+    <normativeSource>http://tipitaka.org/romn/cscd/s0502m.mul0.xml</normativeSource>
+    <archivePath>roman/tipitaka (mula)/suttapitaka/khuddakanikaya/dhammapadapali/1. yamakavaggo.xml</archivePath>
+    <baseFileName>1. yamakavaggo</baseFileName>
+    <titlePath>1. Yamakavaggo - Dhammapadapāḷi - Khuddakanikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
+    <versions>
+      <version source="vipassana research institut" source-abbr="vri"/>
+      <version source="cambodian" source-abbr="ka."/>
+      <version source="unknown" source-abbr="?"/>
+      <version source="sri lanka" source-abbr="sī."/>
+      <version source="thai" source-abbr="syā."/>
+      <version source="kaṃ." source-abbr="kaṃ."/>
+      <version source="pali text society" source-abbr="pī."/>
+    </versions>
+  </metadata>
+  <content>
+    <centered line="1"> Namo tassa bhagavato arahato sammāsambuddhassa</centered>
+    <nikaya line="2">Khuddakanikāye</nikaya>
+    <book line="3">Dhammapadapāḷi</book>
+    <chapter line="4">1. Yamakavaggo</chapter>
+    <hangnum line="5" number="1"></hangnum>
+    <gatha1 line="6"> Manopubbaṅgamā <pageBreak edition="M" number="0.0013" /><pageBreak edition="V" number="0.0013" /><pageBreak edition="P" number="0.0001" /><pageBreak edition="T" number="0.0015" /> dhammā, manoseṭṭhā manomayā;</gatha1>
+    <gatha2 line="7">Manasā ce paduṭṭhena, bhāsati vā karoti vā;</gatha2>
+    <gathalast line="8">Tato naṃ dukkhamanveti, cakkaṃva vahato padaṃ.</gathalast>
+    <hangnum line="9" number="2"></hangnum>
+    <gatha1 line="10"> Manopubbaṅgamā dhammā, manoseṭṭhā manomayā;</gatha1>
+    <gatha2 line="11">Manasā ce pasannena, bhāsati vā karoti vā;</gatha2>
+    <gathalast line="12">Tato naṃ sukhamanveti, chāyāva <alternatives line="3" extra="" separator="false"><alternative source-abbr="vri" source="vipassana research institut">anapāyinī</alternative><alternative source-abbr="ka." source="cambodian">anupāyinī</alternative></alternatives> .</gathalast>
+    <hangnum line="13" number="3"></hangnum>
+    <gatha1 line="14"> Akkocchi <pageBreak edition="V" number="0.0014" /> maṃ avadhi maṃ, <alternatives line="11" extra="" separator="false"><alternative source-abbr="vri" source="vipassana research institut">ajini</alternative><alternative source-abbr="?" source="unknown">ajinī</alternative></alternatives>  maṃ ahāsi me;</gatha1>
+    <gathalast line="15">Ye ca taṃ upanayhanti, veraṃ tesaṃ na sammati.</gathalast>
+    <hangnum line="16" number="4"></hangnum>
+    <gatha1 line="17"> Akkocchi maṃ avadhi maṃ, ajini maṃ ahāsi me;</gatha1>
+    <gathalast line="18">Ye ca taṃ nupanayhanti, veraṃ tesūpasammati.</gathalast>
+    <hangnum line="19" number="5"></hangnum>
+    <gatha1 line="20"> Na <pageBreak edition="M" number="0.0014" /><pageBreak edition="P" number="0.0002" /> hi verena verāni, sammantīdha kudācanaṃ;</gatha1>
+    <gathalast line="21">Averena ca sammanti, esa dhammo sanantano.</gathalast>
+    <hangnum line="22" number="6"></hangnum>
+    <gatha1 line="23"> Pare <pageBreak edition="T" number="0.0016" /> ca na vijānanti, mayamettha yamāmase;</gatha1>
+    <gathalast line="24">Ye ca tattha vijānanti, tato sammanti medhagā.</gathalast>
+    <hangnum line="25" number="7"></hangnum>
+    <gatha1 line="26"> Subhānupassiṃ viharantaṃ, indriyesu asaṃvutaṃ;</gatha1>
+    <gatha2 line="27">Bhojanamhi cāmattaññuṃ, kusītaṃ hīnavīriyaṃ;</gatha2>
+    <gathalast line="28">Taṃ ve pasahati māro, vāto rukkhaṃva dubbalaṃ.</gathalast>
+    <hangnum line="29" number="8"></hangnum>
+    <gatha1 line="30"> Asubhānupassiṃ viharantaṃ, indriyesu susaṃvutaṃ;</gatha1>
+    <gatha2 line="31">Bhojanamhi ca mattaññuṃ, saddhaṃ āraddhavīriyaṃ;</gatha2>
+    <gathalast line="32">Taṃ ve nappasahati māro, vāto selaṃva pabbataṃ.</gathalast>
+    <hangnum line="33" number="9"></hangnum>
+    <gatha1 line="34"> Anikkasāvo kāsāvaṃ, yo vatthaṃ paridahissati;</gatha1>
+    <gathalast line="35">Apeto damasaccena, na so kāsāvamarahati.</gathalast>
+    <hangnum line="36" number="10"></hangnum>
+    <gatha1 line="37"> Yo ca vantakasāvassa, sīlesu susamāhito;</gatha1>
+    <gathalast line="38">Upeto damasaccena, sa ve kāsāvamarahati.</gathalast>
+    <hangnum line="39" number="11"></hangnum>
+    <gatha1 line="40"> Asāre sāramatino, sāre cāsāradassino;</gatha1>
+    <gathalast line="41">Te sāraṃ nādhigacchanti, micchāsaṅkappagocarā.</gathalast>
+    <hangnum line="42" number="12"></hangnum>
+    <gatha1 line="43"> Sārañca <pageBreak edition="V" number="0.0015" /> sārato ñatvā, asārañca asārato;</gatha1>
+    <gathalast line="44">Te sāraṃ adhigacchanti, sammāsaṅkappagocarā.</gathalast>
+    <hangnum line="45" number="13"></hangnum>
+    <gatha1 line="46"> Yathā agāraṃ ducchannaṃ, vuṭṭhī samativijjhati;</gatha1>
+    <gathalast line="47">Evaṃ abhāvitaṃ cittaṃ, rāgo samativijjhati.</gathalast>
+    <hangnum line="48" number="14"></hangnum>
+    <gatha1 line="49"> Yathā <pageBreak edition="M" number="0.0015" /><pageBreak edition="P" number="0.0003" /> agāraṃ suchannaṃ, vuṭṭhī na samativijjhati;</gatha1>
+    <gathalast line="50">Evaṃ subhāvitaṃ cittaṃ, rāgo na samativijjhati.</gathalast>
+    <hangnum line="51" number="15"></hangnum>
+    <gatha1 line="52"> Idha <pageBreak edition="T" number="0.0017" /> socati pecca socati, pāpakārī ubhayattha socati;</gatha1>
+    <gathalast line="53">So socati so vihaññati, disvā kammakiliṭṭhamattano.</gathalast>
+    <hangnum line="54" number="16"></hangnum>
+    <gatha1 line="55"> Idha modati pecca modati, katapuñño ubhayattha modati;</gatha1>
+    <gathalast line="56">So modati so pamodati, disvā kammavisuddhimattano.</gathalast>
+    <hangnum line="57" number="17"></hangnum>
+    <gatha1 line="58"> Idha tappati pecca tappati, <alternatives line="19" extra="" separator="false"><alternative source-abbr="vri" source="vipassana research institut">pāpakārī</alternative><alternative source-abbr="?" source="unknown">pāpakāri</alternative></alternatives>  ubhayattha tappati;</gatha1>
+    <gathalast line="59">‘‘Pāpaṃ me kata’’nti tappati, <alternatives line="27" extra="" separator="false"><alternative source-abbr="vri" source="vipassana research institut">bhiyyo</alternative><alternative source-abbr="sī." source="sri lanka">bhīyo</alternative></alternatives>  tappati duggatiṃ gato.</gathalast>
+    <hangnum line="60" number="18"></hangnum>
+    <gatha1 line="61"> Idha nandati pecca nandati, katapuñño ubhayattha nandati;</gatha1>
+    <gathalast line="62">‘‘Puññaṃ me kata’’nti nandati, bhiyyo nandati suggatiṃ gato.</gathalast>
+    <hangnum line="63" number="19"></hangnum>
+    <gatha1 line="64"> Bahumpi ce saṃhita <note>sahitaṃ (sī. syā. kaṃ. pī.)</note> bhāsamāno, na takkaro hoti naro pamatto;</gatha1>
+    <gathalast line="65">Gopova <pageBreak edition="M" number="0.0016" /> gāvo gaṇayaṃ paresaṃ, na bhāgavā sāmaññassa hoti.</gathalast>
+    <hangnum line="66" number="20"></hangnum>
+    <gatha1 line="67"> Appampi ce saṃhita bhāsamāno, dhammassa <alternatives line="42" extra="" separator="false"><alternative source-abbr="vri" source="vipassana research institut">hoti</alternative><alternative source-abbr="sī." source="sri lanka">hotī</alternative><alternative source-abbr="pī." source="pali text society">hotī</alternative></alternatives>  anudhammacārī;</gatha1>
+    <gatha2 line="68">Rāgañca dosañca pahāya mohaṃ, sammappajāno suvimuttacitto;</gatha2>
+    <gathalast line="69">Anupādiyāno idha vā huraṃ vā, sa bhāgavā sāmaññassa hoti.</gathalast>
+    <centered line="70">Yamakavaggo paṭhamo niṭṭhito.</centered>
+  </content>
 </document>

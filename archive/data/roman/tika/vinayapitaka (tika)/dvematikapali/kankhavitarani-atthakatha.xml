@@ -1,24 +1,27 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="utf-8"?>
 <document>
-<metadata>
-<normativeSource>http://tipitaka.org/romn/cscd/vin04t.nrf2.xml</normativeSource>
-<archivePath>roman/tika/vinayapitaka (tika)/dvematikapali/kankhavitarani-atthakatha.xml</archivePath>
-<titlePath>Kaṅkhāvitaraṇī-aṭṭhakathā - Dvemātikāpāḷi - Vinayapiṭaka (ṭīkā) - Tīkā</titlePath>
-</metadata>
-<body>
-<chapter line="1">Kaṅkhāvitaraṇī-aṭṭhakathā</chapter>
-<subsubhead line="2">Ganthārambhakathā</subsubhead>
-<gatha1 line="3">Buddhaṃ <pageBreak edition="P" number="0.0001" /><pageBreak edition="M" number="0.0083" /><pageBreak edition="V" number="0.0091" /> dhammañca saṅghañca, vippasannena cetasā;</gatha1>
-<gathalast line="4">Vanditvā vandanāmāna, pūjāsakkārabhājanaṃ.</gathalast>
-<gatha1 line="5">Theravaṃsappadīpānaṃ, thirānaṃ vinayakkame;</gatha1>
-<gathalast line="6">Pubbācariyasīhānaṃ, namo katvā katañjalī.</gathalast>
-<gatha1 line="7">Pāmokkhaṃ anavajjānaṃ, dhammānaṃ yaṃ mahesinā;</gatha1>
-<gathalast line="8">Mukhaṃ mokkhappavesāya, pātimokkhaṃ pakāsitaṃ.</gathalast>
-<gatha1 line="9">Sūratena <pageBreak edition="V" number="0.0092" /> nivātena, sucisallekhavuttinā;</gatha1>
-<gathalast line="10">Vinayācārayuttena, <bold>soṇattherena</bold> yācito.</gathalast>
-<gatha1 line="11">Tattha sañjātakaṅkhānaṃ, bhikkhūnaṃ tassa vaṇṇanaṃ;</gatha1>
-<gathalast line="12">Kaṅkhāvitaraṇatthāya, paripuṇṇavinicchayaṃ.</gathalast>
-<gatha1 line="13">Mahāvihāravāsīnaṃ, vācanāmagganissitaṃ;</gatha1>
-<gathalast line="14">Vattayissāmi nāmena, <bold>kaṅkhāvitaraṇiṃ</bold> subhanti.</gathalast>
-</body>
+  <metadata>
+    <normativeSource>http://tipitaka.org/romn/cscd/vin04t.nrf2.xml</normativeSource>
+    <archivePath>roman/tika/vinayapitaka (tika)/dvematikapali/kankhavitarani-atthakatha.xml</archivePath>
+    <baseFileName>kankhavitarani-atthakatha</baseFileName>
+    <titlePath>Kaṅkhāvitaraṇī-aṭṭhakathā - Dvemātikāpāḷi - Vinayapiṭaka (ṭīkā) - Tīkā</titlePath>
+    <versions>
+    </versions>
+  </metadata>
+  <content>
+    <chapter line="1">Kaṅkhāvitaraṇī-aṭṭhakathā</chapter>
+    <subsubhead line="2">Ganthārambhakathā</subsubhead>
+    <gatha1 line="3">Buddhaṃ <pageBreak edition="P" number="0.0001" /><pageBreak edition="M" number="0.0083" /><pageBreak edition="V" number="0.0091" /> dhammañca saṅghañca, vippasannena cetasā;</gatha1>
+    <gathalast line="4">Vanditvā vandanāmāna, pūjāsakkārabhājanaṃ.</gathalast>
+    <gatha1 line="5">Theravaṃsappadīpānaṃ, thirānaṃ vinayakkame;</gatha1>
+    <gathalast line="6">Pubbācariyasīhānaṃ, namo katvā katañjalī.</gathalast>
+    <gatha1 line="7">Pāmokkhaṃ anavajjānaṃ, dhammānaṃ yaṃ mahesinā;</gatha1>
+    <gathalast line="8">Mukhaṃ mokkhappavesāya, pātimokkhaṃ pakāsitaṃ.</gathalast>
+    <gatha1 line="9">Sūratena <pageBreak edition="V" number="0.0092" /> nivātena, sucisallekhavuttinā;</gatha1>
+    <gathalast line="10">Vinayācārayuttena, <bold>soṇattherena</bold> yācito.</gathalast>
+    <gatha1 line="11">Tattha sañjātakaṅkhānaṃ, bhikkhūnaṃ tassa vaṇṇanaṃ;</gatha1>
+    <gathalast line="12">Kaṅkhāvitaraṇatthāya, paripuṇṇavinicchayaṃ.</gathalast>
+    <gatha1 line="13">Mahāvihāravāsīnaṃ, vācanāmagganissitaṃ;</gatha1>
+    <gathalast line="14">Vattayissāmi nāmena, <bold>kaṅkhāvitaraṇiṃ</bold> subhanti.</gathalast>
+  </content>
 </document>

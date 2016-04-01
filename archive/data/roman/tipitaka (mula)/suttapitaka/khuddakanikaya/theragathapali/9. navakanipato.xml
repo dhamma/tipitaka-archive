@@ -1,44 +1,47 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="utf-8"?>
 <document>
-<metadata>
-<normativeSource>http://tipitaka.org/romn/cscd/s0508m.mul8.xml</normativeSource>
-<archivePath>roman/tipitaka (mula)/suttapitaka/khuddakanikaya/theragathapali/9. navakanipato.xml</archivePath>
-<titlePath>9. Navakanipāto - Theragāthāpāḷi - Khuddakanikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
-</metadata>
-<body>
-<chapter line="1">9. Navakanipāto</chapter>
-<subhead line="2">1. Bhūtattheragāthā</subhead>
-<hangnum line="3" number="518"></hangnum>
-<gatha1 line="4"> ‘‘Yadā <pageBreak edition="M" number="0.0298" /><pageBreak edition="V" number="0.0235" /><pageBreak edition="P" number="0.0054" /> dukkhaṃ jarāmaraṇanti paṇḍito, aviddasū yattha sitā puthujjanā;</gatha1>
-<gathalast line="5">Dukkhaṃ pariññāya satova jhāyati, tato ratiṃ paramataraṃ na vindati.</gathalast>
-<hangnum line="6" number="519"></hangnum>
-<gatha1 line="7"> ‘‘Yadā dukkhassāvahaniṃ visattikaṃ, papañcasaṅghātadukhādhivāhiniṃ;</gatha1>
-<gathalast line="8">Taṇhaṃ pahantvāna satova jhāyati, tato ratiṃ paramataraṃ na vindati.</gathalast>
-<hangnum line="9" number="520"></hangnum>
-<gatha1 line="10"> ‘‘Yadā sivaṃ dvecaturaṅgagāminaṃ, magguttamaṃ <pageBreak edition="T" number="0.0345" /> sabbakilesasodhanaṃ;</gatha1>
-<gathalast line="11">Paññāya passitva satova jhāyati, tato ratiṃ paramataraṃ na vindati.</gathalast>
-<hangnum line="12" number="521"></hangnum>
-<gatha1 line="13"> ‘‘Yadā asokaṃ virajaṃ asaṅkhataṃ, santaṃ padaṃ sabbakilesasodhanaṃ;</gatha1>
-<gathalast line="14">Bhāveti saññojanabandhanacchidaṃ, tato ratiṃ paramataraṃ na vindati.</gathalast>
-<hangnum line="15" number="522"></hangnum>
-<gatha1 line="16"> ‘‘Yadā nabhe gajjati meghadundubhi, dhārākulā vihagapathe samantato;</gatha1>
-<gathalast line="17">Bhikkhū ca pabbhāragatova jhāyati, tato ratiṃ paramataraṃ na vindati.</gathalast>
-<hangnum line="18" number="523"></hangnum>
-<gatha1 line="19"> ‘‘Yadā nadīnaṃ kusumākulānaṃ, vicitta-vāneyya-vaṭaṃsakānaṃ;</gatha1>
-<gathalast line="20">Tīre nisinno sumanova jhāyati, tato ratiṃ paramataraṃ na vindati.</gathalast>
-<hangnum line="21" number="524"></hangnum>
-<gatha1 line="22"> ‘‘Yadā <pageBreak edition="M" number="0.0299" /> nisīthe rahitamhi kānane, deve gaḷantamhi nadanti dāṭhino;</gatha1>
-<gathalast line="23">Bhikkhū ca pabbhāragatova jhāyati, tato ratiṃ paramataraṃ na vindati.</gathalast>
-<hangnum line="24" number="525"></hangnum>
-<gatha1 line="25"> ‘‘Yadā <pageBreak edition="T" number="0.0346" /> vitakke uparundhiyattano, nagantare nagavivaraṃ samassito;</gatha1>
-<gathalast line="26">Vītaddaro vītakhilova jhāyati, tato ratiṃ paramataraṃ na vindati.</gathalast>
-<hangnum line="27" number="526"></hangnum>
-<gatha1 line="28"> ‘‘Yadā <pageBreak edition="P" number="0.0055" /> sukhī malakhilasokanāsano, niraggaḷo nibbanatho visallo;</gatha1>
-<gathalast line="29">Sabbāsave byantikatova jhāyati, tato ratiṃ paramataraṃ na vindatī’’ti.</gathalast>
-<centered line="30">… Bhūto thero….</centered>
-<centered line="31">Navakanipāto niṭṭhito.</centered>
-<paragraph line="32">Tatruddānaṃ –</paragraph>
-<gatha1 line="33">Bhūto tathaddaso thero, eko khaggavisāṇavā;</gatha1>
-<gathalast line="34">Navakamhi nipātamhi, gāthāyopi imā navāti.</gathalast>
-</body>
+  <metadata>
+    <normativeSource>http://tipitaka.org/romn/cscd/s0508m.mul8.xml</normativeSource>
+    <archivePath>roman/tipitaka (mula)/suttapitaka/khuddakanikaya/theragathapali/9. navakanipato.xml</archivePath>
+    <baseFileName>9. navakanipato</baseFileName>
+    <titlePath>9. Navakanipāto - Theragāthāpāḷi - Khuddakanikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
+    <versions>
+    </versions>
+  </metadata>
+  <content>
+    <chapter line="1">9. Navakanipāto</chapter>
+    <subhead line="2">1. Bhūtattheragāthā</subhead>
+    <hangnum line="3" number="518"></hangnum>
+    <gatha1 line="4"> ‘‘Yadā <pageBreak edition="M" number="0.0298" /><pageBreak edition="V" number="0.0235" /><pageBreak edition="P" number="0.0054" /> dukkhaṃ jarāmaraṇanti paṇḍito, aviddasū yattha sitā puthujjanā;</gatha1>
+    <gathalast line="5">Dukkhaṃ pariññāya satova jhāyati, tato ratiṃ paramataraṃ na vindati.</gathalast>
+    <hangnum line="6" number="519"></hangnum>
+    <gatha1 line="7"> ‘‘Yadā dukkhassāvahaniṃ visattikaṃ, papañcasaṅghātadukhādhivāhiniṃ;</gatha1>
+    <gathalast line="8">Taṇhaṃ pahantvāna satova jhāyati, tato ratiṃ paramataraṃ na vindati.</gathalast>
+    <hangnum line="9" number="520"></hangnum>
+    <gatha1 line="10"> ‘‘Yadā sivaṃ dvecaturaṅgagāminaṃ, magguttamaṃ <pageBreak edition="T" number="0.0345" /> sabbakilesasodhanaṃ;</gatha1>
+    <gathalast line="11">Paññāya passitva satova jhāyati, tato ratiṃ paramataraṃ na vindati.</gathalast>
+    <hangnum line="12" number="521"></hangnum>
+    <gatha1 line="13"> ‘‘Yadā asokaṃ virajaṃ asaṅkhataṃ, santaṃ padaṃ sabbakilesasodhanaṃ;</gatha1>
+    <gathalast line="14">Bhāveti saññojanabandhanacchidaṃ, tato ratiṃ paramataraṃ na vindati.</gathalast>
+    <hangnum line="15" number="522"></hangnum>
+    <gatha1 line="16"> ‘‘Yadā nabhe gajjati meghadundubhi, dhārākulā vihagapathe samantato;</gatha1>
+    <gathalast line="17">Bhikkhū ca pabbhāragatova jhāyati, tato ratiṃ paramataraṃ na vindati.</gathalast>
+    <hangnum line="18" number="523"></hangnum>
+    <gatha1 line="19"> ‘‘Yadā nadīnaṃ kusumākulānaṃ, vicitta-vāneyya-vaṭaṃsakānaṃ;</gatha1>
+    <gathalast line="20">Tīre nisinno sumanova jhāyati, tato ratiṃ paramataraṃ na vindati.</gathalast>
+    <hangnum line="21" number="524"></hangnum>
+    <gatha1 line="22"> ‘‘Yadā <pageBreak edition="M" number="0.0299" /> nisīthe rahitamhi kānane, deve gaḷantamhi nadanti dāṭhino;</gatha1>
+    <gathalast line="23">Bhikkhū ca pabbhāragatova jhāyati, tato ratiṃ paramataraṃ na vindati.</gathalast>
+    <hangnum line="24" number="525"></hangnum>
+    <gatha1 line="25"> ‘‘Yadā <pageBreak edition="T" number="0.0346" /> vitakke uparundhiyattano, nagantare nagavivaraṃ samassito;</gatha1>
+    <gathalast line="26">Vītaddaro vītakhilova jhāyati, tato ratiṃ paramataraṃ na vindati.</gathalast>
+    <hangnum line="27" number="526"></hangnum>
+    <gatha1 line="28"> ‘‘Yadā <pageBreak edition="P" number="0.0055" /> sukhī malakhilasokanāsano, niraggaḷo nibbanatho visallo;</gatha1>
+    <gathalast line="29">Sabbāsave byantikatova jhāyati, tato ratiṃ paramataraṃ na vindatī’’ti.</gathalast>
+    <centered line="30">… Bhūto thero….</centered>
+    <centered line="31">Navakanipāto niṭṭhito.</centered>
+    <paragraph line="32">Tatruddānaṃ –</paragraph>
+    <gatha1 line="33">Bhūto tathaddaso thero, eko khaggavisāṇavā;</gatha1>
+    <gathalast line="34">Navakamhi nipātamhi, gāthāyopi imā navāti.</gathalast>
+  </content>
 </document>

@@ -1,18 +1,21 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="utf-8"?>
 <document>
-<metadata>
-<normativeSource>http://tipitaka.org/romn/cscd/e1214n.nrf6.xml</normativeSource>
-<archivePath>roman/anya/sihala-gantha-sangaho/kaccayanadhatumanjusa/kiyadayo.xml</archivePath>
-<titlePath>Kiyādayo - Kaccāyanadhātumañjusā - Sihaḷa-gantha-saṅgaho - Anya</titlePath>
-</metadata>
-<body>
-<chapter line="1">Kiyādayo</chapter>
-<hangnum line="2" number="118"></hangnum>
-<gatha1 line="3"> Kī vinimaye ci caye ji jaye ñā’vabodhane,</gatha1>
-<gathalast line="4">Thava’bhitthave kampane dhu (atho) pu pavane (siyā;)</gathalast>
-<hangnum line="5" number="119"></hangnum>
-<gatha1 line="6">Pī tappaṇe mā pamāṇe khipakkhepe mi hiṃsane,</gatha1>
-<gatha2 line="7">Mi pamāṇe mu bandhe (ca) lu pacchede si bandhane</gatha2>
-<gathalast line="8">Asa bhakkhaṇe (atho) gaha upādāne (kiyādayo;)</gathalast>
-</body>
+  <metadata>
+    <normativeSource>http://tipitaka.org/romn/cscd/e1214n.nrf6.xml</normativeSource>
+    <archivePath>roman/anya/sihala-gantha-sangaho/kaccayanadhatumanjusa/kiyadayo.xml</archivePath>
+    <baseFileName>kiyadayo</baseFileName>
+    <titlePath>Kiyādayo - Kaccāyanadhātumañjusā - Sihaḷa-gantha-saṅgaho - Anya</titlePath>
+    <versions>
+    </versions>
+  </metadata>
+  <content>
+    <chapter line="1">Kiyādayo</chapter>
+    <hangnum line="2" number="118"></hangnum>
+    <gatha1 line="3"> Kī vinimaye ci caye ji jaye ñā’vabodhane,</gatha1>
+    <gathalast line="4">Thava’bhitthave kampane dhu (atho) pu pavane (siyā;)</gathalast>
+    <hangnum line="5" number="119"></hangnum>
+    <gatha1 line="6">Pī tappaṇe mā pamāṇe khipakkhepe mi hiṃsane,</gatha1>
+    <gatha2 line="7">Mi pamāṇe mu bandhe (ca) lu pacchede si bandhane</gatha2>
+    <gathalast line="8">Asa bhakkhaṇe (atho) gaha upādāne (kiyādayo;)</gathalast>
+  </content>
 </document>

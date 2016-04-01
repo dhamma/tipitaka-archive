@@ -1,56 +1,59 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="utf-8"?>
 <document>
-<metadata>
-<normativeSource>http://tipitaka.org/romn/cscd/e0605n.nrf5.xml</normativeSource>
-<archivePath>roman/anya/buddha-vandana gantha-sangaho/jinalankara/bodhisambharadipanigatha.xml</archivePath>
-<titlePath>Bodhisambhāradīpanīgāthā - Jinālaṅkāra - Buddha-vandanā gantha-saṅgaho - Anya</titlePath>
-</metadata>
-<body>
-<chapter line="1">Bodhisambhāradīpanīgāthā</chapter>
-<hangnum line="2" number="23"></hangnum>
-<gatha1 line="3"> So dukkhakhinnajanadassanadukkhakhinno,</gatha1>
-<gatha2 line="4">Kāruññameva janatāya akāsi niccaṃ;</gatha2>
-<gatha3 line="5">Tesaṃ hi mocanamupāyamidanti ñatvā,</gatha3>
-<gathalast line="6">Tādīparādhamapi attani ropayī so.</gathalast>
-<hangnum line="7" number="24"></hangnum>
-<gatha1 line="8"> Dānādinekavarapāramisāgaresu,</gatha1>
-<gatha2 line="9">Ogāḷhatāyapi paduṭṭhajanena dinnaṃ;</gatha2>
-<gatha3 line="10">Dukkhaṃ tathā atimahantatarampi kiñci,</gatha3>
-<gathalast line="11">Nāññāsi sattahitamevea gavesayanto.</gathalast>
-<hangnum line="12" number="25"></hangnum>
-<gatha1 line="13"> Chetvāna sīsaṃ hi sakaṃ dadanto,</gatha1>
-<gatha2 line="14">Maṃsaṃ pacitvāna sakaṃ dadanto;</gatha2>
-<gatha3 line="15">So cattagatto paṇidhānakāle,</gatha3>
-<gathalast line="16">Duṭṭhassa kiṃ dussati chedanena.</gathalast>
-<hangnum line="17" number="26"></hangnum>
-<gatha1 line="18"> Evaṃ anantamapi jātisatesu dukkhaṃ,</gatha1>
-<gatha2 line="19">Patvāna sattahitameva gavesayanto;</gatha2>
-<gatha3 line="20">Dīpaṅkare gahitasīlasamādhipaññaṃ,</gatha3>
-<gathalast line="21">Pālesi yāva sakabodhitale suniṭṭho.</gathalast>
-<hangnum line="22" number="27"></hangnum>
-<gatha1 line="23"> Yadābhinīhāramakā sumedho,</gatha1>
-<gatha2 line="24">Yadā ca maddiṃ adadā sivindo;</gatha2>
-<gatha3 line="25">Etthantare jātisu kiñcipekaṃ,</gatha3>
-<gathalast line="26">Niratthakaṃ no agamāsi tassa.</gathalast>
-<hangnum line="27" number="28"></hangnum>
-<gatha1 line="28"> Mahāsamudde jalabindutopi,</gatha1>
-<gatha2 line="29">Tadantre jāti anappakā va;</gatha2>
-<gatha3 line="30">Nirantaraṃ pūritapāramīnaṃ,</gatha3>
-<gathalast line="31">Kathaṃ pamāṇaṃ upamā kuhiṃ vā.</gathalast>
-<hangnum line="32" number="29"></hangnum>
-<gatha1 line="33"> Yo maggapasse madhurambabījaṃ,</gatha1>
-<gatha2 line="34">Chāyāphalatthāya mahājanānaṃ;</gatha2>
-<gatha3 line="35">Ropesi tasmiṃ hi khaṇeva tena,</gatha3>
-<gathalast line="36">Chāyāphale puññamaladdhamuddhaṃ.</gathalast>
-<hangnum line="37" number="30"></hangnum>
-<gatha1 line="38"> Tatheva saṃsārapathe janānaṃ,</gatha1>
-<gatha2 line="39">Hitāya attanamabhiropitakkhaṇe;</gatha2>
-<gatha3 line="40">Siddhaṃ va puññūpari tassa tasmiṃ,</gatha3>
-<gathalast line="41">Dhanaṅgajīvaṃ pi haranti ye ye.</gathalast>
-<hangnum line="42" number="31"></hangnum>
-<gatha1 line="43"> So sāgare jaladhikaṃ ruhiraṃ adāsi,</gatha1>
-<gatha2 line="44">Bhūmāparājiya samaṃsamadāsi dānaṃ;</gatha2>
-<gatha3 line="45">Meruppamāṇamadhikañca samoḷisīsaṃ,</gatha3>
-<gathalast line="46">Khe tārakādhikataraṃ nayanaṃ adāsi.</gathalast>
-</body>
+  <metadata>
+    <normativeSource>http://tipitaka.org/romn/cscd/e0605n.nrf5.xml</normativeSource>
+    <archivePath>roman/anya/buddha-vandana gantha-sangaho/jinalankara/bodhisambharadipanigatha.xml</archivePath>
+    <baseFileName>bodhisambharadipanigatha</baseFileName>
+    <titlePath>Bodhisambhāradīpanīgāthā - Jinālaṅkāra - Buddha-vandanā gantha-saṅgaho - Anya</titlePath>
+    <versions>
+    </versions>
+  </metadata>
+  <content>
+    <chapter line="1">Bodhisambhāradīpanīgāthā</chapter>
+    <hangnum line="2" number="23"></hangnum>
+    <gatha1 line="3"> So dukkhakhinnajanadassanadukkhakhinno,</gatha1>
+    <gatha2 line="4">Kāruññameva janatāya akāsi niccaṃ;</gatha2>
+    <gatha3 line="5">Tesaṃ hi mocanamupāyamidanti ñatvā,</gatha3>
+    <gathalast line="6">Tādīparādhamapi attani ropayī so.</gathalast>
+    <hangnum line="7" number="24"></hangnum>
+    <gatha1 line="8"> Dānādinekavarapāramisāgaresu,</gatha1>
+    <gatha2 line="9">Ogāḷhatāyapi paduṭṭhajanena dinnaṃ;</gatha2>
+    <gatha3 line="10">Dukkhaṃ tathā atimahantatarampi kiñci,</gatha3>
+    <gathalast line="11">Nāññāsi sattahitamevea gavesayanto.</gathalast>
+    <hangnum line="12" number="25"></hangnum>
+    <gatha1 line="13"> Chetvāna sīsaṃ hi sakaṃ dadanto,</gatha1>
+    <gatha2 line="14">Maṃsaṃ pacitvāna sakaṃ dadanto;</gatha2>
+    <gatha3 line="15">So cattagatto paṇidhānakāle,</gatha3>
+    <gathalast line="16">Duṭṭhassa kiṃ dussati chedanena.</gathalast>
+    <hangnum line="17" number="26"></hangnum>
+    <gatha1 line="18"> Evaṃ anantamapi jātisatesu dukkhaṃ,</gatha1>
+    <gatha2 line="19">Patvāna sattahitameva gavesayanto;</gatha2>
+    <gatha3 line="20">Dīpaṅkare gahitasīlasamādhipaññaṃ,</gatha3>
+    <gathalast line="21">Pālesi yāva sakabodhitale suniṭṭho.</gathalast>
+    <hangnum line="22" number="27"></hangnum>
+    <gatha1 line="23"> Yadābhinīhāramakā sumedho,</gatha1>
+    <gatha2 line="24">Yadā ca maddiṃ adadā sivindo;</gatha2>
+    <gatha3 line="25">Etthantare jātisu kiñcipekaṃ,</gatha3>
+    <gathalast line="26">Niratthakaṃ no agamāsi tassa.</gathalast>
+    <hangnum line="27" number="28"></hangnum>
+    <gatha1 line="28"> Mahāsamudde jalabindutopi,</gatha1>
+    <gatha2 line="29">Tadantre jāti anappakā va;</gatha2>
+    <gatha3 line="30">Nirantaraṃ pūritapāramīnaṃ,</gatha3>
+    <gathalast line="31">Kathaṃ pamāṇaṃ upamā kuhiṃ vā.</gathalast>
+    <hangnum line="32" number="29"></hangnum>
+    <gatha1 line="33"> Yo maggapasse madhurambabījaṃ,</gatha1>
+    <gatha2 line="34">Chāyāphalatthāya mahājanānaṃ;</gatha2>
+    <gatha3 line="35">Ropesi tasmiṃ hi khaṇeva tena,</gatha3>
+    <gathalast line="36">Chāyāphale puññamaladdhamuddhaṃ.</gathalast>
+    <hangnum line="37" number="30"></hangnum>
+    <gatha1 line="38"> Tatheva saṃsārapathe janānaṃ,</gatha1>
+    <gatha2 line="39">Hitāya attanamabhiropitakkhaṇe;</gatha2>
+    <gatha3 line="40">Siddhaṃ va puññūpari tassa tasmiṃ,</gatha3>
+    <gathalast line="41">Dhanaṅgajīvaṃ pi haranti ye ye.</gathalast>
+    <hangnum line="42" number="31"></hangnum>
+    <gatha1 line="43"> So sāgare jaladhikaṃ ruhiraṃ adāsi,</gatha1>
+    <gatha2 line="44">Bhūmāparājiya samaṃsamadāsi dānaṃ;</gatha2>
+    <gatha3 line="45">Meruppamāṇamadhikañca samoḷisīsaṃ,</gatha3>
+    <gathalast line="46">Khe tārakādhikataraṃ nayanaṃ adāsi.</gathalast>
+  </content>
 </document>

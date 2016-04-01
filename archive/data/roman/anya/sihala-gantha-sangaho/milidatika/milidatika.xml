@@ -1,27 +1,30 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="utf-8"?>
 <document>
-<metadata>
-<normativeSource>http://tipitaka.org/romn/cscd/e1210n.nrf0.xml</normativeSource>
-<archivePath>roman/anya/sihala-gantha-sangaho/milidatika/milidatika.xml</archivePath>
-<titlePath>Milidaṭīkā - Milidaṭīkā - Sihaḷa-gantha-saṅgaho - Anya</titlePath>
-</metadata>
-<body>
-<chapter line="1">Milidaṭīkā</chapter>
-<centered line="2">Namo tassa bhagavato arahato sammāsambuddhassa</centered>
-<gatha1 line="3">Nirantaraṃ lokahitassa kārakaṃ</gatha1>
-<gatha2 line="4">Nirantaraṃ lokahitassa desakaṃ,</gatha2>
-<gatha3 line="5">Nirantaraṃ lokahitassa cintakaṃ</gatha3>
-<gathalast line="6">Namāmi vīraṃ naradammasārathiṃ;</gathalast>
-<gatha1 line="7">Pañhadhammaviduṃ nāthaṃ guyhadhammappakāsakaṃ,</gatha1>
-<gathalast line="8">Namassivāna sambuddhaṃ dhammaṃ sādhuguṇampi ca;</gathalast>
-<gatha1 line="9">Nāgasenamahātheraṃ piṭakattayakovidaṃ,</gatha1>
-<gathalast line="10">Vadivā tampi sirasā pañhadhammappakāsakaṃ;</gathalast>
-<gatha1 line="11">Milidapañhavivaraṇaṃ madhurathappakāsiniṃ,</gatha1>
-<gathalast line="12">Racayissaṃ samāsena taṃ suṇātha samāhitā;</gathalast>
-<paragraph line="13" number="1"> Tatha pakiṇṇakathavivaraṇaṃ jātakuddharaṇanti dve yevamātikā.</paragraph>
-<paragraph line="14">Tatha-</paragraph>
-<gatha1 line="15">Sambadho ca padañceva padatho padaviggaho</gatha1>
-<gatha2 line="16">Codanā parihāro’ti chabbidhā athavaṇṇanā’ti;</gatha2>
-<paragraph line="17">Vuttattā sambadho tāva veditabbo. So ca yathāvuttājjhāhāravasena duvidho.</paragraph>
-</body>
+  <metadata>
+    <normativeSource>http://tipitaka.org/romn/cscd/e1210n.nrf0.xml</normativeSource>
+    <archivePath>roman/anya/sihala-gantha-sangaho/milidatika/milidatika.xml</archivePath>
+    <baseFileName>milidatika</baseFileName>
+    <titlePath>Milidaṭīkā - Milidaṭīkā - Sihaḷa-gantha-saṅgaho - Anya</titlePath>
+    <versions>
+    </versions>
+  </metadata>
+  <content>
+    <chapter line="1">Milidaṭīkā</chapter>
+    <centered line="2">Namo tassa bhagavato arahato sammāsambuddhassa</centered>
+    <gatha1 line="3">Nirantaraṃ lokahitassa kārakaṃ</gatha1>
+    <gatha2 line="4">Nirantaraṃ lokahitassa desakaṃ,</gatha2>
+    <gatha3 line="5">Nirantaraṃ lokahitassa cintakaṃ</gatha3>
+    <gathalast line="6">Namāmi vīraṃ naradammasārathiṃ;</gathalast>
+    <gatha1 line="7">Pañhadhammaviduṃ nāthaṃ guyhadhammappakāsakaṃ,</gatha1>
+    <gathalast line="8">Namassivāna sambuddhaṃ dhammaṃ sādhuguṇampi ca;</gathalast>
+    <gatha1 line="9">Nāgasenamahātheraṃ piṭakattayakovidaṃ,</gatha1>
+    <gathalast line="10">Vadivā tampi sirasā pañhadhammappakāsakaṃ;</gathalast>
+    <gatha1 line="11">Milidapañhavivaraṇaṃ madhurathappakāsiniṃ,</gatha1>
+    <gathalast line="12">Racayissaṃ samāsena taṃ suṇātha samāhitā;</gathalast>
+    <paragraph line="13" number="1"> Tatha pakiṇṇakathavivaraṇaṃ jātakuddharaṇanti dve yevamātikā.</paragraph>
+    <paragraph line="14">Tatha-</paragraph>
+    <gatha1 line="15">Sambadho ca padañceva padatho padaviggaho</gatha1>
+    <gatha2 line="16">Codanā parihāro’ti chabbidhā athavaṇṇanā’ti;</gatha2>
+    <paragraph line="17">Vuttattā sambadho tāva veditabbo. So ca yathāvuttājjhāhāravasena duvidho.</paragraph>
+  </content>
 </document>

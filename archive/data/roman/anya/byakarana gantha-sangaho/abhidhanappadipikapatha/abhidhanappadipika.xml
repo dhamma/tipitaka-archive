@@ -1,50 +1,53 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="utf-8"?>
 <document>
-<metadata>
-<normativeSource>http://tipitaka.org/romn/cscd/e0809n.nrf0.xml</normativeSource>
-<archivePath>roman/anya/byakarana gantha-sangaho/abhidhanappadipikapatha/abhidhanappadipika.xml</archivePath>
-<titlePath>Abhidhānappadīpikā - Abhidhānappadīpikāpāṭha - Byākaraṇa gantha-saṅgaho - Anya</titlePath>
-</metadata>
-<body>
-<centered line="1">Namo tassa bhagavato arahato sammāsambuddhassa</centered>
-<book line="2">Abhidhānappadīpikā</book>
-<subhead line="3">Buddhappaṇāmo</subhead>
-<hangnum line="4" number="1"></hangnum>
-<gatha1 line="5"> Tathāgato <pageBreak edition="M" number="0.0001" /> yo karuṇākaro karo,</gatha1>
-<gatha2 line="6">Payāta’mosajja sukhappadaṃ padaṃ;</gatha2>
-<gatha3 line="7">Akā paratthaṃ kalisambhave bhave,</gatha3>
-<gathalast line="8">Namāmi taṃ kevaladukkaraṃ karaṃ.</gathalast>
-<subhead line="9">Dhammappaṇāmo</subhead>
-<hangnum line="10" number="2"></hangnum>
-<gatha1 line="11"> Apūjayuṃ yaṃ munikuñjarā jarā,</gatha1>
-<gatha2 line="12">Rujādimuttā yahimuttare tare;</gatha2>
-<gatha3 line="13">Ṭhitā tivaṭṭambunidhiṃ narānarā,</gatha3>
-<gathalast line="14">Tariṃsu taṃ dhammamaghappahaṃ pahaṃ.</gathalast>
-<subhead line="15">Saṅghappaṇāmo</subhead>
-<hangnum line="16" number="3"></hangnum>
-<gatha1 line="17"> Gataṃ munindo’rasasūnutaṃ nutaṃ,</gatha1>
-<gatha2 line="18">Supuññakhettaṃ bhuvane sutaṃ sutaṃ;</gatha2>
-<gatha3 line="19">Gaṇampi pāṇīkatasaṃvaraṃ varaṃ,</gatha3>
-<gathalast line="20">Sadā guṇoghena nirantara’ntaraṃ.</gathalast>
-<subhead line="21">Paṭiññā</subhead>
-<hangnum line="22" number="4"></hangnum>
-<gatha1 line="23"> Nāmaliṅgesu kosalla, matthanicchayakāraṇaṃ;</gatha1>
-<gathalast line="24">Yato mahabbalaṃ buddha, vacane pāṭavatthinaṃ.</gathalast>
-<hangnum line="25" number="5"></hangnum>
-<gatha1 line="26"> Nāmaliṅgānya’to <pageBreak edition="M" number="0.0002" /> buddha, bhāsitassā’rahānya’haṃ;</gatha1>
-<gathalast line="27">Dassayanto pakāsessa, <bold>mabhidhānappadīpikaṃ.</bold></gathalast>
-<subhead line="28">Paribhāsā</subhead>
-<hangnum line="29" number="6"></hangnum>
-<gatha1 line="30"> Bhiyyo <bold>rūpantarā sāha, cariyena</bold> ca katthaci;</gatha1>
-<gathalast line="31">Kvacā’ <bold>haccavidhānena</bold> ñeyyaṃ thīpunnapuṃsakaṃ.</gathalast>
-<hangnum line="32" number="7"></hangnum>
-<gatha1 line="33"> Abhinnaliṅgānaṃyeva, dvando ca, liṅgavācakā;</gatha1>
-<gathalast line="34">Gāthāpādantamajjhaṭṭhā, pubbaṃ yantyapare paraṃ.</gathalast>
-<hangnum line="35" number="8"></hangnum>
-<gatha1 line="36"> Pumitthiyaṃ padaṃ <bold>dvīsu,</bold> sabbaliṅge ca <bold>tīsvi</bold>ti;</gatha1>
-<gathalast line="37">Abhidhānantarārambhe, ñeyyaṃ <bold>tva’</bold>nta <bold>mathā</bold>di ca.</gathalast>
-<hangnum line="38" number="9"></hangnum>
-<gatha1 line="39"> Bhiyyo payoga māgamma, sogate <bold>āgame</bold> kvaci;</gatha1>
-<gathalast line="40"><bold>Nighaṇḍu</bold> yutti ñcānīya, nāmaliṅgaṃ kathīyatīti.</gathalast>
-</body>
+  <metadata>
+    <normativeSource>http://tipitaka.org/romn/cscd/e0809n.nrf0.xml</normativeSource>
+    <archivePath>roman/anya/byakarana gantha-sangaho/abhidhanappadipikapatha/abhidhanappadipika.xml</archivePath>
+    <baseFileName>abhidhanappadipika</baseFileName>
+    <titlePath>Abhidhānappadīpikā - Abhidhānappadīpikāpāṭha - Byākaraṇa gantha-saṅgaho - Anya</titlePath>
+    <versions>
+    </versions>
+  </metadata>
+  <content>
+    <centered line="1">Namo tassa bhagavato arahato sammāsambuddhassa</centered>
+    <book line="2">Abhidhānappadīpikā</book>
+    <subhead line="3">Buddhappaṇāmo</subhead>
+    <hangnum line="4" number="1"></hangnum>
+    <gatha1 line="5"> Tathāgato <pageBreak edition="M" number="0.0001" /> yo karuṇākaro karo,</gatha1>
+    <gatha2 line="6">Payāta’mosajja sukhappadaṃ padaṃ;</gatha2>
+    <gatha3 line="7">Akā paratthaṃ kalisambhave bhave,</gatha3>
+    <gathalast line="8">Namāmi taṃ kevaladukkaraṃ karaṃ.</gathalast>
+    <subhead line="9">Dhammappaṇāmo</subhead>
+    <hangnum line="10" number="2"></hangnum>
+    <gatha1 line="11"> Apūjayuṃ yaṃ munikuñjarā jarā,</gatha1>
+    <gatha2 line="12">Rujādimuttā yahimuttare tare;</gatha2>
+    <gatha3 line="13">Ṭhitā tivaṭṭambunidhiṃ narānarā,</gatha3>
+    <gathalast line="14">Tariṃsu taṃ dhammamaghappahaṃ pahaṃ.</gathalast>
+    <subhead line="15">Saṅghappaṇāmo</subhead>
+    <hangnum line="16" number="3"></hangnum>
+    <gatha1 line="17"> Gataṃ munindo’rasasūnutaṃ nutaṃ,</gatha1>
+    <gatha2 line="18">Supuññakhettaṃ bhuvane sutaṃ sutaṃ;</gatha2>
+    <gatha3 line="19">Gaṇampi pāṇīkatasaṃvaraṃ varaṃ,</gatha3>
+    <gathalast line="20">Sadā guṇoghena nirantara’ntaraṃ.</gathalast>
+    <subhead line="21">Paṭiññā</subhead>
+    <hangnum line="22" number="4"></hangnum>
+    <gatha1 line="23"> Nāmaliṅgesu kosalla, matthanicchayakāraṇaṃ;</gatha1>
+    <gathalast line="24">Yato mahabbalaṃ buddha, vacane pāṭavatthinaṃ.</gathalast>
+    <hangnum line="25" number="5"></hangnum>
+    <gatha1 line="26"> Nāmaliṅgānya’to <pageBreak edition="M" number="0.0002" /> buddha, bhāsitassā’rahānya’haṃ;</gatha1>
+    <gathalast line="27">Dassayanto pakāsessa, <bold>mabhidhānappadīpikaṃ.</bold></gathalast>
+    <subhead line="28">Paribhāsā</subhead>
+    <hangnum line="29" number="6"></hangnum>
+    <gatha1 line="30"> Bhiyyo <bold>rūpantarā sāha, cariyena</bold> ca katthaci;</gatha1>
+    <gathalast line="31">Kvacā’ <bold>haccavidhānena</bold> ñeyyaṃ thīpunnapuṃsakaṃ.</gathalast>
+    <hangnum line="32" number="7"></hangnum>
+    <gatha1 line="33"> Abhinnaliṅgānaṃyeva, dvando ca, liṅgavācakā;</gatha1>
+    <gathalast line="34">Gāthāpādantamajjhaṭṭhā, pubbaṃ yantyapare paraṃ.</gathalast>
+    <hangnum line="35" number="8"></hangnum>
+    <gatha1 line="36"> Pumitthiyaṃ padaṃ <bold>dvīsu,</bold> sabbaliṅge ca <bold>tīsvi</bold>ti;</gatha1>
+    <gathalast line="37">Abhidhānantarārambhe, ñeyyaṃ <bold>tva’</bold>nta <bold>mathā</bold>di ca.</gathalast>
+    <hangnum line="38" number="9"></hangnum>
+    <gatha1 line="39"> Bhiyyo payoga māgamma, sogate <bold>āgame</bold> kvaci;</gatha1>
+    <gathalast line="40"><bold>Nighaṇḍu</bold> yutti ñcānīya, nāmaliṅgaṃ kathīyatīti.</gathalast>
+  </content>
 </document>

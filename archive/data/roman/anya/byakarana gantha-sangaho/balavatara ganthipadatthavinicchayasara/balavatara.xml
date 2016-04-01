@@ -1,51 +1,54 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="utf-8"?>
 <document>
-<metadata>
-<normativeSource>http://tipitaka.org/romn/cscd/e0813n.nrf0.xml</normativeSource>
-<archivePath>roman/anya/byakarana gantha-sangaho/balavatara ganthipadatthavinicchayasara/balavatara.xml</archivePath>
-<titlePath>Bālāvatāra - Bālāvatāra gaṇṭhipadatthavinicchayasāra - Byākaraṇa gantha-saṅgaho - Anya</titlePath>
-</metadata>
-<body>
-<centered line="1">Namo tassa bhagavato arahato sammāsambuddhassa.</centered>
-<book line="2">Bālāvatāra</book>
-<subhead line="3">Paṇāma</subhead>
-<paragraph line="4">[Ka]</paragraph>
-<gatha1 line="5">Sabbaṃ niruttipathapāragataṃ sabuddhaṃ,</gatha1>
-<gatha2 line="6">Buddhaṃ tilokatilakaṃ hatapāpadhammaṃ;</gatha2>
-<gatha3 line="7">Dhammaṃ vimuttisukhadaṃ vihatāghasaṃghaṃ,</gatha3>
-<gathalast line="8">Saṃghaṃ ca niccamabhivandiya dakkhiṇeyyaṃ.</gathalast>
-<paragraph line="9">[Kha]</paragraph>
-<gatha1 line="10">Vuddhippattosmi muddho mama varagaravo sīlapaññādisobhe,</gatha1>
-<gatha2 line="11">Candādicceva suddhe varajinaṭhapite sāsanābbhe patīte;</gatha2>
-<gatha3 line="12">Nissāyevā tipemā paṇamiya sirasā niccamesaṃ saritvā,</gatha3>
-<gathalast line="13">Pādambhoje guṇagge hataduritamalo ānubhāvena tassā.</gathalast>
-<paragraph line="14">[Ga]</paragraph>
-<gatha1 line="15">Porāṇa sīhaḷa padattha vinicchayañca,</gatha1>
-<gatha2 line="16">Sabbampi māgadhaniruttinayaṃ pasatthaṃ;</gatha2>
-<gatha3 line="17">Aññañca nekavidha sakkata saddasatthaṃ,</gatha3>
-<gathalast line="18">Pāramparābhata matañca nisamma sammā.</gathalast>
-<paragraph line="19">[Gha]</paragraph>
-<gatha1 line="20">Bālāvatāra varamāgadha saddasatthe,</gatha1>
-<gatha2 line="21">Dubbodha nekapadaattha vinicchayena;</gatha2>
-<gatha3 line="22">Atthāya ādhunika bālaparamparāya,</gatha3>
-<gathalast line="23"><bold>Bālāvatāra varagaṇṭhipadaṃ</bold> karissaṃ.</gathalast>
-<paragraph line="24">[Ṅa]</paragraph>
-<gatha1 line="25">Niccaṃ ye mettha bālā varahadayayutā suṭṭhu nikkhittanettā,</gatha1>
-<gatha2 line="26">Puṇṇe nānānayānaṃ suratarusadise dhīrapāsaṃsiye ve;</gatha2>
-<gatha3 line="27">Gambhīraṃ duttaraṃ te jinavacanudadhiṃ tiṇṇathāmā bhaveyyuṃ,</gatha3>
-<gathalast line="28">Laddhopāyā ca candaṃ taditarapacuraṃ sakkataṃ sotukāmā.</gathalast>
-<paragraph line="29">[Ca]</paragraph>
-<gatha1 line="30">Ganthanipphattiyā sesa – dukkarattaṃ yathāvato;</gatha1>
-<gatha2 line="31">Jānanti kusalā dhīrā, nekasatthantarādisu;</gatha2>
-<gathalast line="32">Ganthesu guṇadosampi, teyeva vidurā sadā.</gathalast>
-<paragraph line="33">[Cha]</paragraph>
-<gatha1 line="34">Tasmā ettha pamādādi – dosaleso bhave yadi;</gatha1>
-<gathalast line="35">Porāṇāceraladdhīhi, vilomaṃ vā bhaveyya ce.</gathalast>
-<paragraph line="36">[Ja]</paragraph>
-<gatha1 line="37">Ganthantaraṃ vigāhetvā, vicāretvā punappunaṃ;</gatha1>
-<gathalast line="38">Yuttimeva ca gaṇhantu, hutvā vīmaṃsabuddhikāti.</gathalast>
-<subhead line="39">Paṇāma</subhead>
-<paragraph line="40" number="1"> Buddhaṃ <pageBreak edition="M" number="0.0001" /> tidhā bhivanditvā, buddhambuja vilocanaṃ.</paragraph>
-<paragraph line="41"><bold>Bālāvatāraṃ</bold> bhāsissaṃ, bālānaṃ buddhivuddhiyā.</paragraph>
-</body>
+  <metadata>
+    <normativeSource>http://tipitaka.org/romn/cscd/e0813n.nrf0.xml</normativeSource>
+    <archivePath>roman/anya/byakarana gantha-sangaho/balavatara ganthipadatthavinicchayasara/balavatara.xml</archivePath>
+    <baseFileName>balavatara</baseFileName>
+    <titlePath>Bālāvatāra - Bālāvatāra gaṇṭhipadatthavinicchayasāra - Byākaraṇa gantha-saṅgaho - Anya</titlePath>
+    <versions>
+    </versions>
+  </metadata>
+  <content>
+    <centered line="1">Namo tassa bhagavato arahato sammāsambuddhassa.</centered>
+    <book line="2">Bālāvatāra</book>
+    <subhead line="3">Paṇāma</subhead>
+    <paragraph line="4">[Ka]</paragraph>
+    <gatha1 line="5">Sabbaṃ niruttipathapāragataṃ sabuddhaṃ,</gatha1>
+    <gatha2 line="6">Buddhaṃ tilokatilakaṃ hatapāpadhammaṃ;</gatha2>
+    <gatha3 line="7">Dhammaṃ vimuttisukhadaṃ vihatāghasaṃghaṃ,</gatha3>
+    <gathalast line="8">Saṃghaṃ ca niccamabhivandiya dakkhiṇeyyaṃ.</gathalast>
+    <paragraph line="9">[Kha]</paragraph>
+    <gatha1 line="10">Vuddhippattosmi muddho mama varagaravo sīlapaññādisobhe,</gatha1>
+    <gatha2 line="11">Candādicceva suddhe varajinaṭhapite sāsanābbhe patīte;</gatha2>
+    <gatha3 line="12">Nissāyevā tipemā paṇamiya sirasā niccamesaṃ saritvā,</gatha3>
+    <gathalast line="13">Pādambhoje guṇagge hataduritamalo ānubhāvena tassā.</gathalast>
+    <paragraph line="14">[Ga]</paragraph>
+    <gatha1 line="15">Porāṇa sīhaḷa padattha vinicchayañca,</gatha1>
+    <gatha2 line="16">Sabbampi māgadhaniruttinayaṃ pasatthaṃ;</gatha2>
+    <gatha3 line="17">Aññañca nekavidha sakkata saddasatthaṃ,</gatha3>
+    <gathalast line="18">Pāramparābhata matañca nisamma sammā.</gathalast>
+    <paragraph line="19">[Gha]</paragraph>
+    <gatha1 line="20">Bālāvatāra varamāgadha saddasatthe,</gatha1>
+    <gatha2 line="21">Dubbodha nekapadaattha vinicchayena;</gatha2>
+    <gatha3 line="22">Atthāya ādhunika bālaparamparāya,</gatha3>
+    <gathalast line="23"><bold>Bālāvatāra varagaṇṭhipadaṃ</bold> karissaṃ.</gathalast>
+    <paragraph line="24">[Ṅa]</paragraph>
+    <gatha1 line="25">Niccaṃ ye mettha bālā varahadayayutā suṭṭhu nikkhittanettā,</gatha1>
+    <gatha2 line="26">Puṇṇe nānānayānaṃ suratarusadise dhīrapāsaṃsiye ve;</gatha2>
+    <gatha3 line="27">Gambhīraṃ duttaraṃ te jinavacanudadhiṃ tiṇṇathāmā bhaveyyuṃ,</gatha3>
+    <gathalast line="28">Laddhopāyā ca candaṃ taditarapacuraṃ sakkataṃ sotukāmā.</gathalast>
+    <paragraph line="29">[Ca]</paragraph>
+    <gatha1 line="30">Ganthanipphattiyā sesa – dukkarattaṃ yathāvato;</gatha1>
+    <gatha2 line="31">Jānanti kusalā dhīrā, nekasatthantarādisu;</gatha2>
+    <gathalast line="32">Ganthesu guṇadosampi, teyeva vidurā sadā.</gathalast>
+    <paragraph line="33">[Cha]</paragraph>
+    <gatha1 line="34">Tasmā ettha pamādādi – dosaleso bhave yadi;</gatha1>
+    <gathalast line="35">Porāṇāceraladdhīhi, vilomaṃ vā bhaveyya ce.</gathalast>
+    <paragraph line="36">[Ja]</paragraph>
+    <gatha1 line="37">Ganthantaraṃ vigāhetvā, vicāretvā punappunaṃ;</gatha1>
+    <gathalast line="38">Yuttimeva ca gaṇhantu, hutvā vīmaṃsabuddhikāti.</gathalast>
+    <subhead line="39">Paṇāma</subhead>
+    <paragraph line="40" number="1"> Buddhaṃ <pageBreak edition="M" number="0.0001" /> tidhā bhivanditvā, buddhambuja vilocanaṃ.</paragraph>
+    <paragraph line="41"><bold>Bālāvatāraṃ</bold> bhāsissaṃ, bālānaṃ buddhivuddhiyā.</paragraph>
+  </content>
 </document>

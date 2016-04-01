@@ -1,15 +1,18 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="utf-8"?>
 <document>
-<metadata>
-<normativeSource>http://tipitaka.org/romn/cscd/e1009n.nrf2.xml</normativeSource>
-<archivePath>roman/anya/niti-gantha-sangaho/naradakkhadipani/naradakkhadipakassa,.xml</archivePath>
-<titlePath>Naradakkhadīpakassa, - Naradakkhadīpanī - Nīti-gantha-saṅgaho - Anya</titlePath>
-</metadata>
-<body>
-<chapter line="1">Naradakkhadīpakassa,</chapter>
-<gatha1 line="2">Namo samantacakkhuno;</gatha1>
-<gatha2 line="3">Saṃsārā vippamuttassa,</gatha2>
-<gatha3 line="4">Saṃsārā vippamuttassa,</gatha3>
-<gathalast line="5">Sa-saddhammassa saṅghino.</gathalast>
-</body>
+  <metadata>
+    <normativeSource>http://tipitaka.org/romn/cscd/e1009n.nrf2.xml</normativeSource>
+    <archivePath>roman/anya/niti-gantha-sangaho/naradakkhadipani/naradakkhadipakassa,.xml</archivePath>
+    <baseFileName>naradakkhadipakassa,</baseFileName>
+    <titlePath>Naradakkhadīpakassa, - Naradakkhadīpanī - Nīti-gantha-saṅgaho - Anya</titlePath>
+    <versions>
+    </versions>
+  </metadata>
+  <content>
+    <chapter line="1">Naradakkhadīpakassa,</chapter>
+    <gatha1 line="2">Namo samantacakkhuno;</gatha1>
+    <gatha2 line="3">Saṃsārā vippamuttassa,</gatha2>
+    <gatha3 line="4">Saṃsārā vippamuttassa,</gatha3>
+    <gathalast line="5">Sa-saddhammassa saṅghino.</gathalast>
+  </content>
 </document>

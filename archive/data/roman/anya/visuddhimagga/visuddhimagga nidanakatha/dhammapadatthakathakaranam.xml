@@ -1,33 +1,36 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="utf-8"?>
 <document>
-<metadata>
-<normativeSource>http://tipitaka.org/romn/cscd/e0105n.nrf33.xml</normativeSource>
-<archivePath>roman/anya/visuddhimagga/visuddhimagga nidanakatha/dhammapadatthakathakaranam.xml</archivePath>
-<titlePath>Dhammapadaṭṭhakathākaraṇaṃ - Visuddhimagga nidānakathā - Visuddhimagga - Anya</titlePath>
-</metadata>
-<body>
-<chapter line="1">Dhammapadaṭṭhakathākaraṇaṃ</chapter>
-<paragraph line="2">Aparāpi tisso aṭṭhakathāyo santi khuddakapāṭhaṭṭhakathā dhammapadaṭṭhakathā suttanipātaṭṭhakathā cāti, yā tāsu dissamānanigamanavasena ācariyabuddhaghoseneva katāti paññāyanti. Tattha pana vuttavacanāni kānici <pageBreak edition="M" number="0.0056" /> kānici āgamaṭṭhakathāsu vuttākārena na honti. Tasmā eke vadanti ‘‘netā ācariyabuddhaghosassā’’ti. Ekacce pana ‘‘ācariyassa upathambhakattherehi paṭhamaṃ katā, pacchā ācariyena osānasodhanavasena pariyosāpitā vā bhaveyyuṃ, abhidhammaṭṭhakathaṃ āyācantena cūḷabuddhaghosena vā katā bhaveyyu’’nti vadanti.</paragraph>
-<paragraph line="3">Taṃ tathā vā hotu aññathā vā, idāni ekantato vinicchinituṃ na sukarameva. Tasmā tāsaṃ nigamanavacanavaseneva ettha pakāsayissāma. Tāsu hi <bold>dhammapadaṭṭhakathaṃ kumārakassapattherena</bold> āyācito <bold>sirikūṭassa</bold> (sirikuḍḍassa) rañño pāsāde viharanto paramparābhataṃ sīhaḷabhāsāya saṇṭhitaṃ porāṇaṭṭhakathaṃ pāḷibhāsāya āropetvā vitthāragatañca vacanakkamaṃ samāsetvā gāthāsu asaṃvaṇṇitapadabyañjanāni saṃvaṇṇetvā akāsi. Vuttañhi tattha ganthārambhe –</paragraph>
-<gatha1 line="4">‘‘Paramparābhatā tassa, nipuṇā atthavaṇṇanā;</gatha1>
-<gathalast line="5">Yā tambapaṇṇidīpamhi, dīpabhāsāya saṇṭhitā…pe…</gathalast>
-<gatha1 line="6"><bold>Kumārakassapenā</bold>haṃ, therena thiracetasā;</gatha1>
-<gathalast line="7">Saddhammaṭṭhitikāmena, sakkaccaṃ abhiyācito…pe…</gathalast>
-<gatha1 line="8">Taṃ bhāsaṃ ativitthāra, gatañca vacanakkamaṃ;</gatha1>
-<gathalast line="9">Pahāyāropayitvāna, tantibhāsaṃ manoramaṃ.</gathalast>
-<gatha1 line="10">Gāthānaṃ byañjanapadaṃ, yaṃ tattha na vibhāvitaṃ;</gatha1>
-<gathalast line="11">Kevalaṃ taṃ vibhāvetvā, sesaṃ tameva atthato.</gathalast>
-<paragraph line="12">Bhāsantarena bhāsissa’’nti <note>dha. pa. aṭṭha. 1.ganthārambhakathā</note> –</paragraph>
-<paragraph line="13">Nigamane ca vuttaṃ –</paragraph>
-<gatha1 line="14">‘‘Vihāre adhirājena, kāritamhi kataññunā;</gatha1>
-<gathalast line="15">Pāsāde <bold>sirikūṭassa,</bold> rañño viharatā mayā’’ti <note>dha. pa. aṭṭha. 2.nigamanakathā</note>.</gathalast>
-<paragraph line="16">Ettha ca <bold>sirikūṭo</bold> nāma samantapāsādikānigamane <bold>siripālo</bold>ti vutto <bold>mahānāmo</bold>yeva rājāti vadanti. Evaṃ sati mahesiyā ānayanaṃ samādāpanamārabbha tena raññā dinne dhūmarakkhapabbatavihāre vasantena sā katāti veditabbā. Vuttañhetaṃ mahāvaṃse –</paragraph>
-<hangnum line="17" number="37-212"></hangnum>
-<gatha1 line="18"> ‘‘Lohadvāra-ralaggāma-koṭipassāvanavhaye;</gatha1>
-<gathalast line="19">Tayo <pageBreak edition="M" number="0.0057" /> vihāre kāretvā, bhikkhūnaṃ abhayuttare.</gathalast>
-<hangnum line="20" number="213"></hangnum>
-<gatha1 line="21"> Vihāraṃ kārayitvāna, dhūmarakkhamhi pabbate;</gatha1>
-<gathalast line="22">Mahesiyā’nayenā’dā, bhikkhūnaṃ theravādina’’nti.</gathalast>
-<paragraph line="23">Tassa pana rañño kāle sā niṭṭhāpitāti na sakkā gahetuṃ. Tassa hi rañño ekavīsatimavasse samantapāsādikaṃ niṭṭhāpesi. So ca rājā dvāvīsatimavasse divaṅgato. Etthantare sādhikaekavassena ‘‘catasso ca āgamaṭṭhakathāyo tisso ca abhidhammaṭṭhakathāyo ayañca dhammapadaṭṭhakathā’’ti sabbā etā na sakkā niṭṭhāpetunti.</paragraph>
-</body>
+  <metadata>
+    <normativeSource>http://tipitaka.org/romn/cscd/e0105n.nrf33.xml</normativeSource>
+    <archivePath>roman/anya/visuddhimagga/visuddhimagga nidanakatha/dhammapadatthakathakaranam.xml</archivePath>
+    <baseFileName>dhammapadatthakathakaranam</baseFileName>
+    <titlePath>Dhammapadaṭṭhakathākaraṇaṃ - Visuddhimagga nidānakathā - Visuddhimagga - Anya</titlePath>
+    <versions>
+    </versions>
+  </metadata>
+  <content>
+    <chapter line="1">Dhammapadaṭṭhakathākaraṇaṃ</chapter>
+    <paragraph line="2">Aparāpi tisso aṭṭhakathāyo santi khuddakapāṭhaṭṭhakathā dhammapadaṭṭhakathā suttanipātaṭṭhakathā cāti, yā tāsu dissamānanigamanavasena ācariyabuddhaghoseneva katāti paññāyanti. Tattha pana vuttavacanāni kānici <pageBreak edition="M" number="0.0056" /> kānici āgamaṭṭhakathāsu vuttākārena na honti. Tasmā eke vadanti ‘‘netā ācariyabuddhaghosassā’’ti. Ekacce pana ‘‘ācariyassa upathambhakattherehi paṭhamaṃ katā, pacchā ācariyena osānasodhanavasena pariyosāpitā vā bhaveyyuṃ, abhidhammaṭṭhakathaṃ āyācantena cūḷabuddhaghosena vā katā bhaveyyu’’nti vadanti.</paragraph>
+    <paragraph line="3">Taṃ tathā vā hotu aññathā vā, idāni ekantato vinicchinituṃ na sukarameva. Tasmā tāsaṃ nigamanavacanavaseneva ettha pakāsayissāma. Tāsu hi <bold>dhammapadaṭṭhakathaṃ kumārakassapattherena</bold> āyācito <bold>sirikūṭassa</bold> (sirikuḍḍassa) rañño pāsāde viharanto paramparābhataṃ sīhaḷabhāsāya saṇṭhitaṃ porāṇaṭṭhakathaṃ pāḷibhāsāya āropetvā vitthāragatañca vacanakkamaṃ samāsetvā gāthāsu asaṃvaṇṇitapadabyañjanāni saṃvaṇṇetvā akāsi. Vuttañhi tattha ganthārambhe –</paragraph>
+    <gatha1 line="4">‘‘Paramparābhatā tassa, nipuṇā atthavaṇṇanā;</gatha1>
+    <gathalast line="5">Yā tambapaṇṇidīpamhi, dīpabhāsāya saṇṭhitā…pe…</gathalast>
+    <gatha1 line="6"><bold>Kumārakassapenā</bold>haṃ, therena thiracetasā;</gatha1>
+    <gathalast line="7">Saddhammaṭṭhitikāmena, sakkaccaṃ abhiyācito…pe…</gathalast>
+    <gatha1 line="8">Taṃ bhāsaṃ ativitthāra, gatañca vacanakkamaṃ;</gatha1>
+    <gathalast line="9">Pahāyāropayitvāna, tantibhāsaṃ manoramaṃ.</gathalast>
+    <gatha1 line="10">Gāthānaṃ byañjanapadaṃ, yaṃ tattha na vibhāvitaṃ;</gatha1>
+    <gathalast line="11">Kevalaṃ taṃ vibhāvetvā, sesaṃ tameva atthato.</gathalast>
+    <paragraph line="12">Bhāsantarena bhāsissa’’nti <note>dha. pa. aṭṭha. 1.ganthārambhakathā</note> –</paragraph>
+    <paragraph line="13">Nigamane ca vuttaṃ –</paragraph>
+    <gatha1 line="14">‘‘Vihāre adhirājena, kāritamhi kataññunā;</gatha1>
+    <gathalast line="15">Pāsāde <bold>sirikūṭassa,</bold> rañño viharatā mayā’’ti <note>dha. pa. aṭṭha. 2.nigamanakathā</note>.</gathalast>
+    <paragraph line="16">Ettha ca <bold>sirikūṭo</bold> nāma samantapāsādikānigamane <bold>siripālo</bold>ti vutto <bold>mahānāmo</bold>yeva rājāti vadanti. Evaṃ sati mahesiyā ānayanaṃ samādāpanamārabbha tena raññā dinne dhūmarakkhapabbatavihāre vasantena sā katāti veditabbā. Vuttañhetaṃ mahāvaṃse –</paragraph>
+    <hangnum line="17" number="37-212"></hangnum>
+    <gatha1 line="18"> ‘‘Lohadvāra-ralaggāma-koṭipassāvanavhaye;</gatha1>
+    <gathalast line="19">Tayo <pageBreak edition="M" number="0.0057" /> vihāre kāretvā, bhikkhūnaṃ abhayuttare.</gathalast>
+    <hangnum line="20" number="213"></hangnum>
+    <gatha1 line="21"> Vihāraṃ kārayitvāna, dhūmarakkhamhi pabbate;</gatha1>
+    <gathalast line="22">Mahesiyā’nayenā’dā, bhikkhūnaṃ theravādina’’nti.</gathalast>
+    <paragraph line="23">Tassa pana rañño kāle sā niṭṭhāpitāti na sakkā gahetuṃ. Tassa hi rañño ekavīsatimavasse samantapāsādikaṃ niṭṭhāpesi. So ca rājā dvāvīsatimavasse divaṅgato. Etthantare sādhikaekavassena ‘‘catasso ca āgamaṭṭhakathāyo tisso ca abhidhammaṭṭhakathāyo ayañca dhammapadaṭṭhakathā’’ti sabbā etā na sakkā niṭṭhāpetunti.</paragraph>
+  </content>
 </document>

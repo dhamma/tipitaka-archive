@@ -1,38 +1,41 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="utf-8"?>
 <document>
-<metadata>
-<normativeSource>http://tipitaka.org/romn/cscd/e0301n.nrf0.xml</normativeSource>
-<archivePath>roman/anya/ledi sayado gantha-sangaho/paramatthadipani sangahamahatikapatha/gantharabbhakatha.xml</archivePath>
-<titlePath>Ganthārabbhakathā - Paramatthadīpanī Saṅgahamahāṭīkāpāṭha - Leḍī sayāḍo gantha-saṅgaho - Anya</titlePath>
-</metadata>
-<body>
-<centered line="1"> Namo tassa bhagavato arahato sammāsambuddhassa</centered>
-<book line="2">Paramatthadīpanī</book>
-<title line="3">Saṅgaha mahāṭīkā pāṭha</title>
-<subsubhead line="4">Ganthārabbhakathā</subsubhead>
-<paragraph line="5">[Ka]</paragraph>
-<gatha1 line="6">Udayā <pageBreak edition="M" number="0.0001" /> yassa ekassa, saddhammaraṃsi jālino;</gatha1>
-<gathalast line="7">Pabujjhiṃsu janambujā, jātikkhette mahāsare.</gathalast>
-<paragraph line="8">[Kha]</paragraph>
-<gatha1 line="9">Vandāmi taṃ mahāsūraṃ, mahāmoha tamonudaṃ;</gatha1>
-<gathalast line="10">Sañjātaṃ so hadaye mayhaṃ, tamokhandhaṃ panūdataṃ.</gathalast>
-<paragraph line="11">[Ga]</paragraph>
-<gatha1 line="12">Porāṇakehi viññūhi, vaṇṇitā vaṇṇanā bahū;</gatha1>
-<gathalast line="13">Dissanti idha lokamhi, abhidhammatthasaṅgahe.</gathalast>
-<paragraph line="14">[Gha]</paragraph>
-<gatha1 line="15">Na tāhi tuṭṭhiṃ vindanti, ye sāratthā bhimānino;</gatha1>
-<gathalast line="16">Te maṃ saṅgamma yācanti, paramatthassa dīpanaṃ.</gathalast>
-<paragraph line="17">[Ṅa]</paragraph>
-<gatha1 line="18">Mahaṇṇave ratanāni, uddharitvā dipavāsinaṃ;</gatha1>
-<gathalast line="19">Yathicchakaṃpi dajjeyyuṃ, na vattabbāva ūnatā.</gathalast>
-<paragraph line="20">[Ca]</paragraph>
-<gatha1 line="21">Tathevettha <pageBreak edition="M" number="0.0002" /> vipulatthā, aṇṇave ratanūpamā;</gatha1>
-<gathalast line="22">Satakkhattuṃpi vaṇṇeyyuṃ, pariyādinnā na hessare.</gathalast>
-<paragraph line="23">[Cha]</paragraph>
-<gatha1 line="24">Tasmā tāsu vaṇṇanāsu, sāramādāya vaṇṇanaṃ;</gatha1>
-<gathalast line="25">Nānāsārattha sampuṇṇaṃ, uttāna padabyañjanaṃ.</gathalast>
-<paragraph line="26">[Ja]</paragraph>
-<gatha1 line="27">Nātisaṅkhepa vitthāraṃ, mandabuddhippabodhanaṃ;</gatha1>
-<gathalast line="28">Karissaṃ taṃ paramatthesu, suṇantu pāṭavatthinoti.</gathalast>
-</body>
+  <metadata>
+    <normativeSource>http://tipitaka.org/romn/cscd/e0301n.nrf0.xml</normativeSource>
+    <archivePath>roman/anya/ledi sayado gantha-sangaho/paramatthadipani sangahamahatikapatha/gantharabbhakatha.xml</archivePath>
+    <baseFileName>gantharabbhakatha</baseFileName>
+    <titlePath>Ganthārabbhakathā - Paramatthadīpanī Saṅgahamahāṭīkāpāṭha - Leḍī sayāḍo gantha-saṅgaho - Anya</titlePath>
+    <versions>
+    </versions>
+  </metadata>
+  <content>
+    <centered line="1"> Namo tassa bhagavato arahato sammāsambuddhassa</centered>
+    <book line="2">Paramatthadīpanī</book>
+    <title line="3">Saṅgaha mahāṭīkā pāṭha</title>
+    <subsubhead line="4">Ganthārabbhakathā</subsubhead>
+    <paragraph line="5">[Ka]</paragraph>
+    <gatha1 line="6">Udayā <pageBreak edition="M" number="0.0001" /> yassa ekassa, saddhammaraṃsi jālino;</gatha1>
+    <gathalast line="7">Pabujjhiṃsu janambujā, jātikkhette mahāsare.</gathalast>
+    <paragraph line="8">[Kha]</paragraph>
+    <gatha1 line="9">Vandāmi taṃ mahāsūraṃ, mahāmoha tamonudaṃ;</gatha1>
+    <gathalast line="10">Sañjātaṃ so hadaye mayhaṃ, tamokhandhaṃ panūdataṃ.</gathalast>
+    <paragraph line="11">[Ga]</paragraph>
+    <gatha1 line="12">Porāṇakehi viññūhi, vaṇṇitā vaṇṇanā bahū;</gatha1>
+    <gathalast line="13">Dissanti idha lokamhi, abhidhammatthasaṅgahe.</gathalast>
+    <paragraph line="14">[Gha]</paragraph>
+    <gatha1 line="15">Na tāhi tuṭṭhiṃ vindanti, ye sāratthā bhimānino;</gatha1>
+    <gathalast line="16">Te maṃ saṅgamma yācanti, paramatthassa dīpanaṃ.</gathalast>
+    <paragraph line="17">[Ṅa]</paragraph>
+    <gatha1 line="18">Mahaṇṇave ratanāni, uddharitvā dipavāsinaṃ;</gatha1>
+    <gathalast line="19">Yathicchakaṃpi dajjeyyuṃ, na vattabbāva ūnatā.</gathalast>
+    <paragraph line="20">[Ca]</paragraph>
+    <gatha1 line="21">Tathevettha <pageBreak edition="M" number="0.0002" /> vipulatthā, aṇṇave ratanūpamā;</gatha1>
+    <gathalast line="22">Satakkhattuṃpi vaṇṇeyyuṃ, pariyādinnā na hessare.</gathalast>
+    <paragraph line="23">[Cha]</paragraph>
+    <gatha1 line="24">Tasmā tāsu vaṇṇanāsu, sāramādāya vaṇṇanaṃ;</gatha1>
+    <gathalast line="25">Nānāsārattha sampuṇṇaṃ, uttāna padabyañjanaṃ.</gathalast>
+    <paragraph line="26">[Ja]</paragraph>
+    <gatha1 line="27">Nātisaṅkhepa vitthāraṃ, mandabuddhippabodhanaṃ;</gatha1>
+    <gathalast line="28">Karissaṃ taṃ paramatthesu, suṇantu pāṭavatthinoti.</gathalast>
+  </content>
 </document>

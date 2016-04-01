@@ -1,623 +1,630 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="utf-8"?>
 <document>
-<metadata>
-<normativeSource>http://tipitaka.org/romn/cscd/s0510m2.mul13.xml</normativeSource>
-<archivePath>roman/tipitaka (mula)/suttapitaka/khuddakanikaya/apadanapali-2/56. yasavaggo.xml</archivePath>
-<titlePath>56. Yasavaggo - Apadānapāḷi-2 - Khuddakanikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
-</metadata>
-<body>
-<chapter line="1">56. Yasavaggo</chapter>
-<subhead line="2">1. Yasattheraapadānaṃ</subhead>
-<hangnum line="3" number="1"></hangnum>
-<gatha1 line="4"> ‘‘Mahāsamuddaṃ <pageBreak edition="M" number="2.0169" /><pageBreak edition="V" number="2.0164" /> oggayha, bhavanaṃ me sunimmitaṃ;</gatha1>
-<gathalast line="5">Sunimmitā pokkharaṇī, cakkavākūpakūjitā.</gathalast>
-<hangnum line="6" number="2"></hangnum>
-<gatha1 line="7"> ‘‘Mandārakehi sañchannā, padumuppalakehi ca;</gatha1>
-<gathalast line="8">Nadī ca sandate tattha, supatitthā manoramā.</gathalast>
-<hangnum line="9" number="3"></hangnum>
-<gatha1 line="10"> ‘‘Macchakacchapasañchannā, <alternatives line="3" extra="null" separator="false"><alternative source-abbr="vri" source="vipassana research institut">nānādijasamotthaṭā</alternative><alternative source-abbr="syā." source="thai">nānāmigasamotthaṭā</alternative></alternatives> ;</gatha1>
-<gathalast line="11">Mayūrakoñcābhirudā, kokilādīhi vagguhi.</gathalast>
-<hangnum line="12" number="4"></hangnum>
-<gatha1 line="13"> ‘‘Pārevatā ravihaṃsā, cakkavākā nadīcarā;</gatha1>
-<gathalast line="14">Tittirā sāḷikā cettha, pāvakā <note>sambakā (ka.)</note> jīvaṃjīvakā.</gathalast>
-<hangnum line="15" number="5"></hangnum>
-<gatha1 line="16"> ‘‘Haṃsākoñcābhinaditā, kosiyā <alternatives line="18" extra="null" separator="true"><alternative source-abbr="vri" source="vipassana research institut">piṅgalā</alternative><alternative source-abbr="sī." source="sri lanka">piṅgalī</alternative><alternative source-abbr="ka." source="cambodian">siṅgalī, siṅghalī</alternative></alternatives>  bahū;</gatha1>
-<gathalast line="17">Sattaratanasampannā, maṇimuttapavāḷikā.</gathalast>
-<hangnum line="18" number="6"></hangnum>
-<gatha1 line="19"> ‘‘Sabbe soṇṇamayā rukkhā, nānākhandhasameritā;</gatha1>
-<gathalast line="20">Ujjotenti divārattiṃ, bhavanaṃ sabbakālikaṃ.</gathalast>
-<hangnum line="21" number="7"></hangnum>
-<gatha1 line="22"> ‘‘Saṭṭhituriyasahassāni, sāyaṃ pāto pavajjare;</gatha1>
-<gathalast line="23">Soḷasitthisahassāni, parivārenti maṃ sadā.</gathalast>
-<hangnum line="24" number="8"></hangnum>
-<gatha1 line="25"> ‘‘Abhinikkhamma bhavanā, sumedhaṃ lokanāyakaṃ;</gatha1>
-<gathalast line="26">Pasannacitto sumano, vandayiṃ taṃ <note>sabbadassiṃ (ka.)</note> mahāyasaṃ.</gathalast>
-<hangnum line="27" number="9"></hangnum>
-<gatha1 line="28"> ‘‘Sambuddhaṃ abhivādetvā, sasaṅghaṃ taṃ nimantayiṃ;</gatha1>
-<gathalast line="29">Adhivāsesi so dhīro, sumedho lokanāyako.</gathalast>
-<hangnum line="30" number="10"></hangnum>
-<gatha1 line="31"> ‘‘Mama dhammakathaṃ katvā, uyyojesi mahāmuni;</gatha1>
-<gathalast line="32">Sambuddhaṃ abhivādetvā, bhavanaṃ me upāgamiṃ.</gathalast>
-<hangnum line="33" number="11"></hangnum>
-<gatha1 line="34"> ‘‘Āmantayiṃ parijanaṃ, sabbe sannipatuṃ tadā;</gatha1>
-<gathalast line="35">‘Pubbaṇhasamayaṃ buddho, bhavanaṃ āgamissati’.</gathalast>
-<hangnum line="36" number="12"></hangnum>
-<gatha1 line="37"> ‘‘‘Lābhā <pageBreak edition="M" number="2.0170" /> amhaṃ suladdhā no, ye vasāma tavantike;</gatha1>
-<gathalast line="38">Mayampi buddhaseṭṭhassa, pūjayissāma satthuno’.</gathalast>
-<hangnum line="39" number="13"></hangnum>
-<gatha1 line="40"> ‘‘Annaṃ <pageBreak edition="V" number="2.0165" /> pānaṃ paṭṭhapetvā, kālaṃ ārocayiṃ ahaṃ;</gatha1>
-<gathalast line="41">Vasīsatasahassehi, upesi lokanāyako.</gathalast>
-<hangnum line="42" number="14"></hangnum>
-<gatha1 line="43"> ‘‘Pañcaṅgikehi turiyehi, paccuggamamakāsahaṃ;</gatha1>
-<gathalast line="44">Sabbasoṇṇamaye pīṭhe, nisīdi purisuttamo.</gathalast>
-<hangnum line="45" number="15"></hangnum>
-<gatha1 line="46"> ‘‘Uparicchadanaṃ āsi, sabbasoṇṇamayaṃ tadā;</gatha1>
-<gathalast line="47">Bījanīyo pavāyanti, bhikkhusaṅghaṃ anuttaraṃ.</gathalast>
-<hangnum line="48" number="16"></hangnum>
-<gatha1 line="49"> ‘‘Pahūtenannapānena, bhikkhusaṅghaṃ atappayiṃ;</gatha1>
-<gathalast line="50">Paccekadussayugale, bhikkhusaṅghassadāsahaṃ.</gathalast>
-<hangnum line="51" number="17"></hangnum>
-<gatha1 line="52"> ‘‘Yaṃ vadeti sumedho so, āhutīnaṃ paṭiggaho;</gatha1>
-<gathalast line="53">Bhikkhusaṅghe nisīditvā, imā gāthā abhāsatha.</gathalast>
-<hangnum line="54" number="18"></hangnum>
-<gatha1 line="55"> ‘‘‘Yo maṃ annena pānena, sabbe ime ca tappayi;</gatha1>
-<gathalast line="56">Tamahaṃ kittayissāmi, suṇātha mama bhāsato.</gathalast>
-<hangnum line="57" number="19"></hangnum>
-<gatha1 line="58"> ‘‘‘Aṭṭhārase kappasate, devaloke ramissati;</gatha1>
-<gathalast line="59">Sahassakkhattuṃ rājāyaṃ, cakkavattī bhavissati.</gathalast>
-<hangnum line="60" number="20"></hangnum>
-<gatha1 line="61"> ‘‘‘Upagacchati yaṃ yoniṃ, devattaṃ atha mānusaṃ;</gatha1>
-<gathalast line="62">Sabbasoṇṇamayaṃ tassa, chadanaṃ dhārayissati.</gathalast>
-<hangnum line="63" number="21"></hangnum>
-<gatha1 line="64"> ‘‘‘Tiṃsakappasahassamhi, okkākakulasambhavo;</gatha1>
-<gathalast line="65">Gotamo nāma gottena, satthā loke bhavissati.</gathalast>
-<hangnum line="66" number="22"></hangnum>
-<gatha1 line="67"> ‘‘‘Tassa dhammesu dāyādo, oraso dhammanimmito;</gatha1>
-<gathalast line="68">Sabbāsave pariññāya, nibbāyissatināsavo.</gathalast>
-<hangnum line="69" number="23"></hangnum>
-<gatha1 line="70"> ‘‘‘Bhikkhusaṅghe nisīditvā, sīhanādaṃ nadissati’;</gatha1>
-<gathalast line="71">Citake chattaṃ dhārenti, heṭṭhā chattamhi ḍayhatha.</gathalast>
-<hangnum line="72" number="24"></hangnum>
-<gatha1 line="73"> ‘‘Sāmaññaṃ me anuppattaṃ, kilesā jhāpitā mayā;</gatha1>
-<gathalast line="74">Maṇḍape rukkhamūle vā, santāso me na vijjati.</gathalast>
-<hangnum line="75" number="25"></hangnum>
-<gatha1 line="76"> ‘‘Tiṃsakappasahassamhi, yaṃ dānamadadiṃ tadā;</gatha1>
-<gathalast line="77">Duggatiṃ nābhijānāmi, sabbadānassidaṃ phalaṃ.</gathalast>
-<hangnum line="78" number="26"></hangnum>
-<gatha1 line="79"> ‘‘Kilesā <pageBreak edition="M" number="2.0171" /> jhāpitā mayhaṃ, bhavā sabbe samūhatā;</gatha1>
-<gathalast line="80">Nāgova bandhanaṃ chetvā, viharāmi anāsavo.</gathalast>
-<hangnum line="81" number="27"></hangnum>
-<gatha1 line="82"> ‘‘Svāgataṃ vata me āsi, mama buddhassa santike;</gatha1>
-<gathalast line="83">Tisso vijjā anuppattā, kataṃ buddhassa sāsanaṃ.</gathalast>
-<hangnum line="84" number="28"></hangnum>
-<gatha1 line="85"> ‘‘Paṭisambhidā <pageBreak edition="V" number="2.0166" /> catasso, vimokkhāpi ca aṭṭhime;</gatha1>
-<gathalast line="86">Chaḷabhiññā sacchikatā, kataṃ buddhassa sāsanaṃ’’.</gathalast>
-<paragraph line="87">Itthaṃ sudaṃ āyasmā yaso thero imā gāthāyo abhāsitthāti.</paragraph>
-<centered line="88">Yasattherassāpadānaṃ paṭhamaṃ.</centered>
-<subhead line="89">2. Nadīkassapattheraapadānaṃ</subhead>
-<hangnum line="90" number="29"></hangnum>
-<gatha1 line="91"> ‘‘Padumuttarassa bhagavato, lokajeṭṭhassa tādino;</gatha1>
-<gatha2 line="92">Piṇḍacāraṃ carantassa, vārato uttamaṃ yasaṃ;</gatha2>
-<gathalast line="93">Aggaphalaṃ gahetvāna, adāsiṃ satthuno ahaṃ.</gathalast>
-<hangnum line="94" number="30"></hangnum>
-<gatha1 line="95"> ‘‘Tena kammena devindo, lokajeṭṭho narāsabho;</gatha1>
-<gathalast line="96">Sampattomhi acalaṃ ṭhānaṃ, hitvā jayaparājayaṃ.</gathalast>
-<hangnum line="97" number="31"></hangnum>
-<gatha1 line="98"> ‘‘Satasahassito kappe, yaṃ phalaṃ adadiṃ tadā;</gatha1>
-<gathalast line="99">Duggatiṃ nābhijānāmi, aggadānassidaṃ phalaṃ.</gathalast>
-<hangnum line="100" number="32"></hangnum>
-<gatha1 line="101"> ‘‘Kilesā jhāpitā mayhaṃ…pe… viharāmi anāsavo.</gatha1>
-<hangnum line="102" number="33"></hangnum>
-<gatha1 line="103"> ‘‘Svāgataṃ vata me āsi…pe… kataṃ buddhassa sāsanaṃ.</gatha1>
-<hangnum line="104" number="34"></hangnum>
-<gatha1 line="105"> ‘‘Paṭisambhidā catasso…pe… kataṃ buddhassa sāsanaṃ’’.</gatha1>
-<centered line="106">Itthaṃ sudaṃ āyasmā nadīkassapo thero imā gāthāyo</centered>
-<paragraph line="107">Abhāsitthāti.</paragraph>
-<centered line="108">Nadīkassapattherassāpadānaṃ dutiyaṃ.</centered>
-<subhead line="109">3. Gayākassapattheraapadānaṃ</subhead>
-<hangnum line="110" number="35"></hangnum>
-<gatha1 line="111"> ‘‘<alternatives line="34" extra="null" separator="false"><alternative source-abbr="vri" source="vipassana research institut">Ajinacammavatthohaṃ</alternative><alternative source-abbr="sī." source="sri lanka">ajinavattaṃ nivattohaṃ</alternative></alternatives> <pageBreak edition="M" number="2.0172" />, khāribhāradharo tadā;</gatha1>
-<gathalast line="112">Khārikaṃ hārayitvāna, kolaṃ ahāsi assamaṃ.</gathalast>
-<hangnum line="113" number="36"></hangnum>
-<gatha1 line="114"> ‘‘Bhagavā tamhi samaye, eko adutiyo jino;</gatha1>
-<gathalast line="115">Mamassamaṃ upāgacchi, jotento sabbakālikaṃ.</gathalast>
-<hangnum line="116" number="37"></hangnum>
-<gatha1 line="117"> ‘‘Sakaṃ cittaṃ pasādetvā, abhivādetvāna subbataṃ;</gatha1>
-<gathalast line="118">Ubho hatthehi paggayha, kolaṃ buddhassadāsahaṃ.</gathalast>
-<hangnum line="119" number="38"></hangnum>
-<gatha1 line="120"> ‘‘Ekatiṃse <pageBreak edition="V" number="2.0167" /> ito kappe, yaṃ phalaṃ adadiṃ tadā;</gatha1>
-<gathalast line="121">Duggatiṃ nābhijānāmi, koladānassidaṃ phalaṃ.</gathalast>
-<hangnum line="122" number="39"></hangnum>
-<gatha1 line="123"> ‘‘Kilesā jhāpitā mayhaṃ…pe… viharāmi anāsavo.</gatha1>
-<hangnum line="124" number="40"></hangnum>
-<gatha1 line="125"> ‘‘Svāgataṃ vata me āsi…pe… kataṃ buddhassa sāsanaṃ.</gatha1>
-<hangnum line="126" number="41"></hangnum>
-<gatha1 line="127"> ‘‘Paṭisambhidā catasso…pe… kataṃ buddhassa sāsanaṃ’’.</gatha1>
-<centered line="128">Itthaṃ sudaṃ āyasmā gayākassapo thero imā gāthāyo</centered>
-<paragraph line="129">Abhāsitthāti.</paragraph>
-<centered line="130">Gayākassapattherassāpadānaṃ tatiyaṃ.</centered>
-<subhead line="131">4. Kimilattheraapadānaṃ</subhead>
-<hangnum line="132" number="42"></hangnum>
-<gatha1 line="133"> ‘‘Nibbute kakusandhamhi, brāhmaṇamhi vusīmati;</gatha1>
-<gathalast line="134">Gahetvā salalaṃ mālaṃ, maṇḍapaṃ kārayiṃ ahaṃ.</gathalast>
-<hangnum line="135" number="43"></hangnum>
-<gatha1 line="136"> ‘‘Tāvatiṃsaṃ gato santo, <alternatives line="42" extra="null" separator="false"><alternative source-abbr="vri" source="vipassana research institut">labhimha</alternative><alternative source-abbr="ka." source="cambodian">labhāmi</alternative></alternatives>  byamhamuttamaṃ;</gatha1>
-<gathalast line="137">Aññe devetirocāmi, puññakammassidaṃ phalaṃ.</gathalast>
-<hangnum line="138" number="44"></hangnum>
-<gatha1 line="139"> ‘‘Divā vā yadi vā rattiṃ, caṅkamanto ṭhito cahaṃ;</gatha1>
-<gathalast line="140">Channo salalapupphehi, puññakammassidaṃ phalaṃ.</gathalast>
-<hangnum line="141" number="45"></hangnum>
-<gatha1 line="142"> ‘‘Imasmiṃyeva kappamhi, yaṃ buddhamabhipūjayiṃ;</gatha1>
-<gathalast line="143">Duggatiṃ nābhijānāmi, buddhapūjāyidaṃ phalaṃ.</gathalast>
-<hangnum line="144" number="46"></hangnum>
-<gatha1 line="145"> ‘‘Kilesā <pageBreak edition="M" number="2.0173" /> jhāpitā mayhaṃ…pe… viharāmi anāsavo.</gatha1>
-<hangnum line="146" number="47"></hangnum>
-<gatha1 line="147"> ‘‘Svāgataṃ vata me āsi…pe… kataṃ buddhassa sāsanaṃ.</gatha1>
-<hangnum line="148" number="48"></hangnum>
-<gatha1 line="149"> ‘‘Paṭisambhidā catasso…pe… kataṃ buddhassa sāsanaṃ’’.</gatha1>
-<centered line="150">Itthaṃ sudaṃ āyasmā <alternatives line="50" extra="null" separator="false"><alternative source-abbr="vri" source="vipassana research institut">kimilo</alternative><alternative source-abbr="sī." source="sri lanka">kimbilo</alternative></alternatives>  thero imā gāthāyo</centered>
-<paragraph line="151">Abhāsitthāti.</paragraph>
-<centered line="152">Kimilattherassāpadānaṃ catutthaṃ.</centered>
-<subhead line="153">5. Vajjīputtattheraapadānaṃ</subhead>
-<hangnum line="154" number="49"></hangnum>
-<gatha1 line="155"> ‘‘Sahassaraṃsī bhagavā, sayambhū aparājito;</gatha1>
-<gathalast line="156">Vivekā vuṭṭhahitvāna, gocarāyābhinikkhami.</gathalast>
-<hangnum line="157" number="50"></hangnum>
-<gatha1 line="158"> ‘‘Phalahattho <pageBreak edition="V" number="2.0168" /> ahaṃ disvā, upagacchiṃ narāsabhaṃ;</gatha1>
-<gathalast line="159">Pasannacitto sumano, savaṇṭaṃ adadiṃ phalaṃ.</gathalast>
-<hangnum line="160" number="51"></hangnum>
-<gatha1 line="161"> ‘‘Catunnavutito kappe, yaṃ phalaṃ adadiṃ tadā;</gatha1>
-<gathalast line="162">Duggatiṃ nābhijānāmi, phaladānassidaṃ phalaṃ.</gathalast>
-<hangnum line="163" number="52"></hangnum>
-<gatha1 line="164"> ‘‘Kilesā jhāpitā mayhaṃ…pe… viharāmi anāsavo.</gatha1>
-<hangnum line="165" number="53"></hangnum>
-<gatha1 line="166"> ‘‘Svāgataṃ vata me āsi…pe… kataṃ buddhassa sāsanaṃ.</gatha1>
-<hangnum line="167" number="54"></hangnum>
-<gatha1 line="168"> ‘‘Paṭisambhidā catasso…pe… kataṃ buddhassa sāsanaṃ’’.</gatha1>
-<centered line="169">Itthaṃ sudaṃ āyasmā vajjīputto thero imā gāthāyo</centered>
-<paragraph line="170">Abhāsitthāti.</paragraph>
-<centered line="171">Vajjīputtattherassāpadānaṃ pañcamaṃ.</centered>
-<subhead line="172">6. Uttarattheraapadānaṃ</subhead>
-<hangnum line="173" number="55"></hangnum>
-<gatha1 line="174"> ‘‘Sumedho nāma sambuddho, bāttiṃsavaralakkhaṇo;</gatha1>
-<gathalast line="175">Vivekakāmo bhagavā, himavantamupāgami.</gathalast>
-<hangnum line="176" number="56"></hangnum>
-<gatha1 line="177"> ‘‘Ajjhogāhetvā himavantaṃ, aggo kāruṇiko muni;</gatha1>
-<gathalast line="178">Pallaṅkaṃ ābhujitvāna, nisīdi purisuttamo.</gathalast>
-<hangnum line="179" number="57"></hangnum>
-<gatha1 line="180"> ‘‘Vijjadharo <pageBreak edition="M" number="2.0174" /> tadā āsiṃ, antalikkhacaro ahaṃ;</gatha1>
-<gathalast line="181">Tisūlaṃ sugataṃ gayha, gacchāmi ambare tadā.</gathalast>
-<hangnum line="182" number="58"></hangnum>
-<gatha1 line="183"> ‘‘Pabbatagge yathā aggi, puṇṇamāyeva candimā;</gatha1>
-<gathalast line="184">Vanaṃ obhāsate buddho, sālarājāva phullito.</gathalast>
-<hangnum line="185" number="59"></hangnum>
-<gatha1 line="186"> ‘‘Vanaggā nikkhamitvāna, <alternatives line="58" extra="null" separator="false"><alternative source-abbr="vri" source="vipassana research institut">buddharaṃsībhidhāvare</alternative><alternative source-abbr="sī." source="sri lanka">buddharaṃsī vidhāvare</alternative><alternative source-abbr="ka." source="cambodian">buddharaṃsī vidhāvare</alternative></alternatives> ;</gatha1>
-<gathalast line="187">Naḷaggivaṇṇasaṅkāsā <note>naḷaggiva nasaṅkāsaṃ (sī.)</note>, disvā cittaṃ pasādayiṃ.</gathalast>
-<hangnum line="188" number="60"></hangnum>
-<gatha1 line="189"> ‘‘Vicinaṃ addasaṃ pupphaṃ, kaṇikāraṃ devagandhikaṃ;</gatha1>
-<gathalast line="190">Tīṇi pupphāni ādāya, buddhaseṭṭhamapūjayiṃ.</gathalast>
-<hangnum line="191" number="61"></hangnum>
-<gatha1 line="192"> ‘‘Buddhassa ānubhāvena, tīṇi pupphāni me tadā;</gatha1>
-<gathalast line="193">Uddhaṃ vaṇṭā adhopattā, chāyaṃ kubbanti satthuno.</gathalast>
-<hangnum line="194" number="62"></hangnum>
-<gatha1 line="195"> ‘‘Tena kammena sukatena, cetanāpaṇidhīhi ca;</gatha1>
-<gathalast line="196">Jahitvā mānusaṃ dehaṃ tāvatiṃsamagacchahaṃ.</gathalast>
-<hangnum line="197" number="63"></hangnum>
-<gatha1 line="198"> ‘‘Tattha me sukataṃ byamhaṃ, <alternatives line="73" extra="null" separator="false"><alternative source-abbr="vri" source="vipassana research institut">kaṇikārīti</alternative><alternative source-abbr="sī." source="sri lanka">kaṇikāroti</alternative></alternatives>  ñāyati;</gatha1>
-<gathalast line="199">Saṭṭhiyojanamubbedhaṃ, tiṃsayojanavitthataṃ.</gathalast>
-<hangnum line="200" number="64"></hangnum>
-<gatha1 line="201"> ‘‘Sahassakaṇḍaṃ <pageBreak edition="V" number="2.0169" /> satabheṇḍu, dhajālu haritāmayaṃ;</gatha1>
-<gathalast line="202"><alternatives line="81" extra="null" separator="false"><alternative source-abbr="vri" source="vipassana research institut">Satasahassaniyyūhā</alternative><alternative source-abbr="sī." source="sri lanka">satasahassāni byūhāni</alternative></alternatives> , byamhe <alternatives line="89" extra="null" separator="true"><alternative source-abbr="vri" source="vipassana research institut">pātubhaviṃsu</alternative><alternative source-abbr="sī." source="sri lanka">pāturahaṃsu</alternative><alternative source-abbr="ka." source="cambodian">pāturahiṃsu</alternative></alternatives>  me.</gathalast>
-<hangnum line="203" number="65"></hangnum>
-<gatha1 line="204"> ‘‘Soṇṇamayā maṇimayā, lohitaṅkamayāpi ca;</gatha1>
-<gathalast line="205">Phalikāpi ca pallaṅkā, yenicchakā yadicchakā.</gathalast>
-<hangnum line="206" number="66"></hangnum>
-<gatha1 line="207"> ‘‘Mahārahañca sayanaṃ, tūlikā vikatīyutaṃ;</gatha1>
-<gathalast line="208">Uddhalomiñca ekantaṃ, bimbohanasamāyutaṃ.</gathalast>
-<hangnum line="209" number="67"></hangnum>
-<gatha1 line="210"> ‘‘Bhavanā nikkhamitvāna, caranto devacārikaṃ;</gatha1>
-<gathalast line="211"><alternatives line="98" extra="null" separator="false"><alternative source-abbr="vri" source="vipassana research institut">Yathā icchāmi</alternative><alternative source-abbr="sī." source="sri lanka">yathā gacchāmi</alternative></alternatives>  gamanaṃ, devasaṅghapurakkhato.</gathalast>
-<hangnum line="212" number="68"></hangnum>
-<gatha1 line="213"> ‘‘Pupphassa heṭṭhā tiṭṭhāmi, uparicchadanaṃ mama;</gatha1>
-<gathalast line="214">Samantā yojanasataṃ, kaṇikārehi chāditaṃ.</gathalast>
-<hangnum line="215" number="69"></hangnum>
-<gatha1 line="216"> ‘‘Saṭṭhituriyasahassāni <pageBreak edition="M" number="2.0175" />, sāyapātaṃ upaṭṭhahuṃ;</gatha1>
-<gathalast line="217">Parivārenti maṃ niccaṃ, rattindivamatanditā.</gathalast>
-<hangnum line="218" number="70"></hangnum>
-<gatha1 line="219"> ‘‘Tattha naccehi gītehi, tālehi vāditehi ca;</gatha1>
-<gathalast line="220">Ramāmi khiḍḍā ratiyā, modāmi kāmakāmahaṃ.</gathalast>
-<hangnum line="221" number="71"></hangnum>
-<gatha1 line="222"> ‘‘Tattha bhutvā pivitvā ca, modāmi tidase tadā;</gatha1>
-<gathalast line="223">Nārīgaṇehi sahito, modāmi byamhamuttame.</gathalast>
-<hangnum line="224" number="72"></hangnum>
-<gatha1 line="225"> ‘‘Satānaṃ pañcakkhattuñca, devarajjamakārayiṃ;</gatha1>
-<gathalast line="226">Satānaṃ tīṇikkhattuñca, cakkavattī ahosahaṃ;</gathalast>
-<gathalast line="227">Padesarajjaṃ vipulaṃ, gaṇanāto asaṅkhiyaṃ.</gathalast>
-<hangnum line="228" number="73"></hangnum>
-<gatha1 line="229"> ‘‘Bhave bhave saṃsaranto, mahābhogaṃ labhāmahaṃ;</gatha1>
-<gathalast line="230">Bhoge me ūnatā natthi, buddhapūjāyidaṃ phalaṃ.</gathalast>
-<hangnum line="231" number="74"></hangnum>
-<gatha1 line="232"> ‘‘Duve bhave saṃsarāmi, devatte atha mānuse;</gatha1>
-<gathalast line="233">Aññaṃ gatiṃ na jānāmi, buddhapūjāyidaṃ phalaṃ.</gathalast>
-<hangnum line="234" number="75"></hangnum>
-<gatha1 line="235"> ‘‘Duve kule <alternatives line="106" extra="null" separator="false"><alternative source-abbr="vri" source="vipassana research institut">pajāyāmi</alternative><alternative source-abbr="sī." source="sri lanka">yattha pacchā pajāyāmi</alternative></alternatives> , khattiye cāpi brāhmaṇe;</gatha1>
-<gathalast line="236">Nīce kule na jāyāmi, buddhapūjāyidaṃ phalaṃ.</gathalast>
-<hangnum line="237" number="76"></hangnum>
-<gatha1 line="238"> ‘‘Hatthiyānaṃ assayānaṃ, sivikaṃ sandamānikaṃ;</gatha1>
-<gathalast line="239">Labhāmi sabbamevetaṃ, buddhapūjāyidaṃ phalaṃ.</gathalast>
-<hangnum line="240" number="77"></hangnum>
-<gatha1 line="241"> ‘‘Dāsīgaṇaṃ dāsagaṇaṃ, nāriyo samalaṅkatā;</gatha1>
-<gathalast line="242">Labhāmi sabbamevetaṃ, buddhapūjāyidaṃ phalaṃ.</gathalast>
-<hangnum line="243" number="78"></hangnum>
-<gatha1 line="244"> ‘‘Koseyyakambaliyāni, khomakappāsikāni ca;</gatha1>
-<gathalast line="245">Labhāmi sabbamevetaṃ, buddhapūjāyidaṃ phalaṃ.</gathalast>
-<hangnum line="246" number="79"></hangnum>
-<gatha1 line="247"> ‘‘Navavatthaṃ <pageBreak edition="V" number="2.0170" /> navaphalaṃ, navaggarasabhojanaṃ;</gatha1>
-<gathalast line="248">Labhāmi sabbamevetaṃ, buddhapūjāyidaṃ phalaṃ.</gathalast>
-<hangnum line="249" number="80"></hangnum>
-<gatha1 line="250"> ‘‘Imaṃ khāda imaṃ bhuñja, imamhi sayane saya;</gatha1>
-<gathalast line="251">Labhāmi sabbamevetaṃ, buddhapūjāyidaṃ phalaṃ.</gathalast>
-<hangnum line="252" number="81"></hangnum>
-<gatha1 line="253"> ‘‘Sabbattha pūjito homi, yaso accuggato mama;</gatha1>
-<gatha2 line="254"><alternatives line="114" extra="null" separator="false"><alternative source-abbr="vri" source="vipassana research institut">Mahāpakkho</alternative><alternative source-abbr="ka." source="cambodian">mahesakkho</alternative></alternatives>  sadā homi, abhejjapariso sadā;</gatha2>
-<gathalast line="255">Ñātīnaṃ uttamo homi, buddhapūjāyidaṃ phalaṃ.</gathalast>
-<hangnum line="256" number="82"></hangnum>
-<gatha1 line="257"> ‘‘Sītaṃ <pageBreak edition="M" number="2.0176" /> uṇhaṃ na jānāmi, pariḷāho na vijjati;</gatha1>
-<gathalast line="258">Atho cetasikaṃ dukkhaṃ, hadaye me na vijjati.</gathalast>
-<hangnum line="259" number="83"></hangnum>
-<gatha1 line="260"> ‘‘Suvaṇṇavaṇṇo hutvāna, saṃsarāmi bhavābhave;</gatha1>
-<gathalast line="261">Vevaṇṇiyaṃ na jānāmi, buddhapūjāyidaṃ phalaṃ.</gathalast>
-<hangnum line="262" number="84"></hangnum>
-<gatha1 line="263"> ‘‘Devalokā cavitvāna, sukkamūlena codito;</gatha1>
-<gathalast line="264">Sāvatthiyaṃ pure jāto, mahāsālesu aḍḍhake.</gathalast>
-<hangnum line="265" number="85"></hangnum>
-<gatha1 line="266"> ‘‘Pañca kāmaguṇe hitvā, pabbajiṃ anagāriyaṃ;</gatha1>
-<gathalast line="267">Jātiyā sattavassohaṃ, arahattamapāpuṇiṃ.</gathalast>
-<hangnum line="268" number="86"></hangnum>
-<gatha1 line="269"> ‘‘Upasampadāyī buddho, guṇamaññāya cakkhumā;</gatha1>
-<gathalast line="270">Taruṇo pūjanīyohaṃ, buddhapūjāyidaṃ phalaṃ.</gathalast>
-<hangnum line="271" number="87"></hangnum>
-<gatha1 line="272"> ‘‘Dibbacakkhuvisuddhaṃ me, samādhikusalo ahaṃ;</gatha1>
-<gathalast line="273">Abhiññāpāramippatto, buddhapūjāyidaṃ phalaṃ.</gathalast>
-<hangnum line="274" number="88"></hangnum>
-<gatha1 line="275"> ‘‘Paṭisambhidā anuppatto, iddhipādesu kovido;</gatha1>
-<gathalast line="276">Dhammesu pāramippatto, buddhapūjāyidaṃ phalaṃ.</gathalast>
-<hangnum line="277" number="89"></hangnum>
-<gatha1 line="278"> ‘‘Tiṃsakappasahassamhi, yaṃ buddhamabhipūjayiṃ;</gatha1>
-<gathalast line="279">Duggatiṃ nābhijānāmi, buddhapūjāyidaṃ phalaṃ.</gathalast>
-<hangnum line="280" number="90"></hangnum>
-<gatha1 line="281"> ‘‘Kilesā jhāpitā mayhaṃ…pe… viharāmi anāsavo.</gatha1>
-<hangnum line="282" number="91"></hangnum>
-<gatha1 line="283"> ‘‘Svāgataṃ vata me āsi…pe… kataṃ buddhassa sāsanaṃ.</gatha1>
-<hangnum line="284" number="92"></hangnum>
-<gatha1 line="285"> ‘‘Paṭisambhidā catasso…pe… kataṃ buddhassa sāsanaṃ’’.</gatha1>
-<centered line="286">Itthaṃ sudaṃ āyasmā uttaro thero imā gāthāyo</centered>
-<paragraph line="287">Abhāsitthāti.</paragraph>
-<centered line="288">Uttarattherassāpadānaṃ chaṭṭhaṃ.</centered>
-<subhead line="289">7. Aparauttarattheraapadānaṃ</subhead>
-<hangnum line="290" number="93"></hangnum>
-<gatha1 line="291"> ‘‘Nibbute <pageBreak edition="V" number="2.0171" /> lokanāthamhi, siddhatthe lokanāyake;</gatha1>
-<gathalast line="292">Mama ñātī samānetvā, dhātupūjaṃ akāsahaṃ.</gathalast>
-<hangnum line="293" number="94"></hangnum>
-<gatha1 line="294"> ‘‘Catunnavutito kappe, yaṃ dhātumabhipūjayiṃ;</gatha1>
-<gathalast line="295">Duggatiṃ nābhijānāmi, dhātupūjāyidaṃ phalaṃ.</gathalast>
-<hangnum line="296" number="95"></hangnum>
-<gatha1 line="297"> ‘‘Kilesā <pageBreak edition="M" number="2.0177" /> jhāpitā mayhaṃ…pe… viharāmi anāsavo.</gatha1>
-<hangnum line="298" number="96"></hangnum>
-<gatha1 line="299"> ‘‘Svāgataṃ vata me āsi…pe… kataṃ buddhassa sāsanaṃ.</gatha1>
-<hangnum line="300" number="97"></hangnum>
-<gatha1 line="301"> ‘‘Paṭisambhidā catasso…pe… kataṃ buddhassa sāsanaṃ’’.</gatha1>
-<centered line="302">Itthaṃ sudaṃ āyasmā aparauttaratthero imā gāthāyo</centered>
-<paragraph line="303">Abhāsitthāti.</paragraph>
-<centered line="304">Aparassa uttarattherassāpadānaṃ sattamaṃ.</centered>
-<subhead line="305">8. Bhaddajittheraapadānaṃ</subhead>
-<hangnum line="306" number="98"></hangnum>
-<gatha1 line="307"> ‘‘Ogayha yaṃ pokkharaṇiṃ, nānākuñjarasevitaṃ;</gatha1>
-<gathalast line="308">Uddharāmi bhisaṃ tattha, ghāsahetu ahaṃ tadā.</gathalast>
-<hangnum line="309" number="99"></hangnum>
-<gatha1 line="310"> ‘‘Bhagavā tamhi samaye, padumuttarasavhayo;</gatha1>
-<gathalast line="311">Rattambaradharo buddho, gacchate anilañjase.</gathalast>
-<hangnum line="312" number="100"></hangnum>
-<gatha1 line="313"> ‘‘Dhunanto paṃsukūlāni, saddaṃ assosahaṃ tadā;</gatha1>
-<gathalast line="314">Uddhaṃ nijjhāyamānohaṃ, addasaṃ lokanāyakaṃ.</gathalast>
-<hangnum line="315" number="101"></hangnum>
-<gatha1 line="316"> ‘‘Tattheva ṭhitako santo, āyāciṃ lokanāyakaṃ;</gatha1>
-<gathalast line="317">Madhuṃ bhisehi sahitaṃ, khīraṃ sappiṃ <alternatives line="122" extra=" bhisadāyakattherāpadānepi" separator="false"><alternative source-abbr="vri" source="vipassana research institut">muḷālikaṃ</alternative><alternative source-abbr="ka." source="cambodian">madhuṃ bhisehi pacati, khīrasappi mulālibhi</alternative></alternatives> .</gathalast>
-<hangnum line="318" number="102"></hangnum>
-<gatha1 line="319"> ‘‘Paṭiggaṇhātu me buddho, anukampāya cakkhumā;</gatha1>
-<gathalast line="320">Tato kāruṇiko satthā, orohitvā mahāyaso.</gathalast>
-<hangnum line="321" number="103"></hangnum>
-<gatha1 line="322"> ‘‘Paṭiggaṇhi mama bhikkhaṃ, anukampāya cakkhumā;</gatha1>
-<gathalast line="323">Paṭiggahetvā sambuddho, akā me anumodanaṃ.</gathalast>
-<hangnum line="324" number="104"></hangnum>
-<gatha1 line="325"> ‘‘‘Sukhī hotu mahāpuñña, gati tuyhaṃ samijjhatu;</gatha1>
-<gathalast line="326">Iminā bhisadānena, labhassu vipulaṃ sukhaṃ’.</gathalast>
-<hangnum line="327" number="105"></hangnum>
-<gatha1 line="328"> ‘‘Idaṃ <pageBreak edition="V" number="2.0172" /> vatvāna sambuddho, jalajuttamanāmako;</gatha1>
-<gathalast line="329">Bhikkhamādāya sambuddho, ākāsenāgamā jino.</gathalast>
-<hangnum line="330" number="106"></hangnum>
-<gatha1 line="331"> ‘‘Tato bhisaṃ gahetvāna, agacchiṃ mama assamaṃ;</gatha1>
-<gathalast line="332">Bhisaṃ rukkhe laggetvāna, mama dānaṃ anussariṃ.</gathalast>
-<hangnum line="333" number="107"></hangnum>
-<gatha1 line="334"> ‘‘Mahāvāto <pageBreak edition="M" number="2.0178" /> uṭṭhahitvā, sañcālesi vanaṃ tadā;</gatha1>
-<gathalast line="335">Ākāso abhinādittha, asanī ca phalī tadā.</gathalast>
-<hangnum line="336" number="108"></hangnum>
-<gatha1 line="337"> ‘‘Tato me asanīpāto, matthake nipatī tadā;</gatha1>
-<gathalast line="338">Sohaṃ nisinnako santo, tattha kālaṅkato ahaṃ.</gathalast>
-<hangnum line="339" number="109"></hangnum>
-<gatha1 line="340"> ‘‘Puññakammena saññutto, tusitaṃ upapajjahaṃ;</gatha1>
-<gathalast line="341">Kaḷevaraṃ me patitaṃ, devaloke ramāmahaṃ.</gathalast>
-<hangnum line="342" number="110"></hangnum>
-<gatha1 line="343"> ‘‘Chaḷasītisahassāni, nāriyo samalaṅkatā;</gatha1>
-<gathalast line="344">Sāyaṃ pātaṃ upaṭṭhanti, bhisadānassidaṃ phalaṃ.</gathalast>
-<hangnum line="345" number="111"></hangnum>
-<gatha1 line="346"> ‘‘Manussayonimāgantvā, sukhito homahaṃ tadā;</gatha1>
-<gathalast line="347">Bhogā me ūnatā natthi, bhisadānassidaṃ phalaṃ.</gathalast>
-<hangnum line="348" number="112"></hangnum>
-<gatha1 line="349"> ‘‘Anukampitako tena, devadevena tādinā;</gatha1>
-<gathalast line="350">Sabbāsavaparikkhīṇā, natthi dāni punabbhavo.</gathalast>
-<hangnum line="351" number="113"></hangnum>
-<gatha1 line="352"> ‘‘Satasahassito kappe, yaṃ bhisaṃ adadiṃ tadā;</gatha1>
-<gathalast line="353">Duggatiṃ nābhijānāmi, bhisadānassidaṃ phalaṃ.</gathalast>
-<hangnum line="354" number="114"></hangnum>
-<gatha1 line="355"> ‘‘Kilesā jhāpitā mayhaṃ…pe… viharāmi anāsavo.</gatha1>
-<hangnum line="356" number="115"></hangnum>
-<gatha1 line="357"> ‘‘Svāgataṃ vata me āsi…pe… kataṃ buddhassa sāsanaṃ.</gatha1>
-<hangnum line="358" number="116"></hangnum>
-<gatha1 line="359"> ‘‘Paṭisambhidā catasso…pe… kataṃ buddhassa sāsanaṃ’’.</gatha1>
-<centered line="360">Itthaṃ sudaṃ āyasmā bhaddajitthero imā gāthāyo</centered>
-<paragraph line="361">Abhāsitthāti.</paragraph>
-<centered line="362">Bhaddajittherassāpadānaṃ aṭṭhamaṃ.</centered>
-<subhead line="363">9. Sivakattheraapadānaṃ</subhead>
-<hangnum line="364" number="117"></hangnum>
-<gatha1 line="365"> ‘‘Esanāya carantassa, vipassissa mahesino;</gatha1>
-<gathalast line="366">Rittakaṃ pattaṃ disvāna, kummāsaṃ pūrayiṃ ahaṃ.</gathalast>
-<hangnum line="367" number="118"></hangnum>
-<gatha1 line="368"> ‘‘Ekanavutito kappe, yaṃ bhikkhamadadiṃ tadā;</gatha1>
-<gathalast line="369">Duggatiṃ nābhijānāmi, kummāsassa idaṃ phalaṃ.</gathalast>
-<hangnum line="370" number="119"></hangnum>
-<gatha1 line="371"> ‘‘Kilesā <pageBreak edition="V" number="2.0173" /> jhāpitā mayhaṃ…pe… viharāmi anāsavo.</gatha1>
-<hangnum line="372" number="120"></hangnum>
-<gatha1 line="373"> ‘‘Svāgataṃ <pageBreak edition="M" number="2.0179" /> vata me āsi…pe… kataṃ buddhassa sāsanaṃ.</gatha1>
-<hangnum line="374" number="121"></hangnum>
-<gatha1 line="375"> ‘‘Paṭisambhidā catasso…pe… kataṃ buddhassa sāsanaṃ’’.</gatha1>
-<centered line="376">Itthaṃ sudaṃ āyasmā sivakatthero imā gāthāyo</centered>
-<paragraph line="377">Abhāsitthāti.</paragraph>
-<centered line="378">Sivakattherassāpadānaṃ navamaṃ.</centered>
-<subhead line="379">10. Upavānattheraapadānaṃ</subhead>
-<hangnum line="380" number="122"></hangnum>
-<gatha1 line="381"> ‘‘Padumuttaro nāma jino, sabbadhammāna pāragū;</gatha1>
-<gathalast line="382">Jalitvā aggikkhandhova, sambuddho parinibbuto.</gathalast>
-<hangnum line="383" number="123"></hangnum>
-<gatha1 line="384"> ‘‘Mahājanā samāgamma, pūjayitvā tathāgataṃ;</gatha1>
-<gathalast line="385">Citaṃ katvāna sugataṃ, sarīraṃ abhiropayuṃ.</gathalast>
-<hangnum line="386" number="124"></hangnum>
-<gatha1 line="387"> ‘‘Sarīrakiccaṃ katvāna, dhātuṃ tattha samānayuṃ;</gatha1>
-<gathalast line="388">Sadevamanussā sabbe, buddhathūpaṃ akaṃsu te.</gathalast>
-<hangnum line="389" number="125"></hangnum>
-<gatha1 line="390"> ‘‘Paṭhamā kañcanamayā, dutiyā ca maṇimayā;</gatha1>
-<gathalast line="391">Tatiyā rūpiyamayā, catutthī phalikāmayā.</gathalast>
-<hangnum line="392" number="126"></hangnum>
-<gatha1 line="393"> ‘‘<alternatives line="130" extra="null" separator="false"><alternative source-abbr="vri" source="vipassana research institut">Tattha pañcamikā ceva</alternative><alternative source-abbr="sī." source="sri lanka">tattha pañcamikā ceti</alternative></alternatives> , lohitaṅkamayā ahu;</gatha1>
-<gathalast line="394">Chaṭṭhā masāragallassa, sabbaṃ ratanamayūpari.</gathalast>
-<hangnum line="395" number="127"></hangnum>
-<gatha1 line="396"> ‘‘Jaṅghā maṇimayā āsi, vedikā ratanāmayā;</gatha1>
-<gathalast line="397">Sabbasoṇṇamayo thūpo, uddhaṃ yojanamuggato.</gathalast>
-<hangnum line="398" number="128"></hangnum>
-<gatha1 line="399"> ‘‘Devā tattha samāgantvā, ekato mantayuṃ tadā;</gatha1>
-<gathalast line="400">‘Mayampi thūpaṃ kassāma, lokanāthassa tādino.</gathalast>
-<hangnum line="401" number="129"></hangnum>
-<gatha1 line="402"> ‘‘‘Dhātu āveṇikā natthi, sarīraṃ ekapiṇḍitaṃ;</gatha1>
-<gathalast line="403">Imamhi buddhathūpamhi, kassāma kañcukaṃ mayaṃ’.</gathalast>
-<hangnum line="404" number="130"></hangnum>
-<gatha1 line="405"> ‘‘Devā sattahi ratnehi, aññaṃ vaḍḍhesuṃ yojanaṃ;</gatha1>
-<gathalast line="406">Thūpo dviyojanubbedho, timiraṃ byapahanti so.</gathalast>
-<hangnum line="407" number="131"></hangnum>
-<gatha1 line="408"> ‘‘Nāgā tattha samāgantvā, ekato mantayuṃ tadā;</gatha1>
-<gathalast line="409">‘Manussā ceva devā ca, buddhathūpaṃ akaṃsu te.</gathalast>
-<hangnum line="410" number="132"></hangnum>
-<gatha1 line="411"> ‘‘‘Mā <pageBreak edition="M" number="2.0180" /> no pamattā assumha, appamattā sadevakā;</gatha1>
-<gathalast line="412">Mayampi thūpaṃ kassāma, lokanāthassa tādino’.</gathalast>
-<hangnum line="413" number="133"></hangnum>
-<gatha1 line="414"> ‘‘Indanīlaṃ <pageBreak edition="V" number="2.0174" /> mahānīlaṃ, atho jotirasaṃ maṇiṃ;</gatha1>
-<gathalast line="415">Ekato sannipātetvā, buddhathūpaṃ achādayuṃ.</gathalast>
-<hangnum line="416" number="134"></hangnum>
-<gatha1 line="417"> ‘‘Sabbaṃ maṇimayaṃ āsi, <alternatives line="138" extra="null" separator="false"><alternative source-abbr="vri" source="vipassana research institut">yāvatā</alternative><alternative source-abbr="ka." source="cambodian">tāvatā</alternative></alternatives>  buddhacetiyaṃ;</gatha1>
-<gathalast line="418">Tiyojanasamubbedhaṃ, ālokakaraṇaṃ tadā.</gathalast>
-<hangnum line="419" number="135"></hangnum>
-<gatha1 line="420"> ‘‘Garuḷā ca samāgantvā, ekato mantayuṃ tadā;</gatha1>
-<gathalast line="421">‘Manussā devanāgā ca, buddhapūjaṃ akaṃsu te.</gathalast>
-<hangnum line="422" number="136"></hangnum>
-<gatha1 line="423"> ‘‘‘Mā no pamattā assumha, appamattā sadevakā;</gatha1>
-<gathalast line="424">Mayampi thūpaṃ kassāma, lokanāthassa tādino’.</gathalast>
-<hangnum line="425" number="137"></hangnum>
-<gatha1 line="426"> ‘‘Sabbaṃ maṇimayaṃ thūpaṃ, akaruṃ te ca kañcukaṃ;</gatha1>
-<gathalast line="427">Yojanaṃ tepi vaḍḍhesuṃ, āyataṃ buddhacetiyaṃ.</gathalast>
-<hangnum line="428" number="138"></hangnum>
-<gatha1 line="429"> ‘‘Catuyojanamubbedho, buddhathūpo virocati;</gatha1>
-<gathalast line="430">Obhāseti disā sabbā, sataraṃsīva uggato.</gathalast>
-<hangnum line="431" number="139"></hangnum>
-<gatha1 line="432"> ‘‘Kumbhaṇḍā ca samāgantvā, ekato mantayuṃ tadā;</gatha1>
-<gathalast line="433">‘Manussā ceva devā ca, nāgā ca garuḷā tathā.</gathalast>
-<hangnum line="434" number="140"></hangnum>
-<gatha1 line="435"> ‘‘‘Paccekaṃ buddhaseṭṭhassa, akaṃsu thūpamuttamaṃ;</gatha1>
-<gathalast line="436">Mā no pamattā assumha, appamattā sadevakā.</gathalast>
-<hangnum line="437" number="141"></hangnum>
-<gatha1 line="438"> ‘‘‘Mayampi thūpaṃ kassāma, lokanāthassa tādino;</gatha1>
-<gathalast line="439">Ratanehi chādessāma, āyataṃ buddhacetiyaṃ’.</gathalast>
-<hangnum line="440" number="142"></hangnum>
-<gatha1 line="441"> ‘‘Yojanaṃ tepi vaḍḍhesuṃ, āyataṃ buddhacetiyaṃ;</gatha1>
-<gathalast line="442">Pañcayojanamubbedho, thūpo obhāsate tadā.</gathalast>
-<hangnum line="443" number="143"></hangnum>
-<gatha1 line="444"> ‘‘Yakkhā tattha samāgantvā, ekato mantayuṃ tadā;</gatha1>
-<gathalast line="445">‘Manussā devanāgā ca, garuḷā ca kumbhaṇḍakā.</gathalast>
-<hangnum line="446" number="144"></hangnum>
-<gatha1 line="447"> ‘‘‘Paccekaṃ buddhaseṭṭhassa, akaṃsu thūpamuttamaṃ;</gatha1>
-<gathalast line="448">Mā no pamattā assumha, appamattā sadevakā.</gathalast>
-<hangnum line="449" number="145"></hangnum>
-<gatha1 line="450"> ‘‘‘Mayampi <pageBreak edition="M" number="2.0181" /> thūpaṃ kassāma, lokanāthassa tādino;</gatha1>
-<gathalast line="451">Phalikā chādayissāma, āyataṃ buddhacetiyaṃ’.</gathalast>
-<hangnum line="452" number="146"></hangnum>
-<gatha1 line="453"> ‘‘Yojanaṃ tepi vaḍḍhesuṃ, āyataṃ buddhacetiyaṃ;</gatha1>
-<gathalast line="454">Chayojanikamubbedho, thūpo obhāsate tadā.</gathalast>
-<hangnum line="455" number="147"></hangnum>
-<gatha1 line="456"> ‘‘Gandhabbā ca samāgantvā, ekato mantayuṃ tadā;</gatha1>
-<gathalast line="457">‘Manujā devatā nāgā, <alternatives line="146" extra="null" separator="false"><alternative source-abbr="vri" source="vipassana research institut">kumbhaṇḍā garuḷā tathā</alternative><alternative source-abbr="sī." source="sri lanka">kumbhaṇḍā ca yakkhā tathā</alternative></alternatives> .</gathalast>
-<hangnum line="458" number="148"></hangnum>
-<gatha1 line="459"> ‘‘‘Sabbe akaṃsu buddhathūpaṃ, mayamettha akārakā;</gatha1>
-<gathalast line="460">Mayampi thūpaṃ kassāma, lokanāthassa tādino’.</gathalast>
-<hangnum line="461" number="149"></hangnum>
-<gatha1 line="462"> ‘‘Vediyo <pageBreak edition="V" number="2.0175" /> satta katvāna, dhajaṃ chattaṃ akaṃsu te;</gatha1>
-<gathalast line="463">Sabbasoṇṇamayaṃ thūpaṃ, gandhabbā kārayuṃ tadā.</gathalast>
-<hangnum line="464" number="150"></hangnum>
-<gatha1 line="465"> ‘‘Sattayojanamubbedho, thūpo obhāsate tadā;</gatha1>
-<gathalast line="466">Rattindivā na ñāyanti, āloko hoti sabbadā.</gathalast>
-<hangnum line="467" number="151"></hangnum>
-<gatha1 line="468"> ‘‘Abhibhonti na tassābhā, candasūrā satārakā;</gatha1>
-<gathalast line="469">Samantā yojanasate, padīpopi na pajjali.</gathalast>
-<hangnum line="470" number="152"></hangnum>
-<gatha1 line="471"> ‘‘Tena kālena ye keci, thūpaṃ pūjenti mānusā;</gatha1>
-<gathalast line="472">Na te thūpaṃ āruhanti, ambare ukkhipanti te.</gathalast>
-<hangnum line="473" number="153"></hangnum>
-<gatha1 line="474"> ‘‘Devehi ṭhapito yakkho, abhisammatanāmako;</gatha1>
-<gathalast line="475">Dhajaṃ vā pupphadāmaṃ vā, abhiropeti uttariṃ.</gathalast>
-<hangnum line="476" number="154"></hangnum>
-<gatha1 line="477"> ‘‘Na te passanti taṃ yakkhaṃ, dāmaṃ passanti gacchato;</gatha1>
-<gathalast line="478">Evaṃ passitvā gacchantā, sabbe gacchanti suggatiṃ.</gathalast>
-<hangnum line="479" number="155"></hangnum>
-<gatha1 line="480"> ‘‘Viruddhā ye pāvacane, pasannā ye ca sāsane;</gatha1>
-<gathalast line="481">Pāṭihīraṃ daṭṭhukāmā, thūpaṃ pūjenti mānusā.</gathalast>
-<hangnum line="482" number="156"></hangnum>
-<gatha1 line="483"> ‘‘Nagare haṃsavatiyā, ahosiṃ bhatako tadā;</gatha1>
-<gathalast line="484">Āmoditaṃ janaṃ disvā, evaṃ cintesahaṃ tadā.</gathalast>
-<hangnum line="485" number="157"></hangnum>
-<gatha1 line="486"> ‘‘‘Uḷāro bhagavā neso, yassa dhātughare disaṃ;</gatha1>
-<gathalast line="487">Imā ca janatā tuṭṭhā, kāraṃ kubbaṃ na tappare.</gathalast>
-<hangnum line="488" number="158"></hangnum>
-<gatha1 line="489"> ‘‘‘Ahampi <pageBreak edition="M" number="2.0182" /> kāraṃ kassāmi, lokanāthassa tādino;</gatha1>
-<gathalast line="490">Tassa dhammesu dāyādo, bhavissāmi anāgate’.</gathalast>
-<hangnum line="491" number="159"></hangnum>
-<gatha1 line="492"> ‘‘Sudhotaṃ rajakenāhaṃ, uttareyyaṃ paṭaṃ mama;</gatha1>
-<gathalast line="493">Veḷagge ālaggetvāna, dhajaṃ ukkhipimambare.</gathalast>
-<hangnum line="494" number="160"></hangnum>
-<gatha1 line="495"> ‘‘Abhisammatako gayha, ambare hāsi me dhajaṃ;</gatha1>
-<gathalast line="496">Vāteritaṃ dhajaṃ disvā, bhiyyo hāsaṃ janesahaṃ.</gathalast>
-<hangnum line="497" number="161"></hangnum>
-<gatha1 line="498"> ‘‘Tattha cittaṃ pasādetvā, samaṇaṃ upasaṅkamiṃ;</gatha1>
-<gathalast line="499">Taṃ bhikkhuṃ abhivādetvā, vipākaṃ pucchahaṃ dhaje.</gathalast>
-<hangnum line="500" number="162"></hangnum>
-<gatha1 line="501"> ‘‘So me kathesi ānandī, pītisañjananaṃ mama;</gatha1>
-<gathalast line="502">‘Tassa dhajassa vipākaṃ, anubhossasi sabbadā.</gathalast>
-<hangnum line="503" number="163"></hangnum>
-<gatha1 line="504"> ‘‘‘Hatthiassarathāpattī, senā ca caturaṅginī;</gatha1>
-<gathalast line="505">Parivāressanti taṃ niccaṃ, dhajadānassidaṃ phalaṃ.</gathalast>
-<hangnum line="506" number="164"></hangnum>
-<gatha1 line="507"> ‘‘‘Saṭṭhituriyasahassāni, bheriyo samalaṅkatā;</gatha1>
-<gathalast line="508">Parivāressanti taṃ niccaṃ, dhajadānassidaṃ phalaṃ.</gathalast>
-<hangnum line="509" number="165"></hangnum>
-<gatha1 line="510"> ‘‘‘Chaḷasītisahassāni <pageBreak edition="V" number="2.0176" />, nāriyo samalaṅkatā;</gatha1>
-<gathalast line="511">Vicittavatthābharaṇā, āmukkamaṇikuṇḍalā.</gathalast>
-<hangnum line="512" number="166"></hangnum>
-<gatha1 line="513"> ‘‘‘Āḷārapamhā hasulā, <alternatives line="154" extra=" apa. thera 2.48.19 maṇipūjakattherāpadānepi" separator="false"><alternative source-abbr="vri" source="vipassana research institut">susaññā</alternative><alternative source-abbr="sī." source="sri lanka">sutthanā</alternative></alternatives>  tanumajjhimā;</gatha1>
-<gathalast line="514">Parivāressanti taṃ niccaṃ, dhajadānassidaṃ phalaṃ.</gathalast>
-<hangnum line="515" number="167"></hangnum>
-<gatha1 line="516"> ‘‘‘Tiṃsakappasahassāni, devaloke ramissasi;</gatha1>
-<gathalast line="517">Asītikkhattuṃ devindo, devarajjaṃ karissasi.</gathalast>
-<hangnum line="518" number="168"></hangnum>
-<gatha1 line="519"> ‘‘‘Sahassakkhattuṃ rājā ca, cakkavattī bhavissati;</gatha1>
-<gathalast line="520">Padesarajjaṃ vipulaṃ, gaṇanāto asaṅkhiyaṃ.</gathalast>
-<hangnum line="521" number="169"></hangnum>
-<gatha1 line="522"> ‘‘‘Kappasatasahassamhi, okkākakulasambhavo;</gatha1>
-<gathalast line="523">Gotamo nāma gottena, satthā loke bhavissati.</gathalast>
-<hangnum line="524" number="170"></hangnum>
-<gatha1 line="525"> ‘‘‘Devalokā cavitvāna, sukkamūlena codito;</gatha1>
-<gathalast line="526">Puññakammena saññutto, brahmabandhu bhavissasi.</gathalast>
-<hangnum line="527" number="171"></hangnum>
-<gatha1 line="528"> ‘‘‘Asītikoṭiṃ <pageBreak edition="M" number="2.0183" /> chaḍḍetvā, dāse kammakare bahū;</gatha1>
-<gathalast line="529">Gotamassa bhagavato, sāsane pabbajissasi.</gathalast>
-<hangnum line="530" number="172"></hangnum>
-<gatha1 line="531"> ‘‘‘Ārādhayitvā sambuddhaṃ, gotamaṃ sakyapuṅgavaṃ;</gatha1>
-<gathalast line="532">Upavānoti nāmena, hessasi satthu sāvako’.</gathalast>
-<hangnum line="533" number="173"></hangnum>
-<gatha1 line="534"> ‘‘Satasahasse kataṃ kammaṃ, phalaṃ dassesi me idha;</gatha1>
-<gathalast line="535">Sumutto saravegova, <alternatives line="162" extra="null" separator="false"><alternative source-abbr="vri" source="vipassana research institut">kilese jhāpayiṃ</alternative><alternative source-abbr="sī." source="sri lanka">kilesā jhāpitā</alternative></alternatives>  mama.</gathalast>
-<hangnum line="536" number="174"></hangnum>
-<gatha1 line="537"> ‘‘Cakkavattissa santassa, cātuddīpissarassa me;</gatha1>
-<gathalast line="538">Tīṇi yojanāni sāmantā, ussīyanti dhajā sadā.</gathalast>
-<hangnum line="539" number="175"></hangnum>
-<gatha1 line="540"> ‘‘Satasahassito kappe, yaṃ kammamakariṃ tadā;</gatha1>
-<gathalast line="541">Duggatiṃ nābhijānāmi, dhajadānassidaṃ phalaṃ.</gathalast>
-<hangnum line="542" number="176"></hangnum>
-<gatha1 line="543"> ‘‘Kilesā jhāpitā mayhaṃ…pe… viharāmi anāsavo.</gatha1>
-<hangnum line="544" number="177"></hangnum>
-<gatha1 line="545"> ‘‘Svāgataṃ vata me āsi…pe… kataṃ buddhassa sāsanaṃ.</gatha1>
-<hangnum line="546" number="178"></hangnum>
-<gatha1 line="547"> ‘‘Paṭisambhidā catasso…pe… kataṃ buddhassa sāsanaṃ’’.</gatha1>
-<centered line="548">Itthaṃ sudaṃ āyasmā upavānatthero imā gāthāyo</centered>
-<paragraph line="549">Abhāsitthāti.</paragraph>
-<centered line="550">Upavānattherassāpadānaṃ dasamaṃ.</centered>
-<subhead line="551">11. Raṭṭhapālattheraapadānaṃ</subhead>
-<hangnum line="552" number="179"></hangnum>
-<gatha1 line="553"> ‘‘Padumuttarassa <pageBreak edition="V" number="2.0177" /> bhagavato, lokajeṭṭhassa tādino;</gatha1>
-<gathalast line="554">Varanāgo mayā dinno, īsādanto urūḷhavā.</gathalast>
-<hangnum line="555" number="180"></hangnum>
-<gatha1 line="556"> ‘‘Setacchattopasobhito, sakappano <note>sīdabbano (sī.)</note> sahatthipo;</gatha1>
-<gathalast line="557">Agghāpetvāna taṃ sabbaṃ, saṅghārāmaṃ akārayiṃ.</gathalast>
-<hangnum line="558" number="181"></hangnum>
-<gatha1 line="559"> ‘‘Catupaññāsasahassāni, pāsāde kārayiṃ ahaṃ;</gatha1>
-<gathalast line="560"><alternatives line="177" extra=" apa. thera 1.2.99" separator="true"><alternative source-abbr="sī." source="sri lanka">mahagghañca</alternative><alternative source-abbr="vri" source="vipassana research institut">Mahoghadānaṃ</alternative><alternative source-abbr="ka." source="cambodian">mayā bhattaṃ</alternative></alternatives>  karitvāna, niyyādesiṃ mahesino.</gathalast>
-<hangnum line="561" number="182"></hangnum>
-<gatha1 line="562"> ‘‘Anumodi <pageBreak edition="M" number="2.0184" /> mahāvīro, sayambhū aggapuggalo;</gatha1>
-<gathalast line="563">Sabbe jane hāsayanto, desesi amataṃ padaṃ.</gathalast>
-<hangnum line="564" number="183"></hangnum>
-<gatha1 line="565"> ‘‘Taṃ me buddho viyākāsi, jalajuttamanāmako;</gatha1>
-<gathalast line="566">Bhikkhusaṅghe nisīditvā, imā gāthā abhāsatha.</gathalast>
-<hangnum line="567" number="184"></hangnum>
-<gatha1 line="568"> ‘‘‘Catupaññāsasahassāni, pāsāde kārayī ayaṃ;</gatha1>
-<gathalast line="569">Kathayissāmi vipākaṃ, suṇātha mama bhāsato.</gathalast>
-<hangnum line="570" number="185"></hangnum>
-<gatha1 line="571"> ‘‘‘Aṭṭhārasasahassāni, kūṭāgārā bhavissare;</gatha1>
-<gathalast line="572">Byamhuttamamhi nibbattā, sabbasoṇṇamayā ca te.</gathalast>
-<hangnum line="573" number="186"></hangnum>
-<gatha1 line="574"> ‘‘‘Paññāsakkhattuṃ devindo, devarajjaṃ karissati;</gatha1>
-<gathalast line="575">Aṭṭhapaññāsakkhattuñca, cakkavattī bhavissati.</gathalast>
-<hangnum line="576" number="187"></hangnum>
-<gatha1 line="577"> ‘‘‘Kappasatasahassamhi, okkākakulasambhavo;</gatha1>
-<gathalast line="578">Gotamo nāma gottena, satthā loke bhavissati.</gathalast>
-<hangnum line="579" number="188"></hangnum>
-<gatha1 line="580"> ‘‘‘Devalokā cavitvāna, sukkamūlena codito;</gatha1>
-<gathalast line="581">Aḍḍhe kule mahābhoge, nibbattissati tāvade.</gathalast>
-<hangnum line="582" number="189"></hangnum>
-<gatha1 line="583"> ‘‘‘So pacchā pabbajitvāna, sukkamūlena codito;</gatha1>
-<gathalast line="584">Raṭṭhapāloti nāmena, hessati satthu sāvako.</gathalast>
-<hangnum line="585" number="190"></hangnum>
-<gatha1 line="586"> ‘‘‘Padhānapahitatto so, upasanto nirūpadhi;</gatha1>
-<gathalast line="587">Sabbāsave pariññāya, nibbāyissatināsavo’.</gathalast>
-<hangnum line="588" number="191"></hangnum>
-<gatha1 line="589"> ‘‘Uṭṭhāya abhinikkhamma, jahitā bhogasampadā;</gatha1>
-<gathalast line="590">Kheḷapiṇḍeva bhogamhi, pemaṃ mayhaṃ na vijjati.</gathalast>
-<hangnum line="591" number="192"></hangnum>
-<gatha1 line="592"> ‘‘Vīriyaṃ me dhuradhorayhaṃ, yogakkhemādhivāhanaṃ;</gatha1>
-<gathalast line="593">Dhāremi antimaṃ dehaṃ, sammāsambuddhasāsane.</gathalast>
-<hangnum line="594" number="193"></hangnum>
-<gatha1 line="595"> ‘‘Kilesā <pageBreak edition="V" number="2.0178" /> jhāpitā mayhaṃ…pe… viharāmi anāsavo.</gatha1>
-<hangnum line="596" number="194"></hangnum>
-<gatha1 line="597"> ‘‘Svāgataṃ vata me āsi…pe… kataṃ buddhassa sāsanaṃ.</gatha1>
-<hangnum line="598" number="195"></hangnum>
-<gatha1 line="599"> ‘‘Paṭisambhidā <pageBreak edition="M" number="2.0185" /> catasso…pe… kataṃ buddhassa sāsanaṃ’’.</gatha1>
-<centered line="600">Itthaṃ sudaṃ āyasmā raṭṭhapālo thero imā gāthāyo</centered>
-<paragraph line="601">Abhāsitthāti.</paragraph>
-<centered line="602">Raṭṭhapālattherassāpadānaṃ ekādasamaṃ.</centered>
-<centered line="603">Yasavaggo chapaññāsamo.</centered>
-<paragraph line="604">Tassuddānaṃ –</paragraph>
-<gatha1 line="605">Yaso nadīkassapo ca, gayākimilavajjino;</gatha1>
-<gatha2 line="606">Duve uttarā bhaddajī, sivako upavāhano;</gatha2>
-<gathalast line="607">Raṭṭhapālo ekasataṃ, gāthānaṃ pañcanavuti.</gathalast>
-<centered line="608">Therāpadānaṃ samattaṃ.</centered>
-<centered line="609">Ettāvatā buddhāpadānañca paccekāpadānañca therāpadānañca</centered>
-<paragraph line="610">Samattāni.</paragraph>
-<centered line="611"> Namo tassa bhagavato arahato sammāsambuddhassa</centered>
-<nikaya line="612">Khuddakanikāye</nikaya>
-<book line="613">Therīapadānapāḷi</book>
-</body>
+  <metadata>
+    <normativeSource>http://tipitaka.org/romn/cscd/s0510m2.mul13.xml</normativeSource>
+    <archivePath>roman/tipitaka (mula)/suttapitaka/khuddakanikaya/apadanapali-2/56. yasavaggo.xml</archivePath>
+    <baseFileName>56. yasavaggo</baseFileName>
+    <titlePath>56. Yasavaggo - Apadānapāḷi-2 - Khuddakanikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
+    <versions>
+      <version source="vipassana research institut" source-abbr="vri"/>
+      <version source="thai" source-abbr="syā."/>
+      <version source="cambodian" source-abbr="ka."/>
+      <version source="sri lanka" source-abbr="sī."/>
+    </versions>
+  </metadata>
+  <content>
+    <chapter line="1">56. Yasavaggo</chapter>
+    <subhead line="2">1. Yasattheraapadānaṃ</subhead>
+    <hangnum line="3" number="1"></hangnum>
+    <gatha1 line="4"> ‘‘Mahāsamuddaṃ <pageBreak edition="M" number="2.0169" /><pageBreak edition="V" number="2.0164" /> oggayha, bhavanaṃ me sunimmitaṃ;</gatha1>
+    <gathalast line="5">Sunimmitā pokkharaṇī, cakkavākūpakūjitā.</gathalast>
+    <hangnum line="6" number="2"></hangnum>
+    <gatha1 line="7"> ‘‘Mandārakehi sañchannā, padumuppalakehi ca;</gatha1>
+    <gathalast line="8">Nadī ca sandate tattha, supatitthā manoramā.</gathalast>
+    <hangnum line="9" number="3"></hangnum>
+    <gatha1 line="10"> ‘‘Macchakacchapasañchannā, <alternatives line="3" extra="" separator="false"><alternative source-abbr="vri" source="vipassana research institut">nānādijasamotthaṭā</alternative><alternative source-abbr="syā." source="thai">nānāmigasamotthaṭā</alternative></alternatives> ;</gatha1>
+    <gathalast line="11">Mayūrakoñcābhirudā, kokilādīhi vagguhi.</gathalast>
+    <hangnum line="12" number="4"></hangnum>
+    <gatha1 line="13"> ‘‘Pārevatā ravihaṃsā, cakkavākā nadīcarā;</gatha1>
+    <gathalast line="14">Tittirā sāḷikā cettha, pāvakā <note>sambakā (ka.)</note> jīvaṃjīvakā.</gathalast>
+    <hangnum line="15" number="5"></hangnum>
+    <gatha1 line="16"> ‘‘Haṃsākoñcābhinaditā, kosiyā <alternatives line="18" extra="" separator="true"><alternative source-abbr="vri" source="vipassana research institut">piṅgalā</alternative><alternative source-abbr="sī." source="sri lanka">piṅgalī</alternative><alternative source-abbr="ka." source="cambodian">siṅgalī, siṅghalī</alternative></alternatives>  bahū;</gatha1>
+    <gathalast line="17">Sattaratanasampannā, maṇimuttapavāḷikā.</gathalast>
+    <hangnum line="18" number="6"></hangnum>
+    <gatha1 line="19"> ‘‘Sabbe soṇṇamayā rukkhā, nānākhandhasameritā;</gatha1>
+    <gathalast line="20">Ujjotenti divārattiṃ, bhavanaṃ sabbakālikaṃ.</gathalast>
+    <hangnum line="21" number="7"></hangnum>
+    <gatha1 line="22"> ‘‘Saṭṭhituriyasahassāni, sāyaṃ pāto pavajjare;</gatha1>
+    <gathalast line="23">Soḷasitthisahassāni, parivārenti maṃ sadā.</gathalast>
+    <hangnum line="24" number="8"></hangnum>
+    <gatha1 line="25"> ‘‘Abhinikkhamma bhavanā, sumedhaṃ lokanāyakaṃ;</gatha1>
+    <gathalast line="26">Pasannacitto sumano, vandayiṃ taṃ <note>sabbadassiṃ (ka.)</note> mahāyasaṃ.</gathalast>
+    <hangnum line="27" number="9"></hangnum>
+    <gatha1 line="28"> ‘‘Sambuddhaṃ abhivādetvā, sasaṅghaṃ taṃ nimantayiṃ;</gatha1>
+    <gathalast line="29">Adhivāsesi so dhīro, sumedho lokanāyako.</gathalast>
+    <hangnum line="30" number="10"></hangnum>
+    <gatha1 line="31"> ‘‘Mama dhammakathaṃ katvā, uyyojesi mahāmuni;</gatha1>
+    <gathalast line="32">Sambuddhaṃ abhivādetvā, bhavanaṃ me upāgamiṃ.</gathalast>
+    <hangnum line="33" number="11"></hangnum>
+    <gatha1 line="34"> ‘‘Āmantayiṃ parijanaṃ, sabbe sannipatuṃ tadā;</gatha1>
+    <gathalast line="35">‘Pubbaṇhasamayaṃ buddho, bhavanaṃ āgamissati’.</gathalast>
+    <hangnum line="36" number="12"></hangnum>
+    <gatha1 line="37"> ‘‘‘Lābhā <pageBreak edition="M" number="2.0170" /> amhaṃ suladdhā no, ye vasāma tavantike;</gatha1>
+    <gathalast line="38">Mayampi buddhaseṭṭhassa, pūjayissāma satthuno’.</gathalast>
+    <hangnum line="39" number="13"></hangnum>
+    <gatha1 line="40"> ‘‘Annaṃ <pageBreak edition="V" number="2.0165" /> pānaṃ paṭṭhapetvā, kālaṃ ārocayiṃ ahaṃ;</gatha1>
+    <gathalast line="41">Vasīsatasahassehi, upesi lokanāyako.</gathalast>
+    <hangnum line="42" number="14"></hangnum>
+    <gatha1 line="43"> ‘‘Pañcaṅgikehi turiyehi, paccuggamamakāsahaṃ;</gatha1>
+    <gathalast line="44">Sabbasoṇṇamaye pīṭhe, nisīdi purisuttamo.</gathalast>
+    <hangnum line="45" number="15"></hangnum>
+    <gatha1 line="46"> ‘‘Uparicchadanaṃ āsi, sabbasoṇṇamayaṃ tadā;</gatha1>
+    <gathalast line="47">Bījanīyo pavāyanti, bhikkhusaṅghaṃ anuttaraṃ.</gathalast>
+    <hangnum line="48" number="16"></hangnum>
+    <gatha1 line="49"> ‘‘Pahūtenannapānena, bhikkhusaṅghaṃ atappayiṃ;</gatha1>
+    <gathalast line="50">Paccekadussayugale, bhikkhusaṅghassadāsahaṃ.</gathalast>
+    <hangnum line="51" number="17"></hangnum>
+    <gatha1 line="52"> ‘‘Yaṃ vadeti sumedho so, āhutīnaṃ paṭiggaho;</gatha1>
+    <gathalast line="53">Bhikkhusaṅghe nisīditvā, imā gāthā abhāsatha.</gathalast>
+    <hangnum line="54" number="18"></hangnum>
+    <gatha1 line="55"> ‘‘‘Yo maṃ annena pānena, sabbe ime ca tappayi;</gatha1>
+    <gathalast line="56">Tamahaṃ kittayissāmi, suṇātha mama bhāsato.</gathalast>
+    <hangnum line="57" number="19"></hangnum>
+    <gatha1 line="58"> ‘‘‘Aṭṭhārase kappasate, devaloke ramissati;</gatha1>
+    <gathalast line="59">Sahassakkhattuṃ rājāyaṃ, cakkavattī bhavissati.</gathalast>
+    <hangnum line="60" number="20"></hangnum>
+    <gatha1 line="61"> ‘‘‘Upagacchati yaṃ yoniṃ, devattaṃ atha mānusaṃ;</gatha1>
+    <gathalast line="62">Sabbasoṇṇamayaṃ tassa, chadanaṃ dhārayissati.</gathalast>
+    <hangnum line="63" number="21"></hangnum>
+    <gatha1 line="64"> ‘‘‘Tiṃsakappasahassamhi, okkākakulasambhavo;</gatha1>
+    <gathalast line="65">Gotamo nāma gottena, satthā loke bhavissati.</gathalast>
+    <hangnum line="66" number="22"></hangnum>
+    <gatha1 line="67"> ‘‘‘Tassa dhammesu dāyādo, oraso dhammanimmito;</gatha1>
+    <gathalast line="68">Sabbāsave pariññāya, nibbāyissatināsavo.</gathalast>
+    <hangnum line="69" number="23"></hangnum>
+    <gatha1 line="70"> ‘‘‘Bhikkhusaṅghe nisīditvā, sīhanādaṃ nadissati’;</gatha1>
+    <gathalast line="71">Citake chattaṃ dhārenti, heṭṭhā chattamhi ḍayhatha.</gathalast>
+    <hangnum line="72" number="24"></hangnum>
+    <gatha1 line="73"> ‘‘Sāmaññaṃ me anuppattaṃ, kilesā jhāpitā mayā;</gatha1>
+    <gathalast line="74">Maṇḍape rukkhamūle vā, santāso me na vijjati.</gathalast>
+    <hangnum line="75" number="25"></hangnum>
+    <gatha1 line="76"> ‘‘Tiṃsakappasahassamhi, yaṃ dānamadadiṃ tadā;</gatha1>
+    <gathalast line="77">Duggatiṃ nābhijānāmi, sabbadānassidaṃ phalaṃ.</gathalast>
+    <hangnum line="78" number="26"></hangnum>
+    <gatha1 line="79"> ‘‘Kilesā <pageBreak edition="M" number="2.0171" /> jhāpitā mayhaṃ, bhavā sabbe samūhatā;</gatha1>
+    <gathalast line="80">Nāgova bandhanaṃ chetvā, viharāmi anāsavo.</gathalast>
+    <hangnum line="81" number="27"></hangnum>
+    <gatha1 line="82"> ‘‘Svāgataṃ vata me āsi, mama buddhassa santike;</gatha1>
+    <gathalast line="83">Tisso vijjā anuppattā, kataṃ buddhassa sāsanaṃ.</gathalast>
+    <hangnum line="84" number="28"></hangnum>
+    <gatha1 line="85"> ‘‘Paṭisambhidā <pageBreak edition="V" number="2.0166" /> catasso, vimokkhāpi ca aṭṭhime;</gatha1>
+    <gathalast line="86">Chaḷabhiññā sacchikatā, kataṃ buddhassa sāsanaṃ’’.</gathalast>
+    <paragraph line="87">Itthaṃ sudaṃ āyasmā yaso thero imā gāthāyo abhāsitthāti.</paragraph>
+    <centered line="88">Yasattherassāpadānaṃ paṭhamaṃ.</centered>
+    <subhead line="89">2. Nadīkassapattheraapadānaṃ</subhead>
+    <hangnum line="90" number="29"></hangnum>
+    <gatha1 line="91"> ‘‘Padumuttarassa bhagavato, lokajeṭṭhassa tādino;</gatha1>
+    <gatha2 line="92">Piṇḍacāraṃ carantassa, vārato uttamaṃ yasaṃ;</gatha2>
+    <gathalast line="93">Aggaphalaṃ gahetvāna, adāsiṃ satthuno ahaṃ.</gathalast>
+    <hangnum line="94" number="30"></hangnum>
+    <gatha1 line="95"> ‘‘Tena kammena devindo, lokajeṭṭho narāsabho;</gatha1>
+    <gathalast line="96">Sampattomhi acalaṃ ṭhānaṃ, hitvā jayaparājayaṃ.</gathalast>
+    <hangnum line="97" number="31"></hangnum>
+    <gatha1 line="98"> ‘‘Satasahassito kappe, yaṃ phalaṃ adadiṃ tadā;</gatha1>
+    <gathalast line="99">Duggatiṃ nābhijānāmi, aggadānassidaṃ phalaṃ.</gathalast>
+    <hangnum line="100" number="32"></hangnum>
+    <gatha1 line="101"> ‘‘Kilesā jhāpitā mayhaṃ…pe… viharāmi anāsavo.</gatha1>
+    <hangnum line="102" number="33"></hangnum>
+    <gatha1 line="103"> ‘‘Svāgataṃ vata me āsi…pe… kataṃ buddhassa sāsanaṃ.</gatha1>
+    <hangnum line="104" number="34"></hangnum>
+    <gatha1 line="105"> ‘‘Paṭisambhidā catasso…pe… kataṃ buddhassa sāsanaṃ’’.</gatha1>
+    <centered line="106">Itthaṃ sudaṃ āyasmā nadīkassapo thero imā gāthāyo</centered>
+    <paragraph line="107">Abhāsitthāti.</paragraph>
+    <centered line="108">Nadīkassapattherassāpadānaṃ dutiyaṃ.</centered>
+    <subhead line="109">3. Gayākassapattheraapadānaṃ</subhead>
+    <hangnum line="110" number="35"></hangnum>
+    <gatha1 line="111"> ‘‘<alternatives line="34" extra="" separator="false"><alternative source-abbr="vri" source="vipassana research institut">Ajinacammavatthohaṃ</alternative><alternative source-abbr="sī." source="sri lanka">ajinavattaṃ nivattohaṃ</alternative></alternatives> <pageBreak edition="M" number="2.0172" />, khāribhāradharo tadā;</gatha1>
+    <gathalast line="112">Khārikaṃ hārayitvāna, kolaṃ ahāsi assamaṃ.</gathalast>
+    <hangnum line="113" number="36"></hangnum>
+    <gatha1 line="114"> ‘‘Bhagavā tamhi samaye, eko adutiyo jino;</gatha1>
+    <gathalast line="115">Mamassamaṃ upāgacchi, jotento sabbakālikaṃ.</gathalast>
+    <hangnum line="116" number="37"></hangnum>
+    <gatha1 line="117"> ‘‘Sakaṃ cittaṃ pasādetvā, abhivādetvāna subbataṃ;</gatha1>
+    <gathalast line="118">Ubho hatthehi paggayha, kolaṃ buddhassadāsahaṃ.</gathalast>
+    <hangnum line="119" number="38"></hangnum>
+    <gatha1 line="120"> ‘‘Ekatiṃse <pageBreak edition="V" number="2.0167" /> ito kappe, yaṃ phalaṃ adadiṃ tadā;</gatha1>
+    <gathalast line="121">Duggatiṃ nābhijānāmi, koladānassidaṃ phalaṃ.</gathalast>
+    <hangnum line="122" number="39"></hangnum>
+    <gatha1 line="123"> ‘‘Kilesā jhāpitā mayhaṃ…pe… viharāmi anāsavo.</gatha1>
+    <hangnum line="124" number="40"></hangnum>
+    <gatha1 line="125"> ‘‘Svāgataṃ vata me āsi…pe… kataṃ buddhassa sāsanaṃ.</gatha1>
+    <hangnum line="126" number="41"></hangnum>
+    <gatha1 line="127"> ‘‘Paṭisambhidā catasso…pe… kataṃ buddhassa sāsanaṃ’’.</gatha1>
+    <centered line="128">Itthaṃ sudaṃ āyasmā gayākassapo thero imā gāthāyo</centered>
+    <paragraph line="129">Abhāsitthāti.</paragraph>
+    <centered line="130">Gayākassapattherassāpadānaṃ tatiyaṃ.</centered>
+    <subhead line="131">4. Kimilattheraapadānaṃ</subhead>
+    <hangnum line="132" number="42"></hangnum>
+    <gatha1 line="133"> ‘‘Nibbute kakusandhamhi, brāhmaṇamhi vusīmati;</gatha1>
+    <gathalast line="134">Gahetvā salalaṃ mālaṃ, maṇḍapaṃ kārayiṃ ahaṃ.</gathalast>
+    <hangnum line="135" number="43"></hangnum>
+    <gatha1 line="136"> ‘‘Tāvatiṃsaṃ gato santo, <alternatives line="42" extra="" separator="false"><alternative source-abbr="vri" source="vipassana research institut">labhimha</alternative><alternative source-abbr="ka." source="cambodian">labhāmi</alternative></alternatives>  byamhamuttamaṃ;</gatha1>
+    <gathalast line="137">Aññe devetirocāmi, puññakammassidaṃ phalaṃ.</gathalast>
+    <hangnum line="138" number="44"></hangnum>
+    <gatha1 line="139"> ‘‘Divā vā yadi vā rattiṃ, caṅkamanto ṭhito cahaṃ;</gatha1>
+    <gathalast line="140">Channo salalapupphehi, puññakammassidaṃ phalaṃ.</gathalast>
+    <hangnum line="141" number="45"></hangnum>
+    <gatha1 line="142"> ‘‘Imasmiṃyeva kappamhi, yaṃ buddhamabhipūjayiṃ;</gatha1>
+    <gathalast line="143">Duggatiṃ nābhijānāmi, buddhapūjāyidaṃ phalaṃ.</gathalast>
+    <hangnum line="144" number="46"></hangnum>
+    <gatha1 line="145"> ‘‘Kilesā <pageBreak edition="M" number="2.0173" /> jhāpitā mayhaṃ…pe… viharāmi anāsavo.</gatha1>
+    <hangnum line="146" number="47"></hangnum>
+    <gatha1 line="147"> ‘‘Svāgataṃ vata me āsi…pe… kataṃ buddhassa sāsanaṃ.</gatha1>
+    <hangnum line="148" number="48"></hangnum>
+    <gatha1 line="149"> ‘‘Paṭisambhidā catasso…pe… kataṃ buddhassa sāsanaṃ’’.</gatha1>
+    <centered line="150">Itthaṃ sudaṃ āyasmā <alternatives line="50" extra="" separator="false"><alternative source-abbr="vri" source="vipassana research institut">kimilo</alternative><alternative source-abbr="sī." source="sri lanka">kimbilo</alternative></alternatives>  thero imā gāthāyo</centered>
+    <paragraph line="151">Abhāsitthāti.</paragraph>
+    <centered line="152">Kimilattherassāpadānaṃ catutthaṃ.</centered>
+    <subhead line="153">5. Vajjīputtattheraapadānaṃ</subhead>
+    <hangnum line="154" number="49"></hangnum>
+    <gatha1 line="155"> ‘‘Sahassaraṃsī bhagavā, sayambhū aparājito;</gatha1>
+    <gathalast line="156">Vivekā vuṭṭhahitvāna, gocarāyābhinikkhami.</gathalast>
+    <hangnum line="157" number="50"></hangnum>
+    <gatha1 line="158"> ‘‘Phalahattho <pageBreak edition="V" number="2.0168" /> ahaṃ disvā, upagacchiṃ narāsabhaṃ;</gatha1>
+    <gathalast line="159">Pasannacitto sumano, savaṇṭaṃ adadiṃ phalaṃ.</gathalast>
+    <hangnum line="160" number="51"></hangnum>
+    <gatha1 line="161"> ‘‘Catunnavutito kappe, yaṃ phalaṃ adadiṃ tadā;</gatha1>
+    <gathalast line="162">Duggatiṃ nābhijānāmi, phaladānassidaṃ phalaṃ.</gathalast>
+    <hangnum line="163" number="52"></hangnum>
+    <gatha1 line="164"> ‘‘Kilesā jhāpitā mayhaṃ…pe… viharāmi anāsavo.</gatha1>
+    <hangnum line="165" number="53"></hangnum>
+    <gatha1 line="166"> ‘‘Svāgataṃ vata me āsi…pe… kataṃ buddhassa sāsanaṃ.</gatha1>
+    <hangnum line="167" number="54"></hangnum>
+    <gatha1 line="168"> ‘‘Paṭisambhidā catasso…pe… kataṃ buddhassa sāsanaṃ’’.</gatha1>
+    <centered line="169">Itthaṃ sudaṃ āyasmā vajjīputto thero imā gāthāyo</centered>
+    <paragraph line="170">Abhāsitthāti.</paragraph>
+    <centered line="171">Vajjīputtattherassāpadānaṃ pañcamaṃ.</centered>
+    <subhead line="172">6. Uttarattheraapadānaṃ</subhead>
+    <hangnum line="173" number="55"></hangnum>
+    <gatha1 line="174"> ‘‘Sumedho nāma sambuddho, bāttiṃsavaralakkhaṇo;</gatha1>
+    <gathalast line="175">Vivekakāmo bhagavā, himavantamupāgami.</gathalast>
+    <hangnum line="176" number="56"></hangnum>
+    <gatha1 line="177"> ‘‘Ajjhogāhetvā himavantaṃ, aggo kāruṇiko muni;</gatha1>
+    <gathalast line="178">Pallaṅkaṃ ābhujitvāna, nisīdi purisuttamo.</gathalast>
+    <hangnum line="179" number="57"></hangnum>
+    <gatha1 line="180"> ‘‘Vijjadharo <pageBreak edition="M" number="2.0174" /> tadā āsiṃ, antalikkhacaro ahaṃ;</gatha1>
+    <gathalast line="181">Tisūlaṃ sugataṃ gayha, gacchāmi ambare tadā.</gathalast>
+    <hangnum line="182" number="58"></hangnum>
+    <gatha1 line="183"> ‘‘Pabbatagge yathā aggi, puṇṇamāyeva candimā;</gatha1>
+    <gathalast line="184">Vanaṃ obhāsate buddho, sālarājāva phullito.</gathalast>
+    <hangnum line="185" number="59"></hangnum>
+    <gatha1 line="186"> ‘‘Vanaggā nikkhamitvāna, <alternatives line="58" extra="" separator="false"><alternative source-abbr="vri" source="vipassana research institut">buddharaṃsībhidhāvare</alternative><alternative source-abbr="sī." source="sri lanka">buddharaṃsī vidhāvare</alternative><alternative source-abbr="ka." source="cambodian">buddharaṃsī vidhāvare</alternative></alternatives> ;</gatha1>
+    <gathalast line="187">Naḷaggivaṇṇasaṅkāsā <note>naḷaggiva nasaṅkāsaṃ (sī.)</note>, disvā cittaṃ pasādayiṃ.</gathalast>
+    <hangnum line="188" number="60"></hangnum>
+    <gatha1 line="189"> ‘‘Vicinaṃ addasaṃ pupphaṃ, kaṇikāraṃ devagandhikaṃ;</gatha1>
+    <gathalast line="190">Tīṇi pupphāni ādāya, buddhaseṭṭhamapūjayiṃ.</gathalast>
+    <hangnum line="191" number="61"></hangnum>
+    <gatha1 line="192"> ‘‘Buddhassa ānubhāvena, tīṇi pupphāni me tadā;</gatha1>
+    <gathalast line="193">Uddhaṃ vaṇṭā adhopattā, chāyaṃ kubbanti satthuno.</gathalast>
+    <hangnum line="194" number="62"></hangnum>
+    <gatha1 line="195"> ‘‘Tena kammena sukatena, cetanāpaṇidhīhi ca;</gatha1>
+    <gathalast line="196">Jahitvā mānusaṃ dehaṃ tāvatiṃsamagacchahaṃ.</gathalast>
+    <hangnum line="197" number="63"></hangnum>
+    <gatha1 line="198"> ‘‘Tattha me sukataṃ byamhaṃ, <alternatives line="73" extra="" separator="false"><alternative source-abbr="vri" source="vipassana research institut">kaṇikārīti</alternative><alternative source-abbr="sī." source="sri lanka">kaṇikāroti</alternative></alternatives>  ñāyati;</gatha1>
+    <gathalast line="199">Saṭṭhiyojanamubbedhaṃ, tiṃsayojanavitthataṃ.</gathalast>
+    <hangnum line="200" number="64"></hangnum>
+    <gatha1 line="201"> ‘‘Sahassakaṇḍaṃ <pageBreak edition="V" number="2.0169" /> satabheṇḍu, dhajālu haritāmayaṃ;</gatha1>
+    <gathalast line="202"><alternatives line="81" extra="" separator="false"><alternative source-abbr="vri" source="vipassana research institut">Satasahassaniyyūhā</alternative><alternative source-abbr="sī." source="sri lanka">satasahassāni byūhāni</alternative></alternatives> , byamhe <alternatives line="89" extra="" separator="true"><alternative source-abbr="vri" source="vipassana research institut">pātubhaviṃsu</alternative><alternative source-abbr="sī." source="sri lanka">pāturahaṃsu</alternative><alternative source-abbr="ka." source="cambodian">pāturahiṃsu</alternative></alternatives>  me.</gathalast>
+    <hangnum line="203" number="65"></hangnum>
+    <gatha1 line="204"> ‘‘Soṇṇamayā maṇimayā, lohitaṅkamayāpi ca;</gatha1>
+    <gathalast line="205">Phalikāpi ca pallaṅkā, yenicchakā yadicchakā.</gathalast>
+    <hangnum line="206" number="66"></hangnum>
+    <gatha1 line="207"> ‘‘Mahārahañca sayanaṃ, tūlikā vikatīyutaṃ;</gatha1>
+    <gathalast line="208">Uddhalomiñca ekantaṃ, bimbohanasamāyutaṃ.</gathalast>
+    <hangnum line="209" number="67"></hangnum>
+    <gatha1 line="210"> ‘‘Bhavanā nikkhamitvāna, caranto devacārikaṃ;</gatha1>
+    <gathalast line="211"><alternatives line="98" extra="" separator="false"><alternative source-abbr="vri" source="vipassana research institut">Yathā icchāmi</alternative><alternative source-abbr="sī." source="sri lanka">yathā gacchāmi</alternative></alternatives>  gamanaṃ, devasaṅghapurakkhato.</gathalast>
+    <hangnum line="212" number="68"></hangnum>
+    <gatha1 line="213"> ‘‘Pupphassa heṭṭhā tiṭṭhāmi, uparicchadanaṃ mama;</gatha1>
+    <gathalast line="214">Samantā yojanasataṃ, kaṇikārehi chāditaṃ.</gathalast>
+    <hangnum line="215" number="69"></hangnum>
+    <gatha1 line="216"> ‘‘Saṭṭhituriyasahassāni <pageBreak edition="M" number="2.0175" />, sāyapātaṃ upaṭṭhahuṃ;</gatha1>
+    <gathalast line="217">Parivārenti maṃ niccaṃ, rattindivamatanditā.</gathalast>
+    <hangnum line="218" number="70"></hangnum>
+    <gatha1 line="219"> ‘‘Tattha naccehi gītehi, tālehi vāditehi ca;</gatha1>
+    <gathalast line="220">Ramāmi khiḍḍā ratiyā, modāmi kāmakāmahaṃ.</gathalast>
+    <hangnum line="221" number="71"></hangnum>
+    <gatha1 line="222"> ‘‘Tattha bhutvā pivitvā ca, modāmi tidase tadā;</gatha1>
+    <gathalast line="223">Nārīgaṇehi sahito, modāmi byamhamuttame.</gathalast>
+    <hangnum line="224" number="72"></hangnum>
+    <gatha1 line="225"> ‘‘Satānaṃ pañcakkhattuñca, devarajjamakārayiṃ;</gatha1>
+    <gathalast line="226">Satānaṃ tīṇikkhattuñca, cakkavattī ahosahaṃ;</gathalast>
+    <gathalast line="227">Padesarajjaṃ vipulaṃ, gaṇanāto asaṅkhiyaṃ.</gathalast>
+    <hangnum line="228" number="73"></hangnum>
+    <gatha1 line="229"> ‘‘Bhave bhave saṃsaranto, mahābhogaṃ labhāmahaṃ;</gatha1>
+    <gathalast line="230">Bhoge me ūnatā natthi, buddhapūjāyidaṃ phalaṃ.</gathalast>
+    <hangnum line="231" number="74"></hangnum>
+    <gatha1 line="232"> ‘‘Duve bhave saṃsarāmi, devatte atha mānuse;</gatha1>
+    <gathalast line="233">Aññaṃ gatiṃ na jānāmi, buddhapūjāyidaṃ phalaṃ.</gathalast>
+    <hangnum line="234" number="75"></hangnum>
+    <gatha1 line="235"> ‘‘Duve kule <alternatives line="106" extra="" separator="false"><alternative source-abbr="vri" source="vipassana research institut">pajāyāmi</alternative><alternative source-abbr="sī." source="sri lanka">yattha pacchā pajāyāmi</alternative></alternatives> , khattiye cāpi brāhmaṇe;</gatha1>
+    <gathalast line="236">Nīce kule na jāyāmi, buddhapūjāyidaṃ phalaṃ.</gathalast>
+    <hangnum line="237" number="76"></hangnum>
+    <gatha1 line="238"> ‘‘Hatthiyānaṃ assayānaṃ, sivikaṃ sandamānikaṃ;</gatha1>
+    <gathalast line="239">Labhāmi sabbamevetaṃ, buddhapūjāyidaṃ phalaṃ.</gathalast>
+    <hangnum line="240" number="77"></hangnum>
+    <gatha1 line="241"> ‘‘Dāsīgaṇaṃ dāsagaṇaṃ, nāriyo samalaṅkatā;</gatha1>
+    <gathalast line="242">Labhāmi sabbamevetaṃ, buddhapūjāyidaṃ phalaṃ.</gathalast>
+    <hangnum line="243" number="78"></hangnum>
+    <gatha1 line="244"> ‘‘Koseyyakambaliyāni, khomakappāsikāni ca;</gatha1>
+    <gathalast line="245">Labhāmi sabbamevetaṃ, buddhapūjāyidaṃ phalaṃ.</gathalast>
+    <hangnum line="246" number="79"></hangnum>
+    <gatha1 line="247"> ‘‘Navavatthaṃ <pageBreak edition="V" number="2.0170" /> navaphalaṃ, navaggarasabhojanaṃ;</gatha1>
+    <gathalast line="248">Labhāmi sabbamevetaṃ, buddhapūjāyidaṃ phalaṃ.</gathalast>
+    <hangnum line="249" number="80"></hangnum>
+    <gatha1 line="250"> ‘‘Imaṃ khāda imaṃ bhuñja, imamhi sayane saya;</gatha1>
+    <gathalast line="251">Labhāmi sabbamevetaṃ, buddhapūjāyidaṃ phalaṃ.</gathalast>
+    <hangnum line="252" number="81"></hangnum>
+    <gatha1 line="253"> ‘‘Sabbattha pūjito homi, yaso accuggato mama;</gatha1>
+    <gatha2 line="254"><alternatives line="114" extra="" separator="false"><alternative source-abbr="vri" source="vipassana research institut">Mahāpakkho</alternative><alternative source-abbr="ka." source="cambodian">mahesakkho</alternative></alternatives>  sadā homi, abhejjapariso sadā;</gatha2>
+    <gathalast line="255">Ñātīnaṃ uttamo homi, buddhapūjāyidaṃ phalaṃ.</gathalast>
+    <hangnum line="256" number="82"></hangnum>
+    <gatha1 line="257"> ‘‘Sītaṃ <pageBreak edition="M" number="2.0176" /> uṇhaṃ na jānāmi, pariḷāho na vijjati;</gatha1>
+    <gathalast line="258">Atho cetasikaṃ dukkhaṃ, hadaye me na vijjati.</gathalast>
+    <hangnum line="259" number="83"></hangnum>
+    <gatha1 line="260"> ‘‘Suvaṇṇavaṇṇo hutvāna, saṃsarāmi bhavābhave;</gatha1>
+    <gathalast line="261">Vevaṇṇiyaṃ na jānāmi, buddhapūjāyidaṃ phalaṃ.</gathalast>
+    <hangnum line="262" number="84"></hangnum>
+    <gatha1 line="263"> ‘‘Devalokā cavitvāna, sukkamūlena codito;</gatha1>
+    <gathalast line="264">Sāvatthiyaṃ pure jāto, mahāsālesu aḍḍhake.</gathalast>
+    <hangnum line="265" number="85"></hangnum>
+    <gatha1 line="266"> ‘‘Pañca kāmaguṇe hitvā, pabbajiṃ anagāriyaṃ;</gatha1>
+    <gathalast line="267">Jātiyā sattavassohaṃ, arahattamapāpuṇiṃ.</gathalast>
+    <hangnum line="268" number="86"></hangnum>
+    <gatha1 line="269"> ‘‘Upasampadāyī buddho, guṇamaññāya cakkhumā;</gatha1>
+    <gathalast line="270">Taruṇo pūjanīyohaṃ, buddhapūjāyidaṃ phalaṃ.</gathalast>
+    <hangnum line="271" number="87"></hangnum>
+    <gatha1 line="272"> ‘‘Dibbacakkhuvisuddhaṃ me, samādhikusalo ahaṃ;</gatha1>
+    <gathalast line="273">Abhiññāpāramippatto, buddhapūjāyidaṃ phalaṃ.</gathalast>
+    <hangnum line="274" number="88"></hangnum>
+    <gatha1 line="275"> ‘‘Paṭisambhidā anuppatto, iddhipādesu kovido;</gatha1>
+    <gathalast line="276">Dhammesu pāramippatto, buddhapūjāyidaṃ phalaṃ.</gathalast>
+    <hangnum line="277" number="89"></hangnum>
+    <gatha1 line="278"> ‘‘Tiṃsakappasahassamhi, yaṃ buddhamabhipūjayiṃ;</gatha1>
+    <gathalast line="279">Duggatiṃ nābhijānāmi, buddhapūjāyidaṃ phalaṃ.</gathalast>
+    <hangnum line="280" number="90"></hangnum>
+    <gatha1 line="281"> ‘‘Kilesā jhāpitā mayhaṃ…pe… viharāmi anāsavo.</gatha1>
+    <hangnum line="282" number="91"></hangnum>
+    <gatha1 line="283"> ‘‘Svāgataṃ vata me āsi…pe… kataṃ buddhassa sāsanaṃ.</gatha1>
+    <hangnum line="284" number="92"></hangnum>
+    <gatha1 line="285"> ‘‘Paṭisambhidā catasso…pe… kataṃ buddhassa sāsanaṃ’’.</gatha1>
+    <centered line="286">Itthaṃ sudaṃ āyasmā uttaro thero imā gāthāyo</centered>
+    <paragraph line="287">Abhāsitthāti.</paragraph>
+    <centered line="288">Uttarattherassāpadānaṃ chaṭṭhaṃ.</centered>
+    <subhead line="289">7. Aparauttarattheraapadānaṃ</subhead>
+    <hangnum line="290" number="93"></hangnum>
+    <gatha1 line="291"> ‘‘Nibbute <pageBreak edition="V" number="2.0171" /> lokanāthamhi, siddhatthe lokanāyake;</gatha1>
+    <gathalast line="292">Mama ñātī samānetvā, dhātupūjaṃ akāsahaṃ.</gathalast>
+    <hangnum line="293" number="94"></hangnum>
+    <gatha1 line="294"> ‘‘Catunnavutito kappe, yaṃ dhātumabhipūjayiṃ;</gatha1>
+    <gathalast line="295">Duggatiṃ nābhijānāmi, dhātupūjāyidaṃ phalaṃ.</gathalast>
+    <hangnum line="296" number="95"></hangnum>
+    <gatha1 line="297"> ‘‘Kilesā <pageBreak edition="M" number="2.0177" /> jhāpitā mayhaṃ…pe… viharāmi anāsavo.</gatha1>
+    <hangnum line="298" number="96"></hangnum>
+    <gatha1 line="299"> ‘‘Svāgataṃ vata me āsi…pe… kataṃ buddhassa sāsanaṃ.</gatha1>
+    <hangnum line="300" number="97"></hangnum>
+    <gatha1 line="301"> ‘‘Paṭisambhidā catasso…pe… kataṃ buddhassa sāsanaṃ’’.</gatha1>
+    <centered line="302">Itthaṃ sudaṃ āyasmā aparauttaratthero imā gāthāyo</centered>
+    <paragraph line="303">Abhāsitthāti.</paragraph>
+    <centered line="304">Aparassa uttarattherassāpadānaṃ sattamaṃ.</centered>
+    <subhead line="305">8. Bhaddajittheraapadānaṃ</subhead>
+    <hangnum line="306" number="98"></hangnum>
+    <gatha1 line="307"> ‘‘Ogayha yaṃ pokkharaṇiṃ, nānākuñjarasevitaṃ;</gatha1>
+    <gathalast line="308">Uddharāmi bhisaṃ tattha, ghāsahetu ahaṃ tadā.</gathalast>
+    <hangnum line="309" number="99"></hangnum>
+    <gatha1 line="310"> ‘‘Bhagavā tamhi samaye, padumuttarasavhayo;</gatha1>
+    <gathalast line="311">Rattambaradharo buddho, gacchate anilañjase.</gathalast>
+    <hangnum line="312" number="100"></hangnum>
+    <gatha1 line="313"> ‘‘Dhunanto paṃsukūlāni, saddaṃ assosahaṃ tadā;</gatha1>
+    <gathalast line="314">Uddhaṃ nijjhāyamānohaṃ, addasaṃ lokanāyakaṃ.</gathalast>
+    <hangnum line="315" number="101"></hangnum>
+    <gatha1 line="316"> ‘‘Tattheva ṭhitako santo, āyāciṃ lokanāyakaṃ;</gatha1>
+    <gathalast line="317">Madhuṃ bhisehi sahitaṃ, khīraṃ sappiṃ <alternatives line="122" extra=" bhisadāyakattherāpadānepi" separator="false"><alternative source-abbr="vri" source="vipassana research institut">muḷālikaṃ</alternative><alternative source-abbr="ka." source="cambodian">madhuṃ bhisehi pacati, khīrasappi mulālibhi</alternative></alternatives> .</gathalast>
+    <hangnum line="318" number="102"></hangnum>
+    <gatha1 line="319"> ‘‘Paṭiggaṇhātu me buddho, anukampāya cakkhumā;</gatha1>
+    <gathalast line="320">Tato kāruṇiko satthā, orohitvā mahāyaso.</gathalast>
+    <hangnum line="321" number="103"></hangnum>
+    <gatha1 line="322"> ‘‘Paṭiggaṇhi mama bhikkhaṃ, anukampāya cakkhumā;</gatha1>
+    <gathalast line="323">Paṭiggahetvā sambuddho, akā me anumodanaṃ.</gathalast>
+    <hangnum line="324" number="104"></hangnum>
+    <gatha1 line="325"> ‘‘‘Sukhī hotu mahāpuñña, gati tuyhaṃ samijjhatu;</gatha1>
+    <gathalast line="326">Iminā bhisadānena, labhassu vipulaṃ sukhaṃ’.</gathalast>
+    <hangnum line="327" number="105"></hangnum>
+    <gatha1 line="328"> ‘‘Idaṃ <pageBreak edition="V" number="2.0172" /> vatvāna sambuddho, jalajuttamanāmako;</gatha1>
+    <gathalast line="329">Bhikkhamādāya sambuddho, ākāsenāgamā jino.</gathalast>
+    <hangnum line="330" number="106"></hangnum>
+    <gatha1 line="331"> ‘‘Tato bhisaṃ gahetvāna, agacchiṃ mama assamaṃ;</gatha1>
+    <gathalast line="332">Bhisaṃ rukkhe laggetvāna, mama dānaṃ anussariṃ.</gathalast>
+    <hangnum line="333" number="107"></hangnum>
+    <gatha1 line="334"> ‘‘Mahāvāto <pageBreak edition="M" number="2.0178" /> uṭṭhahitvā, sañcālesi vanaṃ tadā;</gatha1>
+    <gathalast line="335">Ākāso abhinādittha, asanī ca phalī tadā.</gathalast>
+    <hangnum line="336" number="108"></hangnum>
+    <gatha1 line="337"> ‘‘Tato me asanīpāto, matthake nipatī tadā;</gatha1>
+    <gathalast line="338">Sohaṃ nisinnako santo, tattha kālaṅkato ahaṃ.</gathalast>
+    <hangnum line="339" number="109"></hangnum>
+    <gatha1 line="340"> ‘‘Puññakammena saññutto, tusitaṃ upapajjahaṃ;</gatha1>
+    <gathalast line="341">Kaḷevaraṃ me patitaṃ, devaloke ramāmahaṃ.</gathalast>
+    <hangnum line="342" number="110"></hangnum>
+    <gatha1 line="343"> ‘‘Chaḷasītisahassāni, nāriyo samalaṅkatā;</gatha1>
+    <gathalast line="344">Sāyaṃ pātaṃ upaṭṭhanti, bhisadānassidaṃ phalaṃ.</gathalast>
+    <hangnum line="345" number="111"></hangnum>
+    <gatha1 line="346"> ‘‘Manussayonimāgantvā, sukhito homahaṃ tadā;</gatha1>
+    <gathalast line="347">Bhogā me ūnatā natthi, bhisadānassidaṃ phalaṃ.</gathalast>
+    <hangnum line="348" number="112"></hangnum>
+    <gatha1 line="349"> ‘‘Anukampitako tena, devadevena tādinā;</gatha1>
+    <gathalast line="350">Sabbāsavaparikkhīṇā, natthi dāni punabbhavo.</gathalast>
+    <hangnum line="351" number="113"></hangnum>
+    <gatha1 line="352"> ‘‘Satasahassito kappe, yaṃ bhisaṃ adadiṃ tadā;</gatha1>
+    <gathalast line="353">Duggatiṃ nābhijānāmi, bhisadānassidaṃ phalaṃ.</gathalast>
+    <hangnum line="354" number="114"></hangnum>
+    <gatha1 line="355"> ‘‘Kilesā jhāpitā mayhaṃ…pe… viharāmi anāsavo.</gatha1>
+    <hangnum line="356" number="115"></hangnum>
+    <gatha1 line="357"> ‘‘Svāgataṃ vata me āsi…pe… kataṃ buddhassa sāsanaṃ.</gatha1>
+    <hangnum line="358" number="116"></hangnum>
+    <gatha1 line="359"> ‘‘Paṭisambhidā catasso…pe… kataṃ buddhassa sāsanaṃ’’.</gatha1>
+    <centered line="360">Itthaṃ sudaṃ āyasmā bhaddajitthero imā gāthāyo</centered>
+    <paragraph line="361">Abhāsitthāti.</paragraph>
+    <centered line="362">Bhaddajittherassāpadānaṃ aṭṭhamaṃ.</centered>
+    <subhead line="363">9. Sivakattheraapadānaṃ</subhead>
+    <hangnum line="364" number="117"></hangnum>
+    <gatha1 line="365"> ‘‘Esanāya carantassa, vipassissa mahesino;</gatha1>
+    <gathalast line="366">Rittakaṃ pattaṃ disvāna, kummāsaṃ pūrayiṃ ahaṃ.</gathalast>
+    <hangnum line="367" number="118"></hangnum>
+    <gatha1 line="368"> ‘‘Ekanavutito kappe, yaṃ bhikkhamadadiṃ tadā;</gatha1>
+    <gathalast line="369">Duggatiṃ nābhijānāmi, kummāsassa idaṃ phalaṃ.</gathalast>
+    <hangnum line="370" number="119"></hangnum>
+    <gatha1 line="371"> ‘‘Kilesā <pageBreak edition="V" number="2.0173" /> jhāpitā mayhaṃ…pe… viharāmi anāsavo.</gatha1>
+    <hangnum line="372" number="120"></hangnum>
+    <gatha1 line="373"> ‘‘Svāgataṃ <pageBreak edition="M" number="2.0179" /> vata me āsi…pe… kataṃ buddhassa sāsanaṃ.</gatha1>
+    <hangnum line="374" number="121"></hangnum>
+    <gatha1 line="375"> ‘‘Paṭisambhidā catasso…pe… kataṃ buddhassa sāsanaṃ’’.</gatha1>
+    <centered line="376">Itthaṃ sudaṃ āyasmā sivakatthero imā gāthāyo</centered>
+    <paragraph line="377">Abhāsitthāti.</paragraph>
+    <centered line="378">Sivakattherassāpadānaṃ navamaṃ.</centered>
+    <subhead line="379">10. Upavānattheraapadānaṃ</subhead>
+    <hangnum line="380" number="122"></hangnum>
+    <gatha1 line="381"> ‘‘Padumuttaro nāma jino, sabbadhammāna pāragū;</gatha1>
+    <gathalast line="382">Jalitvā aggikkhandhova, sambuddho parinibbuto.</gathalast>
+    <hangnum line="383" number="123"></hangnum>
+    <gatha1 line="384"> ‘‘Mahājanā samāgamma, pūjayitvā tathāgataṃ;</gatha1>
+    <gathalast line="385">Citaṃ katvāna sugataṃ, sarīraṃ abhiropayuṃ.</gathalast>
+    <hangnum line="386" number="124"></hangnum>
+    <gatha1 line="387"> ‘‘Sarīrakiccaṃ katvāna, dhātuṃ tattha samānayuṃ;</gatha1>
+    <gathalast line="388">Sadevamanussā sabbe, buddhathūpaṃ akaṃsu te.</gathalast>
+    <hangnum line="389" number="125"></hangnum>
+    <gatha1 line="390"> ‘‘Paṭhamā kañcanamayā, dutiyā ca maṇimayā;</gatha1>
+    <gathalast line="391">Tatiyā rūpiyamayā, catutthī phalikāmayā.</gathalast>
+    <hangnum line="392" number="126"></hangnum>
+    <gatha1 line="393"> ‘‘<alternatives line="130" extra="" separator="false"><alternative source-abbr="vri" source="vipassana research institut">Tattha pañcamikā ceva</alternative><alternative source-abbr="sī." source="sri lanka">tattha pañcamikā ceti</alternative></alternatives> , lohitaṅkamayā ahu;</gatha1>
+    <gathalast line="394">Chaṭṭhā masāragallassa, sabbaṃ ratanamayūpari.</gathalast>
+    <hangnum line="395" number="127"></hangnum>
+    <gatha1 line="396"> ‘‘Jaṅghā maṇimayā āsi, vedikā ratanāmayā;</gatha1>
+    <gathalast line="397">Sabbasoṇṇamayo thūpo, uddhaṃ yojanamuggato.</gathalast>
+    <hangnum line="398" number="128"></hangnum>
+    <gatha1 line="399"> ‘‘Devā tattha samāgantvā, ekato mantayuṃ tadā;</gatha1>
+    <gathalast line="400">‘Mayampi thūpaṃ kassāma, lokanāthassa tādino.</gathalast>
+    <hangnum line="401" number="129"></hangnum>
+    <gatha1 line="402"> ‘‘‘Dhātu āveṇikā natthi, sarīraṃ ekapiṇḍitaṃ;</gatha1>
+    <gathalast line="403">Imamhi buddhathūpamhi, kassāma kañcukaṃ mayaṃ’.</gathalast>
+    <hangnum line="404" number="130"></hangnum>
+    <gatha1 line="405"> ‘‘Devā sattahi ratnehi, aññaṃ vaḍḍhesuṃ yojanaṃ;</gatha1>
+    <gathalast line="406">Thūpo dviyojanubbedho, timiraṃ byapahanti so.</gathalast>
+    <hangnum line="407" number="131"></hangnum>
+    <gatha1 line="408"> ‘‘Nāgā tattha samāgantvā, ekato mantayuṃ tadā;</gatha1>
+    <gathalast line="409">‘Manussā ceva devā ca, buddhathūpaṃ akaṃsu te.</gathalast>
+    <hangnum line="410" number="132"></hangnum>
+    <gatha1 line="411"> ‘‘‘Mā <pageBreak edition="M" number="2.0180" /> no pamattā assumha, appamattā sadevakā;</gatha1>
+    <gathalast line="412">Mayampi thūpaṃ kassāma, lokanāthassa tādino’.</gathalast>
+    <hangnum line="413" number="133"></hangnum>
+    <gatha1 line="414"> ‘‘Indanīlaṃ <pageBreak edition="V" number="2.0174" /> mahānīlaṃ, atho jotirasaṃ maṇiṃ;</gatha1>
+    <gathalast line="415">Ekato sannipātetvā, buddhathūpaṃ achādayuṃ.</gathalast>
+    <hangnum line="416" number="134"></hangnum>
+    <gatha1 line="417"> ‘‘Sabbaṃ maṇimayaṃ āsi, <alternatives line="138" extra="" separator="false"><alternative source-abbr="vri" source="vipassana research institut">yāvatā</alternative><alternative source-abbr="ka." source="cambodian">tāvatā</alternative></alternatives>  buddhacetiyaṃ;</gatha1>
+    <gathalast line="418">Tiyojanasamubbedhaṃ, ālokakaraṇaṃ tadā.</gathalast>
+    <hangnum line="419" number="135"></hangnum>
+    <gatha1 line="420"> ‘‘Garuḷā ca samāgantvā, ekato mantayuṃ tadā;</gatha1>
+    <gathalast line="421">‘Manussā devanāgā ca, buddhapūjaṃ akaṃsu te.</gathalast>
+    <hangnum line="422" number="136"></hangnum>
+    <gatha1 line="423"> ‘‘‘Mā no pamattā assumha, appamattā sadevakā;</gatha1>
+    <gathalast line="424">Mayampi thūpaṃ kassāma, lokanāthassa tādino’.</gathalast>
+    <hangnum line="425" number="137"></hangnum>
+    <gatha1 line="426"> ‘‘Sabbaṃ maṇimayaṃ thūpaṃ, akaruṃ te ca kañcukaṃ;</gatha1>
+    <gathalast line="427">Yojanaṃ tepi vaḍḍhesuṃ, āyataṃ buddhacetiyaṃ.</gathalast>
+    <hangnum line="428" number="138"></hangnum>
+    <gatha1 line="429"> ‘‘Catuyojanamubbedho, buddhathūpo virocati;</gatha1>
+    <gathalast line="430">Obhāseti disā sabbā, sataraṃsīva uggato.</gathalast>
+    <hangnum line="431" number="139"></hangnum>
+    <gatha1 line="432"> ‘‘Kumbhaṇḍā ca samāgantvā, ekato mantayuṃ tadā;</gatha1>
+    <gathalast line="433">‘Manussā ceva devā ca, nāgā ca garuḷā tathā.</gathalast>
+    <hangnum line="434" number="140"></hangnum>
+    <gatha1 line="435"> ‘‘‘Paccekaṃ buddhaseṭṭhassa, akaṃsu thūpamuttamaṃ;</gatha1>
+    <gathalast line="436">Mā no pamattā assumha, appamattā sadevakā.</gathalast>
+    <hangnum line="437" number="141"></hangnum>
+    <gatha1 line="438"> ‘‘‘Mayampi thūpaṃ kassāma, lokanāthassa tādino;</gatha1>
+    <gathalast line="439">Ratanehi chādessāma, āyataṃ buddhacetiyaṃ’.</gathalast>
+    <hangnum line="440" number="142"></hangnum>
+    <gatha1 line="441"> ‘‘Yojanaṃ tepi vaḍḍhesuṃ, āyataṃ buddhacetiyaṃ;</gatha1>
+    <gathalast line="442">Pañcayojanamubbedho, thūpo obhāsate tadā.</gathalast>
+    <hangnum line="443" number="143"></hangnum>
+    <gatha1 line="444"> ‘‘Yakkhā tattha samāgantvā, ekato mantayuṃ tadā;</gatha1>
+    <gathalast line="445">‘Manussā devanāgā ca, garuḷā ca kumbhaṇḍakā.</gathalast>
+    <hangnum line="446" number="144"></hangnum>
+    <gatha1 line="447"> ‘‘‘Paccekaṃ buddhaseṭṭhassa, akaṃsu thūpamuttamaṃ;</gatha1>
+    <gathalast line="448">Mā no pamattā assumha, appamattā sadevakā.</gathalast>
+    <hangnum line="449" number="145"></hangnum>
+    <gatha1 line="450"> ‘‘‘Mayampi <pageBreak edition="M" number="2.0181" /> thūpaṃ kassāma, lokanāthassa tādino;</gatha1>
+    <gathalast line="451">Phalikā chādayissāma, āyataṃ buddhacetiyaṃ’.</gathalast>
+    <hangnum line="452" number="146"></hangnum>
+    <gatha1 line="453"> ‘‘Yojanaṃ tepi vaḍḍhesuṃ, āyataṃ buddhacetiyaṃ;</gatha1>
+    <gathalast line="454">Chayojanikamubbedho, thūpo obhāsate tadā.</gathalast>
+    <hangnum line="455" number="147"></hangnum>
+    <gatha1 line="456"> ‘‘Gandhabbā ca samāgantvā, ekato mantayuṃ tadā;</gatha1>
+    <gathalast line="457">‘Manujā devatā nāgā, <alternatives line="146" extra="" separator="false"><alternative source-abbr="vri" source="vipassana research institut">kumbhaṇḍā garuḷā tathā</alternative><alternative source-abbr="sī." source="sri lanka">kumbhaṇḍā ca yakkhā tathā</alternative></alternatives> .</gathalast>
+    <hangnum line="458" number="148"></hangnum>
+    <gatha1 line="459"> ‘‘‘Sabbe akaṃsu buddhathūpaṃ, mayamettha akārakā;</gatha1>
+    <gathalast line="460">Mayampi thūpaṃ kassāma, lokanāthassa tādino’.</gathalast>
+    <hangnum line="461" number="149"></hangnum>
+    <gatha1 line="462"> ‘‘Vediyo <pageBreak edition="V" number="2.0175" /> satta katvāna, dhajaṃ chattaṃ akaṃsu te;</gatha1>
+    <gathalast line="463">Sabbasoṇṇamayaṃ thūpaṃ, gandhabbā kārayuṃ tadā.</gathalast>
+    <hangnum line="464" number="150"></hangnum>
+    <gatha1 line="465"> ‘‘Sattayojanamubbedho, thūpo obhāsate tadā;</gatha1>
+    <gathalast line="466">Rattindivā na ñāyanti, āloko hoti sabbadā.</gathalast>
+    <hangnum line="467" number="151"></hangnum>
+    <gatha1 line="468"> ‘‘Abhibhonti na tassābhā, candasūrā satārakā;</gatha1>
+    <gathalast line="469">Samantā yojanasate, padīpopi na pajjali.</gathalast>
+    <hangnum line="470" number="152"></hangnum>
+    <gatha1 line="471"> ‘‘Tena kālena ye keci, thūpaṃ pūjenti mānusā;</gatha1>
+    <gathalast line="472">Na te thūpaṃ āruhanti, ambare ukkhipanti te.</gathalast>
+    <hangnum line="473" number="153"></hangnum>
+    <gatha1 line="474"> ‘‘Devehi ṭhapito yakkho, abhisammatanāmako;</gatha1>
+    <gathalast line="475">Dhajaṃ vā pupphadāmaṃ vā, abhiropeti uttariṃ.</gathalast>
+    <hangnum line="476" number="154"></hangnum>
+    <gatha1 line="477"> ‘‘Na te passanti taṃ yakkhaṃ, dāmaṃ passanti gacchato;</gatha1>
+    <gathalast line="478">Evaṃ passitvā gacchantā, sabbe gacchanti suggatiṃ.</gathalast>
+    <hangnum line="479" number="155"></hangnum>
+    <gatha1 line="480"> ‘‘Viruddhā ye pāvacane, pasannā ye ca sāsane;</gatha1>
+    <gathalast line="481">Pāṭihīraṃ daṭṭhukāmā, thūpaṃ pūjenti mānusā.</gathalast>
+    <hangnum line="482" number="156"></hangnum>
+    <gatha1 line="483"> ‘‘Nagare haṃsavatiyā, ahosiṃ bhatako tadā;</gatha1>
+    <gathalast line="484">Āmoditaṃ janaṃ disvā, evaṃ cintesahaṃ tadā.</gathalast>
+    <hangnum line="485" number="157"></hangnum>
+    <gatha1 line="486"> ‘‘‘Uḷāro bhagavā neso, yassa dhātughare disaṃ;</gatha1>
+    <gathalast line="487">Imā ca janatā tuṭṭhā, kāraṃ kubbaṃ na tappare.</gathalast>
+    <hangnum line="488" number="158"></hangnum>
+    <gatha1 line="489"> ‘‘‘Ahampi <pageBreak edition="M" number="2.0182" /> kāraṃ kassāmi, lokanāthassa tādino;</gatha1>
+    <gathalast line="490">Tassa dhammesu dāyādo, bhavissāmi anāgate’.</gathalast>
+    <hangnum line="491" number="159"></hangnum>
+    <gatha1 line="492"> ‘‘Sudhotaṃ rajakenāhaṃ, uttareyyaṃ paṭaṃ mama;</gatha1>
+    <gathalast line="493">Veḷagge ālaggetvāna, dhajaṃ ukkhipimambare.</gathalast>
+    <hangnum line="494" number="160"></hangnum>
+    <gatha1 line="495"> ‘‘Abhisammatako gayha, ambare hāsi me dhajaṃ;</gatha1>
+    <gathalast line="496">Vāteritaṃ dhajaṃ disvā, bhiyyo hāsaṃ janesahaṃ.</gathalast>
+    <hangnum line="497" number="161"></hangnum>
+    <gatha1 line="498"> ‘‘Tattha cittaṃ pasādetvā, samaṇaṃ upasaṅkamiṃ;</gatha1>
+    <gathalast line="499">Taṃ bhikkhuṃ abhivādetvā, vipākaṃ pucchahaṃ dhaje.</gathalast>
+    <hangnum line="500" number="162"></hangnum>
+    <gatha1 line="501"> ‘‘So me kathesi ānandī, pītisañjananaṃ mama;</gatha1>
+    <gathalast line="502">‘Tassa dhajassa vipākaṃ, anubhossasi sabbadā.</gathalast>
+    <hangnum line="503" number="163"></hangnum>
+    <gatha1 line="504"> ‘‘‘Hatthiassarathāpattī, senā ca caturaṅginī;</gatha1>
+    <gathalast line="505">Parivāressanti taṃ niccaṃ, dhajadānassidaṃ phalaṃ.</gathalast>
+    <hangnum line="506" number="164"></hangnum>
+    <gatha1 line="507"> ‘‘‘Saṭṭhituriyasahassāni, bheriyo samalaṅkatā;</gatha1>
+    <gathalast line="508">Parivāressanti taṃ niccaṃ, dhajadānassidaṃ phalaṃ.</gathalast>
+    <hangnum line="509" number="165"></hangnum>
+    <gatha1 line="510"> ‘‘‘Chaḷasītisahassāni <pageBreak edition="V" number="2.0176" />, nāriyo samalaṅkatā;</gatha1>
+    <gathalast line="511">Vicittavatthābharaṇā, āmukkamaṇikuṇḍalā.</gathalast>
+    <hangnum line="512" number="166"></hangnum>
+    <gatha1 line="513"> ‘‘‘Āḷārapamhā hasulā, <alternatives line="154" extra=" apa. thera 2.48.19 maṇipūjakattherāpadānepi" separator="false"><alternative source-abbr="vri" source="vipassana research institut">susaññā</alternative><alternative source-abbr="sī." source="sri lanka">sutthanā</alternative></alternatives>  tanumajjhimā;</gatha1>
+    <gathalast line="514">Parivāressanti taṃ niccaṃ, dhajadānassidaṃ phalaṃ.</gathalast>
+    <hangnum line="515" number="167"></hangnum>
+    <gatha1 line="516"> ‘‘‘Tiṃsakappasahassāni, devaloke ramissasi;</gatha1>
+    <gathalast line="517">Asītikkhattuṃ devindo, devarajjaṃ karissasi.</gathalast>
+    <hangnum line="518" number="168"></hangnum>
+    <gatha1 line="519"> ‘‘‘Sahassakkhattuṃ rājā ca, cakkavattī bhavissati;</gatha1>
+    <gathalast line="520">Padesarajjaṃ vipulaṃ, gaṇanāto asaṅkhiyaṃ.</gathalast>
+    <hangnum line="521" number="169"></hangnum>
+    <gatha1 line="522"> ‘‘‘Kappasatasahassamhi, okkākakulasambhavo;</gatha1>
+    <gathalast line="523">Gotamo nāma gottena, satthā loke bhavissati.</gathalast>
+    <hangnum line="524" number="170"></hangnum>
+    <gatha1 line="525"> ‘‘‘Devalokā cavitvāna, sukkamūlena codito;</gatha1>
+    <gathalast line="526">Puññakammena saññutto, brahmabandhu bhavissasi.</gathalast>
+    <hangnum line="527" number="171"></hangnum>
+    <gatha1 line="528"> ‘‘‘Asītikoṭiṃ <pageBreak edition="M" number="2.0183" /> chaḍḍetvā, dāse kammakare bahū;</gatha1>
+    <gathalast line="529">Gotamassa bhagavato, sāsane pabbajissasi.</gathalast>
+    <hangnum line="530" number="172"></hangnum>
+    <gatha1 line="531"> ‘‘‘Ārādhayitvā sambuddhaṃ, gotamaṃ sakyapuṅgavaṃ;</gatha1>
+    <gathalast line="532">Upavānoti nāmena, hessasi satthu sāvako’.</gathalast>
+    <hangnum line="533" number="173"></hangnum>
+    <gatha1 line="534"> ‘‘Satasahasse kataṃ kammaṃ, phalaṃ dassesi me idha;</gatha1>
+    <gathalast line="535">Sumutto saravegova, <alternatives line="162" extra="" separator="false"><alternative source-abbr="vri" source="vipassana research institut">kilese jhāpayiṃ</alternative><alternative source-abbr="sī." source="sri lanka">kilesā jhāpitā</alternative></alternatives>  mama.</gathalast>
+    <hangnum line="536" number="174"></hangnum>
+    <gatha1 line="537"> ‘‘Cakkavattissa santassa, cātuddīpissarassa me;</gatha1>
+    <gathalast line="538">Tīṇi yojanāni sāmantā, ussīyanti dhajā sadā.</gathalast>
+    <hangnum line="539" number="175"></hangnum>
+    <gatha1 line="540"> ‘‘Satasahassito kappe, yaṃ kammamakariṃ tadā;</gatha1>
+    <gathalast line="541">Duggatiṃ nābhijānāmi, dhajadānassidaṃ phalaṃ.</gathalast>
+    <hangnum line="542" number="176"></hangnum>
+    <gatha1 line="543"> ‘‘Kilesā jhāpitā mayhaṃ…pe… viharāmi anāsavo.</gatha1>
+    <hangnum line="544" number="177"></hangnum>
+    <gatha1 line="545"> ‘‘Svāgataṃ vata me āsi…pe… kataṃ buddhassa sāsanaṃ.</gatha1>
+    <hangnum line="546" number="178"></hangnum>
+    <gatha1 line="547"> ‘‘Paṭisambhidā catasso…pe… kataṃ buddhassa sāsanaṃ’’.</gatha1>
+    <centered line="548">Itthaṃ sudaṃ āyasmā upavānatthero imā gāthāyo</centered>
+    <paragraph line="549">Abhāsitthāti.</paragraph>
+    <centered line="550">Upavānattherassāpadānaṃ dasamaṃ.</centered>
+    <subhead line="551">11. Raṭṭhapālattheraapadānaṃ</subhead>
+    <hangnum line="552" number="179"></hangnum>
+    <gatha1 line="553"> ‘‘Padumuttarassa <pageBreak edition="V" number="2.0177" /> bhagavato, lokajeṭṭhassa tādino;</gatha1>
+    <gathalast line="554">Varanāgo mayā dinno, īsādanto urūḷhavā.</gathalast>
+    <hangnum line="555" number="180"></hangnum>
+    <gatha1 line="556"> ‘‘Setacchattopasobhito, sakappano <note>sīdabbano (sī.)</note> sahatthipo;</gatha1>
+    <gathalast line="557">Agghāpetvāna taṃ sabbaṃ, saṅghārāmaṃ akārayiṃ.</gathalast>
+    <hangnum line="558" number="181"></hangnum>
+    <gatha1 line="559"> ‘‘Catupaññāsasahassāni, pāsāde kārayiṃ ahaṃ;</gatha1>
+    <gathalast line="560"><alternatives line="177" extra=" apa. thera 1.2.99" separator="true"><alternative source-abbr="sī." source="sri lanka">mahagghañca</alternative><alternative source-abbr="vri" source="vipassana research institut">Mahoghadānaṃ</alternative><alternative source-abbr="ka." source="cambodian">mayā bhattaṃ</alternative></alternatives>  karitvāna, niyyādesiṃ mahesino.</gathalast>
+    <hangnum line="561" number="182"></hangnum>
+    <gatha1 line="562"> ‘‘Anumodi <pageBreak edition="M" number="2.0184" /> mahāvīro, sayambhū aggapuggalo;</gatha1>
+    <gathalast line="563">Sabbe jane hāsayanto, desesi amataṃ padaṃ.</gathalast>
+    <hangnum line="564" number="183"></hangnum>
+    <gatha1 line="565"> ‘‘Taṃ me buddho viyākāsi, jalajuttamanāmako;</gatha1>
+    <gathalast line="566">Bhikkhusaṅghe nisīditvā, imā gāthā abhāsatha.</gathalast>
+    <hangnum line="567" number="184"></hangnum>
+    <gatha1 line="568"> ‘‘‘Catupaññāsasahassāni, pāsāde kārayī ayaṃ;</gatha1>
+    <gathalast line="569">Kathayissāmi vipākaṃ, suṇātha mama bhāsato.</gathalast>
+    <hangnum line="570" number="185"></hangnum>
+    <gatha1 line="571"> ‘‘‘Aṭṭhārasasahassāni, kūṭāgārā bhavissare;</gatha1>
+    <gathalast line="572">Byamhuttamamhi nibbattā, sabbasoṇṇamayā ca te.</gathalast>
+    <hangnum line="573" number="186"></hangnum>
+    <gatha1 line="574"> ‘‘‘Paññāsakkhattuṃ devindo, devarajjaṃ karissati;</gatha1>
+    <gathalast line="575">Aṭṭhapaññāsakkhattuñca, cakkavattī bhavissati.</gathalast>
+    <hangnum line="576" number="187"></hangnum>
+    <gatha1 line="577"> ‘‘‘Kappasatasahassamhi, okkākakulasambhavo;</gatha1>
+    <gathalast line="578">Gotamo nāma gottena, satthā loke bhavissati.</gathalast>
+    <hangnum line="579" number="188"></hangnum>
+    <gatha1 line="580"> ‘‘‘Devalokā cavitvāna, sukkamūlena codito;</gatha1>
+    <gathalast line="581">Aḍḍhe kule mahābhoge, nibbattissati tāvade.</gathalast>
+    <hangnum line="582" number="189"></hangnum>
+    <gatha1 line="583"> ‘‘‘So pacchā pabbajitvāna, sukkamūlena codito;</gatha1>
+    <gathalast line="584">Raṭṭhapāloti nāmena, hessati satthu sāvako.</gathalast>
+    <hangnum line="585" number="190"></hangnum>
+    <gatha1 line="586"> ‘‘‘Padhānapahitatto so, upasanto nirūpadhi;</gatha1>
+    <gathalast line="587">Sabbāsave pariññāya, nibbāyissatināsavo’.</gathalast>
+    <hangnum line="588" number="191"></hangnum>
+    <gatha1 line="589"> ‘‘Uṭṭhāya abhinikkhamma, jahitā bhogasampadā;</gatha1>
+    <gathalast line="590">Kheḷapiṇḍeva bhogamhi, pemaṃ mayhaṃ na vijjati.</gathalast>
+    <hangnum line="591" number="192"></hangnum>
+    <gatha1 line="592"> ‘‘Vīriyaṃ me dhuradhorayhaṃ, yogakkhemādhivāhanaṃ;</gatha1>
+    <gathalast line="593">Dhāremi antimaṃ dehaṃ, sammāsambuddhasāsane.</gathalast>
+    <hangnum line="594" number="193"></hangnum>
+    <gatha1 line="595"> ‘‘Kilesā <pageBreak edition="V" number="2.0178" /> jhāpitā mayhaṃ…pe… viharāmi anāsavo.</gatha1>
+    <hangnum line="596" number="194"></hangnum>
+    <gatha1 line="597"> ‘‘Svāgataṃ vata me āsi…pe… kataṃ buddhassa sāsanaṃ.</gatha1>
+    <hangnum line="598" number="195"></hangnum>
+    <gatha1 line="599"> ‘‘Paṭisambhidā <pageBreak edition="M" number="2.0185" /> catasso…pe… kataṃ buddhassa sāsanaṃ’’.</gatha1>
+    <centered line="600">Itthaṃ sudaṃ āyasmā raṭṭhapālo thero imā gāthāyo</centered>
+    <paragraph line="601">Abhāsitthāti.</paragraph>
+    <centered line="602">Raṭṭhapālattherassāpadānaṃ ekādasamaṃ.</centered>
+    <centered line="603">Yasavaggo chapaññāsamo.</centered>
+    <paragraph line="604">Tassuddānaṃ –</paragraph>
+    <gatha1 line="605">Yaso nadīkassapo ca, gayākimilavajjino;</gatha1>
+    <gatha2 line="606">Duve uttarā bhaddajī, sivako upavāhano;</gatha2>
+    <gathalast line="607">Raṭṭhapālo ekasataṃ, gāthānaṃ pañcanavuti.</gathalast>
+    <centered line="608">Therāpadānaṃ samattaṃ.</centered>
+    <centered line="609">Ettāvatā buddhāpadānañca paccekāpadānañca therāpadānañca</centered>
+    <paragraph line="610">Samattāni.</paragraph>
+    <centered line="611"> Namo tassa bhagavato arahato sammāsambuddhassa</centered>
+    <nikaya line="612">Khuddakanikāye</nikaya>
+    <book line="613">Therīapadānapāḷi</book>
+  </content>
 </document>

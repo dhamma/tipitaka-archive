@@ -1,17 +1,20 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="utf-8"?>
 <document>
-<metadata>
-<normativeSource>http://tipitaka.org/romn/cscd/e0605n.nrf16.xml</normativeSource>
-<archivePath>roman/anya/buddha-vandana gantha-sangaho/jinalankara/patilomayamakagatha.xml</archivePath>
-<titlePath>Paṭilomayamakagāthā - Jinālaṅkāra - Buddha-vandanā gantha-saṅgaho - Anya</titlePath>
-</metadata>
-<body>
-<chapter line="1">Paṭilomayamakagāthā</chapter>
-<hangnum line="2" number="99"></hangnum>
-<gatha1 line="3"> Lokāyātatayā kālo visesaṃ na na saṃsevi,</gatha1>
-<gathalast line="4">Visesaṃ na na saṃsevi lokā yātatayā kālo.</gathalast>
-<hangnum line="5" number="100"></hangnum>
-<gatha1 line="6"> Rājarājayasopetavisesaṃ racitaṃ mayā,</gatha1>
-<gatha2 line="7">Yāmataṃ cirasaṃsevitapeso yajarājarā.</gatha2>
-</body>
+  <metadata>
+    <normativeSource>http://tipitaka.org/romn/cscd/e0605n.nrf16.xml</normativeSource>
+    <archivePath>roman/anya/buddha-vandana gantha-sangaho/jinalankara/patilomayamakagatha.xml</archivePath>
+    <baseFileName>patilomayamakagatha</baseFileName>
+    <titlePath>Paṭilomayamakagāthā - Jinālaṅkāra - Buddha-vandanā gantha-saṅgaho - Anya</titlePath>
+    <versions>
+    </versions>
+  </metadata>
+  <content>
+    <chapter line="1">Paṭilomayamakagāthā</chapter>
+    <hangnum line="2" number="99"></hangnum>
+    <gatha1 line="3"> Lokāyātatayā kālo visesaṃ na na saṃsevi,</gatha1>
+    <gathalast line="4">Visesaṃ na na saṃsevi lokā yātatayā kālo.</gathalast>
+    <hangnum line="5" number="100"></hangnum>
+    <gatha1 line="6"> Rājarājayasopetavisesaṃ racitaṃ mayā,</gatha1>
+    <gatha2 line="7">Yāmataṃ cirasaṃsevitapeso yajarājarā.</gatha2>
+  </content>
 </document>

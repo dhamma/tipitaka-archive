@@ -1,43 +1,46 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="utf-8"?>
 <document>
-<metadata>
-<normativeSource>http://tipitaka.org/romn/cscd/e0803n.nrf0.xml</normativeSource>
-<archivePath>roman/anya/byakarana gantha-sangaho/saddanitippakaranam (padamala)/gantharambhakatha.xml</archivePath>
-<titlePath>Ganthārambhakathā - Saddanītippakaraṇaṃ (padamālā) - Byākaraṇa gantha-saṅgaho - Anya</titlePath>
-</metadata>
-<body>
-<centered line="1"> Namo tassa bhagavato arahato sammāsambuddhassa</centered>
-<book line="2">Saddanītippakaraṇaṃ (padamālā)</book>
-<subsubhead line="3">Ganthārambhakathā</subsubhead>
-<gatha1 line="4">Dhīrehi <pageBreak edition="M" number="0.0001" /> magganāyena, yena buddhena desitaṃ;</gatha1>
-<gathalast line="5">Sitaṃ dhammamidhaññāya, ñāyate amataṃ padaṃ.</gathalast>
-<gatha1 line="6">Taṃ namitvā mahāvīraṃ, sabbaññuṃ lokanāyakaṃ;</gatha1>
-<gathalast line="7">Mahākāruṇikaṃ seṭṭhaṃ, visuddhaṃ suddhidāyakaṃ.</gathalast>
-<gatha1 line="8">Saddhammañcassa pūjetvā, suddhaṃ santamasaṅkhataṃ;</gatha1>
-<gathalast line="9">Atakkāvacaraṃ suṭṭhu, vibhattaṃ madhuraṃ sivaṃ.</gathalast>
-<gatha1 line="10">Saṅghassa ca’ñjaliṃ katvā, puññakkhettassa tādino;</gatha1>
-<gathalast line="11">Sīlasamādhipaññādi-visuddhaguṇajotino.</gathalast>
-<gatha1 line="12">Namassanādipuññassa, katassa ratanattaye;</gatha1>
-<gathalast line="13">Tejasāhaṃ pahantvāna, antarāye asesato.</gathalast>
-<gatha1 line="14">Lokanītiviyattassa, satthu saddhammanītino;</gatha1>
-<gathalast line="15">Sāsanatthaṃ pavakkhāmi, <bold>saddanīti</bold>manākulaṃ.</gathalast>
-<gatha1 line="16">Āsavakkhayalābhena, hoti sāsanasampadā;</gatha1>
-<gathalast line="17">Āsavakkhayalābho ca, saccādhigamahetuko.</gathalast>
-<gatha1 line="18">Saccādhigamanaṃ <pageBreak edition="M" number="0.0002" /> tañca, paṭipattissitaṃ mataṃ;</gatha1>
-<gathalast line="19">Paṭipatti ca sā kāmaṃ, pariyattiparāyaṇā.</gathalast>
-<gatha1 line="20">Pariyattābhiyuttānaṃ, viditvā saddalakkhaṇaṃ;</gatha1>
-<gathalast line="21">Yasmā na hoti sammoho, akkharesu padesu ca.</gathalast>
-<gatha1 line="22">Yasmā cāmohabhāvena, akkharesu padesu ca;</gatha1>
-<gathalast line="23">Pāḷiyatthaṃ vijānanti, viññū sugatasāsane.</gathalast>
-<gatha1 line="24">Pāḷiyatthāvabodhena, yoniso satthusāsane;</gatha1>
-<gathalast line="25">Sappaññā paṭipajjanti, paṭipattimatandikā.</gathalast>
-<gatha1 line="26">Yoniso paṭipajjitvā, dhammaṃ lokuttaraṃ varaṃ;</gatha1>
-<gathalast line="27">Pāpuṇanti visuddhāya, sīlādipaṭipattiyā.</gathalast>
-<gatha1 line="28">Tasmā tadatthikā suddhaṃ, nayaṃ nissāya viññunaṃ;</gatha1>
-<gathalast line="29">Bhaññamānaṃ mayā <bold>sadda-nītiṃ</bold> gaṇhantu sādhukaṃ.</gathalast>
-<gatha1 line="30">Dhātu dhātūhi nipphanna-rūpāni ca salakkhaṇo;</gatha1>
-<gathalast line="31">Sandhināmādibhedo ca, padānaṃ tu vibhatti ca.</gathalast>
-<gatha1 line="32">Pāḷinayādayocceva-mettha nānappakārato;</gatha1>
-<gathalast line="33">Sāsanassopakārāya, bhavissati vibhāvanā.</gathalast>
-</body>
+  <metadata>
+    <normativeSource>http://tipitaka.org/romn/cscd/e0803n.nrf0.xml</normativeSource>
+    <archivePath>roman/anya/byakarana gantha-sangaho/saddanitippakaranam (padamala)/gantharambhakatha.xml</archivePath>
+    <baseFileName>gantharambhakatha</baseFileName>
+    <titlePath>Ganthārambhakathā - Saddanītippakaraṇaṃ (padamālā) - Byākaraṇa gantha-saṅgaho - Anya</titlePath>
+    <versions>
+    </versions>
+  </metadata>
+  <content>
+    <centered line="1"> Namo tassa bhagavato arahato sammāsambuddhassa</centered>
+    <book line="2">Saddanītippakaraṇaṃ (padamālā)</book>
+    <subsubhead line="3">Ganthārambhakathā</subsubhead>
+    <gatha1 line="4">Dhīrehi <pageBreak edition="M" number="0.0001" /> magganāyena, yena buddhena desitaṃ;</gatha1>
+    <gathalast line="5">Sitaṃ dhammamidhaññāya, ñāyate amataṃ padaṃ.</gathalast>
+    <gatha1 line="6">Taṃ namitvā mahāvīraṃ, sabbaññuṃ lokanāyakaṃ;</gatha1>
+    <gathalast line="7">Mahākāruṇikaṃ seṭṭhaṃ, visuddhaṃ suddhidāyakaṃ.</gathalast>
+    <gatha1 line="8">Saddhammañcassa pūjetvā, suddhaṃ santamasaṅkhataṃ;</gatha1>
+    <gathalast line="9">Atakkāvacaraṃ suṭṭhu, vibhattaṃ madhuraṃ sivaṃ.</gathalast>
+    <gatha1 line="10">Saṅghassa ca’ñjaliṃ katvā, puññakkhettassa tādino;</gatha1>
+    <gathalast line="11">Sīlasamādhipaññādi-visuddhaguṇajotino.</gathalast>
+    <gatha1 line="12">Namassanādipuññassa, katassa ratanattaye;</gatha1>
+    <gathalast line="13">Tejasāhaṃ pahantvāna, antarāye asesato.</gathalast>
+    <gatha1 line="14">Lokanītiviyattassa, satthu saddhammanītino;</gatha1>
+    <gathalast line="15">Sāsanatthaṃ pavakkhāmi, <bold>saddanīti</bold>manākulaṃ.</gathalast>
+    <gatha1 line="16">Āsavakkhayalābhena, hoti sāsanasampadā;</gatha1>
+    <gathalast line="17">Āsavakkhayalābho ca, saccādhigamahetuko.</gathalast>
+    <gatha1 line="18">Saccādhigamanaṃ <pageBreak edition="M" number="0.0002" /> tañca, paṭipattissitaṃ mataṃ;</gatha1>
+    <gathalast line="19">Paṭipatti ca sā kāmaṃ, pariyattiparāyaṇā.</gathalast>
+    <gatha1 line="20">Pariyattābhiyuttānaṃ, viditvā saddalakkhaṇaṃ;</gatha1>
+    <gathalast line="21">Yasmā na hoti sammoho, akkharesu padesu ca.</gathalast>
+    <gatha1 line="22">Yasmā cāmohabhāvena, akkharesu padesu ca;</gatha1>
+    <gathalast line="23">Pāḷiyatthaṃ vijānanti, viññū sugatasāsane.</gathalast>
+    <gatha1 line="24">Pāḷiyatthāvabodhena, yoniso satthusāsane;</gatha1>
+    <gathalast line="25">Sappaññā paṭipajjanti, paṭipattimatandikā.</gathalast>
+    <gatha1 line="26">Yoniso paṭipajjitvā, dhammaṃ lokuttaraṃ varaṃ;</gatha1>
+    <gathalast line="27">Pāpuṇanti visuddhāya, sīlādipaṭipattiyā.</gathalast>
+    <gatha1 line="28">Tasmā tadatthikā suddhaṃ, nayaṃ nissāya viññunaṃ;</gatha1>
+    <gathalast line="29">Bhaññamānaṃ mayā <bold>sadda-nītiṃ</bold> gaṇhantu sādhukaṃ.</gathalast>
+    <gatha1 line="30">Dhātu dhātūhi nipphanna-rūpāni ca salakkhaṇo;</gatha1>
+    <gathalast line="31">Sandhināmādibhedo ca, padānaṃ tu vibhatti ca.</gathalast>
+    <gatha1 line="32">Pāḷinayādayocceva-mettha nānappakārato;</gatha1>
+    <gathalast line="33">Sāsanassopakārāya, bhavissati vibhāvanā.</gathalast>
+  </content>
 </document>

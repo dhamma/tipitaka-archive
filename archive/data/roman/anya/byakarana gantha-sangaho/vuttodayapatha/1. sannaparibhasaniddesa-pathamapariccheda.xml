@@ -1,70 +1,75 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="utf-8"?>
 <document>
-<metadata>
-<normativeSource>http://tipitaka.org/romn/cscd/e0808n.nrf0.xml</normativeSource>
-<archivePath>roman/anya/byakarana gantha-sangaho/vuttodayapatha/1. sannaparibhasaniddesa-pathamapariccheda.xml</archivePath>
-<titlePath>1. Saññāparibhāsāniddesa-paṭhamapariccheda - Vuttodayapāṭha - Byākaraṇa gantha-saṅgaho - Anya</titlePath>
-</metadata>
-<body>
-<centered line="1">Namo tassa bhagavato arahato sammāsambuddhassa</centered>
-<book line="2">Vuttodayaṃ</book>
-<chapter line="3">1. Saññāparibhāsāniddesa-paṭhamapariccheda</chapter>
-<title line="4">Ratanattayappaṇāma</title>
-<hangnum line="5" number="1"></hangnum>
-<gatha1 line="6"> Nama’tthu jana santāna, tama santāna bhedino;</gatha1>
-<gathalast line="7">Dhammu’jjalanta rucino, munindo’dāta rocino.</gathalast>
-<title line="8">Nimitta</title>
-<hangnum line="9" number="2"></hangnum>
-<gatha1 line="10"> Piṅgalā’cariyādīhi, chandaṃ ya muditaṃ purā;</gatha1>
-<gathalast line="11">Suddhamāgadhikānaṃ taṃ, na sādheti <alternatives line="3" extra="null" separator="false"><alternative source-abbr="vri" source="vipassana research institut">yathicchitaṃ</alternative><alternative source-abbr="ka." source="cambodian">ya’dicchitaṃ yati’cchitaṃ</alternative></alternatives> .</gathalast>
-<title line="12">Ganthaparimāṇa</title>
-<hangnum line="13" number="3"></hangnum>
-<gatha1 line="14"> Tato māgadhabhāsāya, mattā,vaṇṇa,vibhedanaṃ;</gatha1>
-<gathalast line="15">Lakkhya lakkhaṇa saṃyuttaṃ, pasanna’ttha,pada,kkamaṃ.</gathalast>
-<title line="16">Abhidhānādi</title>
-<hangnum line="17" number="4"></hangnum>
-<gatha1 line="18"> Idaṃ <bold>vuttodayaṃ</bold> nāma, lokiya’cchandanissitaṃ;</gatha1>
-<gathalast line="19">Ārabhissa’mahaṃ dāni, tesaṃ sukhavibuddhiyā.</gathalast>
-<title line="20">Gaṇasaṅketasaññā</title>
-<hangnum line="21" number="5"></hangnum>
-<gatha1 line="22"> Sabbaglā mnā,’digalahū, <bold>bhyā’</bold>,majjha’nta garū <bold>jasā;</bold></gatha1>
-<gathalast line="23">Majjha’ntalā <bold>ra,te’</bold>te’ṭṭha, gaṇā go garu,lo lahu.</gathalast>
-<title line="24">Gaṇaniyama</title>
-<hangnum line="25" number="6"></hangnum>
-<gatha1 line="26"> Bha,ja,sā <pageBreak edition="M" number="0.0192" /> sabbaga,lahū, pañci’me saṇṭhitā gaṇā;</gatha1>
-<gathalast line="27"><bold>Ariyādimhi</bold> viññeyyā, gaṇo idha catu’kkalo.</gathalast>
-<title line="28">Garu,lahusarūpa</title>
-<hangnum line="29" number="7"></hangnum>
-<gatha1 line="30"> Saṃyogā’di ca, dīgho ca, niggahītaparo ca, yo;</gatha1>
-<gathalast line="31"><bold>Garu,</bold> vaṅko, pādanto,vā, rasso’ñño mattiko <bold>lu’</bold>ju.</gathalast>
-<hangnum line="32" number="8"></hangnum>
-<gatha1 line="33"> Pare pādādisaṃyoge, yo pubbo garuka’kkharo;</gatha1>
-<gathalast line="34"><bold>Lahu</bold> sa kvaci viññeyyo, tadudāharaṇaṃ yathā.</gathalast>
-<hangnum line="35" number="9"></hangnum>
-<gatha1 line="36"> Dassanarasā’nubhāvane, nibaddhagedhā jinassa’yaṃ janatā;</gatha1>
-<gathalast line="37">Vimhayajananī sañña<bold>ta, kri</bold>yā nu kaṃ nā’nurañjayati.</gathalast>
-<hangnum line="38" number="10"></hangnum>
-<gatha1 line="39"> Viññeyyā lokato saññā, <bold>samuddo,su,rasā</bold>dinaṃ;</gatha1>
-<gathalast line="40"><bold>Pādo</bold>ñeyyo catutthaṃ’so, padacchedo <bold>yatī</bold> bhave.</gathalast>
-<hangnum line="41" number="11"></hangnum>
-<gatha1 line="42"><bold>Sama,maḍḍhasamaṃ,</bold> vuttaṃ, <bold>visamaṃ</bold> cā’paraṃ tidhā;</gatha1>
-<gathalast line="43">Samā lakkhaṇato pādā, cattāro yassa taṃ <bold>samaṃ.</bold></gathalast>
-<hangnum line="44" number="12"></hangnum>
-<gatha1 line="45"> Yassa’ntimena dutiyo, tatiyenā’dimo samo;</gatha1>
-<gathalast line="46">Ta’<bold>daḍḍhasama, maññaṃ</bold> tu, bhinna lakkhaṇa pādikaṃ.</gathalast>
-<hangnum line="47" number="13"></hangnum>
-<gatha1 line="48"> Pāda’mekakkharā’rabbha, yāva chabbīsata’kkharā;</gatha1>
-<gathalast line="49">Bhave pādehi taṃ chandaṃ, nānānāmo’ditaṃ tato.</gathalast>
-<hangnum line="50" number="14"></hangnum>
-<gatha1 line="51"><bold>Daṇḍakā</bold> caṇḍavuṭṭhyā’di, pādehi chahi, tīhi tu;</gatha1>
-<gathalast line="52"><bold>‘Gāthā’</bold>ti ca paratthe’vaṃ, chando saññā pakāsitā.</gathalast>
-<hangnum line="53" number="15"></hangnum>
-<gatha1 line="54"> Anantaro’ditaṃ ca’ñña, metaṃ sāmañña nāmato;</gatha1>
-<gathalast line="55"><bold>‘Gāthā’</bold>icceva niddiṭṭhaṃ, munindavacane pana.</gathalast>
-<hangnum line="56" number="16"></hangnum>
-<gatha1 line="57"> Visesanāmato kiñci, gahetvā sabbatho’citaṃ;</gatha1>
-<gathalast line="58">Dassayissāma’haṃ te’ttha, nāmānā’vi bhavissare.</gathalast>
-<centered line="59">Iti vuttodaye chandasi saññāparibhāsā niddeso nāma</centered>
-<centered line="60">Paṭhamo paricchedo.</centered>
-</body>
+  <metadata>
+    <normativeSource>http://tipitaka.org/romn/cscd/e0808n.nrf0.xml</normativeSource>
+    <archivePath>roman/anya/byakarana gantha-sangaho/vuttodayapatha/1. sannaparibhasaniddesa-pathamapariccheda.xml</archivePath>
+    <baseFileName>1. sannaparibhasaniddesa-pathamapariccheda</baseFileName>
+    <titlePath>1. Saññāparibhāsāniddesa-paṭhamapariccheda - Vuttodayapāṭha - Byākaraṇa gantha-saṅgaho - Anya</titlePath>
+    <versions>
+      <version source="vipassana research institut" source-abbr="vri"/>
+      <version source="cambodian" source-abbr="ka."/>
+    </versions>
+  </metadata>
+  <content>
+    <centered line="1">Namo tassa bhagavato arahato sammāsambuddhassa</centered>
+    <book line="2">Vuttodayaṃ</book>
+    <chapter line="3">1. Saññāparibhāsāniddesa-paṭhamapariccheda</chapter>
+    <title line="4">Ratanattayappaṇāma</title>
+    <hangnum line="5" number="1"></hangnum>
+    <gatha1 line="6"> Nama’tthu jana santāna, tama santāna bhedino;</gatha1>
+    <gathalast line="7">Dhammu’jjalanta rucino, munindo’dāta rocino.</gathalast>
+    <title line="8">Nimitta</title>
+    <hangnum line="9" number="2"></hangnum>
+    <gatha1 line="10"> Piṅgalā’cariyādīhi, chandaṃ ya muditaṃ purā;</gatha1>
+    <gathalast line="11">Suddhamāgadhikānaṃ taṃ, na sādheti <alternatives line="3" extra="" separator="false"><alternative source-abbr="vri" source="vipassana research institut">yathicchitaṃ</alternative><alternative source-abbr="ka." source="cambodian">ya’dicchitaṃ yati’cchitaṃ</alternative></alternatives> .</gathalast>
+    <title line="12">Ganthaparimāṇa</title>
+    <hangnum line="13" number="3"></hangnum>
+    <gatha1 line="14"> Tato māgadhabhāsāya, mattā,vaṇṇa,vibhedanaṃ;</gatha1>
+    <gathalast line="15">Lakkhya lakkhaṇa saṃyuttaṃ, pasanna’ttha,pada,kkamaṃ.</gathalast>
+    <title line="16">Abhidhānādi</title>
+    <hangnum line="17" number="4"></hangnum>
+    <gatha1 line="18"> Idaṃ <bold>vuttodayaṃ</bold> nāma, lokiya’cchandanissitaṃ;</gatha1>
+    <gathalast line="19">Ārabhissa’mahaṃ dāni, tesaṃ sukhavibuddhiyā.</gathalast>
+    <title line="20">Gaṇasaṅketasaññā</title>
+    <hangnum line="21" number="5"></hangnum>
+    <gatha1 line="22"> Sabbaglā mnā,’digalahū, <bold>bhyā’</bold>,majjha’nta garū <bold>jasā;</bold></gatha1>
+    <gathalast line="23">Majjha’ntalā <bold>ra,te’</bold>te’ṭṭha, gaṇā go garu,lo lahu.</gathalast>
+    <title line="24">Gaṇaniyama</title>
+    <hangnum line="25" number="6"></hangnum>
+    <gatha1 line="26"> Bha,ja,sā <pageBreak edition="M" number="0.0192" /> sabbaga,lahū, pañci’me saṇṭhitā gaṇā;</gatha1>
+    <gathalast line="27"><bold>Ariyādimhi</bold> viññeyyā, gaṇo idha catu’kkalo.</gathalast>
+    <title line="28">Garu,lahusarūpa</title>
+    <hangnum line="29" number="7"></hangnum>
+    <gatha1 line="30"> Saṃyogā’di ca, dīgho ca, niggahītaparo ca, yo;</gatha1>
+    <gathalast line="31"><bold>Garu,</bold> vaṅko, pādanto,vā, rasso’ñño mattiko <bold>lu’</bold>ju.</gathalast>
+    <hangnum line="32" number="8"></hangnum>
+    <gatha1 line="33"> Pare pādādisaṃyoge, yo pubbo garuka’kkharo;</gatha1>
+    <gathalast line="34"><bold>Lahu</bold> sa kvaci viññeyyo, tadudāharaṇaṃ yathā.</gathalast>
+    <hangnum line="35" number="9"></hangnum>
+    <gatha1 line="36"> Dassanarasā’nubhāvane, nibaddhagedhā jinassa’yaṃ janatā;</gatha1>
+    <gathalast line="37">Vimhayajananī sañña<bold>ta, kri</bold>yā nu kaṃ nā’nurañjayati.</gathalast>
+    <hangnum line="38" number="10"></hangnum>
+    <gatha1 line="39"> Viññeyyā lokato saññā, <bold>samuddo,su,rasā</bold>dinaṃ;</gatha1>
+    <gathalast line="40"><bold>Pādo</bold>ñeyyo catutthaṃ’so, padacchedo <bold>yatī</bold> bhave.</gathalast>
+    <hangnum line="41" number="11"></hangnum>
+    <gatha1 line="42"><bold>Sama,maḍḍhasamaṃ,</bold> vuttaṃ, <bold>visamaṃ</bold> cā’paraṃ tidhā;</gatha1>
+    <gathalast line="43">Samā lakkhaṇato pādā, cattāro yassa taṃ <bold>samaṃ.</bold></gathalast>
+    <hangnum line="44" number="12"></hangnum>
+    <gatha1 line="45"> Yassa’ntimena dutiyo, tatiyenā’dimo samo;</gatha1>
+    <gathalast line="46">Ta’<bold>daḍḍhasama, maññaṃ</bold> tu, bhinna lakkhaṇa pādikaṃ.</gathalast>
+    <hangnum line="47" number="13"></hangnum>
+    <gatha1 line="48"> Pāda’mekakkharā’rabbha, yāva chabbīsata’kkharā;</gatha1>
+    <gathalast line="49">Bhave pādehi taṃ chandaṃ, nānānāmo’ditaṃ tato.</gathalast>
+    <hangnum line="50" number="14"></hangnum>
+    <gatha1 line="51"><bold>Daṇḍakā</bold> caṇḍavuṭṭhyā’di, pādehi chahi, tīhi tu;</gatha1>
+    <gathalast line="52"><bold>‘Gāthā’</bold>ti ca paratthe’vaṃ, chando saññā pakāsitā.</gathalast>
+    <hangnum line="53" number="15"></hangnum>
+    <gatha1 line="54"> Anantaro’ditaṃ ca’ñña, metaṃ sāmañña nāmato;</gatha1>
+    <gathalast line="55"><bold>‘Gāthā’</bold>icceva niddiṭṭhaṃ, munindavacane pana.</gathalast>
+    <hangnum line="56" number="16"></hangnum>
+    <gatha1 line="57"> Visesanāmato kiñci, gahetvā sabbatho’citaṃ;</gatha1>
+    <gathalast line="58">Dassayissāma’haṃ te’ttha, nāmānā’vi bhavissare.</gathalast>
+    <centered line="59">Iti vuttodaye chandasi saññāparibhāsā niddeso nāma</centered>
+    <centered line="60">Paṭhamo paricchedo.</centered>
+  </content>
 </document>

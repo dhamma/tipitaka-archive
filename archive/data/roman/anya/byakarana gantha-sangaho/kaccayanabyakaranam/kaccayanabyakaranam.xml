@@ -1,725 +1,728 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="utf-8"?>
 <document>
-<metadata>
-<normativeSource>http://tipitaka.org/romn/cscd/e0802n.nrf0.xml</normativeSource>
-<archivePath>roman/anya/byakarana gantha-sangaho/kaccayanabyakaranam/kaccayanabyakaranam.xml</archivePath>
-<titlePath>Kaccāyanabyākaraṇaṃ - Kaccāyanabyākaraṇaṃ - Byākaraṇa gantha-saṅgaho - Anya</titlePath>
-</metadata>
-<body>
-<centered line="1"> Namo tassa bhagavato arahato sammāsambuddhassa</centered>
-<book line="2">Kaccāyanabyākaraṇaṃ</book>
-<subhead line="3">1. Sandhi</subhead>
-<paragraph line="4" number="1">, 1. Attho <pageBreak edition="M" number="0.0001" /> akkharasaññāto.</paragraph>
-<paragraph line="5" number="2">, 2. Akkharāpādayo ekacattālisaṃ.</paragraph>
-<paragraph line="6" number="3">, 3 Tatthodantā sarā aṭṭha.</paragraph>
-<paragraph line="7" number="4">, 4. Lahumattā tayo rassā.</paragraph>
-<paragraph line="8" number="5">, 5. Aññe dīghā.</paragraph>
-<paragraph line="9" number="6">, 8. Sesā byañjanā.</paragraph>
-<paragraph line="10" number="7">, 9. Vaggā pañcapañcaso mantā.</paragraph>
-<paragraph line="11" number="8">, 10. Aṃiti niggahitaṃ.</paragraph>
-<paragraph line="12" number="9">, 11. Parasamaññā payoge.</paragraph>
-<paragraph line="13" number="10">, 12. Pubbamadhoṭhitamassaraṃ sarena viyojaye.</paragraph>
-<paragraph line="14" number="11">, 14. Naye paraṃ yutte.</paragraph>
-<centered line="15">Iti sandhikappe paṭhamo kaṇḍo.</centered>
-<paragraph line="16" number="12">, 13. Sarā <pageBreak edition="M" number="0.0002" /> sare lopaṃ.</paragraph>
-<paragraph line="17" number="13">, 15. Vā paro asarūpo.</paragraph>
-<paragraph line="18" number="14">, 16. Kvacāsavaṇṇaṃ lutte.</paragraph>
-<paragraph line="19" number="15">, 17. Dīghaṃ.</paragraph>
-<paragraph line="20" number="16">, 18. Pubbo ca.</paragraph>
-<paragraph line="21" number="17">, 19. Yamedantassādeso.</paragraph>
-<paragraph line="22" number="18">, 20. Vamodudantānaṃ.</paragraph>
-<paragraph line="23" number="19">. 22. Sabbo caṃ ti.</paragraph>
-<paragraph line="24" number="20">, 27. Do dhassa ca.</paragraph>
-<paragraph line="25" number="21">, 22. Ivaṇṇo yaṃ navā.</paragraph>
-<paragraph line="26" number="22">, 28. Evādissa ri pubbo ca rasso.</paragraph>
-<centered line="27">Iti sandhikappe dutiyo kaṇḍo.</centered>
-<paragraph line="28" number="23">, 36. Sarā pakati byañjane.</paragraph>
-<paragraph line="29" number="24">, 35. Sare kvaci.</paragraph>
-<paragraph line="30" number="25">, 37. Dīghaṃ.</paragraph>
-<paragraph line="31" number="26">, 38. Rassaṃ.</paragraph>
-<paragraph line="32" number="27">, 39. Lopañca tatrākāro.</paragraph>
-<paragraph line="33" number="28">, 40. Para dvebhāvo ṭhāne.</paragraph>
-<paragraph line="34" number="29">, 42. Vagge ghosāghosānaṃ tatiyapaṭhamā.</paragraph>
-<centered line="35">Iti sandhikappe tatiyo kaṇḍo.</centered>
-<paragraph line="36" number="30">, 58. Aṃ <pageBreak edition="M" number="0.0003" /> byañjane niggahitaṃ.</paragraph>
-<paragraph line="37" number="31">. 49. Vaggantaṃ vā vagge.</paragraph>
-<paragraph line="38" number="32">, 50. Ehe ñaṃ.</paragraph>
-<paragraph line="39" number="33">. 51. Sa ye ca.</paragraph>
-<paragraph line="40" number="34">, 52. Madā sare.</paragraph>
-<paragraph line="41" number="35">, 34. Ya va ma da na ta ra lā cāgamā.</paragraph>
-<paragraph line="42" number="36">, 47. Kvaci o byañjane.</paragraph>
-<paragraph line="43" number="37">, 57. Niggahitañca.</paragraph>
-<paragraph line="44" number="38">, 53. Kvaci lopaṃ.</paragraph>
-<paragraph line="45" number="39">, 54. Byañjane ca.</paragraph>
-<paragraph line="46" number="40">, 55. Paro vā saro.</paragraph>
-<paragraph line="47" number="41">, 56. Byañjano ca visaññogo.</paragraph>
-<centered line="48">Iti sandhikappe catuttho kaṇḍo.</centered>
-<paragraph line="49" number="42">, 32. Gosare puthassāgamo kvaci.</paragraph>
-<paragraph line="50" number="43">, 33. Pāssa canto rasso.</paragraph>
-<paragraph line="51" number="44">, 24 Abbho abhi.</paragraph>
-<paragraph line="52" number="45">, 25. Ajjho adhi.</paragraph>
-<paragraph line="53" number="46">, 26. Te na vā ivaṇṇe.</paragraph>
-<paragraph line="54" number="47">, 23. Atissa cantassa.</paragraph>
-<paragraph line="55" number="48">, 43. Kvaci <pageBreak edition="M" number="0.0004" /> paṭi patissa.</paragraph>
-<paragraph line="56" number="49">, 44. Puthassu byañjane.</paragraph>
-<paragraph line="57" number="50">, 45. O avassa.</paragraph>
-<paragraph line="58" number="51">, 59. Anupadiṭṭhānaṃ vuttayogato.</paragraph>
-<centered line="59">Iti sandhikappe pañcamo kaṇḍo.</centered>
-<centered line="60">Sandhisuttaṃ niṭṭhitaṃ.</centered>
-<subhead line="61">2. Nāma</subhead>
-<paragraph line="62" number="52">, 60. Jinavacanayuttaṃ hi.</paragraph>
-<paragraph line="63" number="53">, 61. Liṅgañca nippajjate.</paragraph>
-<paragraph line="64" number="54">, 62. Tato ca vibhattiyo.</paragraph>
-<paragraph line="65" number="55">, 63. Si yo aṃ yo nā hi sa naṃ smā hi sanaṃ smiṃ su.</paragraph>
-<paragraph line="66" number="56">, 64. Tadanuparodhena.</paragraph>
-<paragraph line="67" number="57">, 71. Ālapane si gasañño.</paragraph>
-<paragraph line="68" number="58">, 29. Ivaṇṇuvaṇṇā jhalā.</paragraph>
-<paragraph line="69" number="59">, 182. Te itthidhyā po.</paragraph>
-<paragraph line="70" number="60">, 177. Ā gho.</paragraph>
-<paragraph line="71" number="61">, 86. Sāgamo se.</paragraph>
-<paragraph line="72" number="62">, 206. Saṃsāsvekavacanesu ca.</paragraph>
-<paragraph line="73" number="63">, 217. Etimāsami <pageBreak edition="M" number="0.0005" />.</paragraph>
-<paragraph line="74" number="64">, 216. Tassā vā.</paragraph>
-<paragraph line="75" number="65">, 215. Tato sassa ssāya.</paragraph>
-<paragraph line="76" number="66">, 205. Gho rassaṃ.</paragraph>
-<paragraph line="77" number="67">, 229. No ca dvādito naṃmhi.</paragraph>
-<paragraph line="78" number="68">, 184. Amā pato smiṃsmānaṃ vā.</paragraph>
-<paragraph line="79" number="69">, 186. Ādito o ca.</paragraph>
-<paragraph line="80" number="70">, 30. Jhalānamiyuvā sare vā.</paragraph>
-<paragraph line="81" number="71">, 489. Yavakārā ca.</paragraph>
-<paragraph line="82" number="72">, 185. Pasaññassa ca.</paragraph>
-<paragraph line="83" number="73">, 174. Gāva se.</paragraph>
-<paragraph line="84" number="74">, 169. Yosu ca.</paragraph>
-<paragraph line="85" number="75">, 170. Avaṃmhi ca.</paragraph>
-<paragraph line="86" number="76">, 171. Āvassu vā.</paragraph>
-<paragraph line="87" number="77">, 175, Tato namaṃ patimhālutte ca samāse.</paragraph>
-<paragraph line="88" number="78">, 31. O sare ca.</paragraph>
-<paragraph line="89" number="79">, 46. Tabbiparītūpapade byañjane ca.</paragraph>
-<paragraph line="90" number="80">, 173. Goṇa naṃmhi vā.</paragraph>
-<paragraph line="91" number="81">, 172. Suhināsu ca.</paragraph>
-<paragraph line="92" number="82">, 149. Aṃmo <pageBreak edition="M" number="0.0006" /> niggahitaṃ jhalapehi.</paragraph>
-<paragraph line="93" number="83">, 67. Saralopo mādesapaccayādimhi saralope tu pakati.</paragraph>
-<paragraph line="94" number="84">, 144. Agho rassamekavacanayosvapi ca.</paragraph>
-<paragraph line="95" number="85">, 150. Na sismimanapuṃsakāni.</paragraph>
-<paragraph line="96" number="86">, 227. Ubhādito naminnaṃ.</paragraph>
-<paragraph line="97" number="87">, 231. Iṇṇamiṇṇannaṃ tīhi saṅkhyāhi.</paragraph>
-<paragraph line="98" number="88">, 147. Yāsu katanikāralopesu dīghaṃ.</paragraph>
-<paragraph line="99" number="89">, 87. Sunaṃhisu ca.</paragraph>
-<paragraph line="100" number="90">, 252. Pañcādīnamattaṃ.</paragraph>
-<paragraph line="101" number="91">, 194. Patissinīmhi.</paragraph>
-<paragraph line="102" number="92">, 100. Ntussanto yosu ca.</paragraph>
-<paragraph line="103" number="93">, 106. Sabbassa vā aṃsesu.</paragraph>
-<paragraph line="104" number="94">, 105. Simhi vā.</paragraph>
-<paragraph line="105" number="95">, 145. Aggissini.</paragraph>
-<paragraph line="106" number="96">, 148. Yosvakatarasso jho.</paragraph>
-<paragraph line="107" number="97">, 156. Vevosu lo ca.</paragraph>
-<paragraph line="108" number="98">, 189. Mātulādīnamānattamīkāre.</paragraph>
-<paragraph line="109" number="99">, 81. Smāhismiṃnaṃ mhābhimhi vā.</paragraph>
-<paragraph line="110" number="100">, 214. Na timehi katākārehi.</paragraph>
-<paragraph line="111" number="101">, 80. Suhisvakāro <pageBreak edition="M" number="0.0007" /> e.</paragraph>
-<paragraph line="112" number="102">, 202. Sabbanāmānaṃ naṃmhi ca.</paragraph>
-<paragraph line="113" number="103">, 79. Ato nena.</paragraph>
-<paragraph line="114" number="104">, 66. So.</paragraph>
-<paragraph line="115" number="105">, 0. So vā.</paragraph>
-<paragraph line="116" number="106">, 302. Dīghorehi.</paragraph>
-<paragraph line="117" number="107">, 69. Sabbayonīnamāe.</paragraph>
-<paragraph line="118" number="108">, 90. Smāsmiṃnaṃ vā.</paragraph>
-<paragraph line="119" number="109">, 295. Āya catutthekavacanassa tu.</paragraph>
-<paragraph line="120" number="110">, 201. Tayo neva ca sabbanāmehi.</paragraph>
-<paragraph line="121" number="111">, 179. Ghato nādīnaṃ.</paragraph>
-<paragraph line="122" number="112">, 173. Pato yā.</paragraph>
-<paragraph line="123" number="113">, 132. Sakhato gasse vā.</paragraph>
-<paragraph line="124" number="114">, 178. Ghate ca.</paragraph>
-<paragraph line="125" number="115">, 181. Na ammādito.</paragraph>
-<paragraph line="126" number="116">, 157. Akatarassā lato yvālapanassavevo.</paragraph>
-<paragraph line="127" number="117">, 124. Jhalato sassa no vā.</paragraph>
-<paragraph line="128" number="118">, 146. Ghapato ca yonaṃ lopo.</paragraph>
-<paragraph line="129" number="119">, 115. Lato vokāro ca.</paragraph>
-<centered line="130">Iti nāmakappe paṭhamo kaṇḍo.</centered>
-<paragraph line="131" number="120">, 243. Amhassa <pageBreak edition="M" number="0.0008" /> mamaṃ savibhattissa se.</paragraph>
-<paragraph line="132" number="121">, 233. Mayaṃ yomhi paṭhame.</paragraph>
-<paragraph line="133" number="122">, 99. Ntussa nto.</paragraph>
-<paragraph line="134" number="123">, 103. Ntassa se vā.</paragraph>
-<paragraph line="135" number="124">, 98. Ā simhi.</paragraph>
-<paragraph line="136" number="125">, 198. Aṃ napuṃsake.</paragraph>
-<paragraph line="137" number="126">, 101. Avaṇṇā ca ge.</paragraph>
-<paragraph line="138" number="127">, 102. To titā sasmiṃnāsu.</paragraph>
-<paragraph line="139" number="128">, 104. Naṃmhi taṃ vā.</paragraph>
-<paragraph line="140" number="129">, 222. Imassidamaṃsisu napuṃsake.</paragraph>
-<paragraph line="141" number="130">, 225. Amussāduṃ.</paragraph>
-<paragraph line="142" number="131">, 0. Itthipumanapuṃsakasaṅkhyaṃ.</paragraph>
-<paragraph line="143" number="132">, 228. Yosu dvinnaṃ dve ca.</paragraph>
-<paragraph line="144" number="133">, 230. Ticatunnaṃ tisso catasso tayocattāro tīṇi cattāri.</paragraph>
-<paragraph line="145" number="134">, 251. Pañcādīnamakāro.</paragraph>
-<paragraph line="146" number="135">, 118. Rājassā rañño rājino se.</paragraph>
-<paragraph line="147" number="136">, 119. Raññaṃ naṃmhi vā.</paragraph>
-<paragraph line="148" number="137">, 116. Nāmhi raññā vā.</paragraph>
-<paragraph line="149" number="138">, 121. Smiṃmhi raññe rājini.</paragraph>
-<paragraph line="150" number="139">, 245. Tumhamhākaṃ <pageBreak edition="M" number="0.0009" /> tayi mayi.</paragraph>
-<paragraph line="151" number="140">, 232. Tvamahaṃ simhi ca.</paragraph>
-<paragraph line="152" number="141">, 241. Tava mama se.</paragraph>
-<paragraph line="153" number="142">, 242. Tuyhaṃ mayhañca.</paragraph>
-<paragraph line="154" number="143">, 235. Taṃmamaṃmhi.</paragraph>
-<paragraph line="155" number="144">, 234. Tavaṃmamañca na vā.</paragraph>
-<paragraph line="156" number="145">, 238. Nāmhi tayā mayā.</paragraph>
-<paragraph line="157" number="146">, 236. Tumhassa tuvaṃtvamamhi.</paragraph>
-<paragraph line="158" number="147">, 246. Padato dutiyācatutthīchaṭṭhīsu vo no.</paragraph>
-<paragraph line="159" number="148">, 247. Hemekavacanesu ca.</paragraph>
-<paragraph line="160" number="149">, 248. Na aṃmhi.</paragraph>
-<paragraph line="161" number="150">, 249. Vā tatiye ca.</paragraph>
-<paragraph line="162" number="151">, 250. Bahuvacanesu vo no.</paragraph>
-<paragraph line="163" number="152">, 136. Pumantassā simhi.</paragraph>
-<paragraph line="164" number="153">, 138. Amālapanekavacane.</paragraph>
-<paragraph line="165" number="154">, 0. Samāse ca vibhāsā.</paragraph>
-<paragraph line="166" number="155">, 137. Yosvāno.</paragraph>
-<paragraph line="167" number="156">, 142. Āne smiṃmhi vā.</paragraph>
-<paragraph line="168" number="157">, 140. Hivibhatthimhi ca.</paragraph>
-<paragraph line="169" number="151">, 143. Susmimā <pageBreak edition="M" number="0.0010" /> vā.</paragraph>
-<paragraph line="170" number="159">, 139. U nāmhi ca.</paragraph>
-<paragraph line="171" number="160">, 197. Akammantassa ca.</paragraph>
-<centered line="172">Iti nāmakappe dutiyo kaṇḍo.</centered>
-<paragraph line="173" number="161">, 244. Tumhamhehi namākaṃ.</paragraph>
-<paragraph line="174" number="162">, 237. Vā yvappaṭhamo.</paragraph>
-<paragraph line="175" number="163">, 240. Sassaṃ.</paragraph>
-<paragraph line="176" number="164">, 200. Sabbanāmakārate paṭhamo.</paragraph>
-<paragraph line="177" number="165">, 208. Dvandaṭṭhā vā.</paragraph>
-<paragraph line="178" number="166">, 209. Nāññaṃ sabbanāmikaṃ.</paragraph>
-<paragraph line="179" number="167">, 210. Bahubbīhimhi ca.</paragraph>
-<paragraph line="180" number="168">, 203. Sabbato naṃ saṃsānaṃ.</paragraph>
-<paragraph line="181" number="169">, 117. Rājassa rāju sunaṃ hisu ca.</paragraph>
-<paragraph line="182" number="170">, 220. Sabbassimasse vā.</paragraph>
-<paragraph line="183" number="171">, 219. Animi nāmhi ca.</paragraph>
-<paragraph line="184" number="172">, 218. Anapuṃsakassā yaṃ smimhi.</paragraph>
-<paragraph line="185" number="173">, 223. Amussa mo saṃ.</paragraph>
-<paragraph line="186" number="174">, 211. Etatesaṃ to.</paragraph>
-<paragraph line="187" number="175">, 212. Tassa vā nattaṃ sabbattha.</paragraph>
-<paragraph line="188" number="176">, 213. Sasmāsmiṃsaṃsāsvattaṃ 0.0011.</paragraph>
-<paragraph line="189" number="177">, 221. Imasaddassa ca.</paragraph>
-<paragraph line="190" number="178">, 224. Sabbato ko.</paragraph>
-<paragraph line="191" number="179">, 204. Ghapato smiṃ sānaṃ saṃsā.</paragraph>
-<paragraph line="192" number="180">, 207. Netāhi smimāyayā.</paragraph>
-<paragraph line="193" number="181">, 95. Manogaṇādito smiṃnānamiā.</paragraph>
-<paragraph line="194" number="182">, 97. Sassa co.</paragraph>
-<paragraph line="195" number="183">, 48. Etesamo lope.</paragraph>
-<paragraph line="196" number="184">, 96. Sa sare vāgamo.</paragraph>
-<paragraph line="197" number="185">, 112. Santasaddassā so bhe bo cante.</paragraph>
-<paragraph line="198" number="186">, 107. Simhi gacchantādīnaṃ ntasaddo aṃ.</paragraph>
-<paragraph line="199" number="187">, 108. Sesesu ntuva.</paragraph>
-<paragraph line="200" number="188">, 155. Brahmatta sakha rājādito amānaṃ.</paragraph>
-<paragraph line="201" number="189">, 113. Syā ca.</paragraph>
-<paragraph line="202" number="190">, 114. Yonamāno.</paragraph>
-<paragraph line="203" number="191">, 130. Sakhato cāyo no.</paragraph>
-<paragraph line="204" number="192">, 135. Smime.</paragraph>
-<paragraph line="205" number="193">, 122. Brahmato vassa ca.</paragraph>
-<paragraph line="206" number="194">, 131. Sakhantassi nonānaṃsesu.</paragraph>
-<paragraph line="207" number="195">, 134. Āro <pageBreak edition="M" number="0.0012" /> himhi vā.</paragraph>
-<paragraph line="208" number="196">, 133. Sunamaṃsu vā.</paragraph>
-<paragraph line="209" number="197">, 125. Brahmato tu smiṃni.</paragraph>
-<paragraph line="210" number="198">, 123. Uttaṃ sanāsu.</paragraph>
-<paragraph line="211" number="199">, 158. Satthupitādīnamā sismiṃ silopo ca.</paragraph>
-<paragraph line="212" number="200">, 196. Aññesvārattaṃ.</paragraph>
-<paragraph line="213" number="201">, 163. Vā naṃmhi.</paragraph>
-<paragraph line="214" number="202">. 164. Satthunattañca.</paragraph>
-<paragraph line="215" number="203">, 162. U sasmiṃ salopo ca.</paragraph>
-<paragraph line="216" number="204">, 167. Sakkamandhātādīnañca.</paragraph>
-<paragraph line="217" number="205">, 160. Tato yonamo tu.</paragraph>
-<paragraph line="218" number="206">, 165. Tato smimi.</paragraph>
-<paragraph line="219" number="207">, 161. Nā ā.</paragraph>
-<paragraph line="220" number="207">, 161. Āro rassamikāre.</paragraph>
-<paragraph line="221" number="209">, 168. Pitādīnamasimhi.</paragraph>
-<paragraph line="222" number="210">, 239. Tayātayinaṃ takāro tvattaṃ vā.</paragraph>
-<centered line="223">Iti nāmakappe tatiyo kaṇḍo.</centered>
-<paragraph line="224" number="211">, 126. Attanto hismimanattaṃ.</paragraph>
-<paragraph line="225" number="212">, 129. Tato smiṃ ni.</paragraph>
-<paragraph line="226" number="213">, 127. Sassano.</paragraph>
-<paragraph line="227" number="214">, 128. Smā 0.0013 nā.</paragraph>
-<paragraph line="228" number="215">, 141. Jhalato ca.</paragraph>
-<paragraph line="229" number="216">, 180. Ghapato smiṃyaṃ vā.</paragraph>
-<paragraph line="230" number="217">, 199. Yonaṃ ni napuṃsakehi.</paragraph>
-<paragraph line="231" number="218">, 196. Ato niccaṃ.</paragraph>
-<paragraph line="232" number="219">, 195. Siṃ.</paragraph>
-<paragraph line="233" number="220">, 74. Sesato lopaṃ gasipi.</paragraph>
-<paragraph line="234" number="221">, 282. Sabbāsamāvusopasagganipātādīhi ca.</paragraph>
-<paragraph line="235" number="222">, 327. Pumassa liṅgādīsu samāsesu.</paragraph>
-<paragraph line="236" number="223">, 188. Aṃ yamīto pasaññato.</paragraph>
-<paragraph line="237" number="224">, 153. Naṃ jhato katarassā.</paragraph>
-<paragraph line="238" number="225">, 151. Yonaṃ no.</paragraph>
-<paragraph line="239" number="226">, 154. Smiṃni.</paragraph>
-<paragraph line="240" number="227">, 270. Kissa ka ve ca.</paragraph>
-<paragraph line="241" number="228">, 272. Ku hiṃ haṃsu ca.</paragraph>
-<paragraph line="242" number="229">, 226. Sesesu ca.</paragraph>
-<paragraph line="243" number="230">, 262. Tra to thesu ca.</paragraph>
-<paragraph line="244" number="231">, 263. Sabbassetassākāro vā.</paragraph>
-<paragraph line="245" number="232">, 267. Tre niccaṃ.</paragraph>
-<paragraph line="246" number="233">, 264. E tothesu ca.</paragraph>
-<paragraph line="247" number="234">, 265. Imassi <pageBreak edition="M" number="0.0014" /> thaṃ dāni ha to dhesu ca.</paragraph>
-<paragraph line="248" number="235">, 281. A dhunāmhi ca.</paragraph>
-<paragraph line="249" number="236">, 280. Eta rahimhi.</paragraph>
-<paragraph line="250" number="237">, 176. Itthiyamato āpaccayo.</paragraph>
-<paragraph line="251" number="238">, 187. Nadādito vā ī.</paragraph>
-<paragraph line="252" number="239">, 190. Ṇava ṇika ṇeyya ṇantuhi.</paragraph>
-<paragraph line="253" number="240">, 193. Patibhikkhurājīkārantehi inī.</paragraph>
-<paragraph line="254" number="241">, 191. Ntussa tadhīkāre.</paragraph>
-<paragraph line="255" number="242">, 192. Bhavato bhoto.</paragraph>
-<paragraph line="256" number="243">, 110. Bho ge tu.</paragraph>
-<paragraph line="257" number="244">, 72. Akārapitādyantānamā.</paragraph>
-<paragraph line="258" number="245">, 152. Jhalapā rassaṃ.</paragraph>
-<paragraph line="259" number="246">, 73. Ākāro vā.</paragraph>
-<centered line="260">Iti nāmakappe catuttho kaṇḍo.</centered>
-<paragraph line="261" number="247">, 261. Tvādayo vibhattisaññāyo.</paragraph>
-<paragraph line="262" number="248">, 260. Kvaci to pañcamyatthe.</paragraph>
-<paragraph line="263" number="249">, 266. Tratha sattamiyā sabbanāmehi.</paragraph>
-<paragraph line="264" number="250">, 268. Sabbato dhi.</paragraph>
-<paragraph line="265" number="251">, 269. Kiṃsmā vo.</paragraph>
-<paragraph line="266" number="252">, 271. Hiṃhaṃhiñcanaṃ</paragraph>
-<paragraph line="267" number="253">, 273. Tamhā <pageBreak edition="M" number="0.0015" /> ca.</paragraph>
-<paragraph line="268" number="254">, 274. Imasmā hadhā ca.</paragraph>
-<paragraph line="269" number="255">, 275. Yato hiṃ.</paragraph>
-<paragraph line="270" number="256">, 0. Kāle.</paragraph>
-<paragraph line="271" number="257">, 276. Kiṃsabbaññekayakuhi dādācanaṃ.</paragraph>
-<paragraph line="272" number="258">, 278. Tamhā dāni ca.</paragraph>
-<paragraph line="273" number="259">, 279. Imasmā rahidhunādāni ca.</paragraph>
-<paragraph line="274" number="260">, 277. Sabbassa so dāmhi vā.</paragraph>
-<paragraph line="275" number="261">, 369. Avaṇṇo ye lopañca.</paragraph>
-<paragraph line="276" number="262">, 391. Vuḍḍhassa jo iyiṭṭhesu.</paragraph>
-<paragraph line="277" number="263">, 392. Pasatthassa so ca.</paragraph>
-<paragraph line="278" number="264">, 393. Antikassa nedo.</paragraph>
-<paragraph line="279" number="265">, 394. Bāḷhassa sādho.</paragraph>
-<paragraph line="280" number="266">, 395. Appassa kaṇa.</paragraph>
-<paragraph line="281" number="267">, 396. Yuvānañca.</paragraph>
-<paragraph line="282" number="268">, 397. Vantumantuvīnañca lopo.</paragraph>
-<paragraph line="283" number="269">, 41. Yavataṃ talaṇadakārānaṃ byañjanāni calañajakārattaṃ.</paragraph>
-<paragraph line="284" number="270">, 120. Amha tumha ntu rāja brahmatta sakha satthu– pitādīhi smā nāva.</paragraph>
-<centered line="285">Iti nāmakappe pañcamo kaṇḍo.</centered>
-<centered line="286">Nāmasuttaṃ niṭṭhitaṃ.</centered>
-<subhead line="287">3. Kāraka</subhead>
-<paragraph line="288" number="271">, 88. Yasmā <pageBreak edition="M" number="0.0016" /> dapetiṃ bhayamādatte vā tadapādānaṃ. (308)</paragraph>
-<paragraph line="289" number="272">, 309. Dhātunāmānamupasaggayogādīsvapi ca.</paragraph>
-<paragraph line="290" number="273">, 310. Rakkhaṇatthānamicchitaṃ.</paragraph>
-<paragraph line="291" number="274">, 311. Yena vā dassanaṃ</paragraph>
-<paragraph line="292" number="275">, 312. Dūrantikaddhakāla nimmāna tvālopa disā yoga vibhattārappayoga suddhappamocanahetu vivittappamāṇapubbayoga bandhanaguṇavacana pañhakathana thokātattūsu ca.</paragraph>
-<paragraph line="293" number="276">, 302. Yassa dātukāmo rocate dhārayate pā taṃ sampadānaṃ.</paragraph>
-<paragraph line="294" number="277">, 303. Silāgha hanu ṭhā sapa dhāra piha kudha duhisso ssūya rādhikkha paccāsuṇa anupatigiṇa pubbakattārocanattha tadattha tumatthālamattha maññānādarappāṇini gatyatthakammaniāsisatthasammutibhiyyasattamyatthesu ca.</paragraph>
-<paragraph line="295" number="278">, 320. Yodhāro tamokāsaṃ.</paragraph>
-<paragraph line="296" number="279">, 292. Yena vā kayirate taṃ karaṇaṃ.</paragraph>
-<paragraph line="297" number="280">, 285, Yaṃ karoti taṃ kammaṃ.</paragraph>
-<paragraph line="298" number="281">, 294. Yo karoti sa kattā.</paragraph>
-<paragraph line="299" number="282">, 295. Yo kārehi sa hetu.</paragraph>
-<paragraph line="300" number="283">, 316. Yassa <pageBreak edition="M" number="0.0017" /> vā pariggaho taṃ sāmī.</paragraph>
-<paragraph line="301" number="284">, 283. Liṅgatthe paṭhamā.</paragraph>
-<paragraph line="302" number="285">, 70. Ālapane ca.</paragraph>
-<paragraph line="303" number="286">, 291. Karaṇe tatiyā.</paragraph>
-<paragraph line="304" number="287">, 296, Sahādiyoge ca.</paragraph>
-<paragraph line="305" number="288">, 293. Kattari ca.</paragraph>
-<paragraph line="306" number="289">, 297. Hetvatthe ca.</paragraph>
-<paragraph line="307" number="290">, 298. Sattamyatthe ca.</paragraph>
-<paragraph line="308" number="291">, 299. Yenaṅgavikāro.</paragraph>
-<paragraph line="309" number="292">, 300. Visesane ca.</paragraph>
-<paragraph line="310" number="293">, 301. Sampadāne catutthī.</paragraph>
-<paragraph line="311" number="294">, 305. Namoyogādīsvapi ca.</paragraph>
-<paragraph line="312" number="295">, 307. Apādāne pañcamī.</paragraph>
-<paragraph line="313" number="296">, 314. Kāraṇatthe ca.</paragraph>
-<paragraph line="314" number="297">, 284. Kammatthe dutiyā.</paragraph>
-<paragraph line="315" number="298">. 287. Kāladdhānamaccantasaṃyoge.</paragraph>
-<paragraph line="316" number="299">, 288. Kammappavacanīyayutte.</paragraph>
-<paragraph line="317" number="300">, 286. Gati buddhi bhuja paṭha hara kara sayādīnaṃkā rite vā.</paragraph>
-<paragraph line="318" number="301">, 315. Sāmismiṃ chaṭṭhī</paragraph>
-<paragraph line="319" number="302">, 319. Okāse <pageBreak edition="M" number="0.0018" /> sattamī.</paragraph>
-<paragraph line="320" number="303">, 321. Sāmissarādhipati dāyāda sakkhī pathibhū pasuta kusalehi ca.</paragraph>
-<paragraph line="321" number="304">, 322. Niddhāraṇe ca.</paragraph>
-<paragraph line="322" number="305">, 323. Anādare ca.</paragraph>
-<paragraph line="323" number="306">, 289. Kvaci dutiyā chaṭṭhīnamatthe.</paragraph>
-<paragraph line="324" number="307">, 290. Tatiyāsattamīnañca.</paragraph>
-<paragraph line="325" number="308">, 317. Chaṭṭhī ca.</paragraph>
-<paragraph line="326" number="309">, 318. Dutiyāpañcamīnañca.</paragraph>
-<paragraph line="327" number="310">, 324. Kammakaraṇanimittatthesu sattamī.</paragraph>
-<paragraph line="328" number="311">, 325. Sampadāne ca.</paragraph>
-<paragraph line="329" number="312">, 326. Pañcamyatthe ca.</paragraph>
-<paragraph line="330" number="313">, 327. Kālabhāvesu ca.</paragraph>
-<paragraph line="331" number="314">, 328. Upa’dhyādhikissaravacane.</paragraph>
-<paragraph line="332" number="315">, 329. Maṇḍitussukkesu tatiyā ca.</paragraph>
-<centered line="333">Iti nāmakappe kārakakappo chaṭṭho kaṇḍo.</centered>
-<centered line="334">Kārakasuttaṃ niṭṭhitaṃ.</centered>
-<subhead line="335">4. Samāsa</subhead>
-<paragraph line="336" number="316">, 331. Nāmāna samāso yuttattho.</paragraph>
-<paragraph line="337" number="317">, 332. Tesaṃ vibhattiyo lopā ca.</paragraph>
-<paragraph line="338" number="318">, 333. Pakati cassa sarantassa.</paragraph>
-<paragraph line="339" number="319">, 330. Upasagganipātapubbako <pageBreak edition="M" number="0.0019" /> abyayībhāvo.</paragraph>
-<paragraph line="340" number="320">, 335. So napuṃsakaliṅgo.</paragraph>
-<paragraph line="341" number="321">. 349. Digussekattaṃ.</paragraph>
-<paragraph line="342" number="322">, 359. Tathā dvande pāṇi tūriye yogga senaṅga khuddajantuka vividha viruddha visabhāgatthādīnañca.</paragraph>
-<paragraph line="343" number="323">, 360. Vibhāsā rukkha tiṇa pasu dhana dhañña janapadā dīnañca.</paragraph>
-<paragraph line="344" number="324">, 339. Dvipade tulyādhikaraṇe kammadhārayo.</paragraph>
-<paragraph line="345" number="325">, 348. Saṅkhyāpubbo digu.</paragraph>
-<paragraph line="346" number="326">, 341. Ubhe tappurisā.</paragraph>
-<paragraph line="347" number="327">, 351. Amādayo parapadebhi.</paragraph>
-<paragraph line="348" number="328">, 352. Aññapadatthesu bahubbīhi.</paragraph>
-<paragraph line="349" number="329">, 357. Nāmānaṃ samuccayo dvando.</paragraph>
-<paragraph line="350" number="330">, 340. Mahataṃ mahā tulyādhikaraṇe pade.</paragraph>
-<paragraph line="351" number="331">, 353. Itthiyaṃ bhāsitapumitthī pumāva ce.</paragraph>
-<paragraph line="352" number="332">, 343. Kammadhārayasaññe ca.</paragraph>
-<paragraph line="353" number="333">, 344. Attaṃ nassa tappurise.</paragraph>
-<paragraph line="354" number="334">, 345. Sare ana.</paragraph>
-<paragraph line="355" number="335">, 346. Kadi kussa.</paragraph>
-<paragraph line="356" number="336">, 347. Kā’ppatthesu ca.</paragraph>
-<paragraph line="357" number="337">, 350. Kvaci <pageBreak edition="M" number="0.0020" /> samāsanta gatānamakāranto.</paragraph>
-<paragraph line="358" number="338">, 356. Nadimhā ca.</paragraph>
-<paragraph line="359" number="339">, 358. Jāyāya tudaṃ jāni patimhi.</paragraph>
-<paragraph line="360" number="340">, 355. Dhanumhā ca.</paragraph>
-<paragraph line="361" number="341">, 336. Aṃvibhattīnamakārantā abyāyitāvā.</paragraph>
-<paragraph line="362" number="342">, 337. Saro rasso napuṃsake.</paragraph>
-<paragraph line="363" number="343">, 338. Aññasmā lopo ca.</paragraph>
-<centered line="364">Iti nāmakappe samāsakappo sattamo kaṇḍo.</centered>
-<centered line="365">Samāsasutthaṃ niṭṭhitaṃ.</centered>
-<subhead line="366">5. Taddhita</subhead>
-<paragraph line="367" number="244">, 361. Vā ṇā’pacce.</paragraph>
-<paragraph line="368" number="345">, 366. Ṇāyana ṇāna vacchādito.</paragraph>
-<paragraph line="369" number="346">, 367. Ṇeyyo kattiyādīhi.</paragraph>
-<paragraph line="370" number="347">, 368. Ato ṇi vā.</paragraph>
-<paragraph line="371" number="348">, 371. Ṇavopakvādīhi.</paragraph>
-<paragraph line="372" number="349">, 372. Ṇera vidhavādito.</paragraph>
-<paragraph line="373" number="350">, 373. Yena vā saṃsaṭṭhaṃ tarati carati vahati ṇiko.</paragraph>
-<paragraph line="374" number="351">, 374. Tamadhīte tenakatādhi sannidhānaniyoga sippa bhaṇḍa jīvikatthesu ca.</paragraph>
-<paragraph line="375" number="352">, 376. Ṇa <pageBreak edition="M" number="0.0021" /> rāgā tassedamaññatthesu ca.</paragraph>
-<paragraph line="376" number="353">, 378. Jātādīnamimiyā ca.</paragraph>
-<paragraph line="377" number="354">, 379. Samūhatthe kaṇa ṇā.</paragraph>
-<paragraph line="378" number="355">, 380. Gāma jana bandhu sahāyādīhi tā.</paragraph>
-<paragraph line="379" number="356">, 381. Tadassa ṭhānamiyo ca.</paragraph>
-<paragraph line="380" number="357">, 382. Upamatthāyitattaṃ.</paragraph>
-<paragraph line="381" number="358">, 383. Tannissitatthe lo.</paragraph>
-<paragraph line="382" number="359">, 384. Ālu tabbahule.</paragraph>
-<paragraph line="383" number="360">, 387. Ṇuttatā bhāve tu.</paragraph>
-<paragraph line="384" number="361">, 388. Ṇa visamādīhi.</paragraph>
-<paragraph line="385" number="362">, 389. Ramaṇīyādito kaṇa</paragraph>
-<paragraph line="386" number="363">, 390. Visese taratamisikiyiṭṭhā.</paragraph>
-<paragraph line="387" number="364">, 398. Tadassatthīti vī ca.</paragraph>
-<paragraph line="388" number="365">, 399. Tapādito sī.</paragraph>
-<paragraph line="389" number="366">, 400. Daṇḍādito ika ī.</paragraph>
-<paragraph line="390" number="367">, 401. Madhvādito ro.</paragraph>
-<paragraph line="391" number="368">, 402. Guṇādito vantu.</paragraph>
-<paragraph line="392" number="369">, 403. Satyādīhi mantu.</paragraph>
-<paragraph line="393" number="370">, 405. Saddhādito ṇa.</paragraph>
-<paragraph line="394" number="371">, 404. Āyussukārāsa mantumhi.</paragraph>
-<paragraph line="395" number="372">, 385. Tappakativacane <pageBreak edition="M" number="0.0022" /> mayo.</paragraph>
-<paragraph line="396" number="373">, 406. Saṅkhyāpūraṇe mo.</paragraph>
-<paragraph line="397" number="374">, 408. Sa chassa vā.</paragraph>
-<paragraph line="398" number="375">, 412. Ekādito dasassī.</paragraph>
-<paragraph line="399" number="376">, 257. Dase so niccañca.</paragraph>
-<paragraph line="400" number="377">, 0. Ante niggahitañca.</paragraph>
-<paragraph line="401" number="378">, 414. Ti ca.</paragraph>
-<paragraph line="402" number="379">, 258. La da rānaṃ.</paragraph>
-<paragraph line="403" number="380">, 255. Vīsati dasesu bā dvissa tu.</paragraph>
-<paragraph line="404" number="381">, 254. Ekādito dassa ra saṅkhyāne.</paragraph>
-<paragraph line="405" number="382">, 259. Aṭṭhādito ca.</paragraph>
-<paragraph line="406" number="383">, 353. Dvekaṭṭhānamākāro vā.</paragraph>
-<paragraph line="407" number="384">, 407. Catucche hi tha ṭhā.</paragraph>
-<paragraph line="408" number="385">, 409. Dvitīhi tiyo.</paragraph>
-<paragraph line="409" number="386">, 410. Tiye dutāpi ca.</paragraph>
-<paragraph line="410" number="387">, 411. Tesamaḍḍhūpapadena aḍḍhuḍḍhadivaḍḍha diyaḍḍha’ ḍḍhatiyā.</paragraph>
-<paragraph line="411" number="388">, 68. Sarūpāna mekasesvasakiṃ.</paragraph>
-<paragraph line="412" number="389">, 413. Gaṇanedasassa dvi ti catu pañca cha satta aṭṭhanavakānaṃ vī ti cattāra paññā cha sattāsanavā yosu yonañcīsamāsaṃṭhiritītuti.</paragraph>
-<paragraph line="413" number="390">, 256. Catūpapadassa <pageBreak edition="M" number="0.0023" /> lopo tu’ttarapadādicassa cu copi navā.</paragraph>
-<paragraph line="414" number="391">, 423. Yadanupapannā nipātanā sijjhanti.</paragraph>
-<paragraph line="415" number="392">, 418. Dvādito ko’nekatthe ca.</paragraph>
-<paragraph line="416" number="393">, 415. Dasadasakaṃ sataṃ dasakānaṃ sataṃ sahassañca yomhi.</paragraph>
-<paragraph line="417" number="394">, 416. Yāva taduttari dasaguṇitañca.</paragraph>
-<paragraph line="418" number="395">, 417. Sakanāmehi.</paragraph>
-<paragraph line="419" number="396">, 363. Tesaṃ ṇo lopaṃ.</paragraph>
-<paragraph line="420" number="397">, 420. Vibhāge dhā ca.</paragraph>
-<paragraph line="421" number="398">, 421. Sabbanāmehi pakāravacane tu thā.</paragraph>
-<paragraph line="422" number="399">, 422. Kimimehi thaṃ.</paragraph>
-<paragraph line="423" number="400">, 364. Vuddhādisarassa vā’saṃyogantassa saṇe ca.</paragraph>
-<paragraph line="424" number="401">, 375. Māyūnamāgamo ṭhāne.</paragraph>
-<paragraph line="425" number="402">. 377. Āttañca.</paragraph>
-<paragraph line="426" number="403">, 354. Kvacādimajjhuttarānaṃ dīgharassa paccayesu ca.</paragraph>
-<paragraph line="427" number="404">, 370. Tesu vuddhi lopāgama vikāra viparitādesā ca.</paragraph>
-<paragraph line="428" number="405">, 365. Ayuvaṇṇānañcāyo vuddhi.</paragraph>
-<centered line="429">Iti nāmakappe taddhitakappo aṭṭhamo kaṇḍo.</centered>
-<centered line="430">Taddhitasuttaṃ niṭṭhitaṃ.</centered>
-<subhead line="431">6. Ākhyāti</subhead>
-<paragraph line="432" number="406">, 429. Atha <pageBreak edition="M" number="0.0024" /> pubbāni-vibhattīnaṃ cha parassapadāni.</paragraph>
-<paragraph line="433" number="407">, 439. Parāṇuttanopadāni.</paragraph>
-<paragraph line="434" number="408">, 430. Dve dve paṭhamamajjhimuttamapurisā.</paragraph>
-<paragraph line="435" number="409">, 441. Sabbesamekābhidhāne paro puriso.</paragraph>
-<paragraph line="436" number="410">, 432. Nāmamhi payujjamānepi tulyādhikaraṇe paṭhamo.</paragraph>
-<paragraph line="437" number="411">, 436. Tumhe majjhimo.</paragraph>
-<paragraph line="438" number="412">, 437. Amhe uttamo.</paragraph>
-<paragraph line="439" number="413">, 426. Kāle.</paragraph>
-<paragraph line="440" number="414">, 428. Vattamānā paccuppanne.</paragraph>
-<paragraph line="441" number="415">, 451. Āṇātyāsiṭṭhe’nuttakāle pañcamī.</paragraph>
-<paragraph line="442" number="416">, 454. Anumatiparikappetthesu sattamī.</paragraph>
-<paragraph line="443" number="417">, 460. Apaccakkhe parokkhā’tīte.</paragraph>
-<paragraph line="444" number="418">, 456. Hiyyopabhuti paccakkhe hiyyattanī.</paragraph>
-<paragraph line="445" number="419">, 469. Samīpe’jjatanī.</paragraph>
-<paragraph line="446" number="420">, 471. Māyoge sabbakāle ca.</paragraph>
-<paragraph line="447" number="421">, 473. Anāgate bhavissantī.</paragraph>
-<paragraph line="448" number="422">, 475. Kriyātipanne’tīte kālātipatti.</paragraph>
-<paragraph line="449" number="423">, 426. Vattamānā tī anti, si tha, mi ma te ante, sevhe, e mhe.</paragraph>
-<paragraph line="450" number="424">, 450. Pañcamī <pageBreak edition="M" number="0.0025" /> tu antu, hi tha, mi ma, taṃ antaṃ, ssu vho, e āmase.</paragraph>
-<paragraph line="451" number="425">, 453. Sattamī eyya eyyuṃ, eyyāsi eyyātha, eyyāmi eyyāma, etha eraṃ, etho eyyāvho, eyyaṃ eyyāmhe.</paragraph>
-<paragraph line="452" number="426">, 459. Parokkhā a u, e ttha, aṃ mha, ttha re, ttho vho, iṃ mhe.</paragraph>
-<paragraph line="453" number="427">, 455. Hiyyattanī ā ū, o ttha, aṃ mhā, ttha tthuṃ, sevhaṃ, iṃ mhase.</paragraph>
-<paragraph line="454" number="427">, 468. Ajjatanī īñaṃ ottha, iṃ mhā, ā ū, se vhaṃ, aṃ mhe.</paragraph>
-<paragraph line="455" number="429">, 472. Ssavissantī ssati ssanti, ssasi ssatha, ssāmi ssāma, ssate ssante, ssase ssavhe, ssaṃ ssāmhe.</paragraph>
-<paragraph line="456" number="430">, 474. Kālātipatti ssā ssaṃsu, sse ssatha, ssaṃ ssāmā, ssatha ssisu, ssase ssavhe, ssiṃ ssāmhase.</paragraph>
-<paragraph line="457" number="431">, 428. Hiyyattanī sattamī pañcamī vattamānā sabbadhātukaṃ.</paragraph>
-<centered line="458">Iti ākhyātakappe paṭhamo kaṇḍo.</centered>
-<paragraph line="459" number="432">, 362. Dhātuliṅgehi parā paccayā.</paragraph>
-<paragraph line="460" number="433">, 528. Tijagupakitamānehi khachasā vā.</paragraph>
-<paragraph line="461" number="434">, 534. Bhujaghasaharasupādīhitumicchatthesu.</paragraph>
-<paragraph line="462" number="435">, 536. Āya <pageBreak edition="M" number="0.0026" /> nāmato kattūpamānādācāre.</paragraph>
-<paragraph line="463" number="436">, 537. Īyū’pamānā ca.</paragraph>
-<paragraph line="464" number="437">, 538. Nāmamhā’tticchatthe.</paragraph>
-<paragraph line="465" number="438">, 540. Dhātūhi ṇe ṇaya ṇāpe ṇāpayā kāritāni hetvatthe.</paragraph>
-<paragraph line="466" number="439">, 539. Dhāturūpe nāmasmā ṇa yo ca.</paragraph>
-<paragraph line="467" number="440">, 445. Bhāvakammesu yo.</paragraph>
-<paragraph line="468" number="441">, 447. Tassa cavaggayakāravakārattaṃ sadhātvantassa.</paragraph>
-<paragraph line="469" number="442">, 448. Ivaṇṇāgamo vā.</paragraph>
-<paragraph line="470" number="443">, 449. Pubbarūpañca.</paragraph>
-<paragraph line="471" number="444">, 511. Tathā kattari ca.</paragraph>
-<paragraph line="472" number="445">, 433. Bhūvādito a.</paragraph>
-<paragraph line="473" number="446">, 509. Rudhādito niggahitapubbañca.</paragraph>
-<paragraph line="474" number="447">, 510. Divādito yo.</paragraph>
-<paragraph line="475" number="448">, 512. Svādito ṇuṇā uṇā ca.</paragraph>
-<paragraph line="476" number="449">, 513. Kiyādito nā.</paragraph>
-<paragraph line="477" number="450">, 517. Gahādito ppaṇhā.</paragraph>
-<paragraph line="478" number="451">, 520. Tanādito oyirā.</paragraph>
-<paragraph line="479" number="452">, 525. Curādito ṇe ṇayā.</paragraph>
-<paragraph line="480" number="453">, 444. Attanopadāni bhāve ca kammani.</paragraph>
-<paragraph line="481" number="454">, 440. Kattari ca.</paragraph>
-<paragraph line="482" number="455">, 530. Dhātuppaccayehi <pageBreak edition="M" number="0.0027" /> vibhattiyo.</paragraph>
-<paragraph line="483" number="456">, 420. Kattari parassapadaṃ.</paragraph>
-<paragraph line="484" number="457">, 424. Bhūvādayo dhātavo.</paragraph>
-<centered line="485">Iti ākhyātakappe dutiyo kaṇḍo.</centered>
-<paragraph line="486" number="458">, 461. Kvacādivaṇṇānamekassarānaṃ dvebhāvo.</paragraph>
-<paragraph line="487" number="459">, 462. Pubbo’ bbhāso.</paragraph>
-<paragraph line="488" number="460">, 506. Rasso.</paragraph>
-<paragraph line="489" number="461">, 464. Dutiyacatutthānaṃ paṭhamatatiyā.</paragraph>
-<paragraph line="490" number="462">, 467. Kavaggassa cavaggo.</paragraph>
-<paragraph line="491" number="463">, 532. Mānakitānaṃ va tattaṃ vā.</paragraph>
-<paragraph line="492" number="464">, 504. Hassa jo.</paragraph>
-<paragraph line="493" number="465">, 463. Antassivaṇṇākāro vā.</paragraph>
-<paragraph line="494" number="466">, 489. Niggahitañca.</paragraph>
-<paragraph line="495" number="467">, 533. Tato pāmānānaṃ vāmaṃ sesu.</paragraph>
-<paragraph line="496" number="468">, 492. Ṭhā tiṭṭho.</paragraph>
-<paragraph line="497" number="469">, 494. Pā pivo.</paragraph>
-<paragraph line="498" number="470">, 514. Ñāssa jājaṃnā.</paragraph>
-<paragraph line="499" number="471">, 483. Disassa passa dissa dakkhā vā.</paragraph>
-<paragraph line="500" number="472">, 531. Byañjanantassa co chappaccayesu ca.</paragraph>
-<paragraph line="501" number="473">, 529. Ko khe ca.</paragraph>
-<paragraph line="502" number="474">, 535. Harassa gī se.</paragraph>
-<paragraph line="503" number="475">, 465. Brūbhūnamāhabhūvā <pageBreak edition="M" number="0.0028" /> parokkhāyaṃ.</paragraph>
-<paragraph line="504" number="476">, 442. Gamissanto ccho vā sabbāsu.</paragraph>
-<paragraph line="505" number="477">, 479. Vacassa’jjatanimhi makārā o.</paragraph>
-<paragraph line="506" number="478">, 438. Akāro dīghaṃ himimesu.</paragraph>
-<paragraph line="507" number="479">, 452. Hi lopaṃ vā.</paragraph>
-<paragraph line="508" number="480">, 490. Hotissare’ ho’he bhavissantimhi sassa ca.</paragraph>
-<paragraph line="509" number="481">, 524. Karassa sappaccayassa kāho.</paragraph>
-<centered line="510">Iti ākhyātakappe tatiyo kaṇḍo.</centered>
-<paragraph line="511" number="482">, 508. Dādantassaṃ mimesu.</paragraph>
-<paragraph line="512" number="483">, 527. Asaṃyogantassa vuddhi kārite.</paragraph>
-<paragraph line="513" number="484">, 542. Ghaṭādīnaṃ vā.</paragraph>
-<paragraph line="514" number="485">, 434. Aññesu ca.</paragraph>
-<paragraph line="515" number="486">, 543. Guhadusānaṃ dīghaṃ.</paragraph>
-<paragraph line="516" number="487">, 478. Vaca vasa vahādīnamukāro vassaye.</paragraph>
-<paragraph line="517" number="488">, 481. Ha vipariyayo lo vā.</paragraph>
-<paragraph line="518" number="489">, 519. Gahassa ghe ppe.</paragraph>
-<paragraph line="519" number="490">, 518. Halopo ṇhāmhi.</paragraph>
-<paragraph line="520" number="491">, 523. Karassa kāsattamajjatanimhi.</paragraph>
-<paragraph line="521" number="492">, 499. Asasmā mimānaṃ mimhā’ntalopo ca.</paragraph>
-<paragraph line="522" number="493">, 498. Thassa tthatthaṃ.</paragraph>
-<paragraph line="523" number="494">, 495. Tissa <pageBreak edition="M" number="0.0029" /> tissa tthitthaṃ.</paragraph>
-<paragraph line="524" number="495">, 500. Tussa tthuttaṃ.</paragraph>
-<paragraph line="525" number="496">, 497. Simhi ca.</paragraph>
-<paragraph line="526" number="497">, 477. Labhasmā īaṃnaṃ tthattaṃ.</paragraph>
-<paragraph line="527" number="498">, 480. Kusasmā dī cchi.</paragraph>
-<paragraph line="528" number="499">, 480. Dā dhātussa dajjaṃ.</paragraph>
-<paragraph line="529" number="500">, 486. Vadassa vajjaṃ.</paragraph>
-<paragraph line="530" number="501">, 443. Gamissa ghammaṃ.</paragraph>
-<paragraph line="531" number="502">, 493. Yamhi dā dhā mā ṭhā hā pā maha mathādīnamī.</paragraph>
-<paragraph line="532" number="503">, 485. Yajassādissi.</paragraph>
-<paragraph line="533" number="504">, 470. Sabbato uṃ iṃsu.</paragraph>
-<paragraph line="534" number="505">, 482. Jaramarānaṃ jīra jīyya mīyyā vā.</paragraph>
-<paragraph line="535" number="506">, 496. Sabbatthā’sassādilopo ca.</paragraph>
-<paragraph line="536" number="507">, 501. Asabbadhātuke ñā.</paragraph>
-<paragraph line="537" number="508">, 515. Yyessa ñāto iyā ñā.</paragraph>
-<paragraph line="538" number="509">, 516. Nāssa lopo yakārattaṃ.</paragraph>
-<paragraph line="539" number="510">, 487. Lopañcettamakāro.</paragraph>
-<paragraph line="540" number="511">, 521. Uttamokāro.</paragraph>
-<paragraph line="541" number="512">, 522. Karassākāro ca.</paragraph>
-<paragraph line="542" number="513">, 435. O ava sare.</paragraph>
-<paragraph line="543" number="514">, 491. E aya.</paragraph>
-<paragraph line="544" number="515">, 541. Te <pageBreak edition="M" number="0.0030" /> āvāyā kārite.</paragraph>
-<paragraph line="545" number="516">, 466. Ikārāgamo asabbadhātukamhi.</paragraph>
-<paragraph line="546" number="517">, 488. Kvaci dhātuvibhattippaccayānaṃ dīghaviparītādesa lopāgamā ca.</paragraph>
-<paragraph line="547" number="518">, 446. Attanopadāni parassapadattaṃ.</paragraph>
-<paragraph line="548" number="519">, 457. Akārāgamo hiyyatthanīajjatanīkālātipattīsu.</paragraph>
-<paragraph line="549" number="520">, 502. Brūto ī timhi.</paragraph>
-<paragraph line="550" number="521">, 425. Dhātussanto lopo’ nekasarassa.</paragraph>
-<paragraph line="551" number="522">, 476. Isuyamūnamanto ccho vā.</paragraph>
-<paragraph line="552" number="523">, 526. Kāritānaṃ ṇo lopaṃ.</paragraph>
-<centered line="553">Iti ākhyātakappe catuttho kaṇḍo.</centered>
-<centered line="554">Ākhyātasuttaṃ niṭṭhitaṃ.</centered>
-<subhead line="555">7. Kibbidhāna</subhead>
-<paragraph line="556" number="524">, 561. Dhātuyā kammādimhi ṇo.</paragraph>
-<paragraph line="557" number="525">, 565. Saññāyama nu.</paragraph>
-<paragraph line="558" number="526">, 567. Pure dadā ca iṃ.</paragraph>
-<paragraph line="559" number="527">, 568. Sabbato ṇvutvā’vī vā.</paragraph>
-<paragraph line="560" number="528">, 577. Visa ruja padādito ṇa.</paragraph>
-<paragraph line="561" number="529">, 580. Bhāve ca.</paragraph>
-<paragraph line="562" number="530">, 584. Kvi ca.</paragraph>
-<paragraph line="563" number="531">, 589. Dharādīhi <pageBreak edition="M" number="0.0031" /> rammo.</paragraph>
-<paragraph line="564" number="532">, 590. Tassīlādīsu ṇī tvā vī ca.</paragraph>
-<paragraph line="565" number="533">, 591. Sadda kudha cala maṇḍattha rucādīhi yu.</paragraph>
-<paragraph line="566" number="534">, 592. Pārādigamimhā rū.</paragraph>
-<paragraph line="567" number="535">, 593. Bhikkhādito ca.</paragraph>
-<paragraph line="568" number="536">, 594. Hanatyādīnaṃ ṇuko.</paragraph>
-<paragraph line="569" number="537">, 566. Nu niggahitaṃ padante.</paragraph>
-<paragraph line="570" number="538">, 595. Saṃhanā’ññāya vā ro gho.</paragraph>
-<paragraph line="571" number="539">, 558. Ramhi ranto rādino.</paragraph>
-<paragraph line="572" number="540">, 545. Bhāvakammesu tabbā’nīyā.</paragraph>
-<paragraph line="573" number="541">, 552. Ṇyo ca.</paragraph>
-<paragraph line="574" number="542">, 557. Karamhā ricca.</paragraph>
-<paragraph line="575" number="543">, 555. Bhūto’bba.</paragraph>
-<paragraph line="576" number="544">, 556. Vada mada gamu yuja garahākārādīhi jja mmaggayheyyāvāro vā.</paragraph>
-<paragraph line="577" number="545">, 548. Te kiccā.</paragraph>
-<paragraph line="578" number="546">, 562. Aññe kitta.</paragraph>
-<paragraph line="579" number="547">, 596. Nandādīhi yu.</paragraph>
-<paragraph line="580" number="548">, 597. Kattukaraṇapadesesu ca.</paragraph>
-<paragraph line="581" number="549">, 550. Rahādito ṇa.</paragraph>
-<centered line="582">Iti kibbidhānakappe paṭhamo kaṇḍo.</centered>
-<paragraph line="583" number="550">, 549. Ṇādayo <pageBreak edition="M" number="0.0032" /> tekālikā.</paragraph>
-<paragraph line="584" number="551">, 598. Saññāyaṃ dādhāto i.</paragraph>
-<paragraph line="585" number="552">, 609. Ti kiccā’siṭṭhe.</paragraph>
-<paragraph line="586" number="553">, 599. Itthiyamatiyavo vā.</paragraph>
-<paragraph line="587" number="554">, 601. Karato ririya.</paragraph>
-<paragraph line="588" number="555">, 612. Atīte ta tavantu tāvī.</paragraph>
-<paragraph line="589" number="556">, 622. Bhāvakammesu ta.</paragraph>
-<paragraph line="590" number="557">, 606. Budhagamāditthe kattari.</paragraph>
-<paragraph line="591" number="558">, 602. Jito ina sabbattha.</paragraph>
-<paragraph line="592" number="559">, 603. Supato ca.</paragraph>
-<paragraph line="593" number="560">, 604. Īsaṃdusūhi kha.</paragraph>
-<paragraph line="594" number="561">, 636. Icchatthesu samānakattukesu tave tuṃ vā.</paragraph>
-<paragraph line="595" number="562">, 638. Arahasakkādīsu ca.</paragraph>
-<paragraph line="596" number="563">, 639. Pattavacane alamatthesu ca.</paragraph>
-<paragraph line="597" number="564">, 640. Pubbakāle’kakattukānaṃ tuna tvāna tvā vā.</paragraph>
-<paragraph line="598" number="565">, 646. Vattamāne māna’ntā.</paragraph>
-<paragraph line="599" number="566">, 574. Sāsādīhi ratthu.</paragraph>
-<paragraph line="600" number="567">, 575. Pātito ritu.</paragraph>
-<paragraph line="601" number="568">, 576. Mānādīhi <pageBreak edition="M" number="0.0033" /> rātu.</paragraph>
-<paragraph line="602" number="569">, 610. Āgamā tuko.</paragraph>
-<paragraph line="603" number="570">, 611. Bhabbe ika.</paragraph>
-<centered line="604">Iti kibbidhānakappe dutiyo kaṇḍo.</centered>
-<paragraph line="605" number="571">, 624. Paccayādaniṭṭhā nipātanā sijjhanti.</paragraph>
-<paragraph line="606" number="572">, 625. Sāsadisato tassa riṭṭho ca.</paragraph>
-<paragraph line="607" number="573">, 626. Sādisanta puccha bhanja hantādīhi ṭṭho.</paragraph>
-<paragraph line="608" number="574">, 613. Vasato uttha.</paragraph>
-<paragraph line="609" number="575">, 614. Vasa vāvu.</paragraph>
-<paragraph line="610" number="576">, 607. Dha ḍha bha he hi dhaḍḍhā ca.</paragraph>
-<paragraph line="611" number="577">, 628. Bhanjato ggo ca.</paragraph>
-<paragraph line="612" number="578">, 560. Bhujādīnamanto no dvi ca.</paragraph>
-<paragraph line="613" number="579">, 629. Vaca vā vu.</paragraph>
-<paragraph line="614" number="580">, 630. Gupādīnañca.</paragraph>
-<paragraph line="615" number="581">, 616. Tarādīhi iṇṇo.</paragraph>
-<paragraph line="616" number="582">, 631. Bhidādito inna anna īṇā vā.</paragraph>
-<paragraph line="617" number="583">, 617. Susa paca sakato kkha kkā ca.</paragraph>
-<paragraph line="618" number="584">, 618. Pakkamādīhi nto ca.</paragraph>
-<paragraph line="619" number="585">, 619. Janādīna mā timhi ca.</paragraph>
-<paragraph line="620" number="586">, 600. Gama khana hana ramādīnamanto.</paragraph>
-<paragraph line="621" number="587">, 632. Rakāro ca.</paragraph>
-<paragraph line="622" number="588">, Ṭhāpānamiī <pageBreak edition="M" number="0.0034" /> ca.</paragraph>
-<paragraph line="623" number="589">, 621. Hantehi ho hassa ḷo vā adahanahānaṃ.</paragraph>
-<centered line="624">Iti kibbidhānakappe tatiyo kaṇḍo.</centered>
-<paragraph line="625" number="590">, 579. Ṇamhi ranjassa jo bhāvakaraṇesu.</paragraph>
-<paragraph line="626" number="591">, 544. Hanassa ghāto.</paragraph>
-<paragraph line="627" number="592">, 503. Vadho vā sabbattha.</paragraph>
-<paragraph line="628" number="593">, 564. Ākārantānamāyo.</paragraph>
-<paragraph line="629" number="594">, 582. Purasamupaparīhi karotissa kha kharā vā tappaccayesu ca.</paragraph>
-<paragraph line="630" number="595">, 637. Tavetunādīsu kā.</paragraph>
-<paragraph line="631" number="596">, 551. Gamakhanahanādīnaṃ tuṃtabbādīsu na.</paragraph>
-<paragraph line="632" number="597">, 641. Sabbehi tunādīnaṃ yo.</paragraph>
-<paragraph line="633" number="598">, 643. Canantehi raccaṃ.</paragraph>
-<paragraph line="634" number="599">, 644. Disā svānasvantalopo ca.</paragraph>
-<paragraph line="635" number="600">, 645. Mahadabhehi mma yha jja bbha ddhā ca.</paragraph>
-<paragraph line="636" number="601">, 334. Taddhitasamāsakitakā nāmaṃ vā’tavetunādīsu ca.</paragraph>
-<paragraph line="637" number="602">, 6. Dumhi garu.</paragraph>
-<paragraph line="638" number="603">, 7. Dīgho <pageBreak edition="M" number="0.0035" /> ca.</paragraph>
-<paragraph line="639" number="604">, 684. Akkharehi kāra.</paragraph>
-<paragraph line="640" number="605">, 547. Yathāgamamikāro.</paragraph>
-<paragraph line="641" number="606">, 642. Dadhantato yo kvaci.</paragraph>
-<centered line="642">Iti kibbidhānakappe catuttho kaṇḍo.</centered>
-<paragraph line="643" number="607">, 578. Niggahita saṃyogādi no.</paragraph>
-<paragraph line="644" number="608">, 623. Sabbattha ge hī.</paragraph>
-<paragraph line="645" number="609">, 484. Sadassa sīdatthaṃ.</paragraph>
-<paragraph line="646" number="610">, 627. Yajassa sarassi ṭṭhe.</paragraph>
-<paragraph line="647" number="611">, 608. Hacatutthānamantānaṃ do dhe.</paragraph>
-<paragraph line="648" number="612">, 615. Ḍho ḍhakāre.</paragraph>
-<paragraph line="649" number="613">, 583. Gahassa ghara ṇe vā.</paragraph>
-<paragraph line="650" number="614">, 581. Dahassa do ḷaṃ.</paragraph>
-<paragraph line="651" number="615">, 586. Dhātvantassa lopo kvimhi.</paragraph>
-<paragraph line="652" number="616">, 587. Vidante ū.</paragraph>
-<paragraph line="653" number="617">, 633. Na ma ka rānamantānaṃ niyuttatamhi.</paragraph>
-<paragraph line="654" number="618">, 571. Na ka vatthaṃ ca jā ṇvumhi.</paragraph>
-<paragraph line="655" number="619">, 573. Karassa ca tattaṃ thusmiṃ.</paragraph>
-<paragraph line="656" number="620">, 549. Tuṃtunatabbesu vā.</paragraph>
-<paragraph line="657" number="621">, 553. Kāritaṃ <pageBreak edition="M" number="0.0036" /> viya ṇānubandho.</paragraph>
-<paragraph line="658" number="622">, 570. Anakā yu ṇvūnaṃ.</paragraph>
-<paragraph line="659" number="623">, 554. Ka gā ca jānaṃ.</paragraph>
-<centered line="660">Iti kibbidhānakappe pañcamo kaṇḍo.</centered>
-<centered line="661">Kibbidhānasuttaṃ niṭṭhitaṃ.</centered>
-<subhead line="662">8. Uṇādikappa</subhead>
-<paragraph line="663" number="624">, 563. Kattari kitta.</paragraph>
-<paragraph line="664" number="625">, 605. Bhāvakammesu kiccattakkhatthā.</paragraph>
-<paragraph line="665" number="626">, 634. Kammani dutiyāya tto.</paragraph>
-<paragraph line="666" number="627">, 652. Khyādīhi mana ma ca to vā.</paragraph>
-<paragraph line="667" number="628">, 653. Samādīhi thamā.</paragraph>
-<paragraph line="668" number="629">, 569. Gahassu’padhasse vā.</paragraph>
-<paragraph line="669" number="630">, 654. Masussa sussa ccharaccherā.</paragraph>
-<paragraph line="670" number="631">, 655. Āpubbacarassa ca.</paragraph>
-<paragraph line="671" number="632">, 656. Ala kala salehi la yā.</paragraph>
-<paragraph line="672" number="633">, 657. Yāṇa lāṇā.</paragraph>
-<paragraph line="673" number="634">, 658. Mathissa thassa lo ca.</paragraph>
-<paragraph line="674" number="635">, 559. Pesātisaggapattakālesu kiccā.</paragraph>
-<paragraph line="675" number="636">, 659. Avassakādhamiṇesu ṇī ca.</paragraph>
-<paragraph line="676" number="637">, 0. Arahasakkādīhi tuṃ.</paragraph>
-<paragraph line="677" number="638">, 668. Vajādīhi pabbajjādayo nippajjante.</paragraph>
-<paragraph line="678" number="639">, 585. Kvilopo <pageBreak edition="M" number="0.0037" /> ca.</paragraph>
-<paragraph line="679" number="640">, 0. Sacajānaṃ ka gā ṇānubandhe.</paragraph>
-<paragraph line="680" number="641">, 572. Nudādīhi yu ṇvūna manā na nā kā na na kā sakāritehi ca.</paragraph>
-<paragraph line="681" number="642">, 588. I ya ta ma kiṃ esānamantassaro dīghaṃ kvaci dusassa guṇaṃ doraṃ sa kkhī ca.</paragraph>
-<paragraph line="682" number="643">, 635. Bhyādīhi mati budhi pūjādīhi ca tto.</paragraph>
-<paragraph line="683" number="644">, 661. Vepu sī dava vamu ku dā bhūtvādīhi thuttima ṇimā nibbatte.</paragraph>
-<paragraph line="684" number="645">, 662. Akkose namhāni.</paragraph>
-<paragraph line="685" number="646">, 419. Ekādito sakissa kkhattuṃ.</paragraph>
-<paragraph line="686" number="647">, 663. Sunassunasso ṇa vānuvānūnanakhunānā.</paragraph>
-<paragraph line="687" number="648">, 664. Taruṇassa susu ca.</paragraph>
-<paragraph line="688" number="649">, 665. Yuvassuvassuvuvānanūnā.</paragraph>
-<paragraph line="689" number="650">, 651. Kāle vattamānātīte ṇvādayo.</paragraph>
-<paragraph line="690" number="651">, 647. Bhavissati gamādīhi ṇī ghiṇa.</paragraph>
-<paragraph line="691" number="652">, 648. Kriyāyaṃ ṇvu tavo.</paragraph>
-<paragraph line="692" number="653">, 307. Bhāvavācimhi catutthī.</paragraph>
-<paragraph line="693" number="654">, 649. Kammani ṇo.</paragraph>
-<paragraph line="694" number="655">, 650. Sese ssaṃ ntu mānānā.</paragraph>
-<paragraph line="695" number="656">, 666. Chadādīhi ta traṇa.</paragraph>
-<paragraph line="696" number="657">, 667. Vadādīhi ṇitto gaṇe.</paragraph>
-<paragraph line="697" number="658">, 668. Midādīhi tti tiyo.</paragraph>
-<paragraph line="698" number="659">, 669. Usuranjadasānaṃ <pageBreak edition="M" number="0.0038" /> daṃsassa daḍḍho ḍhaṭhā ca.</paragraph>
-<paragraph line="699" number="660">, 670. Sūvusānamūvusānamato tho ca.</paragraph>
-<paragraph line="700" number="661">, 671. Ranjudādīhi dhadiddakirā kvaci jadalopo ca.</paragraph>
-<paragraph line="701" number="662">, 672. Paṭito hissa heraṇa hīraṇa.</paragraph>
-<paragraph line="702" number="663">, 673. Kaḍhādīhi ko.</paragraph>
-<paragraph line="703" number="664">, 674. Khādāmagamānaṃ khandhandhagandhā.</paragraph>
-<paragraph line="704" number="665">, 675. Paṭādīlyalaṃ.</paragraph>
-<paragraph line="705" number="666">, 676. Puthassa puthu pathā mo vā.</paragraph>
-<paragraph line="706" number="667">, 677. Sasvādīhi tu davo.</paragraph>
-<paragraph line="707" number="668">, 678. Jhādīhi īvaro.</paragraph>
-<paragraph line="708" number="669">, 679. Munādīhi ci.</paragraph>
-<paragraph line="709" number="670">, 680. Vidādīlyūro.</paragraph>
-<paragraph line="710" number="671">, 681. Hanādīhi nu ṇu tavo.</paragraph>
-<paragraph line="711" number="672">, 682. Kuṭādīhi ṭho.</paragraph>
-<paragraph line="712" number="673">, 683. Manupūrasuṇādīhi ussanusisā.</paragraph>
-<centered line="713">Iti kibbidhānakappe uṇādikappo chaṭṭho kaṇḍo.</centered>
-<centered line="714">Uṇādisuttaṃ niṭṭhitaṃ.</centered>
-<title line="715">Mahākaccāyanasaddāpāṭha</title>
-</body>
+  <metadata>
+    <normativeSource>http://tipitaka.org/romn/cscd/e0802n.nrf0.xml</normativeSource>
+    <archivePath>roman/anya/byakarana gantha-sangaho/kaccayanabyakaranam/kaccayanabyakaranam.xml</archivePath>
+    <baseFileName>kaccayanabyakaranam</baseFileName>
+    <titlePath>Kaccāyanabyākaraṇaṃ - Kaccāyanabyākaraṇaṃ - Byākaraṇa gantha-saṅgaho - Anya</titlePath>
+    <versions>
+    </versions>
+  </metadata>
+  <content>
+    <centered line="1"> Namo tassa bhagavato arahato sammāsambuddhassa</centered>
+    <book line="2">Kaccāyanabyākaraṇaṃ</book>
+    <subhead line="3">1. Sandhi</subhead>
+    <paragraph line="4" number="1">, 1. Attho <pageBreak edition="M" number="0.0001" /> akkharasaññāto.</paragraph>
+    <paragraph line="5" number="2">, 2. Akkharāpādayo ekacattālisaṃ.</paragraph>
+    <paragraph line="6" number="3">, 3 Tatthodantā sarā aṭṭha.</paragraph>
+    <paragraph line="7" number="4">, 4. Lahumattā tayo rassā.</paragraph>
+    <paragraph line="8" number="5">, 5. Aññe dīghā.</paragraph>
+    <paragraph line="9" number="6">, 8. Sesā byañjanā.</paragraph>
+    <paragraph line="10" number="7">, 9. Vaggā pañcapañcaso mantā.</paragraph>
+    <paragraph line="11" number="8">, 10. Aṃiti niggahitaṃ.</paragraph>
+    <paragraph line="12" number="9">, 11. Parasamaññā payoge.</paragraph>
+    <paragraph line="13" number="10">, 12. Pubbamadhoṭhitamassaraṃ sarena viyojaye.</paragraph>
+    <paragraph line="14" number="11">, 14. Naye paraṃ yutte.</paragraph>
+    <centered line="15">Iti sandhikappe paṭhamo kaṇḍo.</centered>
+    <paragraph line="16" number="12">, 13. Sarā <pageBreak edition="M" number="0.0002" /> sare lopaṃ.</paragraph>
+    <paragraph line="17" number="13">, 15. Vā paro asarūpo.</paragraph>
+    <paragraph line="18" number="14">, 16. Kvacāsavaṇṇaṃ lutte.</paragraph>
+    <paragraph line="19" number="15">, 17. Dīghaṃ.</paragraph>
+    <paragraph line="20" number="16">, 18. Pubbo ca.</paragraph>
+    <paragraph line="21" number="17">, 19. Yamedantassādeso.</paragraph>
+    <paragraph line="22" number="18">, 20. Vamodudantānaṃ.</paragraph>
+    <paragraph line="23" number="19">. 22. Sabbo caṃ ti.</paragraph>
+    <paragraph line="24" number="20">, 27. Do dhassa ca.</paragraph>
+    <paragraph line="25" number="21">, 22. Ivaṇṇo yaṃ navā.</paragraph>
+    <paragraph line="26" number="22">, 28. Evādissa ri pubbo ca rasso.</paragraph>
+    <centered line="27">Iti sandhikappe dutiyo kaṇḍo.</centered>
+    <paragraph line="28" number="23">, 36. Sarā pakati byañjane.</paragraph>
+    <paragraph line="29" number="24">, 35. Sare kvaci.</paragraph>
+    <paragraph line="30" number="25">, 37. Dīghaṃ.</paragraph>
+    <paragraph line="31" number="26">, 38. Rassaṃ.</paragraph>
+    <paragraph line="32" number="27">, 39. Lopañca tatrākāro.</paragraph>
+    <paragraph line="33" number="28">, 40. Para dvebhāvo ṭhāne.</paragraph>
+    <paragraph line="34" number="29">, 42. Vagge ghosāghosānaṃ tatiyapaṭhamā.</paragraph>
+    <centered line="35">Iti sandhikappe tatiyo kaṇḍo.</centered>
+    <paragraph line="36" number="30">, 58. Aṃ <pageBreak edition="M" number="0.0003" /> byañjane niggahitaṃ.</paragraph>
+    <paragraph line="37" number="31">. 49. Vaggantaṃ vā vagge.</paragraph>
+    <paragraph line="38" number="32">, 50. Ehe ñaṃ.</paragraph>
+    <paragraph line="39" number="33">. 51. Sa ye ca.</paragraph>
+    <paragraph line="40" number="34">, 52. Madā sare.</paragraph>
+    <paragraph line="41" number="35">, 34. Ya va ma da na ta ra lā cāgamā.</paragraph>
+    <paragraph line="42" number="36">, 47. Kvaci o byañjane.</paragraph>
+    <paragraph line="43" number="37">, 57. Niggahitañca.</paragraph>
+    <paragraph line="44" number="38">, 53. Kvaci lopaṃ.</paragraph>
+    <paragraph line="45" number="39">, 54. Byañjane ca.</paragraph>
+    <paragraph line="46" number="40">, 55. Paro vā saro.</paragraph>
+    <paragraph line="47" number="41">, 56. Byañjano ca visaññogo.</paragraph>
+    <centered line="48">Iti sandhikappe catuttho kaṇḍo.</centered>
+    <paragraph line="49" number="42">, 32. Gosare puthassāgamo kvaci.</paragraph>
+    <paragraph line="50" number="43">, 33. Pāssa canto rasso.</paragraph>
+    <paragraph line="51" number="44">, 24 Abbho abhi.</paragraph>
+    <paragraph line="52" number="45">, 25. Ajjho adhi.</paragraph>
+    <paragraph line="53" number="46">, 26. Te na vā ivaṇṇe.</paragraph>
+    <paragraph line="54" number="47">, 23. Atissa cantassa.</paragraph>
+    <paragraph line="55" number="48">, 43. Kvaci <pageBreak edition="M" number="0.0004" /> paṭi patissa.</paragraph>
+    <paragraph line="56" number="49">, 44. Puthassu byañjane.</paragraph>
+    <paragraph line="57" number="50">, 45. O avassa.</paragraph>
+    <paragraph line="58" number="51">, 59. Anupadiṭṭhānaṃ vuttayogato.</paragraph>
+    <centered line="59">Iti sandhikappe pañcamo kaṇḍo.</centered>
+    <centered line="60">Sandhisuttaṃ niṭṭhitaṃ.</centered>
+    <subhead line="61">2. Nāma</subhead>
+    <paragraph line="62" number="52">, 60. Jinavacanayuttaṃ hi.</paragraph>
+    <paragraph line="63" number="53">, 61. Liṅgañca nippajjate.</paragraph>
+    <paragraph line="64" number="54">, 62. Tato ca vibhattiyo.</paragraph>
+    <paragraph line="65" number="55">, 63. Si yo aṃ yo nā hi sa naṃ smā hi sanaṃ smiṃ su.</paragraph>
+    <paragraph line="66" number="56">, 64. Tadanuparodhena.</paragraph>
+    <paragraph line="67" number="57">, 71. Ālapane si gasañño.</paragraph>
+    <paragraph line="68" number="58">, 29. Ivaṇṇuvaṇṇā jhalā.</paragraph>
+    <paragraph line="69" number="59">, 182. Te itthidhyā po.</paragraph>
+    <paragraph line="70" number="60">, 177. Ā gho.</paragraph>
+    <paragraph line="71" number="61">, 86. Sāgamo se.</paragraph>
+    <paragraph line="72" number="62">, 206. Saṃsāsvekavacanesu ca.</paragraph>
+    <paragraph line="73" number="63">, 217. Etimāsami <pageBreak edition="M" number="0.0005" />.</paragraph>
+    <paragraph line="74" number="64">, 216. Tassā vā.</paragraph>
+    <paragraph line="75" number="65">, 215. Tato sassa ssāya.</paragraph>
+    <paragraph line="76" number="66">, 205. Gho rassaṃ.</paragraph>
+    <paragraph line="77" number="67">, 229. No ca dvādito naṃmhi.</paragraph>
+    <paragraph line="78" number="68">, 184. Amā pato smiṃsmānaṃ vā.</paragraph>
+    <paragraph line="79" number="69">, 186. Ādito o ca.</paragraph>
+    <paragraph line="80" number="70">, 30. Jhalānamiyuvā sare vā.</paragraph>
+    <paragraph line="81" number="71">, 489. Yavakārā ca.</paragraph>
+    <paragraph line="82" number="72">, 185. Pasaññassa ca.</paragraph>
+    <paragraph line="83" number="73">, 174. Gāva se.</paragraph>
+    <paragraph line="84" number="74">, 169. Yosu ca.</paragraph>
+    <paragraph line="85" number="75">, 170. Avaṃmhi ca.</paragraph>
+    <paragraph line="86" number="76">, 171. Āvassu vā.</paragraph>
+    <paragraph line="87" number="77">, 175, Tato namaṃ patimhālutte ca samāse.</paragraph>
+    <paragraph line="88" number="78">, 31. O sare ca.</paragraph>
+    <paragraph line="89" number="79">, 46. Tabbiparītūpapade byañjane ca.</paragraph>
+    <paragraph line="90" number="80">, 173. Goṇa naṃmhi vā.</paragraph>
+    <paragraph line="91" number="81">, 172. Suhināsu ca.</paragraph>
+    <paragraph line="92" number="82">, 149. Aṃmo <pageBreak edition="M" number="0.0006" /> niggahitaṃ jhalapehi.</paragraph>
+    <paragraph line="93" number="83">, 67. Saralopo mādesapaccayādimhi saralope tu pakati.</paragraph>
+    <paragraph line="94" number="84">, 144. Agho rassamekavacanayosvapi ca.</paragraph>
+    <paragraph line="95" number="85">, 150. Na sismimanapuṃsakāni.</paragraph>
+    <paragraph line="96" number="86">, 227. Ubhādito naminnaṃ.</paragraph>
+    <paragraph line="97" number="87">, 231. Iṇṇamiṇṇannaṃ tīhi saṅkhyāhi.</paragraph>
+    <paragraph line="98" number="88">, 147. Yāsu katanikāralopesu dīghaṃ.</paragraph>
+    <paragraph line="99" number="89">, 87. Sunaṃhisu ca.</paragraph>
+    <paragraph line="100" number="90">, 252. Pañcādīnamattaṃ.</paragraph>
+    <paragraph line="101" number="91">, 194. Patissinīmhi.</paragraph>
+    <paragraph line="102" number="92">, 100. Ntussanto yosu ca.</paragraph>
+    <paragraph line="103" number="93">, 106. Sabbassa vā aṃsesu.</paragraph>
+    <paragraph line="104" number="94">, 105. Simhi vā.</paragraph>
+    <paragraph line="105" number="95">, 145. Aggissini.</paragraph>
+    <paragraph line="106" number="96">, 148. Yosvakatarasso jho.</paragraph>
+    <paragraph line="107" number="97">, 156. Vevosu lo ca.</paragraph>
+    <paragraph line="108" number="98">, 189. Mātulādīnamānattamīkāre.</paragraph>
+    <paragraph line="109" number="99">, 81. Smāhismiṃnaṃ mhābhimhi vā.</paragraph>
+    <paragraph line="110" number="100">, 214. Na timehi katākārehi.</paragraph>
+    <paragraph line="111" number="101">, 80. Suhisvakāro <pageBreak edition="M" number="0.0007" /> e.</paragraph>
+    <paragraph line="112" number="102">, 202. Sabbanāmānaṃ naṃmhi ca.</paragraph>
+    <paragraph line="113" number="103">, 79. Ato nena.</paragraph>
+    <paragraph line="114" number="104">, 66. So.</paragraph>
+    <paragraph line="115" number="105">, 0. So vā.</paragraph>
+    <paragraph line="116" number="106">, 302. Dīghorehi.</paragraph>
+    <paragraph line="117" number="107">, 69. Sabbayonīnamāe.</paragraph>
+    <paragraph line="118" number="108">, 90. Smāsmiṃnaṃ vā.</paragraph>
+    <paragraph line="119" number="109">, 295. Āya catutthekavacanassa tu.</paragraph>
+    <paragraph line="120" number="110">, 201. Tayo neva ca sabbanāmehi.</paragraph>
+    <paragraph line="121" number="111">, 179. Ghato nādīnaṃ.</paragraph>
+    <paragraph line="122" number="112">, 173. Pato yā.</paragraph>
+    <paragraph line="123" number="113">, 132. Sakhato gasse vā.</paragraph>
+    <paragraph line="124" number="114">, 178. Ghate ca.</paragraph>
+    <paragraph line="125" number="115">, 181. Na ammādito.</paragraph>
+    <paragraph line="126" number="116">, 157. Akatarassā lato yvālapanassavevo.</paragraph>
+    <paragraph line="127" number="117">, 124. Jhalato sassa no vā.</paragraph>
+    <paragraph line="128" number="118">, 146. Ghapato ca yonaṃ lopo.</paragraph>
+    <paragraph line="129" number="119">, 115. Lato vokāro ca.</paragraph>
+    <centered line="130">Iti nāmakappe paṭhamo kaṇḍo.</centered>
+    <paragraph line="131" number="120">, 243. Amhassa <pageBreak edition="M" number="0.0008" /> mamaṃ savibhattissa se.</paragraph>
+    <paragraph line="132" number="121">, 233. Mayaṃ yomhi paṭhame.</paragraph>
+    <paragraph line="133" number="122">, 99. Ntussa nto.</paragraph>
+    <paragraph line="134" number="123">, 103. Ntassa se vā.</paragraph>
+    <paragraph line="135" number="124">, 98. Ā simhi.</paragraph>
+    <paragraph line="136" number="125">, 198. Aṃ napuṃsake.</paragraph>
+    <paragraph line="137" number="126">, 101. Avaṇṇā ca ge.</paragraph>
+    <paragraph line="138" number="127">, 102. To titā sasmiṃnāsu.</paragraph>
+    <paragraph line="139" number="128">, 104. Naṃmhi taṃ vā.</paragraph>
+    <paragraph line="140" number="129">, 222. Imassidamaṃsisu napuṃsake.</paragraph>
+    <paragraph line="141" number="130">, 225. Amussāduṃ.</paragraph>
+    <paragraph line="142" number="131">, 0. Itthipumanapuṃsakasaṅkhyaṃ.</paragraph>
+    <paragraph line="143" number="132">, 228. Yosu dvinnaṃ dve ca.</paragraph>
+    <paragraph line="144" number="133">, 230. Ticatunnaṃ tisso catasso tayocattāro tīṇi cattāri.</paragraph>
+    <paragraph line="145" number="134">, 251. Pañcādīnamakāro.</paragraph>
+    <paragraph line="146" number="135">, 118. Rājassā rañño rājino se.</paragraph>
+    <paragraph line="147" number="136">, 119. Raññaṃ naṃmhi vā.</paragraph>
+    <paragraph line="148" number="137">, 116. Nāmhi raññā vā.</paragraph>
+    <paragraph line="149" number="138">, 121. Smiṃmhi raññe rājini.</paragraph>
+    <paragraph line="150" number="139">, 245. Tumhamhākaṃ <pageBreak edition="M" number="0.0009" /> tayi mayi.</paragraph>
+    <paragraph line="151" number="140">, 232. Tvamahaṃ simhi ca.</paragraph>
+    <paragraph line="152" number="141">, 241. Tava mama se.</paragraph>
+    <paragraph line="153" number="142">, 242. Tuyhaṃ mayhañca.</paragraph>
+    <paragraph line="154" number="143">, 235. Taṃmamaṃmhi.</paragraph>
+    <paragraph line="155" number="144">, 234. Tavaṃmamañca na vā.</paragraph>
+    <paragraph line="156" number="145">, 238. Nāmhi tayā mayā.</paragraph>
+    <paragraph line="157" number="146">, 236. Tumhassa tuvaṃtvamamhi.</paragraph>
+    <paragraph line="158" number="147">, 246. Padato dutiyācatutthīchaṭṭhīsu vo no.</paragraph>
+    <paragraph line="159" number="148">, 247. Hemekavacanesu ca.</paragraph>
+    <paragraph line="160" number="149">, 248. Na aṃmhi.</paragraph>
+    <paragraph line="161" number="150">, 249. Vā tatiye ca.</paragraph>
+    <paragraph line="162" number="151">, 250. Bahuvacanesu vo no.</paragraph>
+    <paragraph line="163" number="152">, 136. Pumantassā simhi.</paragraph>
+    <paragraph line="164" number="153">, 138. Amālapanekavacane.</paragraph>
+    <paragraph line="165" number="154">, 0. Samāse ca vibhāsā.</paragraph>
+    <paragraph line="166" number="155">, 137. Yosvāno.</paragraph>
+    <paragraph line="167" number="156">, 142. Āne smiṃmhi vā.</paragraph>
+    <paragraph line="168" number="157">, 140. Hivibhatthimhi ca.</paragraph>
+    <paragraph line="169" number="151">, 143. Susmimā <pageBreak edition="M" number="0.0010" /> vā.</paragraph>
+    <paragraph line="170" number="159">, 139. U nāmhi ca.</paragraph>
+    <paragraph line="171" number="160">, 197. Akammantassa ca.</paragraph>
+    <centered line="172">Iti nāmakappe dutiyo kaṇḍo.</centered>
+    <paragraph line="173" number="161">, 244. Tumhamhehi namākaṃ.</paragraph>
+    <paragraph line="174" number="162">, 237. Vā yvappaṭhamo.</paragraph>
+    <paragraph line="175" number="163">, 240. Sassaṃ.</paragraph>
+    <paragraph line="176" number="164">, 200. Sabbanāmakārate paṭhamo.</paragraph>
+    <paragraph line="177" number="165">, 208. Dvandaṭṭhā vā.</paragraph>
+    <paragraph line="178" number="166">, 209. Nāññaṃ sabbanāmikaṃ.</paragraph>
+    <paragraph line="179" number="167">, 210. Bahubbīhimhi ca.</paragraph>
+    <paragraph line="180" number="168">, 203. Sabbato naṃ saṃsānaṃ.</paragraph>
+    <paragraph line="181" number="169">, 117. Rājassa rāju sunaṃ hisu ca.</paragraph>
+    <paragraph line="182" number="170">, 220. Sabbassimasse vā.</paragraph>
+    <paragraph line="183" number="171">, 219. Animi nāmhi ca.</paragraph>
+    <paragraph line="184" number="172">, 218. Anapuṃsakassā yaṃ smimhi.</paragraph>
+    <paragraph line="185" number="173">, 223. Amussa mo saṃ.</paragraph>
+    <paragraph line="186" number="174">, 211. Etatesaṃ to.</paragraph>
+    <paragraph line="187" number="175">, 212. Tassa vā nattaṃ sabbattha.</paragraph>
+    <paragraph line="188" number="176">, 213. Sasmāsmiṃsaṃsāsvattaṃ 0.0011.</paragraph>
+    <paragraph line="189" number="177">, 221. Imasaddassa ca.</paragraph>
+    <paragraph line="190" number="178">, 224. Sabbato ko.</paragraph>
+    <paragraph line="191" number="179">, 204. Ghapato smiṃ sānaṃ saṃsā.</paragraph>
+    <paragraph line="192" number="180">, 207. Netāhi smimāyayā.</paragraph>
+    <paragraph line="193" number="181">, 95. Manogaṇādito smiṃnānamiā.</paragraph>
+    <paragraph line="194" number="182">, 97. Sassa co.</paragraph>
+    <paragraph line="195" number="183">, 48. Etesamo lope.</paragraph>
+    <paragraph line="196" number="184">, 96. Sa sare vāgamo.</paragraph>
+    <paragraph line="197" number="185">, 112. Santasaddassā so bhe bo cante.</paragraph>
+    <paragraph line="198" number="186">, 107. Simhi gacchantādīnaṃ ntasaddo aṃ.</paragraph>
+    <paragraph line="199" number="187">, 108. Sesesu ntuva.</paragraph>
+    <paragraph line="200" number="188">, 155. Brahmatta sakha rājādito amānaṃ.</paragraph>
+    <paragraph line="201" number="189">, 113. Syā ca.</paragraph>
+    <paragraph line="202" number="190">, 114. Yonamāno.</paragraph>
+    <paragraph line="203" number="191">, 130. Sakhato cāyo no.</paragraph>
+    <paragraph line="204" number="192">, 135. Smime.</paragraph>
+    <paragraph line="205" number="193">, 122. Brahmato vassa ca.</paragraph>
+    <paragraph line="206" number="194">, 131. Sakhantassi nonānaṃsesu.</paragraph>
+    <paragraph line="207" number="195">, 134. Āro <pageBreak edition="M" number="0.0012" /> himhi vā.</paragraph>
+    <paragraph line="208" number="196">, 133. Sunamaṃsu vā.</paragraph>
+    <paragraph line="209" number="197">, 125. Brahmato tu smiṃni.</paragraph>
+    <paragraph line="210" number="198">, 123. Uttaṃ sanāsu.</paragraph>
+    <paragraph line="211" number="199">, 158. Satthupitādīnamā sismiṃ silopo ca.</paragraph>
+    <paragraph line="212" number="200">, 196. Aññesvārattaṃ.</paragraph>
+    <paragraph line="213" number="201">, 163. Vā naṃmhi.</paragraph>
+    <paragraph line="214" number="202">. 164. Satthunattañca.</paragraph>
+    <paragraph line="215" number="203">, 162. U sasmiṃ salopo ca.</paragraph>
+    <paragraph line="216" number="204">, 167. Sakkamandhātādīnañca.</paragraph>
+    <paragraph line="217" number="205">, 160. Tato yonamo tu.</paragraph>
+    <paragraph line="218" number="206">, 165. Tato smimi.</paragraph>
+    <paragraph line="219" number="207">, 161. Nā ā.</paragraph>
+    <paragraph line="220" number="207">, 161. Āro rassamikāre.</paragraph>
+    <paragraph line="221" number="209">, 168. Pitādīnamasimhi.</paragraph>
+    <paragraph line="222" number="210">, 239. Tayātayinaṃ takāro tvattaṃ vā.</paragraph>
+    <centered line="223">Iti nāmakappe tatiyo kaṇḍo.</centered>
+    <paragraph line="224" number="211">, 126. Attanto hismimanattaṃ.</paragraph>
+    <paragraph line="225" number="212">, 129. Tato smiṃ ni.</paragraph>
+    <paragraph line="226" number="213">, 127. Sassano.</paragraph>
+    <paragraph line="227" number="214">, 128. Smā 0.0013 nā.</paragraph>
+    <paragraph line="228" number="215">, 141. Jhalato ca.</paragraph>
+    <paragraph line="229" number="216">, 180. Ghapato smiṃyaṃ vā.</paragraph>
+    <paragraph line="230" number="217">, 199. Yonaṃ ni napuṃsakehi.</paragraph>
+    <paragraph line="231" number="218">, 196. Ato niccaṃ.</paragraph>
+    <paragraph line="232" number="219">, 195. Siṃ.</paragraph>
+    <paragraph line="233" number="220">, 74. Sesato lopaṃ gasipi.</paragraph>
+    <paragraph line="234" number="221">, 282. Sabbāsamāvusopasagganipātādīhi ca.</paragraph>
+    <paragraph line="235" number="222">, 327. Pumassa liṅgādīsu samāsesu.</paragraph>
+    <paragraph line="236" number="223">, 188. Aṃ yamīto pasaññato.</paragraph>
+    <paragraph line="237" number="224">, 153. Naṃ jhato katarassā.</paragraph>
+    <paragraph line="238" number="225">, 151. Yonaṃ no.</paragraph>
+    <paragraph line="239" number="226">, 154. Smiṃni.</paragraph>
+    <paragraph line="240" number="227">, 270. Kissa ka ve ca.</paragraph>
+    <paragraph line="241" number="228">, 272. Ku hiṃ haṃsu ca.</paragraph>
+    <paragraph line="242" number="229">, 226. Sesesu ca.</paragraph>
+    <paragraph line="243" number="230">, 262. Tra to thesu ca.</paragraph>
+    <paragraph line="244" number="231">, 263. Sabbassetassākāro vā.</paragraph>
+    <paragraph line="245" number="232">, 267. Tre niccaṃ.</paragraph>
+    <paragraph line="246" number="233">, 264. E tothesu ca.</paragraph>
+    <paragraph line="247" number="234">, 265. Imassi <pageBreak edition="M" number="0.0014" /> thaṃ dāni ha to dhesu ca.</paragraph>
+    <paragraph line="248" number="235">, 281. A dhunāmhi ca.</paragraph>
+    <paragraph line="249" number="236">, 280. Eta rahimhi.</paragraph>
+    <paragraph line="250" number="237">, 176. Itthiyamato āpaccayo.</paragraph>
+    <paragraph line="251" number="238">, 187. Nadādito vā ī.</paragraph>
+    <paragraph line="252" number="239">, 190. Ṇava ṇika ṇeyya ṇantuhi.</paragraph>
+    <paragraph line="253" number="240">, 193. Patibhikkhurājīkārantehi inī.</paragraph>
+    <paragraph line="254" number="241">, 191. Ntussa tadhīkāre.</paragraph>
+    <paragraph line="255" number="242">, 192. Bhavato bhoto.</paragraph>
+    <paragraph line="256" number="243">, 110. Bho ge tu.</paragraph>
+    <paragraph line="257" number="244">, 72. Akārapitādyantānamā.</paragraph>
+    <paragraph line="258" number="245">, 152. Jhalapā rassaṃ.</paragraph>
+    <paragraph line="259" number="246">, 73. Ākāro vā.</paragraph>
+    <centered line="260">Iti nāmakappe catuttho kaṇḍo.</centered>
+    <paragraph line="261" number="247">, 261. Tvādayo vibhattisaññāyo.</paragraph>
+    <paragraph line="262" number="248">, 260. Kvaci to pañcamyatthe.</paragraph>
+    <paragraph line="263" number="249">, 266. Tratha sattamiyā sabbanāmehi.</paragraph>
+    <paragraph line="264" number="250">, 268. Sabbato dhi.</paragraph>
+    <paragraph line="265" number="251">, 269. Kiṃsmā vo.</paragraph>
+    <paragraph line="266" number="252">, 271. Hiṃhaṃhiñcanaṃ</paragraph>
+    <paragraph line="267" number="253">, 273. Tamhā <pageBreak edition="M" number="0.0015" /> ca.</paragraph>
+    <paragraph line="268" number="254">, 274. Imasmā hadhā ca.</paragraph>
+    <paragraph line="269" number="255">, 275. Yato hiṃ.</paragraph>
+    <paragraph line="270" number="256">, 0. Kāle.</paragraph>
+    <paragraph line="271" number="257">, 276. Kiṃsabbaññekayakuhi dādācanaṃ.</paragraph>
+    <paragraph line="272" number="258">, 278. Tamhā dāni ca.</paragraph>
+    <paragraph line="273" number="259">, 279. Imasmā rahidhunādāni ca.</paragraph>
+    <paragraph line="274" number="260">, 277. Sabbassa so dāmhi vā.</paragraph>
+    <paragraph line="275" number="261">, 369. Avaṇṇo ye lopañca.</paragraph>
+    <paragraph line="276" number="262">, 391. Vuḍḍhassa jo iyiṭṭhesu.</paragraph>
+    <paragraph line="277" number="263">, 392. Pasatthassa so ca.</paragraph>
+    <paragraph line="278" number="264">, 393. Antikassa nedo.</paragraph>
+    <paragraph line="279" number="265">, 394. Bāḷhassa sādho.</paragraph>
+    <paragraph line="280" number="266">, 395. Appassa kaṇa.</paragraph>
+    <paragraph line="281" number="267">, 396. Yuvānañca.</paragraph>
+    <paragraph line="282" number="268">, 397. Vantumantuvīnañca lopo.</paragraph>
+    <paragraph line="283" number="269">, 41. Yavataṃ talaṇadakārānaṃ byañjanāni calañajakārattaṃ.</paragraph>
+    <paragraph line="284" number="270">, 120. Amha tumha ntu rāja brahmatta sakha satthu– pitādīhi smā nāva.</paragraph>
+    <centered line="285">Iti nāmakappe pañcamo kaṇḍo.</centered>
+    <centered line="286">Nāmasuttaṃ niṭṭhitaṃ.</centered>
+    <subhead line="287">3. Kāraka</subhead>
+    <paragraph line="288" number="271">, 88. Yasmā <pageBreak edition="M" number="0.0016" /> dapetiṃ bhayamādatte vā tadapādānaṃ. (308)</paragraph>
+    <paragraph line="289" number="272">, 309. Dhātunāmānamupasaggayogādīsvapi ca.</paragraph>
+    <paragraph line="290" number="273">, 310. Rakkhaṇatthānamicchitaṃ.</paragraph>
+    <paragraph line="291" number="274">, 311. Yena vā dassanaṃ</paragraph>
+    <paragraph line="292" number="275">, 312. Dūrantikaddhakāla nimmāna tvālopa disā yoga vibhattārappayoga suddhappamocanahetu vivittappamāṇapubbayoga bandhanaguṇavacana pañhakathana thokātattūsu ca.</paragraph>
+    <paragraph line="293" number="276">, 302. Yassa dātukāmo rocate dhārayate pā taṃ sampadānaṃ.</paragraph>
+    <paragraph line="294" number="277">, 303. Silāgha hanu ṭhā sapa dhāra piha kudha duhisso ssūya rādhikkha paccāsuṇa anupatigiṇa pubbakattārocanattha tadattha tumatthālamattha maññānādarappāṇini gatyatthakammaniāsisatthasammutibhiyyasattamyatthesu ca.</paragraph>
+    <paragraph line="295" number="278">, 320. Yodhāro tamokāsaṃ.</paragraph>
+    <paragraph line="296" number="279">, 292. Yena vā kayirate taṃ karaṇaṃ.</paragraph>
+    <paragraph line="297" number="280">, 285, Yaṃ karoti taṃ kammaṃ.</paragraph>
+    <paragraph line="298" number="281">, 294. Yo karoti sa kattā.</paragraph>
+    <paragraph line="299" number="282">, 295. Yo kārehi sa hetu.</paragraph>
+    <paragraph line="300" number="283">, 316. Yassa <pageBreak edition="M" number="0.0017" /> vā pariggaho taṃ sāmī.</paragraph>
+    <paragraph line="301" number="284">, 283. Liṅgatthe paṭhamā.</paragraph>
+    <paragraph line="302" number="285">, 70. Ālapane ca.</paragraph>
+    <paragraph line="303" number="286">, 291. Karaṇe tatiyā.</paragraph>
+    <paragraph line="304" number="287">, 296, Sahādiyoge ca.</paragraph>
+    <paragraph line="305" number="288">, 293. Kattari ca.</paragraph>
+    <paragraph line="306" number="289">, 297. Hetvatthe ca.</paragraph>
+    <paragraph line="307" number="290">, 298. Sattamyatthe ca.</paragraph>
+    <paragraph line="308" number="291">, 299. Yenaṅgavikāro.</paragraph>
+    <paragraph line="309" number="292">, 300. Visesane ca.</paragraph>
+    <paragraph line="310" number="293">, 301. Sampadāne catutthī.</paragraph>
+    <paragraph line="311" number="294">, 305. Namoyogādīsvapi ca.</paragraph>
+    <paragraph line="312" number="295">, 307. Apādāne pañcamī.</paragraph>
+    <paragraph line="313" number="296">, 314. Kāraṇatthe ca.</paragraph>
+    <paragraph line="314" number="297">, 284. Kammatthe dutiyā.</paragraph>
+    <paragraph line="315" number="298">. 287. Kāladdhānamaccantasaṃyoge.</paragraph>
+    <paragraph line="316" number="299">, 288. Kammappavacanīyayutte.</paragraph>
+    <paragraph line="317" number="300">, 286. Gati buddhi bhuja paṭha hara kara sayādīnaṃkā rite vā.</paragraph>
+    <paragraph line="318" number="301">, 315. Sāmismiṃ chaṭṭhī</paragraph>
+    <paragraph line="319" number="302">, 319. Okāse <pageBreak edition="M" number="0.0018" /> sattamī.</paragraph>
+    <paragraph line="320" number="303">, 321. Sāmissarādhipati dāyāda sakkhī pathibhū pasuta kusalehi ca.</paragraph>
+    <paragraph line="321" number="304">, 322. Niddhāraṇe ca.</paragraph>
+    <paragraph line="322" number="305">, 323. Anādare ca.</paragraph>
+    <paragraph line="323" number="306">, 289. Kvaci dutiyā chaṭṭhīnamatthe.</paragraph>
+    <paragraph line="324" number="307">, 290. Tatiyāsattamīnañca.</paragraph>
+    <paragraph line="325" number="308">, 317. Chaṭṭhī ca.</paragraph>
+    <paragraph line="326" number="309">, 318. Dutiyāpañcamīnañca.</paragraph>
+    <paragraph line="327" number="310">, 324. Kammakaraṇanimittatthesu sattamī.</paragraph>
+    <paragraph line="328" number="311">, 325. Sampadāne ca.</paragraph>
+    <paragraph line="329" number="312">, 326. Pañcamyatthe ca.</paragraph>
+    <paragraph line="330" number="313">, 327. Kālabhāvesu ca.</paragraph>
+    <paragraph line="331" number="314">, 328. Upa’dhyādhikissaravacane.</paragraph>
+    <paragraph line="332" number="315">, 329. Maṇḍitussukkesu tatiyā ca.</paragraph>
+    <centered line="333">Iti nāmakappe kārakakappo chaṭṭho kaṇḍo.</centered>
+    <centered line="334">Kārakasuttaṃ niṭṭhitaṃ.</centered>
+    <subhead line="335">4. Samāsa</subhead>
+    <paragraph line="336" number="316">, 331. Nāmāna samāso yuttattho.</paragraph>
+    <paragraph line="337" number="317">, 332. Tesaṃ vibhattiyo lopā ca.</paragraph>
+    <paragraph line="338" number="318">, 333. Pakati cassa sarantassa.</paragraph>
+    <paragraph line="339" number="319">, 330. Upasagganipātapubbako <pageBreak edition="M" number="0.0019" /> abyayībhāvo.</paragraph>
+    <paragraph line="340" number="320">, 335. So napuṃsakaliṅgo.</paragraph>
+    <paragraph line="341" number="321">. 349. Digussekattaṃ.</paragraph>
+    <paragraph line="342" number="322">, 359. Tathā dvande pāṇi tūriye yogga senaṅga khuddajantuka vividha viruddha visabhāgatthādīnañca.</paragraph>
+    <paragraph line="343" number="323">, 360. Vibhāsā rukkha tiṇa pasu dhana dhañña janapadā dīnañca.</paragraph>
+    <paragraph line="344" number="324">, 339. Dvipade tulyādhikaraṇe kammadhārayo.</paragraph>
+    <paragraph line="345" number="325">, 348. Saṅkhyāpubbo digu.</paragraph>
+    <paragraph line="346" number="326">, 341. Ubhe tappurisā.</paragraph>
+    <paragraph line="347" number="327">, 351. Amādayo parapadebhi.</paragraph>
+    <paragraph line="348" number="328">, 352. Aññapadatthesu bahubbīhi.</paragraph>
+    <paragraph line="349" number="329">, 357. Nāmānaṃ samuccayo dvando.</paragraph>
+    <paragraph line="350" number="330">, 340. Mahataṃ mahā tulyādhikaraṇe pade.</paragraph>
+    <paragraph line="351" number="331">, 353. Itthiyaṃ bhāsitapumitthī pumāva ce.</paragraph>
+    <paragraph line="352" number="332">, 343. Kammadhārayasaññe ca.</paragraph>
+    <paragraph line="353" number="333">, 344. Attaṃ nassa tappurise.</paragraph>
+    <paragraph line="354" number="334">, 345. Sare ana.</paragraph>
+    <paragraph line="355" number="335">, 346. Kadi kussa.</paragraph>
+    <paragraph line="356" number="336">, 347. Kā’ppatthesu ca.</paragraph>
+    <paragraph line="357" number="337">, 350. Kvaci <pageBreak edition="M" number="0.0020" /> samāsanta gatānamakāranto.</paragraph>
+    <paragraph line="358" number="338">, 356. Nadimhā ca.</paragraph>
+    <paragraph line="359" number="339">, 358. Jāyāya tudaṃ jāni patimhi.</paragraph>
+    <paragraph line="360" number="340">, 355. Dhanumhā ca.</paragraph>
+    <paragraph line="361" number="341">, 336. Aṃvibhattīnamakārantā abyāyitāvā.</paragraph>
+    <paragraph line="362" number="342">, 337. Saro rasso napuṃsake.</paragraph>
+    <paragraph line="363" number="343">, 338. Aññasmā lopo ca.</paragraph>
+    <centered line="364">Iti nāmakappe samāsakappo sattamo kaṇḍo.</centered>
+    <centered line="365">Samāsasutthaṃ niṭṭhitaṃ.</centered>
+    <subhead line="366">5. Taddhita</subhead>
+    <paragraph line="367" number="244">, 361. Vā ṇā’pacce.</paragraph>
+    <paragraph line="368" number="345">, 366. Ṇāyana ṇāna vacchādito.</paragraph>
+    <paragraph line="369" number="346">, 367. Ṇeyyo kattiyādīhi.</paragraph>
+    <paragraph line="370" number="347">, 368. Ato ṇi vā.</paragraph>
+    <paragraph line="371" number="348">, 371. Ṇavopakvādīhi.</paragraph>
+    <paragraph line="372" number="349">, 372. Ṇera vidhavādito.</paragraph>
+    <paragraph line="373" number="350">, 373. Yena vā saṃsaṭṭhaṃ tarati carati vahati ṇiko.</paragraph>
+    <paragraph line="374" number="351">, 374. Tamadhīte tenakatādhi sannidhānaniyoga sippa bhaṇḍa jīvikatthesu ca.</paragraph>
+    <paragraph line="375" number="352">, 376. Ṇa <pageBreak edition="M" number="0.0021" /> rāgā tassedamaññatthesu ca.</paragraph>
+    <paragraph line="376" number="353">, 378. Jātādīnamimiyā ca.</paragraph>
+    <paragraph line="377" number="354">, 379. Samūhatthe kaṇa ṇā.</paragraph>
+    <paragraph line="378" number="355">, 380. Gāma jana bandhu sahāyādīhi tā.</paragraph>
+    <paragraph line="379" number="356">, 381. Tadassa ṭhānamiyo ca.</paragraph>
+    <paragraph line="380" number="357">, 382. Upamatthāyitattaṃ.</paragraph>
+    <paragraph line="381" number="358">, 383. Tannissitatthe lo.</paragraph>
+    <paragraph line="382" number="359">, 384. Ālu tabbahule.</paragraph>
+    <paragraph line="383" number="360">, 387. Ṇuttatā bhāve tu.</paragraph>
+    <paragraph line="384" number="361">, 388. Ṇa visamādīhi.</paragraph>
+    <paragraph line="385" number="362">, 389. Ramaṇīyādito kaṇa</paragraph>
+    <paragraph line="386" number="363">, 390. Visese taratamisikiyiṭṭhā.</paragraph>
+    <paragraph line="387" number="364">, 398. Tadassatthīti vī ca.</paragraph>
+    <paragraph line="388" number="365">, 399. Tapādito sī.</paragraph>
+    <paragraph line="389" number="366">, 400. Daṇḍādito ika ī.</paragraph>
+    <paragraph line="390" number="367">, 401. Madhvādito ro.</paragraph>
+    <paragraph line="391" number="368">, 402. Guṇādito vantu.</paragraph>
+    <paragraph line="392" number="369">, 403. Satyādīhi mantu.</paragraph>
+    <paragraph line="393" number="370">, 405. Saddhādito ṇa.</paragraph>
+    <paragraph line="394" number="371">, 404. Āyussukārāsa mantumhi.</paragraph>
+    <paragraph line="395" number="372">, 385. Tappakativacane <pageBreak edition="M" number="0.0022" /> mayo.</paragraph>
+    <paragraph line="396" number="373">, 406. Saṅkhyāpūraṇe mo.</paragraph>
+    <paragraph line="397" number="374">, 408. Sa chassa vā.</paragraph>
+    <paragraph line="398" number="375">, 412. Ekādito dasassī.</paragraph>
+    <paragraph line="399" number="376">, 257. Dase so niccañca.</paragraph>
+    <paragraph line="400" number="377">, 0. Ante niggahitañca.</paragraph>
+    <paragraph line="401" number="378">, 414. Ti ca.</paragraph>
+    <paragraph line="402" number="379">, 258. La da rānaṃ.</paragraph>
+    <paragraph line="403" number="380">, 255. Vīsati dasesu bā dvissa tu.</paragraph>
+    <paragraph line="404" number="381">, 254. Ekādito dassa ra saṅkhyāne.</paragraph>
+    <paragraph line="405" number="382">, 259. Aṭṭhādito ca.</paragraph>
+    <paragraph line="406" number="383">, 353. Dvekaṭṭhānamākāro vā.</paragraph>
+    <paragraph line="407" number="384">, 407. Catucche hi tha ṭhā.</paragraph>
+    <paragraph line="408" number="385">, 409. Dvitīhi tiyo.</paragraph>
+    <paragraph line="409" number="386">, 410. Tiye dutāpi ca.</paragraph>
+    <paragraph line="410" number="387">, 411. Tesamaḍḍhūpapadena aḍḍhuḍḍhadivaḍḍha diyaḍḍha’ ḍḍhatiyā.</paragraph>
+    <paragraph line="411" number="388">, 68. Sarūpāna mekasesvasakiṃ.</paragraph>
+    <paragraph line="412" number="389">, 413. Gaṇanedasassa dvi ti catu pañca cha satta aṭṭhanavakānaṃ vī ti cattāra paññā cha sattāsanavā yosu yonañcīsamāsaṃṭhiritītuti.</paragraph>
+    <paragraph line="413" number="390">, 256. Catūpapadassa <pageBreak edition="M" number="0.0023" /> lopo tu’ttarapadādicassa cu copi navā.</paragraph>
+    <paragraph line="414" number="391">, 423. Yadanupapannā nipātanā sijjhanti.</paragraph>
+    <paragraph line="415" number="392">, 418. Dvādito ko’nekatthe ca.</paragraph>
+    <paragraph line="416" number="393">, 415. Dasadasakaṃ sataṃ dasakānaṃ sataṃ sahassañca yomhi.</paragraph>
+    <paragraph line="417" number="394">, 416. Yāva taduttari dasaguṇitañca.</paragraph>
+    <paragraph line="418" number="395">, 417. Sakanāmehi.</paragraph>
+    <paragraph line="419" number="396">, 363. Tesaṃ ṇo lopaṃ.</paragraph>
+    <paragraph line="420" number="397">, 420. Vibhāge dhā ca.</paragraph>
+    <paragraph line="421" number="398">, 421. Sabbanāmehi pakāravacane tu thā.</paragraph>
+    <paragraph line="422" number="399">, 422. Kimimehi thaṃ.</paragraph>
+    <paragraph line="423" number="400">, 364. Vuddhādisarassa vā’saṃyogantassa saṇe ca.</paragraph>
+    <paragraph line="424" number="401">, 375. Māyūnamāgamo ṭhāne.</paragraph>
+    <paragraph line="425" number="402">. 377. Āttañca.</paragraph>
+    <paragraph line="426" number="403">, 354. Kvacādimajjhuttarānaṃ dīgharassa paccayesu ca.</paragraph>
+    <paragraph line="427" number="404">, 370. Tesu vuddhi lopāgama vikāra viparitādesā ca.</paragraph>
+    <paragraph line="428" number="405">, 365. Ayuvaṇṇānañcāyo vuddhi.</paragraph>
+    <centered line="429">Iti nāmakappe taddhitakappo aṭṭhamo kaṇḍo.</centered>
+    <centered line="430">Taddhitasuttaṃ niṭṭhitaṃ.</centered>
+    <subhead line="431">6. Ākhyāti</subhead>
+    <paragraph line="432" number="406">, 429. Atha <pageBreak edition="M" number="0.0024" /> pubbāni-vibhattīnaṃ cha parassapadāni.</paragraph>
+    <paragraph line="433" number="407">, 439. Parāṇuttanopadāni.</paragraph>
+    <paragraph line="434" number="408">, 430. Dve dve paṭhamamajjhimuttamapurisā.</paragraph>
+    <paragraph line="435" number="409">, 441. Sabbesamekābhidhāne paro puriso.</paragraph>
+    <paragraph line="436" number="410">, 432. Nāmamhi payujjamānepi tulyādhikaraṇe paṭhamo.</paragraph>
+    <paragraph line="437" number="411">, 436. Tumhe majjhimo.</paragraph>
+    <paragraph line="438" number="412">, 437. Amhe uttamo.</paragraph>
+    <paragraph line="439" number="413">, 426. Kāle.</paragraph>
+    <paragraph line="440" number="414">, 428. Vattamānā paccuppanne.</paragraph>
+    <paragraph line="441" number="415">, 451. Āṇātyāsiṭṭhe’nuttakāle pañcamī.</paragraph>
+    <paragraph line="442" number="416">, 454. Anumatiparikappetthesu sattamī.</paragraph>
+    <paragraph line="443" number="417">, 460. Apaccakkhe parokkhā’tīte.</paragraph>
+    <paragraph line="444" number="418">, 456. Hiyyopabhuti paccakkhe hiyyattanī.</paragraph>
+    <paragraph line="445" number="419">, 469. Samīpe’jjatanī.</paragraph>
+    <paragraph line="446" number="420">, 471. Māyoge sabbakāle ca.</paragraph>
+    <paragraph line="447" number="421">, 473. Anāgate bhavissantī.</paragraph>
+    <paragraph line="448" number="422">, 475. Kriyātipanne’tīte kālātipatti.</paragraph>
+    <paragraph line="449" number="423">, 426. Vattamānā tī anti, si tha, mi ma te ante, sevhe, e mhe.</paragraph>
+    <paragraph line="450" number="424">, 450. Pañcamī <pageBreak edition="M" number="0.0025" /> tu antu, hi tha, mi ma, taṃ antaṃ, ssu vho, e āmase.</paragraph>
+    <paragraph line="451" number="425">, 453. Sattamī eyya eyyuṃ, eyyāsi eyyātha, eyyāmi eyyāma, etha eraṃ, etho eyyāvho, eyyaṃ eyyāmhe.</paragraph>
+    <paragraph line="452" number="426">, 459. Parokkhā a u, e ttha, aṃ mha, ttha re, ttho vho, iṃ mhe.</paragraph>
+    <paragraph line="453" number="427">, 455. Hiyyattanī ā ū, o ttha, aṃ mhā, ttha tthuṃ, sevhaṃ, iṃ mhase.</paragraph>
+    <paragraph line="454" number="427">, 468. Ajjatanī īñaṃ ottha, iṃ mhā, ā ū, se vhaṃ, aṃ mhe.</paragraph>
+    <paragraph line="455" number="429">, 472. Ssavissantī ssati ssanti, ssasi ssatha, ssāmi ssāma, ssate ssante, ssase ssavhe, ssaṃ ssāmhe.</paragraph>
+    <paragraph line="456" number="430">, 474. Kālātipatti ssā ssaṃsu, sse ssatha, ssaṃ ssāmā, ssatha ssisu, ssase ssavhe, ssiṃ ssāmhase.</paragraph>
+    <paragraph line="457" number="431">, 428. Hiyyattanī sattamī pañcamī vattamānā sabbadhātukaṃ.</paragraph>
+    <centered line="458">Iti ākhyātakappe paṭhamo kaṇḍo.</centered>
+    <paragraph line="459" number="432">, 362. Dhātuliṅgehi parā paccayā.</paragraph>
+    <paragraph line="460" number="433">, 528. Tijagupakitamānehi khachasā vā.</paragraph>
+    <paragraph line="461" number="434">, 534. Bhujaghasaharasupādīhitumicchatthesu.</paragraph>
+    <paragraph line="462" number="435">, 536. Āya <pageBreak edition="M" number="0.0026" /> nāmato kattūpamānādācāre.</paragraph>
+    <paragraph line="463" number="436">, 537. Īyū’pamānā ca.</paragraph>
+    <paragraph line="464" number="437">, 538. Nāmamhā’tticchatthe.</paragraph>
+    <paragraph line="465" number="438">, 540. Dhātūhi ṇe ṇaya ṇāpe ṇāpayā kāritāni hetvatthe.</paragraph>
+    <paragraph line="466" number="439">, 539. Dhāturūpe nāmasmā ṇa yo ca.</paragraph>
+    <paragraph line="467" number="440">, 445. Bhāvakammesu yo.</paragraph>
+    <paragraph line="468" number="441">, 447. Tassa cavaggayakāravakārattaṃ sadhātvantassa.</paragraph>
+    <paragraph line="469" number="442">, 448. Ivaṇṇāgamo vā.</paragraph>
+    <paragraph line="470" number="443">, 449. Pubbarūpañca.</paragraph>
+    <paragraph line="471" number="444">, 511. Tathā kattari ca.</paragraph>
+    <paragraph line="472" number="445">, 433. Bhūvādito a.</paragraph>
+    <paragraph line="473" number="446">, 509. Rudhādito niggahitapubbañca.</paragraph>
+    <paragraph line="474" number="447">, 510. Divādito yo.</paragraph>
+    <paragraph line="475" number="448">, 512. Svādito ṇuṇā uṇā ca.</paragraph>
+    <paragraph line="476" number="449">, 513. Kiyādito nā.</paragraph>
+    <paragraph line="477" number="450">, 517. Gahādito ppaṇhā.</paragraph>
+    <paragraph line="478" number="451">, 520. Tanādito oyirā.</paragraph>
+    <paragraph line="479" number="452">, 525. Curādito ṇe ṇayā.</paragraph>
+    <paragraph line="480" number="453">, 444. Attanopadāni bhāve ca kammani.</paragraph>
+    <paragraph line="481" number="454">, 440. Kattari ca.</paragraph>
+    <paragraph line="482" number="455">, 530. Dhātuppaccayehi <pageBreak edition="M" number="0.0027" /> vibhattiyo.</paragraph>
+    <paragraph line="483" number="456">, 420. Kattari parassapadaṃ.</paragraph>
+    <paragraph line="484" number="457">, 424. Bhūvādayo dhātavo.</paragraph>
+    <centered line="485">Iti ākhyātakappe dutiyo kaṇḍo.</centered>
+    <paragraph line="486" number="458">, 461. Kvacādivaṇṇānamekassarānaṃ dvebhāvo.</paragraph>
+    <paragraph line="487" number="459">, 462. Pubbo’ bbhāso.</paragraph>
+    <paragraph line="488" number="460">, 506. Rasso.</paragraph>
+    <paragraph line="489" number="461">, 464. Dutiyacatutthānaṃ paṭhamatatiyā.</paragraph>
+    <paragraph line="490" number="462">, 467. Kavaggassa cavaggo.</paragraph>
+    <paragraph line="491" number="463">, 532. Mānakitānaṃ va tattaṃ vā.</paragraph>
+    <paragraph line="492" number="464">, 504. Hassa jo.</paragraph>
+    <paragraph line="493" number="465">, 463. Antassivaṇṇākāro vā.</paragraph>
+    <paragraph line="494" number="466">, 489. Niggahitañca.</paragraph>
+    <paragraph line="495" number="467">, 533. Tato pāmānānaṃ vāmaṃ sesu.</paragraph>
+    <paragraph line="496" number="468">, 492. Ṭhā tiṭṭho.</paragraph>
+    <paragraph line="497" number="469">, 494. Pā pivo.</paragraph>
+    <paragraph line="498" number="470">, 514. Ñāssa jājaṃnā.</paragraph>
+    <paragraph line="499" number="471">, 483. Disassa passa dissa dakkhā vā.</paragraph>
+    <paragraph line="500" number="472">, 531. Byañjanantassa co chappaccayesu ca.</paragraph>
+    <paragraph line="501" number="473">, 529. Ko khe ca.</paragraph>
+    <paragraph line="502" number="474">, 535. Harassa gī se.</paragraph>
+    <paragraph line="503" number="475">, 465. Brūbhūnamāhabhūvā <pageBreak edition="M" number="0.0028" /> parokkhāyaṃ.</paragraph>
+    <paragraph line="504" number="476">, 442. Gamissanto ccho vā sabbāsu.</paragraph>
+    <paragraph line="505" number="477">, 479. Vacassa’jjatanimhi makārā o.</paragraph>
+    <paragraph line="506" number="478">, 438. Akāro dīghaṃ himimesu.</paragraph>
+    <paragraph line="507" number="479">, 452. Hi lopaṃ vā.</paragraph>
+    <paragraph line="508" number="480">, 490. Hotissare’ ho’he bhavissantimhi sassa ca.</paragraph>
+    <paragraph line="509" number="481">, 524. Karassa sappaccayassa kāho.</paragraph>
+    <centered line="510">Iti ākhyātakappe tatiyo kaṇḍo.</centered>
+    <paragraph line="511" number="482">, 508. Dādantassaṃ mimesu.</paragraph>
+    <paragraph line="512" number="483">, 527. Asaṃyogantassa vuddhi kārite.</paragraph>
+    <paragraph line="513" number="484">, 542. Ghaṭādīnaṃ vā.</paragraph>
+    <paragraph line="514" number="485">, 434. Aññesu ca.</paragraph>
+    <paragraph line="515" number="486">, 543. Guhadusānaṃ dīghaṃ.</paragraph>
+    <paragraph line="516" number="487">, 478. Vaca vasa vahādīnamukāro vassaye.</paragraph>
+    <paragraph line="517" number="488">, 481. Ha vipariyayo lo vā.</paragraph>
+    <paragraph line="518" number="489">, 519. Gahassa ghe ppe.</paragraph>
+    <paragraph line="519" number="490">, 518. Halopo ṇhāmhi.</paragraph>
+    <paragraph line="520" number="491">, 523. Karassa kāsattamajjatanimhi.</paragraph>
+    <paragraph line="521" number="492">, 499. Asasmā mimānaṃ mimhā’ntalopo ca.</paragraph>
+    <paragraph line="522" number="493">, 498. Thassa tthatthaṃ.</paragraph>
+    <paragraph line="523" number="494">, 495. Tissa <pageBreak edition="M" number="0.0029" /> tissa tthitthaṃ.</paragraph>
+    <paragraph line="524" number="495">, 500. Tussa tthuttaṃ.</paragraph>
+    <paragraph line="525" number="496">, 497. Simhi ca.</paragraph>
+    <paragraph line="526" number="497">, 477. Labhasmā īaṃnaṃ tthattaṃ.</paragraph>
+    <paragraph line="527" number="498">, 480. Kusasmā dī cchi.</paragraph>
+    <paragraph line="528" number="499">, 480. Dā dhātussa dajjaṃ.</paragraph>
+    <paragraph line="529" number="500">, 486. Vadassa vajjaṃ.</paragraph>
+    <paragraph line="530" number="501">, 443. Gamissa ghammaṃ.</paragraph>
+    <paragraph line="531" number="502">, 493. Yamhi dā dhā mā ṭhā hā pā maha mathādīnamī.</paragraph>
+    <paragraph line="532" number="503">, 485. Yajassādissi.</paragraph>
+    <paragraph line="533" number="504">, 470. Sabbato uṃ iṃsu.</paragraph>
+    <paragraph line="534" number="505">, 482. Jaramarānaṃ jīra jīyya mīyyā vā.</paragraph>
+    <paragraph line="535" number="506">, 496. Sabbatthā’sassādilopo ca.</paragraph>
+    <paragraph line="536" number="507">, 501. Asabbadhātuke ñā.</paragraph>
+    <paragraph line="537" number="508">, 515. Yyessa ñāto iyā ñā.</paragraph>
+    <paragraph line="538" number="509">, 516. Nāssa lopo yakārattaṃ.</paragraph>
+    <paragraph line="539" number="510">, 487. Lopañcettamakāro.</paragraph>
+    <paragraph line="540" number="511">, 521. Uttamokāro.</paragraph>
+    <paragraph line="541" number="512">, 522. Karassākāro ca.</paragraph>
+    <paragraph line="542" number="513">, 435. O ava sare.</paragraph>
+    <paragraph line="543" number="514">, 491. E aya.</paragraph>
+    <paragraph line="544" number="515">, 541. Te <pageBreak edition="M" number="0.0030" /> āvāyā kārite.</paragraph>
+    <paragraph line="545" number="516">, 466. Ikārāgamo asabbadhātukamhi.</paragraph>
+    <paragraph line="546" number="517">, 488. Kvaci dhātuvibhattippaccayānaṃ dīghaviparītādesa lopāgamā ca.</paragraph>
+    <paragraph line="547" number="518">, 446. Attanopadāni parassapadattaṃ.</paragraph>
+    <paragraph line="548" number="519">, 457. Akārāgamo hiyyatthanīajjatanīkālātipattīsu.</paragraph>
+    <paragraph line="549" number="520">, 502. Brūto ī timhi.</paragraph>
+    <paragraph line="550" number="521">, 425. Dhātussanto lopo’ nekasarassa.</paragraph>
+    <paragraph line="551" number="522">, 476. Isuyamūnamanto ccho vā.</paragraph>
+    <paragraph line="552" number="523">, 526. Kāritānaṃ ṇo lopaṃ.</paragraph>
+    <centered line="553">Iti ākhyātakappe catuttho kaṇḍo.</centered>
+    <centered line="554">Ākhyātasuttaṃ niṭṭhitaṃ.</centered>
+    <subhead line="555">7. Kibbidhāna</subhead>
+    <paragraph line="556" number="524">, 561. Dhātuyā kammādimhi ṇo.</paragraph>
+    <paragraph line="557" number="525">, 565. Saññāyama nu.</paragraph>
+    <paragraph line="558" number="526">, 567. Pure dadā ca iṃ.</paragraph>
+    <paragraph line="559" number="527">, 568. Sabbato ṇvutvā’vī vā.</paragraph>
+    <paragraph line="560" number="528">, 577. Visa ruja padādito ṇa.</paragraph>
+    <paragraph line="561" number="529">, 580. Bhāve ca.</paragraph>
+    <paragraph line="562" number="530">, 584. Kvi ca.</paragraph>
+    <paragraph line="563" number="531">, 589. Dharādīhi <pageBreak edition="M" number="0.0031" /> rammo.</paragraph>
+    <paragraph line="564" number="532">, 590. Tassīlādīsu ṇī tvā vī ca.</paragraph>
+    <paragraph line="565" number="533">, 591. Sadda kudha cala maṇḍattha rucādīhi yu.</paragraph>
+    <paragraph line="566" number="534">, 592. Pārādigamimhā rū.</paragraph>
+    <paragraph line="567" number="535">, 593. Bhikkhādito ca.</paragraph>
+    <paragraph line="568" number="536">, 594. Hanatyādīnaṃ ṇuko.</paragraph>
+    <paragraph line="569" number="537">, 566. Nu niggahitaṃ padante.</paragraph>
+    <paragraph line="570" number="538">, 595. Saṃhanā’ññāya vā ro gho.</paragraph>
+    <paragraph line="571" number="539">, 558. Ramhi ranto rādino.</paragraph>
+    <paragraph line="572" number="540">, 545. Bhāvakammesu tabbā’nīyā.</paragraph>
+    <paragraph line="573" number="541">, 552. Ṇyo ca.</paragraph>
+    <paragraph line="574" number="542">, 557. Karamhā ricca.</paragraph>
+    <paragraph line="575" number="543">, 555. Bhūto’bba.</paragraph>
+    <paragraph line="576" number="544">, 556. Vada mada gamu yuja garahākārādīhi jja mmaggayheyyāvāro vā.</paragraph>
+    <paragraph line="577" number="545">, 548. Te kiccā.</paragraph>
+    <paragraph line="578" number="546">, 562. Aññe kitta.</paragraph>
+    <paragraph line="579" number="547">, 596. Nandādīhi yu.</paragraph>
+    <paragraph line="580" number="548">, 597. Kattukaraṇapadesesu ca.</paragraph>
+    <paragraph line="581" number="549">, 550. Rahādito ṇa.</paragraph>
+    <centered line="582">Iti kibbidhānakappe paṭhamo kaṇḍo.</centered>
+    <paragraph line="583" number="550">, 549. Ṇādayo <pageBreak edition="M" number="0.0032" /> tekālikā.</paragraph>
+    <paragraph line="584" number="551">, 598. Saññāyaṃ dādhāto i.</paragraph>
+    <paragraph line="585" number="552">, 609. Ti kiccā’siṭṭhe.</paragraph>
+    <paragraph line="586" number="553">, 599. Itthiyamatiyavo vā.</paragraph>
+    <paragraph line="587" number="554">, 601. Karato ririya.</paragraph>
+    <paragraph line="588" number="555">, 612. Atīte ta tavantu tāvī.</paragraph>
+    <paragraph line="589" number="556">, 622. Bhāvakammesu ta.</paragraph>
+    <paragraph line="590" number="557">, 606. Budhagamāditthe kattari.</paragraph>
+    <paragraph line="591" number="558">, 602. Jito ina sabbattha.</paragraph>
+    <paragraph line="592" number="559">, 603. Supato ca.</paragraph>
+    <paragraph line="593" number="560">, 604. Īsaṃdusūhi kha.</paragraph>
+    <paragraph line="594" number="561">, 636. Icchatthesu samānakattukesu tave tuṃ vā.</paragraph>
+    <paragraph line="595" number="562">, 638. Arahasakkādīsu ca.</paragraph>
+    <paragraph line="596" number="563">, 639. Pattavacane alamatthesu ca.</paragraph>
+    <paragraph line="597" number="564">, 640. Pubbakāle’kakattukānaṃ tuna tvāna tvā vā.</paragraph>
+    <paragraph line="598" number="565">, 646. Vattamāne māna’ntā.</paragraph>
+    <paragraph line="599" number="566">, 574. Sāsādīhi ratthu.</paragraph>
+    <paragraph line="600" number="567">, 575. Pātito ritu.</paragraph>
+    <paragraph line="601" number="568">, 576. Mānādīhi <pageBreak edition="M" number="0.0033" /> rātu.</paragraph>
+    <paragraph line="602" number="569">, 610. Āgamā tuko.</paragraph>
+    <paragraph line="603" number="570">, 611. Bhabbe ika.</paragraph>
+    <centered line="604">Iti kibbidhānakappe dutiyo kaṇḍo.</centered>
+    <paragraph line="605" number="571">, 624. Paccayādaniṭṭhā nipātanā sijjhanti.</paragraph>
+    <paragraph line="606" number="572">, 625. Sāsadisato tassa riṭṭho ca.</paragraph>
+    <paragraph line="607" number="573">, 626. Sādisanta puccha bhanja hantādīhi ṭṭho.</paragraph>
+    <paragraph line="608" number="574">, 613. Vasato uttha.</paragraph>
+    <paragraph line="609" number="575">, 614. Vasa vāvu.</paragraph>
+    <paragraph line="610" number="576">, 607. Dha ḍha bha he hi dhaḍḍhā ca.</paragraph>
+    <paragraph line="611" number="577">, 628. Bhanjato ggo ca.</paragraph>
+    <paragraph line="612" number="578">, 560. Bhujādīnamanto no dvi ca.</paragraph>
+    <paragraph line="613" number="579">, 629. Vaca vā vu.</paragraph>
+    <paragraph line="614" number="580">, 630. Gupādīnañca.</paragraph>
+    <paragraph line="615" number="581">, 616. Tarādīhi iṇṇo.</paragraph>
+    <paragraph line="616" number="582">, 631. Bhidādito inna anna īṇā vā.</paragraph>
+    <paragraph line="617" number="583">, 617. Susa paca sakato kkha kkā ca.</paragraph>
+    <paragraph line="618" number="584">, 618. Pakkamādīhi nto ca.</paragraph>
+    <paragraph line="619" number="585">, 619. Janādīna mā timhi ca.</paragraph>
+    <paragraph line="620" number="586">, 600. Gama khana hana ramādīnamanto.</paragraph>
+    <paragraph line="621" number="587">, 632. Rakāro ca.</paragraph>
+    <paragraph line="622" number="588">, Ṭhāpānamiī <pageBreak edition="M" number="0.0034" /> ca.</paragraph>
+    <paragraph line="623" number="589">, 621. Hantehi ho hassa ḷo vā adahanahānaṃ.</paragraph>
+    <centered line="624">Iti kibbidhānakappe tatiyo kaṇḍo.</centered>
+    <paragraph line="625" number="590">, 579. Ṇamhi ranjassa jo bhāvakaraṇesu.</paragraph>
+    <paragraph line="626" number="591">, 544. Hanassa ghāto.</paragraph>
+    <paragraph line="627" number="592">, 503. Vadho vā sabbattha.</paragraph>
+    <paragraph line="628" number="593">, 564. Ākārantānamāyo.</paragraph>
+    <paragraph line="629" number="594">, 582. Purasamupaparīhi karotissa kha kharā vā tappaccayesu ca.</paragraph>
+    <paragraph line="630" number="595">, 637. Tavetunādīsu kā.</paragraph>
+    <paragraph line="631" number="596">, 551. Gamakhanahanādīnaṃ tuṃtabbādīsu na.</paragraph>
+    <paragraph line="632" number="597">, 641. Sabbehi tunādīnaṃ yo.</paragraph>
+    <paragraph line="633" number="598">, 643. Canantehi raccaṃ.</paragraph>
+    <paragraph line="634" number="599">, 644. Disā svānasvantalopo ca.</paragraph>
+    <paragraph line="635" number="600">, 645. Mahadabhehi mma yha jja bbha ddhā ca.</paragraph>
+    <paragraph line="636" number="601">, 334. Taddhitasamāsakitakā nāmaṃ vā’tavetunādīsu ca.</paragraph>
+    <paragraph line="637" number="602">, 6. Dumhi garu.</paragraph>
+    <paragraph line="638" number="603">, 7. Dīgho <pageBreak edition="M" number="0.0035" /> ca.</paragraph>
+    <paragraph line="639" number="604">, 684. Akkharehi kāra.</paragraph>
+    <paragraph line="640" number="605">, 547. Yathāgamamikāro.</paragraph>
+    <paragraph line="641" number="606">, 642. Dadhantato yo kvaci.</paragraph>
+    <centered line="642">Iti kibbidhānakappe catuttho kaṇḍo.</centered>
+    <paragraph line="643" number="607">, 578. Niggahita saṃyogādi no.</paragraph>
+    <paragraph line="644" number="608">, 623. Sabbattha ge hī.</paragraph>
+    <paragraph line="645" number="609">, 484. Sadassa sīdatthaṃ.</paragraph>
+    <paragraph line="646" number="610">, 627. Yajassa sarassi ṭṭhe.</paragraph>
+    <paragraph line="647" number="611">, 608. Hacatutthānamantānaṃ do dhe.</paragraph>
+    <paragraph line="648" number="612">, 615. Ḍho ḍhakāre.</paragraph>
+    <paragraph line="649" number="613">, 583. Gahassa ghara ṇe vā.</paragraph>
+    <paragraph line="650" number="614">, 581. Dahassa do ḷaṃ.</paragraph>
+    <paragraph line="651" number="615">, 586. Dhātvantassa lopo kvimhi.</paragraph>
+    <paragraph line="652" number="616">, 587. Vidante ū.</paragraph>
+    <paragraph line="653" number="617">, 633. Na ma ka rānamantānaṃ niyuttatamhi.</paragraph>
+    <paragraph line="654" number="618">, 571. Na ka vatthaṃ ca jā ṇvumhi.</paragraph>
+    <paragraph line="655" number="619">, 573. Karassa ca tattaṃ thusmiṃ.</paragraph>
+    <paragraph line="656" number="620">, 549. Tuṃtunatabbesu vā.</paragraph>
+    <paragraph line="657" number="621">, 553. Kāritaṃ <pageBreak edition="M" number="0.0036" /> viya ṇānubandho.</paragraph>
+    <paragraph line="658" number="622">, 570. Anakā yu ṇvūnaṃ.</paragraph>
+    <paragraph line="659" number="623">, 554. Ka gā ca jānaṃ.</paragraph>
+    <centered line="660">Iti kibbidhānakappe pañcamo kaṇḍo.</centered>
+    <centered line="661">Kibbidhānasuttaṃ niṭṭhitaṃ.</centered>
+    <subhead line="662">8. Uṇādikappa</subhead>
+    <paragraph line="663" number="624">, 563. Kattari kitta.</paragraph>
+    <paragraph line="664" number="625">, 605. Bhāvakammesu kiccattakkhatthā.</paragraph>
+    <paragraph line="665" number="626">, 634. Kammani dutiyāya tto.</paragraph>
+    <paragraph line="666" number="627">, 652. Khyādīhi mana ma ca to vā.</paragraph>
+    <paragraph line="667" number="628">, 653. Samādīhi thamā.</paragraph>
+    <paragraph line="668" number="629">, 569. Gahassu’padhasse vā.</paragraph>
+    <paragraph line="669" number="630">, 654. Masussa sussa ccharaccherā.</paragraph>
+    <paragraph line="670" number="631">, 655. Āpubbacarassa ca.</paragraph>
+    <paragraph line="671" number="632">, 656. Ala kala salehi la yā.</paragraph>
+    <paragraph line="672" number="633">, 657. Yāṇa lāṇā.</paragraph>
+    <paragraph line="673" number="634">, 658. Mathissa thassa lo ca.</paragraph>
+    <paragraph line="674" number="635">, 559. Pesātisaggapattakālesu kiccā.</paragraph>
+    <paragraph line="675" number="636">, 659. Avassakādhamiṇesu ṇī ca.</paragraph>
+    <paragraph line="676" number="637">, 0. Arahasakkādīhi tuṃ.</paragraph>
+    <paragraph line="677" number="638">, 668. Vajādīhi pabbajjādayo nippajjante.</paragraph>
+    <paragraph line="678" number="639">, 585. Kvilopo <pageBreak edition="M" number="0.0037" /> ca.</paragraph>
+    <paragraph line="679" number="640">, 0. Sacajānaṃ ka gā ṇānubandhe.</paragraph>
+    <paragraph line="680" number="641">, 572. Nudādīhi yu ṇvūna manā na nā kā na na kā sakāritehi ca.</paragraph>
+    <paragraph line="681" number="642">, 588. I ya ta ma kiṃ esānamantassaro dīghaṃ kvaci dusassa guṇaṃ doraṃ sa kkhī ca.</paragraph>
+    <paragraph line="682" number="643">, 635. Bhyādīhi mati budhi pūjādīhi ca tto.</paragraph>
+    <paragraph line="683" number="644">, 661. Vepu sī dava vamu ku dā bhūtvādīhi thuttima ṇimā nibbatte.</paragraph>
+    <paragraph line="684" number="645">, 662. Akkose namhāni.</paragraph>
+    <paragraph line="685" number="646">, 419. Ekādito sakissa kkhattuṃ.</paragraph>
+    <paragraph line="686" number="647">, 663. Sunassunasso ṇa vānuvānūnanakhunānā.</paragraph>
+    <paragraph line="687" number="648">, 664. Taruṇassa susu ca.</paragraph>
+    <paragraph line="688" number="649">, 665. Yuvassuvassuvuvānanūnā.</paragraph>
+    <paragraph line="689" number="650">, 651. Kāle vattamānātīte ṇvādayo.</paragraph>
+    <paragraph line="690" number="651">, 647. Bhavissati gamādīhi ṇī ghiṇa.</paragraph>
+    <paragraph line="691" number="652">, 648. Kriyāyaṃ ṇvu tavo.</paragraph>
+    <paragraph line="692" number="653">, 307. Bhāvavācimhi catutthī.</paragraph>
+    <paragraph line="693" number="654">, 649. Kammani ṇo.</paragraph>
+    <paragraph line="694" number="655">, 650. Sese ssaṃ ntu mānānā.</paragraph>
+    <paragraph line="695" number="656">, 666. Chadādīhi ta traṇa.</paragraph>
+    <paragraph line="696" number="657">, 667. Vadādīhi ṇitto gaṇe.</paragraph>
+    <paragraph line="697" number="658">, 668. Midādīhi tti tiyo.</paragraph>
+    <paragraph line="698" number="659">, 669. Usuranjadasānaṃ <pageBreak edition="M" number="0.0038" /> daṃsassa daḍḍho ḍhaṭhā ca.</paragraph>
+    <paragraph line="699" number="660">, 670. Sūvusānamūvusānamato tho ca.</paragraph>
+    <paragraph line="700" number="661">, 671. Ranjudādīhi dhadiddakirā kvaci jadalopo ca.</paragraph>
+    <paragraph line="701" number="662">, 672. Paṭito hissa heraṇa hīraṇa.</paragraph>
+    <paragraph line="702" number="663">, 673. Kaḍhādīhi ko.</paragraph>
+    <paragraph line="703" number="664">, 674. Khādāmagamānaṃ khandhandhagandhā.</paragraph>
+    <paragraph line="704" number="665">, 675. Paṭādīlyalaṃ.</paragraph>
+    <paragraph line="705" number="666">, 676. Puthassa puthu pathā mo vā.</paragraph>
+    <paragraph line="706" number="667">, 677. Sasvādīhi tu davo.</paragraph>
+    <paragraph line="707" number="668">, 678. Jhādīhi īvaro.</paragraph>
+    <paragraph line="708" number="669">, 679. Munādīhi ci.</paragraph>
+    <paragraph line="709" number="670">, 680. Vidādīlyūro.</paragraph>
+    <paragraph line="710" number="671">, 681. Hanādīhi nu ṇu tavo.</paragraph>
+    <paragraph line="711" number="672">, 682. Kuṭādīhi ṭho.</paragraph>
+    <paragraph line="712" number="673">, 683. Manupūrasuṇādīhi ussanusisā.</paragraph>
+    <centered line="713">Iti kibbidhānakappe uṇādikappo chaṭṭho kaṇḍo.</centered>
+    <centered line="714">Uṇādisuttaṃ niṭṭhitaṃ.</centered>
+    <title line="715">Mahākaccāyanasaddāpāṭha</title>
+  </content>
 </document>

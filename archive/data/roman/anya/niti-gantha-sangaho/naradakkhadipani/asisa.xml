@@ -1,16 +1,19 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="utf-8"?>
 <document>
-<metadata>
-<normativeSource>http://tipitaka.org/romn/cscd/e1009n.nrf4.xml</normativeSource>
-<archivePath>roman/anya/niti-gantha-sangaho/naradakkhadipani/asisa.xml</archivePath>
-<titlePath>Āsīsa - Naradakkhadīpanī - Nīti-gantha-saṅgaho - Anya</titlePath>
-</metadata>
-<body>
-<chapter line="1">Āsīsa</chapter>
-<hangnum line="2" number="3"></hangnum>
-<gatha1 line="3"> Bahussuto <pageBreak edition="M" number="0.0037" /> ca medhāvī,</gatha1>
-<gatha2 line="4">Sīlesuca samāhito;</gatha2>
-<gatha3 line="5">Cetosamathānuyutto,</gatha3>
-<gathalast line="6">Api muddhani tiṭṭhatu.</gathalast>
-</body>
+  <metadata>
+    <normativeSource>http://tipitaka.org/romn/cscd/e1009n.nrf4.xml</normativeSource>
+    <archivePath>roman/anya/niti-gantha-sangaho/naradakkhadipani/asisa.xml</archivePath>
+    <baseFileName>asisa</baseFileName>
+    <titlePath>Āsīsa - Naradakkhadīpanī - Nīti-gantha-saṅgaho - Anya</titlePath>
+    <versions>
+    </versions>
+  </metadata>
+  <content>
+    <chapter line="1">Āsīsa</chapter>
+    <hangnum line="2" number="3"></hangnum>
+    <gatha1 line="3"> Bahussuto <pageBreak edition="M" number="0.0037" /> ca medhāvī,</gatha1>
+    <gatha2 line="4">Sīlesuca samāhito;</gatha2>
+    <gatha3 line="5">Cetosamathānuyutto,</gatha3>
+    <gathalast line="6">Api muddhani tiṭṭhatu.</gathalast>
+  </content>
 </document>

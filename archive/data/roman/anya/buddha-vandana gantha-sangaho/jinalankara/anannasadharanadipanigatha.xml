@@ -1,45 +1,48 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="utf-8"?>
 <document>
-<metadata>
-<normativeSource>http://tipitaka.org/romn/cscd/e0605n.nrf3.xml</normativeSource>
-<archivePath>roman/anya/buddha-vandana gantha-sangaho/jinalankara/anannasadharanadipanigatha.xml</archivePath>
-<titlePath>Anaññasādhāraṇadīpanīgāthā - Jinālaṅkāra - Buddha-vandanā gantha-saṅgaho - Anya</titlePath>
-</metadata>
-<body>
-<chapter line="1">Anaññasādhāraṇadīpanīgāthā</chapter>
-<hangnum line="2" number="7"></hangnum>
-<gatha1 line="3"> Abbhuggatā yassa guṇā anantā,</gatha1>
-<gatha2 line="4">Tibuddhakhettekadivākaroti;</gatha2>
-<gatha3 line="5">Jānāti so lokamimaṃ parañca,</gatha3>
-<gatha2 line="6">Sacetanañceva acetanañca;</gatha2>
-<gatha3 line="7">Sakassa santānagataṃ paresaṃ,</gatha3>
-<gathalast line="8">Byatītamappattakamatrabhūtaṃ.</gathalast>
-<hangnum line="9" number="8"></hangnum>
-<gatha1 line="10"> Anantasattesu ca lokadhātusu,</gatha1>
-<gatha2 line="11">Ekova sabbepi samā na tena;</gatha2>
-<gatha3 line="12">Disāsu pubbādisu cakkavāḷā,</gatha3>
-<gatha2 line="13">Sahassasaṅkhāyapi appameyyā;</gatha2>
-<gatha3 line="14">Ye tesu devā manujā ca brahmā,</gatha3>
-<gathalast line="15">Ekattha saṅgamma hi mantayantā.</gathalast>
-<hangnum line="16" number="9"></hangnum>
-<gatha1 line="17"> Anādikālāgatanāmarūpinaṃ,</gatha1>
-<gatha2 line="18">Yathāsakaṃ hetuphalattavuttinaṃ;</gatha2>
-<gatha3 line="19">Tabbhāvabhāvittamasambhuṇantā,</gatha3>
-<gathalast line="20">Nānāvipallāsamanupaviṭṭhā.</gathalast>
-<hangnum line="21" number="10"></hangnum>
-<gatha1 line="22"> Kammappavattiñca phalappavattiṃ,</gatha1>
-<gatha2 line="23">Ekattanānattanirīhadhammataṃ;</gatha2>
-<gatha3 line="24">Viññattisantānaghanena channato,</gatha3>
-<gathalast line="25">Sivañjasaṃ no bhaṇituṃ samatthā.</gathalast>
-<hangnum line="26" number="11"></hangnum>
-<gatha1 line="27"> Eko va so santikaro pabhaṅkaro,</gatha1>
-<gatha2 line="28">Saṅkhāya ñeyyāni asesitāni;</gatha2>
-<gatha3 line="29">Tesañhi majjhe paramāsambhīvadaṃ,</gatha3>
-<gathalast line="30">Sivañjasaṃ dīpayituṃ samattho.</gathalast>
-<hangnum line="31" number="12"></hangnum>
-<gatha1 line="32"> So gotamo sakyasuto munindo,</gatha1>
-<gatha2 line="33">Sabbassa lokassa padīpabhūto;</gatha2>
-<gatha3 line="34">Anantasatte bhavabandhanamhā,</gatha3>
-<gathalast line="35">Mocesi kāruññaphalānupekkhī.</gathalast>
-</body>
+  <metadata>
+    <normativeSource>http://tipitaka.org/romn/cscd/e0605n.nrf3.xml</normativeSource>
+    <archivePath>roman/anya/buddha-vandana gantha-sangaho/jinalankara/anannasadharanadipanigatha.xml</archivePath>
+    <baseFileName>anannasadharanadipanigatha</baseFileName>
+    <titlePath>Anaññasādhāraṇadīpanīgāthā - Jinālaṅkāra - Buddha-vandanā gantha-saṅgaho - Anya</titlePath>
+    <versions>
+    </versions>
+  </metadata>
+  <content>
+    <chapter line="1">Anaññasādhāraṇadīpanīgāthā</chapter>
+    <hangnum line="2" number="7"></hangnum>
+    <gatha1 line="3"> Abbhuggatā yassa guṇā anantā,</gatha1>
+    <gatha2 line="4">Tibuddhakhettekadivākaroti;</gatha2>
+    <gatha3 line="5">Jānāti so lokamimaṃ parañca,</gatha3>
+    <gatha2 line="6">Sacetanañceva acetanañca;</gatha2>
+    <gatha3 line="7">Sakassa santānagataṃ paresaṃ,</gatha3>
+    <gathalast line="8">Byatītamappattakamatrabhūtaṃ.</gathalast>
+    <hangnum line="9" number="8"></hangnum>
+    <gatha1 line="10"> Anantasattesu ca lokadhātusu,</gatha1>
+    <gatha2 line="11">Ekova sabbepi samā na tena;</gatha2>
+    <gatha3 line="12">Disāsu pubbādisu cakkavāḷā,</gatha3>
+    <gatha2 line="13">Sahassasaṅkhāyapi appameyyā;</gatha2>
+    <gatha3 line="14">Ye tesu devā manujā ca brahmā,</gatha3>
+    <gathalast line="15">Ekattha saṅgamma hi mantayantā.</gathalast>
+    <hangnum line="16" number="9"></hangnum>
+    <gatha1 line="17"> Anādikālāgatanāmarūpinaṃ,</gatha1>
+    <gatha2 line="18">Yathāsakaṃ hetuphalattavuttinaṃ;</gatha2>
+    <gatha3 line="19">Tabbhāvabhāvittamasambhuṇantā,</gatha3>
+    <gathalast line="20">Nānāvipallāsamanupaviṭṭhā.</gathalast>
+    <hangnum line="21" number="10"></hangnum>
+    <gatha1 line="22"> Kammappavattiñca phalappavattiṃ,</gatha1>
+    <gatha2 line="23">Ekattanānattanirīhadhammataṃ;</gatha2>
+    <gatha3 line="24">Viññattisantānaghanena channato,</gatha3>
+    <gathalast line="25">Sivañjasaṃ no bhaṇituṃ samatthā.</gathalast>
+    <hangnum line="26" number="11"></hangnum>
+    <gatha1 line="27"> Eko va so santikaro pabhaṅkaro,</gatha1>
+    <gatha2 line="28">Saṅkhāya ñeyyāni asesitāni;</gatha2>
+    <gatha3 line="29">Tesañhi majjhe paramāsambhīvadaṃ,</gatha3>
+    <gathalast line="30">Sivañjasaṃ dīpayituṃ samattho.</gathalast>
+    <hangnum line="31" number="12"></hangnum>
+    <gatha1 line="32"> So gotamo sakyasuto munindo,</gatha1>
+    <gatha2 line="33">Sabbassa lokassa padīpabhūto;</gatha2>
+    <gatha3 line="34">Anantasatte bhavabandhanamhā,</gatha3>
+    <gathalast line="35">Mocesi kāruññaphalānupekkhī.</gathalast>
+  </content>
 </document>

@@ -1,17 +1,20 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="utf-8"?>
 <document>
-<metadata>
-<normativeSource>http://tipitaka.org/romn/cscd/abh06t.nrf72.xml</normativeSource>
-<archivePath>roman/tika/abhidhammapitaka (tika)/abhidhammavataro-namarupaparicchedo/gantharambhakatha___.xml</archivePath>
-<titlePath>Ganthārambhakathā - Abhidhammāvatāro-nāmarūpaparicchedo - Abhidhammapiṭaka (ṭīkā) - Tīkā</titlePath>
-</metadata>
-<body>
-<chapter line="1">Ganthārambhakathā</chapter>
-<hangnum line="2" number="1"></hangnum>
-<gatha1 line="3"> Namassitvā <pageBreak edition="M" number="0.0001" /><pageBreak edition="V" number="0.0001" /> tilokaggaṃ, ñeyyasāgarapāraguṃ;</gatha1>
-<gathalast line="4">Bhavābhāvakaraṃ dhammaṃ, gaṇañca guṇasāgaraṃ.</gathalast>
-<hangnum line="5" number="2"></hangnum>
-<gatha1 line="6"> Nissāya pubbācariyamataṃ atthāvirodhinaṃ;</gatha1>
-<gathalast line="7">Vakkhāmi saccasaṅkhepaṃ, hitaṃ kārakayoginaṃ.</gathalast>
-</body>
+  <metadata>
+    <normativeSource>http://tipitaka.org/romn/cscd/abh06t.nrf72.xml</normativeSource>
+    <archivePath>roman/tika/abhidhammapitaka (tika)/abhidhammavataro-namarupaparicchedo/gantharambhakatha___.xml</archivePath>
+    <baseFileName>gantharambhakatha___</baseFileName>
+    <titlePath>Ganthārambhakathā - Abhidhammāvatāro-nāmarūpaparicchedo - Abhidhammapiṭaka (ṭīkā) - Tīkā</titlePath>
+    <versions>
+    </versions>
+  </metadata>
+  <content>
+    <chapter line="1">Ganthārambhakathā</chapter>
+    <hangnum line="2" number="1"></hangnum>
+    <gatha1 line="3"> Namassitvā <pageBreak edition="M" number="0.0001" /><pageBreak edition="V" number="0.0001" /> tilokaggaṃ, ñeyyasāgarapāraguṃ;</gatha1>
+    <gathalast line="4">Bhavābhāvakaraṃ dhammaṃ, gaṇañca guṇasāgaraṃ.</gathalast>
+    <hangnum line="5" number="2"></hangnum>
+    <gatha1 line="6"> Nissāya pubbācariyamataṃ atthāvirodhinaṃ;</gatha1>
+    <gathalast line="7">Vakkhāmi saccasaṅkhepaṃ, hitaṃ kārakayoginaṃ.</gathalast>
+  </content>
 </document>

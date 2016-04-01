@@ -1,20 +1,23 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="utf-8"?>
 <document>
-<metadata>
-<normativeSource>http://tipitaka.org/romn/cscd/e1001n.nrf9.xml</normativeSource>
-<archivePath>roman/anya/niti-gantha-sangaho/kavidappananiti/dasaka kanda.xml</archivePath>
-<titlePath>Dāsaka kaṇḍa - Kavidappaṇanīti - Nīti-gantha-saṅgaho - Anya</titlePath>
-</metadata>
-<body>
-<chapter line="1">Dāsaka kaṇḍa</chapter>
-<hangnum line="2" number="292"></hangnum>
-<gatha1 line="3"> Antojāto <pageBreak edition="M" number="0.0176" /> dhanakkīto, dāsabyopagato sayaṃ;</gatha1>
-<gathalast line="4">Dāsākaramarānīto-ccevaṃ te catudhā siyuṃ.</gathalast>
-<hangnum line="5" number="293"></hangnum>
-<gatha1 line="6"> Pubbuṭṭhā pacchānipātī, dinnassa ādāyīpi ca;</gatha1>
-<gathalast line="7">Sukatakammakaro ca, kittivaṇṇaharopi ca.</gathalast>
-<hangnum line="8" number="294"></hangnum>
-<gatha1 line="9"> Dāsā 0.0177 pañceva corayya-sakhāñātyattasādisā;</gatha1>
-<gathalast line="10">Tathā viññūhi viññeyyā, mittadārā ca bandhavā.</gathalast>
-</body>
+  <metadata>
+    <normativeSource>http://tipitaka.org/romn/cscd/e1001n.nrf9.xml</normativeSource>
+    <archivePath>roman/anya/niti-gantha-sangaho/kavidappananiti/dasaka kanda.xml</archivePath>
+    <baseFileName>dasaka kanda</baseFileName>
+    <titlePath>Dāsaka kaṇḍa - Kavidappaṇanīti - Nīti-gantha-saṅgaho - Anya</titlePath>
+    <versions>
+    </versions>
+  </metadata>
+  <content>
+    <chapter line="1">Dāsaka kaṇḍa</chapter>
+    <hangnum line="2" number="292"></hangnum>
+    <gatha1 line="3"> Antojāto <pageBreak edition="M" number="0.0176" /> dhanakkīto, dāsabyopagato sayaṃ;</gatha1>
+    <gathalast line="4">Dāsākaramarānīto-ccevaṃ te catudhā siyuṃ.</gathalast>
+    <hangnum line="5" number="293"></hangnum>
+    <gatha1 line="6"> Pubbuṭṭhā pacchānipātī, dinnassa ādāyīpi ca;</gatha1>
+    <gathalast line="7">Sukatakammakaro ca, kittivaṇṇaharopi ca.</gathalast>
+    <hangnum line="8" number="294"></hangnum>
+    <gatha1 line="9"> Dāsā 0.0177 pañceva corayya-sakhāñātyattasādisā;</gatha1>
+    <gathalast line="10">Tathā viññūhi viññeyyā, mittadārā ca bandhavā.</gathalast>
+  </content>
 </document>

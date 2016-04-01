@@ -1,41 +1,44 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="utf-8"?>
 <document>
-<metadata>
-<normativeSource>http://tipitaka.org/romn/cscd/s0509m.mul8.xml</normativeSource>
-<archivePath>roman/tipitaka (mula)/suttapitaka/khuddakanikaya/therigathapali/9. navakanipato.xml</archivePath>
-<titlePath>9. Navakanipāto - Therīgāthāpāḷi - Khuddakanikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
-</metadata>
-<body>
-<chapter line="1">9. Navakanipāto</chapter>
-<subhead line="2">1. Vaḍḍhamātutherīgāthā</subhead>
-<hangnum line="3" number="204"></hangnum>
-<gatha1 line="4"> ‘‘Mā <pageBreak edition="T" number="0.0469" /><pageBreak edition="M" number="0.0402" /><pageBreak edition="V" number="0.0328" /> su te vaḍḍha lokamhi, vanatho āhu kudācanaṃ;</gatha1>
-<gatha2 line="5">Mā puttaka punappunaṃ, ahu dukkhassa bhāgimā.</gatha2>
-<hangnum line="6" number="205"></hangnum>
-<gatha1 line="7"> ‘‘Sukhañhi <pageBreak edition="P" number="0.0143" /> vaḍḍha munayo, anejā chinnasaṃsayā;</gatha1>
-<gatha2 line="8">Sītibhūtā damappattā, viharanti anāsavā.</gatha2>
-<hangnum line="9" number="206"></hangnum>
-<gatha1 line="10"> ‘‘Tehānuciṇṇaṃ isībhi, maggaṃ dassanapattiyā;</gatha1>
-<gatha2 line="11">Dukkhassantakiriyāya, tvaṃ vaḍḍha anubrūhaya’’.</gatha2>
-<hangnum line="12" number="207"></hangnum>
-<gatha1 line="13"> ‘‘Visāradāva bhaṇasi, etamatthaṃ janetti me;</gatha1>
-<gatha2 line="14">Maññāmi nūna māmike, vanatho te na vijjati’’.</gatha2>
-<hangnum line="15" number="208"></hangnum>
-<gatha1 line="16"> ‘‘Ye keci vaḍḍha saṅkhārā, hīnā ukkaṭṭhamajjhimā;</gatha1>
-<gatha2 line="17">Aṇūpi aṇumattopi, vanatho me na vijjati.</gatha2>
-<hangnum line="18" number="209"></hangnum>
-<gatha1 line="19"> ‘‘Sabbe me āsavā khīṇā, appamattassa jhāyato;</gatha1>
-<gathalast line="20">Tisso vijjā anuppattā, kataṃ buddhassa sāsanaṃ’’.</gathalast>
-<hangnum line="21" number="210"></hangnum>
-<gatha1 line="22"> ‘‘Uḷāraṃ vata me mātā, patodaṃ samavassari;</gatha1>
-<gathalast line="23">Paramatthasañhitā gāthā, yathāpi anukampikā.</gathalast>
-<hangnum line="24" number="211"></hangnum>
-<gatha1 line="25"> ‘‘Tassāhaṃ vacanaṃ sutvā, anusiṭṭhiṃ janettiyā;</gatha1>
-<gathalast line="26">Dhammasaṃvegamāpādiṃ, yogakkhemassa pattiyā.</gathalast>
-<hangnum line="27" number="212"></hangnum>
-<gatha1 line="28"> ‘‘Sohaṃ padhānapahitatto, rattindivamatandito;</gatha1>
-<gathalast line="29">Mātarā codito santo, aphusiṃ santimuttamaṃ’’.</gathalast>
-<centered line="30">… Vaḍḍhamātā therī….</centered>
-<centered line="31">Navakanipāto niṭṭhito.</centered>
-</body>
+  <metadata>
+    <normativeSource>http://tipitaka.org/romn/cscd/s0509m.mul8.xml</normativeSource>
+    <archivePath>roman/tipitaka (mula)/suttapitaka/khuddakanikaya/therigathapali/9. navakanipato.xml</archivePath>
+    <baseFileName>9. navakanipato</baseFileName>
+    <titlePath>9. Navakanipāto - Therīgāthāpāḷi - Khuddakanikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
+    <versions>
+    </versions>
+  </metadata>
+  <content>
+    <chapter line="1">9. Navakanipāto</chapter>
+    <subhead line="2">1. Vaḍḍhamātutherīgāthā</subhead>
+    <hangnum line="3" number="204"></hangnum>
+    <gatha1 line="4"> ‘‘Mā <pageBreak edition="T" number="0.0469" /><pageBreak edition="M" number="0.0402" /><pageBreak edition="V" number="0.0328" /> su te vaḍḍha lokamhi, vanatho āhu kudācanaṃ;</gatha1>
+    <gatha2 line="5">Mā puttaka punappunaṃ, ahu dukkhassa bhāgimā.</gatha2>
+    <hangnum line="6" number="205"></hangnum>
+    <gatha1 line="7"> ‘‘Sukhañhi <pageBreak edition="P" number="0.0143" /> vaḍḍha munayo, anejā chinnasaṃsayā;</gatha1>
+    <gatha2 line="8">Sītibhūtā damappattā, viharanti anāsavā.</gatha2>
+    <hangnum line="9" number="206"></hangnum>
+    <gatha1 line="10"> ‘‘Tehānuciṇṇaṃ isībhi, maggaṃ dassanapattiyā;</gatha1>
+    <gatha2 line="11">Dukkhassantakiriyāya, tvaṃ vaḍḍha anubrūhaya’’.</gatha2>
+    <hangnum line="12" number="207"></hangnum>
+    <gatha1 line="13"> ‘‘Visāradāva bhaṇasi, etamatthaṃ janetti me;</gatha1>
+    <gatha2 line="14">Maññāmi nūna māmike, vanatho te na vijjati’’.</gatha2>
+    <hangnum line="15" number="208"></hangnum>
+    <gatha1 line="16"> ‘‘Ye keci vaḍḍha saṅkhārā, hīnā ukkaṭṭhamajjhimā;</gatha1>
+    <gatha2 line="17">Aṇūpi aṇumattopi, vanatho me na vijjati.</gatha2>
+    <hangnum line="18" number="209"></hangnum>
+    <gatha1 line="19"> ‘‘Sabbe me āsavā khīṇā, appamattassa jhāyato;</gatha1>
+    <gathalast line="20">Tisso vijjā anuppattā, kataṃ buddhassa sāsanaṃ’’.</gathalast>
+    <hangnum line="21" number="210"></hangnum>
+    <gatha1 line="22"> ‘‘Uḷāraṃ vata me mātā, patodaṃ samavassari;</gatha1>
+    <gathalast line="23">Paramatthasañhitā gāthā, yathāpi anukampikā.</gathalast>
+    <hangnum line="24" number="211"></hangnum>
+    <gatha1 line="25"> ‘‘Tassāhaṃ vacanaṃ sutvā, anusiṭṭhiṃ janettiyā;</gatha1>
+    <gathalast line="26">Dhammasaṃvegamāpādiṃ, yogakkhemassa pattiyā.</gathalast>
+    <hangnum line="27" number="212"></hangnum>
+    <gatha1 line="28"> ‘‘Sohaṃ padhānapahitatto, rattindivamatandito;</gatha1>
+    <gathalast line="29">Mātarā codito santo, aphusiṃ santimuttamaṃ’’.</gathalast>
+    <centered line="30">… Vaḍḍhamātā therī….</centered>
+    <centered line="31">Navakanipāto niṭṭhito.</centered>
+  </content>
 </document>

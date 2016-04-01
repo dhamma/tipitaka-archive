@@ -1,46 +1,49 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="utf-8"?>
 <document>
-<metadata>
-<normativeSource>http://tipitaka.org/romn/cscd/e0603n.nrf1.xml</normativeSource>
-<archivePath>roman/anya/buddha-vandana gantha-sangaho/lakkhanato buddhathomanagatha/buddhavandana.xml</archivePath>
-<titlePath>Buddhavandanā - Lakkhaṇāto buddhathomanāgāthā - Buddha-vandanā gantha-saṅgaho - Anya</titlePath>
-</metadata>
-<body>
-<chapter line="1">Buddhavandanā</chapter>
-<hangnum line="2" number="1"></hangnum>
-<gatha1 line="3"> Devalokā cavitvāna <pageBreak edition="M" number="0.0065" />,</gatha1>
-<gatha2 line="4">Mahāmāyāya kucchiyaṃ;</gatha2>
-<gatha3 line="5">Uppajji guruvāramhi,</gatha3>
-<gathalast line="6">Vandetaṃ sakyapuṅgavaṃ.</gathalast>
-<hangnum line="7" number="2"></hangnum>
-<gatha1 line="8"> Dasamā saccaye neso <pageBreak edition="M" number="0.0066" />,</gatha1>
-<gatha2 line="9">Vijāyi mātukucchito;</gatha2>
-<gatha3 line="10">Sukkavāre lumbiniyaṃ,</gatha3>
-<gathalast line="11">Vande taṃ lokapūjitaṃ.</gathalast>
-<hangnum line="12" number="3"></hangnum>
-<gatha1 line="13"> Cakkavattisiriṃ hitvā,</gatha1>
-<gatha2 line="14">Mahāsinikkhamaṃ sudhī;</gatha2>
-<gatha3 line="15">Nikkhamī candavāramhi,</gatha3>
-<gathalast line="16">Name taṃ munikuñjaraṃ.</gathalast>
-<hangnum line="17" number="4"></hangnum>
-<gatha1 line="18"> Assatthabodhimūlamhi <pageBreak edition="M" number="0.0067" />,</gatha1>
-<gatha2 line="19">Pallaṅke aparājite;</gatha2>
-<gatha3 line="20">Patto sabbaññutaṃ nātho,</gatha3>
-<gathalast line="21">Name taṃ budhavāsare.</gathalast>
-<hangnum line="22" number="5"></hangnum>
-<gatha1 line="23"> Pañcavaggiyamukhānaṃ <pageBreak edition="M" number="0.0068" />,</gatha1>
-<gatha2 line="24">Devānaṃ migadāvane;</gatha2>
-<gatha3 line="25">Sorivāre dhammacakkaṃ,</gatha3>
-<gathalast line="26">Vattesi taṃ jinaṃ name.</gathalast>
-<hangnum line="27" number="6"></hangnum>
-<gatha1 line="28"> Sabbasaṅkhatadhammānaṃ,</gatha1>
-<gatha2 line="29">Pakāsiyaaniccataṃ;</gatha2>
-<gatha3 line="30">Nibbutaṃaṅgavāramhi,</gatha3>
-<gathalast line="31">Namādhiamatandadaṃ.</gathalast>
-<hangnum line="32" number="7"></hangnum>
-<gatha1 line="33"> Sūriyavāre soṇṇāya <pageBreak edition="M" number="0.0069" />,</gatha1>
-<gatha2 line="34">Doṇiyā jinaviggaho;</gatha2>
-<gatha3 line="35">Agginujjalito tassa,</gatha3>
-<gathalast line="36">Name dhātusarīrakaṃ.</gathalast>
-</body>
+  <metadata>
+    <normativeSource>http://tipitaka.org/romn/cscd/e0603n.nrf1.xml</normativeSource>
+    <archivePath>roman/anya/buddha-vandana gantha-sangaho/lakkhanato buddhathomanagatha/buddhavandana.xml</archivePath>
+    <baseFileName>buddhavandana</baseFileName>
+    <titlePath>Buddhavandanā - Lakkhaṇāto buddhathomanāgāthā - Buddha-vandanā gantha-saṅgaho - Anya</titlePath>
+    <versions>
+    </versions>
+  </metadata>
+  <content>
+    <chapter line="1">Buddhavandanā</chapter>
+    <hangnum line="2" number="1"></hangnum>
+    <gatha1 line="3"> Devalokā cavitvāna <pageBreak edition="M" number="0.0065" />,</gatha1>
+    <gatha2 line="4">Mahāmāyāya kucchiyaṃ;</gatha2>
+    <gatha3 line="5">Uppajji guruvāramhi,</gatha3>
+    <gathalast line="6">Vandetaṃ sakyapuṅgavaṃ.</gathalast>
+    <hangnum line="7" number="2"></hangnum>
+    <gatha1 line="8"> Dasamā saccaye neso <pageBreak edition="M" number="0.0066" />,</gatha1>
+    <gatha2 line="9">Vijāyi mātukucchito;</gatha2>
+    <gatha3 line="10">Sukkavāre lumbiniyaṃ,</gatha3>
+    <gathalast line="11">Vande taṃ lokapūjitaṃ.</gathalast>
+    <hangnum line="12" number="3"></hangnum>
+    <gatha1 line="13"> Cakkavattisiriṃ hitvā,</gatha1>
+    <gatha2 line="14">Mahāsinikkhamaṃ sudhī;</gatha2>
+    <gatha3 line="15">Nikkhamī candavāramhi,</gatha3>
+    <gathalast line="16">Name taṃ munikuñjaraṃ.</gathalast>
+    <hangnum line="17" number="4"></hangnum>
+    <gatha1 line="18"> Assatthabodhimūlamhi <pageBreak edition="M" number="0.0067" />,</gatha1>
+    <gatha2 line="19">Pallaṅke aparājite;</gatha2>
+    <gatha3 line="20">Patto sabbaññutaṃ nātho,</gatha3>
+    <gathalast line="21">Name taṃ budhavāsare.</gathalast>
+    <hangnum line="22" number="5"></hangnum>
+    <gatha1 line="23"> Pañcavaggiyamukhānaṃ <pageBreak edition="M" number="0.0068" />,</gatha1>
+    <gatha2 line="24">Devānaṃ migadāvane;</gatha2>
+    <gatha3 line="25">Sorivāre dhammacakkaṃ,</gatha3>
+    <gathalast line="26">Vattesi taṃ jinaṃ name.</gathalast>
+    <hangnum line="27" number="6"></hangnum>
+    <gatha1 line="28"> Sabbasaṅkhatadhammānaṃ,</gatha1>
+    <gatha2 line="29">Pakāsiyaaniccataṃ;</gatha2>
+    <gatha3 line="30">Nibbutaṃaṅgavāramhi,</gatha3>
+    <gathalast line="31">Namādhiamatandadaṃ.</gathalast>
+    <hangnum line="32" number="7"></hangnum>
+    <gatha1 line="33"> Sūriyavāre soṇṇāya <pageBreak edition="M" number="0.0069" />,</gatha1>
+    <gatha2 line="34">Doṇiyā jinaviggaho;</gatha2>
+    <gatha3 line="35">Agginujjalito tassa,</gatha3>
+    <gathalast line="36">Name dhātusarīrakaṃ.</gathalast>
+  </content>
 </document>

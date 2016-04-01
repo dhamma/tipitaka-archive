@@ -1,29 +1,32 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="utf-8"?>
 <document>
-<metadata>
-<normativeSource>http://tipitaka.org/romn/cscd/e1001n.nrf8.xml</normativeSource>
-<archivePath>roman/anya/niti-gantha-sangaho/kavidappananiti/vejjacariya kanda.xml</archivePath>
-<titlePath>Vejjācariya kaṇḍa - Kavidappaṇanīti - Nīti-gantha-saṅgaho - Anya</titlePath>
-</metadata>
-<body>
-<chapter line="1">Vejjācariya kaṇḍa</chapter>
-<hangnum line="2" number="286"></hangnum>
-<gatha1 line="3"> Āyubedakatābhyāso <pageBreak edition="M" number="0.0173" />, sabbesaṃ piyadassano;</gatha1>
-<gathalast line="4">Ariyasīlaguṇopeto, esa vejjo vidhīyate.</gathalast>
-<hangnum line="5" number="287"></hangnum>
-<gatha1 line="6"> Nānāganthajānanañca, sudiṭṭhakammasampadā;</gatha1>
-<gathalast line="7">Dakkhatā hatthasīghatā, pasādasūrasattitā.</gathalast>
-<hangnum line="8" number="288"></hangnum>
-<gatha1 line="9"> Sābhāvikataṅkhaṇika-ñāṇasubhāsitāpi ca;</gatha1>
-<gathalast line="10">Ussāho dabbo sabbatā, vejjācerassa lakkhaṇaṃ;</gathalast>
-<hangnum line="11" number="289"></hangnum>
-<gatha1 line="12"> Kiliṭṭhavatthaṃ <pageBreak edition="M" number="0.0174" /> kodho ca, atimānañca gammatā;</gatha1>
-<gathalast line="13">Animantitagamanaṃ, ete pañca vivajjiyā.</gathalast>
-<hangnum line="14" number="290"></hangnum>
-<gatha1 line="15"> Diṭṭhakammatā <pageBreak edition="M" number="0.0175" /> socañca, dakkhatā viditāgamo;</gatha1>
-<gathalast line="16">Cattāro subhisakkassa, suguṇā viññunā matā.</gathalast>
-<hangnum line="17" number="291"></hangnum>
-<gatha1 line="18"> Rujāya jayalakkhaṇaṃ, raso ca bhesajjampi ca;</gatha1>
-<gathalast line="19">Tilakkhaṇabhedo ceva, viññeyyo bhisakkena ve.</gathalast>
-</body>
+  <metadata>
+    <normativeSource>http://tipitaka.org/romn/cscd/e1001n.nrf8.xml</normativeSource>
+    <archivePath>roman/anya/niti-gantha-sangaho/kavidappananiti/vejjacariya kanda.xml</archivePath>
+    <baseFileName>vejjacariya kanda</baseFileName>
+    <titlePath>Vejjācariya kaṇḍa - Kavidappaṇanīti - Nīti-gantha-saṅgaho - Anya</titlePath>
+    <versions>
+    </versions>
+  </metadata>
+  <content>
+    <chapter line="1">Vejjācariya kaṇḍa</chapter>
+    <hangnum line="2" number="286"></hangnum>
+    <gatha1 line="3"> Āyubedakatābhyāso <pageBreak edition="M" number="0.0173" />, sabbesaṃ piyadassano;</gatha1>
+    <gathalast line="4">Ariyasīlaguṇopeto, esa vejjo vidhīyate.</gathalast>
+    <hangnum line="5" number="287"></hangnum>
+    <gatha1 line="6"> Nānāganthajānanañca, sudiṭṭhakammasampadā;</gatha1>
+    <gathalast line="7">Dakkhatā hatthasīghatā, pasādasūrasattitā.</gathalast>
+    <hangnum line="8" number="288"></hangnum>
+    <gatha1 line="9"> Sābhāvikataṅkhaṇika-ñāṇasubhāsitāpi ca;</gatha1>
+    <gathalast line="10">Ussāho dabbo sabbatā, vejjācerassa lakkhaṇaṃ;</gathalast>
+    <hangnum line="11" number="289"></hangnum>
+    <gatha1 line="12"> Kiliṭṭhavatthaṃ <pageBreak edition="M" number="0.0174" /> kodho ca, atimānañca gammatā;</gatha1>
+    <gathalast line="13">Animantitagamanaṃ, ete pañca vivajjiyā.</gathalast>
+    <hangnum line="14" number="290"></hangnum>
+    <gatha1 line="15"> Diṭṭhakammatā <pageBreak edition="M" number="0.0175" /> socañca, dakkhatā viditāgamo;</gatha1>
+    <gathalast line="16">Cattāro subhisakkassa, suguṇā viññunā matā.</gathalast>
+    <hangnum line="17" number="291"></hangnum>
+    <gatha1 line="18"> Rujāya jayalakkhaṇaṃ, raso ca bhesajjampi ca;</gatha1>
+    <gathalast line="19">Tilakkhaṇabhedo ceva, viññeyyo bhisakkena ve.</gathalast>
+  </content>
 </document>

@@ -1,17 +1,20 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="utf-8"?>
 <document>
-<metadata>
-<normativeSource>http://tipitaka.org/romn/cscd/abh03a.att3.xml</normativeSource>
-<archivePath>roman/atthakatha/abhidhammapitaka (atthakatha)/pancapakarana-atthakatha/puggalapannatti-atthakatha.xml</archivePath>
-<titlePath>Puggalapaññatti-aṭṭhakathā - Pañcapakaraṇa-aṭṭhakathā - Abhidhammapiṭaka (aṭṭhakathā) - Aṭṭhakathā</titlePath>
-</metadata>
-<body>
-<chapter line="1">Puggalapaññatti-aṭṭhakathā</chapter>
-<gatha1 line="2">Nipuṇatthaṃ <pageBreak edition="P" number="0.0171" /><pageBreak edition="M" number="0.0025" /><pageBreak edition="V" number="0.0025" /> pakaraṇaṃ, dhātubhedappakāsano;</gatha1>
-<gathalast line="3">Satthā dhātukathaṃ nāma, desayitvā surālaye.</gathalast>
-<gatha1 line="4">Anantaraṃ tassa jino, paññattibhedadīpanaṃ;</gatha1>
-<gathalast line="5">Āha puggalapaññattiṃ, yaṃ loke aggapuggalo.</gathalast>
-<gatha1 line="6">Tassā saṃvaṇṇanokāso, yasmā dāni upāgato;</gatha1>
-<gathalast line="7">Tasmā naṃ vaṇṇayissāmi, taṃ suṇātha samāhitāti.</gathalast>
-</body>
+  <metadata>
+    <normativeSource>http://tipitaka.org/romn/cscd/abh03a.att3.xml</normativeSource>
+    <archivePath>roman/atthakatha/abhidhammapitaka (atthakatha)/pancapakarana-atthakatha/puggalapannatti-atthakatha.xml</archivePath>
+    <baseFileName>puggalapannatti-atthakatha</baseFileName>
+    <titlePath>Puggalapaññatti-aṭṭhakathā - Pañcapakaraṇa-aṭṭhakathā - Abhidhammapiṭaka (aṭṭhakathā) - Aṭṭhakathā</titlePath>
+    <versions>
+    </versions>
+  </metadata>
+  <content>
+    <chapter line="1">Puggalapaññatti-aṭṭhakathā</chapter>
+    <gatha1 line="2">Nipuṇatthaṃ <pageBreak edition="P" number="0.0171" /><pageBreak edition="M" number="0.0025" /><pageBreak edition="V" number="0.0025" /> pakaraṇaṃ, dhātubhedappakāsano;</gatha1>
+    <gathalast line="3">Satthā dhātukathaṃ nāma, desayitvā surālaye.</gathalast>
+    <gatha1 line="4">Anantaraṃ tassa jino, paññattibhedadīpanaṃ;</gatha1>
+    <gathalast line="5">Āha puggalapaññattiṃ, yaṃ loke aggapuggalo.</gathalast>
+    <gatha1 line="6">Tassā saṃvaṇṇanokāso, yasmā dāni upāgato;</gatha1>
+    <gathalast line="7">Tasmā naṃ vaṇṇayissāmi, taṃ suṇātha samāhitāti.</gathalast>
+  </content>
 </document>

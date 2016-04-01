@@ -1,50 +1,57 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="utf-8"?>
 <document>
-<metadata>
-<normativeSource>http://tipitaka.org/romn/cscd/s0509m.mul10.xml</normativeSource>
-<archivePath>roman/tipitaka (mula)/suttapitaka/khuddakanikaya/therigathapali/11. dvadasakanipato.xml</archivePath>
-<titlePath>11. Dvādasakanipāto - Therīgāthāpāḷi - Khuddakanikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
-</metadata>
-<body>
-<chapter line="1">11. Dvādasakanipāto</chapter>
-<subhead line="2">1. Uppalavaṇṇātherīgāthā</subhead>
-<hangnum line="3" number="224"></hangnum>
-<gatha1 line="4"> ‘‘Ubho <pageBreak edition="M" number="0.0404" /><pageBreak edition="V" number="0.0330" /> mātā ca dhītā ca, mayaṃ <alternatives line="3" extra="null" separator="false"><alternative source-abbr="vri" source="vipassana research institut">āsuṃ</alternative><alternative source-abbr="sī." source="sri lanka">ābhuṃ</alternative></alternatives>  sapattiyo;</gatha1>
-<gathalast line="5">Tassā me ahu saṃvego, abbhuto lomahaṃsano.</gathalast>
-<hangnum line="6" number="225"></hangnum>
-<gatha1 line="7"> ‘‘Dhiratthu kāmā asucī, duggandhā bahukaṇṭakā;</gatha1>
-<gathalast line="8">Yattha mātā ca dhītā ca, sabhariyā mayaṃ ahuṃ.</gathalast>
-<hangnum line="9" number="226"></hangnum>
-<gatha1 line="10"> ‘‘Kāmesvādīnavaṃ <pageBreak edition="P" number="0.0145" /> disvā, nekkhammaṃ daṭṭhu khemato;</gatha1>
-<gathalast line="11">Sā pabbajjiṃ rājagahe, agārasmānagāriyaṃ.</gathalast>
-<hangnum line="12" number="227"></hangnum>
-<gatha1 line="13"> ‘‘Pubbenivāsaṃ jānāmi, dibbacakkhuṃ visodhitaṃ;</gatha1>
-<gathalast line="14">Cetopariccañāṇañca, sotadhātu visodhitā.</gathalast>
-<hangnum line="15" number="228"></hangnum>
-<gatha1 line="16"> ‘‘Iddhīpi me sacchikatā, patto me āsavakkhayo;</gatha1>
-<gathalast line="17">Chaḷabhiññā sacchikatā, kataṃ buddhassa sāsanaṃ.</gathalast>
-<hangnum line="18" number="229"></hangnum>
-<gatha1 line="19"> ‘‘Iddhiyā <pageBreak edition="T" number="0.0472" /> abhinimmitvā, caturassaṃ rathaṃ ahaṃ;</gatha1>
-<gathalast line="20">Buddhassa pāde vanditvā, lokanāthassa tādino’’ <note>sirīmato (syā. ka.)</note>.</gathalast>
-<hangnum line="21" number="230"></hangnum>
-<gatha1 line="22"> ‘‘Supupphitaggaṃ upagamma pādapaṃ, ekā tuvaṃ tiṭṭhasi <alternatives line="18" extra="null" separator="false"><alternative source-abbr="vri" source="vipassana research institut">sālamūle</alternative><alternative source-abbr="syā." source="thai">rukkhamūle</alternative><alternative source-abbr="ka." source="cambodian">rukkhamūle</alternative></alternatives> ;</gatha1>
-<gathalast line="23">Na cāpi te dutiyo atthi koci, na tvaṃ bāle bhāyasi dhuttakānaṃ’’.</gathalast>
-<hangnum line="24" number="231"></hangnum>
-<gatha1 line="25"> ‘‘Sataṃ sahassānipi dhuttakānaṃ, samāgatā edisakā bhaveyyuṃ;</gatha1>
-<gathalast line="26">Lomaṃ na iñje napi sampavedhe, kiṃ me tuvaṃ māra karissaseko.</gathalast>
-<hangnum line="27" number="232"></hangnum>
-<gatha1 line="28"> ‘‘Esā antaradhāyāmi, kucchiṃ vā pavisāmi te;</gatha1>
-<gathalast line="29">Bhamukantare tiṭṭhāmi, tiṭṭhantiṃ maṃ na dakkhasi.</gathalast>
-<hangnum line="30" number="233"></hangnum>
-<gatha1 line="31"> ‘‘Cittamhi <pageBreak edition="M" number="0.0405" /> vasībhūtāhaṃ, iddhipādā subhāvitā;</gatha1>
-<gathalast line="32">Chaḷabhiññā sacchikatā, kataṃ buddhassa sāsanaṃ.</gathalast>
-<hangnum line="33" number="234"></hangnum>
-<gatha1 line="34"> ‘‘Sattisūlūpamā kāmā, khandhāsaṃ adhikuṭṭanā;</gatha1>
-<gathalast line="35">Yaṃ tvaṃ ‘kāmaratiṃ’ brūsi, ‘aratī’ dāni sā mama.</gathalast>
-<hangnum line="36" number="235"></hangnum>
-<gatha1 line="37"> ‘‘Sabbattha <pageBreak edition="V" number="0.0331" /> vihatā nandī, tamokhandho padālito;</gatha1>
-<gathalast line="38">Evaṃ jānāhi pāpima, nihato tvamasi antakā’’ti.</gathalast>
-<centered line="39">… Uppalavaṇṇā therī….</centered>
-<centered line="40">Dvādasanipāto niṭṭhito.</centered>
-</body>
+  <metadata>
+    <normativeSource>http://tipitaka.org/romn/cscd/s0509m.mul10.xml</normativeSource>
+    <archivePath>roman/tipitaka (mula)/suttapitaka/khuddakanikaya/therigathapali/11. dvadasakanipato.xml</archivePath>
+    <baseFileName>11. dvadasakanipato</baseFileName>
+    <titlePath>11. Dvādasakanipāto - Therīgāthāpāḷi - Khuddakanikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
+    <versions>
+      <version source="vipassana research institut" source-abbr="vri"/>
+      <version source="sri lanka" source-abbr="sī."/>
+      <version source="thai" source-abbr="syā."/>
+      <version source="cambodian" source-abbr="ka."/>
+    </versions>
+  </metadata>
+  <content>
+    <chapter line="1">11. Dvādasakanipāto</chapter>
+    <subhead line="2">1. Uppalavaṇṇātherīgāthā</subhead>
+    <hangnum line="3" number="224"></hangnum>
+    <gatha1 line="4"> ‘‘Ubho <pageBreak edition="M" number="0.0404" /><pageBreak edition="V" number="0.0330" /> mātā ca dhītā ca, mayaṃ <alternatives line="3" extra="" separator="false"><alternative source-abbr="vri" source="vipassana research institut">āsuṃ</alternative><alternative source-abbr="sī." source="sri lanka">ābhuṃ</alternative></alternatives>  sapattiyo;</gatha1>
+    <gathalast line="5">Tassā me ahu saṃvego, abbhuto lomahaṃsano.</gathalast>
+    <hangnum line="6" number="225"></hangnum>
+    <gatha1 line="7"> ‘‘Dhiratthu kāmā asucī, duggandhā bahukaṇṭakā;</gatha1>
+    <gathalast line="8">Yattha mātā ca dhītā ca, sabhariyā mayaṃ ahuṃ.</gathalast>
+    <hangnum line="9" number="226"></hangnum>
+    <gatha1 line="10"> ‘‘Kāmesvādīnavaṃ <pageBreak edition="P" number="0.0145" /> disvā, nekkhammaṃ daṭṭhu khemato;</gatha1>
+    <gathalast line="11">Sā pabbajjiṃ rājagahe, agārasmānagāriyaṃ.</gathalast>
+    <hangnum line="12" number="227"></hangnum>
+    <gatha1 line="13"> ‘‘Pubbenivāsaṃ jānāmi, dibbacakkhuṃ visodhitaṃ;</gatha1>
+    <gathalast line="14">Cetopariccañāṇañca, sotadhātu visodhitā.</gathalast>
+    <hangnum line="15" number="228"></hangnum>
+    <gatha1 line="16"> ‘‘Iddhīpi me sacchikatā, patto me āsavakkhayo;</gatha1>
+    <gathalast line="17">Chaḷabhiññā sacchikatā, kataṃ buddhassa sāsanaṃ.</gathalast>
+    <hangnum line="18" number="229"></hangnum>
+    <gatha1 line="19"> ‘‘Iddhiyā <pageBreak edition="T" number="0.0472" /> abhinimmitvā, caturassaṃ rathaṃ ahaṃ;</gatha1>
+    <gathalast line="20">Buddhassa pāde vanditvā, lokanāthassa tādino’’ <note>sirīmato (syā. ka.)</note>.</gathalast>
+    <hangnum line="21" number="230"></hangnum>
+    <gatha1 line="22"> ‘‘Supupphitaggaṃ upagamma pādapaṃ, ekā tuvaṃ tiṭṭhasi <alternatives line="18" extra="" separator="false"><alternative source-abbr="vri" source="vipassana research institut">sālamūle</alternative><alternative source-abbr="syā." source="thai">rukkhamūle</alternative><alternative source-abbr="ka." source="cambodian">rukkhamūle</alternative></alternatives> ;</gatha1>
+    <gathalast line="23">Na cāpi te dutiyo atthi koci, na tvaṃ bāle bhāyasi dhuttakānaṃ’’.</gathalast>
+    <hangnum line="24" number="231"></hangnum>
+    <gatha1 line="25"> ‘‘Sataṃ sahassānipi dhuttakānaṃ, samāgatā edisakā bhaveyyuṃ;</gatha1>
+    <gathalast line="26">Lomaṃ na iñje napi sampavedhe, kiṃ me tuvaṃ māra karissaseko.</gathalast>
+    <hangnum line="27" number="232"></hangnum>
+    <gatha1 line="28"> ‘‘Esā antaradhāyāmi, kucchiṃ vā pavisāmi te;</gatha1>
+    <gathalast line="29">Bhamukantare tiṭṭhāmi, tiṭṭhantiṃ maṃ na dakkhasi.</gathalast>
+    <hangnum line="30" number="233"></hangnum>
+    <gatha1 line="31"> ‘‘Cittamhi <pageBreak edition="M" number="0.0405" /> vasībhūtāhaṃ, iddhipādā subhāvitā;</gatha1>
+    <gathalast line="32">Chaḷabhiññā sacchikatā, kataṃ buddhassa sāsanaṃ.</gathalast>
+    <hangnum line="33" number="234"></hangnum>
+    <gatha1 line="34"> ‘‘Sattisūlūpamā kāmā, khandhāsaṃ adhikuṭṭanā;</gatha1>
+    <gathalast line="35">Yaṃ tvaṃ ‘kāmaratiṃ’ brūsi, ‘aratī’ dāni sā mama.</gathalast>
+    <hangnum line="36" number="235"></hangnum>
+    <gatha1 line="37"> ‘‘Sabbattha <pageBreak edition="V" number="0.0331" /> vihatā nandī, tamokhandho padālito;</gatha1>
+    <gathalast line="38">Evaṃ jānāhi pāpima, nihato tvamasi antakā’’ti.</gathalast>
+    <centered line="39">… Uppalavaṇṇā therī….</centered>
+    <centered line="40">Dvādasanipāto niṭṭhito.</centered>
+  </content>
 </document>

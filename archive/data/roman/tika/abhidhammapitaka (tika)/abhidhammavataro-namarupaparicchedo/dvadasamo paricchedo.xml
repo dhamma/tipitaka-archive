@@ -1,91 +1,94 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="utf-8"?>
 <document>
-<metadata>
-<normativeSource>http://tipitaka.org/romn/cscd/abh06t.nrf53.xml</normativeSource>
-<archivePath>roman/tika/abhidhammapitaka (tika)/abhidhammavataro-namarupaparicchedo/dvadasamo paricchedo.xml</archivePath>
-<titlePath>Dvādasamo paricchedo - Abhidhammāvatāro-nāmarūpaparicchedo - Abhidhammapiṭaka (ṭīkā) - Tīkā</titlePath>
-</metadata>
-<body>
-<chapter line="1">Dvādasamo paricchedo</chapter>
-<subhead line="2">12. Rāsivinicchayakathā</subhead>
-<hangnum line="3" number="416"></hangnum>
-<gatha1 line="4"> Tattha viññāṇakāyā cha, satta viññāṇadhātuyo;</gatha1>
-<gathalast line="5">Phassā cakkhādisamphassā, chabbidhā sattadhāpi ca.</gathalast>
-<hangnum line="6" number="417"></hangnum>
-<gatha1 line="7"> Cakkhusamphassajādīhi <pageBreak edition="M" number="0.0037" /><pageBreak edition="V" number="0.0041" />, bhedehi pana vedanā;</gatha1>
-<gathalast line="8">Saññā ca cetanā ceva, bhinnā chadhā ca sattadhā.</gathalast>
-<hangnum line="9" number="418"></hangnum>
-<gatha1 line="10"> Cittuppādesu dhammā ca, khandhāyatanadhātuyo;</gatha1>
-<gathalast line="11">Āhārā ca yathāyogaṃ, phassapañcakarāsiyaṃ.</gathalast>
-<hangnum line="12" number="419"></hangnum>
-<gatha1 line="13"> Sabbe saṅgahitā honti, tasmā nāmapariggaho;</gatha1>
-<gathalast line="14">Mūlarāsi ca so sabba-saṅgahoti pavuccati.</gathalast>
-<hangnum line="15" number="420"></hangnum>
-<gatha1 line="16"> Jhānarāsimhi pañceva, dhammā sattappabhedato;</gatha1>
-<gathalast line="17">Indriyāni ca bāvīsa, dhammato pana soḷasa.</gathalast>
-<hangnum line="18" number="421"></hangnum>
-<gatha1 line="19"> Nava maggaṅgadhammā ca, bhinnā dvādasadhāpi te;</gatha1>
-<gathalast line="20">Chaḷeva hetuyo tattha, desitā kaṅkhituddhavā.</gathalast>
-<hangnum line="21" number="422"></hangnum>
-<gatha1 line="22"> Dasa kammapathā dhammā, chaḷeva pana desitā;</gatha1>
-<gathalast line="23">Sesāva dasadhammehi, samānā caturāsayo.</gathalast>
-<hangnum line="24" number="423"></hangnum>
-<gatha1 line="25"> Paññā dasavidhā tattha, vedanā navadhā ṭhitā;</gatha1>
-<gathalast line="26">Samādhi sattadhā hoti, vīriyaṃ pana pañcadhā.</gathalast>
-<hangnum line="27" number="424"></hangnum>
-<gatha1 line="28"> Sati bhinnā catudhāva, vitakko tividho mato;</gatha1>
-<gathalast line="29">Dvidhā cittādayo honti, dasapañceva sambhavā.</gathalast>
-<hangnum line="30" number="425"></hangnum>
-<gatha1 line="31"> Sesā dvattiṃsa sabbepi, dhammā ekekadhāpi ca;</gatha1>
-<gathalast line="32">Hitvā rūpindriyānete, vibhāgā aṭṭhadhā kathaṃ.</gathalast>
-<hangnum line="33" number="426"></hangnum>
-<gatha1 line="34"> Phasso ca cetanā saññā, vicāro pīti jīvitaṃ;</gatha1>
-<gathalast line="35">Niravajjā cha yugaḷā, sāvajjamohakaṅkhitā.</gathalast>
-<hangnum line="36" number="427"></hangnum>
-<gatha1 line="37"> Yevāpanakadhammā ca, viratuddhaccavajjitā;</gatha1>
-<gathalast line="38">Dvādasā ceti sabbepi, dvattiṃsakekadhā tathā.</gathalast>
-<hangnum line="39" number="428"></hangnum>
-<gatha1 line="40"> Cittaṃ manindriyaṃ cittaṃ, saddhā saddhindriyaṃ balaṃ;</gatha1>
-<gathalast line="41">Balesu lokiyā vuttā, lokiye ca dukadvaye.</gathalast>
-<hangnum line="42" number="429"></hangnum>
-<gatha1 line="43"> Lobhālobhādikā <pageBreak edition="M" number="0.0038" /><pageBreak edition="V" number="0.0042" /> dve dve,</gatha1>
-<gatha2 line="44">Cattāro heturāsiyaṃ;</gatha2>
-<gatha3 line="45">Micchādiṭṭhi ca maggaṅge,</gatha3>
-<gathalast line="46">Pañcakammapathepi te.</gathalast>
-<hangnum line="47" number="430"></hangnum>
-<gatha1 line="48"> Yevāpanakarāsimhi, desitā viratuddhavā;</gatha1>
-<gathalast line="49">Maggahetūsu ceveti, dvidhā pañcadasa ṭhitā.</gathalast>
-<hangnum line="50" number="431"></hangnum>
-<gatha1 line="51"> Vitakko jhānamaggesu, tividhā navadhā pana;</gatha1>
-<gathalast line="52">Vedanā mūlarāsimhi, tathā jhānindriyesu ca.</gathalast>
-<hangnum line="53" number="432"></hangnum>
-<gatha1 line="54"> Indriyamaggarāsimhi, balapiṭṭhidukattike;</gatha1>
-<gathalast line="55">Catudhā sati tattheva, vīriyampi ca pañcadhā.</gathalast>
-<hangnum line="56" number="433"></hangnum>
-<gatha1 line="57"> Samādhi sattadhā vutto, jhānaṅgesu ca tattha ca;</gatha1>
-<gathalast line="58">Tattheva dasadhā paññā, hetukammapathesu ca.</gathalast>
-<hangnum line="59" number="434"></hangnum>
-<gatha1 line="60"> Dasanavasattapañcacatutidvekadhā ṭhitā;</gatha1>
-<gathalast line="61">Chaḷekakā pañcadasa, dvattiṃsa ca yathākkamaṃ.</gathalast>
-<hangnum line="62" number="435"></hangnum>
-<gatha1 line="63"> Aṭṭha vibhāgasaṅkhepā, padāni dasadhā siyuṃ;</gatha1>
-<gathalast line="64">Tepaññāseva dhammā ca, aṭṭhārasa ca rāsayo.</gathalast>
-<hangnum line="65" number="436"></hangnum>
-<gatha1 line="66"> Iti dhammavavatthāne, <bold>dhammasaṅgaṇiyaṃ</bold> pana;</gatha1>
-<gathalast line="67">Cittuppādaparicchede, uddesanayasaṅgaho.</gathalast>
-<hangnum line="68" number="437"></hangnum>
-<gatha1 line="69"> Padāni caturāsīti, desitāni sarūpato;</gatha1>
-<gathalast line="70">Yevāpanakanāmena, soḷaseva yathārahaṃ.</gathalast>
-<hangnum line="71" number="438"></hangnum>
-<gatha1 line="72"> Tatthāniyatanāmāni, padānekādaseva tu;</gatha1>
-<gathalast line="73">Vuttānekūnanavuti, niyatāneva sambhavā.</gathalast>
-<hangnum line="74" number="439"></hangnum>
-<gatha1 line="75"> Asambhinnapadānettha, tepaññāseva sabbathā;</gatha1>
-<gathalast line="76">Cittacetasikānaṃ tu, vasena paridīpaye.</gathalast>
-<hangnum line="77" number="440"></hangnum>
-<gatha1 line="78"> Vibhāgapadadhammānaṃ <pageBreak edition="M" number="0.0039" /><pageBreak edition="V" number="0.0043" />, vasenevaṃ pakāsito;</gatha1>
-<gathalast line="79">Cittacetasikānaṃ tu, kamato rāsinicchayoti.</gathalast>
-<centered line="80">Iti cetasikavibhāge rāsivinicchayakathā niṭṭhitā.</centered>
-<centered line="81">Dvādasamo paricchedo.</centered>
-</body>
+  <metadata>
+    <normativeSource>http://tipitaka.org/romn/cscd/abh06t.nrf53.xml</normativeSource>
+    <archivePath>roman/tika/abhidhammapitaka (tika)/abhidhammavataro-namarupaparicchedo/dvadasamo paricchedo.xml</archivePath>
+    <baseFileName>dvadasamo paricchedo</baseFileName>
+    <titlePath>Dvādasamo paricchedo - Abhidhammāvatāro-nāmarūpaparicchedo - Abhidhammapiṭaka (ṭīkā) - Tīkā</titlePath>
+    <versions>
+    </versions>
+  </metadata>
+  <content>
+    <chapter line="1">Dvādasamo paricchedo</chapter>
+    <subhead line="2">12. Rāsivinicchayakathā</subhead>
+    <hangnum line="3" number="416"></hangnum>
+    <gatha1 line="4"> Tattha viññāṇakāyā cha, satta viññāṇadhātuyo;</gatha1>
+    <gathalast line="5">Phassā cakkhādisamphassā, chabbidhā sattadhāpi ca.</gathalast>
+    <hangnum line="6" number="417"></hangnum>
+    <gatha1 line="7"> Cakkhusamphassajādīhi <pageBreak edition="M" number="0.0037" /><pageBreak edition="V" number="0.0041" />, bhedehi pana vedanā;</gatha1>
+    <gathalast line="8">Saññā ca cetanā ceva, bhinnā chadhā ca sattadhā.</gathalast>
+    <hangnum line="9" number="418"></hangnum>
+    <gatha1 line="10"> Cittuppādesu dhammā ca, khandhāyatanadhātuyo;</gatha1>
+    <gathalast line="11">Āhārā ca yathāyogaṃ, phassapañcakarāsiyaṃ.</gathalast>
+    <hangnum line="12" number="419"></hangnum>
+    <gatha1 line="13"> Sabbe saṅgahitā honti, tasmā nāmapariggaho;</gatha1>
+    <gathalast line="14">Mūlarāsi ca so sabba-saṅgahoti pavuccati.</gathalast>
+    <hangnum line="15" number="420"></hangnum>
+    <gatha1 line="16"> Jhānarāsimhi pañceva, dhammā sattappabhedato;</gatha1>
+    <gathalast line="17">Indriyāni ca bāvīsa, dhammato pana soḷasa.</gathalast>
+    <hangnum line="18" number="421"></hangnum>
+    <gatha1 line="19"> Nava maggaṅgadhammā ca, bhinnā dvādasadhāpi te;</gatha1>
+    <gathalast line="20">Chaḷeva hetuyo tattha, desitā kaṅkhituddhavā.</gathalast>
+    <hangnum line="21" number="422"></hangnum>
+    <gatha1 line="22"> Dasa kammapathā dhammā, chaḷeva pana desitā;</gatha1>
+    <gathalast line="23">Sesāva dasadhammehi, samānā caturāsayo.</gathalast>
+    <hangnum line="24" number="423"></hangnum>
+    <gatha1 line="25"> Paññā dasavidhā tattha, vedanā navadhā ṭhitā;</gatha1>
+    <gathalast line="26">Samādhi sattadhā hoti, vīriyaṃ pana pañcadhā.</gathalast>
+    <hangnum line="27" number="424"></hangnum>
+    <gatha1 line="28"> Sati bhinnā catudhāva, vitakko tividho mato;</gatha1>
+    <gathalast line="29">Dvidhā cittādayo honti, dasapañceva sambhavā.</gathalast>
+    <hangnum line="30" number="425"></hangnum>
+    <gatha1 line="31"> Sesā dvattiṃsa sabbepi, dhammā ekekadhāpi ca;</gatha1>
+    <gathalast line="32">Hitvā rūpindriyānete, vibhāgā aṭṭhadhā kathaṃ.</gathalast>
+    <hangnum line="33" number="426"></hangnum>
+    <gatha1 line="34"> Phasso ca cetanā saññā, vicāro pīti jīvitaṃ;</gatha1>
+    <gathalast line="35">Niravajjā cha yugaḷā, sāvajjamohakaṅkhitā.</gathalast>
+    <hangnum line="36" number="427"></hangnum>
+    <gatha1 line="37"> Yevāpanakadhammā ca, viratuddhaccavajjitā;</gatha1>
+    <gathalast line="38">Dvādasā ceti sabbepi, dvattiṃsakekadhā tathā.</gathalast>
+    <hangnum line="39" number="428"></hangnum>
+    <gatha1 line="40"> Cittaṃ manindriyaṃ cittaṃ, saddhā saddhindriyaṃ balaṃ;</gatha1>
+    <gathalast line="41">Balesu lokiyā vuttā, lokiye ca dukadvaye.</gathalast>
+    <hangnum line="42" number="429"></hangnum>
+    <gatha1 line="43"> Lobhālobhādikā <pageBreak edition="M" number="0.0038" /><pageBreak edition="V" number="0.0042" /> dve dve,</gatha1>
+    <gatha2 line="44">Cattāro heturāsiyaṃ;</gatha2>
+    <gatha3 line="45">Micchādiṭṭhi ca maggaṅge,</gatha3>
+    <gathalast line="46">Pañcakammapathepi te.</gathalast>
+    <hangnum line="47" number="430"></hangnum>
+    <gatha1 line="48"> Yevāpanakarāsimhi, desitā viratuddhavā;</gatha1>
+    <gathalast line="49">Maggahetūsu ceveti, dvidhā pañcadasa ṭhitā.</gathalast>
+    <hangnum line="50" number="431"></hangnum>
+    <gatha1 line="51"> Vitakko jhānamaggesu, tividhā navadhā pana;</gatha1>
+    <gathalast line="52">Vedanā mūlarāsimhi, tathā jhānindriyesu ca.</gathalast>
+    <hangnum line="53" number="432"></hangnum>
+    <gatha1 line="54"> Indriyamaggarāsimhi, balapiṭṭhidukattike;</gatha1>
+    <gathalast line="55">Catudhā sati tattheva, vīriyampi ca pañcadhā.</gathalast>
+    <hangnum line="56" number="433"></hangnum>
+    <gatha1 line="57"> Samādhi sattadhā vutto, jhānaṅgesu ca tattha ca;</gatha1>
+    <gathalast line="58">Tattheva dasadhā paññā, hetukammapathesu ca.</gathalast>
+    <hangnum line="59" number="434"></hangnum>
+    <gatha1 line="60"> Dasanavasattapañcacatutidvekadhā ṭhitā;</gatha1>
+    <gathalast line="61">Chaḷekakā pañcadasa, dvattiṃsa ca yathākkamaṃ.</gathalast>
+    <hangnum line="62" number="435"></hangnum>
+    <gatha1 line="63"> Aṭṭha vibhāgasaṅkhepā, padāni dasadhā siyuṃ;</gatha1>
+    <gathalast line="64">Tepaññāseva dhammā ca, aṭṭhārasa ca rāsayo.</gathalast>
+    <hangnum line="65" number="436"></hangnum>
+    <gatha1 line="66"> Iti dhammavavatthāne, <bold>dhammasaṅgaṇiyaṃ</bold> pana;</gatha1>
+    <gathalast line="67">Cittuppādaparicchede, uddesanayasaṅgaho.</gathalast>
+    <hangnum line="68" number="437"></hangnum>
+    <gatha1 line="69"> Padāni caturāsīti, desitāni sarūpato;</gatha1>
+    <gathalast line="70">Yevāpanakanāmena, soḷaseva yathārahaṃ.</gathalast>
+    <hangnum line="71" number="438"></hangnum>
+    <gatha1 line="72"> Tatthāniyatanāmāni, padānekādaseva tu;</gatha1>
+    <gathalast line="73">Vuttānekūnanavuti, niyatāneva sambhavā.</gathalast>
+    <hangnum line="74" number="439"></hangnum>
+    <gatha1 line="75"> Asambhinnapadānettha, tepaññāseva sabbathā;</gatha1>
+    <gathalast line="76">Cittacetasikānaṃ tu, vasena paridīpaye.</gathalast>
+    <hangnum line="77" number="440"></hangnum>
+    <gatha1 line="78"> Vibhāgapadadhammānaṃ <pageBreak edition="M" number="0.0039" /><pageBreak edition="V" number="0.0043" />, vasenevaṃ pakāsito;</gatha1>
+    <gathalast line="79">Cittacetasikānaṃ tu, kamato rāsinicchayoti.</gathalast>
+    <centered line="80">Iti cetasikavibhāge rāsivinicchayakathā niṭṭhitā.</centered>
+    <centered line="81">Dvādasamo paricchedo.</centered>
+  </content>
 </document>

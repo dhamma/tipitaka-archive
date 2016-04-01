@@ -1,29 +1,32 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="utf-8"?>
 <document>
-<metadata>
-<normativeSource>http://tipitaka.org/romn/cscd/s0304t.tik2.xml</normativeSource>
-<archivePath>roman/tika/suttapitaka (tika)/samyuttanikaya (tika)/salayatanavagga-tika/3. matugamasamyuttam.xml</archivePath>
-<titlePath>3. Mātugāmasaṃyuttaṃ - Saḷāyatanavagga-ṭīkā - Saṃyuttanikāya (ṭīkā) - Suttapiṭaka (ṭīkā) - Tīkā</titlePath>
-</metadata>
-<body>
-<chapter line="1">3. Mātugāmasaṃyuttaṃ</chapter>
-<title line="2">1. Paṭhamapeyyālavaggo</title>
-<subhead line="3">1-2. Mātugāmasuttādivaṇṇanā</subhead>
-<paragraph line="4" number="280-281"><bold>Aguṇaṅgehī</bold>ti <pageBreak edition="M" number="2.0364" /><pageBreak edition="V" number="2.0077" /> aguṇakoṭṭhāsehi. Rūpayatīti rūpaṃ, sarīrarūpaṃ. Sarīrarūpaṃ pāsaṃsaṃ etassa atthīti rūpavā, tappaṭikkhepena <bold>na ca rūpavā,</bold> sampannarūpo na hotīti attho. Ñātikulato aññato vā āgatāya bhogasampadāya abhāvena <bold>na bhogasampanno. Dussīlo</bold>ti nissīlo. Nissīlatāya eva cassā pubbuṭṭhāyitādiācārābhāvo vutto. <bold>Ālasiyo</bold>ti ālasiyatāya yutto. <bold>Pajañcassa na labhatī</bold>ti pajābhāvasīsena tassā parivārahāni vuttā. <bold>Parivattetabba</bold>nti purisavasena parivattetabbaṃ.</paragraph>
-<centered line="5">Mātugāmasuttādivaṇṇanā niṭṭhitā.</centered>
-<subhead line="6">3. Āveṇikadukkhasuttavaṇṇanā</subhead>
-<paragraph line="7" number="282"> Āveṇitabbato mariyādāya visuṃ asādhāraṇato passitabbato <bold>āveṇikāni</bold>. Paṭipacceke puggale niyuttānīti <bold>pāṭipuggalikāni. Paricārikabhāva</bold>nti upaṭṭhāyikabhāvaṃ.</paragraph>
-<centered line="8">Āveṇikadukkhasuttavaṇṇanā niṭṭhitā.</centered>
-<subhead line="9">4. Tīhidhammehisuttādivaṇṇanā</subhead>
-<paragraph line="10" number="283-303"><bold>Maccheramalapariyuṭṭhitenā</bold>ti macchariyamalena abhibhūtena. <bold>Tenā</bold>ti kassaci kiñci adānena ca. <bold>Etaṃ</bold> ‘‘maccheramalapariyuṭṭhitenā’’tiādi vuttaṃ. <bold>Vilokento vicarati</bold> issāpakatacittatāya. <bold>Pañcamādīni</bold> yāva ekādasamā <bold>uttānatthāneva</bold>.</paragraph>
-<centered line="11">Tīhidhammehisuttādivaṇṇanā niṭṭhitā.</centered>
-<title line="12">3. Balavaggo</title>
-<subhead line="13">1. Visāradasuttavaṇṇanā</subhead>
-<paragraph line="14" number="304"><bold>Rūpasampatti</bold><pageBreak edition="M" number="2.0365" /><pageBreak edition="V" number="2.0078" /><bold>rūpabalaṃ</bold> taṃsamaṅgino upatthambhakabhāvato. Esa nayo sesesupi. Balāni hi sattānaṃ vuḍḍhiyā upatthambhakapaccayo hoti, yathā taṃ āhāro. Tenāha – <bold>‘‘imānī’’</bold>tiādi.</paragraph>
-<centered line="15">Visāradasuttavaṇṇanā niṭṭhitā.</centered>
-<subhead line="16">2-10. Pasayhasuttādivaṇṇanā</subhead>
-<paragraph line="17" number="305-313"><bold>Abhibhavitvā</bold> sabbaṃ antojanaṃ sāmikañca. <bold>Nāsentī</bold>ti nāsanaṃ adassanaṃ nenti nīharantīti attho.</paragraph>
-<centered line="18">Pasayhasuttādivaṇṇanā niṭṭhitā.</centered>
-<centered line="19">Mātugāmasaṃyuttavaṇṇanā niṭṭhitā.</centered>
-</body>
+  <metadata>
+    <normativeSource>http://tipitaka.org/romn/cscd/s0304t.tik2.xml</normativeSource>
+    <archivePath>roman/tika/suttapitaka (tika)/samyuttanikaya (tika)/salayatanavagga-tika/3. matugamasamyuttam.xml</archivePath>
+    <baseFileName>3. matugamasamyuttam</baseFileName>
+    <titlePath>3. Mātugāmasaṃyuttaṃ - Saḷāyatanavagga-ṭīkā - Saṃyuttanikāya (ṭīkā) - Suttapiṭaka (ṭīkā) - Tīkā</titlePath>
+    <versions>
+    </versions>
+  </metadata>
+  <content>
+    <chapter line="1">3. Mātugāmasaṃyuttaṃ</chapter>
+    <title line="2">1. Paṭhamapeyyālavaggo</title>
+    <subhead line="3">1-2. Mātugāmasuttādivaṇṇanā</subhead>
+    <paragraph line="4" number="280-281"><bold>Aguṇaṅgehī</bold>ti <pageBreak edition="M" number="2.0364" /><pageBreak edition="V" number="2.0077" /> aguṇakoṭṭhāsehi. Rūpayatīti rūpaṃ, sarīrarūpaṃ. Sarīrarūpaṃ pāsaṃsaṃ etassa atthīti rūpavā, tappaṭikkhepena <bold>na ca rūpavā,</bold> sampannarūpo na hotīti attho. Ñātikulato aññato vā āgatāya bhogasampadāya abhāvena <bold>na bhogasampanno. Dussīlo</bold>ti nissīlo. Nissīlatāya eva cassā pubbuṭṭhāyitādiācārābhāvo vutto. <bold>Ālasiyo</bold>ti ālasiyatāya yutto. <bold>Pajañcassa na labhatī</bold>ti pajābhāvasīsena tassā parivārahāni vuttā. <bold>Parivattetabba</bold>nti purisavasena parivattetabbaṃ.</paragraph>
+    <centered line="5">Mātugāmasuttādivaṇṇanā niṭṭhitā.</centered>
+    <subhead line="6">3. Āveṇikadukkhasuttavaṇṇanā</subhead>
+    <paragraph line="7" number="282"> Āveṇitabbato mariyādāya visuṃ asādhāraṇato passitabbato <bold>āveṇikāni</bold>. Paṭipacceke puggale niyuttānīti <bold>pāṭipuggalikāni. Paricārikabhāva</bold>nti upaṭṭhāyikabhāvaṃ.</paragraph>
+    <centered line="8">Āveṇikadukkhasuttavaṇṇanā niṭṭhitā.</centered>
+    <subhead line="9">4. Tīhidhammehisuttādivaṇṇanā</subhead>
+    <paragraph line="10" number="283-303"><bold>Maccheramalapariyuṭṭhitenā</bold>ti macchariyamalena abhibhūtena. <bold>Tenā</bold>ti kassaci kiñci adānena ca. <bold>Etaṃ</bold> ‘‘maccheramalapariyuṭṭhitenā’’tiādi vuttaṃ. <bold>Vilokento vicarati</bold> issāpakatacittatāya. <bold>Pañcamādīni</bold> yāva ekādasamā <bold>uttānatthāneva</bold>.</paragraph>
+    <centered line="11">Tīhidhammehisuttādivaṇṇanā niṭṭhitā.</centered>
+    <title line="12">3. Balavaggo</title>
+    <subhead line="13">1. Visāradasuttavaṇṇanā</subhead>
+    <paragraph line="14" number="304"><bold>Rūpasampatti</bold><pageBreak edition="M" number="2.0365" /><pageBreak edition="V" number="2.0078" /><bold>rūpabalaṃ</bold> taṃsamaṅgino upatthambhakabhāvato. Esa nayo sesesupi. Balāni hi sattānaṃ vuḍḍhiyā upatthambhakapaccayo hoti, yathā taṃ āhāro. Tenāha – <bold>‘‘imānī’’</bold>tiādi.</paragraph>
+    <centered line="15">Visāradasuttavaṇṇanā niṭṭhitā.</centered>
+    <subhead line="16">2-10. Pasayhasuttādivaṇṇanā</subhead>
+    <paragraph line="17" number="305-313"><bold>Abhibhavitvā</bold> sabbaṃ antojanaṃ sāmikañca. <bold>Nāsentī</bold>ti nāsanaṃ adassanaṃ nenti nīharantīti attho.</paragraph>
+    <centered line="18">Pasayhasuttādivaṇṇanā niṭṭhitā.</centered>
+    <centered line="19">Mātugāmasaṃyuttavaṇṇanā niṭṭhitā.</centered>
+  </content>
 </document>
