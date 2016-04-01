@@ -12,14 +12,14 @@ import org.xmlpull.v1.XmlPullParser;
 import org.xmlpull.v1.XmlPullParserException;
 import org.xmlpull.v1.XmlPullParserFactory;
 
-public class LegacyVisitor implements Visitor<LegacyBuilder>
+public class LegacyVisitor// implements Visitor
 {
 
   private final XmlPullParserFactory factory;
 
-  private final BuilderFactory<LegacyBuilder> builders;
+  private final LegacyBuilderFactory builders;
 
-  public LegacyVisitor(BuilderFactory factory) throws XmlPullParserException {
+  public LegacyVisitor(LegacyBuilderFactory factory) throws XmlPullParserException {
     this.factory = XmlPullParserFactory.newInstance();
     this.builders = factory;
   }
@@ -39,11 +39,13 @@ public class LegacyVisitor implements Visitor<LegacyBuilder>
     }
   }
 
-  public void accept(Writer writer, Script script, String path) throws IOException {
-    accept(builders.create(writer), script, path);
+  public void accept(Writer writer, Script script, String path, String... args) throws IOException {
+    try (LegacyBuilder builder = builders.create(writer)) {
+      accept(builder, script, path);
+    }
   }
 
-  public void accept(LegacyBuilder builder, Script script, String path) throws IOException {
+  private void accept(LegacyBuilder builder, Script script, String path) throws IOException {
     URL url = builders.getUrlFactory().sourceURL(script, builders.getDirectory().fileOf(path));
 
     builder.documentStart(script, path);

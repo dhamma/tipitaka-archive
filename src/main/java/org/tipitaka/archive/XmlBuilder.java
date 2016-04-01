@@ -32,7 +32,7 @@ public class XmlBuilder
   private final Notes notes;
 
   static public class BuilderFactory
-      extends org.tipitaka.archive.BuilderFactory<XmlBuilder>
+      extends org.tipitaka.archive.LegacyBuilderFactory
   {
 
     private final File notesBasedir;
@@ -91,12 +91,12 @@ public class XmlBuilder
 
   }
 
-  public XmlBuilder(Notes notes, File file, org.tipitaka.archive.BuilderFactory factory) throws IOException {
+  public XmlBuilder(Notes notes, File file, LegacyBuilderFactory factory) throws IOException {
     super(new FileWriter(file), factory);
     this.notes = notes;
   }
 
-  public XmlBuilder(Writer writer, org.tipitaka.archive.BuilderFactory factory) {
+  public XmlBuilder(Writer writer, LegacyBuilderFactory factory) {
     super(writer, factory);
     ObjectMapper xmlMapper = new XmlMapper();
     File file = new File("../tipitaka-archive/archive/notes/roman/tipitaka (mula)/vinayapitaka/pacittiyapali/5. pacittiyakandam-notes.xml");

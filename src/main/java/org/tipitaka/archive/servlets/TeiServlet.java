@@ -14,6 +14,7 @@ import org.tipitaka.archive.Layout;
 import org.tipitaka.archive.NGBuilder;
 import org.tipitaka.archive.NGVisitor;
 import org.tipitaka.archive.TeiNGBuilder;
+import org.tipitaka.archive.Visitor;
 import org.xmlpull.v1.XmlPullParserException;
 
 /**
@@ -22,7 +23,7 @@ import org.xmlpull.v1.XmlPullParserException;
 public class TeiServlet extends HttpServlet
 {
 
-  private NGVisitor visitor;
+  private Visitor visitor;
   private BuilderFactory<NGBuilder> factory;
 
   @Override
@@ -37,23 +38,13 @@ public class TeiServlet extends HttpServlet
     }
   }
 
-  static Pattern PATH = Pattern.compile("^/?([^/]+)(/.*).tei$");
-
   @Override
   protected void doGet(final HttpServletRequest req, final HttpServletResponse resp)
       throws ServletException, IOException
   {
-    Matcher matcher = PATH.matcher(req.getServletPath());
-    if (!matcher.matches()) {
-      resp.setStatus(HttpServletResponse.SC_NOT_FOUND);
-    }
-    else {
-      resp.setCharacterEncoding("UTF-16");
-      resp.setContentType("application/xml");
-      resp.setHeader("X-Robots-Tag", "noindex, nofollow");
-      visitor.accept(resp.getWriter(),
-          factory.script(matcher.group(1)),
-          matcher.group(2));
-    }
+    resp.setCharacterEncoding("UTF-16");
+    resp.setContentType("application/xml");
+    resp.setHeader("X-Robots-Tag", "noindex, nofollow");
+    visitor.accept(resp.getWriter(), req.getServletPath().replace(".tei", ""));
   }
 }

@@ -2,17 +2,17 @@ package org.tipitaka.archive;
 
 import java.io.BufferedReader;
 import java.io.File;
+import java.io.FileInputStream;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.io.Reader;
 import java.io.Writer;
-import java.net.URL;
 
 import org.xmlpull.v1.XmlPullParser;
 import org.xmlpull.v1.XmlPullParserException;
 import org.xmlpull.v1.XmlPullParserFactory;
 
-public class NGVisitor implements Visitor<NGBuilder>
+public class NGVisitor implements Visitor
 {
 
   private final XmlPullParserFactory factory;
@@ -24,31 +24,19 @@ public class NGVisitor implements Visitor<NGBuilder>
     this.builders = builders;
   }
 
-  public void accept(File basedir, Script script) throws IOException {
-    for (String path : this.builders.getDirectory().allPaths()) {
-      File file = new File(basedir, this.builders.archivePath(script, path).getPath());
-      System.err.println(this.builders.getDirectory().fileOf(path) + " " + file);
-      file.getParentFile().mkdirs();
-      accept(file, script, path);
+  public void accept(Writer writer, String path, String... args) throws IOException {
+    try (NGBuilder builder = builders.create(writer)) {
+      accept(builder, path, args);
     }
   }
 
-  public void accept(File file, Script script, String path) throws IOException {
-    try (NGBuilder builder = builders.create(file, script, path)) {
-      accept(builder, script, path);
-    }
-  }
+  private void accept(NGBuilder builder, String path, String... args) throws IOException {
+    builder.init(args);
 
-  public void accept(Writer writer, Script script, String path) throws IOException {
-    accept(builders.create(writer), script, path);
-  }
-
-  public void accept(NGBuilder builder, Script script, String path) throws IOException {
-    URL url = new File(builders.getArchiveDirectory(), builders.archivePath(script, path).getPath()).toURI().toURL();
-
+    File file = new File(builders.getArchiveDirectory(), path);
     try {
       XmlPullParser xpp = factory.newPullParser();
-      try (Reader reader = new BufferedReader(new InputStreamReader(url.openStream(), "UTF-8"))) {
+      try (Reader reader = new BufferedReader(new InputStreamReader(new FileInputStream(file), "UTF-8"))) {
         xpp.setInput(reader);
         accept(builder, xpp);
       }
@@ -193,6 +181,7 @@ public class NGVisitor implements Visitor<NGBuilder>
       case ALTERNATIVE:
         builder.finalizeAlternative(text);
         return;
+      default:
     }
 }
 

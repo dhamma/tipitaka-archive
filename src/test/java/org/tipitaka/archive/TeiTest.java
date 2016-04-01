@@ -24,11 +24,13 @@ public class TeiTest
   BuilderFactory factory;
   NGVisitor visitor;
   Script script;
+
   @Before
   public void setup() throws Exception {
-    factory = new TeiNGBuilder.BuilderFactory();
+    Layout layout = new Layout();
+    factory = new TeiNGBuilder.BuilderFactory(layout);
     visitor = new NGVisitor(factory);
-    script = factory.script("romn");
+    script = new ScriptFactory(layout).script("roman");
   }
 
   //@Test
@@ -181,7 +183,7 @@ public class TeiTest
 
   private void assertTei(final String path, Integer... skip) throws IOException {
     StringWriter writer = new StringWriter();
-    visitor.accept(writer, script, path);
+    visitor.accept(writer, script.name + path + ".xml");
 
     URL source = factory.getUrlFactory().sourceURL(script, factory.getDirectory().fileOf(path));
 

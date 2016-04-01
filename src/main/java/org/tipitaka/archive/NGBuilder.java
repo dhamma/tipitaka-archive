@@ -8,6 +8,8 @@ import java.io.IOException;
 public interface NGBuilder extends BaseBuilder
 {
 
+  void init(String... args);
+
   void startDocument() throws IOException;
   void endDocument() throws IOException;
 

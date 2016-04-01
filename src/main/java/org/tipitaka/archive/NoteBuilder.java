@@ -24,10 +24,9 @@ public class NoteBuilder
 
   public static final String NOTE = "__NOTE__";
 
-
   private final Notes notes;
 
-  static public class BuilderFactory extends org.tipitaka.archive.BuilderFactory<NoteBuilder> {
+  static public class BuilderFactory extends LegacyBuilderFactory {
 
     public BuilderFactory() throws IOException {}
 

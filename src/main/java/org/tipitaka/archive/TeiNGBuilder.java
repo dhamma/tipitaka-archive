@@ -1,11 +1,8 @@
 package org.tipitaka.archive;
 
-import java.io.File;
-import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.OutputStreamWriter;
 import java.io.Writer;
-import java.nio.file.Paths;
 import java.util.LinkedHashMap;
 import java.util.Map;
 
@@ -13,43 +10,28 @@ import org.tipitaka.archive.Notes.Version;
 
 public class TeiNGBuilder
     extends AbstractNGBuilder
-    implements NGBuilder
 {
 
+  // TODO move it inside specialist State
   private String source;
 
   static public class BuilderFactory
-      extends org.tipitaka.archive.BuilderFactory<NGBuilder> {
-    private final File notesBasedir;
+      extends NGBuilderFactory {
 
     public BuilderFactory() throws IOException {
-      this(new Layout());
     }
 
     public BuilderFactory(Layout layout) throws IOException {
       super(layout);
-      this.notesBasedir = layout.notesArchive();
     }
 
     @Override
     public TeiNGBuilder create(final Writer writer) {
       return new TeiNGBuilder(writer, this);
     }
-
-    @Override
-    public TeiNGBuilder create(File file, final Script script, final String path) throws IOException {
-      File notesFile = Paths.get(notesBasedir.getPath(), script.name, path + "-notes.xml").toFile();
-      return new TeiNGBuilder(new OutputStreamWriter(new FileOutputStream(notesFile), "utf-8"), this);
-    }
-
-    @Override
-    public File archivePath(final Script script, final String path) {
-      return new File(script.name, path + ".xml");
-    }
   }
 
   static public void main(String... args) throws Exception {
-
     BuilderFactory factory = new BuilderFactory();
     NGVisitor visitor = new NGVisitor(factory);
     String file =
@@ -57,16 +39,15 @@ public class TeiNGBuilder
         "/tipitaka (mula)/vinayapitaka/pacittiyapali/5. pacittiyakandam";
     //"/tipitaka (mula)/vinayapitaka/parajikapali/1. parajikakandam";
    // "/tipitaka (mula)/vinayapitaka/parajikapali/2. sanghadisesakandam";
-    visitor.accept(new OutputStreamWriter(System.out), factory.script("romn"), file);
-    //File datafile = new File("../tipitaka-archive/target/data.xml");
-    //visitor.accept(datafile, new ScriptFactory().script("romn"), file);
-
-    //visitor.accept(new Layout().dataArchive(), factory.script("romn"));
-
+    visitor.accept(new OutputStreamWriter(System.out), "roman" + file);
   }
 
-  public TeiNGBuilder(Writer writer, org.tipitaka.archive.BuilderFactory factory) {
+  public TeiNGBuilder(Writer writer, NGBuilderFactory factory) {
     super(writer, factory);
+  }
+
+  @Override
+  public void init(String... args) {
   }
 
   boolean omit = true;

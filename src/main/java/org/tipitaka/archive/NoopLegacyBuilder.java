@@ -17,9 +17,9 @@ public class NoopLegacyBuilder
 
   protected  final State state;
 
-  protected final BuilderFactory factory;
+  protected final LegacyBuilderFactory factory;
 
-  protected NoopLegacyBuilder(Writer writer, BuilderFactory factory) {
+  protected NoopLegacyBuilder(Writer writer, LegacyBuilderFactory factory) {
     this.state = new State(writer);
     this.factory = factory;
   }
