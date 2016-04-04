@@ -140,24 +140,32 @@ public class XmlBuilder
   public void documentStart(Script script, String path) throws IOException {
     String legacy = this.factory.getDirectory().fileOf(path);
     URL url = this.factory.getUrlFactory().normativeURL(script, legacy);
-    state.append("<?xml version=\"1.0\" encoding=\"utf-8\"?>\n").append("<document>\n  <metadata>\n");
+    state.appendLine("<?xml version=\"1.0\" encoding=\"utf-8\"?>")
+        .appendLine("<document>").indent()
+        .appendLine("<metadata>").indent();
 
-    state.append("    <normativeSource>").append(url.toString()).append("</normativeSource>\n");
+    appendVersions();
+
+    state.appendIndent("<normativeSource>").append(url.toString()).appendEnd("</normativeSource>");
     File archivePath = factory.archivePath(script, path);
-    state.append("    <archivePath>").append(archivePath.getPath()).append("</archivePath>\n");
-    state.append("    <baseFileName>").append(archivePath.getName().replace(".xml", "")).append("</baseFileName>\n");
-    state.append("    ");
+    state.appendIndent("<source>").append(archivePath.getPath()).appendEnd("</source>");
+    state.appendIndent("<script>").append(script.name).appendEnd("</script>");
+    state.appendIndent("<directory>").append(archivePath.getParent().substring(script.name.length())).appendEnd("</directory>");
+    state.appendIndent("<basename>").append(archivePath.getName().replace(".xml", "")).appendEnd("</basename>");
 
     appendTitle(factory.getDirectory().breadCrumbs(script, path));
 
-    state.append("\n").append("    <versions>\n");
+    state.appendLine("</metadata>").outdent();
+    state.appendLine("<content>");
+  }
+
+  private void appendVersions() throws IOException {
+    state.appendLine("<versions>").indent();
     for (Map.Entry<String, String> entry: notes.getVersions().entrySet()) {
-      state.append("      <version source=\"").append(entry.getValue()).append("\" source-abbr=\"")
-          .append(entry.getKey()).append("\"/>\n");
+      state.appendIndent("<version source=\"").append(entry.getValue()).append("\" source-abbr=\"")
+          .append(entry.getKey()).appendEnd("\"/>");
     }
-    state.append("    </versions>\n");
-    state.append("  </metadata>\n");
-    state.append("  <content>\n");
+    state.outdent().appendLine("</versions>");
   }
 
   public void documentEnd() throws IOException {

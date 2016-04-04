@@ -19,12 +19,12 @@ public abstract class AbstractNGBuilder implements NGBuilder
   }
 
   @Override
-  public void flush() throws IOException {
+  final public void flush() throws IOException {
     state.flush();
   }
 
   @Override
-  public void close() throws IOException {
+  final public void close() throws IOException {
     state.close();
   }
 

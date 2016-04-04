@@ -11,6 +11,8 @@ import org.tipitaka.archive.Notes.Note;
  */
 class State
 {
+  private String indent = "";
+
   private int count = 0;
 
   private int lineCount = 0;
@@ -68,13 +70,39 @@ class State
     return String.valueOf(lineCount);
   }
 
-  Writer appendText(String text) throws IOException {
+  State appendText(String text) throws IOException {
     this.previousText = text;
     return append(text);
   }
 
-  Writer append(CharSequence string) throws IOException {
-    return writer.append(string);
+  State appendLine(CharSequence string) throws IOException {
+    writer.append(indent).append(string).append("\n");
+    return this;
+  }
+
+  State appendIndent(CharSequence string) throws IOException {
+    writer.append(indent).append(string);
+    return this;
+  }
+
+  State appendEnd(CharSequence string) throws IOException {
+    writer.append(string).append("\n");
+    return this;
+  }
+
+  State indent() {
+    indent += "  ";
+    return this;
+  }
+
+  State outdent() {
+    indent = indent.substring(0, indent.length() - 2);
+    return this;
+  }
+
+  State append(CharSequence string) throws IOException {
+    writer.append(string);
+    return this;
   }
 
   public String peek() {

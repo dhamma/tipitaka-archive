@@ -183,7 +183,7 @@ public class TeiTest
 
   private void assertTei(final String path, Integer... skip) throws IOException {
     StringWriter writer = new StringWriter();
-    visitor.accept(writer, script.name + path + ".xml");
+    visitor.accept(writer, script.name + path + ".xml", null);
 
     URL source = factory.getUrlFactory().sourceURL(script, factory.getDirectory().fileOf(path));
 

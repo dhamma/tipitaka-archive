@@ -8,7 +8,7 @@ import java.io.IOException;
 public interface NGBuilder extends BaseBuilder
 {
 
-  void init(String... args);
+  void init(final String extension, String version) throws IOException;
 
   void startDocument() throws IOException;
   void endDocument() throws IOException;
@@ -16,9 +16,12 @@ public interface NGBuilder extends BaseBuilder
   void startMetadata() throws IOException;
   void endMetadata() throws IOException;
 
-  void normativeSource(String url);
-  void archivePath(String path);
-  void title(String title);
+  void normativeSource(String url) throws IOException;
+  void source(String source) throws IOException;
+  void script(String script) throws IOException;
+  void directory(String dir) throws IOException;
+  void basename(String basename) throws IOException;
+  void title(String title) throws IOException;
 
   void startContent() throws IOException;
   void endContent() throws IOException;
@@ -61,8 +64,8 @@ public interface NGBuilder extends BaseBuilder
   void startAlternatives(final String extra, final boolean hasSeparator) throws IOException;
   void endAlternatives() throws IOException;
 
-  void beginAlternative(final String abbr, String source);
-  void finalizeAlternative(String text);
+  void beginAlternative(final String abbr, String source) throws IOException;
+  void finalizeAlternative(String text) throws IOException;
 
   void startTitle() throws IOException;
   void endTitle() throws IOException;

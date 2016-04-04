@@ -8,5 +8,5 @@ import java.io.Writer;
  */
 public interface Visitor
 {
-  void accept(Writer writer, String path, String... args) throws IOException;
+  void accept(Writer writer, String path, String version) throws IOException;
 }

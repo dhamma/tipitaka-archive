@@ -16,6 +16,8 @@ public abstract class BuilderFactory<T extends BaseBuilder>
 
   private final File archiveDirectory;
 
+  private final ScriptFactory scriptFactory;
+
   public BuilderFactory() throws IOException {
     this(new Layout());
   }
@@ -26,6 +28,7 @@ public abstract class BuilderFactory<T extends BaseBuilder>
     this.directory = new DirectoryStructure(urlFactory);
     this.directory.load(layout.directoryMap());
     this.archiveDirectory = layout.dataArchive();
+    this.scriptFactory = new ScriptFactory(layout);
   }
 
   public File getArchiveDirectory() {
@@ -42,4 +45,7 @@ public abstract class BuilderFactory<T extends BaseBuilder>
 
   public abstract T create(Writer writer);
 
+  public Script script(final String script) throws IOException {
+    return scriptFactory.script(script);
+  }
 }

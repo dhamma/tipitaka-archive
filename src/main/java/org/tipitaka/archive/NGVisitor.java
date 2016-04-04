@@ -24,16 +24,18 @@ public class NGVisitor implements Visitor
     this.builders = builders;
   }
 
-  public void accept(Writer writer, String path, String... args) throws IOException {
+  public void accept(Writer writer, String path, String version) throws IOException {
     try (NGBuilder builder = builders.create(writer)) {
-      accept(builder, path, args);
+      accept(builder, path, version);
     }
   }
 
-  private void accept(NGBuilder builder, String path, String... args) throws IOException {
-    builder.init(args);
+  private void accept(NGBuilder builder, String path, String version) throws IOException {
+    int index = path.lastIndexOf('.');
+    String source = path.substring(0, index) + ".xml";
+    builder.init(path.substring(index), version);
 
-    File file = new File(builders.getArchiveDirectory(), path);
+    File file = new File(builders.getArchiveDirectory(), source);
     try {
       XmlPullParser xpp = factory.newPullParser();
       try (Reader reader = new BufferedReader(new InputStreamReader(new FileInputStream(file), "UTF-8"))) {
@@ -65,7 +67,7 @@ public class NGVisitor implements Visitor
   }
 
   enum State {
-    NORMATIVE, ARCHIVE, TITLE, BASENAME, ALTERNATIVE
+    NORMATIVE, SOURCE, SCRIPT, DIRECTORY, BASENAME, TITLE, ALTERNATIVE
   }
   private State state = null;
 
@@ -81,11 +83,17 @@ public class NGVisitor implements Visitor
       case "normativeSource":
         state = State.NORMATIVE;
         return;
-      case "baseFileName":
-        state = State.BASENAME;
+      case "source":
+        state = State.SOURCE;
         return;
-      case "archivePath":
-        state = State.ARCHIVE;
+      case "script":
+        state = State.SCRIPT;
+        return;
+      case "directory":
+        state = State.DIRECTORY;
+        return;
+      case "basename":
+        state = State.BASENAME;
         return;
       case "titlePath":
         state = State.TITLE;
@@ -172,8 +180,17 @@ public class NGVisitor implements Visitor
       case NORMATIVE:
         builder.normativeSource(text);
         return;
-      case ARCHIVE:
-        builder.archivePath(text);
+      case SOURCE:
+        builder.source(text);
+        return;
+      case SCRIPT:
+        builder.script(text);
+        return;
+      case DIRECTORY:
+        builder.directory(text);
+        return;
+      case BASENAME:
+        builder.basename(text);
         return;
       case TITLE:
         builder.title(text);
@@ -196,8 +213,10 @@ public class NGVisitor implements Visitor
         builder.endMetadata();
         return;
       case "normativeSource":
-      case "archivePath":
-      case "baseFileName":
+      case "source":
+      case "script":
+      case "directory":
+      case "basename":
       case "version":
       case "titlePath":
         return;

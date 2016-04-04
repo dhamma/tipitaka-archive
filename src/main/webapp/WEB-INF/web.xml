@@ -6,10 +6,23 @@
     <servlet-name>tei</servlet-name>
     <servlet-class>org.tipitaka.archive.servlets.TeiServlet</servlet-class>
   </servlet>
+  
+  <servlet>
+    <servlet-name>html</servlet-name>
+    <servlet-class>org.tipitaka.archive.servlets.XHtmlServlet</servlet-class>
+  </servlet>
 
   <servlet-mapping>
     <servlet-name>tei</servlet-name>
     <url-pattern>*.tei</url-pattern>
   </servlet-mapping>
   
+  <servlet-mapping>
+    <servlet-name>html</servlet-name>
+    <url-pattern>*.html</url-pattern>
+  </servlet-mapping>
+
+  <welcome-file-list>
+    <welcome-file>index.html</welcome-file>
+  </welcome-file-list>	    
 </web-app>

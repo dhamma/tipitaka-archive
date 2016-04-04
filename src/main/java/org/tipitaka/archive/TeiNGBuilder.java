@@ -39,7 +39,7 @@ public class TeiNGBuilder
         "/tipitaka (mula)/vinayapitaka/pacittiyapali/5. pacittiyakandam";
     //"/tipitaka (mula)/vinayapitaka/parajikapali/1. parajikakandam";
    // "/tipitaka (mula)/vinayapitaka/parajikapali/2. sanghadisesakandam";
-    visitor.accept(new OutputStreamWriter(System.out), "roman" + file);
+    visitor.accept(new OutputStreamWriter(System.out), "roman" + file, null);
   }
 
   public TeiNGBuilder(Writer writer, NGBuilderFactory factory) {
@@ -47,7 +47,7 @@ public class TeiNGBuilder
   }
 
   @Override
-  public void init(String... args) {
+  public void init(final String extension, String version) {
   }
 
   boolean omit = true;
@@ -105,13 +105,23 @@ public class TeiNGBuilder
   }
 
   @Override
-  public void archivePath(final String path) {
+  public void source(final String source) {
+  }
 
+  @Override
+  public void script(final String script) {
+  }
+
+  @Override
+  public void directory(final String dir) {
+  }
+
+  @Override
+  public void basename(final String basename) {
   }
 
   @Override
   public void title(final String title) {
-
   }
 
   @Override
@@ -120,7 +130,6 @@ public class TeiNGBuilder
 
   @Override
   public void endContent() throws IOException {
-
   }
 
   @Override
