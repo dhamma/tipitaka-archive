@@ -155,7 +155,7 @@ public class XHtmlNGBuilder
   @Override
   public void basename(final String basename) throws IOException {
     this.name = basename;
-    this.file = this.dir + "/" + this.name;
+    this.file = (this.dir  == null ? "" : this.dir) + "/" + this.name;
     this.isSubdir = factory.getDirectory().fileOf(file) == null;
     this.breadCrumbs = factory.getDirectory().breadCrumbs(factory.script(script), file);
 
@@ -163,8 +163,11 @@ public class XHtmlNGBuilder
     state.appendIndent("<meta name=\"extension\" content=\"").append(extension.substring(1)).appendEnd("\" />");
     state.appendIndent("<meta name=\"version\" content=\"")
         .append(current == null ? Version.VIPASSANA_RESEARCH_INSTITUT.getName() : current).appendEnd("\" />");
-    state.appendIndent("<meta name=\"fullpath\" content=\"/").append(script)
-        .append(dir).append("/").append(basename).append(extension);
+    state.appendIndent("<meta name=\"fullpath\" content=\"");
+    if (dir != null) {
+      state.append("/").append(script).append(dir);
+    }
+    state.append("/").append(basename).append(extension);
     if (current != null) {
       state.append("?version=").append(current);
     }
@@ -175,8 +178,11 @@ public class XHtmlNGBuilder
   public void title(final String title) throws IOException {
     if (current != null) {
       state.appendLine("<meta name=\"robots\" content=\"noindex, nofollow\" />")
-          .appendIndent("<link rel=\"canonical\" href=\"http://www.tipitaka.de/")
-          .append(script).append(file).append(extension).appendEnd("\" />");
+          .appendIndent("<link rel=\"canonical\" href=\"http://www.tipitaka.de");
+      if (dir != null) {
+        state.append("/").append(script);
+      }
+      state.append(file).append(extension).appendEnd("\" />");
     }
     state.appendIndent("<link rel=\"stylesheet\" href=\"/").append(script).appendEnd("/style.css\" />");
     state.appendIndent("<title>");
@@ -215,16 +221,21 @@ public class XHtmlNGBuilder
     state.appendLine("<div class=\"navigation\">").indent();
 
     state.appendLine("<div class=\"menu\">").indent();
-    state.appendIndent("<div class=\"current\">")
-        .append("<a href=\"").append("/index.html").append(postfix).append("\">ROOT</a>")
-        .appendEnd("</div>");
+    state.appendIndent("<div class=\"current\">");
+    if (dir != null) {
+      state.append("<a href=\"").append("/index.html").append(postfix).append("\">ROOT</a>");
+    }
+    else {
+      state.append("ROOT");
+    }
+    state.appendEnd("</div>");
     state.outdent().appendLine("</div>");
 
     appendSeparator();
 
     state.appendLine("<div class=\"menu\">").indent();
     state.appendIndent("<div class=\"current\">");
-    if ("/".equals(dir)) {
+    if ("".equals(dir)) {
       state.append(script);
     }
     else {
@@ -241,7 +252,7 @@ public class XHtmlNGBuilder
       }
     }
 
-    if (file.endsWith("index")) {
+    if (file.endsWith("index") && dir != null) {
       appendMenu(file.substring(0, file.lastIndexOf('/') + 1), postfix);
     }
 
@@ -515,12 +526,17 @@ public class XHtmlNGBuilder
   @Override
   public void startVersions() {
     this.versions = new LinkedHashMap<>();
+    this.versions.put(Version.VIPASSANA_RESEARCH_INSTITUT.getAbbrevation(),
+        Version.VIPASSANA_RESEARCH_INSTITUT.getName());
     this.versions.put(ALL, ALL_VERSIONS_ANNOTATED);
   }
 
   @Override
   public void addVersion(final String abbr, final String source) {
-    this.versions.put(abbr, source);
+    // avoid double entry of all-version-annotated
+    if (!this.versions.containsValue(source)) {
+      this.versions.put(abbr, source);
+    }
   }
 
   @Override

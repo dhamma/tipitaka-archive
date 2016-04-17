@@ -35,11 +35,6 @@ public class XHtmlServlet
   {
     resp.setCharacterEncoding("UTF-8");
     resp.setContentType("text/html");
-    //if (req.getServletPath().endsWith("index.html")) {
-    //  getServletContext().getNamedDispatcher("default").forward(req, resp);
-    //}
-    //else {
-      getVisitor().accept(resp.getWriter(), req.getServletPath(), req.getParameter("version"));
-    //}
+    getVisitor().accept(resp.getWriter(), req.getServletPath(), req.getParameter("version"));
   }
 }

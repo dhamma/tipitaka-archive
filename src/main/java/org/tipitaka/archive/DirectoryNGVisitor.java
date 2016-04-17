@@ -6,6 +6,7 @@ import java.io.Writer;
 import org.tipitaka.archive.BuilderFactory;
 import org.tipitaka.archive.NGBuilder;
 import org.tipitaka.archive.NGVisitor;
+import org.tipitaka.archive.Notes.Version;
 import org.xmlpull.v1.XmlPullParserException;
 
 /**
@@ -29,15 +30,27 @@ public class DirectoryNGVisitor
         builder.init(extension, version);
         builder.startDocument();
         builder.startMetadata();
-        String script = path.substring(1, path.indexOf('/', 1));
-        builder.script(script);
-        builder.directory(path.substring(script.length() + 1, path.lastIndexOf('/')));
+        final String script;
+        if (path.startsWith("/index")){
+          builder.script("roman");
+          //builder.directory("/");
+        }
+        else {
+          script = path.substring(1, path.indexOf('/', 1));
+          builder.script(script);
+          builder.directory(path.substring(script.length() + 1, path.lastIndexOf('/')));
+        }
         builder.basename(path.substring(path.lastIndexOf('/') + 1, path.length() - extension.length()));
 
         builder.title(null);
         builder.startVersions();
-        Notes.Version ver = version == null ? null : Notes.Version.toVersion(version);
-        builder.addVersion(ver == null ? version: ver.getAbbrevation(), version);
+        Notes.Version ver = version == null ? Version.VIPASSANA_RESEARCH_INSTITUT: Notes.Version.toVersion(version);
+        if (ver != null) {
+          builder.addVersion(ver.getAbbrevation(), ver.getName());
+        }
+        else {
+          builder.addVersion(version, version);
+        }
         builder.endVersions();
         builder.endMetadata();
         builder.startContent();

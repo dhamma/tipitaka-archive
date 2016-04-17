@@ -39,7 +39,7 @@ public class DirectoryStructure
   }
 
   public Map<String, String> listDirs(Script words, String path) {
-    Map<String, String> result = new LinkedHashMap<String, String>();
+    Map<String, String> result = new LinkedHashMap<>();
     if (fileOf(path) == null) {
       if (path == null) {
         path = "/";
