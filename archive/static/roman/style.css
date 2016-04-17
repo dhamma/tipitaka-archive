@@ -40,6 +40,10 @@ body {
     visibility: visible;
 }
 
+.tooltiptext span{
+    color: #888;
+}
+
 div.versions {
     font-size: 0.8em;
     position: fixed;
