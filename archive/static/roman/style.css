@@ -124,7 +124,7 @@ div.navigation {
     overflow: scroll;
 }
 
-div.navigation div.current a {
+div.navigation div.current a, div.navigation div.current {
     color: darkred;
 }
 
