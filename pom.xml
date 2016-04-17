@@ -67,14 +67,14 @@
   </dependencies>
 
   <build>
-    <finalName>${project.artifactId}-${maven.build.timestamp}-r${buildNumber}</finalName>
+    <finalName>${project.artifactId}-${maven.build.timestamp}-${buildNumber}</finalName>
     <plugins>
       <plugin>
         <groupId>org.codehaus.mojo</groupId>
         <artifactId>buildnumber-maven-plugin</artifactId>
         <version>1.4</version>
         <configuration>
-	  <shortRevisionLength>5</shortRevisionLength>
+	  <shortRevisionLength>6</shortRevisionLength>
         </configuration>
         <executions>
           <execution>
