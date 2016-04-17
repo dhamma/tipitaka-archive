@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/e0105n.nrf30.xml</normativeSource>
-    <archivePath>roman/anya/visuddhimagga/visuddhimagga nidanakatha/agamatthakathakaranam.xml</archivePath>
-    <baseFileName>agamatthakathakaranam</baseFileName>
-    <titlePath>Āgamaṭṭhakathākaraṇaṃ - Visuddhimagga nidānakathā - Visuddhimagga - Anya</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/e0105n.nrf30.xml</normativeSource>
+    <source>roman/anya/visuddhimagga/visuddhimagga nidanakatha/agamatthakathakaranam.xml</source>
+    <script>roman</script>
+    <directory>/anya/visuddhimagga/visuddhimagga nidanakatha</directory>
+    <basename>agamatthakathakaranam</basename>
+    <titlePath>Āgamaṭṭhakathākaraṇaṃ - Visuddhimagga nidānakathā - Visuddhimagga - Anya</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">Āgamaṭṭhakathākaraṇaṃ</chapter>
     <paragraph line="2"><bold>Sumaṅgalavilāsiniṃ</bold> nāma dīghanikāyaṭṭhakathaṃ pana ācariyo sumaṅgalapariveṇavāsinā <bold>dāṭhānāgattherena</bold> āyācito akāsi. Vuttaṃ hetametissā nigamane –</paragraph>
     <gatha1 line="3">‘‘Āyācito <pageBreak edition="Myanmar" number="0.0049" /> sumaṅgala-pariveṇanivāsinā thiraguṇena;</gatha1>

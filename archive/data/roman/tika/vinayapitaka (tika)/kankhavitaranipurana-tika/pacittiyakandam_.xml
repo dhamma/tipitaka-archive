@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/vin09t.nrf12.xml</normativeSource>
-    <archivePath>roman/tika/vinayapitaka (tika)/kankhavitaranipurana-tika/pacittiyakandam_.xml</archivePath>
-    <baseFileName>pacittiyakandam_</baseFileName>
-    <titlePath>Pācittiyakaṇḍaṃ - Kaṅkhāvitaraṇīpurāṇa-ṭīkā - Vinayapiṭaka (ṭīkā) - Tīkā</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/vin09t.nrf12.xml</normativeSource>
+    <source>roman/tika/vinayapitaka (tika)/kankhavitaranipurana-tika/pacittiyakandam_.xml</source>
+    <script>roman</script>
+    <directory>/tika/vinayapitaka (tika)/kankhavitaranipurana-tika</directory>
+    <basename>pacittiyakandam_</basename>
+    <titlePath>Pācittiyakaṇḍaṃ - Kaṅkhāvitaraṇīpurāṇa-ṭīkā - Vinayapiṭaka (ṭīkā) - Tīkā</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">Pācittiyakaṇḍaṃ</chapter>
     <subhead line="2">1. Paṭhamavaggavaṇṇanā</subhead>
     <paragraph line="3">Paṭhame <pageBreak edition="Myanmar" number="0.0114" /><pageBreak edition="Vipassana Research Institut" number="0.0110" /> haritapattavaṇṇo <bold>haritako. Cāpalasuṇaṃ</bold> amiñjako. Aṅkuramattameva hi tassa hoti. <bold>Palaṇḍukā</bold>dayo sabhāveneva vaṭṭanti. <bold>Sūpasampākādī</bold> vināpi antamaso yāgubhattepi pakkhipituṃ vaṭṭatīti likhitaṃ, ‘‘bhikkhuniyāpi gilānāya purebhattameva lasuṇaṃ kappati, na agilānāyā’’ti abhayagirīnaṃ uggahoti.</paragraph>

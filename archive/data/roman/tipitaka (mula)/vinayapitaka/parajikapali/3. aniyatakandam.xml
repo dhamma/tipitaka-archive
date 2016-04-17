@@ -1,17 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/vin01m.mul3.xml</normativeSource>
-    <archivePath>roman/tipitaka (mula)/vinayapitaka/parajikapali/3. aniyatakandam.xml</archivePath>
-    <baseFileName>3. aniyatakandam</baseFileName>
-    <titlePath>3. Aniyatakaṇḍaṃ - Pārājikapāḷi - Vinayapiṭaka - Tipiṭaka (Mūla)</titlePath>
     <versions>
       <version source="vipassana research institut" source-abbr="vri"/>
       <version source="sri lanka" source-abbr="sī."/>
       <version source="thai" source-abbr="syā."/>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/vin01m.mul3.xml</normativeSource>
+    <source>roman/tipitaka (mula)/vinayapitaka/parajikapali/3. aniyatakandam.xml</source>
+    <script>roman</script>
+    <directory>/tipitaka (mula)/vinayapitaka/parajikapali</directory>
+    <basename>3. aniyatakandam</basename>
+    <titlePath>3. Aniyatakaṇḍaṃ - Pārājikapāḷi - Vinayapiṭaka - Tipiṭaka (Mūla)</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">3. Aniyatakaṇḍaṃ</chapter>
     <title line="2">1. Paṭhamaaniyatasikkhāpadaṃ</title>
     <centered line="3">Ime <pageBreak edition="Thai" number="1.0431" /><pageBreak edition="Pali Text Society" number="3.0187" /> kho panāyasmanto dve aniyatā dhammā</centered>

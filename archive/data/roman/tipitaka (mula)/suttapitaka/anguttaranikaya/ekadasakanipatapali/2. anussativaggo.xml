@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/s0404m4.mul1.xml</normativeSource>
-    <archivePath>roman/tipitaka (mula)/suttapitaka/anguttaranikaya/ekadasakanipatapali/2. anussativaggo.xml</archivePath>
-    <baseFileName>2. anussativaggo</baseFileName>
-    <titlePath>2. Anussativaggo - Ekādasakanipātapāḷi - Aṅguttaranikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
     <versions>
       <version source="vipassana research institut" source-abbr="vri"/>
       <version source="thai" source-abbr="syā."/>
@@ -15,8 +11,14 @@
       <version source="sabbattha" source-abbr="sabbattha"/>
       <version source="ma. ni. 2.21" source-abbr="ma. ni. 2.21"/>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/s0404m4.mul1.xml</normativeSource>
+    <source>roman/tipitaka (mula)/suttapitaka/anguttaranikaya/ekadasakanipatapali/2. anussativaggo.xml</source>
+    <script>roman</script>
+    <directory>/tipitaka (mula)/suttapitaka/anguttaranikaya/ekadasakanipatapali</directory>
+    <basename>2. anussativaggo</basename>
+    <titlePath>2. Anussativaggo - Ekādasakanipātapāḷi - Aṅguttaranikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">2. Anussativaggo</chapter>
     <subhead line="2">1. Paṭhamamahānāmasuttaṃ</subhead>
     <paragraph line="3" number="11"> Ekaṃ <pageBreak edition="Thai" number="5.0355" /><pageBreak edition="Vipassana Research Institut" number="3.0296" /> samayaṃ bhagavā sakkesu viharati kapilavatthusmiṃ nigrodhārāme. Tena kho pana samayena sambahulā bhikkhū bhagavato cīvarakammaṃ karonti – ‘‘niṭṭhitacīvaro bhagavā temāsaccayena cārikaṃ pakkamissatī’’ti. Assosi kho mahānāmo sakko – ‘‘sambahulā kira bhikkhū bhagavato cīvarakammaṃ karonti – ‘niṭṭhitacīvaro bhagavā temāsaccayena cārikaṃ pakkamissatī’’’ti.</paragraph>

@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/abh06t.nrf66.xml</normativeSource>
-    <archivePath>roman/tika/abhidhammapitaka (tika)/abhidhammavataro-namarupaparicchedo/pancavisatimo paricchedo.xml</archivePath>
-    <baseFileName>pancavisatimo paricchedo</baseFileName>
-    <titlePath>Pañcavīsatimo paricchedo - Abhidhammāvatāro-nāmarūpaparicchedo - Abhidhammapiṭaka (ṭīkā) - Tīkā</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/abh06t.nrf66.xml</normativeSource>
+    <source>roman/tika/abhidhammapitaka (tika)/abhidhammavataro-namarupaparicchedo/pancavisatimo paricchedo.xml</source>
+    <script>roman</script>
+    <directory>/tika/abhidhammapitaka (tika)/abhidhammavataro-namarupaparicchedo</directory>
+    <basename>pancavisatimo paricchedo</basename>
+    <titlePath>Pañcavīsatimo paricchedo - Abhidhammāvatāro-nāmarūpaparicchedo - Abhidhammapiṭaka (ṭīkā) - Tīkā</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">Pañcavīsatimo paricchedo</chapter>
     <subhead line="2">25. Vipassanāvuddhikathā</subhead>
     <hangnum line="3" number="981"></hangnum>

@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/e1001n.nrf6.xml</normativeSource>
-    <archivePath>roman/anya/niti-gantha-sangaho/kavidappananiti/nayaka kanda.xml</archivePath>
-    <baseFileName>nayaka kanda</baseFileName>
-    <titlePath>Nāyaka kaṇḍa - Kavidappaṇanīti - Nīti-gantha-saṅgaho - Anya</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/e1001n.nrf6.xml</normativeSource>
+    <source>roman/anya/niti-gantha-sangaho/kavidappananiti/nayaka kanda.xml</source>
+    <script>roman</script>
+    <directory>/anya/niti-gantha-sangaho/kavidappananiti</directory>
+    <basename>nayaka kanda</basename>
+    <titlePath>Nāyaka kaṇḍa - Kavidappaṇanīti - Nīti-gantha-saṅgaho - Anya</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">Nāyaka kaṇḍa</chapter>
     <hangnum line="2" number="276"></hangnum>
     <gatha1 line="3"> Anāyakā <pageBreak edition="Myanmar" number="0.0165" /> vinassanti, nassanti bahunāyakā;</gatha1>

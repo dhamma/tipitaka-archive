@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/e0907n.nrf.xml</normativeSource>
-    <archivePath>roman/anya/sangayana-puccha vissajjana/atthakatha (pu-vi)/atthakatha.xml</archivePath>
-    <baseFileName>atthakatha</baseFileName>
-    <titlePath>Aṭṭhakathā - Aṭṭhakathā (pu-vi) - Saṅgāyana-puccha vissajjanā - Anya</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/e0907n.nrf.xml</normativeSource>
+    <source>roman/anya/sangayana-puccha vissajjana/atthakatha (pu-vi)/atthakatha.xml</source>
+    <script>roman</script>
+    <directory>/anya/sangayana-puccha vissajjana/atthakatha (pu-vi)</directory>
+    <basename>atthakatha</basename>
+    <titlePath>Aṭṭhakathā - Aṭṭhakathā (pu-vi) - Saṅgāyana-puccha vissajjanā - Anya</titlePath>
   </metadata>
-  <content>
+<content>
     <centered line="1"> Namo tassa bhagavato arahato sammāsambuddhassa</centered>
     <chapter line="2">Aṭṭhakathā</chapter>
     <subhead line="3">Saṃgāyanassa pucchā-vissajjanā</subhead>

@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/vin02m3.mul2.xml</normativeSource>
-    <archivePath>roman/tipitaka (mula)/vinayapitaka/culavaggapali/3. samuccayakkhandhakam.xml</archivePath>
-    <baseFileName>3. samuccayakkhandhakam</baseFileName>
-    <titlePath>3. Samuccayakkhandhakaṃ - Cūḷavaggapāḷi - Vinayapiṭaka - Tipiṭaka (Mūla)</titlePath>
     <versions>
       <version source="vipassana research institut" source-abbr="vri"/>
       <version source="thai" source-abbr="syā."/>
@@ -17,8 +13,14 @@
       <version source="4-6" source-abbr="4-6"/>
       <version source="7-9" source-abbr="7-9"/>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/vin02m3.mul2.xml</normativeSource>
+    <source>roman/tipitaka (mula)/vinayapitaka/culavaggapali/3. samuccayakkhandhakam.xml</source>
+    <script>roman</script>
+    <directory>/tipitaka (mula)/vinayapitaka/culavaggapali</directory>
+    <basename>3. samuccayakkhandhakam</basename>
+    <titlePath>3. Samuccayakkhandhakaṃ - Cūḷavaggapāḷi - Vinayapiṭaka - Tipiṭaka (Mūla)</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">3. Samuccayakkhandhakaṃ</chapter>
     <subhead line="2">1. Sukkavissaṭṭhi</subhead>
     <paragraph line="3" number="97"> Tena <pageBreak edition="Thai" number="1.0160" /><pageBreak edition="Pali Text Society" number="2.0038" /><pageBreak edition="Myanmar" number="0.0104" /><pageBreak edition="Vipassana Research Institut" number="0.0098" /> samayena buddho bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena āyasmā udāyī ekaṃ āpattiṃ āpanno hoti sañcetanikaṃ sukkavissaṭṭhiṃ appaṭicchannaṃ. So bhikkhūnaṃ ārocesi – ‘‘ahaṃ, āvuso, ekaṃ āpattiṃ āpajjiṃ sañcetanikaṃ sukkavissaṭṭhiṃ appaṭicchannaṃ. Kathaṃ nu kho mayā paṭipajjitabba’’nti? <alternatives line="3" extra="" separator="false"><alternative source-abbr="vri" source="vipassana research institut">Bhagavato</alternative><alternative source-abbr="syā." source="thai">te bhikkhū bhagavato</alternative></alternatives>  etamatthaṃ ārocesuṃ. ‘‘Tena hi, bhikkhave, saṅgho udāyissa bhikkhuno ekissā āpattiyā sañcetanikāya sukkavissaṭṭhiyā appaṭicchannāya chārattaṃ mānattaṃ detu. Evañca pana, bhikkhave, dātabbaṃ –</paragraph>

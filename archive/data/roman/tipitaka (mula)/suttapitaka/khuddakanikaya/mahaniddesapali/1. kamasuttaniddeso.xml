@@ -1,18 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/s0515m.mul0.xml</normativeSource>
-    <archivePath>roman/tipitaka (mula)/suttapitaka/khuddakanikaya/mahaniddesapali/1. kamasuttaniddeso.xml</archivePath>
-    <baseFileName>1. kamasuttaniddeso</baseFileName>
-    <titlePath>1. Kāmasuttaniddeso - Mahāniddesapāḷi - Khuddakanikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
     <versions>
       <version source="vipassana research institut" source-abbr="vri"/>
       <version source="sri lanka" source-abbr="sī."/>
       <version source="thai" source-abbr="syā."/>
       <version source="cambodian" source-abbr="ka."/>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/s0515m.mul0.xml</normativeSource>
+    <source>roman/tipitaka (mula)/suttapitaka/khuddakanikaya/mahaniddesapali/1. kamasuttaniddeso.xml</source>
+    <script>roman</script>
+    <directory>/tipitaka (mula)/suttapitaka/khuddakanikaya/mahaniddesapali</directory>
+    <basename>1. kamasuttaniddeso</basename>
+    <titlePath>1. Kāmasuttaniddeso - Mahāniddesapāḷi - Khuddakanikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
   </metadata>
-  <content>
+<content>
     <centered line="1"> Namo tassa bhagavato arahato sammāsambuddhassa</centered>
     <nikaya line="2">Khuddakanikāye</nikaya>
     <book line="3">Mahāniddesapāḷi</book>

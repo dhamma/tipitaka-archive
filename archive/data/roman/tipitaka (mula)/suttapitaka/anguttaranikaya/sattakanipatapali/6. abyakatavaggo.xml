@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/s0403m3.mul5.xml</normativeSource>
-    <archivePath>roman/tipitaka (mula)/suttapitaka/anguttaranikaya/sattakanipatapali/6. abyakatavaggo.xml</archivePath>
-    <baseFileName>6. abyakatavaggo</baseFileName>
-    <titlePath>6. Abyākatavaggo - Sattakanipātapāḷi - Aṅguttaranikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
     <versions>
       <version source="sri lanka" source-abbr="sī."/>
       <version source="vipassana research institut" source-abbr="vri"/>
@@ -16,8 +12,14 @@
       <version source="katthaci" source-abbr="katthaci"/>
       <version source="unknown" source-abbr="?"/>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/s0403m3.mul5.xml</normativeSource>
+    <source>roman/tipitaka (mula)/suttapitaka/anguttaranikaya/sattakanipatapali/6. abyakatavaggo.xml</source>
+    <script>roman</script>
+    <directory>/tipitaka (mula)/suttapitaka/anguttaranikaya/sattakanipatapali</directory>
+    <basename>6. abyakatavaggo</basename>
+    <titlePath>6. Abyākatavaggo - Sattakanipātapāḷi - Aṅguttaranikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">6. Abyākatavaggo</chapter>
     <subhead line="2">1. Abyākatasuttaṃ</subhead>
     <paragraph line="3" number="54"> Atha <pageBreak edition="Thai" number="4.0069" /><pageBreak edition="Myanmar" number="2.0448" /><pageBreak edition="Vipassana Research Institut" number="2.0211" /> kho aññataro bhikkhu yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ <pageBreak edition="Pali Text Society" number="4.0068" /> nisīdi. Ekamantaṃ nisinno kho so bhikkhu bhagavantaṃ etadavoca – ‘‘ko nu kho, bhante, hetu ko paccayo yena sutavato ariyasāvakassa vicikicchā nuppajjati abyākatavatthūsū’’ti?</paragraph>

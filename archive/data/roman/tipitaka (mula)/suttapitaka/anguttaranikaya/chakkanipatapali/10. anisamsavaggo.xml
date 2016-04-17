@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/s0403m2.mul9.xml</normativeSource>
-    <archivePath>roman/tipitaka (mula)/suttapitaka/anguttaranikaya/chakkanipatapali/10. anisamsavaggo.xml</archivePath>
-    <baseFileName>10. anisamsavaggo</baseFileName>
-    <titlePath>10. Ānisaṃsavaggo - Chakkanipātapāḷi - Aṅguttaranikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
     <versions>
       <version source="vipassana research institut" source-abbr="vri"/>
       <version source="thai" source-abbr="syā."/>
@@ -12,8 +8,14 @@
       <version source="pali text society" source-abbr="pī."/>
       <version source="cambodian" source-abbr="ka."/>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/s0403m2.mul9.xml</normativeSource>
+    <source>roman/tipitaka (mula)/suttapitaka/anguttaranikaya/chakkanipatapali/10. anisamsavaggo.xml</source>
+    <script>roman</script>
+    <directory>/tipitaka (mula)/suttapitaka/anguttaranikaya/chakkanipatapali</directory>
+    <basename>10. anisamsavaggo</basename>
+    <titlePath>10. Ānisaṃsavaggo - Chakkanipātapāḷi - Aṅguttaranikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">10. Ānisaṃsavaggo</chapter>
     <subhead line="2">1. Pātubhāvasuttaṃ</subhead>
     <paragraph line="3" number="96"> ‘‘Channaṃ <pageBreak edition="Thai" number="3.0491" /><pageBreak edition="Myanmar" number="2.0384" /><pageBreak edition="Pali Text Society" number="3.0441" /><pageBreak edition="Vipassana Research Institut" number="2.0141" />, bhikkhave, pātubhāvo dullabho lokasmiṃ. Katamesaṃ channaṃ? Tathāgatassa arahato sammāsambuddhassa pātubhāvo dullabho lokasmiṃ, tathāgatappaveditassa dhammavinayassa desetā puggalo dullabho lokasmiṃ, ariyāyatane <alternatives line="3" extra="" separator="false"><alternative source-abbr="vri" source="vipassana research institut">paccājāti dullabhā</alternative><alternative source-abbr="syā." source="thai">paccājāto dullabho</alternative></alternatives>  lokasmiṃ, indriyānaṃ avekallatā dullabhā lokasmiṃ, ajaḷatā aneḷamūgatā dullabhā lokasmiṃ, kusale dhamme <alternatives line="11" extra="" separator="false"><alternative source-abbr="vri" source="vipassana research institut">chando</alternative><alternative source-abbr="sī." source="sri lanka">kusaladhammacchando</alternative><alternative source-abbr="syā." source="thai">kusaladhammacchando</alternative><alternative source-abbr="pī." source="pali text society">kusaladhammacchando</alternative></alternatives>  dullabho lokasmiṃ. Imesaṃ kho, bhikkhave, channaṃ pātubhāvo dullabho lokasmi’’nti. Paṭhamaṃ.</paragraph>

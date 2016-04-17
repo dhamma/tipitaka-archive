@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/vin02t.tik19.xml</normativeSource>
-    <archivePath>roman/tika/vinayapitaka (tika)/saratthadipani-tika-3/culavagga-tika.xml</archivePath>
-    <baseFileName>culavagga-tika</baseFileName>
-    <titlePath>Cūḷavagga-ṭīkā - Sāratthadīpanī-ṭīkā-3 - Vinayapiṭaka (ṭīkā) - Tīkā</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/vin02t.tik19.xml</normativeSource>
+    <source>roman/tika/vinayapitaka (tika)/saratthadipani-tika-3/culavagga-tika.xml</source>
+    <script>roman</script>
+    <directory>/tika/vinayapitaka (tika)/saratthadipani-tika-3</directory>
+    <basename>culavagga-tika</basename>
+    <titlePath>Cūḷavagga-ṭīkā - Sāratthadīpanī-ṭīkā-3 - Vinayapiṭaka (ṭīkā) - Tīkā</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">Cūḷavagga-ṭīkā</chapter>
   </content>
 </document>

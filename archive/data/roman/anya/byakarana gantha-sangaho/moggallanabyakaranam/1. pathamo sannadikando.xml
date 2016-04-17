@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/e0801n.nrf1.xml</normativeSource>
-    <archivePath>roman/anya/byakarana gantha-sangaho/moggallanabyakaranam/1. pathamo sannadikando.xml</archivePath>
-    <baseFileName>1. pathamo sannadikando</baseFileName>
-    <titlePath>1. Paṭhamo saññādikaṇḍo - Moggallānabyākaraṇaṃ - Byākaraṇa gantha-saṅgaho - Anya</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/e0801n.nrf1.xml</normativeSource>
+    <source>roman/anya/byakarana gantha-sangaho/moggallanabyakaranam/1. pathamo sannadikando.xml</source>
+    <script>roman</script>
+    <directory>/anya/byakarana gantha-sangaho/moggallanabyakaranam</directory>
+    <basename>1. pathamo sannadikando</basename>
+    <titlePath>1. Paṭhamo saññādikaṇḍo - Moggallānabyākaraṇaṃ - Byākaraṇa gantha-saṅgaho - Anya</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">1. Paṭhamo saññādikaṇḍo</chapter>
     <gatha1 line="2">Siddhamiddhaguṇaṃ sādhu, namassitvā tathāgataṃ;</gatha1>
     <gathalast line="3">Sadhammasaṅghaṃ bhāsissaṃ, māgadhaṃ saddalakkhaṇaṃ.</gathalast>

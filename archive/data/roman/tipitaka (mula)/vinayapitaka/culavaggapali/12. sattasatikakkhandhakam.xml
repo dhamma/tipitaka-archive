@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/vin02m3.mul11.xml</normativeSource>
-    <archivePath>roman/tipitaka (mula)/vinayapitaka/culavaggapali/12. sattasatikakkhandhakam.xml</archivePath>
-    <baseFileName>12. sattasatikakkhandhakam</baseFileName>
-    <titlePath>12. Sattasatikakkhandhakaṃ - Cūḷavaggapāḷi - Vinayapiṭaka - Tipiṭaka (Mūla)</titlePath>
     <versions>
       <version source="vipassana research institut" source-abbr="vri"/>
       <version source="thai" source-abbr="syā."/>
@@ -12,8 +8,14 @@
       <version source="cambodian" source-abbr="ka."/>
       <version source="kaṃ." source-abbr="kaṃ."/>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/vin02m3.mul11.xml</normativeSource>
+    <source>roman/tipitaka (mula)/vinayapitaka/culavaggapali/12. sattasatikakkhandhakam.xml</source>
+    <script>roman</script>
+    <directory>/tipitaka (mula)/vinayapitaka/culavaggapali</directory>
+    <basename>12. sattasatikakkhandhakam</basename>
+    <titlePath>12. Sattasatikakkhandhakaṃ - Cūḷavaggapāḷi - Vinayapiṭaka - Tipiṭaka (Mūla)</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">12. Sattasatikakkhandhakaṃ</chapter>
     <subhead line="2">1. Paṭhamabhāṇavāro</subhead>
     <paragraph line="3" number="446"> Tena <pageBreak edition="Thai" number="2.0396" /><pageBreak edition="Pali Text Society" number="2.0294" /><pageBreak edition="Myanmar" number="0.0491" /><pageBreak edition="Vipassana Research Institut" number="0.0463" /> kho pana samayena vassasataparinibbute bhagavati vesālikā vajjiputtakā bhikkhū vesāliyaṃ dasa vatthūni dīpenti – kappati siṅgiloṇakappo, kappati dvaṅgulakappo, kappati gāmantarakappo, kappati āvāsakappo, kappati anumatikappo, kappati āciṇṇakappo, kappati amathitakappo, kappati jaḷogiṃ pātuṃ, kappati adasakaṃ nisīdanaṃ, kappati jātarūparajatanti.</paragraph>

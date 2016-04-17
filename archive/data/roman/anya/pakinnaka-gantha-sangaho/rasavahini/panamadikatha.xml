@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/e1101n.nrf0.xml</normativeSource>
-    <archivePath>roman/anya/pakinnaka-gantha-sangaho/rasavahini/panamadikatha.xml</archivePath>
-    <baseFileName>panamadikatha</baseFileName>
-    <titlePath>Paṇāmādikathā - Rasavāhinī - Pakiṇṇaka-gantha-saṅgaho - Anya</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/e1101n.nrf0.xml</normativeSource>
+    <source>roman/anya/pakinnaka-gantha-sangaho/rasavahini/panamadikatha.xml</source>
+    <script>roman</script>
+    <directory>/anya/pakinnaka-gantha-sangaho/rasavahini</directory>
+    <basename>panamadikatha</basename>
+    <titlePath>Paṇāmādikathā - Rasavāhinī - Pakiṇṇaka-gantha-saṅgaho - Anya</titlePath>
   </metadata>
-  <content>
+<content>
     <centered line="1">Namo tassa bhagavato arahato sammāsambuddhassa.</centered>
     <book line="2">Rasavāhinī</book>
     <subhead line="3">Paṇāmādikathā</subhead>

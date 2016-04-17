@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/s0402m3.mul11.xml</normativeSource>
-    <archivePath>roman/tipitaka (mula)/suttapitaka/anguttaranikaya/catukkanipatapali/(12) 2. kesivaggo.xml</archivePath>
-    <baseFileName>(12) 2. kesivaggo</baseFileName>
-    <titlePath>(12) 2. Kesivaggo - Catukkanipātapāḷi - Aṅguttaranikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
     <versions>
       <version source="vipassana research institut" source-abbr="vri"/>
       <version source="sri lanka" source-abbr="sī."/>
@@ -15,8 +11,14 @@
       <version source="sabbattha" source-abbr="sabbattha"/>
       <version source="unknown" source-abbr="?"/>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/s0402m3.mul11.xml</normativeSource>
+    <source>roman/tipitaka (mula)/suttapitaka/anguttaranikaya/catukkanipatapali/(12) 2. kesivaggo.xml</source>
+    <script>roman</script>
+    <directory>/tipitaka (mula)/suttapitaka/anguttaranikaya/catukkanipatapali</directory>
+    <basename>(12) 2. kesivaggo</basename>
+    <titlePath>(12) 2. Kesivaggo - Catukkanipātapāḷi - Aṅguttaranikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">(12) 2. Kesivaggo</chapter>
     <subhead line="2">1. Kesisuttaṃ</subhead>
     <paragraph line="3" number="111"> Atha <pageBreak edition="Vipassana Research Institut" number="1.0129" /><pageBreak edition="Myanmar" number="1.0427" /><pageBreak edition="Pali Text Society" number="2.0112" /> kho kesi assadammasārathi yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi. Ekamantaṃ nisinnaṃ kho kesiṃ assadammasārathiṃ bhagavā etadavoca – ‘‘tvaṃ khosi, kesi, <alternatives line="3" extra="" separator="false"><alternative source-abbr="vri" source="vipassana research institut">paññāto assadammasārathīti</alternative><alternative source-abbr="sī." source="sri lanka">saññāto assadammasārathi</alternative><alternative source-abbr="syā." source="thai">saññāto assadammasārathi</alternative><alternative source-abbr="kaṃ." source="kaṃ.">saññāto assadammasārathi</alternative><alternative source-abbr="pī." source="pali text society">saññāto assadammasārathi</alternative></alternatives> . Kathaṃ pana tvaṃ, kesi, assadammaṃ vinesī’’ti? ‘‘Ahaṃ kho, bhante, assadammaṃ saṇhenapi vinemi, pharusenapi vinemi <pageBreak edition="Thai" number="2.0151" />, saṇhapharusenapi vinemī’’ti. ‘‘Sace te, kesi, assadammo saṇhena vinayaṃ na upeti, pharusena vinayaṃ na upeti, saṇhapharusena vinayaṃ na upeti, kinti naṃ karosī’’ti? ‘‘Sace me, bhante, assadammo saṇhena vinayaṃ na upeti, pharusena vinayaṃ na upeti, saṇhapharusena vinayaṃ na upeti; hanāmi naṃ, bhante. Taṃ kissa hetu? Mā me ācariyakulassa avaṇṇo ahosī’’ti.</paragraph>

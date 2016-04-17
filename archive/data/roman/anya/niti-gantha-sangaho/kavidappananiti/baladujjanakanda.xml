@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/e1001n.nrf4.xml</normativeSource>
-    <archivePath>roman/anya/niti-gantha-sangaho/kavidappananiti/baladujjanakanda.xml</archivePath>
-    <baseFileName>baladujjanakanda</baseFileName>
-    <titlePath>Bāladujjanakaṇḍa - Kavidappaṇanīti - Nīti-gantha-saṅgaho - Anya</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/e1001n.nrf4.xml</normativeSource>
+    <source>roman/anya/niti-gantha-sangaho/kavidappananiti/baladujjanakanda.xml</source>
+    <script>roman</script>
+    <directory>/anya/niti-gantha-sangaho/kavidappananiti</directory>
+    <basename>baladujjanakanda</basename>
+    <titlePath>Bāladujjanakaṇḍa - Kavidappaṇanīti - Nīti-gantha-saṅgaho - Anya</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">Bāladujjanakaṇḍa</chapter>
     <hangnum line="2" number="206"></hangnum>
     <gatha1 line="3"> Kāyaduccaritādīhi <pageBreak edition="Myanmar" number="0.0124" />, sampanno pāpamānujo;</gatha1>

@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/s0501t.nrf0.xml</normativeSource>
-    <archivePath>roman/tika/suttapitaka (tika)/khuddakanikaya (tika)/nettivibhavini/1. sangahavaraatthavibhavana.xml</archivePath>
-    <baseFileName>1. sangahavaraatthavibhavana</baseFileName>
-    <titlePath>1. Saṅgahavāraatthavibhāvanā - Nettivibhāvinī - Khuddakanikāya (ṭīkā) - Suttapiṭaka (ṭīkā) - Tīkā</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/s0501t.nrf0.xml</normativeSource>
+    <source>roman/tika/suttapitaka (tika)/khuddakanikaya (tika)/nettivibhavini/1. sangahavaraatthavibhavana.xml</source>
+    <script>roman</script>
+    <directory>/tika/suttapitaka (tika)/khuddakanikaya (tika)/nettivibhavini</directory>
+    <basename>1. sangahavaraatthavibhavana</basename>
+    <titlePath>1. Saṅgahavāraatthavibhāvanā - Nettivibhāvinī - Khuddakanikāya (ṭīkā) - Suttapiṭaka (ṭīkā) - Tīkā</titlePath>
   </metadata>
-  <content>
+<content>
     <centered line="1"> Namo tassa bhagavato arahato sammāsambuddhassa</centered>
     <nikaya line="2">Khuddakanikāye</nikaya>
     <book line="3">Nettivibhāvinī</book>

@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/s0202m.mul1.xml</normativeSource>
-    <archivePath>roman/tipitaka (mula)/suttapitaka/majjhimanikaya/majjhimapannasapali/2. bhikkhuvaggo.xml</archivePath>
-    <baseFileName>2. bhikkhuvaggo</baseFileName>
-    <titlePath>2. Bhikkhuvaggo - Majjhimapaṇṇāsapāḷi - Majjhimanikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
     <versions>
       <version source="vipassana research institut" source-abbr="vri"/>
       <version source="sri lanka" source-abbr="sī."/>
@@ -15,8 +11,14 @@
       <version source="sabbattha" source-abbr="sabbattha"/>
       <version source="unknown" source-abbr="?"/>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/s0202m.mul1.xml</normativeSource>
+    <source>roman/tipitaka (mula)/suttapitaka/majjhimanikaya/majjhimapannasapali/2. bhikkhuvaggo.xml</source>
+    <script>roman</script>
+    <directory>/tipitaka (mula)/suttapitaka/majjhimanikaya/majjhimapannasapali</directory>
+    <basename>2. bhikkhuvaggo</basename>
+    <titlePath>2. Bhikkhuvaggo - Majjhimapaṇṇāsapāḷi - Majjhimanikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">2. Bhikkhuvaggo</chapter>
     <subhead line="2">1. Ambalaṭṭhikarāhulovādasuttaṃ</subhead>
     <paragraph line="3" number="107"><pageBreak edition="Myanmar" number="2.0077" /><pageBreak edition="Vipassana Research Institut" number="2.0084" /> Evaṃ <pageBreak edition="Thai" number="2.0123" /><pageBreak edition="Pali Text Society" number="1.0414" /> me sutaṃ – ekaṃ samayaṃ bhagavā rājagahe viharati veḷuvane kalandakanivāpe. Tena kho pana samayena āyasmā rāhulo ambalaṭṭhikāyaṃ viharati. Atha kho bhagavā sāyanhasamayaṃ paṭisallānā vuṭṭhito yena ambalaṭṭhikā yenāyasmā rāhulo tenupasaṅkami. Addasā kho āyasmā rāhulo bhagavantaṃ dūratova āgacchantaṃ. Disvāna āsanaṃ paññāpesi, udakañca pādānaṃ. Nisīdi bhagavā paññatte āsane. Nisajja pāde pakkhālesi. Āyasmāpi kho rāhulo bhagavantaṃ abhivādetvā ekamantaṃ nisīdi.</paragraph>

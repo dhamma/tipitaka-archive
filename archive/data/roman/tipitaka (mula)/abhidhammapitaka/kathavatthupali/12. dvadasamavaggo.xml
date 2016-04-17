@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/abh03m3.mul19.xml</normativeSource>
-    <archivePath>roman/tipitaka (mula)/abhidhammapitaka/kathavatthupali/12. dvadasamavaggo.xml</archivePath>
-    <baseFileName>12. dvadasamavaggo</baseFileName>
-    <titlePath>12. Dvādasamavaggo - Kathāvatthupāḷi - Abhidhammapiṭaka - Tipiṭaka (Mūla)</titlePath>
     <versions>
       <version source="vipassana research institut" source-abbr="vri"/>
       <version source="a. ni. 10.17" source-abbr="a. ni. 10.17"/>
@@ -14,8 +10,14 @@
       <version source="kaṃ." source-abbr="kaṃ."/>
       <version source="pali text society" source-abbr="pī."/>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/abh03m3.mul19.xml</normativeSource>
+    <source>roman/tipitaka (mula)/abhidhammapitaka/kathavatthupali/12. dvadasamavaggo.xml</source>
+    <script>roman</script>
+    <directory>/tipitaka (mula)/abhidhammapitaka/kathavatthupali</directory>
+    <basename>12. dvadasamavaggo</basename>
+    <titlePath>12. Dvādasamavaggo - Kathāvatthupāḷi - Abhidhammapiṭaka - Tipiṭaka (Mūla)</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">12. Dvādasamavaggo</chapter>
     <subhead line="2">(116) 1. Saṃvaro kammantikathā</subhead>
     <paragraph line="3" number="630"> Saṃvaro <pageBreak edition="Pali Text Society" number="0.0463" /> kammanti? Āmantā. Cakkhundriyasaṃvaro cakkhukammanti? Na hevaṃ vattabbe…pe… sotindriyasaṃvaro…pe… ghānindriyasaṃvaro…pe… jivhindriyasaṃvaro…pe… kāyindriyasaṃvaro kāyakammanti? Na hevaṃ vattabbe…pe….</paragraph>

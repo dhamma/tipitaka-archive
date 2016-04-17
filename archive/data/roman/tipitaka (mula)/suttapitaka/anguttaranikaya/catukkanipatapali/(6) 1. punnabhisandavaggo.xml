@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/s0402m3.mul5.xml</normativeSource>
-    <archivePath>roman/tipitaka (mula)/suttapitaka/anguttaranikaya/catukkanipatapali/(6) 1. punnabhisandavaggo.xml</archivePath>
-    <baseFileName>(6) 1. punnabhisandavaggo</baseFileName>
-    <titlePath>(6) 1. Puññābhisandavaggo - Catukkanipātapāḷi - Aṅguttaranikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
     <versions>
       <version source="vipassana research institut" source-abbr="vri"/>
       <version source="cambodian" source-abbr="ka."/>
@@ -13,8 +9,14 @@
       <version source="kaṃ." source-abbr="kaṃ."/>
       <version source="pali text society" source-abbr="pī."/>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/s0402m3.mul5.xml</normativeSource>
+    <source>roman/tipitaka (mula)/suttapitaka/anguttaranikaya/catukkanipatapali/(6) 1. punnabhisandavaggo.xml</source>
+    <script>roman</script>
+    <directory>/tipitaka (mula)/suttapitaka/anguttaranikaya/catukkanipatapali</directory>
+    <basename>(6) 1. punnabhisandavaggo</basename>
+    <titlePath>(6) 1. Puññābhisandavaggo - Catukkanipātapāḷi - Aṅguttaranikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">(6) 1. Puññābhisandavaggo</chapter>
     <subhead line="2">1. Paṭhamapuññābhisandasuttaṃ</subhead>
     <paragraph line="3" number="51"> Sāvatthinidānaṃ <pageBreak edition="Vipassana Research Institut" number="1.0063" /><pageBreak edition="Myanmar" number="1.0365" />. Cattārome <pageBreak edition="Thai" number="2.0071" />, bhikkhave, puññābhisandā kusalābhisandā sukhassāhārā sovaggikā sukhavipākā saggasaṃvattanikā iṭṭhāya kantāya manāpāya hitāya sukhāya saṃvattanti. Katame cattāro? Yassa, bhikkhave, bhikkhu cīvaraṃ paribhuñjamāno appamāṇaṃ cetosamādhiṃ upasampajja viharati, appamāṇo tassa puññābhisando kusalābhisando sukhassāhāro sovaggiko sukhavipāko saggasaṃvattaniko iṭṭhāya kantāya manāpāya hitāya sukhāya saṃvattati.</paragraph>

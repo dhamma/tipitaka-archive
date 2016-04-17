@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/vin02m3.mul4.xml</normativeSource>
-    <archivePath>roman/tipitaka (mula)/vinayapitaka/culavaggapali/5. khuddakavatthukkhandhakam.xml</archivePath>
-    <baseFileName>5. khuddakavatthukkhandhakam</baseFileName>
-    <titlePath>5. Khuddakavatthukkhandhakaṃ - Cūḷavaggapāḷi - Vinayapiṭaka - Tipiṭaka (Mūla)</titlePath>
     <versions>
       <version source="sri lanka" source-abbr="sī."/>
       <version source="thai" source-abbr="syā."/>
@@ -12,8 +8,14 @@
       <version source="abhidhānaganthesu" source-abbr="abhidhānaganthesu"/>
       <version source="cambodian" source-abbr="ka."/>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/vin02m3.mul4.xml</normativeSource>
+    <source>roman/tipitaka (mula)/vinayapitaka/culavaggapali/5. khuddakavatthukkhandhakam.xml</source>
+    <script>roman</script>
+    <directory>/tipitaka (mula)/vinayapitaka/culavaggapali</directory>
+    <basename>5. khuddakavatthukkhandhakam</basename>
+    <titlePath>5. Khuddakavatthukkhandhakaṃ - Cūḷavaggapāḷi - Vinayapiṭaka - Tipiṭaka (Mūla)</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">5. Khuddakavatthukkhandhakaṃ</chapter>
     <subhead line="2">Khuddakavatthūni</subhead>
     <paragraph line="3" number="243"> Tena <pageBreak edition="Thai" number="2.0001" /><pageBreak edition="Pali Text Society" number="2.0105" /><pageBreak edition="Myanmar" number="0.0239" /><pageBreak edition="Vipassana Research Institut" number="0.0221" /> samayena buddho bhagavā rājagahe viharati veḷuvane kalandakanivāpe. Tena kho pana samayena chabbaggiyā bhikkhū nahāyamānā rukkhe kāyaṃ ugghaṃsenti, ūrumpi bāhumpi urampi piṭṭhimpi. Manussā ujjhāyanti khiyyanti vipācenti – ‘‘kathañhi nāma samaṇā sakyaputtiyā nahāyamānā rukkhe kāyaṃ ugghaṃsessanti, ūrumpi bāhumpi urampi piṭṭhimpi, seyyathāpi mallamuṭṭhikā gāmamoddavā’’ti <note>gāmapoddavā (sī.), gāmapūtavā (syā.)</note>! Assosuṃ kho bhikkhū tesaṃ manussānaṃ ujjhāyantānaṃ khiyyantānaṃ vipācentānaṃ. Atha kho te bhikkhū bhagavato etamatthaṃ ārocesuṃ. Atha kho bhagavā etasmiṃ nidāne etasmiṃ pakaraṇe bhikkhusaṅghaṃ sannipātāpetvā bhikkhū paṭipucchi – ‘‘saccaṃ kira, bhikkhave, chabbaggiyā bhikkhū nahāyamānā rukkhe kāyaṃ ugghaṃsenti, ūrumpi bāhumpi urampi piṭṭhimpī’’ti? ‘‘Saccaṃ bhagavā’’ti. Vigarahi buddho bhagavā – ‘‘ananucchavikaṃ, bhikkhave <pageBreak edition="Thai" number="2.0002" />, tesaṃ moghapurisānaṃ ananulomikaṃ appatirūpaṃ assāmaṇakaṃ akappiyaṃ akaraṇīyaṃ. Kathañhi nāma te, bhikkhave, moghapurisā nahāyamānā rukkhe kāyaṃ ugghaṃsessanti, ūrumpi bāhumpi urampi piṭṭhimpi? Netaṃ, bhikkhave, appasannānaṃ vā pasādāya…pe… vigarahitvā…pe… dhammiṃ kathaṃ katvā bhikkhū āmantesi – ‘‘na, bhikkhave, nahāyamānena bhikkhunā rukkhe kāyo ugghaṃsetabbo. Yo ugghaṃseyya, āpatti dukkaṭassā’’ti.</paragraph>

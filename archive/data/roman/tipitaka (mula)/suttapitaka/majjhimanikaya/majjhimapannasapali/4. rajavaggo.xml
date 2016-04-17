@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/s0202m.mul3.xml</normativeSource>
-    <archivePath>roman/tipitaka (mula)/suttapitaka/majjhimanikaya/majjhimapannasapali/4. rajavaggo.xml</archivePath>
-    <baseFileName>4. rajavaggo</baseFileName>
-    <titlePath>4. Rājavaggo - Majjhimapaṇṇāsapāḷi - Majjhimanikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
     <versions>
       <version source="vipassana research institut" source-abbr="vri"/>
       <version source="sri lanka" source-abbr="sī."/>
@@ -23,8 +19,14 @@
       <version source="dī. ni. 2.43" source-abbr="dī. ni. 2.43"/>
       <version source="aṭṭha." source-abbr="aṭṭha."/>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/s0202m.mul3.xml</normativeSource>
+    <source>roman/tipitaka (mula)/suttapitaka/majjhimanikaya/majjhimapannasapali/4. rajavaggo.xml</source>
+    <script>roman</script>
+    <directory>/tipitaka (mula)/suttapitaka/majjhimanikaya/majjhimapannasapali</directory>
+    <basename>4. rajavaggo</basename>
+    <titlePath>4. Rājavaggo - Majjhimapaṇṇāsapāḷi - Majjhimanikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">4. Rājavaggo</chapter>
     <subhead line="2">1. Ghaṭikārasuttaṃ</subhead>
     <paragraph line="3" number="282"><pageBreak edition="Myanmar" number="2.0236" /> Evaṃ <pageBreak edition="Thai" number="2.0374" /><pageBreak edition="Vipassana Research Institut" number="2.0247" /><pageBreak edition="Pali Text Society" number="2.0045" /> me sutaṃ – ekaṃ samayaṃ bhagavā kosalesu cārikaṃ carati mahatā bhikkhusaṅghena saddhiṃ. Atha kho bhagavā maggā okkamma aññatarasmiṃ padese sitaṃ pātvākāsi. Atha kho āyasmato ānandassa etadahosi – ‘‘ko nu kho hetu, ko paccayo bhagavato sitassa pātukammāya? <alternatives line="3" extra="" separator="false"><alternative source-abbr="vri" source="vipassana research institut">Na akāraṇena</alternative><alternative source-abbr="sī." source="sri lanka">na akāraṇe</alternative></alternatives>  tathāgatā sitaṃ pātukarontī’’ti. Atha kho āyasmā ānando ekaṃsaṃ cīvaraṃ <note>uttarāsaṅga (syā. kaṃ.)</note> katvā yena bhagavā tenañjaliṃ paṇāmetvā bhagavantaṃ etadavoca – ‘‘ko nu kho, bhante, hetu, ko paccayo bhagavato sitassa pātukammāya? Na akāraṇena tathāgatā sitaṃ pātukarontī’’ti. ‘‘Bhūtapubbaṃ, ānanda, imasmiṃ padese <alternatives line="18" extra="" separator="true"><alternative source-abbr="vri" source="vipassana research institut">vegaḷiṅgaṃ</alternative><alternative source-abbr="sī." source="sri lanka">vehaliṅgaṃ</alternative><alternative source-abbr="syā." source="thai">vebhaligaṃ</alternative><alternative source-abbr="kaṃ." source="kaṃ.">vebhaligaṃ</alternative><alternative source-abbr="pī." source="pali text society">vebhaliṅgaṃ</alternative></alternatives>  nāma gāmanigamo ahosi iddho ceva phīto ca bahujano ākiṇṇamanusso. Vegaḷiṅgaṃ kho, ānanda, gāmanigamaṃ kassapo bhagavā arahaṃ sammāsambuddho upanissāya vihāsi. Idha sudaṃ, ānanda, kassapassa bhagavato arahato sammāsambuddhassa ārāmo ahosi. Idha sudaṃ, ānanda, kassapo bhagavā arahaṃ sammāsambuddho nisinnako bhikkhusaṅghaṃ ovadatī’’ti. Atha <pageBreak edition="Thai" number="2.0375" /> kho āyasmā ānando catugguṇaṃ saṅghāṭiṃ paññapetvā bhagavantaṃ etadavoca – ‘‘tena hi, bhante, bhagavā nisīdatu ettha. Ayaṃ bhūmipadeso dvīhi arahantehi sammāsambuddhehi paribhutto bhavissatī’’ti. Nisīdi bhagavā paññatte āsane. Nisajja kho bhagavā āyasmantaṃ ānandaṃ āmantesi –</paragraph>

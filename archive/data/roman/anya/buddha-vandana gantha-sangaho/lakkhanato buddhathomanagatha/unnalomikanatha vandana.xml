@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/e0603n.nrf2.xml</normativeSource>
-    <archivePath>roman/anya/buddha-vandana gantha-sangaho/lakkhanato buddhathomanagatha/unnalomikanatha vandana.xml</archivePath>
-    <baseFileName>unnalomikanatha vandana</baseFileName>
-    <titlePath>Uṇṇālomikanātha vandanā - Lakkhaṇāto buddhathomanāgāthā - Buddha-vandanā gantha-saṅgaho - Anya</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/e0603n.nrf2.xml</normativeSource>
+    <source>roman/anya/buddha-vandana gantha-sangaho/lakkhanato buddhathomanagatha/unnalomikanatha vandana.xml</source>
+    <script>roman</script>
+    <directory>/anya/buddha-vandana gantha-sangaho/lakkhanato buddhathomanagatha</directory>
+    <basename>unnalomikanatha vandana</basename>
+    <titlePath>Uṇṇālomikanātha vandanā - Lakkhaṇāto buddhathomanāgāthā - Buddha-vandanā gantha-saṅgaho - Anya</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">Uṇṇālomikanātha vandanā</chapter>
     <gatha1 line="2">Uṇṇālodhikanāthassa <pageBreak edition="Myanmar" number="0.0071" />,</gatha1>
     <gatha2 line="3">Uṇṇāya bhamukantare;</gatha2>

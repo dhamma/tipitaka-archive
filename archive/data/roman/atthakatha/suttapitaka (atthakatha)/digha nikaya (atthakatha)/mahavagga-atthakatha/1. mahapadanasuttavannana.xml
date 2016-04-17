@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/s0102a.att0.xml</normativeSource>
-    <archivePath>roman/atthakatha/suttapitaka (atthakatha)/digha nikaya (atthakatha)/mahavagga-atthakatha/1. mahapadanasuttavannana.xml</archivePath>
-    <baseFileName>1. mahapadanasuttavannana</baseFileName>
-    <titlePath>1. Mahāpadānasuttavaṇṇanā - Mahāvagga-aṭṭhakathā - Dīgha nikāya (aṭṭhakathā) - Suttapiṭaka (aṭṭhakathā) - Aṭṭhakathā</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/s0102a.att0.xml</normativeSource>
+    <source>roman/atthakatha/suttapitaka (atthakatha)/digha nikaya (atthakatha)/mahavagga-atthakatha/1. mahapadanasuttavannana.xml</source>
+    <script>roman</script>
+    <directory>/atthakatha/suttapitaka (atthakatha)/digha nikaya (atthakatha)/mahavagga-atthakatha</directory>
+    <basename>1. mahapadanasuttavannana</basename>
+    <titlePath>1. Mahāpadānasuttavaṇṇanā - Mahāvagga-aṭṭhakathā - Dīgha nikāya (aṭṭhakathā) - Suttapiṭaka (aṭṭhakathā) - Aṭṭhakathā</titlePath>
   </metadata>
-  <content>
+<content>
     <centered line="1"> Namo tassa bhagavato arahato sammāsambuddhassa</centered>
     <nikaya line="2">Dīghanikāye</nikaya>
     <book line="3">Mahāvaggaṭṭhakathā</book>

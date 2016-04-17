@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/s0403t.tik2.xml</normativeSource>
-    <archivePath>roman/tika/suttapitaka (tika)/anguttaranikaya (tika)/pancaka-chakka-sattakanipata-tika/3. pancangikavaggo.xml</archivePath>
-    <baseFileName>3. pancangikavaggo</baseFileName>
-    <titlePath>3. Pañcaṅgikavaggo - Pañcaka-chakka-sattakanipāta-ṭīkā - Aṅguttaranikāya (ṭīkā) - Suttapiṭaka (ṭīkā) - Tīkā</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/s0403t.tik2.xml</normativeSource>
+    <source>roman/tika/suttapitaka (tika)/anguttaranikaya (tika)/pancaka-chakka-sattakanipata-tika/3. pancangikavaggo.xml</source>
+    <script>roman</script>
+    <directory>/tika/suttapitaka (tika)/anguttaranikaya (tika)/pancaka-chakka-sattakanipata-tika</directory>
+    <basename>3. pancangikavaggo</basename>
+    <titlePath>3. Pañcaṅgikavaggo - Pañcaka-chakka-sattakanipāta-ṭīkā - Aṅguttaranikāya (ṭīkā) - Suttapiṭaka (ṭīkā) - Tīkā</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">3. Pañcaṅgikavaggo</chapter>
     <subhead line="2">1-2. Paṭhamaagāravasuttādivaṇṇanā</subhead>
     <paragraph line="3" number="21-22"> Tatiyassa <pageBreak edition="Vipassana Research Institut" number="3.0007" /><pageBreak edition="Myanmar" number="3.0007" /> paṭhame <bold>ābhisamācārika</bold>nti abhisamācāre uttamasamācāre bhavaṃ. Kiṃ pana tanti āha <bold>‘‘vattavasena paññattasīla’’</bold>nti. Sesaṃ suviññeyyameva. Dutiye natthi vattabbaṃ.</paragraph>

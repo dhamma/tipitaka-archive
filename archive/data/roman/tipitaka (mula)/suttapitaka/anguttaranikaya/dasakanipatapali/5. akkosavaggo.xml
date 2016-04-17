@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/s0404m3.mul4.xml</normativeSource>
-    <archivePath>roman/tipitaka (mula)/suttapitaka/anguttaranikaya/dasakanipatapali/5. akkosavaggo.xml</archivePath>
-    <baseFileName>5. akkosavaggo</baseFileName>
-    <titlePath>5. Akkosavaggo - Dasakanipātapāḷi - Aṅguttaranikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
     <versions>
       <version source="vipassana research institut" source-abbr="vri"/>
       <version source="unknown" source-abbr="?"/>
@@ -13,8 +9,14 @@
       <version source="pali text society" source-abbr="pī."/>
       <version source="thai" source-abbr="syā."/>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/s0404m3.mul4.xml</normativeSource>
+    <source>roman/tipitaka (mula)/suttapitaka/anguttaranikaya/dasakanipatapali/5. akkosavaggo.xml</source>
+    <script>roman</script>
+    <directory>/tipitaka (mula)/suttapitaka/anguttaranikaya/dasakanipatapali</directory>
+    <basename>5. akkosavaggo</basename>
+    <titlePath>5. Akkosavaggo - Dasakanipātapāḷi - Aṅguttaranikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">5. Akkosavaggo</chapter>
     <subhead line="2">1. Vivādasuttaṃ</subhead>
     <paragraph line="3" number="41"> Atha <pageBreak edition="Thai" number="5.0081" /><pageBreak edition="Vipassana Research Institut" number="3.0064" /> kho āyasmā upāli yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi. Ekamantaṃ nisinno kho <pageBreak edition="Myanmar" number="3.0317" /> āyasmā upāli bhagavantaṃ etadavoca – ‘‘ko nu kho, bhante, hetu ko paccayo, yena saṅghe bhaṇḍanakalahaviggahavivādā uppajjanti, bhikkhū ca na <alternatives line="3" extra="" separator="false"><alternative source-abbr="vri" source="vipassana research institut">phāsu</alternative><alternative source-abbr="?" source="unknown">phāsuṃ</alternative></alternatives>  viharantī’’ti? ‘‘Idhupāli, bhikkhū adhammaṃ dhammoti dīpenti, dhammaṃ adhammoti dīpenti, avinayaṃ vinayoti dīpenti, vinayaṃ avinayoti dīpenti, abhāsitaṃ alapitaṃ tathāgatena bhāsitaṃ lapitaṃ tathāgatenāti dīpenti, bhāsitaṃ lapitaṃ tathāgatena abhāsitaṃ alapitaṃ tathāgatenāti dīpenti, anāciṇṇaṃ tathāgatena āciṇṇaṃ tathāgatenāti dīpenti, āciṇṇaṃ tathāgatena anāciṇṇaṃ tathāgatenāti dīpenti, apaññattaṃ tathāgatena paññattaṃ tathāgatenāti <pageBreak edition="Pali Text Society" number="5.0078" /> dīpenti, paññattaṃ tathāgatena apaññattaṃ tathāgatenāti dīpenti. Ayaṃ kho, upāli, hetu ayaṃ paccayo, yena saṅghe bhaṇḍanakalahaviggahavivādā uppajjanti, bhikkhū ca na phāsu viharantī’’ti. Paṭhamaṃ.</paragraph>

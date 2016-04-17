@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/s0403m2.mul8.xml</normativeSource>
-    <archivePath>roman/tipitaka (mula)/suttapitaka/anguttaranikaya/chakkanipatapali/9. sitivaggo.xml</archivePath>
-    <baseFileName>9. sitivaggo</baseFileName>
-    <titlePath>9. Sītivaggo - Chakkanipātapāḷi - Aṅguttaranikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
     <versions>
       <version source="vipassana research institut" source-abbr="vri"/>
       <version source="thai" source-abbr="syā."/>
@@ -13,8 +9,14 @@
       <version source="sri lanka" source-abbr="sī."/>
       <version source="pali text society" source-abbr="pī."/>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/s0403m2.mul8.xml</normativeSource>
+    <source>roman/tipitaka (mula)/suttapitaka/anguttaranikaya/chakkanipatapali/9. sitivaggo.xml</source>
+    <script>roman</script>
+    <directory>/tipitaka (mula)/suttapitaka/anguttaranikaya/chakkanipatapali</directory>
+    <basename>9. sitivaggo</basename>
+    <titlePath>9. Sītivaggo - Chakkanipātapāḷi - Aṅguttaranikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">9. Sītivaggo</chapter>
     <subhead line="2">1. Sītibhāvasuttaṃ</subhead>
     <paragraph line="3" number="85"> ‘‘Chahi <pageBreak edition="Vipassana Research Institut" number="2.0136" />, bhikkhave, dhammehi samannāgato bhikkhu abhabbo anuttaraṃ sītibhāvaṃ sacchikātuṃ. Katamehi chahi <note>visuddhi. 1.64 ādayo vitthāro</note>? Idha, bhikkhave, bhikkhu yasmiṃ samaye cittaṃ niggahetabbaṃ tasmiṃ samaye cittaṃ na niggaṇhāti, yasmiṃ samaye cittaṃ paggahetabbaṃ tasmiṃ samaye cittaṃ na paggaṇhāti, yasmiṃ samaye cittaṃ sampahaṃsitabbaṃ tasmiṃ samaye cittaṃ na sampahaṃseti, yasmiṃ samaye cittaṃ ajjhupekkhitabbaṃ tasmiṃ samaye cittaṃ na ajjhupekkhati, hīnādhimuttiko ca hoti, sakkāyābhirato ca. Imehi kho, bhikkhave, chahi dhammehi samannāgato bhikkhu abhabbo anuttaraṃ sītibhāvaṃ sacchikātuṃ.</paragraph>

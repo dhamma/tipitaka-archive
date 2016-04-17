@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/e1214n.nrf7.xml</normativeSource>
-    <archivePath>roman/anya/sihala-gantha-sangaho/kaccayanadhatumanjusa/tanadayo.xml</archivePath>
-    <baseFileName>tanadayo</baseFileName>
-    <titlePath>Tanādayo  - Kaccāyanadhātumañjusā - Sihaḷa-gantha-saṅgaho - Anya</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/e1214n.nrf7.xml</normativeSource>
+    <source>roman/anya/sihala-gantha-sangaho/kaccayanadhatumanjusa/tanadayo.xml</source>
+    <script>roman</script>
+    <directory>/anya/sihala-gantha-sangaho/kaccayanadhatumanjusa</directory>
+    <basename>tanadayo</basename>
+    <titlePath>Tanādayo  - Kaccāyanadhātumañjusā - Sihaḷa-gantha-saṅgaho - Anya</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">Tanādayo <pageBreak edition="Vipassana Research Institut" number="0.0028" /></chapter>
     <hangnum line="2" number="120"></hangnum>
     <gatha1 line="3"> Tanu vitthāre saka sattismiṃ-du paritāpe sanu dānasmiṃ,</gatha1>

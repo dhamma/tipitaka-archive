@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/e0602n.nrf2.xml</normativeSource>
-    <archivePath>roman/anya/buddha-vandana gantha-sangaho/mahapanamapatha/vasamalinikya.xml</archivePath>
-    <baseFileName>vasamalinikya</baseFileName>
-    <titlePath>Vāsamālinīkya - Mahāpaṇāmapāṭha - Buddha-vandanā gantha-saṅgaho - Anya</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/e0602n.nrf2.xml</normativeSource>
+    <source>roman/anya/buddha-vandana gantha-sangaho/mahapanamapatha/vasamalinikya.xml</source>
+    <script>roman</script>
+    <directory>/anya/buddha-vandana gantha-sangaho/mahapanamapatha</directory>
+    <basename>vasamalinikya</basename>
+    <titlePath>Vāsamālinīkya - Mahāpaṇāmapāṭha - Buddha-vandanā gantha-saṅgaho - Anya</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">Vāsamālinīkya</chapter>
     <centered line="2">Namo tassa bhagavato arahato sammāsambuddhassa</centered>
     <hangnum line="3" number="1"></hangnum>

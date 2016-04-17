@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/e1214n.nrf0.xml</normativeSource>
-    <archivePath>roman/anya/sihala-gantha-sangaho/kaccayanadhatumanjusa/kaccayana dhatu manjusa.xml</archivePath>
-    <baseFileName>kaccayana dhatu manjusa</baseFileName>
-    <titlePath>Kaccāyana dhātu mañjūsā - Kaccāyanadhātumañjusā - Sihaḷa-gantha-saṅgaho - Anya</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/e1214n.nrf0.xml</normativeSource>
+    <source>roman/anya/sihala-gantha-sangaho/kaccayanadhatumanjusa/kaccayana dhatu manjusa.xml</source>
+    <script>roman</script>
+    <directory>/anya/sihala-gantha-sangaho/kaccayanadhatumanjusa</directory>
+    <basename>kaccayana dhatu manjusa</basename>
+    <titlePath>Kaccāyana dhātu mañjūsā - Kaccāyanadhātumañjusā - Sihaḷa-gantha-saṅgaho - Anya</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">Kaccāyana <pageBreak edition="Vipassana Research Institut" number="0.0001" /> dhātu mañjūsā</chapter>
     <centered line="2"> Namo tassa bhagavato arahato sammāsambuddhassa</centered>
     <gatha1 line="3">Nirutti nikarā’pāra-pāravāra’ntagaṃ muniṃ,</gatha1>

@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/e1202n.nrf0.xml</normativeSource>
-    <archivePath>roman/anya/sihala-gantha-sangaho/thupavamsa/thupavamso.xml</archivePath>
-    <baseFileName>thupavamso</baseFileName>
-    <titlePath>Thupavaṃso  - Thūpavaṃsa - Sihaḷa-gantha-saṅgaho - Anya</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/e1202n.nrf0.xml</normativeSource>
+    <source>roman/anya/sihala-gantha-sangaho/thupavamsa/thupavamso.xml</source>
+    <script>roman</script>
+    <directory>/anya/sihala-gantha-sangaho/thupavamsa</directory>
+    <basename>thupavamso</basename>
+    <titlePath>Thupavaṃso  - Thūpavaṃsa - Sihaḷa-gantha-saṅgaho - Anya</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">Thupavaṃso <pageBreak edition="Vipassana Research Institut" number="0.0001" /></chapter>
     <centered line="2">Namo tassa bhagavato arahato sammāsambuddhassa</centered>
     <gatha1 line="3">Yasmiṃ sayiṃsu jinadhātuvarā samantā</gatha1>

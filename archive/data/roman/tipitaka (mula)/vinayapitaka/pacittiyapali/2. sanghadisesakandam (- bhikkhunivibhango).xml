@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/vin02m1.mul5.xml</normativeSource>
-    <archivePath>roman/tipitaka (mula)/vinayapitaka/pacittiyapali/2. sanghadisesakandam (- bhikkhunivibhango).xml</archivePath>
-    <baseFileName>2. sanghadisesakandam (- bhikkhunivibhango)</baseFileName>
-    <titlePath>2. Saṅghādisesakaṇḍaṃ (bhikkhunīvibhaṅgo) - Pācittiyapāḷi - Vinayapiṭaka - Tipiṭaka (Mūla)</titlePath>
     <versions>
       <version source="vipassana research institut" source-abbr="vri"/>
       <version source="sri lanka" source-abbr="sī."/>
@@ -12,8 +8,14 @@
       <version source="cambodian" source-abbr="ka."/>
       <version source="unknown" source-abbr="?"/>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/vin02m1.mul5.xml</normativeSource>
+    <source>roman/tipitaka (mula)/vinayapitaka/pacittiyapali/2. sanghadisesakandam (- bhikkhunivibhango).xml</source>
+    <script>roman</script>
+    <directory>/tipitaka (mula)/vinayapitaka/pacittiyapali</directory>
+    <basename>2. sanghadisesakandam (- bhikkhunivibhango)</basename>
+    <titlePath>2. Saṅghādisesakaṇḍaṃ (bhikkhunīvibhaṅgo) - Pācittiyapāḷi - Vinayapiṭaka - Tipiṭaka (Mūla)</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">2. Saṅghādisesakaṇḍaṃ (bhikkhunīvibhaṅgo)</chapter>
     <subhead line="2">1. Paṭhamasaṅghādisesasikkhāpadaṃ</subhead>
     <centered line="3">Ime kho panāyyāyo sattarasa saṅghādisesā</centered>

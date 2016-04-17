@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/e0201n.nrf0.xml</normativeSource>
-    <archivePath>roman/anya/ledi sayado gantha-sangaho/niruttidipani/1. sandhikanda.xml</archivePath>
-    <baseFileName>1. sandhikanda</baseFileName>
-    <titlePath>1. Sandhikaṇḍa - Niruttidīpanī - Leḍī sayāḍo gantha-saṅgaho - Anya</titlePath>
     <versions>
       <version source="vipassana research institut" source-abbr="vri"/>
       <version source="bahūsu" source-abbr="bahūsu"/>
@@ -15,8 +11,14 @@
       <version source="dinnamhāti janindena" source-abbr="dinnamhāti janindena"/>
       <version source="na hi no koci pariyāyo" source-abbr="na hi no koci pariyāyo"/>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/e0201n.nrf0.xml</normativeSource>
+    <source>roman/anya/ledi sayado gantha-sangaho/niruttidipani/1. sandhikanda.xml</source>
+    <script>roman</script>
+    <directory>/anya/ledi sayado gantha-sangaho/niruttidipani</directory>
+    <basename>1. sandhikanda</basename>
+    <titlePath>1. Sandhikaṇḍa - Niruttidīpanī - Leḍī sayāḍo gantha-saṅgaho - Anya</titlePath>
   </metadata>
-  <content>
+<content>
     <centered line="1"> Namo tassa bhagavato arahato sammāsambuddhassa </centered>
     <book line="2">Niruttidīpanīpāṭha</book>
     <subsubhead line="3">Ganthārambha</subsubhead>

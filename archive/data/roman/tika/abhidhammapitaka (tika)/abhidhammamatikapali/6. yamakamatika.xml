@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/abh09t.nrf5.xml</normativeSource>
-    <archivePath>roman/tika/abhidhammapitaka (tika)/abhidhammamatikapali/6. yamakamatika.xml</archivePath>
-    <baseFileName>6. yamakamatika</baseFileName>
-    <titlePath>6. Yamakamātikā - Abhidhammamātikāpāḷi - Abhidhammapiṭaka (ṭīkā) - Tīkā</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/abh09t.nrf5.xml</normativeSource>
+    <source>roman/tika/abhidhammapitaka (tika)/abhidhammamatikapali/6. yamakamatika.xml</source>
+    <script>roman</script>
+    <directory>/tika/abhidhammapitaka (tika)/abhidhammamatikapali</directory>
+    <basename>6. yamakamatika</basename>
+    <titlePath>6. Yamakamātikā - Abhidhammamātikāpāḷi - Abhidhammapiṭaka (ṭīkā) - Tīkā</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">6. Yamakamātikā</chapter>
     <title line="2">Mūlayamakaṃ</title>
     <title line="3">Kusalapadanayacatukkaṃ</title>

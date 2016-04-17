@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/abh03m6.mul1.xml</normativeSource>
-    <archivePath>roman/tipitaka (mula)/abhidhammapitaka/yamakapali-3/10. indriyayamakam.xml</archivePath>
-    <baseFileName>10. indriyayamakam</baseFileName>
-    <titlePath>10. Indriyayamakaṃ - Yamakapāḷi-3 - Abhidhammapiṭaka - Tipiṭaka (Mūla)</titlePath>
     <versions>
       <version source="vipassana research institut" source-abbr="vri"/>
       <version source="sri lanka" source-abbr="sī."/>
@@ -12,8 +8,14 @@
       <version source="cambodian" source-abbr="ka."/>
       <version source="pali text society" source-abbr="pī."/>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/abh03m6.mul1.xml</normativeSource>
+    <source>roman/tipitaka (mula)/abhidhammapitaka/yamakapali-3/10. indriyayamakam.xml</source>
+    <script>roman</script>
+    <directory>/tipitaka (mula)/abhidhammapitaka/yamakapali-3</directory>
+    <basename>10. indriyayamakam</basename>
+    <titlePath>10. Indriyayamakaṃ - Yamakapāḷi-3 - Abhidhammapiṭaka - Tipiṭaka (Mūla)</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">10. Indriyayamakaṃ</chapter>
     <title line="2">1. Paṇṇattivāro</title>
     <subhead line="3">(Ka) uddeso</subhead>

@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/e1001n.nrf0.xml</normativeSource>
-    <archivePath>roman/anya/niti-gantha-sangaho/kavidappananiti/matika.xml</archivePath>
-    <baseFileName>matika</baseFileName>
-    <titlePath>Mātikā - Kavidappaṇanīti - Nīti-gantha-saṅgaho - Anya</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/e1001n.nrf0.xml</normativeSource>
+    <source>roman/anya/niti-gantha-sangaho/kavidappananiti/matika.xml</source>
+    <script>roman</script>
+    <directory>/anya/niti-gantha-sangaho/kavidappananiti</directory>
+    <basename>matika</basename>
+    <titlePath>Mātikā - Kavidappaṇanīti - Nīti-gantha-saṅgaho - Anya</titlePath>
   </metadata>
-  <content>
+<content>
     <centered line="1"> Namo tassa bhagavato arahato sammāsambuddhassa</centered>
     <book line="2">Kavidappaṇanīti</book>
     <chapter line="3">Mātikā</chapter>

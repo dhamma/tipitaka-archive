@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/e1204n.nrf.xml</normativeSource>
-    <archivePath>roman/anya/sihala-gantha-sangaho/dhatupathavilasiniya/dhatupatha vilasiniya.xml</archivePath>
-    <baseFileName>dhatupatha vilasiniya</baseFileName>
-    <titlePath>Dhātupāṭha vilāsiniyā - Dhātupāṭhavilāsiniyā - Sihaḷa-gantha-saṅgaho - Anya</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/e1204n.nrf.xml</normativeSource>
+    <source>roman/anya/sihala-gantha-sangaho/dhatupathavilasiniya/dhatupatha vilasiniya.xml</source>
+    <script>roman</script>
+    <directory>/anya/sihala-gantha-sangaho/dhatupathavilasiniya</directory>
+    <basename>dhatupatha vilasiniya</basename>
+    <titlePath>Dhātupāṭha vilāsiniyā - Dhātupāṭhavilāsiniyā - Sihaḷa-gantha-saṅgaho - Anya</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">Dhātupāṭha <pageBreak edition="Vipassana Research Institut" number="0.0001" /> vilāsiniyā</chapter>
     <centered line="2">Namo tassa bhagavato arahato sammāsambuddhassa</centered>
     <hangnum line="3" number="1"></hangnum>

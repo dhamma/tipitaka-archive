@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/s0502m.mul17.xml</normativeSource>
-    <archivePath>roman/tipitaka (mula)/suttapitaka/khuddakanikaya/dhammapadapali/18. malavaggo.xml</archivePath>
-    <baseFileName>18. malavaggo</baseFileName>
-    <titlePath>18. Malavaggo - Dhammapadapāḷi - Khuddakanikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
     <versions>
       <version source="sri lanka" source-abbr="sī."/>
       <version source="thai" source-abbr="syā."/>
@@ -16,8 +12,14 @@
       <version source="cambodian" source-abbr="ka."/>
       <version source="katthaci" source-abbr="katthaci"/>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/s0502m.mul17.xml</normativeSource>
+    <source>roman/tipitaka (mula)/suttapitaka/khuddakanikaya/dhammapadapali/18. malavaggo.xml</source>
+    <script>roman</script>
+    <directory>/tipitaka (mula)/suttapitaka/khuddakanikaya/dhammapadapali</directory>
+    <basename>18. malavaggo</basename>
+    <titlePath>18. Malavaggo - Dhammapadapāḷi - Khuddakanikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">18. Malavaggo</chapter>
     <hangnum line="2" number="235"></hangnum>
     <gatha1 line="3"> Paṇḍupalāsova <pageBreak edition="Pali Text Society" number="0.0035" /> dānisi, yamapurisāpi ca te <note>taṃ (sī. syā. kaṃ. pī.)</note> upaṭṭhitā;</gatha1>

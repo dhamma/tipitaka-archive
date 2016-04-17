@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/s0510m2.mul8.xml</normativeSource>
-    <archivePath>roman/tipitaka (mula)/suttapitaka/khuddakanikaya/apadanapali-2/51. kanikaravaggo.xml</archivePath>
-    <baseFileName>51. kanikaravaggo</baseFileName>
-    <titlePath>51. Kaṇikāravaggo - Apadānapāḷi-2 - Khuddakanikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
     <versions>
       <version source="vipassana research institut" source-abbr="vri"/>
       <version source="thai" source-abbr="syā."/>
@@ -12,8 +8,14 @@
       <version source="sri lanka" source-abbr="sī."/>
       <version source="pali text society" source-abbr="pī."/>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/s0510m2.mul8.xml</normativeSource>
+    <source>roman/tipitaka (mula)/suttapitaka/khuddakanikaya/apadanapali-2/51. kanikaravaggo.xml</source>
+    <script>roman</script>
+    <directory>/tipitaka (mula)/suttapitaka/khuddakanikaya/apadanapali-2</directory>
+    <basename>51. kanikaravaggo</basename>
+    <titlePath>51. Kaṇikāravaggo - Apadānapāḷi-2 - Khuddakanikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">51. Kaṇikāravaggo</chapter>
     <subhead line="2">1. Tikaṇikārapupphiyattheraapadānaṃ</subhead>
     <hangnum line="3" number="1"></hangnum>

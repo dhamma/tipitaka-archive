@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/e1214n.nrf5.xml</normativeSource>
-    <archivePath>roman/anya/sihala-gantha-sangaho/kaccayanadhatumanjusa/svadayo.xml</archivePath>
-    <baseFileName>svadayo</baseFileName>
-    <titlePath>Svādayo  - Kaccāyanadhātumañjusā - Sihaḷa-gantha-saṅgaho - Anya</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/e1214n.nrf5.xml</normativeSource>
+    <source>roman/anya/sihala-gantha-sangaho/kaccayanadhatumanjusa/svadayo.xml</source>
+    <script>roman</script>
+    <directory>/anya/sihala-gantha-sangaho/kaccayanadhatumanjusa</directory>
+    <basename>svadayo</basename>
+    <titlePath>Svādayo  - Kaccāyanadhātumañjusā - Sihaḷa-gantha-saṅgaho - Anya</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">Svādayo <pageBreak edition="Vipassana Research Institut" number="0.0027" /></chapter>
     <paragraph line="2" number="117"> Su savaṇe saka sattimhi khī khayamhi gi saddane,</paragraph>
     <gathalast line="3">Apa-sambhū (ca) pāpuṇane hi gatimhi vū saṃvare;</gathalast>

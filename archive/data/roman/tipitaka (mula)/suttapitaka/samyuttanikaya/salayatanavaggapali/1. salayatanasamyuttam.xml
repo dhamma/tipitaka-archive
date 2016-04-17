@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/s0304m.mul0.xml</normativeSource>
-    <archivePath>roman/tipitaka (mula)/suttapitaka/samyuttanikaya/salayatanavaggapali/1. salayatanasamyuttam.xml</archivePath>
-    <baseFileName>1. salayatanasamyuttam</baseFileName>
-    <titlePath>1. Saḷāyatanasaṃyuttaṃ - Saḷāyatanavaggapāḷi - Saṃyuttanikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
     <versions>
       <version source="vipassana research institut" source-abbr="vri"/>
       <version source="sri lanka" source-abbr="sī."/>
@@ -19,8 +15,14 @@
       <version source="aṭṭha." source-abbr="aṭṭha."/>
       <version source="katthaci" source-abbr="katthaci"/>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/s0304m.mul0.xml</normativeSource>
+    <source>roman/tipitaka (mula)/suttapitaka/samyuttanikaya/salayatanavaggapali/1. salayatanasamyuttam.xml</source>
+    <script>roman</script>
+    <directory>/tipitaka (mula)/suttapitaka/samyuttanikaya/salayatanavaggapali</directory>
+    <basename>1. salayatanasamyuttam</basename>
+    <titlePath>1. Saḷāyatanasaṃyuttaṃ - Saḷāyatanavaggapāḷi - Saṃyuttanikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
   </metadata>
-  <content>
+<content>
     <centered line="1"> Namo tassa bhagavato arahato sammāsambuddhassa</centered>
     <nikaya line="2">Saṃyuttanikāyo</nikaya>
     <book line="3">Saḷāyatanavaggo</book>

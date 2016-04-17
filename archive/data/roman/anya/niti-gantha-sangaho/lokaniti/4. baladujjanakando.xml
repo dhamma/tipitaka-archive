@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/e1005n.nrf2.xml</normativeSource>
-    <archivePath>roman/anya/niti-gantha-sangaho/lokaniti/4. baladujjanakando.xml</archivePath>
-    <baseFileName>4. baladujjanakando</baseFileName>
-    <titlePath>4. Bāladujjanakaṇḍo - Lokanīti - Nīti-gantha-saṅgaho - Anya</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/e1005n.nrf2.xml</normativeSource>
+    <source>roman/anya/niti-gantha-sangaho/lokaniti/4. baladujjanakando.xml</source>
+    <script>roman</script>
+    <directory>/anya/niti-gantha-sangaho/lokaniti</directory>
+    <basename>4. baladujjanakando</basename>
+    <titlePath>4. Bāladujjanakaṇḍo - Lokanīti - Nīti-gantha-saṅgaho - Anya</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">4. Bāladujjanakaṇḍo</chapter>
     <hangnum line="2" number="68"></hangnum>
     <gatha1 line="3"> Atippiyo na kātabbo,</gatha1>

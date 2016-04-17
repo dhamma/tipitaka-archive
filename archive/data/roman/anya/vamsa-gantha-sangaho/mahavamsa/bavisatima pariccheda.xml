@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/e0703n.nrf21.xml</normativeSource>
-    <archivePath>roman/anya/vamsa-gantha-sangaho/mahavamsa/bavisatima pariccheda.xml</archivePath>
-    <baseFileName>bavisatima pariccheda</baseFileName>
-    <titlePath>Bāvīsatima pariccheda - Mahāvaṃsa - Vaṃsa-gantha-saṅgaho - Anya</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/e0703n.nrf21.xml</normativeSource>
+    <source>roman/anya/vamsa-gantha-sangaho/mahavamsa/bavisatima pariccheda.xml</source>
+    <script>roman</script>
+    <directory>/anya/vamsa-gantha-sangaho/mahavamsa</directory>
+    <basename>bavisatima pariccheda</basename>
+    <titlePath>Bāvīsatima pariccheda - Mahāvaṃsa - Vaṃsa-gantha-saṅgaho - Anya</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">Bāvīsatima pariccheda</chapter>
     <subhead line="2">Gāmaṇikumāra suti</subhead>
     <hangnum line="3" number="1"></hangnum>

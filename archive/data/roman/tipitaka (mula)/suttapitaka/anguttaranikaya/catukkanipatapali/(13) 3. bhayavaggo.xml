@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/s0402m3.mul12.xml</normativeSource>
-    <archivePath>roman/tipitaka (mula)/suttapitaka/anguttaranikaya/catukkanipatapali/(13) 3. bhayavaggo.xml</archivePath>
-    <baseFileName>(13) 3. bhayavaggo</baseFileName>
-    <titlePath>(13) 3. Bhayavaggo - Catukkanipātapāḷi - Aṅguttaranikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
     <versions>
       <version source="vipassana research institut" source-abbr="vri"/>
       <version source="unknown" source-abbr="?"/>
@@ -17,8 +13,14 @@
       <version source="ma. ni. 2.163" source-abbr="ma. ni. 2.163"/>
       <version source="aññasuttesu" source-abbr="aññasuttesu"/>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/s0402m3.mul12.xml</normativeSource>
+    <source>roman/tipitaka (mula)/suttapitaka/anguttaranikaya/catukkanipatapali/(13) 3. bhayavaggo.xml</source>
+    <script>roman</script>
+    <directory>/tipitaka (mula)/suttapitaka/anguttaranikaya/catukkanipatapali</directory>
+    <basename>(13) 3. bhayavaggo</basename>
+    <titlePath>(13) 3. Bhayavaggo - Catukkanipātapāḷi - Aṅguttaranikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">(13) 3. Bhayavaggo</chapter>
     <subhead line="2">1. Attānuvādasuttaṃ</subhead>
     <paragraph line="3" number="121"> ‘‘Cattārimāni <pageBreak edition="Vipassana Research Institut" number="1.0139" />, bhikkhave, bhayāni. Katamāni cattāri? Attānuvādabhayaṃ, parānuvādabhayaṃ, daṇḍabhayaṃ, duggatibhayaṃ.</paragraph>

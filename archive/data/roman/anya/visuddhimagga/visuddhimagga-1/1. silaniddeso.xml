@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/e0101n.mul1.xml</normativeSource>
-    <archivePath>roman/anya/visuddhimagga/visuddhimagga-1/1. silaniddeso.xml</archivePath>
-    <baseFileName>1. silaniddeso</baseFileName>
-    <titlePath>1. Sīlaniddeso - Visuddhimagga-1 - Visuddhimagga - Anya</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/e0101n.mul1.xml</normativeSource>
+    <source>roman/anya/visuddhimagga/visuddhimagga-1/1. silaniddeso.xml</source>
+    <script>roman</script>
+    <directory>/anya/visuddhimagga/visuddhimagga-1</directory>
+    <basename>1. silaniddeso</basename>
+    <titlePath>1. Sīlaniddeso - Visuddhimagga-1 - Visuddhimagga - Anya</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">1. Sīlaniddeso</chapter>
     <subhead line="2">Sīlasarūpādikathā</subhead>
     <paragraph line="3" number="6"> Evaṃ <pageBreak edition="Myanmar" number="1.0007" /><pageBreak edition="Vipassana Research Institut" number="1.0007" /> anekaguṇasaṅgāhakena sīlasamādhipaññāmukhena desitopi panesa <bold>visuddhimaggo</bold> atisaṅkhepadesitoyeva hoti. Tasmā nālaṃ sabbesaṃ upakārāyāti vitthāramassa dassetuṃ sīlaṃ tāva ārabbha idaṃ pañhākammaṃ hoti.</paragraph>

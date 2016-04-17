@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/s0101m.mul4.xml</normativeSource>
-    <archivePath>roman/tipitaka (mula)/suttapitaka/dighanikaya/silakkhandhavaggapali/5. kutadantasuttam.xml</archivePath>
-    <baseFileName>5. kutadantasuttam</baseFileName>
-    <titlePath>5. Kūṭadantasuttaṃ - Sīlakkhandhavaggapāḷi - Dīghanikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
     <versions>
       <version source="sri lanka" source-abbr="sī."/>
       <version source="pali text society" source-abbr="pī."/>
@@ -13,8 +9,14 @@
       <version source="cambodian" source-abbr="ka."/>
       <version source="kaṃ." source-abbr="kaṃ."/>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/s0101m.mul4.xml</normativeSource>
+    <source>roman/tipitaka (mula)/suttapitaka/dighanikaya/silakkhandhavaggapali/5. kutadantasuttam.xml</source>
+    <script>roman</script>
+    <directory>/tipitaka (mula)/suttapitaka/dighanikaya/silakkhandhavaggapali</directory>
+    <basename>5. kutadantasuttam</basename>
+    <titlePath>5. Kūṭadantasuttaṃ - Sīlakkhandhavaggapāḷi - Dīghanikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">5. Kūṭadantasuttaṃ</chapter>
     <subhead line="2">Khāṇumatakabrāhmaṇagahapatikā</subhead>
     <paragraph line="3" number="323"> Evaṃ <pageBreak edition="Myanmar" number="1.0120" /><pageBreak edition="Vipassana Research Institut" number="1.0112" /><pageBreak edition="Pali Text Society" number="1.0127" /><pageBreak edition="Thai" number="1.0162" /> me sutaṃ – ekaṃ samayaṃ bhagavā magadhesu cārikaṃ caramāno mahatā bhikkhusaṅghena saddhiṃ pañcamattehi bhikkhusatehi yena khāṇumataṃ nāma magadhānaṃ brāhmaṇagāmo tadavasari. Tatra sudaṃ bhagavā khāṇumate viharati ambalaṭṭhikāyaṃ. Tena kho pana samayena kūṭadanto brāhmaṇo khāṇumataṃ ajjhāvasati sattussadaṃ satiṇakaṭṭhodakaṃ sadhaññaṃ rājabhoggaṃ raññā māgadhena seniyena bimbisārena dinnaṃ rājadāyaṃ brahmadeyyaṃ. Tena kho pana samayena kūṭadantassa brāhmaṇassa mahāyañño upakkhaṭo hoti. Satta ca usabhasatāni satta ca vacchatarasatāni satta ca vacchatarīsatāni satta ca ajasatāni satta ca urabbhasatāni thūṇūpanītāni honti yaññatthāya.</paragraph>

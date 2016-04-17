@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/abh06t.nrf64.xml</normativeSource>
-    <archivePath>roman/tika/abhidhammapitaka (tika)/abhidhammavataro-namarupaparicchedo/tevisatimo paricchedo.xml</archivePath>
-    <baseFileName>tevisatimo paricchedo</baseFileName>
-    <titlePath>Tevīsatimo paricchedo - Abhidhammāvatāro-nāmarūpaparicchedo - Abhidhammapiṭaka (ṭīkā) - Tīkā</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/abh06t.nrf64.xml</normativeSource>
+    <source>roman/tika/abhidhammapitaka (tika)/abhidhammavataro-namarupaparicchedo/tevisatimo paricchedo.xml</source>
+    <script>roman</script>
+    <directory>/tika/abhidhammapitaka (tika)/abhidhammavataro-namarupaparicchedo</directory>
+    <basename>tevisatimo paricchedo</basename>
+    <titlePath>Tevīsatimo paricchedo - Abhidhammāvatāro-nāmarūpaparicchedo - Abhidhammapiṭaka (ṭīkā) - Tīkā</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">Tevīsatimo paricchedo</chapter>
     <title line="2">4. Nibbānavibhāgo</title>
     <subhead line="3">23. Mūlavisuddhikathā</subhead>

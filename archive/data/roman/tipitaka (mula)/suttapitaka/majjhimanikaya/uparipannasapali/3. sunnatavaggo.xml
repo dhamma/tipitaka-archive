@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/s0203m.mul2.xml</normativeSource>
-    <archivePath>roman/tipitaka (mula)/suttapitaka/majjhimanikaya/uparipannasapali/3. sunnatavaggo.xml</archivePath>
-    <baseFileName>3. sunnatavaggo</baseFileName>
-    <titlePath>3. Suññatavaggo - Uparipaṇṇāsapāḷi - Majjhimanikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
     <versions>
       <version source="vipassana research institut" source-abbr="vri"/>
       <version source="sri lanka" source-abbr="sī."/>
@@ -18,8 +14,14 @@
       <version source="bahūsu" source-abbr="bahūsu"/>
       <version source="saṃ. ni. 3.27-28" source-abbr="saṃ. ni. 3.27-28"/>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/s0203m.mul2.xml</normativeSource>
+    <source>roman/tipitaka (mula)/suttapitaka/majjhimanikaya/uparipannasapali/3. sunnatavaggo.xml</source>
+    <script>roman</script>
+    <directory>/tipitaka (mula)/suttapitaka/majjhimanikaya/uparipannasapali</directory>
+    <basename>3. sunnatavaggo</basename>
+    <titlePath>3. Suññatavaggo - Uparipaṇṇāsapāḷi - Majjhimanikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">3. Suññatavaggo</chapter>
     <subhead line="2">1. Cūḷasuññatasuttaṃ</subhead>
     <paragraph line="3" number="176"> Evaṃ <pageBreak edition="Thai" number="3.0226" /><pageBreak edition="Myanmar" number="3.0147" /><pageBreak edition="Vipassana Research Institut" number="3.0148" /><pageBreak edition="Pali Text Society" number="3.0104" /> me sutaṃ – ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati pubbārāme migāramātupāsāde. Atha kho āyasmā ānando sāyanhasamayaṃ paṭisallānā vuṭṭhito yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi. Ekamantaṃ nisinno kho āyasmā ānando bhagavantaṃ etadavoca – ‘‘ekamidaṃ, bhante, samayaṃ bhagavā sakkesu viharati nagarakaṃ nāma sakyānaṃ nigamo. Tattha me, bhante, bhagavato sammukhā sutaṃ, sammukhā paṭiggahitaṃ – ‘suññatāvihārenāhaṃ, ānanda, etarahi bahulaṃ viharāmī’ti. Kacci metaṃ, bhante, sussutaṃ suggahitaṃ sumanasikataṃ sūpadhārita’’nti? ‘‘Taggha te etaṃ, ānanda, sussutaṃ suggahitaṃ sumanasikataṃ sūpadhāritaṃ. <alternatives line="3" extra="" separator="false"><alternative source-abbr="vri" source="vipassana research institut">Pubbepāhaṃ</alternative><alternative source-abbr="sī." source="sri lanka">pubbecāhaṃ</alternative><alternative source-abbr="syā." source="thai">pubbecāhaṃ</alternative><alternative source-abbr="kaṃ." source="kaṃ.">pubbecāhaṃ</alternative><alternative source-abbr="pī." source="pali text society">pubbecāhaṃ</alternative></alternatives> , ānanda, <alternatives line="11" extra="" separator="false"><alternative source-abbr="vri" source="vipassana research institut">etarahipi</alternative><alternative source-abbr="sabbattha" source="sabbattha">etarahi ca</alternative></alternatives>  suññatāvihārena bahulaṃ viharāmi. Seyyathāpi, ānanda, ayaṃ migāramātupāsādo suñño hatthigavassavaḷavena, suñño jātarūparajatena, suñño itthipurisasannipātena atthi cevidaṃ asuññataṃ yadidaṃ – bhikkhusaṅghaṃ paṭicca ekattaṃ; evameva kho, ānanda, bhikkhu amanasikaritvā gāmasaññaṃ, amanasikaritvā manussasaññaṃ, araññasaññaṃ paṭicca manasi karoti ekattaṃ <pageBreak edition="Thai" number="3.0227" />. Tassa araññasaññāya cittaṃ pakkhandati pasīdati santiṭṭhati adhimuccati. So evaṃ pajānāti – ‘ye assu darathā gāmasaññaṃ paṭicca tedha na santi, ye assu darathā manussasaññaṃ paṭicca tedha na santi, atthi cevāyaṃ darathamattā yadidaṃ – araññasaññaṃ paṭicca ekatta’nti. So ‘suññamidaṃ saññāgataṃ gāmasaññāyā’ti pajānāti, ‘suññamidaṃ saññāgataṃ manussasaññāyā’ti pajānāti, ‘atthi cevidaṃ asuññataṃ yadidaṃ – araññasaññaṃ paṭicca ekatta’nti. Iti yañhi kho tattha na hoti tena taṃ suññaṃ samanupassati, yaṃ pana tattha avasiṭṭhaṃ <pageBreak edition="Pali Text Society" number="3.0105" /> hoti taṃ ‘santamidaṃ <pageBreak edition="Vipassana Research Institut" number="3.0149" /> atthī’’’ti pajānāti. Evampissa esā, ānanda, yathābhuccā avipallatthā parisuddhā suññatāvakkanti bhavati.</paragraph>

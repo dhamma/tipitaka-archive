@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/e1006n.nrf0.xml</normativeSource>
-    <archivePath>roman/anya/niti-gantha-sangaho/suttantaniti/suttantaniti.xml</archivePath>
-    <baseFileName>suttantaniti</baseFileName>
-    <titlePath>Suttantanīti - Suttantanīti - Nīti-gantha-saṅgaho - Anya</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/e1006n.nrf0.xml</normativeSource>
+    <source>roman/anya/niti-gantha-sangaho/suttantaniti/suttantaniti.xml</source>
+    <script>roman</script>
+    <directory>/anya/niti-gantha-sangaho/suttantaniti</directory>
+    <basename>suttantaniti</basename>
+    <titlePath>Suttantanīti - Suttantanīti - Nīti-gantha-saṅgaho - Anya</titlePath>
   </metadata>
-  <content>
+<content>
     <centered line="1"> Namo tassa bhagavato arahato sammāsambuddhassa</centered>
     <chapter line="2">Suttantanīti</chapter>
     <hangnum line="3" number="1"></hangnum>

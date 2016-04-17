@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/vin04t.nrf0.xml</normativeSource>
-    <archivePath>roman/tika/vinayapitaka (tika)/dvematikapali/bhikkhupatimokkhapali.xml</archivePath>
-    <baseFileName>bhikkhupatimokkhapali</baseFileName>
-    <titlePath>Bhikkhupātimokkhapāḷi - Dvemātikāpāḷi - Vinayapiṭaka (ṭīkā) - Tīkā</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/vin04t.nrf0.xml</normativeSource>
+    <source>roman/tika/vinayapitaka (tika)/dvematikapali/bhikkhupatimokkhapali.xml</source>
+    <script>roman</script>
+    <directory>/tika/vinayapitaka (tika)/dvematikapali</directory>
+    <basename>bhikkhupatimokkhapali</basename>
+    <titlePath>Bhikkhupātimokkhapāḷi - Dvemātikāpāḷi - Vinayapiṭaka (ṭīkā) - Tīkā</titlePath>
   </metadata>
-  <content>
+<content>
     <centered line="1"> Namo tassa bhagavato arahato sammāsambuddhassa</centered>
     <book line="2">Dvemātikāpāḷi</book>
     <chapter line="3">Bhikkhupātimokkhapāḷi</chapter>

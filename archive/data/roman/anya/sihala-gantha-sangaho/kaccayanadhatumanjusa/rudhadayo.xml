@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/e1214n.nrf3.xml</normativeSource>
-    <archivePath>roman/anya/sihala-gantha-sangaho/kaccayanadhatumanjusa/rudhadayo.xml</archivePath>
-    <baseFileName>rudhadayo</baseFileName>
-    <titlePath>Rudhādayo - Kaccāyanadhātumañjusā - Sihaḷa-gantha-saṅgaho - Anya</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/e1214n.nrf3.xml</normativeSource>
+    <source>roman/anya/sihala-gantha-sangaho/kaccayanadhatumanjusa/rudhadayo.xml</source>
+    <script>roman</script>
+    <directory>/anya/sihala-gantha-sangaho/kaccayanadhatumanjusa</directory>
+    <basename>rudhadayo</basename>
+    <titlePath>Rudhādayo - Kaccāyanadhātumañjusā - Sihaḷa-gantha-saṅgaho - Anya</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">Rudhādayo</chapter>
     <hangnum line="2" number="101"></hangnum>
     <gatha1 line="3"> Rudhi āvaraṇe muca mocane rica recane,</gatha1>

@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/e1009n.nrf10.xml</normativeSource>
-    <archivePath>roman/anya/niti-gantha-sangaho/naradakkhadipani/kayakhamaniya-niddesa.xml</archivePath>
-    <baseFileName>kayakhamaniya-niddesa</baseFileName>
-    <titlePath>Kāyakhamanīya-niddesa - Naradakkhadīpanī - Nīti-gantha-saṅgaho - Anya</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/e1009n.nrf10.xml</normativeSource>
+    <source>roman/anya/niti-gantha-sangaho/naradakkhadipani/kayakhamaniya-niddesa.xml</source>
+    <script>roman</script>
+    <directory>/anya/niti-gantha-sangaho/naradakkhadipani</directory>
+    <basename>kayakhamaniya-niddesa</basename>
+    <titlePath>Kāyakhamanīya-niddesa - Naradakkhadīpanī - Nīti-gantha-saṅgaho - Anya</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">Kāyakhamanīya-niddesa</chapter>
     <hangnum line="2" number="234"></hangnum>
     <gatha1 line="3"> Abhivādana-sīlissa <pageBreak edition="Myanmar" number="0.0420" />,</gatha1>

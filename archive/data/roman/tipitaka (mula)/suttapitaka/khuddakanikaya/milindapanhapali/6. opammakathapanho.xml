@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/s0518m.nrf4.xml</normativeSource>
-    <archivePath>roman/tipitaka (mula)/suttapitaka/khuddakanikaya/milindapanhapali/6. opammakathapanho.xml</archivePath>
-    <baseFileName>6. opammakathapanho</baseFileName>
-    <titlePath>6. Opammakathāpañho - Milindapañhapāḷi - Khuddakanikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
     <versions>
       <version source="sri lanka" source-abbr="sī."/>
       <version source="thai" source-abbr="syā."/>
@@ -14,8 +10,14 @@
       <version source="sabbattha" source-abbr="sabbattha"/>
       <version source="na, bu, sa" source-abbr="na, bu, sa"/>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/s0518m.nrf4.xml</normativeSource>
+    <source>roman/tipitaka (mula)/suttapitaka/khuddakanikaya/milindapanhapali/6. opammakathapanho.xml</source>
+    <script>roman</script>
+    <directory>/tipitaka (mula)/suttapitaka/khuddakanikaya/milindapanhapali</directory>
+    <basename>6. opammakathapanho</basename>
+    <titlePath>6. Opammakathāpañho - Milindapañhapāḷi - Khuddakanikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">6. Opammakathāpañho</chapter>
     <nikaya line="2">Mātikā</nikaya>
     <paragraph line="3">Bhante <pageBreak edition="Vipassana Research Institut" number="0.0327" /><pageBreak edition="Pali Text Society" number="0.0363" /><pageBreak edition="Myanmar" number="0.0343" /> nāgasena, katihaṅgehi samannāgato bhikkhu arahattaṃ sacchikarotīti?</paragraph>

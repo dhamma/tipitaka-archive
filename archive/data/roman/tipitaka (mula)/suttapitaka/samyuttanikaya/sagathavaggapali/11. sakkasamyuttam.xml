@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/s0301m.mul10.xml</normativeSource>
-    <archivePath>roman/tipitaka (mula)/suttapitaka/samyuttanikaya/sagathavaggapali/11. sakkasamyuttam.xml</archivePath>
-    <baseFileName>11. sakkasamyuttam</baseFileName>
-    <titlePath>11. Sakkasaṃyuttaṃ - Sagāthāvaggapāḷi - Saṃyuttanikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
     <versions>
       <version source="vipassana research institut" source-abbr="vri"/>
       <version source="katthaci" source-abbr="katthaci"/>
@@ -14,8 +10,14 @@
       <version source="kaṃ." source-abbr="kaṃ."/>
       <version source="cambodian" source-abbr="ka."/>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/s0301m.mul10.xml</normativeSource>
+    <source>roman/tipitaka (mula)/suttapitaka/samyuttanikaya/sagathavaggapali/11. sakkasamyuttam.xml</source>
+    <script>roman</script>
+    <directory>/tipitaka (mula)/suttapitaka/samyuttanikaya/sagathavaggapali</directory>
+    <basename>11. sakkasamyuttam</basename>
+    <titlePath>11. Sakkasaṃyuttaṃ - Sagāthāvaggapāḷi - Saṃyuttanikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">11. Sakkasaṃyuttaṃ</chapter>
     <title line="2">1. Paṭhamavaggo</title>
     <subhead line="3">1. Suvīrasuttaṃ</subhead>

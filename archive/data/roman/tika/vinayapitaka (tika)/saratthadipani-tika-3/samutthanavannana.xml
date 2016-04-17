@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/vin02t.tik44.xml</normativeSource>
-    <archivePath>roman/tika/vinayapitaka (tika)/saratthadipani-tika-3/samutthanavannana.xml</archivePath>
-    <baseFileName>samutthanavannana</baseFileName>
-    <titlePath>Samuṭṭhānavaṇṇanā - Sāratthadīpanī-ṭīkā-3 - Vinayapiṭaka (ṭīkā) - Tīkā</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/vin02t.tik44.xml</normativeSource>
+    <source>roman/tika/vinayapitaka (tika)/saratthadipani-tika-3/samutthanavannana.xml</source>
+    <script>roman</script>
+    <directory>/tika/vinayapitaka (tika)/saratthadipani-tika-3</directory>
+    <basename>samutthanavannana</basename>
+    <titlePath>Samuṭṭhānavaṇṇanā - Sāratthadīpanī-ṭīkā-3 - Vinayapiṭaka (ṭīkā) - Tīkā</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">Samuṭṭhānavaṇṇanā</chapter>
     <paragraph line="2" number="470"><bold>Pubbe</bold><pageBreak edition="Myanmar" number="3.0490" /><bold>vuttamevā</bold>ti sahaseyyādipaṇṇattivajjaṃ. <bold>Itara</bold>nti sacittakaṃ. <bold>Bhiṃsāpanādīni katvā</bold>ti bhiṃsāpanādinā āpattiṃ āpajjitvāti adhippāyo.</paragraph>
   </content>

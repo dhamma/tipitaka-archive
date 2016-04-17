@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/vin02t.tik14.xml</normativeSource>
-    <archivePath>roman/tika/vinayapitaka (tika)/saratthadipani-tika-3/6. bhesajjakkhandhakam.xml</archivePath>
-    <baseFileName>6. bhesajjakkhandhakam</baseFileName>
-    <titlePath>6. Bhesajjakkhandhakaṃ - Sāratthadīpanī-ṭīkā-3 - Vinayapiṭaka (ṭīkā) - Tīkā</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/vin02t.tik14.xml</normativeSource>
+    <source>roman/tika/vinayapitaka (tika)/saratthadipani-tika-3/6. bhesajjakkhandhakam.xml</source>
+    <script>roman</script>
+    <directory>/tika/vinayapitaka (tika)/saratthadipani-tika-3</directory>
+    <basename>6. bhesajjakkhandhakam</basename>
+    <titlePath>6. Bhesajjakkhandhakaṃ - Sāratthadīpanī-ṭīkā-3 - Vinayapiṭaka (ṭīkā) - Tīkā</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">6. Bhesajjakkhandhakaṃ</chapter>
     <subhead line="2">Pañcabhesajjādikathāvaṇṇanā</subhead>
     <paragraph line="3" number="261"> Bhesajjakkhandhake <pageBreak edition="Myanmar" number="3.0304" /><pageBreak edition="Vipassana Research Institut" number="3.0277" /><bold>nacchādentī</bold>ti ruciṃ na uppādenti.</paragraph>

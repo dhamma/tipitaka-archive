@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/vin12t.nrf0.xml</normativeSource>
-    <archivePath>roman/tika/vinayapitaka (tika)/pacityadiyojanapali/pacittiyayojana.xml</archivePath>
-    <baseFileName>pacittiyayojana</baseFileName>
-    <titlePath>Pācittiyayojanā - Pācityādiyojanāpāḷi - Vinayapiṭaka (ṭīkā) - Tīkā</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/vin12t.nrf0.xml</normativeSource>
+    <source>roman/tika/vinayapitaka (tika)/pacityadiyojanapali/pacittiyayojana.xml</source>
+    <script>roman</script>
+    <directory>/tika/vinayapitaka (tika)/pacityadiyojanapali</directory>
+    <basename>pacittiyayojana</basename>
+    <titlePath>Pācittiyayojanā - Pācityādiyojanāpāḷi - Vinayapiṭaka (ṭīkā) - Tīkā</titlePath>
   </metadata>
-  <content>
+<content>
     <centered line="1"> Namo tassa bhagavato arahato sammāsambuddhassa</centered>
     <nikaya line="2">Vinayapiṭake</nikaya>
     <book line="3">Pācityādiyojanā</book>

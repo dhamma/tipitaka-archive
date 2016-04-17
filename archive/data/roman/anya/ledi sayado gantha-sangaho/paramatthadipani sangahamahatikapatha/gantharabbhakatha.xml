@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/e0301n.nrf0.xml</normativeSource>
-    <archivePath>roman/anya/ledi sayado gantha-sangaho/paramatthadipani sangahamahatikapatha/gantharabbhakatha.xml</archivePath>
-    <baseFileName>gantharabbhakatha</baseFileName>
-    <titlePath>Ganthārabbhakathā - Paramatthadīpanī Saṅgahamahāṭīkāpāṭha - Leḍī sayāḍo gantha-saṅgaho - Anya</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/e0301n.nrf0.xml</normativeSource>
+    <source>roman/anya/ledi sayado gantha-sangaho/paramatthadipani sangahamahatikapatha/gantharabbhakatha.xml</source>
+    <script>roman</script>
+    <directory>/anya/ledi sayado gantha-sangaho/paramatthadipani sangahamahatikapatha</directory>
+    <basename>gantharabbhakatha</basename>
+    <titlePath>Ganthārabbhakathā - Paramatthadīpanī Saṅgahamahāṭīkāpāṭha - Leḍī sayāḍo gantha-saṅgaho - Anya</titlePath>
   </metadata>
-  <content>
+<content>
     <centered line="1"> Namo tassa bhagavato arahato sammāsambuddhassa</centered>
     <book line="2">Paramatthadīpanī</book>
     <title line="3">Saṅgaha mahāṭīkā pāṭha</title>

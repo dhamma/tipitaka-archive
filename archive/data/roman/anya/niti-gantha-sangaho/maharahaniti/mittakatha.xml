@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/e1004n.nrf2.xml</normativeSource>
-    <archivePath>roman/anya/niti-gantha-sangaho/maharahaniti/mittakatha.xml</archivePath>
-    <baseFileName>mittakatha</baseFileName>
-    <titlePath>Mittakathā - Mahārahanīti - Nīti-gantha-saṅgaho - Anya</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/e1004n.nrf2.xml</normativeSource>
+    <source>roman/anya/niti-gantha-sangaho/maharahaniti/mittakatha.xml</source>
+    <script>roman</script>
+    <directory>/anya/niti-gantha-sangaho/maharahaniti</directory>
+    <basename>mittakatha</basename>
+    <titlePath>Mittakathā - Mahārahanīti - Nīti-gantha-saṅgaho - Anya</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">Mittakathā</chapter>
     <hangnum line="2" number="113"></hangnum>
     <gatha1 line="3"> Katvāna <pageBreak edition="Myanmar" number="0.0051" /> kusalaṃkammaṃ,</gatha1>

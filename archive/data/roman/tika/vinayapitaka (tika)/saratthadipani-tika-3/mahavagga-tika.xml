@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/vin02t.tik8.xml</normativeSource>
-    <archivePath>roman/tika/vinayapitaka (tika)/saratthadipani-tika-3/mahavagga-tika.xml</archivePath>
-    <baseFileName>mahavagga-tika</baseFileName>
-    <titlePath>Mahāvagga-ṭīkā - Sāratthadīpanī-ṭīkā-3 - Vinayapiṭaka (ṭīkā) - Tīkā</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/vin02t.tik8.xml</normativeSource>
+    <source>roman/tika/vinayapitaka (tika)/saratthadipani-tika-3/mahavagga-tika.xml</source>
+    <script>roman</script>
+    <directory>/tika/vinayapitaka (tika)/saratthadipani-tika-3</directory>
+    <basename>mahavagga-tika</basename>
+    <titlePath>Mahāvagga-ṭīkā - Sāratthadīpanī-ṭīkā-3 - Vinayapiṭaka (ṭīkā) - Tīkā</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">Mahāvagga-ṭīkā</chapter>
   </content>
 </document>

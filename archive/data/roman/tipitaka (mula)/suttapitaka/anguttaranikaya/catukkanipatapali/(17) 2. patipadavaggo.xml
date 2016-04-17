@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/s0402m3.mul16.xml</normativeSource>
-    <archivePath>roman/tipitaka (mula)/suttapitaka/anguttaranikaya/catukkanipatapali/(17) 2. patipadavaggo.xml</archivePath>
-    <baseFileName>(17) 2. patipadavaggo</baseFileName>
-    <titlePath>(17) 2. Paṭipadāvaggo - Catukkanipātapāḷi - Aṅguttaranikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
     <versions>
       <version source="vipassana research institut" source-abbr="vri"/>
       <version source="sri lanka" source-abbr="sī."/>
@@ -13,8 +9,14 @@
       <version source="pali text society" source-abbr="pī."/>
       <version source="cambodian" source-abbr="ka."/>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/s0402m3.mul16.xml</normativeSource>
+    <source>roman/tipitaka (mula)/suttapitaka/anguttaranikaya/catukkanipatapali/(17) 2. patipadavaggo.xml</source>
+    <script>roman</script>
+    <directory>/tipitaka (mula)/suttapitaka/anguttaranikaya/catukkanipatapali</directory>
+    <basename>(17) 2. patipadavaggo</basename>
+    <titlePath>(17) 2. Paṭipadāvaggo - Catukkanipātapāḷi - Aṅguttaranikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">(17) 2. Paṭipadāvaggo</chapter>
     <subhead line="2">1. Saṃkhittasuttaṃ</subhead>
     <paragraph line="3" number="161"> ‘‘Catasso <pageBreak edition="Vipassana Research Institut" number="1.0172" /><pageBreak edition="Myanmar" number="1.0467" /><pageBreak edition="Thai" number="2.0200" /> imā, bhikkhave, paṭipadā. Katamā catasso? Dukkhā paṭipadā dandhābhiññā, dukkhā paṭipadā khippābhiññā, sukhā paṭipadā dandhābhiññā, sukhā paṭipadā khippābhiññā – imā kho, bhikkhave, catasso paṭipadā’’ti. Paṭhamaṃ.</paragraph>

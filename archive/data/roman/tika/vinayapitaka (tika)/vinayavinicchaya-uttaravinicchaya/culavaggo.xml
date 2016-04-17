@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/vin10t.nrf4.xml</normativeSource>
-    <archivePath>roman/tika/vinayapitaka (tika)/vinayavinicchaya-uttaravinicchaya/culavaggo.xml</archivePath>
-    <baseFileName>culavaggo</baseFileName>
-    <titlePath>Cūḷavaggo - Vinayavinicchaya-uttaravinicchaya - Vinayapiṭaka (ṭīkā) - Tīkā</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/vin10t.nrf4.xml</normativeSource>
+    <source>roman/tika/vinayapitaka (tika)/vinayavinicchaya-uttaravinicchaya/culavaggo.xml</source>
+    <script>roman</script>
+    <directory>/tika/vinayapitaka (tika)/vinayavinicchaya-uttaravinicchaya</directory>
+    <basename>culavaggo</basename>
+    <titlePath>Cūḷavaggo - Vinayavinicchaya-uttaravinicchaya - Vinayapiṭaka (ṭīkā) - Tīkā</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">Cūḷavaggo</chapter>
     <subhead line="2">Pārivāsikakkhandhakakathā</subhead>
     <hangnum line="3" number="2748"></hangnum>

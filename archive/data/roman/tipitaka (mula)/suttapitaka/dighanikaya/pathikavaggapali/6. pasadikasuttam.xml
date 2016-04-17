@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/s0103m.mul5.xml</normativeSource>
-    <archivePath>roman/tipitaka (mula)/suttapitaka/dighanikaya/pathikavaggapali/6. pasadikasuttam.xml</archivePath>
-    <baseFileName>6. pasadikasuttam</baseFileName>
-    <titlePath>6. Pāsādikasuttaṃ - Pāthikavaggapāḷi - Dīghanikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
     <versions>
       <version source="vipassana research institut" source-abbr="vri"/>
       <version source="sri lanka" source-abbr="sī."/>
@@ -16,8 +12,14 @@
       <version source="bahūsu" source-abbr="bahūsu"/>
       <version source="sabbattha" source-abbr="sabbattha"/>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/s0103m.mul5.xml</normativeSource>
+    <source>roman/tipitaka (mula)/suttapitaka/dighanikaya/pathikavaggapali/6. pasadikasuttam.xml</source>
+    <script>roman</script>
+    <directory>/tipitaka (mula)/suttapitaka/dighanikaya/pathikavaggapali</directory>
+    <basename>6. pasadikasuttam</basename>
+    <titlePath>6. Pāsādikasuttaṃ - Pāthikavaggapāḷi - Dīghanikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">6. Pāsādikasuttaṃ</chapter>
     <paragraph line="2" number="164"> Evaṃ <pageBreak edition="Pali Text Society" number="3.0117" /><pageBreak edition="Myanmar" number="3.0097" /><pageBreak edition="Vipassana Research Institut" number="3.0087" /><pageBreak edition="Thai" number="3.0128" /> me sutaṃ – ekaṃ samayaṃ bhagavā sakkesu viharati vedhaññā nāma sakyā, tesaṃ ambavane pāsāde.</paragraph>
     <subhead line="3">Nigaṇṭhanāṭaputtakālaṅkiriyā</subhead>

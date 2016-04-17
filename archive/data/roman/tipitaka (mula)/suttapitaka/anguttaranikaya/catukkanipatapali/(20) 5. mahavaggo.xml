@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/s0402m3.mul19.xml</normativeSource>
-    <archivePath>roman/tipitaka (mula)/suttapitaka/anguttaranikaya/catukkanipatapali/(20) 5. mahavaggo.xml</archivePath>
-    <baseFileName>(20) 5. mahavaggo</baseFileName>
-    <titlePath>(20) 5. Mahāvaggo - Catukkanipātapāḷi - Aṅguttaranikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
     <versions>
       <version source="vipassana research institut" source-abbr="vri"/>
       <version source="sri lanka" source-abbr="sī."/>
@@ -14,8 +10,14 @@
       <version source="cambodian" source-abbr="ka."/>
       <version source="unknown" source-abbr="?"/>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/s0402m3.mul19.xml</normativeSource>
+    <source>roman/tipitaka (mula)/suttapitaka/anguttaranikaya/catukkanipatapali/(20) 5. mahavaggo.xml</source>
+    <script>roman</script>
+    <directory>/tipitaka (mula)/suttapitaka/anguttaranikaya/catukkanipatapali</directory>
+    <basename>(20) 5. mahavaggo</basename>
+    <titlePath>(20) 5. Mahāvaggo - Catukkanipātapāḷi - Aṅguttaranikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">(20) 5. Mahāvaggo</chapter>
     <subhead line="2">1. Sotānugatasuttaṃ</subhead>
     <paragraph line="3" number="191"> ‘‘Sotānugatānaṃ <pageBreak edition="Vipassana Research Institut" number="1.0214" /><pageBreak edition="Thai" number="2.0251" />, bhikkhave, dhammānaṃ, vacasā paricitānaṃ, manasānupekkhitānaṃ, diṭṭhiyā suppaṭividdhānaṃ cattāro ānisaṃsā pāṭikaṅkhā. Katame <pageBreak edition="Myanmar" number="1.0505" /> cattāro? Idha, bhikkhave, bhikkhu dhammaṃ pariyāpuṇāti – suttaṃ, geyyaṃ, veyyākaraṇaṃ, gāthaṃ, udānaṃ, itivuttakaṃ, jātakaṃ, abbhutadhammaṃ, vedallaṃ. Tassa te dhammā sotānugatā honti, vacasā paricitā, manasānupekkhitā, diṭṭhiyā suppaṭividdhā. So <alternatives line="3" extra="" separator="false"><alternative source-abbr="vri" source="vipassana research institut">muṭṭhassati</alternative><alternative source-abbr="sī." source="sri lanka">muṭṭhassatī</alternative></alternatives>  kālaṃ kurumāno aññataraṃ devanikāyaṃ upapajjati. Tassa tattha sukhino dhammapadā <alternatives line="11" extra="" separator="false"><alternative source-abbr="vri" source="vipassana research institut">plavanti</alternative><alternative source-abbr="sī." source="sri lanka">pilapanti</alternative><alternative source-abbr="syā." source="thai">pilapanti</alternative><alternative source-abbr="kaṃ." source="kaṃ.">pilapanti</alternative><alternative source-abbr="pī." source="pali text society">pilapanti</alternative></alternatives> . Dandho, bhikkhave, satuppādo; atha so satto khippaṃyeva visesagāmī hoti. Sotānugatānaṃ, bhikkhave, dhammānaṃ, vacasā paricitānaṃ, manasānupekkhitānaṃ, diṭṭhiyā suppaṭividdhānaṃ ayaṃ paṭhamo ānisaṃso pāṭikaṅkho.</paragraph>

@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/abh03a.att39.xml</normativeSource>
-    <archivePath>roman/atthakatha/abhidhammapitaka (atthakatha)/pancapakarana-atthakatha/yamakappakarana-atthakatha.xml</archivePath>
-    <baseFileName>yamakappakarana-atthakatha</baseFileName>
-    <titlePath>Yamakappakaraṇa-aṭṭhakathā - Pañcapakaraṇa-aṭṭhakathā - Abhidhammapiṭaka (aṭṭhakathā) - Aṭṭhakathā</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/abh03a.att39.xml</normativeSource>
+    <source>roman/atthakatha/abhidhammapitaka (atthakatha)/pancapakarana-atthakatha/yamakappakarana-atthakatha.xml</source>
+    <script>roman</script>
+    <directory>/atthakatha/abhidhammapitaka (atthakatha)/pancapakarana-atthakatha</directory>
+    <basename>yamakappakarana-atthakatha</basename>
+    <titlePath>Yamakappakaraṇa-aṭṭhakathā - Pañcapakaraṇa-aṭṭhakathā - Abhidhammapiṭaka (aṭṭhakathā) - Aṭṭhakathā</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">Yamakappakaraṇa-aṭṭhakathā</chapter>
     <gatha1 line="2">Saṅkhepeneva <pageBreak edition="Myanmar" number="0.0287" /><pageBreak edition="Pali Text Society" number="0.0052" /><pageBreak edition="Vipassana Research Institut" number="0.0286" /> devānaṃ, devadevo surālaye;</gatha1>
     <gathalast line="3">Kathāvatthuppakaraṇaṃ, desayitvā raṇañjaho.</gathalast>

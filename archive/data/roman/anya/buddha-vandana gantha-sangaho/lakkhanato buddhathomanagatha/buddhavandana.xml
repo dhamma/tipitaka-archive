@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/e0603n.nrf1.xml</normativeSource>
-    <archivePath>roman/anya/buddha-vandana gantha-sangaho/lakkhanato buddhathomanagatha/buddhavandana.xml</archivePath>
-    <baseFileName>buddhavandana</baseFileName>
-    <titlePath>Buddhavandanā - Lakkhaṇāto buddhathomanāgāthā - Buddha-vandanā gantha-saṅgaho - Anya</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/e0603n.nrf1.xml</normativeSource>
+    <source>roman/anya/buddha-vandana gantha-sangaho/lakkhanato buddhathomanagatha/buddhavandana.xml</source>
+    <script>roman</script>
+    <directory>/anya/buddha-vandana gantha-sangaho/lakkhanato buddhathomanagatha</directory>
+    <basename>buddhavandana</basename>
+    <titlePath>Buddhavandanā - Lakkhaṇāto buddhathomanāgāthā - Buddha-vandanā gantha-saṅgaho - Anya</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">Buddhavandanā</chapter>
     <hangnum line="2" number="1"></hangnum>
     <gatha1 line="3"> Devalokā cavitvāna <pageBreak edition="Myanmar" number="0.0065" />,</gatha1>

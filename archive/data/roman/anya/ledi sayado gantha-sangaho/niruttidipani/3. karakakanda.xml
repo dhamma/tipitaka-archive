@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/e0201n.nrf2.xml</normativeSource>
-    <archivePath>roman/anya/ledi sayado gantha-sangaho/niruttidipani/3. karakakanda.xml</archivePath>
-    <baseFileName>3. karakakanda</baseFileName>
-    <titlePath>3. Kārakakaṇḍa - Niruttidīpanī - Leḍī sayāḍo gantha-saṅgaho - Anya</titlePath>
     <versions>
       <version source="vipassana research institut" source-abbr="vri"/>
       <version source="bahūsu" source-abbr="bahūsu"/>
@@ -28,8 +24,14 @@
       <version source="teneti" source-abbr="teneti"/>
       <version source="yaṃ petamanusocasi" source-abbr="yaṃ petamanusocasi"/>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/e0201n.nrf2.xml</normativeSource>
+    <source>roman/anya/ledi sayado gantha-sangaho/niruttidipani/3. karakakanda.xml</source>
+    <script>roman</script>
+    <directory>/anya/ledi sayado gantha-sangaho/niruttidipani</directory>
+    <basename>3. karakakanda</basename>
+    <titlePath>3. Kārakakaṇḍa - Niruttidīpanī - Leḍī sayāḍo gantha-saṅgaho - Anya</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">3. Kārakakaṇḍa</chapter>
     <subhead line="2">Paṭhamāvibhattirāsi</subhead>
     <paragraph line="3">Atha nāmavibhattīnaṃ atthabhedā vuccante.</paragraph>

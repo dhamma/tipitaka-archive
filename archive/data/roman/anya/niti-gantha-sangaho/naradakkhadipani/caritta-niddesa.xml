@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/e1009n.nrf7.xml</normativeSource>
-    <archivePath>roman/anya/niti-gantha-sangaho/naradakkhadipani/caritta-niddesa.xml</archivePath>
-    <baseFileName>caritta-niddesa</baseFileName>
-    <titlePath>Cāritta-niddesa - Naradakkhadīpanī - Nīti-gantha-saṅgaho - Anya</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/e1009n.nrf7.xml</normativeSource>
+    <source>roman/anya/niti-gantha-sangaho/naradakkhadipani/caritta-niddesa.xml</source>
+    <script>roman</script>
+    <directory>/anya/niti-gantha-sangaho/naradakkhadipani</directory>
+    <basename>caritta-niddesa</basename>
+    <titlePath>Cāritta-niddesa - Naradakkhadīpanī - Nīti-gantha-saṅgaho - Anya</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">Cāritta-niddesa</chapter>
     <hangnum line="2" number="100"></hangnum>
     <gatha1 line="3"> Attā <pageBreak edition="Myanmar" number="0.0213" /> hi attano nātho,</gatha1>

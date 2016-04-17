@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/s0101t.tik1.xml</normativeSource>
-    <archivePath>roman/tika/suttapitaka (tika)/dighanikaya (tika)/silakkhandhavagga-tika/1. brahmajalasuttavannana.xml</archivePath>
-    <baseFileName>1. brahmajalasuttavannana</baseFileName>
-    <titlePath>1. Brahmajālasuttavaṇṇanā - Sīlakkhandhavagga-ṭīkā - Dīghanikāya (ṭīkā) - Suttapiṭaka (ṭīkā) - Tīkā</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/s0101t.tik1.xml</normativeSource>
+    <source>roman/tika/suttapitaka (tika)/dighanikaya (tika)/silakkhandhavagga-tika/1. brahmajalasuttavannana.xml</source>
+    <script>roman</script>
+    <directory>/tika/suttapitaka (tika)/dighanikaya (tika)/silakkhandhavagga-tika</directory>
+    <basename>1. brahmajalasuttavannana</basename>
+    <titlePath>1. Brahmajālasuttavaṇṇanā - Sīlakkhandhavagga-ṭīkā - Dīghanikāya (ṭīkā) - Suttapiṭaka (ṭīkā) - Tīkā</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">1. Brahmajālasuttavaṇṇanā</chapter>
     <subhead line="2">Paribbājakakathāvaṇṇanā</subhead>
     <paragraph line="3">Evaṃ <pageBreak edition="Pali Text Society" number="1.0043" /><pageBreak edition="Vipassana Research Institut" number="1.0032" /><pageBreak edition="Myanmar" number="1.0034" /> paṭhamamahāsaṅgītiṃ dassetvā yadatthaṃ sā idha dassitā, idāni taṃ nigamanavasena dassetuṃ <bold>‘‘imissā’’</bold>tiādimāha.</paragraph>

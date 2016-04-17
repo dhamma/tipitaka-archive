@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/vin04t.nrf5.xml</normativeSource>
-    <archivePath>roman/tika/vinayapitaka (tika)/dvematikapali/sanghadisesakando.xml</archivePath>
-    <baseFileName>sanghadisesakando</baseFileName>
-    <titlePath>Saṅghādisesakaṇḍo - Dvemātikāpāḷi - Vinayapiṭaka (ṭīkā) - Tīkā</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/vin04t.nrf5.xml</normativeSource>
+    <source>roman/tika/vinayapitaka (tika)/dvematikapali/sanghadisesakando.xml</source>
+    <script>roman</script>
+    <directory>/tika/vinayapitaka (tika)/dvematikapali</directory>
+    <basename>sanghadisesakando</basename>
+    <titlePath>Saṅghādisesakaṇḍo - Dvemātikāpāḷi - Vinayapiṭaka (ṭīkā) - Tīkā</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">Saṅghādisesakaṇḍo</chapter>
     <paragraph line="2"><bold>Ime</bold><pageBreak edition="Myanmar" number="0.0127" /><pageBreak edition="Vipassana Research Institut" number="0.0129" /><bold>kho panā</bold>ti idāni vattabbānaṃ abhimukhīkaraṇaṃ. <bold>Āyasmanto</bold>ti sannipatitānaṃ piyavacanena ālapanaṃ. <bold>Terasā</bold>ti gaṇanaparicchedo. <bold>Saṅghādisesā</bold>ti evaṃnāmakā. <bold>Dhammā</bold>ti āpattiyo. <bold>Uddesaṃ āgacchantī</bold>ti sarūpena uddisitabbataṃ āgacchanti, na nidāne viya ‘‘yassa siyā āpattī’’ti sādhāraṇavacanamattena.</paragraph>
     <subhead line="3">1. Sukkavissaṭṭhisikkhāpadavaṇṇanā</subhead>

@@ -1,18 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/abh01m.mul2.xml</normativeSource>
-    <archivePath>roman/tipitaka (mula)/abhidhammapitaka/dhammasanganipali/2. rupakandam.xml</archivePath>
-    <baseFileName>2. rupakandam</baseFileName>
-    <titlePath>2. Rūpakaṇḍaṃ - Dhammasaṅgaṇīpāḷi - Abhidhammapiṭaka - Tipiṭaka (Mūla)</titlePath>
     <versions>
       <version source="vipassana research institut" source-abbr="vri"/>
       <version source="sri lanka" source-abbr="sī."/>
       <version source="thai" source-abbr="syā."/>
       <version source="cambodian" source-abbr="ka."/>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/abh01m.mul2.xml</normativeSource>
+    <source>roman/tipitaka (mula)/abhidhammapitaka/dhammasanganipali/2. rupakandam.xml</source>
+    <script>roman</script>
+    <directory>/tipitaka (mula)/abhidhammapitaka/dhammasanganipali</directory>
+    <basename>2. rupakandam</basename>
+    <titlePath>2. Rūpakaṇḍaṃ - Dhammasaṅgaṇīpāḷi - Abhidhammapiṭaka - Tipiṭaka (Mūla)</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">2. Rūpakaṇḍaṃ</chapter>
     <subhead line="2">Uddeso</subhead>
     <paragraph line="3" number="583"> Katame <pageBreak edition="Thai" number="0.0184" /><pageBreak edition="Myanmar" number="0.0145" /><pageBreak edition="Vipassana Research Institut" number="0.0155" /> dhammā abyākatā? Kusalākusalānaṃ dhammānaṃ vipākā kāmāvacarā rūpāvacarā arūpāvacarā apariyāpannā vedanākkhandho saññākkhandho saṅkhārakkhandho viññāṇakkhandho, ye ca dhammā kiriyā neva kusalā nākusalā na ca kammavipākā, sabbañca rūpaṃ, asaṅkhatā ca dhātu – ime dhammā abyākatā.</paragraph>

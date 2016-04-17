@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/vin06t.nrf2.xml</normativeSource>
-    <archivePath>roman/tika/vinayapitaka (tika)/vajirabuddhi-tika/pacittiyavannana.xml</archivePath>
-    <baseFileName>pacittiyavannana</baseFileName>
-    <titlePath>Pācittiyavaṇṇanā - Vajirabuddhi-ṭīkā - Vinayapiṭaka (ṭīkā) - Tīkā</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/vin06t.nrf2.xml</normativeSource>
+    <source>roman/tika/vinayapitaka (tika)/vajirabuddhi-tika/pacittiyavannana.xml</source>
+    <script>roman</script>
+    <directory>/tika/vinayapitaka (tika)/vajirabuddhi-tika</directory>
+    <basename>pacittiyavannana</basename>
+    <titlePath>Pācittiyavaṇṇanā - Vajirabuddhi-ṭīkā - Vinayapiṭaka (ṭīkā) - Tīkā</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">Pācittiyavaṇṇanā</chapter>
     <subhead line="2">5. Pācittiyakaṇḍo</subhead>
     <title line="3">1. Musāvādavaggo</title>

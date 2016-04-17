@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/s0303m.mul2.xml</normativeSource>
-    <archivePath>roman/tipitaka (mula)/suttapitaka/samyuttanikaya/khandhavaggapali/3. ditthisamyuttam.xml</archivePath>
-    <baseFileName>3. ditthisamyuttam</baseFileName>
-    <titlePath>3. Diṭṭhisaṃyuttaṃ - Khandhavaggapāḷi - Saṃyuttanikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
     <versions>
       <version source="vipassana research institut" source-abbr="vri"/>
       <version source="aññattha" source-abbr="aññattha"/>
@@ -17,8 +13,14 @@
       <version source="bahūsu" source-abbr="bahūsu"/>
       <version source="katthaci" source-abbr="katthaci"/>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/s0303m.mul2.xml</normativeSource>
+    <source>roman/tipitaka (mula)/suttapitaka/samyuttanikaya/khandhavaggapali/3. ditthisamyuttam.xml</source>
+    <script>roman</script>
+    <directory>/tipitaka (mula)/suttapitaka/samyuttanikaya/khandhavaggapali</directory>
+    <basename>3. ditthisamyuttam</basename>
+    <titlePath>3. Diṭṭhisaṃyuttaṃ - Khandhavaggapāḷi - Saṃyuttanikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">3. Diṭṭhisaṃyuttaṃ</chapter>
     <title line="2">1. Sotāpattivaggo</title>
     <subhead line="3">1. Vātasuttaṃ</subhead>

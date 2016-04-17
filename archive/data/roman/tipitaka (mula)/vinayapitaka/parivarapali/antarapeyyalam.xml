@@ -1,18 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/vin02m4.mul2.xml</normativeSource>
-    <archivePath>roman/tipitaka (mula)/vinayapitaka/parivarapali/antarapeyyalam.xml</archivePath>
-    <baseFileName>antarapeyyalam</baseFileName>
-    <titlePath>Antarapeyyālaṃ - Parivārapāḷi - Vinayapiṭaka - Tipiṭaka (Mūla)</titlePath>
     <versions>
       <version source="vipassana research institut" source-abbr="vri"/>
       <version source="thai" source-abbr="syā."/>
       <version source="cambodian" source-abbr="ka."/>
       <version source="sri lanka" source-abbr="sī."/>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/vin02m4.mul2.xml</normativeSource>
+    <source>roman/tipitaka (mula)/vinayapitaka/parivarapali/antarapeyyalam.xml</source>
+    <script>roman</script>
+    <directory>/tipitaka (mula)/vinayapitaka/parivarapali</directory>
+    <basename>antarapeyyalam</basename>
+    <titlePath>Antarapeyyālaṃ - Parivārapāḷi - Vinayapiṭaka - Tipiṭaka (Mūla)</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">Antarapeyyālaṃ</chapter>
     <subhead line="2">Katipucchāvāro</subhead>
     <paragraph line="3" number="271"> Kati <pageBreak edition="Thai" number="0.0232" /><pageBreak edition="Pali Text Society" number="5.0091" /><pageBreak edition="Myanmar" number="0.0164" /><pageBreak edition="Vipassana Research Institut" number="0.0187" /> āpattiyo? Kati āpattikkhandhā? Kati vinītavatthūni? Kati agāravā? Kati gāravā? Kati vinītavatthūni? Kati vipattiyo? Kati āpattisamuṭṭhānā? Kati vivādamūlāni? Kati anuvādamūlāni? Kati sāraṇīyā dhammā? Kati bhedakaravatthūni? Kati adhikaraṇāni? Kati samathā?</paragraph>

@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/e0703n.nrf59.xml</normativeSource>
-    <archivePath>roman/anya/vamsa-gantha-sangaho/mahavamsa/satthima pariccheda.xml</archivePath>
-    <baseFileName>satthima pariccheda</baseFileName>
-    <titlePath>Saṭṭhima pariccheda - Mahāvaṃsa - Vaṃsa-gantha-saṅgaho - Anya</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/e0703n.nrf59.xml</normativeSource>
+    <source>roman/anya/vamsa-gantha-sangaho/mahavamsa/satthima pariccheda.xml</source>
+    <script>roman</script>
+    <directory>/anya/vamsa-gantha-sangaho/mahavamsa</directory>
+    <basename>satthima pariccheda</basename>
+    <titlePath>Saṭṭhima pariccheda - Mahāvaṃsa - Vaṃsa-gantha-saṅgaho - Anya</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">Saṭṭhima pariccheda</chapter>
     <subhead line="2">Kumārodayo</subhead>
     <hangnum line="3" number="1"></hangnum>

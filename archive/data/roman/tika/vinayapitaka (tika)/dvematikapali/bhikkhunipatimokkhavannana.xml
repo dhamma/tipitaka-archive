@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/vin04t.nrf11.xml</normativeSource>
-    <archivePath>roman/tika/vinayapitaka (tika)/dvematikapali/bhikkhunipatimokkhavannana.xml</archivePath>
-    <baseFileName>bhikkhunipatimokkhavannana</baseFileName>
-    <titlePath>Bhikkhunīpātimokkhavaṇṇanā - Dvemātikāpāḷi - Vinayapiṭaka (ṭīkā) - Tīkā</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/vin04t.nrf11.xml</normativeSource>
+    <source>roman/tika/vinayapitaka (tika)/dvematikapali/bhikkhunipatimokkhavannana.xml</source>
+    <script>roman</script>
+    <directory>/tika/vinayapitaka (tika)/dvematikapali</directory>
+    <basename>bhikkhunipatimokkhavannana</basename>
+    <titlePath>Bhikkhunīpātimokkhavaṇṇanā - Dvemātikāpāḷi - Vinayapiṭaka (ṭīkā) - Tīkā</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">Bhikkhunīpātimokkhavaṇṇanā</chapter>
   </content>
 </document>

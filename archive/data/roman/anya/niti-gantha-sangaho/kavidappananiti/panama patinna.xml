@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/e1001n.nrf13.xml</normativeSource>
-    <archivePath>roman/anya/niti-gantha-sangaho/kavidappananiti/panama patinna.xml</archivePath>
-    <baseFileName>panama patinna</baseFileName>
-    <titlePath>Paṇāma paṭiññā - Kavidappaṇanīti - Nīti-gantha-saṅgaho - Anya</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/e1001n.nrf13.xml</normativeSource>
+    <source>roman/anya/niti-gantha-sangaho/kavidappananiti/panama patinna.xml</source>
+    <script>roman</script>
+    <directory>/anya/niti-gantha-sangaho/kavidappananiti</directory>
+    <basename>panama patinna</basename>
+    <titlePath>Paṇāma paṭiññā - Kavidappaṇanīti - Nīti-gantha-saṅgaho - Anya</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">Paṇāma paṭiññā</chapter>
     <gatha1 line="2">Vatthuttayaṃ <pageBreak edition="Myanmar" number="0.0212" /> namasitvā, ācere kavipuṅgave;</gatha1>
     <gathalast line="3">Kassaṃ dvādasamāsānaṃ, bandhaṃ tammāsavasikaṃ.</gathalast>

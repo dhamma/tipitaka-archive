@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/abh03t.tik2.xml</normativeSource>
-    <archivePath>roman/tika/abhidhammapitaka (tika)/pancapakarana-mulatika/kathavatthupakarana-mulatika.xml</archivePath>
-    <baseFileName>kathavatthupakarana-mulatika</baseFileName>
-    <titlePath>Kathāvatthupakaraṇa-mūlaṭīkā - Pañcapakaraṇa-mūlaṭīkā - Abhidhammapiṭaka (ṭīkā) - Tīkā</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/abh03t.tik2.xml</normativeSource>
+    <source>roman/tika/abhidhammapitaka (tika)/pancapakarana-mulatika/kathavatthupakarana-mulatika.xml</source>
+    <script>roman</script>
+    <directory>/tika/abhidhammapitaka (tika)/pancapakarana-mulatika</directory>
+    <basename>kathavatthupakarana-mulatika</basename>
+    <titlePath>Kathāvatthupakaraṇa-mūlaṭīkā - Pañcapakaraṇa-mūlaṭīkā - Abhidhammapiṭaka (ṭīkā) - Tīkā</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">Kathāvatthupakaraṇa-mūlaṭīkā</chapter>
     <subhead line="2">Ganthārambhakathāvaṇṇanā</subhead>
     <paragraph line="3"><bold>Kathānaṃ</bold><pageBreak edition="Myanmar" number="0.0047" /><pageBreak edition="Vipassana Research Institut" number="0.0046" /><bold>vatthubhāvato</bold>ti kathāsamudāyassa pakaraṇassa attano ekadesānaṃ okāsabhāvaṃ vadati. Samudāye hi ekadesā antogadhāti. Yena pakārena saṅkhepena adesayi, taṃ dassento <bold>‘‘mātikāṭhapaneneva ṭhapitassā’’</bold>ti āha.</paragraph>

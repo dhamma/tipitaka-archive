@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/s0502m.mul3.xml</normativeSource>
-    <archivePath>roman/tipitaka (mula)/suttapitaka/khuddakanikaya/dhammapadapali/4. pupphavaggo.xml</archivePath>
-    <baseFileName>4. pupphavaggo</baseFileName>
-    <titlePath>4. Pupphavaggo - Dhammapadapāḷi - Khuddakanikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
     <versions>
       <version source="vipassana research institut" source-abbr="vri"/>
       <version source="cambodian" source-abbr="ka."/>
@@ -15,8 +11,14 @@
       <version source="kaṃ." source-abbr="kaṃ."/>
       <version source="aṭṭha." source-abbr="aṭṭha."/>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/s0502m.mul3.xml</normativeSource>
+    <source>roman/tipitaka (mula)/suttapitaka/khuddakanikaya/dhammapadapali/4. pupphavaggo.xml</source>
+    <script>roman</script>
+    <directory>/tipitaka (mula)/suttapitaka/khuddakanikaya/dhammapadapali</directory>
+    <basename>4. pupphavaggo</basename>
+    <titlePath>4. Pupphavaggo - Dhammapadapāḷi - Khuddakanikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">4. Pupphavaggo</chapter>
     <hangnum line="2" number="44"></hangnum>
     <gatha1 line="3"> Ko <pageBreak edition="Vipassana Research Institut" number="0.0019" /><pageBreak edition="Pali Text Society" number="0.0007" /><pageBreak edition="Thai" number="0.0021" /> <alternatives line="3" extra="" separator="false"><alternative source-abbr="vri" source="vipassana research institut">imaṃ</alternative><alternative source-abbr="ka." source="cambodian">komaṃ</alternative></alternatives>  pathaviṃ <alternatives line="11" extra="" separator="false"><alternative source-abbr="vri" source="vipassana research institut">vicessati</alternative><alternative source-abbr="sī." source="sri lanka">vijessati</alternative><alternative source-abbr="syā." source="thai">vijessati</alternative><alternative source-abbr="pī." source="pali text society">vijessati</alternative></alternatives> , yamalokañca imaṃ sadevakaṃ;</gatha1>

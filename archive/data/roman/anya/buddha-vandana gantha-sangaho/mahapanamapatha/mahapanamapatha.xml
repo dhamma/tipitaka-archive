@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/e0602n.nrf0.xml</normativeSource>
-    <archivePath>roman/anya/buddha-vandana gantha-sangaho/mahapanamapatha/mahapanamapatha.xml</archivePath>
-    <baseFileName>mahapanamapatha</baseFileName>
-    <titlePath>Mahāpaṇāmapāṭha - Mahāpaṇāmapāṭha - Buddha-vandanā gantha-saṅgaho - Anya</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/e0602n.nrf0.xml</normativeSource>
+    <source>roman/anya/buddha-vandana gantha-sangaho/mahapanamapatha/mahapanamapatha.xml</source>
+    <script>roman</script>
+    <directory>/anya/buddha-vandana gantha-sangaho/mahapanamapatha</directory>
+    <basename>mahapanamapatha</basename>
+    <titlePath>Mahāpaṇāmapāṭha - Mahāpaṇāmapāṭha - Buddha-vandanā gantha-saṅgaho - Anya</titlePath>
   </metadata>
-  <content>
+<content>
     <centered line="1"> Namo tassa bhagavato arahato sammāsambuddhassa</centered>
     <chapter line="2">Mahāpaṇāmapāṭha</chapter>
     <title line="3">(Buddhavandanā)</title>

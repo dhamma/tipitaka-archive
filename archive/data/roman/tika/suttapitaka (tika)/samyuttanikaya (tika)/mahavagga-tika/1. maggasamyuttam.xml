@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/s0305t.tik0.xml</normativeSource>
-    <archivePath>roman/tika/suttapitaka (tika)/samyuttanikaya (tika)/mahavagga-tika/1. maggasamyuttam.xml</archivePath>
-    <baseFileName>1. maggasamyuttam</baseFileName>
-    <titlePath>1. Maggasaṃyuttaṃ - Mahāvagga-ṭīkā - Saṃyuttanikāya (ṭīkā) - Suttapiṭaka (ṭīkā) - Tīkā</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/s0305t.tik0.xml</normativeSource>
+    <source>roman/tika/suttapitaka (tika)/samyuttanikaya (tika)/mahavagga-tika/1. maggasamyuttam.xml</source>
+    <script>roman</script>
+    <directory>/tika/suttapitaka (tika)/samyuttanikaya (tika)/mahavagga-tika</directory>
+    <basename>1. maggasamyuttam</basename>
+    <titlePath>1. Maggasaṃyuttaṃ - Mahāvagga-ṭīkā - Saṃyuttanikāya (ṭīkā) - Suttapiṭaka (ṭīkā) - Tīkā</titlePath>
   </metadata>
-  <content>
+<content>
     <centered line="1"> Namo tassa bhagavato arahato sammāsambuddhassa</centered>
     <nikaya line="2">Saṃyuttanikāye</nikaya>
     <book line="3">Mahāvaggaṭīkā</book>

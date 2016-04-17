@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/s0404t.tik0.xml</normativeSource>
-    <archivePath>roman/tika/suttapitaka (tika)/anguttaranikaya (tika)/atthakadinipata-tika/1. mettavaggo.xml</archivePath>
-    <baseFileName>1. mettavaggo</baseFileName>
-    <titlePath>1. Mettāvaggo - Aṭṭhakādinipāta-ṭīkā - Aṅguttaranikāya (ṭīkā) - Suttapiṭaka (ṭīkā) - Tīkā</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/s0404t.tik0.xml</normativeSource>
+    <source>roman/tika/suttapitaka (tika)/anguttaranikaya (tika)/atthakadinipata-tika/1. mettavaggo.xml</source>
+    <script>roman</script>
+    <directory>/tika/suttapitaka (tika)/anguttaranikaya (tika)/atthakadinipata-tika</directory>
+    <basename>1. mettavaggo</basename>
+    <titlePath>1. Mettāvaggo - Aṭṭhakādinipāta-ṭīkā - Aṅguttaranikāya (ṭīkā) - Suttapiṭaka (ṭīkā) - Tīkā</titlePath>
   </metadata>
-  <content>
+<content>
     <centered line="1"> Namo tassa bhagavato arahato sammāsambuddhassa</centered>
     <nikaya line="2">Aṅguttaranikāye</nikaya>
     <book line="3">Aṭṭhakanipāta-ṭīkā</book>

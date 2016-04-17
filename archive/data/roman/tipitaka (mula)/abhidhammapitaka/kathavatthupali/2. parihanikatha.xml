@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/abh03m3.mul1.xml</normativeSource>
-    <archivePath>roman/tipitaka (mula)/abhidhammapitaka/kathavatthupali/2. parihanikatha.xml</archivePath>
-    <baseFileName>2. parihanikatha</baseFileName>
-    <titlePath>2. Parihānikathā - Kathāvatthupāḷi - Abhidhammapiṭaka - Tipiṭaka (Mūla)</titlePath>
     <versions>
       <version source="vipassana research institut" source-abbr="vri"/>
       <version source="sri lanka" source-abbr="sī."/>
@@ -15,8 +11,14 @@
       <version source="ma. ni. 1.202 ādayo" source-abbr="ma. ni. 1.202 ādayo"/>
       <version source="aṭṭha." source-abbr="aṭṭha."/>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/abh03m3.mul1.xml</normativeSource>
+    <source>roman/tipitaka (mula)/abhidhammapitaka/kathavatthupali/2. parihanikatha.xml</source>
+    <script>roman</script>
+    <directory>/tipitaka (mula)/abhidhammapitaka/kathavatthupali</directory>
+    <basename>2. parihanikatha</basename>
+    <titlePath>2. Parihānikathā - Kathāvatthupāḷi - Abhidhammapiṭaka - Tipiṭaka (Mūla)</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">2. Parihānikathā</chapter>
     <title line="2">1. Vādayuttiparihāni</title>
     <paragraph line="3" number="239"> Parihāyati <pageBreak edition="Thai" number="0.0084" /><pageBreak edition="Myanmar" number="0.0061" /><pageBreak edition="Vipassana Research Institut" number="0.0068" /> arahā arahattāti? Āmantā. Sabbattha arahā arahattā parihāyatīti? Na hevaṃ vattabbe…pe… sabbattha arahā arahattā parihāyatīti? Āmantā. Sabbattha arahato parihānīti? Na hevaṃ vattabbe…pe….</paragraph>

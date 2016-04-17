@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/e1009n.nrf2.xml</normativeSource>
-    <archivePath>roman/anya/niti-gantha-sangaho/naradakkhadipani/naradakkhadipakassa,.xml</archivePath>
-    <baseFileName>naradakkhadipakassa,</baseFileName>
-    <titlePath>Naradakkhadīpakassa, - Naradakkhadīpanī - Nīti-gantha-saṅgaho - Anya</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/e1009n.nrf2.xml</normativeSource>
+    <source>roman/anya/niti-gantha-sangaho/naradakkhadipani/naradakkhadipakassa,.xml</source>
+    <script>roman</script>
+    <directory>/anya/niti-gantha-sangaho/naradakkhadipani</directory>
+    <basename>naradakkhadipakassa,</basename>
+    <titlePath>Naradakkhadīpakassa, - Naradakkhadīpanī - Nīti-gantha-saṅgaho - Anya</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">Naradakkhadīpakassa,</chapter>
     <gatha1 line="2">Namo samantacakkhuno;</gatha1>
     <gatha2 line="3">Saṃsārā vippamuttassa,</gatha2>

@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/e0703n.nrf24.xml</normativeSource>
-    <archivePath>roman/anya/vamsa-gantha-sangaho/mahavamsa/pancavisatima pariccheda.xml</archivePath>
-    <baseFileName>pancavisatima pariccheda</baseFileName>
-    <titlePath>Pañcavīsatima pariccheda - Mahāvaṃsa - Vaṃsa-gantha-saṅgaho - Anya</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/e0703n.nrf24.xml</normativeSource>
+    <source>roman/anya/vamsa-gantha-sangaho/mahavamsa/pancavisatima pariccheda.xml</source>
+    <script>roman</script>
+    <directory>/anya/vamsa-gantha-sangaho/mahavamsa</directory>
+    <basename>pancavisatima pariccheda</basename>
+    <titlePath>Pañcavīsatima pariccheda - Mahāvaṃsa - Vaṃsa-gantha-saṅgaho - Anya</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">Pañcavīsatima pariccheda</chapter>
     <subhead line="2">Duṭṭhagāmaṇi vijayo</subhead>
     <hangnum line="3" number="1"></hangnum>

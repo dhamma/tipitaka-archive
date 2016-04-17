@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/vin01a.att1.xml</normativeSource>
-    <archivePath>roman/atthakatha/vinayapitaka (atthakatha)/parajikakanda-atthakatha/veranjakandavannana.xml</archivePath>
-    <baseFileName>veranjakandavannana</baseFileName>
-    <titlePath>Verañjakaṇḍavaṇṇanā - Pārājikakaṇḍa-aṭṭhakathā - Vinayapiṭaka (aṭṭhakathā) - Aṭṭhakathā</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/vin01a.att1.xml</normativeSource>
+    <source>roman/atthakatha/vinayapitaka (atthakatha)/parajikakanda-atthakatha/veranjakandavannana.xml</source>
+    <script>roman</script>
+    <directory>/atthakatha/vinayapitaka (atthakatha)/parajikakanda-atthakatha</directory>
+    <basename>veranjakandavannana</basename>
+    <titlePath>Verañjakaṇḍavaṇṇanā - Pārājikakaṇḍa-aṭṭhakathā - Vinayapiṭaka (aṭṭhakathā) - Aṭṭhakathā</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">Verañjakaṇḍavaṇṇanā</chapter>
     <paragraph line="2" number="1"> Idāni <pageBreak edition="Pali Text Society" number="1.0106" /><pageBreak edition="Myanmar" number="1.0079" /><pageBreak edition="Vipassana Research Institut" number="1.0074" /></paragraph>
     <gatha1 line="3">‘‘Tenātiādipāṭhassa, atthaṃ nānappakārato;</gatha1>

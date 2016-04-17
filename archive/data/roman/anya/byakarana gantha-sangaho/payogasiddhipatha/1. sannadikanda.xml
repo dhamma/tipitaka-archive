@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/e0807n.nrf0.xml</normativeSource>
-    <archivePath>roman/anya/byakarana gantha-sangaho/payogasiddhipatha/1. sannadikanda.xml</archivePath>
-    <baseFileName>1. sannadikanda</baseFileName>
-    <titlePath>1. Saññādikaṇḍa - Payogasiddhipāṭha - Byākaraṇa gantha-saṅgaho - Anya</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/e0807n.nrf0.xml</normativeSource>
+    <source>roman/anya/byakarana gantha-sangaho/payogasiddhipatha/1. sannadikanda.xml</source>
+    <script>roman</script>
+    <directory>/anya/byakarana gantha-sangaho/payogasiddhipatha</directory>
+    <basename>1. sannadikanda</basename>
+    <titlePath>1. Saññādikaṇḍa - Payogasiddhipāṭha - Byākaraṇa gantha-saṅgaho - Anya</titlePath>
   </metadata>
-  <content>
+<content>
     <centered line="1">Namo tassa bhagavato arahato sammāsambuddhassa.</centered>
     <book line="2">Payogasiddhipāḷi</book>
     <chapter line="3">1. Saññādikaṇḍa</chapter>

@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/vin11t.nrf9.xml</normativeSource>
-    <archivePath>roman/tika/vinayapitaka (tika)/vinayavinicchaya-tika/bhikkhunivibhango.xml</archivePath>
-    <baseFileName>bhikkhunivibhango</baseFileName>
-    <titlePath>Bhikkhunīvibhaṅgo - Vinayavinicchaya-ṭīkā - Vinayapiṭaka (ṭīkā) - Tīkā</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/vin11t.nrf9.xml</normativeSource>
+    <source>roman/tika/vinayapitaka (tika)/vinayavinicchaya-tika/bhikkhunivibhango.xml</source>
+    <script>roman</script>
+    <directory>/tika/vinayapitaka (tika)/vinayavinicchaya-tika</directory>
+    <basename>bhikkhunivibhango</basename>
+    <titlePath>Bhikkhunīvibhaṅgo - Vinayavinicchaya-ṭīkā - Vinayapiṭaka (ṭīkā) - Tīkā</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">Bhikkhunivibhaṅgo</chapter>
     <paragraph line="2" number="1964"> Evaṃ <pageBreak edition="Myanmar" number="2.0031" /> bhikkhuvibhaṅgapāḷiyā, aṭṭhakathāya ca āgataṃ vinicchayasāraṃ nātisaṅkhepavitthāranayena <pageBreak edition="Vipassana Research Institut" number="2.0026" /> dassetvā idāni tadanantarāya bhikkhunivibhaṅgapāḷiyā, tadaṭṭhakathāya ca āgatavinicchayasāraṃ dassetumārabhanto āha <bold>‘‘bhikkhunīna’’</bold>ntiādi. <bold>Tasmiṃ apī</bold>ti ettha <bold>api</bold>-saddo vuttāpekkhāyaṃ. <bold>‘‘Samāsenā’’</bold>ti idaṃ ganthavasena saṅkhipanaṃ sandhāya vuttaṃ. <bold>‘‘Kiñcimatta’’</bold>nti idaṃ atthavasenāti veditabbaṃ.</paragraph>
   </content>

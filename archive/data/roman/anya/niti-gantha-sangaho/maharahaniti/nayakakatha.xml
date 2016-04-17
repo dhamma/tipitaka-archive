@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/e1004n.nrf3.xml</normativeSource>
-    <archivePath>roman/anya/niti-gantha-sangaho/maharahaniti/nayakakatha.xml</archivePath>
-    <baseFileName>nayakakatha</baseFileName>
-    <titlePath>Nāyakakathā - Mahārahanīti - Nīti-gantha-saṅgaho - Anya</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/e1004n.nrf3.xml</normativeSource>
+    <source>roman/anya/niti-gantha-sangaho/maharahaniti/nayakakatha.xml</source>
+    <script>roman</script>
+    <directory>/anya/niti-gantha-sangaho/maharahaniti</directory>
+    <basename>nayakakatha</basename>
+    <titlePath>Nāyakakathā - Mahārahanīti - Nīti-gantha-saṅgaho - Anya</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">Nāyakakathā</chapter>
     <hangnum line="2" number="164"></hangnum>
     <gatha1 line="3"> Kassako <pageBreak edition="Myanmar" number="0.0073" /> vāṇijomacco,</gatha1>

@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/e0703n.nrf53.xml</normativeSource>
-    <archivePath>roman/anya/vamsa-gantha-sangaho/mahavamsa/catupannasatima pariccheda.xml</archivePath>
-    <baseFileName>catupannasatima pariccheda</baseFileName>
-    <titlePath>Catupaññāsatima pariccheda - Mahāvaṃsa - Vaṃsa-gantha-saṅgaho - Anya</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/e0703n.nrf53.xml</normativeSource>
+    <source>roman/anya/vamsa-gantha-sangaho/mahavamsa/catupannasatima pariccheda.xml</source>
+    <script>roman</script>
+    <directory>/anya/vamsa-gantha-sangaho/mahavamsa</directory>
+    <basename>catupannasatima pariccheda</basename>
+    <titlePath>Catupaññāsatima pariccheda - Mahāvaṃsa - Vaṃsa-gantha-saṅgaho - Anya</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">Catupaññāsatima pariccheda</chapter>
     <subhead line="2">Cha rājakonāma</subhead>
     <hangnum line="3" number="1"></hangnum>

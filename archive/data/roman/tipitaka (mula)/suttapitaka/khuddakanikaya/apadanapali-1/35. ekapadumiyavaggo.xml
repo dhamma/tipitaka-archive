@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/s0510m1.mul34.xml</normativeSource>
-    <archivePath>roman/tipitaka (mula)/suttapitaka/khuddakanikaya/apadanapali-1/35. ekapadumiyavaggo.xml</archivePath>
-    <baseFileName>35. ekapadumiyavaggo</baseFileName>
-    <titlePath>35. Ekapadumiyavaggo - Apadānapāḷi-1 - Khuddakanikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
     <versions>
       <version source="thai" source-abbr="syā."/>
       <version source="cambodian" source-abbr="ka."/>
@@ -12,8 +8,14 @@
       <version source="sri lanka" source-abbr="sī."/>
       <version source="unknown" source-abbr="?"/>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/s0510m1.mul34.xml</normativeSource>
+    <source>roman/tipitaka (mula)/suttapitaka/khuddakanikaya/apadanapali-1/35. ekapadumiyavaggo.xml</source>
+    <script>roman</script>
+    <directory>/tipitaka (mula)/suttapitaka/khuddakanikaya/apadanapali-1</directory>
+    <basename>35. ekapadumiyavaggo</basename>
+    <titlePath>35. Ekapadumiyavaggo - Apadānapāḷi-1 - Khuddakanikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">35. Ekapadumiyavaggo</chapter>
     <subhead line="2">1. Ekapadumiyattheraapadānaṃ</subhead>
     <hangnum line="3" number="1"></hangnum>

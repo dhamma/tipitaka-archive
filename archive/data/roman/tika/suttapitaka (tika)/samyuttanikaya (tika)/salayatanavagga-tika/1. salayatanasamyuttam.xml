@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/s0304t.tik0.xml</normativeSource>
-    <archivePath>roman/tika/suttapitaka (tika)/samyuttanikaya (tika)/salayatanavagga-tika/1. salayatanasamyuttam.xml</archivePath>
-    <baseFileName>1. salayatanasamyuttam</baseFileName>
-    <titlePath>1. Saḷāyatanasaṃyuttaṃ - Saḷāyatanavagga-ṭīkā - Saṃyuttanikāya (ṭīkā) - Suttapiṭaka (ṭīkā) - Tīkā</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/s0304t.tik0.xml</normativeSource>
+    <source>roman/tika/suttapitaka (tika)/samyuttanikaya (tika)/salayatanavagga-tika/1. salayatanasamyuttam.xml</source>
+    <script>roman</script>
+    <directory>/tika/suttapitaka (tika)/samyuttanikaya (tika)/salayatanavagga-tika</directory>
+    <basename>1. salayatanasamyuttam</basename>
+    <titlePath>1. Saḷāyatanasaṃyuttaṃ - Saḷāyatanavagga-ṭīkā - Saṃyuttanikāya (ṭīkā) - Suttapiṭaka (ṭīkā) - Tīkā</titlePath>
   </metadata>
-  <content>
+<content>
     <centered line="1"> Namo tassa bhagavato arahato sammāsambuddhassa</centered>
     <nikaya line="2">Saṃyuttanikāye</nikaya>
     <book line="3">Saḷāyatanavaggaṭīkā</book>

@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/s0514m.mul2.xml</normativeSource>
-    <archivePath>roman/tipitaka (mula)/suttapitaka/khuddakanikaya/jatakapali-2/19. satthinipato.xml</archivePath>
-    <baseFileName>19. satthinipato</baseFileName>
-    <titlePath>19. Saṭṭhinipāto - Jātakapāḷi-2 - Khuddakanikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
     <versions>
       <version source="sri lanka" source-abbr="sī."/>
       <version source="pali text society" source-abbr="pī."/>
@@ -14,8 +10,14 @@
       <version source="unknown" source-abbr="?"/>
       <version source="a. ni. 3.36; pe. va. 71" source-abbr="a. ni. 3.36; pe. va. 71"/>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/s0514m.mul2.xml</normativeSource>
+    <source>roman/tipitaka (mula)/suttapitaka/khuddakanikaya/jatakapali-2/19. satthinipato.xml</source>
+    <script>roman</script>
+    <directory>/tipitaka (mula)/suttapitaka/khuddakanikaya/jatakapali-2</directory>
+    <basename>19. satthinipato</basename>
+    <titlePath>19. Saṭṭhinipāto - Jātakapāḷi-2 - Khuddakanikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">19. Saṭṭhinipāto</chapter>
     <hangnum line="2"></hangnum>
     <paragraph line="3"> 529. Soṇakajātakaṃ (1)</paragraph>

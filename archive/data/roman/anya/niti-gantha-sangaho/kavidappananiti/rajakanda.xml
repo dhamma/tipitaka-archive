@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/e1001n.nrf5.xml</normativeSource>
-    <archivePath>roman/anya/niti-gantha-sangaho/kavidappananiti/rajakanda.xml</archivePath>
-    <baseFileName>rajakanda</baseFileName>
-    <titlePath>Rājakaṇḍa - Kavidappaṇanīti - Nīti-gantha-saṅgaho - Anya</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/e1001n.nrf5.xml</normativeSource>
+    <source>roman/anya/niti-gantha-sangaho/kavidappananiti/rajakanda.xml</source>
+    <script>roman</script>
+    <directory>/anya/niti-gantha-sangaho/kavidappananiti</directory>
+    <basename>rajakanda</basename>
+    <titlePath>Rājakaṇḍa - Kavidappaṇanīti - Nīti-gantha-saṅgaho - Anya</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">Rājakaṇḍa</chapter>
     <hangnum line="2" number="251"></hangnum>
     <gatha1 line="3"> Mahājanaṃ <pageBreak edition="Myanmar" number="0.0150" /> yo rañjeti, catūhipi vatthūhi vā;</gatha1>

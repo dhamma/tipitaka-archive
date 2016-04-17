@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/vin02a1.att4.xml</normativeSource>
-    <archivePath>roman/atthakatha/vinayapitaka (atthakatha)/pacittiya-atthakatha/1. parajikakandam (bhikkhunivibhangavannana).xml</archivePath>
-    <baseFileName>1. parajikakandam (bhikkhunivibhangavannana)</baseFileName>
-    <titlePath>1. Pārājikakaṇḍaṃ (bhikkhunīvibhaṅgavaṇṇanā) - Pācittiya-aṭṭhakathā - Vinayapiṭaka (aṭṭhakathā) - Aṭṭhakathā</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/vin02a1.att4.xml</normativeSource>
+    <source>roman/atthakatha/vinayapitaka (atthakatha)/pacittiya-atthakatha/1. parajikakandam (bhikkhunivibhangavannana).xml</source>
+    <script>roman</script>
+    <directory>/atthakatha/vinayapitaka (atthakatha)/pacittiya-atthakatha</directory>
+    <basename>1. parajikakandam (bhikkhunivibhangavannana)</basename>
+    <titlePath>1. Pārājikakaṇḍaṃ (bhikkhunīvibhaṅgavaṇṇanā) - Pācittiya-aṭṭhakathā - Vinayapiṭaka (aṭṭhakathā) - Aṭṭhakathā</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">1. Pārājikakaṇḍaṃ (bhikkhunīvibhaṅgavaṇṇanā)</chapter>
     <gatha1 line="2">Yo <pageBreak edition="Pali Text Society" number="4.0900" /><pageBreak edition="Myanmar" number="0.0173" /><pageBreak edition="Vipassana Research Institut" number="0.0162" /> bhikkhūnaṃ vibhaṅgassa, saṅgahito anantaraṃ;</gatha1>
     <gathalast line="3">Bhikkhunīnaṃ vibhaṅgassa, tassa saṃvaṇṇanākkamo.</gathalast>

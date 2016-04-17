@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/vin11t.nrf1.xml</normativeSource>
-    <archivePath>roman/tika/vinayapitaka (tika)/vinayavinicchaya-tika/bhikkhuvibhango.xml</archivePath>
-    <baseFileName>bhikkhuvibhango</baseFileName>
-    <titlePath>Bhikkhuvibhaṅgo - Vinayavinicchaya-ṭīkā - Vinayapiṭaka (ṭīkā) - Tīkā</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/vin11t.nrf1.xml</normativeSource>
+    <source>roman/tika/vinayapitaka (tika)/vinayavinicchaya-tika/bhikkhuvibhango.xml</source>
+    <script>roman</script>
+    <directory>/tika/vinayapitaka (tika)/vinayavinicchaya-tika</directory>
+    <basename>bhikkhuvibhango</basename>
+    <titlePath>Bhikkhuvibhaṅgo - Vinayavinicchaya-ṭīkā - Vinayapiṭaka (ṭīkā) - Tīkā</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">Bhikkhuvibhaṅgo</chapter>
   </content>
 </document>

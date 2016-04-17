@@ -1,17 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/e0812n.nrf0.xml</normativeSource>
-    <archivePath>roman/anya/byakarana gantha-sangaho/subodhalankaratika/1. dosavabodha pathamapariccheda.xml</archivePath>
-    <baseFileName>1. dosavabodha pathamapariccheda</baseFileName>
-    <titlePath>1. Dosāvabodha paṭhamapariccheda - Subodhālaṅkāraṭīkā - Byākaraṇa gantha-saṅgaho - Anya</titlePath>
     <versions>
       <version source="cambodian" source-abbr="ka."/>
       <version source="vipassana research institut" source-abbr="vri"/>
       <version source="sri lanka" source-abbr="sī."/>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/e0812n.nrf0.xml</normativeSource>
+    <source>roman/anya/byakarana gantha-sangaho/subodhalankaratika/1. dosavabodha pathamapariccheda.xml</source>
+    <script>roman</script>
+    <directory>/anya/byakarana gantha-sangaho/subodhalankaratika</directory>
+    <basename>1. dosavabodha pathamapariccheda</basename>
+    <titlePath>1. Dosāvabodha paṭhamapariccheda - Subodhālaṅkāraṭīkā - Byākaraṇa gantha-saṅgaho - Anya</titlePath>
   </metadata>
-  <content>
+<content>
     <centered line="1">Namo tassa bhagavato arahato sammāsambuddhassa.</centered>
     <book line="2">Subodhālaṅkāraṭīkā</book>
     <subsubhead line="3">Ganthārambhakathā</subsubhead>

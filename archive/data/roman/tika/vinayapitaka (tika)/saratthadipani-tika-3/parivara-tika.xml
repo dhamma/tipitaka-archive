@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/vin02t.tik32.xml</normativeSource>
-    <archivePath>roman/tika/vinayapitaka (tika)/saratthadipani-tika-3/parivara-tika.xml</archivePath>
-    <baseFileName>parivara-tika</baseFileName>
-    <titlePath>Parivāra-ṭīkā - Sāratthadīpanī-ṭīkā-3 - Vinayapiṭaka (ṭīkā) - Tīkā</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/vin02t.tik32.xml</normativeSource>
+    <source>roman/tika/vinayapitaka (tika)/saratthadipani-tika-3/parivara-tika.xml</source>
+    <script>roman</script>
+    <directory>/tika/vinayapitaka (tika)/saratthadipani-tika-3</directory>
+    <basename>parivara-tika</basename>
+    <titlePath>Parivāra-ṭīkā - Sāratthadīpanī-ṭīkā-3 - Vinayapiṭaka (ṭīkā) - Tīkā</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">Parivāra-ṭīkā</chapter>
   </content>
 </document>

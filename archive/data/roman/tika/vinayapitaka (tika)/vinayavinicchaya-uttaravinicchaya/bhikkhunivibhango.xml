@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/vin10t.nrf2.xml</normativeSource>
-    <archivePath>roman/tika/vinayapitaka (tika)/vinayavinicchaya-uttaravinicchaya/bhikkhunivibhango.xml</archivePath>
-    <baseFileName>bhikkhunivibhango</baseFileName>
-    <titlePath>Bhikkhunīvibhaṅgo - Vinayavinicchaya-uttaravinicchaya - Vinayapiṭaka (ṭīkā) - Tīkā</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/vin10t.nrf2.xml</normativeSource>
+    <source>roman/tika/vinayapitaka (tika)/vinayavinicchaya-uttaravinicchaya/bhikkhunivibhango.xml</source>
+    <script>roman</script>
+    <directory>/tika/vinayapitaka (tika)/vinayavinicchaya-uttaravinicchaya</directory>
+    <basename>bhikkhunivibhango</basename>
+    <titlePath>Bhikkhunīvibhaṅgo - Vinayavinicchaya-uttaravinicchaya - Vinayapiṭaka (ṭīkā) - Tīkā</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">Bhikkhunīvibhaṅgo</chapter>
     <hangnum line="2" number="1964"></hangnum>
     <gatha1 line="3"> Bhikkhunīnaṃ <pageBreak edition="Myanmar" number="0.0186" /><pageBreak edition="Vipassana Research Institut" number="0.0163" /> hitatthāya, vibhaṅgaṃ yaṃ jinobravi;</gatha1>

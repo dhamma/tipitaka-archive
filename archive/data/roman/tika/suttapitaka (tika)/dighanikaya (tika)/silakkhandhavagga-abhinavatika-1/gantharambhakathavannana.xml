@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/s0104t.nrf0.xml</normativeSource>
-    <archivePath>roman/tika/suttapitaka (tika)/dighanikaya (tika)/silakkhandhavagga-abhinavatika-1/gantharambhakathavannana.xml</archivePath>
-    <baseFileName>gantharambhakathavannana</baseFileName>
-    <titlePath>Ganthārambhakathāvaṇṇanā - Sīlakkhandhavagga-abhinavaṭīkā-1 - Dīghanikāya (ṭīkā) - Suttapiṭaka (ṭīkā) - Tīkā</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/s0104t.nrf0.xml</normativeSource>
+    <source>roman/tika/suttapitaka (tika)/dighanikaya (tika)/silakkhandhavagga-abhinavatika-1/gantharambhakathavannana.xml</source>
+    <script>roman</script>
+    <directory>/tika/suttapitaka (tika)/dighanikaya (tika)/silakkhandhavagga-abhinavatika-1</directory>
+    <basename>gantharambhakathavannana</basename>
+    <titlePath>Ganthārambhakathāvaṇṇanā - Sīlakkhandhavagga-abhinavaṭīkā-1 - Dīghanikāya (ṭīkā) - Suttapiṭaka (ṭīkā) - Tīkā</titlePath>
   </metadata>
-  <content>
+<content>
     <centered line="1"> Namo tassa bhagavato arahato sammāsambuddhassa</centered>
     <nikaya line="2">Dīghanikāye</nikaya>
     <book line="3">Sīlakkhandhavaggaabhinavaṭīkā</book>

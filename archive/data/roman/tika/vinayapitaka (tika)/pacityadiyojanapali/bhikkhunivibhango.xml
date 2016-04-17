@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/vin12t.nrf1.xml</normativeSource>
-    <archivePath>roman/tika/vinayapitaka (tika)/pacityadiyojanapali/bhikkhunivibhango.xml</archivePath>
-    <baseFileName>bhikkhunivibhango</baseFileName>
-    <titlePath>Bhikkhunīvibhaṅgo - Pācityādiyojanāpāḷi - Vinayapiṭaka (ṭīkā) - Tīkā</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/vin12t.nrf1.xml</normativeSource>
+    <source>roman/tika/vinayapitaka (tika)/pacityadiyojanapali/bhikkhunivibhango.xml</source>
+    <script>roman</script>
+    <directory>/tika/vinayapitaka (tika)/pacityadiyojanapali</directory>
+    <basename>bhikkhunivibhango</basename>
+    <titlePath>Bhikkhunīvibhaṅgo - Pācityādiyojanāpāḷi - Vinayapiṭaka (ṭīkā) - Tīkā</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">Bhikkhunīvibhaṅgo</chapter>
     <title line="2">1. Pārājikakaṇḍaatthayojanā</title>
     <gatha1 line="3">Evaṃ <pageBreak edition="Myanmar" number="0.0141" /><pageBreak edition="Vipassana Research Institut" number="1.0121" /> bhikkhuvibhaṅgassa, katvāna yojanānayaṃ;</gatha1>

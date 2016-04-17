@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/s0403m2.mul3.xml</normativeSource>
-    <archivePath>roman/tipitaka (mula)/suttapitaka/anguttaranikaya/chakkanipatapali/4. devatavaggo.xml</archivePath>
-    <baseFileName>4. devatavaggo</baseFileName>
-    <titlePath>4. Devatāvaggo - Chakkanipātapāḷi - Aṅguttaranikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
     <versions>
       <version source="vipassana research institut" source-abbr="vri"/>
       <version source="cambodian" source-abbr="ka."/>
@@ -14,8 +10,14 @@
       <version source="pali text society" source-abbr="pī."/>
       <version source="a. ni. 7.53; 2.134; saṃ. ni. 2.173" source-abbr="a. ni. 7.53; 2.134; saṃ. ni. 2.173"/>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/s0403m2.mul3.xml</normativeSource>
+    <source>roman/tipitaka (mula)/suttapitaka/anguttaranikaya/chakkanipatapali/4. devatavaggo.xml</source>
+    <script>roman</script>
+    <directory>/tipitaka (mula)/suttapitaka/anguttaranikaya/chakkanipatapali</directory>
+    <basename>4. devatavaggo</basename>
+    <titlePath>4. Devatāvaggo - Chakkanipātapāḷi - Aṅguttaranikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">4. Devatāvaggo</chapter>
     <subhead line="2">1. Sekhasuttaṃ</subhead>
     <paragraph line="3" number="31"> ‘‘Chayime <pageBreak edition="Vipassana Research Institut" number="2.0046" />, bhikkhave, dhammā sekhassa bhikkhuno parihānāya saṃvattanti. Katame cha? Kammārāmatā <pageBreak edition="Pali Text Society" number="3.0330" />, bhassārāmatā, niddārāmatā, saṅgaṇikārāmatā, indriyesu aguttadvāratā, bhojane amattaññutā – ime kho, bhikkhave, cha dhammā sekhassa bhikkhuno parihānāya saṃvattanti.</paragraph>

@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/e0605n.nrf16.xml</normativeSource>
-    <archivePath>roman/anya/buddha-vandana gantha-sangaho/jinalankara/patilomayamakagatha.xml</archivePath>
-    <baseFileName>patilomayamakagatha</baseFileName>
-    <titlePath>Paṭilomayamakagāthā - Jinālaṅkāra - Buddha-vandanā gantha-saṅgaho - Anya</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/e0605n.nrf16.xml</normativeSource>
+    <source>roman/anya/buddha-vandana gantha-sangaho/jinalankara/patilomayamakagatha.xml</source>
+    <script>roman</script>
+    <directory>/anya/buddha-vandana gantha-sangaho/jinalankara</directory>
+    <basename>patilomayamakagatha</basename>
+    <titlePath>Paṭilomayamakagāthā - Jinālaṅkāra - Buddha-vandanā gantha-saṅgaho - Anya</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">Paṭilomayamakagāthā</chapter>
     <hangnum line="2" number="99"></hangnum>
     <gatha1 line="3"> Lokāyātatayā kālo visesaṃ na na saṃsevi,</gatha1>

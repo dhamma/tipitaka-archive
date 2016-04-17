@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/s0102m.mul3.xml</normativeSource>
-    <archivePath>roman/tipitaka (mula)/suttapitaka/dighanikaya/mahavaggapali/4. mahasudassanasuttam.xml</archivePath>
-    <baseFileName>4. mahasudassanasuttam</baseFileName>
-    <titlePath>4. Mahāsudassanasuttaṃ - Mahāvaggapāḷi - Dīghanikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
     <versions>
       <version source="vipassana research institut" source-abbr="vri"/>
       <version source="cambodian" source-abbr="ka."/>
@@ -16,8 +12,14 @@
       <version source="kaṃ." source-abbr="kaṃ."/>
       <version source="saṃ. ni. 3.96" source-abbr="saṃ. ni. 3.96"/>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/s0102m.mul3.xml</normativeSource>
+    <source>roman/tipitaka (mula)/suttapitaka/dighanikaya/mahavaggapali/4. mahasudassanasuttam.xml</source>
+    <script>roman</script>
+    <directory>/tipitaka (mula)/suttapitaka/dighanikaya/mahavaggapali</directory>
+    <basename>4. mahasudassanasuttam</basename>
+    <titlePath>4. Mahāsudassanasuttaṃ - Mahāvaggapāḷi - Dīghanikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">4. Mahāsudassanasuttaṃ</chapter>
     <paragraph line="2" number="241"> Evaṃ <pageBreak edition="Thai" number="2.0196" /><pageBreak edition="Myanmar" number="2.0139" /><pageBreak edition="Vipassana Research Institut" number="2.0127" /><pageBreak edition="Pali Text Society" number="2.0169" /> me sutaṃ – ekaṃ samayaṃ bhagavā kusinārāyaṃ viharati upavattane mallānaṃ sālavane antarena yamakasālānaṃ parinibbānasamaye. Atha kho āyasmā ānando yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi. Ekamantaṃ nisinno kho āyasmā ānando bhagavantaṃ etadavoca – ‘‘mā, bhante, bhagavā imasmiṃ khuddakanagarake ujjaṅgalanagarake sākhānagarake parinibbāyi. Santi, bhante, aññāni mahānagarāni. Seyyathidaṃ – campā, rājagahaṃ, sāvatthi, sāketaṃ, kosambī, bārāṇasī; ettha bhagavā parinibbāyatu. Ettha bahū khattiyamahāsālā brāhmaṇamahāsālā gahapatimahāsālā tathāgate abhippasannā, te tathāgatassa sarīrapūjaṃ karissantī’’ti.</paragraph>
     <paragraph line="3" number="242"> ‘‘Mā hevaṃ, ānanda, avaca; mā hevaṃ, ānanda, avaca – khuddakanagarakaṃ ujjaṅgalanagarakaṃ sākhānagaraka’’nti.</paragraph>

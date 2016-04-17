@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/e0806n.nrf3.xml</normativeSource>
-    <archivePath>roman/anya/byakarana gantha-sangaho/mogallanapancika/3. tatiyakandavannana.xml</archivePath>
-    <baseFileName>3. tatiyakandavannana</baseFileName>
-    <titlePath>3. Tatiyakaṇḍavaṇṇanā - Mogallānapañcikā - Byākaraṇa gantha-saṅgaho - Anya</titlePath>
     <versions>
       <version source="potthake" source-abbr="potthake"/>
       <version source="vipassana research institut" source-abbr="vri"/>
@@ -12,8 +8,14 @@
       <version source="kātantaṭīkā" source-abbr="kātantaṭīkā"/>
       <version source="kāsikāvivaraṇa pañjikā." source-abbr="kāsikāvivaraṇa pañjikā."/>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/e0806n.nrf3.xml</normativeSource>
+    <source>roman/anya/byakarana gantha-sangaho/mogallanapancika/3. tatiyakandavannana.xml</source>
+    <script>roman</script>
+    <directory>/anya/byakarana gantha-sangaho/mogallanapancika</directory>
+    <basename>3. tatiyakandavannana</basename>
+    <titlePath>3. Tatiyakaṇḍavaṇṇanā - Mogallānapañcikā - Byākaraṇa gantha-saṅgaho - Anya</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">3. Tatiyakaṇḍavaṇṇanā</chapter>
     <subhead line="2">1. Syādi</subhead>
     <paragraph line="3">Yassātikamāvaṭṭhitassayoādiakkharasamudāyassa, kintanti āha- ‘ida’miccādi, idanti yathāvuttaṃ syādisamudāyarūpaṃ, avayavena viggaho samudāyo samāsattho, samudāye pavattā saddā avayavesupi vattantīti syādisaddo siādike avayavepi vattate, vidhiggahaṇañāyenāti ‘‘paccayaggahaṇe yasmā sa vihito tadādino tadantassa ca gahaṇa’’nti ñāyena. Syādi ante yassa taṃ syādyantaṃ. Nanu ca ‘‘syādisyādinekattha’’nti sāmaññena vuccamāne yaṃkiñci syādyantaṃ yenakenaci syādyantena sahekatthībhāvamarahati, tathāhi yathā gāmagatotiādo, tathā passa devadatte gāmaṃ, gato yaññadatto gurukulanti ādopi samāso tyāsaṅkiyāha-‘sāmaññena vuttepi’ccādi, yassa syādyantassayena syādyantena sambandho, tena syādyantena sahataṃ syādyantamekatthambhavatīti sambandhato viññāyati avasīyatīti yassātyādisvattho, tathā ca gāmagatotyatratthīmesa-maññamaññāpekkhālakkhaṇo sambandhotyekatthībhāvo, tatoyevetthāhu-</paragraph>

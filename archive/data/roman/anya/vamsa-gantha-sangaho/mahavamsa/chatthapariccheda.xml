@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/e0703n.nrf5.xml</normativeSource>
-    <archivePath>roman/anya/vamsa-gantha-sangaho/mahavamsa/chatthapariccheda.xml</archivePath>
-    <baseFileName>chatthapariccheda</baseFileName>
-    <titlePath>Chaṭṭhapariccheda - Mahāvaṃsa - Vaṃsa-gantha-saṅgaho - Anya</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/e0703n.nrf5.xml</normativeSource>
+    <source>roman/anya/vamsa-gantha-sangaho/mahavamsa/chatthapariccheda.xml</source>
+    <script>roman</script>
+    <directory>/anya/vamsa-gantha-sangaho/mahavamsa</directory>
+    <basename>chatthapariccheda</basename>
+    <titlePath>Chaṭṭhapariccheda - Mahāvaṃsa - Vaṃsa-gantha-saṅgaho - Anya</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">Chaṭṭhapariccheda</chapter>
     <subhead line="2">Vijayāgamanaṃ</subhead>
     <hangnum line="3" number="1"></hangnum>

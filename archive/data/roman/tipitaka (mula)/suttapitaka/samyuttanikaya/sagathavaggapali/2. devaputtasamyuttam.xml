@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/s0301m.mul1.xml</normativeSource>
-    <archivePath>roman/tipitaka (mula)/suttapitaka/samyuttanikaya/sagathavaggapali/2. devaputtasamyuttam.xml</archivePath>
-    <baseFileName>2. devaputtasamyuttam</baseFileName>
-    <titlePath>2. Devaputtasaṃyuttaṃ - Sagāthāvaggapāḷi - Saṃyuttanikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
     <versions>
       <version source="sri lanka" source-abbr="sī."/>
       <version source="pali text society" source-abbr="pī."/>
@@ -18,8 +14,14 @@
       <version source="bahūsu" source-abbr="bahūsu"/>
       <version source="dī. ni. 2.258" source-abbr="dī. ni. 2.258"/>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/s0301m.mul1.xml</normativeSource>
+    <source>roman/tipitaka (mula)/suttapitaka/samyuttanikaya/sagathavaggapali/2. devaputtasamyuttam.xml</source>
+    <script>roman</script>
+    <directory>/tipitaka (mula)/suttapitaka/samyuttanikaya/sagathavaggapali</directory>
+    <basename>2. devaputtasamyuttam</basename>
+    <titlePath>2. Devaputtasaṃyuttaṃ - Sagāthāvaggapāḷi - Saṃyuttanikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">2. Devaputtasaṃyuttaṃ</chapter>
     <title line="2">1. Paṭhamavaggo</title>
     <subhead line="3">1. Paṭhamakassapasuttaṃ</subhead>

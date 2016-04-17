@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/e0703n.nrf11.xml</normativeSource>
-    <archivePath>roman/anya/vamsa-gantha-sangaho/mahavamsa/dvadasama pariccheda.xml</archivePath>
-    <baseFileName>dvadasama pariccheda</baseFileName>
-    <titlePath>Dvādasama pariccheda - Mahāvaṃsa - Vaṃsa-gantha-saṅgaho - Anya</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/e0703n.nrf11.xml</normativeSource>
+    <source>roman/anya/vamsa-gantha-sangaho/mahavamsa/dvadasama pariccheda.xml</source>
+    <script>roman</script>
+    <directory>/anya/vamsa-gantha-sangaho/mahavamsa</directory>
+    <basename>dvadasama pariccheda</basename>
+    <titlePath>Dvādasama pariccheda - Mahāvaṃsa - Vaṃsa-gantha-saṅgaho - Anya</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">Dvādasama pariccheda</chapter>
     <subhead line="2">Nānādesapasādo</subhead>
     <hangnum line="3" number="1"></hangnum>

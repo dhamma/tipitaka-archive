@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/vin04t.nrf14.xml</normativeSource>
-    <archivePath>roman/tika/vinayapitaka (tika)/dvematikapali/nissaggiyakando_.xml</archivePath>
-    <baseFileName>nissaggiyakando_</baseFileName>
-    <titlePath>Nissaggiyakaṇḍo - Dvemātikāpāḷi - Vinayapiṭaka (ṭīkā) - Tīkā</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/vin04t.nrf14.xml</normativeSource>
+    <source>roman/tika/vinayapitaka (tika)/dvematikapali/nissaggiyakando_.xml</source>
+    <script>roman</script>
+    <directory>/tika/vinayapitaka (tika)/dvematikapali</directory>
+    <basename>nissaggiyakando_</basename>
+    <titlePath>Nissaggiyakaṇḍo - Dvemātikāpāḷi - Vinayapiṭaka (ṭīkā) - Tīkā</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">Nissaggiyakaṇḍo</chapter>
     <subhead line="2">1. Pattasannicayasikkhāpadavaṇṇanā</subhead>
     <paragraph line="3">Nissaggiyesu <pageBreak edition="Myanmar" number="0.0308" /><pageBreak edition="Vipassana Research Institut" number="0.0294" /> ādivaggassa tāva paṭhame <bold>pattasannicayaṃ kareyyā</bold>ti pattasannidhiṃ kareyya, ekāhaṃ anadhiṭṭhahitvā vā avikappetvā vā adhiṭṭhānupagaṃ pattaṃ ṭhapeyyāti attho.</paragraph>

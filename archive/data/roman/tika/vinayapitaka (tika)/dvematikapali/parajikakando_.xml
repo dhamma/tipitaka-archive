@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/vin04t.nrf12.xml</normativeSource>
-    <archivePath>roman/tika/vinayapitaka (tika)/dvematikapali/parajikakando_.xml</archivePath>
-    <baseFileName>parajikakando_</baseFileName>
-    <titlePath>Pārājikakaṇḍo - Dvemātikāpāḷi - Vinayapiṭaka (ṭīkā) - Tīkā</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/vin04t.nrf12.xml</normativeSource>
+    <source>roman/tika/vinayapitaka (tika)/dvematikapali/parajikakando_.xml</source>
+    <script>roman</script>
+    <directory>/tika/vinayapitaka (tika)/dvematikapali</directory>
+    <basename>parajikakando_</basename>
+    <titlePath>Pārājikakaṇḍo - Dvemātikāpāḷi - Vinayapiṭaka (ṭīkā) - Tīkā</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">Pārājikakaṇḍo</chapter>
     <gatha1 line="2">Bhikkhunīnaṃ <pageBreak edition="Pali Text Society" number="0.0157" /> hitatthāya, pātimokkhaṃ pakāsayi;</gatha1>
     <gathalast line="3">Yaṃ nātho, tassa dāneso, sampatto vaṇṇanākkamo.</gathalast>

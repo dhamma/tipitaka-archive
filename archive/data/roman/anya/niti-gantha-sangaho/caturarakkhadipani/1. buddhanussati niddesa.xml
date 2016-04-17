@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/e1010n.nrf1.xml</normativeSource>
-    <archivePath>roman/anya/niti-gantha-sangaho/caturarakkhadipani/1. buddhanussati niddesa.xml</archivePath>
-    <baseFileName>1. buddhanussati niddesa</baseFileName>
-    <titlePath>1. Buddhānussati niddesa - Caturārakkhadīpanī - Nīti-gantha-saṅgaho - Anya</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/e1010n.nrf1.xml</normativeSource>
+    <source>roman/anya/niti-gantha-sangaho/caturarakkhadipani/1. buddhanussati niddesa.xml</source>
+    <script>roman</script>
+    <directory>/anya/niti-gantha-sangaho/caturarakkhadipani</directory>
+    <basename>1. buddhanussati niddesa</basename>
+    <titlePath>1. Buddhānussati niddesa - Caturārakkhadīpanī - Nīti-gantha-saṅgaho - Anya</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">1. Buddhānussati niddesa</chapter>
     <hangnum line="2" number="1"></hangnum>
     <gatha1 line="3"> Arahaṃ <pageBreak edition="Myanmar" number="0.0007" /> sammāsambuddho, vijjakkhi caraṇappado;</gatha1>

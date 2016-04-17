@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/abh03m3.mul9.xml</normativeSource>
-    <archivePath>roman/tipitaka (mula)/abhidhammapitaka/kathavatthupali/2. dutiyavaggo.xml</archivePath>
-    <baseFileName>2. dutiyavaggo</baseFileName>
-    <titlePath>2. Dutiyavaggo - Kathāvatthupāḷi - Abhidhammapiṭaka - Tipiṭaka (Mūla)</titlePath>
     <versions>
       <version source="vipassana research institut" source-abbr="vri"/>
       <version source="sri lanka" source-abbr="sī."/>
@@ -17,8 +13,14 @@
       <version source="saṃ. ni. 4.28" source-abbr="saṃ. ni. 4.28"/>
       <version source="unknown" source-abbr="?"/>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/abh03m3.mul9.xml</normativeSource>
+    <source>roman/tipitaka (mula)/abhidhammapitaka/kathavatthupali/2. dutiyavaggo.xml</source>
+    <script>roman</script>
+    <directory>/tipitaka (mula)/abhidhammapitaka/kathavatthupali</directory>
+    <basename>2. dutiyavaggo</basename>
+    <titlePath>2. Dutiyavaggo - Kathāvatthupāḷi - Abhidhammapiṭaka - Tipiṭaka (Mūla)</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">2. Dutiyavaggo</chapter>
     <subhead line="2">(10) 1. Parūpahārakathā</subhead>
     <paragraph line="3" number="307"> Atthi <pageBreak edition="Thai" number="0.0182" /> arahato asuci sukkavissaṭṭhīti? Āmantā. Atthi <pageBreak edition="Pali Text Society" number="0.0164" /> arahato rāgo kāmarāgo kāmarāgapariyuṭṭhānaṃ kāmarāgasaṃyojanaṃ kāmogho kāmayogo kāmacchandanīvaraṇanti? Na hevaṃ vattabbe…pe….</paragraph>

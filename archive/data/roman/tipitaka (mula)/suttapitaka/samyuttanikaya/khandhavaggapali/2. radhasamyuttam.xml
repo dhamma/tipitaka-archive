@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/s0303m.mul1.xml</normativeSource>
-    <archivePath>roman/tipitaka (mula)/suttapitaka/samyuttanikaya/khandhavaggapali/2. radhasamyuttam.xml</archivePath>
-    <baseFileName>2. radhasamyuttam</baseFileName>
-    <titlePath>2. Rādhasaṃyuttaṃ - Khandhavaggapāḷi - Saṃyuttanikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
     <versions>
       <version source="sri lanka" source-abbr="sī."/>
       <version source="thai" source-abbr="syā."/>
@@ -13,8 +9,14 @@
       <version source="vipassana research institut" source-abbr="vri"/>
       <version source="cambodian" source-abbr="ka."/>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/s0303m.mul1.xml</normativeSource>
+    <source>roman/tipitaka (mula)/suttapitaka/samyuttanikaya/khandhavaggapali/2. radhasamyuttam.xml</source>
+    <script>roman</script>
+    <directory>/tipitaka (mula)/suttapitaka/samyuttanikaya/khandhavaggapali</directory>
+    <basename>2. radhasamyuttam</basename>
+    <titlePath>2. Rādhasaṃyuttaṃ - Khandhavaggapāḷi - Saṃyuttanikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">2. Rādhasaṃyuttaṃ</chapter>
     <title line="2">1. Paṭhamavaggo</title>
     <subhead line="3">1. Mārasuttaṃ</subhead>

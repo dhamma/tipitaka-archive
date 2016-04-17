@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/vin09t.nrf5.xml</normativeSource>
-    <archivePath>roman/tika/vinayapitaka (tika)/kankhavitaranipurana-tika/pacittiyakandam.xml</archivePath>
-    <baseFileName>pacittiyakandam</baseFileName>
-    <titlePath>Pācittiyakaṇḍaṃ - Kaṅkhāvitaraṇīpurāṇa-ṭīkā - Vinayapiṭaka (ṭīkā) - Tīkā</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/vin09t.nrf5.xml</normativeSource>
+    <source>roman/tika/vinayapitaka (tika)/kankhavitaranipurana-tika/pacittiyakandam.xml</source>
+    <script>roman</script>
+    <directory>/tika/vinayapitaka (tika)/kankhavitaranipurana-tika</directory>
+    <basename>pacittiyakandam</basename>
+    <titlePath>Pācittiyakaṇḍaṃ - Kaṅkhāvitaraṇīpurāṇa-ṭīkā - Vinayapiṭaka (ṭīkā) - Tīkā</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">Pācittiyakaṇḍaṃ</chapter>
     <title line="2">4. Bhojanavaggo</title>
     <subhead line="3">2. Gaṇabhojanasikkhāpadavaṇṇanā</subhead>

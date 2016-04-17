@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/s0102m.mul6.xml</normativeSource>
-    <archivePath>roman/tipitaka (mula)/suttapitaka/dighanikaya/mahavaggapali/7. mahasamayasuttam.xml</archivePath>
-    <baseFileName>7. mahasamayasuttam</baseFileName>
-    <titlePath>7. Mahāsamayasuttaṃ - Mahāvaggapāḷi - Dīghanikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
     <versions>
       <version source="vipassana research institut" source-abbr="vri"/>
       <version source="sri lanka" source-abbr="sī."/>
@@ -13,8 +9,14 @@
       <version source="cambodian" source-abbr="ka."/>
       <version source="ṭīkā" source-abbr="ṭīkā"/>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/s0102m.mul6.xml</normativeSource>
+    <source>roman/tipitaka (mula)/suttapitaka/dighanikaya/mahavaggapali/7. mahasamayasuttam.xml</source>
+    <script>roman</script>
+    <directory>/tipitaka (mula)/suttapitaka/dighanikaya/mahavaggapali</directory>
+    <basename>7. mahasamayasuttam</basename>
+    <titlePath>7. Mahāsamayasuttaṃ - Mahāvaggapāḷi - Dīghanikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">7. Mahāsamayasuttaṃ</chapter>
     <paragraph line="2" number="331"> Evaṃ <pageBreak edition="Thai" number="2.0287" /><pageBreak edition="Myanmar" number="2.0203" /><pageBreak edition="Vipassana Research Institut" number="2.0185" /> me <pageBreak edition="Pali Text Society" number="2.0253" /> sutaṃ – ekaṃ samayaṃ bhagavā sakkesu viharati kapilavatthusmiṃ mahāvane mahatā bhikkhusaṅghena saddhiṃ pañcamattehi bhikkhusatehi sabbeheva arahantehi; dasahi ca lokadhātūhi devatā yebhuyyena sannipatitā honti bhagavantaṃ dassanāya bhikkhusaṅghañca. Atha kho catunnaṃ suddhāvāsakāyikānaṃ <alternatives line="3" extra="" separator="false"><alternative source-abbr="vri" source="vipassana research institut">devatānaṃ</alternative><alternative source-abbr="sī." source="sri lanka">devānaṃ</alternative><alternative source-abbr="syā." source="thai">devānaṃ</alternative><alternative source-abbr="pī." source="pali text society">devānaṃ</alternative></alternatives>  etadahosi – ‘‘ayaṃ kho bhagavā sakkesu viharati kapilavatthusmiṃ mahāvane mahatā bhikkhusaṅghena saddhiṃ pañcamattehi bhikkhusatehi sabbeheva arahantehi; dasahi ca lokadhātūhi devatā yebhuyyena sannipatitā honti bhagavantaṃ dassanāya bhikkhusaṅghañca. Yaṃnūna mayampi yena bhagavā tenupasaṅkameyyāma; upasaṅkamitvā bhagavato santike paccekaṃ <alternatives line="11" extra="" separator="true"><alternative source-abbr="vri" source="vipassana research institut">gāthaṃ</alternative><alternative source-abbr="sī." source="sri lanka">paccekagāthaṃ</alternative><alternative source-abbr="syā." source="thai">paccekagāthaṃ</alternative><alternative source-abbr="pī." source="pali text society">paccekagāthaṃ</alternative><alternative source-abbr="ka." source="cambodian">paccekagāthā</alternative><alternative source-abbr="sī." source="sri lanka">paccekagāthā</alternative></alternatives>  bhāseyyāmā’’ti.</paragraph>
     <paragraph line="3" number="332"> Atha kho tā devatā seyyathāpi nāma balavā puriso samiñjitaṃ vā bāhaṃ pasāreyya pasāritaṃ vā bāhaṃ samiñjeyya <pageBreak edition="Pali Text Society" number="2.0254" />, evameva suddhāvāsesu devesu antarahitā bhagavato purato pāturahesuṃ. Atha kho tā devatā bhagavantaṃ abhivādetvā ekamantaṃ aṭṭhaṃsu. Ekamantaṃ ṭhitā kho ekā devatā bhagavato santike imaṃ gāthaṃ abhāsi –</paragraph>

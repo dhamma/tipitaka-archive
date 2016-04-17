@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/e0809n.nrf4.xml</normativeSource>
-    <archivePath>roman/anya/byakarana gantha-sangaho/abhidhanappadipikapatha/3. samannakanda.xml</archivePath>
-    <baseFileName>3. samannakanda</baseFileName>
-    <titlePath>3. Sāmaññakaṇḍa - Abhidhānappadīpikāpāṭha - Byākaraṇa gantha-saṅgaho - Anya</titlePath>
     <versions>
       <version source="sri lanka" source-abbr="sī."/>
       <version source="vipassana research institut" source-abbr="vri"/>
@@ -17,8 +13,14 @@
       <version source="453-1124" source-abbr="453-1124"/>
       <version source="pākāramūle nettajale usume ca vappo-ṭī" source-abbr="pākāramūle nettajale usume ca vappo-ṭī"/>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/e0809n.nrf4.xml</normativeSource>
+    <source>roman/anya/byakarana gantha-sangaho/abhidhanappadipikapatha/3. samannakanda.xml</source>
+    <script>roman</script>
+    <directory>/anya/byakarana gantha-sangaho/abhidhanappadipikapatha</directory>
+    <basename>3. samannakanda</basename>
+    <titlePath>3. Sāmaññakaṇḍa - Abhidhānappadīpikāpāṭha - Byākaraṇa gantha-saṅgaho - Anya</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">3. Sāmaññakaṇḍa</chapter>
     <title line="2">1. Visesyādhīnavagga</title>
     <hangnum line="3" number="691"></hangnum>

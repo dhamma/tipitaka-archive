@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/e1001n.nrf3.xml</normativeSource>
-    <archivePath>roman/anya/niti-gantha-sangaho/kavidappananiti/sujanakanda.xml</archivePath>
-    <baseFileName>sujanakanda</baseFileName>
-    <titlePath>Sujanakaṇḍa - Kavidappaṇanīti - Nīti-gantha-saṅgaho - Anya</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/e1001n.nrf3.xml</normativeSource>
+    <source>roman/anya/niti-gantha-sangaho/kavidappananiti/sujanakanda.xml</source>
+    <script>roman</script>
+    <directory>/anya/niti-gantha-sangaho/kavidappananiti</directory>
+    <basename>sujanakanda</basename>
+    <titlePath>Sujanakaṇḍa - Kavidappaṇanīti - Nīti-gantha-saṅgaho - Anya</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">Sujanakaṇḍa</chapter>
     <hangnum line="2" number="176"></hangnum>
     <gatha1 line="3"> Saddhāsīlādidhammehi, <pageBreak edition="Myanmar" number="0.0106" /> sappanno seṭṭhamānuso;</gatha1>

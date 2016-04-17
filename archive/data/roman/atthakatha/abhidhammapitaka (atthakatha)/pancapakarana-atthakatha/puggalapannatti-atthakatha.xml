@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/abh03a.att3.xml</normativeSource>
-    <archivePath>roman/atthakatha/abhidhammapitaka (atthakatha)/pancapakarana-atthakatha/puggalapannatti-atthakatha.xml</archivePath>
-    <baseFileName>puggalapannatti-atthakatha</baseFileName>
-    <titlePath>Puggalapaññatti-aṭṭhakathā - Pañcapakaraṇa-aṭṭhakathā - Abhidhammapiṭaka (aṭṭhakathā) - Aṭṭhakathā</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/abh03a.att3.xml</normativeSource>
+    <source>roman/atthakatha/abhidhammapitaka (atthakatha)/pancapakarana-atthakatha/puggalapannatti-atthakatha.xml</source>
+    <script>roman</script>
+    <directory>/atthakatha/abhidhammapitaka (atthakatha)/pancapakarana-atthakatha</directory>
+    <basename>puggalapannatti-atthakatha</basename>
+    <titlePath>Puggalapaññatti-aṭṭhakathā - Pañcapakaraṇa-aṭṭhakathā - Abhidhammapiṭaka (aṭṭhakathā) - Aṭṭhakathā</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">Puggalapaññatti-aṭṭhakathā</chapter>
     <gatha1 line="2">Nipuṇatthaṃ <pageBreak edition="Pali Text Society" number="0.0171" /><pageBreak edition="Myanmar" number="0.0025" /><pageBreak edition="Vipassana Research Institut" number="0.0025" /> pakaraṇaṃ, dhātubhedappakāsano;</gatha1>
     <gathalast line="3">Satthā dhātukathaṃ nāma, desayitvā surālaye.</gathalast>

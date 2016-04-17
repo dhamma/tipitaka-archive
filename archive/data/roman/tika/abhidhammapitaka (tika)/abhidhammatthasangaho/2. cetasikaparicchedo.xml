@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/abh07t.nrf1.xml</normativeSource>
-    <archivePath>roman/tika/abhidhammapitaka (tika)/abhidhammatthasangaho/2. cetasikaparicchedo.xml</archivePath>
-    <baseFileName>2. cetasikaparicchedo</baseFileName>
-    <titlePath>2. Cetasikaparicchedo - Abhidhammatthasaṅgaho - Abhidhammapiṭaka (ṭīkā) - Tīkā</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/abh07t.nrf1.xml</normativeSource>
+    <source>roman/tika/abhidhammapitaka (tika)/abhidhammatthasangaho/2. cetasikaparicchedo.xml</source>
+    <script>roman</script>
+    <directory>/tika/abhidhammapitaka (tika)/abhidhammatthasangaho</directory>
+    <basename>2. cetasikaparicchedo</basename>
+    <titlePath>2. Cetasikaparicchedo - Abhidhammatthasaṅgaho - Abhidhammapiṭaka (ṭīkā) - Tīkā</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">2. Cetasikaparicchedo</chapter>
     <subhead line="2">Sampayogalakkhaṇaṃ</subhead>
     <paragraph line="3" number="1"> Ekuppādanirodhā <pageBreak edition="Vipassana Research Institut" number="0.0008" /> ca, ekālambaṇavatthukā.</paragraph>

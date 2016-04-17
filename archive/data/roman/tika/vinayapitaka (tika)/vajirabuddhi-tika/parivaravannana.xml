@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/vin06t.nrf5.xml</normativeSource>
-    <archivePath>roman/tika/vinayapitaka (tika)/vajirabuddhi-tika/parivaravannana.xml</archivePath>
-    <baseFileName>parivaravannana</baseFileName>
-    <titlePath>Parivāravaṇṇanā - Vajirabuddhi-ṭīkā - Vinayapiṭaka (ṭīkā) - Tīkā</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/vin06t.nrf5.xml</normativeSource>
+    <source>roman/tika/vinayapitaka (tika)/vajirabuddhi-tika/parivaravannana.xml</source>
+    <script>roman</script>
+    <directory>/tika/vinayapitaka (tika)/vajirabuddhi-tika</directory>
+    <basename>parivaravannana</basename>
+    <titlePath>Parivāravaṇṇanā - Vajirabuddhi-ṭīkā - Vinayapiṭaka (ṭīkā) - Tīkā</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">Parivāravaṇṇanā</chapter>
     <title line="2">Soḷasamahāvāravaṇṇanā</title>
     <subhead line="3">Paññattivāravaṇṇanā</subhead>

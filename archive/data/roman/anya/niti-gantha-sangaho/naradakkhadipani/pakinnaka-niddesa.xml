@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/e1009n.nrf11.xml</normativeSource>
-    <archivePath>roman/anya/niti-gantha-sangaho/naradakkhadipani/pakinnaka-niddesa.xml</archivePath>
-    <baseFileName>pakinnaka-niddesa</baseFileName>
-    <titlePath>Pakiṇṇaka-niddesa - Naradakkhadīpanī - Nīti-gantha-saṅgaho - Anya</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/e1009n.nrf11.xml</normativeSource>
+    <source>roman/anya/niti-gantha-sangaho/naradakkhadipani/pakinnaka-niddesa.xml</source>
+    <script>roman</script>
+    <directory>/anya/niti-gantha-sangaho/naradakkhadipani</directory>
+    <basename>pakinnaka-niddesa</basename>
+    <titlePath>Pakiṇṇaka-niddesa - Naradakkhadīpanī - Nīti-gantha-saṅgaho - Anya</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">Pakiṇṇaka-niddesa</chapter>
     <hangnum line="2" number="253"></hangnum>
     <gatha1 line="3"> Kumudaṃ <pageBreak edition="Myanmar" number="0.0460" /> ko pabodhayi,</gatha1>

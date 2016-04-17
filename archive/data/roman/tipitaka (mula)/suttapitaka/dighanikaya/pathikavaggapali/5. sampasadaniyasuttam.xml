@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/s0103m.mul4.xml</normativeSource>
-    <archivePath>roman/tipitaka (mula)/suttapitaka/dighanikaya/pathikavaggapali/5. sampasadaniyasuttam.xml</archivePath>
-    <baseFileName>5. sampasadaniyasuttam</baseFileName>
-    <titlePath>5. Sampasādanīyasuttaṃ - Pāthikavaggapāḷi - Dīghanikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
     <versions>
       <version source="sri lanka" source-abbr="sī."/>
       <version source="pali text society" source-abbr="pī."/>
@@ -12,8 +8,14 @@
       <version source="thai" source-abbr="syā."/>
       <version source="cambodian" source-abbr="ka."/>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/s0103m.mul4.xml</normativeSource>
+    <source>roman/tipitaka (mula)/suttapitaka/dighanikaya/pathikavaggapali/5. sampasadaniyasuttam.xml</source>
+    <script>roman</script>
+    <directory>/tipitaka (mula)/suttapitaka/dighanikaya/pathikavaggapali</directory>
+    <basename>5. sampasadaniyasuttam</basename>
+    <titlePath>5. Sampasādanīyasuttaṃ - Pāthikavaggapāḷi - Dīghanikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">5. Sampasādanīyasuttaṃ</chapter>
     <subhead line="2">Sāriputtasīhanādo</subhead>
     <paragraph line="3" number="141"> Evaṃ <pageBreak edition="Myanmar" number="3.0082" /><pageBreak edition="Pali Text Society" number="3.0099" /><pageBreak edition="Vipassana Research Institut" number="3.0073" /><pageBreak edition="Thai" number="3.0108" /> me sutaṃ – ekaṃ samayaṃ bhagavā nāḷandāyaṃ viharati pāvārikambavane. Atha kho āyasmā sāriputto yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi. Ekamantaṃ nisinno kho āyasmā sāriputto bhagavantaṃ etadavoca – ‘‘evaṃpasanno ahaṃ, bhante, bhagavati, na cāhu na ca bhavissati na cetarahi vijjati añño samaṇo vā brāhmaṇo vā bhagavatā bhiyyobhiññataro yadidaṃ sambodhiya’’nti.</paragraph>

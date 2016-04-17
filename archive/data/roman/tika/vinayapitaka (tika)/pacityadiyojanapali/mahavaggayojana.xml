@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/vin12t.nrf2.xml</normativeSource>
-    <archivePath>roman/tika/vinayapitaka (tika)/pacityadiyojanapali/mahavaggayojana.xml</archivePath>
-    <baseFileName>mahavaggayojana</baseFileName>
-    <titlePath>Mahāvaggayojanā - Pācityādiyojanāpāḷi - Vinayapiṭaka (ṭīkā) - Tīkā</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/vin12t.nrf2.xml</normativeSource>
+    <source>roman/tika/vinayapitaka (tika)/pacityadiyojanapali/mahavaggayojana.xml</source>
+    <script>roman</script>
+    <directory>/tika/vinayapitaka (tika)/pacityadiyojanapali</directory>
+    <basename>mahavaggayojana</basename>
+    <titlePath>Mahāvaggayojanā - Pācityādiyojanāpāḷi - Vinayapiṭaka (ṭīkā) - Tīkā</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">Mahāvaggayojanā</chapter>
     <title line="2">1. Mahākhandhakaṃ</title>
     <subhead line="3">1. Bodhikathā</subhead>

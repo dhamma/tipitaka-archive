@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/vin13t.nrf4.xml</normativeSource>
-    <archivePath>roman/tika/vinayapitaka (tika)/khuddasikkha-mulasikkha/mulasikkha-tika.xml</archivePath>
-    <baseFileName>mulasikkha-tika</baseFileName>
-    <titlePath>Mūlasikkhā-ṭīkā - Khuddasikkhā-mūlasikkhā - Vinayapiṭaka (ṭīkā) - Tīkā</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/vin13t.nrf4.xml</normativeSource>
+    <source>roman/tika/vinayapitaka (tika)/khuddasikkha-mulasikkha/mulasikkha-tika.xml</source>
+    <script>roman</script>
+    <directory>/tika/vinayapitaka (tika)/khuddasikkha-mulasikkha</directory>
+    <basename>mulasikkha-tika</basename>
+    <titlePath>Mūlasikkhā-ṭīkā - Khuddasikkhā-mūlasikkhā - Vinayapiṭaka (ṭīkā) - Tīkā</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">Mūlasikkhā-ṭīkā</chapter>
     <subsubhead line="2">Ganthārambhakathā</subsubhead>
     <gatha1 line="3">Sabbakāmadadaṃ <pageBreak edition="Myanmar" number="0.0457" /><pageBreak edition="Vipassana Research Institut" number="0.0387" /> sabbaratane ratanattayaṃ;</gatha1>

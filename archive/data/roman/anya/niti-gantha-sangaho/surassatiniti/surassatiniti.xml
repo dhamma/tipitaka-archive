@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/e1007n.nrf1.xml</normativeSource>
-    <archivePath>roman/anya/niti-gantha-sangaho/surassatiniti/surassatiniti.xml</archivePath>
-    <baseFileName>surassatiniti</baseFileName>
-    <titlePath>Sūrassatinīti - Sūrassatinīti - Nīti-gantha-saṅgaho - Anya</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/e1007n.nrf1.xml</normativeSource>
+    <source>roman/anya/niti-gantha-sangaho/surassatiniti/surassatiniti.xml</source>
+    <script>roman</script>
+    <directory>/anya/niti-gantha-sangaho/surassatiniti</directory>
+    <basename>surassatiniti</basename>
+    <titlePath>Sūrassatinīti - Sūrassatinīti - Nīti-gantha-saṅgaho - Anya</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">Sūrassatīnīti</chapter>
     <hangnum line="2" number="1"></hangnum>
     <gatha1 line="3"> Kataññutā <pageBreak edition="Myanmar" number="1.0003" /> ca saccañca,</gatha1>

@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/abh03m3.mul10.xml</normativeSource>
-    <archivePath>roman/tipitaka (mula)/abhidhammapitaka/kathavatthupali/3. tatiyavaggo.xml</archivePath>
-    <baseFileName>3. tatiyavaggo</baseFileName>
-    <titlePath>3. Tatiyavaggo - Kathāvatthupāḷi - Abhidhammapiṭaka - Tipiṭaka (Mūla)</titlePath>
     <versions>
       <version source="ṭīkā oloketabbā" source-abbr="ṭīkā oloketabbā"/>
       <version source="vipassana research institut" source-abbr="vri"/>
@@ -14,8 +10,14 @@
       <version source="kaṃ." source-abbr="kaṃ."/>
       <version source="unknown" source-abbr="?"/>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/abh03m3.mul10.xml</normativeSource>
+    <source>roman/tipitaka (mula)/abhidhammapitaka/kathavatthupali/3. tatiyavaggo.xml</source>
+    <script>roman</script>
+    <directory>/tipitaka (mula)/abhidhammapitaka/kathavatthupali</directory>
+    <basename>3. tatiyavaggo</basename>
+    <titlePath>3. Tatiyavaggo - Kathāvatthupāḷi - Abhidhammapiṭaka - Tipiṭaka (Mūla)</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">3. Tatiyavaggo</chapter>
     <subhead line="2">(21) 1. Balakathā</subhead>
     <paragraph line="3" number="354"> Tathāgatabalaṃ <pageBreak edition="Thai" number="0.0251" /><pageBreak edition="Pali Text Society" number="0.0228" /><pageBreak edition="Vipassana Research Institut" number="0.0192" /> sāvakasādhāraṇanti? Āmantā. Tathāgatabalaṃ sāvakabalaṃ, sāvakabalaṃ tathāgatabalanti? Na hevaṃ vattabbe…pe….</paragraph>

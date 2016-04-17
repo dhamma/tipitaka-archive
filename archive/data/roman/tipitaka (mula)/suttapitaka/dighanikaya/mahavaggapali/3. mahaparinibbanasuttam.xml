@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/s0102m.mul2.xml</normativeSource>
-    <archivePath>roman/tipitaka (mula)/suttapitaka/dighanikaya/mahavaggapali/3. mahaparinibbanasuttam.xml</archivePath>
-    <baseFileName>3. mahaparinibbanasuttam</baseFileName>
-    <titlePath>3. Mahāparinibbānasuttaṃ - Mahāvaggapāḷi - Dīghanikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
     <versions>
       <version source="vipassana research institut" source-abbr="vri"/>
       <version source="thai" source-abbr="syā."/>
@@ -21,8 +17,14 @@
       <version source="unknown" source-abbr="?"/>
       <version source="kaṃ." source-abbr="kaṃ."/>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/s0102m.mul2.xml</normativeSource>
+    <source>roman/tipitaka (mula)/suttapitaka/dighanikaya/mahavaggapali/3. mahaparinibbanasuttam.xml</source>
+    <script>roman</script>
+    <directory>/tipitaka (mula)/suttapitaka/dighanikaya/mahavaggapali</directory>
+    <basename>3. mahaparinibbanasuttam</basename>
+    <titlePath>3. Mahāparinibbānasuttaṃ - Mahāvaggapāḷi - Dīghanikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">3. Mahāparinibbānasuttaṃ</chapter>
     <paragraph line="2" number="131"> Evaṃ <pageBreak edition="Thai" number="2.0085" /><pageBreak edition="Myanmar" number="2.0061" /><pageBreak edition="Vipassana Research Institut" number="2.0056" /> me <pageBreak edition="Pali Text Society" number="2.0072" /> sutaṃ – ekaṃ samayaṃ bhagavā rājagahe viharati gijjhakūṭe pabbate. Tena kho pana samayena rājā māgadho ajātasattu vedehiputto vajjī abhiyātukāmo hoti. So evamāha – ‘‘ahaṃ hime vajjī evaṃmahiddhike evaṃmahānubhāve <alternatives line="3" extra="" separator="true"><alternative source-abbr="vri" source="vipassana research institut">ucchecchāmi</alternative><alternative source-abbr="syā." source="thai">ucchejjāmi</alternative><alternative source-abbr="pī." source="pali text society">ucchejjāmi</alternative><alternative source-abbr="ka." source="cambodian">ucchijjāmi</alternative></alternatives>  vajjī, vināsessāmi vajjī, anayabyasanaṃ <alternatives line="12" extra=" a. ni. 7.22 passitabbaṃ" separator="false"><alternative source-abbr="vri" source="vipassana research institut">āpādessāmi vajjī’’ti</alternative><alternative source-abbr="sabbattha" source="sabbattha">āpādessāmi vajjī’’ti</alternative></alternatives> .</paragraph>
     <paragraph line="3" number="132"> Atha kho rājā māgadho ajātasattu vedehiputto vassakāraṃ brāhmaṇaṃ magadhamahāmattaṃ āmantesi – ‘‘ehi tvaṃ, brāhmaṇa, yena bhagavā tenupasaṅkama; upasaṅkamitvā mama vacanena bhagavato pāde sirasā vandāhi, appābādhaṃ appātaṅkaṃ lahuṭṭhānaṃ balaṃ phāsuvihāraṃ puccha – ‘rājā, bhante, māgadho ajātasattu vedehiputto bhagavato pāde sirasā vandati, appābādhaṃ appātaṅkaṃ lahuṭṭhānaṃ balaṃ phāsuvihāraṃ pucchatī’ti. Evañca vadehi – ‘rājā, bhante, māgadho ajātasattu vedehiputto vajjī abhiyātukāmo. So evamāha – ‘‘ahaṃ hime vajjī evaṃmahiddhike evaṃmahānubhāve ucchecchāmi vajjī, vināsessāmi vajjī, anayabyasanaṃ <pageBreak edition="Pali Text Society" number="2.0073" /> āpādessāmī’’’ti. Yathā te bhagavā byākaroti, taṃ sādhukaṃ uggahetvā mama āroceyyāsi. Na hi tathāgatā vitathaṃ bhaṇantī’’ti.</paragraph>

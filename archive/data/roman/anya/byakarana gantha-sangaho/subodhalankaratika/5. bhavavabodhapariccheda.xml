@@ -1,17 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/e0812n.nrf4.xml</normativeSource>
-    <archivePath>roman/anya/byakarana gantha-sangaho/subodhalankaratika/5. bhavavabodhapariccheda.xml</archivePath>
-    <baseFileName>5. bhavavabodhapariccheda</baseFileName>
-    <titlePath>5. Bhāvāvabodhapariccheda - Subodhālaṅkāraṭīkā - Byākaraṇa gantha-saṅgaho - Anya</titlePath>
     <versions>
       <version source="vipassana research institut" source-abbr="vri"/>
       <version source="cambodian" source-abbr="ka."/>
       <version source="unknown" source-abbr="?"/>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/e0812n.nrf4.xml</normativeSource>
+    <source>roman/anya/byakarana gantha-sangaho/subodhalankaratika/5. bhavavabodhapariccheda.xml</source>
+    <script>roman</script>
+    <directory>/anya/byakarana gantha-sangaho/subodhalankaratika</directory>
+    <basename>5. bhavavabodhapariccheda</basename>
+    <titlePath>5. Bhāvāvabodhapariccheda - Subodhālaṅkāraṭīkā - Byākaraṇa gantha-saṅgaho - Anya</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">5. Bhāvāvabodhapariccheda</chapter>
     <hangnum line="2" number="338"></hangnum>
     <gatha1 line="3"><bold>Paṭibhānavatā <pageBreak edition="Myanmar" number="0.0319" /> loka-vohāra’manusārinā;</bold></gatha1>

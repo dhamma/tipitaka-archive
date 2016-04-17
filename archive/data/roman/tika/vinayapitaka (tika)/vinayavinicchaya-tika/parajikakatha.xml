@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/vin11t.nrf2.xml</normativeSource>
-    <archivePath>roman/tika/vinayapitaka (tika)/vinayavinicchaya-tika/parajikakatha.xml</archivePath>
-    <baseFileName>parajikakatha</baseFileName>
-    <titlePath>Pārājikakathā - Vinayavinicchaya-ṭīkā - Vinayapiṭaka (ṭīkā) - Tīkā</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/vin11t.nrf2.xml</normativeSource>
+    <source>roman/tika/vinayapitaka (tika)/vinayavinicchaya-tika/parajikakatha.xml</source>
+    <script>roman</script>
+    <directory>/tika/vinayapitaka (tika)/vinayavinicchaya-tika</directory>
+    <basename>parajikakatha</basename>
+    <titlePath>Pārājikakathā - Vinayavinicchaya-ṭīkā - Vinayapiṭaka (ṭīkā) - Tīkā</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">Pārājikakathā</chapter>
     <subhead line="2">Paṭhamapārājikakathāvaṇṇanā</subhead>
     <paragraph line="3" number="6"> Evaṃ <pageBreak edition="Myanmar" number="1.0024" /> pañcahi gāthāhi ratanattayapaṇāmādiṃ dassetvā idāni yathāpaṭiññātavinicchayaṃ dassetumāha <bold>‘‘tividhe’’</bold>tiādi. Tattha <bold>‘‘tividhe’’</bold>tiādinā paṭhamapārājikasikkhāpadavinicchayaṃ dasseti. <bold>Tividhe</bold>ti vaccapassāvamukhamaggānaṃ vasena tippakāre <bold>magge</bold>ti iminā sambandho. <bold>Tilamattampī</bold>ti tilabījamattampi aṅgajātanti sambandho. <bold>Magge</bold>ti vaccapassāvānaṃ nikkhamanadvāratāya, annapānapittasemhādīnaṃ pavesananikkhamanadvāratāya ca maggavohāragate sarīrappadese, allokāseti sambandho. ‘‘Maggesu tilamattampi, tīsu sevanacetano’’ti vattabbepi ‘‘tividhe’’ti pakāravācividhasaddopādānena sajātisaṅgahavasena tīhi rāsīhi saṅgahetvā pabhedavasena tiṃsavidho maggo dassito hoti.</paragraph>

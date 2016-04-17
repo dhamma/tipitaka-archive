@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/e1210n.nrf0.xml</normativeSource>
-    <archivePath>roman/anya/sihala-gantha-sangaho/milidatika/milidatika.xml</archivePath>
-    <baseFileName>milidatika</baseFileName>
-    <titlePath>Milidaṭīkā - Milidaṭīkā - Sihaḷa-gantha-saṅgaho - Anya</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/e1210n.nrf0.xml</normativeSource>
+    <source>roman/anya/sihala-gantha-sangaho/milidatika/milidatika.xml</source>
+    <script>roman</script>
+    <directory>/anya/sihala-gantha-sangaho/milidatika</directory>
+    <basename>milidatika</basename>
+    <titlePath>Milidaṭīkā - Milidaṭīkā - Sihaḷa-gantha-saṅgaho - Anya</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">Milidaṭīkā</chapter>
     <centered line="2">Namo tassa bhagavato arahato sammāsambuddhassa</centered>
     <gatha1 line="3">Nirantaraṃ lokahitassa kārakaṃ</gatha1>

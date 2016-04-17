@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/s0402m3.mul21.xml</normativeSource>
-    <archivePath>roman/tipitaka (mula)/suttapitaka/anguttaranikaya/catukkanipatapali/(22) 2. parisavaggo.xml</archivePath>
-    <baseFileName>(22) 2. parisavaggo</baseFileName>
-    <titlePath>(22) 2. Parisāvaggo - Catukkanipātapāḷi - Aṅguttaranikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
     <versions>
       <version source="vipassana research institut" source-abbr="vri"/>
       <version source="pali text society" source-abbr="pī."/>
@@ -13,8 +9,14 @@
       <version source="thai" source-abbr="syā."/>
       <version source="kaṃ." source-abbr="kaṃ."/>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/s0402m3.mul21.xml</normativeSource>
+    <source>roman/tipitaka (mula)/suttapitaka/anguttaranikaya/catukkanipatapali/(22) 2. parisavaggo.xml</source>
+    <script>roman</script>
+    <directory>/tipitaka (mula)/suttapitaka/anguttaranikaya/catukkanipatapali</directory>
+    <basename>(22) 2. parisavaggo</basename>
+    <titlePath>(22) 2. Parisāvaggo - Catukkanipātapāḷi - Aṅguttaranikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">(22) 2. Parisāvaggo</chapter>
     <subhead line="2">1. Parisāsuttaṃ</subhead>
     <paragraph line="3" number="211"> ‘‘Cattārome <pageBreak edition="Vipassana Research Institut" number="1.0257" />, bhikkhave, parisadūsanā. Katame cattāro? <alternatives line="3" extra="" separator="false"><alternative source-abbr="vri" source="vipassana research institut">Bhikkhu, bhikkhave</alternative><alternative source-abbr="pī." source="pali text society">idha bhikkhave bhikkhu</alternative><alternative source-abbr="ka." source="cambodian">idha bhikkhave bhikkhu</alternative></alternatives> , dussīlo pāpadhammo parisadūsano; bhikkhunī, bhikkhave, dussīlā <pageBreak edition="Myanmar" number="1.0548" /> pāpadhammā parisadūsanā; upāsako, bhikkhave, dussīlo pāpadhammo parisadūsano; upāsikā, bhikkhave, dussīlā pāpadhammā parisadūsanā. Ime kho, bhikkhave, cattāro parisadūsanā.</paragraph>

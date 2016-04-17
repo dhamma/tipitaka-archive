@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/s0101m.mul2.xml</normativeSource>
-    <archivePath>roman/tipitaka (mula)/suttapitaka/dighanikaya/silakkhandhavaggapali/3. ambatthasuttam.xml</archivePath>
-    <baseFileName>3. ambatthasuttam</baseFileName>
-    <titlePath>3. Ambaṭṭhasuttaṃ - Sīlakkhandhavaggapāḷi - Dīghanikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
     <versions>
       <version source="sri lanka" source-abbr="sī."/>
       <version source="pali text society" source-abbr="pī."/>
@@ -13,8 +9,14 @@
       <version source="kaṃ." source-abbr="kaṃ."/>
       <version source="cambodian" source-abbr="ka."/>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/s0101m.mul2.xml</normativeSource>
+    <source>roman/tipitaka (mula)/suttapitaka/dighanikaya/silakkhandhavaggapali/3. ambatthasuttam.xml</source>
+    <script>roman</script>
+    <directory>/tipitaka (mula)/suttapitaka/dighanikaya/silakkhandhavaggapali</directory>
+    <basename>3. ambatthasuttam</basename>
+    <titlePath>3. Ambaṭṭhasuttaṃ - Sīlakkhandhavaggapāḷi - Dīghanikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">3. Ambaṭṭhasuttaṃ</chapter>
     <paragraph line="2" number="254"> Evaṃ <pageBreak edition="Myanmar" number="1.0082" /><pageBreak edition="Vipassana Research Institut" number="1.0076" /><pageBreak edition="Pali Text Society" number="1.0087" /><pageBreak edition="Thai" number="1.0114" /> me sutaṃ – ekaṃ samayaṃ bhagavā kosalesu cārikaṃ caramāno mahatā bhikkhusaṅghena saddhiṃ pañcamattehi bhikkhusatehi yena icchānaṅgalaṃ nāma kosalānaṃ brāhmaṇagāmo tadavasari. Tatra sudaṃ bhagavā icchānaṅgale viharati icchānaṅgalavanasaṇḍe.</paragraph>
     <subhead line="3">Pokkharasātivatthu</subhead>

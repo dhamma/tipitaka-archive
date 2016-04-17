@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/e0703n.nrf0.xml</normativeSource>
-    <archivePath>roman/anya/vamsa-gantha-sangaho/mahavamsa/pathamapariccheda.xml</archivePath>
-    <baseFileName>pathamapariccheda</baseFileName>
-    <titlePath>Pathamapariccheda - Mahāvaṃsa - Vaṃsa-gantha-saṅgaho - Anya</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/e0703n.nrf0.xml</normativeSource>
+    <source>roman/anya/vamsa-gantha-sangaho/mahavamsa/pathamapariccheda.xml</source>
+    <script>roman</script>
+    <directory>/anya/vamsa-gantha-sangaho/mahavamsa</directory>
+    <basename>pathamapariccheda</basename>
+    <titlePath>Pathamapariccheda - Mahāvaṃsa - Vaṃsa-gantha-saṅgaho - Anya</titlePath>
   </metadata>
-  <content>
+<content>
     <centered line="1"> Namo tassa bhagavato arahato sammāsambuddhassa</centered>
     <book line="2">Mahāvaṃsapāḷi</book>
     <chapter line="3">Pathamapariccheda</chapter>

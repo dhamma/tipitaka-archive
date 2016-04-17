@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/abh03m3.mul14.xml</normativeSource>
-    <archivePath>roman/tipitaka (mula)/abhidhammapitaka/kathavatthupali/7. sattamavaggo.xml</archivePath>
-    <baseFileName>7. sattamavaggo</baseFileName>
-    <titlePath>7. Sattamavaggo - Kathāvatthupāḷi - Abhidhammapiṭaka - Tipiṭaka (Mūla)</titlePath>
     <versions>
       <version source="vipassana research institut" source-abbr="vri"/>
       <version source="pali text society" source-abbr="pī."/>
@@ -17,8 +13,14 @@
       <version source="bahūsu" source-abbr="bahūsu"/>
       <version source="kaṃ." source-abbr="kaṃ."/>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/abh03m3.mul14.xml</normativeSource>
+    <source>roman/tipitaka (mula)/abhidhammapitaka/kathavatthupali/7. sattamavaggo.xml</source>
+    <script>roman</script>
+    <directory>/tipitaka (mula)/abhidhammapitaka/kathavatthupali</directory>
+    <basename>7. sattamavaggo</basename>
+    <titlePath>7. Sattamavaggo - Kathāvatthupāḷi - Abhidhammapiṭaka - Tipiṭaka (Mūla)</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">7. Sattamavaggo</chapter>
     <subhead line="2">(63) 1. Saṅgahitakathā</subhead>
     <paragraph line="3" number="471"> Natthi <pageBreak edition="Thai" number="0.0363" /><pageBreak edition="Pali Text Society" number="0.0335" /><pageBreak edition="Vipassana Research Institut" number="0.0280" /> keci dhammā kehici dhammehi <alternatives line="3" extra="" separator="false"><alternative source-abbr="vri" source="vipassana research institut">saṅgahitāti</alternative><alternative source-abbr="pī." source="pali text society">saṅgahītāti</alternative></alternatives> ? Āmantā. Nanu atthi keci dhammā kehici dhammehi gaṇanaṃ gacchanti uddesaṃ gacchanti pariyāpannāti? Āmantā. Hañci atthi keci dhammā kehici dhammehi gaṇanaṃ gacchanti <pageBreak edition="Myanmar" number="0.0251" /> uddesaṃ gacchanti pariyāpannā, no ca vata re vattabbe – ‘‘natthi keci dhammā kehici dhammehi saṅgahitā’’ti.</paragraph>

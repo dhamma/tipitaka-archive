@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/vin13t.nrf1.xml</normativeSource>
-    <archivePath>roman/tika/vinayapitaka (tika)/khuddasikkha-mulasikkha/khuddasikkha-puranatika.xml</archivePath>
-    <baseFileName>khuddasikkha-puranatika</baseFileName>
-    <titlePath>Khuddasikkhā-purāṇaṭīkā - Khuddasikkhā-mūlasikkhā - Vinayapiṭaka (ṭīkā) - Tīkā</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/vin13t.nrf1.xml</normativeSource>
+    <source>roman/tika/vinayapitaka (tika)/khuddasikkha-mulasikkha/khuddasikkha-puranatika.xml</source>
+    <script>roman</script>
+    <directory>/tika/vinayapitaka (tika)/khuddasikkha-mulasikkha</directory>
+    <basename>khuddasikkha-puranatika</basename>
+    <titlePath>Khuddasikkhā-purāṇaṭīkā - Khuddasikkhā-mūlasikkhā - Vinayapiṭaka (ṭīkā) - Tīkā</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">Khuddasikkhā-purāṇaṭīkā</chapter>
     <subsubhead line="2">Ganthārambhakathā</subsubhead>
     <gatha1 line="3">Yo <pageBreak edition="Vipassana Research Institut" number="0.0069" /><pageBreak edition="Myanmar" number="0.0059" /> ciraṃ dīghamaddhānaṃ, viditvā dukkhitaṃ janaṃ;</gatha1>

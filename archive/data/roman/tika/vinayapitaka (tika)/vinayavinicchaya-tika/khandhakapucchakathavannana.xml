@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/vin11t.nrf41.xml</normativeSource>
-    <archivePath>roman/tika/vinayapitaka (tika)/vinayavinicchaya-tika/khandhakapucchakathavannana.xml</archivePath>
-    <baseFileName>khandhakapucchakathavannana</baseFileName>
-    <titlePath>Khandhakapucchākathāvaṇṇanā - Vinayavinicchaya-ṭīkā - Vinayapiṭaka (ṭīkā) - Tīkā</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/vin11t.nrf41.xml</normativeSource>
+    <source>roman/tika/vinayapitaka (tika)/vinayavinicchaya-tika/khandhakapucchakathavannana.xml</source>
+    <script>roman</script>
+    <directory>/tika/vinayapitaka (tika)/vinayavinicchaya-tika</directory>
+    <basename>khandhakapucchakathavannana</basename>
+    <titlePath>Khandhakapucchākathāvaṇṇanā - Vinayavinicchaya-ṭīkā - Vinayapiṭaka (ṭīkā) - Tīkā</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">Khandhakapucchākathāvaṇṇanā</chapter>
     <paragraph line="2" number="300"><bold>Sesesū</bold>ti abhabbapuggalaparidīpakesu sabbapadesu.</paragraph>
     <paragraph line="3" number="302"> ‘‘Nassantu ete’’ti padacchedo. <bold>Purakkhakā</bold>ti ettha sāmiatthe paccattavacanaṃ, bhedapurekkhakassa, bhedapurekkhakāyāti attho.</paragraph>

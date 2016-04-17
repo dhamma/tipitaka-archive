@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/abh09t.nrf8.xml</normativeSource>
-    <archivePath>roman/tika/abhidhammapitaka (tika)/abhidhammamatikapali/2. vibhangamatika_.xml</archivePath>
-    <baseFileName>2. vibhangamatika_</baseFileName>
-    <titlePath>2. Vibhaṅgamātikā - Abhidhammamātikāpāḷi - Abhidhammapiṭaka (ṭīkā) - Tīkā</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/abh09t.nrf8.xml</normativeSource>
+    <source>roman/tika/abhidhammapitaka (tika)/abhidhammamatikapali/2. vibhangamatika_.xml</source>
+    <script>roman</script>
+    <directory>/tika/abhidhammapitaka (tika)/abhidhammamatikapali</directory>
+    <basename>2. vibhangamatika_</basename>
+    <titlePath>2. Vibhaṅgamātikā - Abhidhammamātikāpāḷi - Abhidhammapiṭaka (ṭīkā) - Tīkā</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">2. Vibhaṅgamātikā</chapter>
     <paragraph line="2">Idāni <pageBreak edition="Myanmar" number="0.0164" /><pageBreak edition="Vipassana Research Institut" number="0.0125" /> dhammasaṅgaṇīmātikānantaraṃ vibhaṅgamātikāya atthavaṇṇanā anuppattā. Tassā pana –</paragraph>
     <gatha1 line="3">Atthato dhammabhedena, vibhaṅganayadassanā;</gatha1>

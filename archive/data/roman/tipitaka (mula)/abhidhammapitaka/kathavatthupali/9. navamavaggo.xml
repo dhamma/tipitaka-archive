@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/abh03m3.mul16.xml</normativeSource>
-    <archivePath>roman/tipitaka (mula)/abhidhammapitaka/kathavatthupali/9. navamavaggo.xml</archivePath>
-    <baseFileName>9. navamavaggo</baseFileName>
-    <titlePath>9. Navamavaggo - Kathāvatthupāḷi - Abhidhammapiṭaka - Tipiṭaka (Mūla)</titlePath>
     <versions>
       <version source="vipassana research institut" source-abbr="vri"/>
       <version source="pali text society" source-abbr="pī."/>
@@ -12,8 +8,14 @@
       <version source="thai" source-abbr="syā."/>
       <version source="cambodian" source-abbr="ka."/>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/abh03m3.mul16.xml</normativeSource>
+    <source>roman/tipitaka (mula)/abhidhammapitaka/kathavatthupali/9. navamavaggo.xml</source>
+    <script>roman</script>
+    <directory>/tipitaka (mula)/abhidhammapitaka/kathavatthupali</directory>
+    <basename>9. navamavaggo</basename>
+    <titlePath>9. Navamavaggo - Kathāvatthupāḷi - Abhidhammapiṭaka - Tipiṭaka (Mūla)</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">9. Navamavaggo</chapter>
     <subhead line="2">(84) 1. Ānisaṃsadassāvīkathā</subhead>
     <paragraph line="3" number="547"> Ānisaṃsadassāvissa <pageBreak edition="Thai" number="0.0429" /><pageBreak edition="Pali Text Society" number="0.0400" /> saṃyojanānaṃ pahānanti? Āmantā. Nanu saṅkhāre aniccato manasikaroto saṃyojanā pahīyantīti? Āmantā. Hañci <pageBreak edition="Myanmar" number="0.0295" /> saṅkhāre aniccato manasikaroto saṃyojanā pahīyanti, no ca vata re vattabbe – ‘‘ānisaṃsadassāvissa saṃyojanānaṃ pahāna’’nti.</paragraph>

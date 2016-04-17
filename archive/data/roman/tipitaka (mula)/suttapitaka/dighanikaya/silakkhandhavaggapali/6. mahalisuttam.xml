@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/s0101m.mul5.xml</normativeSource>
-    <archivePath>roman/tipitaka (mula)/suttapitaka/dighanikaya/silakkhandhavaggapali/6. mahalisuttam.xml</archivePath>
-    <baseFileName>6. mahalisuttam</baseFileName>
-    <titlePath>6. Mahālisuttaṃ - Sīlakkhandhavaggapāḷi - Dīghanikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
     <versions>
       <version source="vipassana research institut" source-abbr="vri"/>
       <version source="cambodian" source-abbr="ka."/>
@@ -12,8 +8,14 @@
       <version source="thai" source-abbr="syā."/>
       <version source="kaṃ." source-abbr="kaṃ."/>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/s0101m.mul5.xml</normativeSource>
+    <source>roman/tipitaka (mula)/suttapitaka/dighanikaya/silakkhandhavaggapali/6. mahalisuttam.xml</source>
+    <script>roman</script>
+    <directory>/tipitaka (mula)/suttapitaka/dighanikaya/silakkhandhavaggapali</directory>
+    <basename>6. mahalisuttam</basename>
+    <titlePath>6. Mahālisuttaṃ - Sīlakkhandhavaggapāḷi - Dīghanikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">6. Mahālisuttaṃ</chapter>
     <subhead line="2">Brāhmaṇadūtavatthu</subhead>
     <paragraph line="3" number="359"> Evaṃ <pageBreak edition="Myanmar" number="1.0143" /><pageBreak edition="Vipassana Research Institut" number="1.0134" /><pageBreak edition="Pali Text Society" number="1.0150" /><pageBreak edition="Thai" number="1.0192" /> me sutaṃ – uekaṃ samayaṃ bhagavā vesāliyaṃ viharati mahāvane kūṭāgārasālāyaṃ. Tena kho pana samayena sambahulā kosalakā ca brāhmaṇadūtā māgadhakā ca brāhmaṇadūtā vesāliyaṃ paṭivasanti kenacideva karaṇīyena. Assosuṃ kho te kosalakā ca brāhmaṇadūtā māgadhakā ca brāhmaṇadūtā – ‘‘samaṇo khalu, bho, gotamo sakyaputto sakyakulā pabbajito vesāliyaṃ viharati mahāvane kūṭāgārasālāyaṃ. Taṃ kho pana bhavantaṃ gotamaṃ evaṃ kalyāṇo kittisaddo abbhuggato – ‘itipi so bhagavā arahaṃ sammāsambuddho vijjācaraṇasampanno sugato lokavidū anuttaro purisadammasārathi satthā devamanussānaṃ buddho bhagavā’. So imaṃ lokaṃ sadevakaṃ samārakaṃ sabrahmakaṃ sassamaṇabrāhmaṇiṃ pajaṃ sadevamanussaṃ sayaṃ abhiññā sacchikatvā pavedeti. So dhammaṃ deseti ādikalyāṇaṃ majjhekalyāṇaṃ pariyosānakalyāṇaṃ sātthaṃ sabyañjanaṃ kevalaparipuṇṇaṃ parisuddhaṃ brahmacariyaṃ pakāseti. Sādhu kho pana tathārūpānaṃ arahataṃ dassanaṃ hotī’’ti.</paragraph>

@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/e0813n.nrf0.xml</normativeSource>
-    <archivePath>roman/anya/byakarana gantha-sangaho/balavatara ganthipadatthavinicchayasara/balavatara.xml</archivePath>
-    <baseFileName>balavatara</baseFileName>
-    <titlePath>Bālāvatāra - Bālāvatāra gaṇṭhipadatthavinicchayasāra - Byākaraṇa gantha-saṅgaho - Anya</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/e0813n.nrf0.xml</normativeSource>
+    <source>roman/anya/byakarana gantha-sangaho/balavatara ganthipadatthavinicchayasara/balavatara.xml</source>
+    <script>roman</script>
+    <directory>/anya/byakarana gantha-sangaho/balavatara ganthipadatthavinicchayasara</directory>
+    <basename>balavatara</basename>
+    <titlePath>Bālāvatāra - Bālāvatāra gaṇṭhipadatthavinicchayasāra - Byākaraṇa gantha-saṅgaho - Anya</titlePath>
   </metadata>
-  <content>
+<content>
     <centered line="1">Namo tassa bhagavato arahato sammāsambuddhassa.</centered>
     <book line="2">Bālāvatāra</book>
     <subhead line="3">Paṇāma</subhead>

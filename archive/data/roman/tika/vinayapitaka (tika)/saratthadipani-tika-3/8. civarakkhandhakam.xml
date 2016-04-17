@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/vin02t.tik16.xml</normativeSource>
-    <archivePath>roman/tika/vinayapitaka (tika)/saratthadipani-tika-3/8. civarakkhandhakam.xml</archivePath>
-    <baseFileName>8. civarakkhandhakam</baseFileName>
-    <titlePath>8. Cīvarakkhandhakaṃ - Sāratthadīpanī-ṭīkā-3 - Vinayapiṭaka (ṭīkā) - Tīkā</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/vin02t.tik16.xml</normativeSource>
+    <source>roman/tika/vinayapitaka (tika)/saratthadipani-tika-3/8. civarakkhandhakam.xml</source>
+    <script>roman</script>
+    <directory>/tika/vinayapitaka (tika)/saratthadipani-tika-3</directory>
+    <basename>8. civarakkhandhakam</basename>
+    <titlePath>8. Cīvarakkhandhakaṃ - Sāratthadīpanī-ṭīkā-3 - Vinayapiṭaka (ṭīkā) - Tīkā</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">8. Cīvarakkhandhakaṃ</chapter>
     <subhead line="2">Jīvakavatthukathāvaṇṇanā</subhead>
     <paragraph line="3" number="329-330"> Cīvarakkhandhake <pageBreak edition="Myanmar" number="3.0339" /><pageBreak edition="Vipassana Research Institut" number="3.0309" /><bold>kammavipāka</bold>nti kammajarogaṃ. <bold>Saṃyamassā</bold>ti ānisaṃsassa, upayogatthe cetaṃ sāmivacanaṃ.</paragraph>

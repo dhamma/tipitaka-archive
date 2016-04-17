@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/e0201n.nrf3.xml</normativeSource>
-    <archivePath>roman/anya/ledi sayado gantha-sangaho/niruttidipani/4. samasakanda.xml</archivePath>
-    <baseFileName>4. samasakanda</baseFileName>
-    <titlePath>4. Samāsakaṇḍa - Niruttidīpanī - Leḍī sayāḍo gantha-saṅgaho - Anya</titlePath>
     <versions>
       <version source="moggallānavuttiyaṃ" source-abbr="moggallānavuttiyaṃ"/>
       <version source="mugdhabodhavuttiyaṃ" source-abbr="mugdhabodhavuttiyaṃ"/>
@@ -17,8 +13,14 @@
       <version source="thokaṃ visadisaṃ" source-abbr="thokaṃ visadisaṃ"/>
       <version source="sri lanka" source-abbr="sī."/>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/e0201n.nrf3.xml</normativeSource>
+    <source>roman/anya/ledi sayado gantha-sangaho/niruttidipani/4. samasakanda.xml</source>
+    <script>roman</script>
+    <directory>/anya/ledi sayado gantha-sangaho/niruttidipani</directory>
+    <basename>4. samasakanda</basename>
+    <titlePath>4. Samāsakaṇḍa - Niruttidīpanī - Leḍī sayāḍo gantha-saṅgaho - Anya</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">4. Samāsakaṇḍa</chapter>
     <paragraph line="2">Atha <pageBreak edition="Myanmar" number="0.0214" /> yuttatthānaṃ syādyantapadānaṃ ekatthībhāvo vuccate. Ekatthībhāvoti ca idha samāso vuccati. So ca samāso chabbidho abyayībhāvo, tappuriso, kammadhārayo, digu, bahubbīhi, dvandoti.</paragraph>
     <subhead line="3">Abyayībhāvasamāsa</subhead>

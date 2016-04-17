@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/e0703n.nrf50.xml</normativeSource>
-    <archivePath>roman/anya/vamsa-gantha-sangaho/mahavamsa/ekapannasatima pariccheda.xml</archivePath>
-    <baseFileName>ekapannasatima pariccheda</baseFileName>
-    <titlePath>Ekapaññāsatima pariccheda - Mahāvaṃsa - Vaṃsa-gantha-saṅgaho - Anya</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/e0703n.nrf50.xml</normativeSource>
+    <source>roman/anya/vamsa-gantha-sangaho/mahavamsa/ekapannasatima pariccheda.xml</source>
+    <script>roman</script>
+    <directory>/anya/vamsa-gantha-sangaho/mahavamsa</directory>
+    <basename>ekapannasatima pariccheda</basename>
+    <titlePath>Ekapaññāsatima pariccheda - Mahāvaṃsa - Vaṃsa-gantha-saṅgaho - Anya</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">Ekapaññāsatima pariccheda</chapter>
     <subhead line="2">Pañcarājako nāma</subhead>
     <hangnum line="3" number="1"></hangnum>

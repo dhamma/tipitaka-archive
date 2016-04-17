@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/e0902n.nrf1.xml</normativeSource>
-    <archivePath>roman/anya/sangayana-puccha vissajjana/majjhimanikaya (pu-vi)/majjhimapannasapali.xml</archivePath>
-    <baseFileName>majjhimapannasapali</baseFileName>
-    <titlePath>Majjhimapaṇṇāsapāḷi - Majjhimanikāya (pu-vi) - Saṅgāyana-puccha vissajjanā - Anya</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/e0902n.nrf1.xml</normativeSource>
+    <source>roman/anya/sangayana-puccha vissajjana/majjhimanikaya (pu-vi)/majjhimapannasapali.xml</source>
+    <script>roman</script>
+    <directory>/anya/sangayana-puccha vissajjana/majjhimanikaya (pu-vi)</directory>
+    <basename>majjhimapannasapali</basename>
+    <titlePath>Majjhimapaṇṇāsapāḷi - Majjhimanikāya (pu-vi) - Saṅgāyana-puccha vissajjanā - Anya</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">Majjhimapaṇṇāsapāḷi</chapter>
     <subhead line="2">Kandarakasutta</subhead>
     <paragraph line="3"><bold>Pucchā –</bold> tenāvuso <pageBreak edition="Myanmar" number="1.0155" /> jānatā…pe… sammāsambuddhena kandarakasuttaṃ kattha kaṃ ārabbha kismiṃ vatthusmiṃ bhāsitaṃ.</paragraph>

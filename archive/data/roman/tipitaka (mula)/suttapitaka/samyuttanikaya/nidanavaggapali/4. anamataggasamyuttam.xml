@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/s0302m.mul3.xml</normativeSource>
-    <archivePath>roman/tipitaka (mula)/suttapitaka/samyuttanikaya/nidanavaggapali/4. anamataggasamyuttam.xml</archivePath>
-    <baseFileName>4. anamataggasamyuttam</baseFileName>
-    <titlePath>4. Anamataggasaṃyuttaṃ - Nidānavaggapāḷi - Saṃyuttanikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
     <versions>
       <version source="vipassana research institut" source-abbr="vri"/>
       <version source="pali text society" source-abbr="pī."/>
@@ -15,8 +11,14 @@
       <version source="kaṃ." source-abbr="kaṃ."/>
       <version source="katthaci" source-abbr="katthaci"/>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/s0302m.mul3.xml</normativeSource>
+    <source>roman/tipitaka (mula)/suttapitaka/samyuttanikaya/nidanavaggapali/4. anamataggasamyuttam.xml</source>
+    <script>roman</script>
+    <directory>/tipitaka (mula)/suttapitaka/samyuttanikaya/nidanavaggapali</directory>
+    <basename>4. anamataggasamyuttam</basename>
+    <titlePath>4. Anamataggasaṃyuttaṃ - Nidānavaggapāḷi - Saṃyuttanikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">4. Anamataggasaṃyuttaṃ</chapter>
     <title line="2">1. Paṭhamavaggo</title>
     <subhead line="3">1. Tiṇakaṭṭhasuttaṃ</subhead>

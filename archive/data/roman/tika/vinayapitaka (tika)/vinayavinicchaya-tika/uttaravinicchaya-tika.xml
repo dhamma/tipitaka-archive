@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/vin11t.nrf36.xml</normativeSource>
-    <archivePath>roman/tika/vinayapitaka (tika)/vinayavinicchaya-tika/uttaravinicchaya-tika.xml</archivePath>
-    <baseFileName>uttaravinicchaya-tika</baseFileName>
-    <titlePath>Uttaravinicchaya-ṭīkā - Vinayavinicchaya-ṭīkā - Vinayapiṭaka (ṭīkā) - Tīkā</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/vin11t.nrf36.xml</normativeSource>
+    <source>roman/tika/vinayapitaka (tika)/vinayavinicchaya-tika/uttaravinicchaya-tika.xml</source>
+    <script>roman</script>
+    <directory>/tika/vinayapitaka (tika)/vinayavinicchaya-tika</directory>
+    <basename>uttaravinicchaya-tika</basename>
+    <titlePath>Uttaravinicchaya-ṭīkā - Vinayavinicchaya-ṭīkā - Vinayapiṭaka (ṭīkā) - Tīkā</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">Uttaravinicchaya-ṭīkā</chapter>
     <subsubhead line="2">Ganthārambhakathāvaṇṇanā</subsubhead>
     <hangnum line="3">(Ka)</hangnum>

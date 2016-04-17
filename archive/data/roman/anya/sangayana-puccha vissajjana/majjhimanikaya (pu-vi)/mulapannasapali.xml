@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/e0902n.nrf0.xml</normativeSource>
-    <archivePath>roman/anya/sangayana-puccha vissajjana/majjhimanikaya (pu-vi)/mulapannasapali.xml</archivePath>
-    <baseFileName>mulapannasapali</baseFileName>
-    <titlePath>Mūlapaṇṇāsapāḷi - Majjhimanikāya (pu-vi) - Saṅgāyana-puccha vissajjanā - Anya</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/e0902n.nrf0.xml</normativeSource>
+    <source>roman/anya/sangayana-puccha vissajjana/majjhimanikaya (pu-vi)/mulapannasapali.xml</source>
+    <script>roman</script>
+    <directory>/anya/sangayana-puccha vissajjana/majjhimanikaya (pu-vi)</directory>
+    <basename>mulapannasapali</basename>
+    <titlePath>Mūlapaṇṇāsapāḷi - Majjhimanikāya (pu-vi) - Saṅgāyana-puccha vissajjanā - Anya</titlePath>
   </metadata>
-  <content>
+<content>
     <centered line="1"> Namo tassa bhagavato arahato sammāsambuddhassa</centered>
     <nikaya line="2">Suttantapiṭaka</nikaya>
     <book line="3">Majjhimanikāya</book>

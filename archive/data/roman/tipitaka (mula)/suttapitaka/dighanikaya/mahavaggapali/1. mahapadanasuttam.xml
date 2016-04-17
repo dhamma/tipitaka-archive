@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/s0102m.mul0.xml</normativeSource>
-    <archivePath>roman/tipitaka (mula)/suttapitaka/dighanikaya/mahavaggapali/1. mahapadanasuttam.xml</archivePath>
-    <baseFileName>1. mahapadanasuttam</baseFileName>
-    <titlePath>1. Mahāpadānasuttaṃ - Mahāvaggapāḷi - Dīghanikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
     <versions>
       <version source="vipassana research institut" source-abbr="vri"/>
       <version source="thai" source-abbr="syā."/>
@@ -18,8 +14,14 @@
       <version source="ssabbattha" source-abbr="ssabbattha"/>
       <version source="evamuparipi" source-abbr="evamuparipi"/>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/s0102m.mul0.xml</normativeSource>
+    <source>roman/tipitaka (mula)/suttapitaka/dighanikaya/mahavaggapali/1. mahapadanasuttam.xml</source>
+    <script>roman</script>
+    <directory>/tipitaka (mula)/suttapitaka/dighanikaya/mahavaggapali</directory>
+    <basename>1. mahapadanasuttam</basename>
+    <titlePath>1. Mahāpadānasuttaṃ - Mahāvaggapāḷi - Dīghanikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
   </metadata>
-  <content>
+<content>
     <centered line="1"> Namo tassa bhagavato arahato sammāsambuddhassa</centered>
     <nikaya line="2">Dīghanikāyo</nikaya>
     <book line="3">Mahāvaggapāḷi</book>

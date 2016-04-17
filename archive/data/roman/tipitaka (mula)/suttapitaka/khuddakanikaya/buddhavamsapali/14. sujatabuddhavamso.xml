@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/s0511m.mul13.xml</normativeSource>
-    <archivePath>roman/tipitaka (mula)/suttapitaka/khuddakanikaya/buddhavamsapali/14. sujatabuddhavamso.xml</archivePath>
-    <baseFileName>14. sujatabuddhavamso</baseFileName>
-    <titlePath>14. Sujātabuddhavaṃso - Buddhavaṃsapāḷi - Khuddakanikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
     <versions>
       <version source="vipassana research institut" source-abbr="vri"/>
       <version source="thai" source-abbr="syā."/>
@@ -12,8 +8,14 @@
       <version source="sri lanka" source-abbr="sī."/>
       <version source="cambodian" source-abbr="ka."/>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/s0511m.mul13.xml</normativeSource>
+    <source>roman/tipitaka (mula)/suttapitaka/khuddakanikaya/buddhavamsapali/14. sujatabuddhavamso.xml</source>
+    <script>roman</script>
+    <directory>/tipitaka (mula)/suttapitaka/khuddakanikaya/buddhavamsapali</directory>
+    <basename>14. sujatabuddhavamso</basename>
+    <titlePath>14. Sujātabuddhavaṃso - Buddhavaṃsapāḷi - Khuddakanikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">14. Sujātabuddhavaṃso</chapter>
     <hangnum line="2" number="1"></hangnum>
     <gatha1 line="3"> Tattheva <pageBreak edition="Pali Text Society" number="0.0039" /> maṇḍakappamhi, sujāto nāma nāyako;</gatha1>

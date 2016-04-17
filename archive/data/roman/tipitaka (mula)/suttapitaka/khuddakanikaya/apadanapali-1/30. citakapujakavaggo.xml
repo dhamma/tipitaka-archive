@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/s0510m1.mul29.xml</normativeSource>
-    <archivePath>roman/tipitaka (mula)/suttapitaka/khuddakanikaya/apadanapali-1/30. citakapujakavaggo.xml</archivePath>
-    <baseFileName>30. citakapujakavaggo</baseFileName>
-    <titlePath>30. Citakapūjakavaggo - Apadānapāḷi-1 - Khuddakanikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
     <versions>
       <version source="vipassana research institut" source-abbr="vri"/>
       <version source="cambodian" source-abbr="ka."/>
@@ -13,8 +9,14 @@
       <version source="sri lanka" source-abbr="sī."/>
       <version source="unknown" source-abbr="?"/>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/s0510m1.mul29.xml</normativeSource>
+    <source>roman/tipitaka (mula)/suttapitaka/khuddakanikaya/apadanapali-1/30. citakapujakavaggo.xml</source>
+    <script>roman</script>
+    <directory>/tipitaka (mula)/suttapitaka/khuddakanikaya/apadanapali-1</directory>
+    <basename>30. citakapujakavaggo</basename>
+    <titlePath>30. Citakapūjakavaggo - Apadānapāḷi-1 - Khuddakanikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">30. Citakapūjakavaggo</chapter>
     <subhead line="2">1. Citakapūjakattheraapadānaṃ</subhead>
     <hangnum line="3" number="1"></hangnum>

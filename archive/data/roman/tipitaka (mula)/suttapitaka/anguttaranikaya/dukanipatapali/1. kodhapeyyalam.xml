@@ -1,16 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/s0402m1.mul15.xml</normativeSource>
-    <archivePath>roman/tipitaka (mula)/suttapitaka/anguttaranikaya/dukanipatapali/1. kodhapeyyalam.xml</archivePath>
-    <baseFileName>1. kodhapeyyalam</baseFileName>
-    <titlePath>1. Kodhapeyyālaṃ - Dukanipātapāḷi - Aṅguttaranikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
     <versions>
       <version source="vipassana research institut" source-abbr="vri"/>
       <version source="cambodian" source-abbr="ka."/>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/s0402m1.mul15.xml</normativeSource>
+    <source>roman/tipitaka (mula)/suttapitaka/anguttaranikaya/dukanipatapali/1. kodhapeyyalam.xml</source>
+    <script>roman</script>
+    <directory>/tipitaka (mula)/suttapitaka/anguttaranikaya/dukanipatapali</directory>
+    <basename>1. kodhapeyyalam</basename>
+    <titlePath>1. Kodhapeyyālaṃ - Dukanipātapāḷi - Aṅguttaranikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">1. Kodhapeyyālaṃ</chapter>
     <paragraph line="2" number="181"> ‘‘Dveme <pageBreak edition="Vipassana Research Institut" number="1.0116" /><pageBreak edition="Myanmar" number="1.0095" />, bhikkhave, dhammā. Katame dve? Kodho ca upanāho ca…pe… makkho ca <alternatives line="3" extra="" separator="false"><alternative source-abbr="vri" source="vipassana research institut">paḷāso</alternative><alternative source-abbr="ka." source="cambodian">palāso</alternative></alternatives>  ca… issā ca macchariyañca… māyā ca sāṭheyyañca… ahirikañca anottappañca. Ime kho, bhikkhave, dve dhammā’’.</paragraph>
     <paragraph line="3" number="182"> ‘‘Dveme, bhikkhave, dhammā. Katame dve? Akkodho ca anupanāho ca… amakkho ca apaḷāso ca… anissā ca amacchariyañca… amāyā ca asāṭheyyañca… hirī ca ottappañca. Ime kho, bhikkhave, dve dhammā’’.</paragraph>

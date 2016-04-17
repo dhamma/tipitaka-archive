@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/e0105n.nrf25.xml</normativeSource>
-    <archivePath>roman/anya/visuddhimagga/visuddhimagga nidanakatha/takkaranappakaro.xml</archivePath>
-    <baseFileName>takkaranappakaro</baseFileName>
-    <titlePath>Takkaraṇappakāro - Visuddhimagga nidānakathā - Visuddhimagga - Anya</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/e0105n.nrf25.xml</normativeSource>
+    <source>roman/anya/visuddhimagga/visuddhimagga nidanakatha/takkaranappakaro.xml</source>
+    <script>roman</script>
+    <directory>/anya/visuddhimagga/visuddhimagga nidanakatha</directory>
+    <basename>takkaranappakaro</basename>
+    <titlePath>Takkaraṇappakāro - Visuddhimagga nidānakathā - Visuddhimagga - Anya</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">Takkaraṇappakāro</chapter>
     <paragraph line="2"><bold>Kena pakārena kato</bold>ti ettha anantarapañhe vuttappakāreneva kato. Tathā hi ācariyo saṃyuttanikāyato</paragraph>
     <gatha1 line="3">‘‘Sīle patiṭṭhāya naro sapañño, cittaṃ paññañca bhāvayaṃ;</gatha1>

@@ -1,18 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/vin02m4.mul11.xml</normativeSource>
-    <archivePath>roman/tipitaka (mula)/vinayapitaka/parivarapali/mahasangamo.xml</archivePath>
-    <baseFileName>mahasangamo</baseFileName>
-    <titlePath>Mahāsaṅgāmo - Parivārapāḷi - Vinayapiṭaka - Tipiṭaka (Mūla)</titlePath>
     <versions>
       <version source="vipassana research institut" source-abbr="vri"/>
       <version source="sri lanka" source-abbr="sī."/>
       <version source="cambodian" source-abbr="ka."/>
       <version source="thai" source-abbr="syā."/>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/vin02m4.mul11.xml</normativeSource>
+    <source>roman/tipitaka (mula)/vinayapitaka/parivarapali/mahasangamo.xml</source>
+    <script>roman</script>
+    <directory>/tipitaka (mula)/vinayapitaka/parivarapali</directory>
+    <basename>mahasangamo</basename>
+    <titlePath>Mahāsaṅgāmo - Parivārapāḷi - Vinayapiṭaka - Tipiṭaka (Mūla)</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">Mahāsaṅgāmo</chapter>
     <subhead line="2">1. Voharantena jānitabbādi</subhead>
     <paragraph line="3" number="368"> Saṅgāmāvacare <pageBreak edition="Thai" number="0.0409" /><pageBreak edition="Pali Text Society" number="5.0166" /><pageBreak edition="Myanmar" number="0.0290" /> bhikkhunā saṅghe voharantena vatthu jānitabbaṃ, vipatti jānitabbā, āpatti jānitabbā, nidānaṃ jānitabbaṃ, ākāro jānitabbo, pubbāparaṃ jānitabbaṃ, katākataṃ jānitabbaṃ, kammaṃ jānitabbaṃ, adhikaraṇaṃ jānitabbaṃ, samatho jānitabbo, na chandāgati gantabbā, na dosāgati gantabbā, na mohāgati gantabbā, na bhayāgati gantabbā, saññāpanīye ṭhāne saññāpetabbaṃ, nijjhāpanīye ṭhāne nijjhāpetabbaṃ, pekkhanīye ṭhāne pekkhitabbaṃ, pasādanīye ṭhāne pasādetabbaṃ, laddhapakkhomhīti parapakkho nāvajānitabbo, bahussutomhīti appassuto nāvajānitabbo, therataromhīti navakataro nāvajānitabbo, asampattaṃ na byāhātabbaṃ, sampattaṃ dhammato vinayato na parihāpetabbaṃ, yena dhammena yena vinayena yena satthusāsanena taṃ adhikaraṇaṃ vūpasammati, tathā taṃ adhikaraṇaṃ vūpasametabbaṃ.</paragraph>

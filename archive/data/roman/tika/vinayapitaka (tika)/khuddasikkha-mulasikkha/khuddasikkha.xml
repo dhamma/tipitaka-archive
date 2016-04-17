@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/vin13t.nrf0.xml</normativeSource>
-    <archivePath>roman/tika/vinayapitaka (tika)/khuddasikkha-mulasikkha/khuddasikkha.xml</archivePath>
-    <baseFileName>khuddasikkha</baseFileName>
-    <titlePath>Khuddasikkhā - Khuddasikkhā-mūlasikkhā - Vinayapiṭaka (ṭīkā) - Tīkā</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/vin13t.nrf0.xml</normativeSource>
+    <source>roman/tika/vinayapitaka (tika)/khuddasikkha-mulasikkha/khuddasikkha.xml</source>
+    <script>roman</script>
+    <directory>/tika/vinayapitaka (tika)/khuddasikkha-mulasikkha</directory>
+    <basename>khuddasikkha</basename>
+    <titlePath>Khuddasikkhā - Khuddasikkhā-mūlasikkhā - Vinayapiṭaka (ṭīkā) - Tīkā</titlePath>
   </metadata>
-  <content>
+<content>
     <centered line="1"> Namo tassa bhagavato arahato sammāsambuddhassa</centered>
     <book line="2">Khuddasikkhā-mūlasikkhā</book>
     <chapter line="3">Khuddasikkhā</chapter>

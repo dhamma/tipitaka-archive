@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/s0201m.mul4.xml</normativeSource>
-    <archivePath>roman/tipitaka (mula)/suttapitaka/majjhimanikaya/mulapannasapali/5. culayamakavaggo.xml</archivePath>
-    <baseFileName>5. culayamakavaggo</baseFileName>
-    <titlePath>5. Cūḷayamakavaggo - Mūlapaṇṇāsapāḷi - Majjhimanikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
     <versions>
       <version source="vipassana research institut" source-abbr="vri"/>
       <version source="cambodian" source-abbr="ka."/>
@@ -17,8 +13,14 @@
       <version source="ṭīkāyaṃ" source-abbr="ṭīkāyaṃ"/>
       <version source="pāṭhantaraṃ" source-abbr="pāṭhantaraṃ"/>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/s0201m.mul4.xml</normativeSource>
+    <source>roman/tipitaka (mula)/suttapitaka/majjhimanikaya/mulapannasapali/5. culayamakavaggo.xml</source>
+    <script>roman</script>
+    <directory>/tipitaka (mula)/suttapitaka/majjhimanikaya/mulapannasapali</directory>
+    <basename>5. culayamakavaggo</basename>
+    <titlePath>5. Cūḷayamakavaggo - Mūlapaṇṇāsapāḷi - Majjhimanikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">5. Cūḷayamakavaggo</chapter>
     <subhead line="2">1. Sāleyyakasuttaṃ</subhead>
     <paragraph line="3" number="439"> Evaṃ <pageBreak edition="Thai" number="1.0519" /><pageBreak edition="Myanmar" number="1.0354" /><pageBreak edition="Vipassana Research Institut" number="1.0358" /><pageBreak edition="Pali Text Society" number="1.0285" /> me sutaṃ – ekaṃ samayaṃ bhagavā kosalesu cārikaṃ caramāno mahatā bhikkhusaṅghena saddhiṃ yena sālā nāma kosalānaṃ brāhmaṇagāmo tadavasari. Assosuṃ kho sāleyyakā brāhmaṇagahapatikā – ‘‘samaṇo khalu, bho, gotamo sakyaputto sakyakulā pabbajito kosalesu cārikaṃ caramāno mahatā bhikkhusaṅghena saddhiṃ sālaṃ anuppatto. Taṃ kho pana bhavantaṃ gotamaṃ evaṃ kalyāṇo kittisaddo abbhuggato – ‘itipi so bhagavā arahaṃ sammāsambuddho vijjācaraṇasampanno sugato lokavidū anuttaro purisadammasārathi satthā devamanussānaṃ buddho bhagavā. So imaṃ lokaṃ sadevakaṃ samārakaṃ sabrahmakaṃ sassamaṇabrāhmaṇiṃ pajaṃ sadevamanussaṃ sayaṃ abhiññā sacchikatvā pavedeti. So dhammaṃ deseti ādikalyāṇaṃ majjhekalyāṇaṃ pariyosānakalyāṇaṃ sātthaṃ sabyañjanaṃ; kevalaparipuṇṇaṃ parisuddhaṃ brahmacariyaṃ pakāseti’. Sādhu kho pana tathārūpānaṃ arahataṃ dassanaṃ hotī’’ti.</paragraph>

@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/s0101t.tik12.xml</normativeSource>
-    <archivePath>roman/tika/suttapitaka (tika)/dighanikaya (tika)/silakkhandhavagga-tika/12. lohiccasuttavannana.xml</archivePath>
-    <baseFileName>12. lohiccasuttavannana</baseFileName>
-    <titlePath>12. Lohiccasuttavaṇṇanā - Sīlakkhandhavagga-ṭīkā - Dīghanikāya (ṭīkā) - Suttapiṭaka (ṭīkā) - Tīkā</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/s0101t.tik12.xml</normativeSource>
+    <source>roman/tika/suttapitaka (tika)/dighanikaya (tika)/silakkhandhavagga-tika/12. lohiccasuttavannana.xml</source>
+    <script>roman</script>
+    <directory>/tika/suttapitaka (tika)/dighanikaya (tika)/silakkhandhavagga-tika</directory>
+    <basename>12. lohiccasuttavannana</basename>
+    <titlePath>12. Lohiccasuttavaṇṇanā - Sīlakkhandhavagga-ṭīkā - Dīghanikāya (ṭīkā) - Suttapiṭaka (ṭīkā) - Tīkā</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">12. Lohiccasuttavaṇṇanā</chapter>
     <subhead line="2">Lohiccabrāhmaṇavatthuvaṇṇanā</subhead>
     <paragraph line="3" number="501"><bold>Sālavatikāti</bold><pageBreak edition="Vipassana Research Institut" number="1.0350" /><pageBreak edition="Myanmar" number="1.0395" /><pageBreak edition="Pali Text Society" number="1.0514" /> itthiliṅgavasena <bold>tassa gāmassa nāmaṃ.</bold> Gāmaṇikābhāvenāti keci. Lohito nāma tassa kule pubbapuriso, tassa vasena <bold>lohiccoti tassa brāhmaṇassa</bold> gottato āgataṃ <bold>nāmaṃ.</bold></paragraph>

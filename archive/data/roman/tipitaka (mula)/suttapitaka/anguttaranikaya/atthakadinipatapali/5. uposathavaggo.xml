@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/s0404m1.mul4.xml</normativeSource>
-    <archivePath>roman/tipitaka (mula)/suttapitaka/anguttaranikaya/atthakadinipatapali/5. uposathavaggo.xml</archivePath>
-    <baseFileName>5. uposathavaggo</baseFileName>
-    <titlePath>5. Uposathavaggo - Aṭṭhakādinipātapāḷi - Aṅguttaranikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
     <versions>
       <version source="vipassana research institut" source-abbr="vri"/>
       <version source="sri lanka" source-abbr="sī."/>
@@ -16,8 +12,14 @@
       <version source="sabbattha" source-abbr="sabbattha"/>
       <version source="saddanītidhātumālā" source-abbr="saddanītidhātumālā"/>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/s0404m1.mul4.xml</normativeSource>
+    <source>roman/tipitaka (mula)/suttapitaka/anguttaranikaya/atthakadinipatapali/5. uposathavaggo.xml</source>
+    <script>roman</script>
+    <directory>/tipitaka (mula)/suttapitaka/anguttaranikaya/atthakadinipatapali</directory>
+    <basename>5. uposathavaggo</basename>
+    <titlePath>5. Uposathavaggo - Aṭṭhakādinipātapāḷi - Aṅguttaranikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">5. Uposathavaggo</chapter>
     <subhead line="2">1. Saṅkhittūposathasuttaṃ</subhead>
     <paragraph line="3" number="41"> Evaṃ <pageBreak edition="Myanmar" number="3.0079" /><pageBreak edition="Vipassana Research Institut" number="3.0080" /> me sutaṃ – ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. Tatra kho bhagavā bhikkhū āmantesi – ‘‘bhikkhavo’’ti. ‘‘Bhadante’’ti te bhikkhū bhagavato paccassosuṃ. Bhagavā etadavoca –</paragraph>

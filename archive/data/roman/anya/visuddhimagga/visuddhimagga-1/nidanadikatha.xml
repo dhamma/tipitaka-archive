@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/e0101n.mul0.xml</normativeSource>
-    <archivePath>roman/anya/visuddhimagga/visuddhimagga-1/nidanadikatha.xml</archivePath>
-    <baseFileName>nidanadikatha</baseFileName>
-    <titlePath>Nidānādikathā - Visuddhimagga-1 - Visuddhimagga - Anya</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/e0101n.mul0.xml</normativeSource>
+    <source>roman/anya/visuddhimagga/visuddhimagga-1/nidanadikatha.xml</source>
+    <script>roman</script>
+    <directory>/anya/visuddhimagga/visuddhimagga-1</directory>
+    <basename>nidanadikatha</basename>
+    <titlePath>Nidānādikathā - Visuddhimagga-1 - Visuddhimagga - Anya</titlePath>
   </metadata>
-  <content>
+<content>
     <centered line="1"> Namo tassa bhagavato arahato sammāsambuddhassa</centered>
     <book line="2">Visuddhimaggo</book>
     <subhead line="3">(Paṭhamo bhāgo)</subhead>

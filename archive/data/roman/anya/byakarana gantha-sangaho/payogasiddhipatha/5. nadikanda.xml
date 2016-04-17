@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/e0807n.nrf4.xml</normativeSource>
-    <archivePath>roman/anya/byakarana gantha-sangaho/payogasiddhipatha/5. nadikanda.xml</archivePath>
-    <baseFileName>5. nadikanda</baseFileName>
-    <titlePath>5. Ṇādikaṇḍa - Payogasiddhipāṭha - Byākaraṇa gantha-saṅgaho - Anya</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/e0807n.nrf4.xml</normativeSource>
+    <source>roman/anya/byakarana gantha-sangaho/payogasiddhipatha/5. nadikanda.xml</source>
+    <script>roman</script>
+    <directory>/anya/byakarana gantha-sangaho/payogasiddhipatha</directory>
+    <basename>5. nadikanda</basename>
+    <titlePath>5. Ṇādikaṇḍa - Payogasiddhipāṭha - Byākaraṇa gantha-saṅgaho - Anya</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">5. Ṇādikaṇḍa</chapter>
     <gatha1 line="2">Samāso <pageBreak edition="Myanmar" number="0.0173" /> padasaṃkhepo, padapaccayasaṃhitaṃ;</gatha1>
     <gathalast line="3">Taddhitaṃ nāma hotīti, viññeyyaṃ tesa+mantaraṃ.</gathalast>

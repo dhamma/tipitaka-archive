@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/e0605n.nrf15.xml</normativeSource>
-    <archivePath>roman/anya/buddha-vandana gantha-sangaho/jinalankara/abyapetadyantayamakagatha.xml</archivePath>
-    <baseFileName>abyapetadyantayamakagatha</baseFileName>
-    <titlePath>Abyāpetādyantayamakagāthā - Jinālaṅkāra - Buddha-vandanā gantha-saṅgaho - Anya</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/e0605n.nrf15.xml</normativeSource>
+    <source>roman/anya/buddha-vandana gantha-sangaho/jinalankara/abyapetadyantayamakagatha.xml</source>
+    <script>roman</script>
+    <directory>/anya/buddha-vandana gantha-sangaho/jinalankara</directory>
+    <basename>abyapetadyantayamakagatha</basename>
+    <titlePath>Abyāpetādyantayamakagāthā - Jinālaṅkāra - Buddha-vandanā gantha-saṅgaho - Anya</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">Abyāpetādyantayamakagāthā</chapter>
     <hangnum line="2" number="98"></hangnum>
     <gatha1 line="3"> Raveraverorabhimārabherave,</gatha1>

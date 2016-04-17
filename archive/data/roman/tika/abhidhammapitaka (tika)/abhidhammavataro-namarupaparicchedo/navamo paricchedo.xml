@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/abh06t.nrf50.xml</normativeSource>
-    <archivePath>roman/tika/abhidhammapitaka (tika)/abhidhammavataro-namarupaparicchedo/navamo paricchedo.xml</archivePath>
-    <baseFileName>navamo paricchedo</baseFileName>
-    <titlePath>Navamo paricchedo - Abhidhammāvatāro-nāmarūpaparicchedo - Abhidhammapiṭaka (ṭīkā) - Tīkā</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/abh06t.nrf50.xml</normativeSource>
+    <source>roman/tika/abhidhammapitaka (tika)/abhidhammavataro-namarupaparicchedo/navamo paricchedo.xml</source>
+    <script>roman</script>
+    <directory>/tika/abhidhammapitaka (tika)/abhidhammavataro-namarupaparicchedo</directory>
+    <basename>navamo paricchedo</basename>
+    <titlePath>Navamo paricchedo - Abhidhammāvatāro-nāmarūpaparicchedo - Abhidhammapiṭaka (ṭīkā) - Tīkā</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">Navamo paricchedo</chapter>
     <subhead line="2">9. Cetasikasaṅgahakathā</subhead>
     <hangnum line="3" number="315"></hangnum>

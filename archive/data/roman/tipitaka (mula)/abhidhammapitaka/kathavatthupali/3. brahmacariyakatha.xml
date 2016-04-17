@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/abh03m3.mul2.xml</normativeSource>
-    <archivePath>roman/tipitaka (mula)/abhidhammapitaka/kathavatthupali/3. brahmacariyakatha.xml</archivePath>
-    <baseFileName>3. brahmacariyakatha</baseFileName>
-    <titlePath>3. Brahmacariyakathā - Kathāvatthupāḷi - Abhidhammapiṭaka - Tipiṭaka (Mūla)</titlePath>
     <versions>
       <version source="vipassana research institut" source-abbr="vri"/>
       <version source="thai" source-abbr="syā."/>
@@ -13,8 +9,14 @@
       <version source="unknown" source-abbr="?"/>
       <version source="sri lanka" source-abbr="sī."/>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/abh03m3.mul2.xml</normativeSource>
+    <source>roman/tipitaka (mula)/abhidhammapitaka/kathavatthupali/3. brahmacariyakatha.xml</source>
+    <script>roman</script>
+    <directory>/tipitaka (mula)/abhidhammapitaka/kathavatthupali</directory>
+    <basename>3. brahmacariyakatha</basename>
+    <titlePath>3. Brahmacariyakathā - Kathāvatthupāḷi - Abhidhammapiṭaka - Tipiṭaka (Mūla)</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">3. Brahmacariyakathā</chapter>
     <subhead line="2">1. Suddhabrahmacariyakathā</subhead>
     <paragraph line="3" number="269"> Natthi <pageBreak edition="Myanmar" number="0.0080" /><pageBreak edition="Vipassana Research Institut" number="0.0089" /> devesu brahmacariyavāsoti? Āmantā. Sabbe <pageBreak edition="Pali Text Society" number="0.0094" /> devā jaḷā <alternatives line="3" extra="" separator="false"><alternative source-abbr="vri" source="vipassana research institut">elamūgā</alternative><alternative source-abbr="syā." source="thai">eḷamūgā</alternative></alternatives>  aviññū hatthasaṃvācikā nappaṭibalā subhāsitadubbhāsitānaṃ atthamaññātuṃ, sabbe devā na buddhe pasannā na dhamme <pageBreak edition="Thai" number="0.0110" /> pasannā na saṅghe pasannā, na buddhaṃ bhagavantaṃ payirupāsanti, na buddhaṃ bhagavantaṃ pañhaṃ pucchanti, na buddhena bhagavatā pañhe vissajjite attamanā, sabbe devā kammāvaraṇena samannāgatā kilesāvaraṇena samannāgatā vipākāvaraṇena samannāgatā assaddhā acchandikā duppaññā abhabbā niyāmaṃ okkamituṃ kusalesu dhammesu sammattaṃ, sabbe devā mātughātakā pitughātakā arahantaghātakā ruhiruppādakā saṅghabhedakā, sabbe devā pāṇātipātino adinnādāyino kāmesumicchācārino musāvādino pisuṇavācā pharusāvācā samphappalāpino abhijjhāluno byāpannacittā micchādiṭṭhikāti? Na hevaṃ vattabbe…pe….</paragraph>

@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/s0203m.mul0.xml</normativeSource>
-    <archivePath>roman/tipitaka (mula)/suttapitaka/majjhimanikaya/uparipannasapali/1. devadahavaggo.xml</archivePath>
-    <baseFileName>1. devadahavaggo</baseFileName>
-    <titlePath>1. Devadahavaggo - Uparipaṇṇāsapāḷi - Majjhimanikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
     <versions>
       <version source="vipassana research institut" source-abbr="vri"/>
       <version source="cambodian" source-abbr="ka."/>
@@ -17,8 +13,14 @@
       <version source="aṭṭha." source-abbr="aṭṭha."/>
       <version source="saṃ. ni. 3.82" source-abbr="saṃ. ni. 3.82"/>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/s0203m.mul0.xml</normativeSource>
+    <source>roman/tipitaka (mula)/suttapitaka/majjhimanikaya/uparipannasapali/1. devadahavaggo.xml</source>
+    <script>roman</script>
+    <directory>/tipitaka (mula)/suttapitaka/majjhimanikaya/uparipannasapali</directory>
+    <basename>1. devadahavaggo</basename>
+    <titlePath>1. Devadahavaggo - Uparipaṇṇāsapāḷi - Majjhimanikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
   </metadata>
-  <content>
+<content>
     <centered line="1"> Namo tassa bhagavato arahato sammāsambuddhassa</centered>
     <nikaya line="2">Majjhimanikāye</nikaya>
     <book line="3">Uparipaṇṇāsapāḷi</book>

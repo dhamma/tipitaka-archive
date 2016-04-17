@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/e0603n.nrf0.xml</normativeSource>
-    <archivePath>roman/anya/buddha-vandana gantha-sangaho/lakkhanato buddhathomanagatha/buddhathomanagatha.xml</archivePath>
-    <baseFileName>buddhathomanagatha</baseFileName>
-    <titlePath>Buddhathomanāgāthā - Lakkhaṇāto buddhathomanāgāthā - Buddha-vandanā gantha-saṅgaho - Anya</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/e0603n.nrf0.xml</normativeSource>
+    <source>roman/anya/buddha-vandana gantha-sangaho/lakkhanato buddhathomanagatha/buddhathomanagatha.xml</source>
+    <script>roman</script>
+    <directory>/anya/buddha-vandana gantha-sangaho/lakkhanato buddhathomanagatha</directory>
+    <basename>buddhathomanagatha</basename>
+    <titlePath>Buddhathomanāgāthā - Lakkhaṇāto buddhathomanāgāthā - Buddha-vandanā gantha-saṅgaho - Anya</titlePath>
   </metadata>
-  <content>
+<content>
     <centered line="1"> Namo tassa bhagavato arahato sammāsambuddhassa</centered>
     <book line="2">Lakkhaṇāto</book>
     <chapter line="3">Buddhathomanāgāthā</chapter>

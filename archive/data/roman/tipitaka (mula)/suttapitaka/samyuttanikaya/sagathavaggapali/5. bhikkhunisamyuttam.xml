@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/s0301m.mul4.xml</normativeSource>
-    <archivePath>roman/tipitaka (mula)/suttapitaka/samyuttanikaya/sagathavaggapali/5. bhikkhunisamyuttam.xml</archivePath>
-    <baseFileName>5. bhikkhunisamyuttam</baseFileName>
-    <titlePath>5. Bhikkhunīsaṃyuttaṃ - Sagāthāvaggapāḷi - Saṃyuttanikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
     <versions>
       <version source="vipassana research institut" source-abbr="vri"/>
       <version source="sri lanka" source-abbr="sī."/>
@@ -14,8 +10,14 @@
       <version source="sabbattha" source-abbr="sabbattha"/>
       <version source="cambodian" source-abbr="ka."/>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/s0301m.mul4.xml</normativeSource>
+    <source>roman/tipitaka (mula)/suttapitaka/samyuttanikaya/sagathavaggapali/5. bhikkhunisamyuttam.xml</source>
+    <script>roman</script>
+    <directory>/tipitaka (mula)/suttapitaka/samyuttanikaya/sagathavaggapali</directory>
+    <basename>5. bhikkhunisamyuttam</basename>
+    <titlePath>5. Bhikkhunīsaṃyuttaṃ - Sagāthāvaggapāḷi - Saṃyuttanikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">5. Bhikkhunīsaṃyuttaṃ</chapter>
     <subhead line="2">1. Āḷavikāsuttaṃ</subhead>
     <paragraph line="3" number="162"> Evaṃ <pageBreak edition="Thai" number="1.0188" /><pageBreak edition="Vipassana Research Institut" number="1.0151" /><pageBreak edition="Pali Text Society" number="1.0128" /><pageBreak edition="Myanmar" number="1.0129" /> me sutaṃ – ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. Atha kho āḷavikā bhikkhunī pubbaṇhasamayaṃ nivāsetvā pattacīvaramādāya sāvatthiṃ piṇḍāya pāvisi. Sāvatthiyaṃ piṇḍāya caritvā pacchābhattaṃ piṇḍapātapaṭikkantā yena andhavanaṃ tenupasaṅkami vivekatthinī. Atha kho māro pāpimā āḷavikāya bhikkhuniyā bhayaṃ chambhitattaṃ lomahaṃsaṃ uppādetukāmo vivekamhā cāvetukāmo yena āḷavikā bhikkhunī tenupasaṅkami; upasaṅkamitvā āḷavikaṃ bhikkhuniṃ gāthāya ajjhabhāsi –</paragraph>

@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/vin02a2.att0.xml</normativeSource>
-    <archivePath>roman/atthakatha/vinayapitaka (atthakatha)/mahavagga-atthakatha/1. mahakhandhakam.xml</archivePath>
-    <baseFileName>1. mahakhandhakam</baseFileName>
-    <titlePath>1. Mahākhandhakaṃ - Mahāvagga-aṭṭhakathā - Vinayapiṭaka (aṭṭhakathā) - Aṭṭhakathā</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/vin02a2.att0.xml</normativeSource>
+    <source>roman/atthakatha/vinayapitaka (atthakatha)/mahavagga-atthakatha/1. mahakhandhakam.xml</source>
+    <script>roman</script>
+    <directory>/atthakatha/vinayapitaka (atthakatha)/mahavagga-atthakatha</directory>
+    <basename>1. mahakhandhakam</basename>
+    <titlePath>1. Mahākhandhakaṃ - Mahāvagga-aṭṭhakathā - Vinayapiṭaka (aṭṭhakathā) - Aṭṭhakathā</titlePath>
   </metadata>
-  <content>
+<content>
     <centered line="1"> Namo tassa bhagavato arahato sammāsambuddhassa</centered>
     <nikaya line="2">Vinayapiṭake</nikaya>
     <book line="3">Mahāvagga-aṭṭhakathā</book>

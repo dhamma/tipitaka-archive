@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/e0605n.nrf1.xml</normativeSource>
-    <archivePath>roman/anya/buddha-vandana gantha-sangaho/jinalankara/yogavacarasampattidipanigatha.xml</archivePath>
-    <baseFileName>yogavacarasampattidipanigatha</baseFileName>
-    <titlePath>Yogāvacarasampattidīpanīgāthā - Jinālaṅkāra - Buddha-vandanā gantha-saṅgaho - Anya</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/e0605n.nrf1.xml</normativeSource>
+    <source>roman/anya/buddha-vandana gantha-sangaho/jinalankara/yogavacarasampattidipanigatha.xml</source>
+    <script>roman</script>
+    <directory>/anya/buddha-vandana gantha-sangaho/jinalankara</directory>
+    <basename>yogavacarasampattidipanigatha</basename>
+    <titlePath>Yogāvacarasampattidīpanīgāthā - Jinālaṅkāra - Buddha-vandanā gantha-saṅgaho - Anya</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">Yogāvacarasampattidīpanīgāthā</chapter>
     <hangnum line="2" number="3"></hangnum>
     <gatha1 line="3"> Jāto yo navame khaṇe sutadharo sīlena suddhindriyo saṃsāraṃ ayato bhavakkayakaraṃ disvā sivaṃ khemato,</gatha1>

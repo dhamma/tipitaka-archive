@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/e1001n.nrf12.xml</normativeSource>
-    <archivePath>roman/anya/niti-gantha-sangaho/kavidappananiti/kavidappananiti.xml</archivePath>
-    <baseFileName>kavidappananiti</baseFileName>
-    <titlePath>Kavidappaṇanīti - Kavidappaṇanīti - Nīti-gantha-saṅgaho - Anya</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/e1001n.nrf12.xml</normativeSource>
+    <source>roman/anya/niti-gantha-sangaho/kavidappananiti/kavidappananiti.xml</source>
+    <script>roman</script>
+    <directory>/anya/niti-gantha-sangaho/kavidappananiti</directory>
+    <basename>kavidappananiti</basename>
+    <titlePath>Kavidappaṇanīti - Kavidappaṇanīti - Nīti-gantha-saṅgaho - Anya</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">Kavidappaṇanīti</chapter>
     <hangnum line="2" number="1"></hangnum>
     <gatha1 line="3"> Pakhukkūpuraseṭṭhassa <pageBreak edition="Myanmar" number="0.0204" />, pacchime āsi vissuto;</gatha1>

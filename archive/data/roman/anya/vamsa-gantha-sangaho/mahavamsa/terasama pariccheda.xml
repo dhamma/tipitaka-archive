@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/e0703n.nrf12.xml</normativeSource>
-    <archivePath>roman/anya/vamsa-gantha-sangaho/mahavamsa/terasama pariccheda.xml</archivePath>
-    <baseFileName>terasama pariccheda</baseFileName>
-    <titlePath>Terasama pariccheda - Mahāvaṃsa - Vaṃsa-gantha-saṅgaho - Anya</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/e0703n.nrf12.xml</normativeSource>
+    <source>roman/anya/vamsa-gantha-sangaho/mahavamsa/terasama pariccheda.xml</source>
+    <script>roman</script>
+    <directory>/anya/vamsa-gantha-sangaho/mahavamsa</directory>
+    <basename>terasama pariccheda</basename>
+    <titlePath>Terasama pariccheda - Mahāvaṃsa - Vaṃsa-gantha-saṅgaho - Anya</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">Terasama pariccheda</chapter>
     <subhead line="2">Mahindāgamano</subhead>
     <hangnum line="3" number="1"></hangnum>

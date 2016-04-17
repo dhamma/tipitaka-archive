@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/vin02m1.mul0.xml</normativeSource>
-    <archivePath>roman/tipitaka (mula)/vinayapitaka/pacittiyapali/5. pacittiyakandam.xml</archivePath>
-    <baseFileName>5. pacittiyakandam</baseFileName>
-    <titlePath>5. Pācittiyakaṇḍaṃ - Pācittiyapāḷi - Vinayapiṭaka - Tipiṭaka (Mūla)</titlePath>
     <versions>
       <version source="vipassana research institut" source-abbr="vri"/>
       <version source="thai" source-abbr="syā."/>
@@ -17,8 +13,14 @@
       <version source="ṇvādimoggallāne" source-abbr="ṇvādimoggallāne"/>
       <version source="yojanā" source-abbr="yojanā"/>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/vin02m1.mul0.xml</normativeSource>
+    <source>roman/tipitaka (mula)/vinayapitaka/pacittiyapali/5. pacittiyakandam.xml</source>
+    <script>roman</script>
+    <directory>/tipitaka (mula)/vinayapitaka/pacittiyapali</directory>
+    <basename>5. pacittiyakandam</basename>
+    <titlePath>5. Pācittiyakaṇḍaṃ - Pācittiyapāḷi - Vinayapiṭaka - Tipiṭaka (Mūla)</titlePath>
   </metadata>
-  <content>
+<content>
     <centered line="1"> Namo tassa bhagavato arahato sammāsambuddhassa</centered>
     <nikaya line="2">Vinayapiṭake</nikaya>
     <book line="3">Pācittiyapāḷi</book>

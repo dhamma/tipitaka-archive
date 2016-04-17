@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/s0513m.mul11.xml</normativeSource>
-    <archivePath>roman/tipitaka (mula)/suttapitaka/khuddakanikaya/jatakapali-1/12. dvadasakanipato.xml</archivePath>
-    <baseFileName>12. dvadasakanipato</baseFileName>
-    <titlePath>12. Dvādasakanipāto - Jātakapāḷi-1 - Khuddakanikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
     <versions>
       <version source="sri lanka" source-abbr="sī."/>
       <version source="thai" source-abbr="syā."/>
@@ -16,8 +12,14 @@
       <version source="niyya" source-abbr="niyya"/>
       <version source="aṭṭha. saṃvaṇṇanā" source-abbr="aṭṭha. saṃvaṇṇanā"/>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/s0513m.mul11.xml</normativeSource>
+    <source>roman/tipitaka (mula)/suttapitaka/khuddakanikaya/jatakapali-1/12. dvadasakanipato.xml</source>
+    <script>roman</script>
+    <directory>/tipitaka (mula)/suttapitaka/khuddakanikaya/jatakapali-1</directory>
+    <basename>12. dvadasakanipato</basename>
+    <titlePath>12. Dvādasakanipāto - Jātakapāḷi-1 - Khuddakanikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">12. Dvādasakanipāto</chapter>
     <hangnum line="2"></hangnum>
     <paragraph line="3"> 464. Cūḷakuṇālajātakaṃ (1)</paragraph>

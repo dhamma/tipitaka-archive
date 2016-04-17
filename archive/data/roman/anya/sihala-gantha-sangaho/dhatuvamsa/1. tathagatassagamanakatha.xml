@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/e1205n.nrf0.xml</normativeSource>
-    <archivePath>roman/anya/sihala-gantha-sangaho/dhatuvamsa/1. tathagatassagamanakatha.xml</archivePath>
-    <baseFileName>1. tathagatassagamanakatha</baseFileName>
-    <titlePath>1. Tathāgatassāgamanakathā - Dhātuvaṃsa - Sihaḷa-gantha-saṅgaho - Anya</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/e1205n.nrf0.xml</normativeSource>
+    <source>roman/anya/sihala-gantha-sangaho/dhatuvamsa/1. tathagatassagamanakatha.xml</source>
+    <script>roman</script>
+    <directory>/anya/sihala-gantha-sangaho/dhatuvamsa</directory>
+    <basename>1. tathagatassagamanakatha</basename>
+    <titlePath>1. Tathāgatassāgamanakathā - Dhātuvaṃsa - Sihaḷa-gantha-saṅgaho - Anya</titlePath>
   </metadata>
-  <content>
+<content>
     <book line="1">Dhātuvaṃso <pageBreak edition="Vipassana Research Institut" number="0.0001" /></book>
     <centered line="2">Namo tassa bhagavato arahato sammāsambuddhassa</centered>
     <chapter line="3">1. Tathāgatassāgamanakathā</chapter>

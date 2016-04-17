@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/e0810n.nrf2.xml</normativeSource>
-    <archivePath>roman/anya/byakarana gantha-sangaho/abhidhanappadipikatika/2. bhukanda.xml</archivePath>
-    <baseFileName>2. bhukanda</baseFileName>
-    <titlePath>2. Bhūkaṇḍa - Abhidhānappadīpikāṭīkā - Byākaraṇa gantha-saṅgaho - Anya</titlePath>
     <versions>
       <version source="thomanidhi" source-abbr="thomanidhi"/>
       <version source="amara 1.2.1" source-abbr="amara 1.2.1"/>
@@ -48,8 +44,14 @@
       <version source="amarakosugghāṭanaṭīkā 15.15" source-abbr="amarakosugghāṭanaṭīkā 15.15"/>
       <version source="amara 15.16" source-abbr="amara 15.16"/>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/e0810n.nrf2.xml</normativeSource>
+    <source>roman/anya/byakarana gantha-sangaho/abhidhanappadipikatika/2. bhukanda.xml</source>
+    <script>roman</script>
+    <directory>/anya/byakarana gantha-sangaho/abhidhanappadipikatika</directory>
+    <basename>2. bhukanda</basename>
+    <titlePath>2. Bhūkaṇḍa - Abhidhānappadīpikāṭīkā - Byākaraṇa gantha-saṅgaho - Anya</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">2 Bhūkaṇḍa</chapter>
     <title line="2">1 Bhūmivaggavaṇṇanā</title>
     <paragraph line="3" number="180"><bold>Idha</bold><pageBreak edition="Myanmar" number="0.0137" /> bhūkaṇḍe <bold>sāṅgopāṅgehi</bold> bhūmyādīhi dasahi, pātālena cāti ekādasahi koṭṭhāsehi kamato <bold>vaggā</bold> bhūmivaggādināmakā vaggā vuccante. Sappadhānopakārakāni aṅgāni <bold>khārā</bold>dīni, aṅgānaṃ upakārakāni ca upaṅgāni <bold>addhā</bold>dīni.</paragraph>

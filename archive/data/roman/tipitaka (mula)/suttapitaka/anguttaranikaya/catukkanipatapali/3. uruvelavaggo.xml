@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/s0402m3.mul2.xml</normativeSource>
-    <archivePath>roman/tipitaka (mula)/suttapitaka/anguttaranikaya/catukkanipatapali/3. uruvelavaggo.xml</archivePath>
-    <baseFileName>3. uruvelavaggo</baseFileName>
-    <titlePath>3. Uruvelavaggo - Catukkanipātapāḷi - Aṅguttaranikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
     <versions>
       <version source="vipassana research institut" source-abbr="vri"/>
       <version source="sri lanka" source-abbr="sī."/>
@@ -18,8 +14,14 @@
       <version source="ma. ni. 3.8" source-abbr="ma. ni. 3.8"/>
       <version source="ma. ni. 3.142-143" source-abbr="ma. ni. 3.142-143"/>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/s0402m3.mul2.xml</normativeSource>
+    <source>roman/tipitaka (mula)/suttapitaka/anguttaranikaya/catukkanipatapali/3. uruvelavaggo.xml</source>
+    <script>roman</script>
+    <directory>/tipitaka (mula)/suttapitaka/anguttaranikaya/catukkanipatapali</directory>
+    <basename>3. uruvelavaggo</basename>
+    <titlePath>3. Uruvelavaggo - Catukkanipātapāḷi - Aṅguttaranikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">3. Uruvelavaggo</chapter>
     <subhead line="2">1. Paṭhamauruvelasuttaṃ</subhead>
     <paragraph line="3" number="21"> Evaṃ <pageBreak edition="Vipassana Research Institut" number="1.0024" /><pageBreak edition="Pali Text Society" number="2.0020" /> me sutaṃ <note>saṃ. ni. 1.173 āgataṃ</note> – ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. Tatra kho bhagavā bhikkhū āmantesi – ‘‘bhikkhavo’’ti. ‘‘Bhadante’’ti te bhikkhū bhagavato paccassosuṃ. Bhagavā etadavoca –</paragraph>

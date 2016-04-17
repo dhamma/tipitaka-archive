@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/s0402m3.mul20.xml</normativeSource>
-    <archivePath>roman/tipitaka (mula)/suttapitaka/anguttaranikaya/catukkanipatapali/(21) 1. sappurisavaggo.xml</archivePath>
-    <baseFileName>(21) 1. sappurisavaggo</baseFileName>
-    <titlePath>(21) 1. Sappurisavaggo - Catukkanipātapāḷi - Aṅguttaranikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
     <versions>
       <version source="vipassana research institut" source-abbr="vri"/>
       <version source="cambodian" source-abbr="ka."/>
@@ -13,8 +9,14 @@
       <version source="kaṃ." source-abbr="kaṃ."/>
       <version source="pali text society" source-abbr="pī."/>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/s0402m3.mul20.xml</normativeSource>
+    <source>roman/tipitaka (mula)/suttapitaka/anguttaranikaya/catukkanipatapali/(21) 1. sappurisavaggo.xml</source>
+    <script>roman</script>
+    <directory>/tipitaka (mula)/suttapitaka/anguttaranikaya/catukkanipatapali</directory>
+    <basename>(21) 1. sappurisavaggo</basename>
+    <titlePath>(21) 1. Sappurisavaggo - Catukkanipātapāḷi - Aṅguttaranikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">(21) 1. Sappurisavaggo</chapter>
     <subhead line="2">1. Sikkhāpadasuttaṃ</subhead>
     <paragraph line="3" number="201"> ‘‘Asappurisañca <pageBreak edition="Thai" number="2.0296" /><pageBreak edition="Vipassana Research Institut" number="1.0247" /><pageBreak edition="Myanmar" number="1.0539" /><pageBreak edition="Pali Text Society" number="2.0217" /> vo, bhikkhave, desessāmi, asappurisena asappurisatarañca; sappurisañca, sappurisena sappurisatarañca. Taṃ suṇātha, sādhukaṃ manasi karotha; bhāsissāmī’’ti. ‘‘Evaṃ, bhante’’ti kho te bhikkhū bhagavato paccassosuṃ. Bhagavā etadavoca –</paragraph>

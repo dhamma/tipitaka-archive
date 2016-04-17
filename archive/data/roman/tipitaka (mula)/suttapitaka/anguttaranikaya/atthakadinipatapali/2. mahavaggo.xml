@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/s0404m1.mul1.xml</normativeSource>
-    <archivePath>roman/tipitaka (mula)/suttapitaka/anguttaranikaya/atthakadinipatapali/2. mahavaggo.xml</archivePath>
-    <baseFileName>2. mahavaggo</baseFileName>
-    <titlePath>2. Mahāvaggo - Aṭṭhakādinipātapāḷi - Aṅguttaranikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
     <versions>
       <version source="vipassana research institut" source-abbr="vri"/>
       <version source="sri lanka" source-abbr="sī."/>
@@ -20,8 +16,14 @@
       <version source="cūḷava." source-abbr="cūḷava."/>
       <version source="384" source-abbr="384"/>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/s0404m1.mul1.xml</normativeSource>
+    <source>roman/tipitaka (mula)/suttapitaka/anguttaranikaya/atthakadinipatapali/2. mahavaggo.xml</source>
+    <script>roman</script>
+    <directory>/tipitaka (mula)/suttapitaka/anguttaranikaya/atthakadinipatapali</directory>
+    <basename>2. mahavaggo</basename>
+    <titlePath>2. Mahāvaggo - Aṭṭhakādinipātapāḷi - Aṅguttaranikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">2. Mahāvaggo</chapter>
     <subhead line="2">1. Verañjasuttaṃ</subhead>
     <paragraph line="3" number="11"><note>pārā. 1 ādayo</note> Evaṃ <pageBreak edition="Vipassana Research Institut" number="3.0020" /> me sutaṃ – ekaṃ samayaṃ bhagavā verañjāyaṃ viharati naḷerupucimandamūle. Atha kho verañjo brāhmaṇo <pageBreak edition="Pali Text Society" number="4.0173" /> yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavatā saddhiṃ sammodi. Sammodanīyaṃ kathaṃ <alternatives line="6" extra="" separator="false"><alternative source-abbr="vri" source="vipassana research institut">sāraṇīyaṃ</alternative><alternative source-abbr="sī." source="sri lanka">sārāṇīyaṃ</alternative><alternative source-abbr="syā." source="thai">sārāṇīyaṃ</alternative><alternative source-abbr="kaṃ." source="kaṃ.">sārāṇīyaṃ</alternative><alternative source-abbr="pī." source="pali text society">sārāṇīyaṃ</alternative></alternatives>  vītisāretvā <pageBreak edition="Myanmar" number="3.0019" /> ekamantaṃ nisīdi. Ekamantaṃ nisinno kho verañjo brāhmaṇo bhagavantaṃ etadavoca –</paragraph>

@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/e0805n.nrf1.xml</normativeSource>
-    <archivePath>roman/anya/byakarana gantha-sangaho/padarupasiddhi/2. namakanda.xml</archivePath>
-    <baseFileName>2. namakanda</baseFileName>
-    <titlePath>2. Nāmakaṇḍa - Padarūpasiddhi - Byākaraṇa gantha-saṅgaho - Anya</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/e0805n.nrf1.xml</normativeSource>
+    <source>roman/anya/byakarana gantha-sangaho/padarupasiddhi/2. namakanda.xml</source>
+    <script>roman</script>
+    <directory>/anya/byakarana gantha-sangaho/padarupasiddhi</directory>
+    <basename>2. namakanda</basename>
+    <titlePath>2. Nāmakaṇḍa - Padarūpasiddhi - Byākaraṇa gantha-saṅgaho - Anya</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">2. Nāmakaṇḍa</chapter>
     <paragraph line="2">Atha <pageBreak edition="Myanmar" number="0.0041" /> nāmikavibhatyāvatāro vuccate.</paragraph>
     <paragraph line="3">Atthābhimukhaṃ namanato, attani catthassa nāmanato <bold>nāmaṃ,</bold> dabbābhidhānaṃ.</paragraph>

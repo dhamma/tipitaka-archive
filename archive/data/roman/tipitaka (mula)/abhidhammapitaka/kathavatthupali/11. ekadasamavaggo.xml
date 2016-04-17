@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/abh03m3.mul18.xml</normativeSource>
-    <archivePath>roman/tipitaka (mula)/abhidhammapitaka/kathavatthupali/11. ekadasamavaggo.xml</archivePath>
-    <baseFileName>11. ekadasamavaggo</baseFileName>
-    <titlePath>11. Ekādasamavaggo - Kathāvatthupāḷi - Abhidhammapiṭaka - Tipiṭaka (Mūla)</titlePath>
     <versions>
       <version source="vipassana research institut" source-abbr="vri"/>
       <version source="thai" source-abbr="syā."/>
@@ -13,8 +9,14 @@
       <version source="cambodian" source-abbr="ka."/>
       <version source="unknown" source-abbr="?"/>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/abh03m3.mul18.xml</normativeSource>
+    <source>roman/tipitaka (mula)/abhidhammapitaka/kathavatthupali/11. ekadasamavaggo.xml</source>
+    <script>roman</script>
+    <directory>/tipitaka (mula)/abhidhammapitaka/kathavatthupali</directory>
+    <basename>11. ekadasamavaggo</basename>
+    <titlePath>11. Ekādasamavaggo - Kathāvatthupāḷi - Abhidhammapiṭaka - Tipiṭaka (Mūla)</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">11. Ekādasamavaggo</chapter>
     <subhead line="2">(106-108) 1-3. Tissopi anusayakathā</subhead>
     <paragraph line="3" number="605"> Anusayā <pageBreak edition="Pali Text Society" number="0.0444" /><pageBreak edition="Vipassana Research Institut" number="0.0360" /> abyākatāti? Āmantā. Vipākābyākatā kiriyābyākatā rūpaṃ nibbānaṃ cakkhāyatanaṃ…pe… phoṭṭhabbāyatananti? Na hevaṃ vattabbe…pe….</paragraph>

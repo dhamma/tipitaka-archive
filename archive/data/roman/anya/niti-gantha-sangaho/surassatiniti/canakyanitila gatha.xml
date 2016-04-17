@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/e1007n.nrf2.xml</normativeSource>
-    <archivePath>roman/anya/niti-gantha-sangaho/surassatiniti/canakyanitila gatha.xml</archivePath>
-    <baseFileName>canakyanitila gatha</baseFileName>
-    <titlePath>Cāṇakyanītilā gāthā - Sūrassatinīti - Nīti-gantha-saṅgaho - Anya</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/e1007n.nrf2.xml</normativeSource>
+    <source>roman/anya/niti-gantha-sangaho/surassatiniti/canakyanitila gatha.xml</source>
+    <script>roman</script>
+    <directory>/anya/niti-gantha-sangaho/surassatiniti</directory>
+    <basename>canakyanitila gatha</basename>
+    <titlePath>Cāṇakyanītilā gāthā - Sūrassatinīti - Nīti-gantha-saṅgaho - Anya</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">Cāṇakyanītilā gāthā</chapter>
     <gatha1 line="2">Lālane <pageBreak edition="Myanmar" number="2.0116" /> bahavo dosā,</gatha1>
     <gatha3 line="3">Tāḷane bahavo guṇā;</gatha3>

@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/s0302m.mul1.xml</normativeSource>
-    <archivePath>roman/tipitaka (mula)/suttapitaka/samyuttanikaya/nidanavaggapali/2. abhisamayasamyuttam.xml</archivePath>
-    <baseFileName>2. abhisamayasamyuttam</baseFileName>
-    <titlePath>2. Abhisamayasaṃyuttaṃ - Nidānavaggapāḷi - Saṃyuttanikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
     <versions>
       <version source="vipassana research institut" source-abbr="vri"/>
       <version source="sabbattha" source-abbr="sabbattha"/>
@@ -12,8 +8,14 @@
       <version source="cambodian" source-abbr="ka."/>
       <version source="sri lanka" source-abbr="sī."/>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/s0302m.mul1.xml</normativeSource>
+    <source>roman/tipitaka (mula)/suttapitaka/samyuttanikaya/nidanavaggapali/2. abhisamayasamyuttam.xml</source>
+    <script>roman</script>
+    <directory>/tipitaka (mula)/suttapitaka/samyuttanikaya/nidanavaggapali</directory>
+    <basename>2. abhisamayasamyuttam</basename>
+    <titlePath>2. Abhisamayasaṃyuttaṃ - Nidānavaggapāḷi - Saṃyuttanikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">2. Abhisamayasaṃyuttaṃ</chapter>
     <subhead line="2">1. Nakhasikhāsuttaṃ</subhead>
     <paragraph line="3" number="74"> Evaṃ <pageBreak edition="Thai" number="2.0162" /><pageBreak edition="Vipassana Research Institut" number="1.0119" /><pageBreak edition="Myanmar" number="1.0352" /> me sutaṃ – ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. Atha kho bhagavā parittaṃ nakhasikhāyaṃ paṃsuṃ āropetvā bhikkhū āmantesi – ‘‘taṃ kiṃ maññatha, bhikkhave, katamaṃ nu kho bahutaraṃ, <alternatives line="3" extra=" dutiyasuttādīsu pana vāsaddoyeva dissati" separator="false"><alternative source-abbr="vri" source="vipassana research institut">yo vāyaṃ</alternative><alternative source-abbr="sabbattha" source="sabbattha">yo cāyaṃ</alternative></alternatives>  mayā paritto nakhasikhāyaṃ paṃsu āropito, ayaṃ vā mahāpathavī’’ti?</paragraph>

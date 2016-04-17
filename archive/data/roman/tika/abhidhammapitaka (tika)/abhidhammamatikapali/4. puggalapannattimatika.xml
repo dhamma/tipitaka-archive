@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/abh09t.nrf3.xml</normativeSource>
-    <archivePath>roman/tika/abhidhammapitaka (tika)/abhidhammamatikapali/4. puggalapannattimatika.xml</archivePath>
-    <baseFileName>4. puggalapannattimatika</baseFileName>
-    <titlePath>4. Puggalapaññattimātikā - Abhidhammamātikāpāḷi - Abhidhammapiṭaka (ṭīkā) - Tīkā</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/abh09t.nrf3.xml</normativeSource>
+    <source>roman/tika/abhidhammapitaka (tika)/abhidhammamatikapali/4. puggalapannattimatika.xml</source>
+    <script>roman</script>
+    <directory>/tika/abhidhammapitaka (tika)/abhidhammamatikapali</directory>
+    <basename>4. puggalapannattimatika</basename>
+    <titlePath>4. Puggalapaññattimātikā - Abhidhammamātikāpāḷi - Abhidhammapiṭaka (ṭīkā) - Tīkā</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">4. Puggalapaññattimātikā</chapter>
     <paragraph line="2">Cha paññattiyo (pu. pa. mātikā 1) – khandhapaññatti āyatanapaññatti dhātupaññatti saccapaññatti indriyapaññatti puggalapaññattīti.</paragraph>
     <centered line="3">Puggalapaññattimātikā niṭṭhitā.</centered>

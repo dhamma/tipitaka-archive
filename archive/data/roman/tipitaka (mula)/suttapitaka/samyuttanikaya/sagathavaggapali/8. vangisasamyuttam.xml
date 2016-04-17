@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/s0301m.mul7.xml</normativeSource>
-    <archivePath>roman/tipitaka (mula)/suttapitaka/samyuttanikaya/sagathavaggapali/8. vangisasamyuttam.xml</archivePath>
-    <baseFileName>8. vangisasamyuttam</baseFileName>
-    <titlePath>8. Vaṅgīsasaṃyuttaṃ - Sagāthāvaggapāḷi - Saṃyuttanikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
     <versions>
       <version source="vipassana research institut" source-abbr="vri"/>
       <version source="sri lanka" source-abbr="sī."/>
@@ -16,8 +12,14 @@
       <version source="sāmaññaphalasuttaṭīkānurūpaṃ" source-abbr="sāmaññaphalasuttaṭīkānurūpaṃ"/>
       <version source="aṭṭha." source-abbr="aṭṭha."/>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/s0301m.mul7.xml</normativeSource>
+    <source>roman/tipitaka (mula)/suttapitaka/samyuttanikaya/sagathavaggapali/8. vangisasamyuttam.xml</source>
+    <script>roman</script>
+    <directory>/tipitaka (mula)/suttapitaka/samyuttanikaya/sagathavaggapali</directory>
+    <basename>8. vangisasamyuttam</basename>
+    <titlePath>8. Vaṅgīsasaṃyuttaṃ - Sagāthāvaggapāḷi - Saṃyuttanikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">8. Vaṅgīsasaṃyuttaṃ</chapter>
     <subhead line="2">1. Nikkhantasuttaṃ</subhead>
     <paragraph line="3" number="209"> Evaṃ <pageBreak edition="Thai" number="1.0272" /><pageBreak edition="Vipassana Research Institut" number="1.0215" /><pageBreak edition="Myanmar" number="1.0187" /><pageBreak edition="Pali Text Society" number="1.0185" /> me sutaṃ – ekaṃ samayaṃ āyasmā vaṅgīso āḷaviyaṃ viharati aggāḷave cetiye āyasmatā nigrodhakappena upajjhāyena saddhiṃ. Tena kho pana samayena āyasmā vaṅgīso navako hoti acirapabbajito ohiyyako vihārapālo. Atha kho sambahulā itthiyo samalaṅkaritvā yena aggāḷavako ārāmo tenupasaṅkamiṃsu vihārapekkhikāyo. Atha kho āyasmato vaṅgīsassa tā itthiyo disvā anabhirati uppajjati, rāgo cittaṃ anuddhaṃseti. Atha kho āyasmato vaṅgīsassa etadahosi – ‘‘alābhā vata me, na vata me lābhā; dulladdhaṃ vata me, na vata me suladdhaṃ; yassa me anabhirati uppannā, rāgo cittaṃ anuddhaṃseti, taṃ kutettha labbhā, yaṃ me paro anabhiratiṃ vinodetvā abhiratiṃ uppādeyya. Yaṃnūnāhaṃ attanāva attano anabhiratiṃ vinodetvā abhiratiṃ uppādeyya’’nti. Atha kho āyasmā vaṅgīso attanāva attano anabhiratiṃ vinodetvā abhiratiṃ uppādetvā tāyaṃ velāyaṃ imā gāthāyo abhāsi –</paragraph>

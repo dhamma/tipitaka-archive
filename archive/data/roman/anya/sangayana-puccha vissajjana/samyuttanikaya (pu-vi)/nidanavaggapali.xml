@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/e0903n.nrf1.xml</normativeSource>
-    <archivePath>roman/anya/sangayana-puccha vissajjana/samyuttanikaya (pu-vi)/nidanavaggapali.xml</archivePath>
-    <baseFileName>nidanavaggapali</baseFileName>
-    <titlePath>Nidānavaggapāḷi - Saṃyuttanikāya (pu-vi) - Saṅgāyana-puccha vissajjanā - Anya</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/e0903n.nrf1.xml</normativeSource>
+    <source>roman/anya/sangayana-puccha vissajjana/samyuttanikaya (pu-vi)/nidanavaggapali.xml</source>
+    <script>roman</script>
+    <directory>/anya/sangayana-puccha vissajjana/samyuttanikaya (pu-vi)</directory>
+    <basename>nidanavaggapali</basename>
+    <titlePath>Nidānavaggapāḷi - Saṃyuttanikāya (pu-vi) - Saṅgāyana-puccha vissajjanā - Anya</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">Nidānavaggapāḷi</chapter>
     <title line="2">Nidānasaṃyutta</title>
     <subhead line="3">Paṭiccasamuppādasutta</subhead>

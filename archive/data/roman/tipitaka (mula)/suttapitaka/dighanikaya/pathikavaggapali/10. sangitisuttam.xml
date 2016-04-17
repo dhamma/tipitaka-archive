@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/s0103m.mul9.xml</normativeSource>
-    <archivePath>roman/tipitaka (mula)/suttapitaka/dighanikaya/pathikavaggapali/10. sangitisuttam.xml</archivePath>
-    <baseFileName>10. sangitisuttam</baseFileName>
-    <titlePath>10. Saṅgītisuttaṃ - Pāthikavaggapāḷi - Dīghanikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
     <versions>
       <version source="vipassana research institut" source-abbr="vri"/>
       <version source="sri lanka" source-abbr="sī."/>
@@ -17,8 +13,14 @@
       <version source="unknown" source-abbr="?"/>
       <version source="saddanīti" source-abbr="saddanīti"/>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/s0103m.mul9.xml</normativeSource>
+    <source>roman/tipitaka (mula)/suttapitaka/dighanikaya/pathikavaggapali/10. sangitisuttam.xml</source>
+    <script>roman</script>
+    <directory>/tipitaka (mula)/suttapitaka/dighanikaya/pathikavaggapali</directory>
+    <basename>10. sangitisuttam</basename>
+    <titlePath>10. Saṅgītisuttaṃ - Pāthikavaggapāḷi - Dīghanikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">10. Saṅgītisuttaṃ</chapter>
     <paragraph line="2" number="296"> Evaṃ <pageBreak edition="Pali Text Society" number="3.0207" /><pageBreak edition="Myanmar" number="3.0175" /><pageBreak edition="Vipassana Research Institut" number="3.0166" /><pageBreak edition="Thai" number="3.0222" /> me sutaṃ – ekaṃ samayaṃ bhagavā mallesu cārikaṃ caramāno mahatā bhikkhusaṅghena saddhiṃ pañcamattehi bhikkhusatehi yena pāvā nāma mallānaṃ nagaraṃ tadavasari. Tatra sudaṃ bhagavā pāvāyaṃ viharati cundassa kammāraputtassa ambavane.</paragraph>
     <subhead line="3">Ubbhatakanavasandhāgāraṃ</subhead>

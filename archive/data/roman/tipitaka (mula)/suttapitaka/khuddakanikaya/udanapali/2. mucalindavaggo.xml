@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/s0503m.mul1.xml</normativeSource>
-    <archivePath>roman/tipitaka (mula)/suttapitaka/khuddakanikaya/udanapali/2. mucalindavaggo.xml</archivePath>
-    <baseFileName>2. mucalindavaggo</baseFileName>
-    <titlePath>2. Mucalindavaggo - Udānapāḷi - Khuddakanikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
     <versions>
       <version source="sri lanka" source-abbr="sī."/>
       <version source="thai" source-abbr="syā."/>
@@ -15,8 +11,14 @@
       <version source="aṭṭha." source-abbr="aṭṭha."/>
       <version source="unknown" source-abbr="?"/>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/s0503m.mul1.xml</normativeSource>
+    <source>roman/tipitaka (mula)/suttapitaka/khuddakanikaya/udanapali/2. mucalindavaggo.xml</source>
+    <script>roman</script>
+    <directory>/tipitaka (mula)/suttapitaka/khuddakanikaya/udanapali</directory>
+    <basename>2. mucalindavaggo</basename>
+    <titlePath>2. Mucalindavaggo - Udānapāḷi - Khuddakanikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">2. Mucalindavaggo</chapter>
     <subhead line="2">1. Mucalindasuttaṃ</subhead>
     <paragraph line="3" number="11"> Evaṃ <pageBreak edition="Pali Text Society" number="0.0010" /> me sutaṃ – ekaṃ samayaṃ bhagavā uruvelāyaṃ viharati najjā nerañjarāya tīre mucalindamūle paṭhamābhisambuddho. Tena kho pana samayena bhagavā sattāhaṃ ekapallaṅkena nisinno hoti vimuttisukhapaṭisaṃvedī.</paragraph>

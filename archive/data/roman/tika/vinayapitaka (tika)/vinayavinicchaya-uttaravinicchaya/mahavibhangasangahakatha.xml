@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/vin10t.nrf6.xml</normativeSource>
-    <archivePath>roman/tika/vinayapitaka (tika)/vinayavinicchaya-uttaravinicchaya/mahavibhangasangahakatha.xml</archivePath>
-    <baseFileName>mahavibhangasangahakatha</baseFileName>
-    <titlePath>Mahāvibhaṅgasaṅgahakathā - Vinayavinicchaya-uttaravinicchaya - Vinayapiṭaka (ṭīkā) - Tīkā</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/vin10t.nrf6.xml</normativeSource>
+    <source>roman/tika/vinayapitaka (tika)/vinayavinicchaya-uttaravinicchaya/mahavibhangasangahakatha.xml</source>
+    <script>roman</script>
+    <directory>/tika/vinayapitaka (tika)/vinayavinicchaya-uttaravinicchaya</directory>
+    <basename>mahavibhangasangahakatha</basename>
+    <titlePath>Mahāvibhaṅgasaṅgahakathā - Vinayavinicchaya-uttaravinicchaya - Vinayapiṭaka (ṭīkā) - Tīkā</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">Mahāvibhaṅgasaṅgahakathā</chapter>
     <hangnum line="2" number="4"></hangnum>
     <gatha1 line="3"> Methunaṃ <pageBreak edition="Vipassana Research Institut" number="0.0270" /> paṭisevanto, kati āpattiyo phuse;</gatha1>

@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/s0401t.tik0.xml</normativeSource>
-    <archivePath>roman/tika/suttapitaka (tika)/anguttaranikaya (tika)/ekakanipata-tika/gantharambhakatha.xml</archivePath>
-    <baseFileName>gantharambhakatha</baseFileName>
-    <titlePath>Ganthārambhakathā - Ekakanipāta-ṭīkā - Aṅguttaranikāya (ṭīkā) - Suttapiṭaka (ṭīkā) - Tīkā</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/s0401t.tik0.xml</normativeSource>
+    <source>roman/tika/suttapitaka (tika)/anguttaranikaya (tika)/ekakanipata-tika/gantharambhakatha.xml</source>
+    <script>roman</script>
+    <directory>/tika/suttapitaka (tika)/anguttaranikaya (tika)/ekakanipata-tika</directory>
+    <basename>gantharambhakatha</basename>
+    <titlePath>Ganthārambhakathā - Ekakanipāta-ṭīkā - Aṅguttaranikāya (ṭīkā) - Suttapiṭaka (ṭīkā) - Tīkā</titlePath>
   </metadata>
-  <content>
+<content>
     <centered line="1"> Namo tassa bhagavato arahato sammāsambuddhassa</centered>
     <nikaya line="2">Aṅguttaranikāye</nikaya>
     <book line="3">Ekakanipāta-ṭīkā</book>

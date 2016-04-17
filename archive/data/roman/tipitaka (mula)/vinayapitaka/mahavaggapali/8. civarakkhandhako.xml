@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/vin02m2.mul7.xml</normativeSource>
-    <archivePath>roman/tipitaka (mula)/vinayapitaka/mahavaggapali/8. civarakkhandhako.xml</archivePath>
-    <baseFileName>8. civarakkhandhako</baseFileName>
-    <titlePath>8. Cīvarakkhandhako - Mahāvaggapāḷi - Vinayapiṭaka - Tipiṭaka (Mūla)</titlePath>
     <versions>
       <version source="vipassana research institut" source-abbr="vri"/>
       <version source="bahūsu" source-abbr="bahūsu"/>
@@ -15,8 +11,14 @@
       <version source="unknown" source-abbr="?"/>
       <version source="katthaci" source-abbr="katthaci"/>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/vin02m2.mul7.xml</normativeSource>
+    <source>roman/tipitaka (mula)/vinayapitaka/mahavaggapali/8. civarakkhandhako.xml</source>
+    <script>roman</script>
+    <directory>/tipitaka (mula)/vinayapitaka/mahavaggapali</directory>
+    <basename>8. civarakkhandhako</basename>
+    <titlePath>8. Cīvarakkhandhako - Mahāvaggapāḷi - Vinayapiṭaka - Tipiṭaka (Mūla)</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">8. Cīvarakkhandhako</chapter>
     <subhead line="2">202. Jīvakavatthu</subhead>
     <paragraph line="3" number="326"> Tena <pageBreak edition="Pali Text Society" number="1.0268" /><pageBreak edition="Myanmar" number="0.0377" /><pageBreak edition="Vipassana Research Institut" number="0.0356" /><pageBreak edition="Thai" number="2.0168" /> samayena buddho bhagavā rājagahe viharati veḷuvane kalandakanivāpe. Tena kho pana samayena vesālī iddhā ceva hoti <alternatives line="3" extra="" separator="false"><alternative source-abbr="vri" source="vipassana research institut">phitā</alternative><alternative source-abbr="bahūsu" source="bahūsu">phītā</alternative></alternatives>  ca bahujanā ca ākiṇṇamanussā ca subhikkhā ca; satta ca pāsādasahassāni satta ca pāsādasatāni satta ca pāsādā; satta ca kūṭāgārasahassāni satta ca kūṭāgārasatāni satta ca kūṭāgārāni; satta ca ārāmasahassāni satta ca ārāmasatāni satta ca ārāmā; satta ca pokkharaṇīsahassāni satta ca pokkharaṇīsatāni satta ca pokkharaṇiyo; ambapālī ca gaṇikā abhirūpā hoti dassanīyā pāsādikā paramāya vaṇṇapokkharatāya samannāgatā, <alternatives line="11" extra="" separator="false"><alternative source-abbr="vri" source="vipassana research institut">padakkhiṇā</alternative><alternative source-abbr="syā." source="thai">padakkhā</alternative></alternatives>  nacce ca gīte ca vādite ca, abhisaṭā atthikānaṃ atthikānaṃ manussānaṃ paññāsāya ca rattiṃ gacchati; tāya ca vesālī bhiyyosomattāya upasobhati. Atha kho rājagahako negamo vesāliṃ agamāsi kenacideva karaṇīyena. Addasā kho rājagahako negamo vesāliṃ iddhañceva phitañca bahujanañca ākiṇṇamanussañca subhikkhañca; satta ca pāsādasahassāni satta ca pāsādasatāni satta ca pāsāde; satta ca kūṭāgārasahassāni satta ca kūṭāgārasatāni satta ca kūṭāgārāni; satta ca ārāmasahassāni satta ca ārāmasatāni satta ca ārāme; satta ca pokkharaṇīsahassāni satta ca pokkharaṇīsatāni satta ca pokkharaṇiyo <pageBreak edition="Thai" number="2.0169" />; ambapāliñca gaṇikaṃ abhirūpaṃ dassanīyaṃ pāsādikaṃ paramāya vaṇṇapokkharatāya samannāgataṃ, <alternatives line="19" extra="" separator="false"><alternative source-abbr="vri" source="vipassana research institut">padakkhiṇaṃ</alternative><alternative source-abbr="syā." source="thai">padakkhaṃ</alternative></alternatives>  nacce ca gīte ca vādite ca, abhisaṭaṃ atthikānaṃ atthikānaṃ manussānaṃ paññāsāya ca rattiṃ gacchantiṃ, tāya ca vesāliṃ bhiyyosomattāya upasobhantiṃ.</paragraph>

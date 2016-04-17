@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/abh02m.mul16.xml</normativeSource>
-    <archivePath>roman/tipitaka (mula)/abhidhammapitaka/vibhangapali/17. khuddakavatthuvibhango.xml</archivePath>
-    <baseFileName>17. khuddakavatthuvibhango</baseFileName>
-    <titlePath>17. Khuddakavatthuvibhaṅgo - Vibhaṅgapāḷi - Abhidhammapiṭaka - Tipiṭaka (Mūla)</titlePath>
     <versions>
       <version source="vipassana research institut" source-abbr="vri"/>
       <version source="thai" source-abbr="syā."/>
@@ -13,8 +9,14 @@
       <version source="unknown" source-abbr="?"/>
       <version source="saddanībhi" source-abbr="saddanībhi"/>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/abh02m.mul16.xml</normativeSource>
+    <source>roman/tipitaka (mula)/abhidhammapitaka/vibhangapali/17. khuddakavatthuvibhango.xml</source>
+    <script>roman</script>
+    <directory>/tipitaka (mula)/abhidhammapitaka/vibhangapali</directory>
+    <basename>17. khuddakavatthuvibhango</basename>
+    <titlePath>17. Khuddakavatthuvibhaṅgo - Vibhaṅgapāḷi - Abhidhammapiṭaka - Tipiṭaka (Mūla)</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">17. Khuddakavatthuvibhaṅgo</chapter>
     <title line="2">1. Ekakamātikā</title>
     <paragraph line="3" number="832"> (1)Jātimado <pageBreak edition="Myanmar" number="0.0359" /><pageBreak edition="Pali Text Society" number="0.0345" /><pageBreak edition="Vipassana Research Institut" number="0.0395" /> (2)gottamado (3)ārogyamado (4)yobbanamado (5)jīvitamado (6)lābhamado (7)sakkāramado (8) garukāramado (9) purekkhāramado (10) parivāramado (11) bhogamado (12) vaṇṇamado <pageBreak edition="Thai" number="0.0468" /> (13) sutamado (14) paṭibhānamado (15) rattaññumado (16) piṇḍapātikamado (17) anavaññātamado (18) iriyāpathamado (19) iddhimado (20) yasamado (21) sīlamado (22) jhānamado (23) sippamado (24) ārohamado (25) pariṇāhamado (26) saṇṭhānamado (27) pāripūrimado (28)mado (29) pamādo (30) thambho (31) sārambho (32) atricchatā (33)mahicchatā (34) pāpicchatā (35) siṅgaṃ (36) tintiṇaṃ (37) cāpalyaṃ (38)asabhāgavutti (39) arati (40) tandī (41) vijambhitā (42) bhattasammado (43) cetaso <alternatives line="3" extra="" separator="false"><alternative source-abbr="vri" source="vipassana research institut">ca līnattaṃ</alternative><alternative source-abbr="syā." source="thai">cetaso līnattaṃ</alternative></alternatives>  (44) kuhanā (45) lapanā (46) nemittikatā (47)nippesikatā (48) lābhena <pageBreak edition="Pali Text Society" number="0.0346" /> lābhaṃ <alternatives line="11" extra="" separator="true"><alternative source-abbr="vri" source="vipassana research institut">nijigīsanatā</alternative><alternative source-abbr="sī." source="sri lanka">nijigiṃsanatā</alternative><alternative source-abbr="syā." source="thai">jigiṃsanatā</alternative></alternatives>  (49) seyyohamasmīti māno (50) sadisohamasmīti māno (51) hīno hamasmīti māno (52) seyyassa seyyohamasmīti māno (53) seyyassa sadisohamasmīti māno (54) seyyassa hīnohamasmīti māno (55) sadisassa seyyohamasmīti māno (56) sadisassa sadisohamasmīti māno (57) sadisassa hīnohamasmīti māno (58) hīnassa seyyohamasmīti māno (59) hīnassa sadisohamasmīti māno (60) hīnassa hīnohamasmīti māno (61) māno (62) atimāno (63) mānātimāno (64) omāno (65)adhimāno (66) asmimāno (67) micchāmāno (68) ñātivitakko (69)janapadavitakko <pageBreak edition="Vipassana Research Institut" number="0.0396" /> (70) amaravitakko (71) parānuddayatāpaṭisaṃyutto vitakko (72) lābhasakkārasilokapaṭisaṃyutto vitakko (73) anavaññattipaṭisaṃyutto vitakko</paragraph>

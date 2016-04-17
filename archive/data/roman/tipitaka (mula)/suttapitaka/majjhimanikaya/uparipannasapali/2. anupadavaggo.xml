@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/s0203m.mul1.xml</normativeSource>
-    <archivePath>roman/tipitaka (mula)/suttapitaka/majjhimanikaya/uparipannasapali/2. anupadavaggo.xml</archivePath>
-    <baseFileName>2. anupadavaggo</baseFileName>
-    <titlePath>2. Anupadavaggo - Uparipaṇṇāsapāḷi - Majjhimanikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
     <versions>
       <version source="vipassana research institut" source-abbr="vri"/>
       <version source="sri lanka" source-abbr="sī."/>
@@ -17,8 +13,14 @@
       <version source="bahūsu" source-abbr="bahūsu"/>
       <version source="unknown" source-abbr="?"/>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/s0203m.mul1.xml</normativeSource>
+    <source>roman/tipitaka (mula)/suttapitaka/majjhimanikaya/uparipannasapali/2. anupadavaggo.xml</source>
+    <script>roman</script>
+    <directory>/tipitaka (mula)/suttapitaka/majjhimanikaya/uparipannasapali</directory>
+    <basename>2. anupadavaggo</basename>
+    <titlePath>2. Anupadavaggo - Uparipaṇṇāsapāḷi - Majjhimanikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">2. Anupadavaggo</chapter>
     <subhead line="2">1. Anupadasuttaṃ</subhead>
     <paragraph line="3" number="93"> Evaṃ <pageBreak edition="Thai" number="3.0116" /><pageBreak edition="Myanmar" number="3.0075" /><pageBreak edition="Vipassana Research Institut" number="3.0074" /><pageBreak edition="Pali Text Society" number="3.0025" /> me sutaṃ – ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. Tatra kho bhagavā bhikkhū āmantesi – ‘‘bhikkhavo’’ti. ‘‘Bhadante’’ti te bhikkhū bhagavato paccassosuṃ. Bhagavā etadavoca –</paragraph>

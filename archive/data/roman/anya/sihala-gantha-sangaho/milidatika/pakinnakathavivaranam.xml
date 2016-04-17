@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/e1210n.nrf1.xml</normativeSource>
-    <archivePath>roman/anya/sihala-gantha-sangaho/milidatika/pakinnakathavivaranam.xml</archivePath>
-    <baseFileName>pakinnakathavivaranam</baseFileName>
-    <titlePath>Pakiṇṇakathavivaraṇaṃ - Milidaṭīkā - Sihaḷa-gantha-saṅgaho - Anya</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/e1210n.nrf1.xml</normativeSource>
+    <source>roman/anya/sihala-gantha-sangaho/milidatika/pakinnakathavivaranam.xml</source>
+    <script>roman</script>
+    <directory>/anya/sihala-gantha-sangaho/milidatika</directory>
+    <basename>pakinnakathavivaranam</basename>
+    <titlePath>Pakiṇṇakathavivaraṇaṃ - Milidaṭīkā - Sihaḷa-gantha-saṅgaho - Anya</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">Pakiṇṇakathavivaraṇaṃ</chapter>
     <paragraph line="2">Tesu –’milido nāma so rājā …pe… sāgaranti etha ajjhāhārasambadho veditabbo yo’pi milido rājā bhagavato parinibbānato pañcavassasate atikkante rājakule uppanno so rājā milido nāma.</paragraph>
     <paragraph line="3">Sāgalāyaṃ puruttame sāgalanāmake uttamanagare rajjaṃ kārento nāgasenatheraṃ upagañchi kiṃ viyā?Ti.</paragraph>

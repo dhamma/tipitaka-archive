@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/vin06t.nrf3.xml</normativeSource>
-    <archivePath>roman/tika/vinayapitaka (tika)/vajirabuddhi-tika/mahavaggavannana.xml</archivePath>
-    <baseFileName>mahavaggavannana</baseFileName>
-    <titlePath>Mahāvaggavaṇṇanā - Vajirabuddhi-ṭīkā - Vinayapiṭaka (ṭīkā) - Tīkā</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/vin06t.nrf3.xml</normativeSource>
+    <source>roman/tika/vinayapitaka (tika)/vajirabuddhi-tika/mahavaggavannana.xml</source>
+    <script>roman</script>
+    <directory>/tika/vinayapitaka (tika)/vajirabuddhi-tika</directory>
+    <basename>mahavaggavannana</basename>
+    <titlePath>Mahāvaggavaṇṇanā - Vajirabuddhi-ṭīkā - Vinayapiṭaka (ṭīkā) - Tīkā</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">Mahāvaggavaṇṇanā</chapter>
     <subhead line="2">1. Mahākhandhakavaṇṇanā</subhead>
     <subhead line="3">Bodhikathāvaṇṇanā</subhead>

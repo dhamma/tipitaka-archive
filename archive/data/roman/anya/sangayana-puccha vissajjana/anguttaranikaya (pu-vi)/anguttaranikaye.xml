@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/e0904n.nrf.xml</normativeSource>
-    <archivePath>roman/anya/sangayana-puccha vissajjana/anguttaranikaya (pu-vi)/anguttaranikaye.xml</archivePath>
-    <baseFileName>anguttaranikaye</baseFileName>
-    <titlePath>Aṅguttaranikāye - Aṅguttaranikāya (pu-vi) - Saṅgāyana-puccha vissajjanā - Anya</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/e0904n.nrf.xml</normativeSource>
+    <source>roman/anya/sangayana-puccha vissajjana/anguttaranikaya (pu-vi)/anguttaranikaye.xml</source>
+    <script>roman</script>
+    <directory>/anya/sangayana-puccha vissajjana/anguttaranikaya (pu-vi)</directory>
+    <basename>anguttaranikaye</basename>
+    <titlePath>Aṅguttaranikāye - Aṅguttaranikāya (pu-vi) - Saṅgāyana-puccha vissajjanā - Anya</titlePath>
   </metadata>
-  <content>
+<content>
     <centered line="1"> Namo tassa bhagavato arahato sammāsambuddhassa</centered>
     <nikaya line="2">Suttantapiṭaka</nikaya>
     <chapter line="3">Aṅguttaranikāye</chapter>

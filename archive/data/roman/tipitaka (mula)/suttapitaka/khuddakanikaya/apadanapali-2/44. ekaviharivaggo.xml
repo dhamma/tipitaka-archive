@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/s0510m2.mul1.xml</normativeSource>
-    <archivePath>roman/tipitaka (mula)/suttapitaka/khuddakanikaya/apadanapali-2/44. ekaviharivaggo.xml</archivePath>
-    <baseFileName>44. ekaviharivaggo</baseFileName>
-    <titlePath>44. Ekavihārivaggo - Apadānapāḷi-2 - Khuddakanikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
     <versions>
       <version source="thai" source-abbr="syā."/>
       <version source="cambodian" source-abbr="ka."/>
@@ -12,8 +8,14 @@
       <version source="pali text society" source-abbr="pī."/>
       <version source="sri lanka" source-abbr="sī."/>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/s0510m2.mul1.xml</normativeSource>
+    <source>roman/tipitaka (mula)/suttapitaka/khuddakanikaya/apadanapali-2/44. ekaviharivaggo.xml</source>
+    <script>roman</script>
+    <directory>/tipitaka (mula)/suttapitaka/khuddakanikaya/apadanapali-2</directory>
+    <basename>44. ekaviharivaggo</basename>
+    <titlePath>44. Ekavihārivaggo - Apadānapāḷi-2 - Khuddakanikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">44. Ekavihārivaggo</chapter>
     <subhead line="2">1. Ekavihārikattheraapadānaṃ</subhead>
     <hangnum line="3" number="1"></hangnum>

@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/vin09t.nrf4.xml</normativeSource>
-    <archivePath>roman/tika/vinayapitaka (tika)/kankhavitaranipurana-tika/nissaggiyakandam.xml</archivePath>
-    <baseFileName>nissaggiyakandam</baseFileName>
-    <titlePath>Nissaggiyakaṇḍaṃ - Kaṅkhāvitaraṇīpurāṇa-ṭīkā - Vinayapiṭaka (ṭīkā) - Tīkā</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/vin09t.nrf4.xml</normativeSource>
+    <source>roman/tika/vinayapitaka (tika)/kankhavitaranipurana-tika/nissaggiyakandam.xml</source>
+    <script>roman</script>
+    <directory>/tika/vinayapitaka (tika)/kankhavitaranipurana-tika</directory>
+    <basename>nissaggiyakandam</basename>
+    <titlePath>Nissaggiyakaṇḍaṃ - Kaṅkhāvitaraṇīpurāṇa-ṭīkā - Vinayapiṭaka (ṭīkā) - Tīkā</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">Nissaggiyakaṇḍaṃ</chapter>
     <title line="2">1. Cīvaravaggo</title>
     <subhead line="3">1. Kathinasikkhāpadavaṇṇanā</subhead>

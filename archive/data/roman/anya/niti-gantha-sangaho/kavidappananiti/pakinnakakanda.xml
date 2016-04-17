@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/e1001n.nrf11.xml</normativeSource>
-    <archivePath>roman/anya/niti-gantha-sangaho/kavidappananiti/pakinnakakanda.xml</archivePath>
-    <baseFileName>pakinnakakanda</baseFileName>
-    <titlePath>Pakiṇṇakakaṇḍa - Kavidappaṇanīti - Nīti-gantha-saṅgaho - Anya</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/e1001n.nrf11.xml</normativeSource>
+    <source>roman/anya/niti-gantha-sangaho/kavidappananiti/pakinnakakanda.xml</source>
+    <script>roman</script>
+    <directory>/anya/niti-gantha-sangaho/kavidappananiti</directory>
+    <basename>pakinnakakanda</basename>
+    <titlePath>Pakiṇṇakakaṇḍa - Kavidappaṇanīti - Nīti-gantha-saṅgaho - Anya</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">Pakiṇṇakakaṇḍa</chapter>
     <hangnum line="2" number="316"></hangnum>
     <gatha1 line="3"> Kulasīlaguṇopeto <pageBreak edition="Myanmar" number="0.0191" />, sabbadhammaparāyaṇo;</gatha1>

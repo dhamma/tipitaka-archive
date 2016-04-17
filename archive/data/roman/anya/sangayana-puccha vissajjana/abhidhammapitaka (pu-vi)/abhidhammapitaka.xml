@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/e0906n.nrf.xml</normativeSource>
-    <archivePath>roman/anya/sangayana-puccha vissajjana/abhidhammapitaka (pu-vi)/abhidhammapitaka.xml</archivePath>
-    <baseFileName>abhidhammapitaka</baseFileName>
-    <titlePath>Abhidhammapiṭaka - Abhidhammapiṭaka (pu-vi) - Saṅgāyana-puccha vissajjanā - Anya</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/e0906n.nrf.xml</normativeSource>
+    <source>roman/anya/sangayana-puccha vissajjana/abhidhammapitaka (pu-vi)/abhidhammapitaka.xml</source>
+    <script>roman</script>
+    <directory>/anya/sangayana-puccha vissajjana/abhidhammapitaka (pu-vi)</directory>
+    <basename>abhidhammapitaka</basename>
+    <titlePath>Abhidhammapiṭaka - Abhidhammapiṭaka (pu-vi) - Saṅgāyana-puccha vissajjanā - Anya</titlePath>
   </metadata>
-  <content>
+<content>
     <centered line="1"> Namo tassa bhagavato arahato sammāsambuddhassa</centered>
     <chapter line="2">Abhidhammapiṭaka</chapter>
     <subhead line="3">Saṃgāyanassa pucchā vissajjanā</subhead>

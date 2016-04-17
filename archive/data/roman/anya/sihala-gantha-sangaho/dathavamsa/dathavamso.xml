@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/e1203n.nrf.xml</normativeSource>
-    <archivePath>roman/anya/sihala-gantha-sangaho/dathavamsa/dathavamso.xml</archivePath>
-    <baseFileName>dathavamso</baseFileName>
-    <titlePath>Dāṭhāvaṃso  - Dāṭhāvaṃsa - Sihaḷa-gantha-saṅgaho - Anya</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/e1203n.nrf.xml</normativeSource>
+    <source>roman/anya/sihala-gantha-sangaho/dathavamsa/dathavamso.xml</source>
+    <script>roman</script>
+    <directory>/anya/sihala-gantha-sangaho/dathavamsa</directory>
+    <basename>dathavamso</basename>
+    <titlePath>Dāṭhāvaṃso  - Dāṭhāvaṃsa - Sihaḷa-gantha-saṅgaho - Anya</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">Dāṭhāvaṃso <pageBreak edition="Vipassana Research Institut" number="0.0001" /></chapter>
     <centered line="2"> Namo tassa bhagavato arahato sammāsambuddhassa</centered>
     <hangnum line="3" number="1"></hangnum>

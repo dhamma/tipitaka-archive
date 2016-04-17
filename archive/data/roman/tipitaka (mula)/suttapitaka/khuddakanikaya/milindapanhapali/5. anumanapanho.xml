@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/s0518m.nrf3.xml</normativeSource>
-    <archivePath>roman/tipitaka (mula)/suttapitaka/khuddakanikaya/milindapanhapali/5. anumanapanho.xml</archivePath>
-    <baseFileName>5. anumanapanho</baseFileName>
-    <titlePath>5. Anumānapañho - Milindapañhapāḷi - Khuddakanikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
     <versions>
       <version source="vipassana research institut" source-abbr="vri"/>
       <version source="sri lanka" source-abbr="sī."/>
@@ -16,8 +12,14 @@
       <version source="nisya" source-abbr="nisya"/>
       <version source="bahūsu" source-abbr="bahūsu"/>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/s0518m.nrf3.xml</normativeSource>
+    <source>roman/tipitaka (mula)/suttapitaka/khuddakanikaya/milindapanhapali/5. anumanapanho.xml</source>
+    <script>roman</script>
+    <directory>/tipitaka (mula)/suttapitaka/khuddakanikaya/milindapanhapali</directory>
+    <basename>5. anumanapanho</basename>
+    <titlePath>5. Anumānapañho - Milindapañhapāḷi - Khuddakanikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">5. Anumānapañho</chapter>
     <title line="2">1. Buddhavaggo</title>
     <subhead line="3">1. Dvinnaṃ buddhānaṃ anuppajjamānapañho</subhead>

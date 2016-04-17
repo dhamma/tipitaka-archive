@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/s0502m.mul21.xml</normativeSource>
-    <archivePath>roman/tipitaka (mula)/suttapitaka/khuddakanikaya/dhammapadapali/22. nirayavaggo.xml</archivePath>
-    <baseFileName>22. nirayavaggo</baseFileName>
-    <titlePath>22. Nirayavaggo - Dhammapadapāḷi - Khuddakanikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
     <versions>
       <version source="vipassana research institut" source-abbr="vri"/>
       <version source="sri lanka" source-abbr="sī."/>
@@ -12,8 +8,14 @@
       <version source="cambodian" source-abbr="ka."/>
       <version source="thai" source-abbr="syā."/>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/s0502m.mul21.xml</normativeSource>
+    <source>roman/tipitaka (mula)/suttapitaka/khuddakanikaya/dhammapadapali/22. nirayavaggo.xml</source>
+    <script>roman</script>
+    <directory>/tipitaka (mula)/suttapitaka/khuddakanikaya/dhammapadapali</directory>
+    <basename>22. nirayavaggo</basename>
+    <titlePath>22. Nirayavaggo - Dhammapadapāḷi - Khuddakanikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">22. Nirayavaggo</chapter>
     <hangnum line="2" number="306"></hangnum>
     <gatha1 line="3"> Abhūtavādī <pageBreak edition="Myanmar" number="0.0057" /><pageBreak edition="Vipassana Research Institut" number="0.0052" /> nirayaṃ upeti, <alternatives line="3" extra="" separator="false"><alternative source-abbr="vri" source="vipassana research institut">yo vāpi</alternative><alternative source-abbr="sī." source="sri lanka">yo cāpi</alternative><alternative source-abbr="pī." source="pali text society">yo cāpi</alternative><alternative source-abbr="ka." source="cambodian">yo cāpi</alternative></alternatives>  katvā <alternatives line="11" extra="" separator="false"><alternative source-abbr="vri" source="vipassana research institut">na karomi cāha</alternative><alternative source-abbr="syā." source="thai">na karomīti cāha</alternative></alternatives> ;</gatha1>

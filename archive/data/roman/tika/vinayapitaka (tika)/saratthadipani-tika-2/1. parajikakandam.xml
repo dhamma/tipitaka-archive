@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/vin01t2.tik0.xml</normativeSource>
-    <archivePath>roman/tika/vinayapitaka (tika)/saratthadipani-tika-2/1. parajikakandam.xml</archivePath>
-    <baseFileName>1. parajikakandam</baseFileName>
-    <titlePath>1. Pārājikakaṇḍaṃ - Sāratthadīpanī-ṭīkā-2 - Vinayapiṭaka (ṭīkā) - Tīkā</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/vin01t2.tik0.xml</normativeSource>
+    <source>roman/tika/vinayapitaka (tika)/saratthadipani-tika-2/1. parajikakandam.xml</source>
+    <script>roman</script>
+    <directory>/tika/vinayapitaka (tika)/saratthadipani-tika-2</directory>
+    <basename>1. parajikakandam</basename>
+    <titlePath>1. Pārājikakaṇḍaṃ - Sāratthadīpanī-ṭīkā-2 - Vinayapiṭaka (ṭīkā) - Tīkā</titlePath>
   </metadata>
-  <content>
+<content>
     <centered line="1"> Namo tassa bhagavato arahato sammāsambuddhassa</centered>
     <nikaya line="2">Vinayapiṭake</nikaya>
     <book line="3">Sāratthadīpanī-ṭīkā (dutiyo bhāgo)</book>

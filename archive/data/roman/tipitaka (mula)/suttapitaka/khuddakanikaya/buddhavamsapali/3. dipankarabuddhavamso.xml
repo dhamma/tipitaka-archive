@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/s0511m.mul2.xml</normativeSource>
-    <archivePath>roman/tipitaka (mula)/suttapitaka/khuddakanikaya/buddhavamsapali/3. dipankarabuddhavamso.xml</archivePath>
-    <baseFileName>3. dipankarabuddhavamso</baseFileName>
-    <titlePath>3. Dīpaṅkarabuddhavaṃso - Buddhavaṃsapāḷi - Khuddakanikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
     <versions>
       <version source="thai" source-abbr="syā."/>
       <version source="cambodian" source-abbr="ka."/>
@@ -12,8 +8,14 @@
       <version source="sri lanka" source-abbr="sī."/>
       <version source="sabbattha" source-abbr="sabbattha"/>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/s0511m.mul2.xml</normativeSource>
+    <source>roman/tipitaka (mula)/suttapitaka/khuddakanikaya/buddhavamsapali/3. dipankarabuddhavamso.xml</source>
+    <script>roman</script>
+    <directory>/tipitaka (mula)/suttapitaka/khuddakanikaya/buddhavamsapali</directory>
+    <basename>3. dipankarabuddhavamso</basename>
+    <titlePath>3. Dīpaṅkarabuddhavaṃso - Buddhavaṃsapāḷi - Khuddakanikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">3. Dīpaṅkarabuddhavaṃso</chapter>
     <hangnum line="2" number="1"></hangnum>
     <gatha1 line="3"> Tadā <pageBreak edition="Pali Text Society" number="0.0017" /> te bhojayitvāna, sasaṅghaṃ lokanāyakaṃ;</gatha1>

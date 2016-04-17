@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/e0805n.nrf0.xml</normativeSource>
-    <archivePath>roman/anya/byakarana gantha-sangaho/padarupasiddhi/1. sandhikanda.xml</archivePath>
-    <baseFileName>1. sandhikanda</baseFileName>
-    <titlePath>1. Sandhikaṇḍa - Padarūpasiddhi - Byākaraṇa gantha-saṅgaho - Anya</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/e0805n.nrf0.xml</normativeSource>
+    <source>roman/anya/byakarana gantha-sangaho/padarupasiddhi/1. sandhikanda.xml</source>
+    <script>roman</script>
+    <directory>/anya/byakarana gantha-sangaho/padarupasiddhi</directory>
+    <basename>1. sandhikanda</basename>
+    <titlePath>1. Sandhikaṇḍa - Padarūpasiddhi - Byākaraṇa gantha-saṅgaho - Anya</titlePath>
   </metadata>
-  <content>
+<content>
     <centered line="1"> Namo tassa bhagavato arahato sammāsambuddhassa</centered>
     <book line="2">Padarūpasiddhi</book>
     <subsubhead line="3">Ganthārambha</subsubhead>

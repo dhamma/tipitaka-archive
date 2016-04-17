@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/e0703n.nrf61.xml</normativeSource>
-    <archivePath>roman/anya/vamsa-gantha-sangaho/mahavamsa/dvisatthimapariccheda.xml</archivePath>
-    <baseFileName>dvisatthimapariccheda</baseFileName>
-    <titlePath>Dvisaṭṭhimapariccheda - Mahāvaṃsa - Vaṃsa-gantha-saṅgaho - Anya</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/e0703n.nrf61.xml</normativeSource>
+    <source>roman/anya/vamsa-gantha-sangaho/mahavamsa/dvisatthimapariccheda.xml</source>
+    <script>roman</script>
+    <directory>/anya/vamsa-gantha-sangaho/mahavamsa</directory>
+    <basename>dvisatthimapariccheda</basename>
+    <titlePath>Dvisaṭṭhimapariccheda - Mahāvaṃsa - Vaṃsa-gantha-saṅgaho - Anya</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">Dvisaṭṭhimapariccheda</chapter>
     <subhead line="2">Paramaṇḍalābhigamano</subhead>
     <hangnum line="3" number="1"></hangnum>

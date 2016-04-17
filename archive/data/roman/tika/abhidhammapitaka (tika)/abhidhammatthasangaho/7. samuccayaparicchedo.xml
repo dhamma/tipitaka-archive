@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/abh07t.nrf6.xml</normativeSource>
-    <archivePath>roman/tika/abhidhammapitaka (tika)/abhidhammatthasangaho/7. samuccayaparicchedo.xml</archivePath>
-    <baseFileName>7. samuccayaparicchedo</baseFileName>
-    <titlePath>7. Samuccayaparicchedo - Abhidhammatthasaṅgaho - Abhidhammapiṭaka (ṭīkā) - Tīkā</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/abh07t.nrf6.xml</normativeSource>
+    <source>roman/tika/abhidhammapitaka (tika)/abhidhammatthasangaho/7. samuccayaparicchedo.xml</source>
+    <script>roman</script>
+    <directory>/tika/abhidhammapitaka (tika)/abhidhammatthasangaho</directory>
+    <basename>7. samuccayaparicchedo</basename>
+    <titlePath>7. Samuccayaparicchedo - Abhidhammatthasaṅgaho - Abhidhammapiṭaka (ṭīkā) - Tīkā</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">7. Samuccayaparicchedo</chapter>
     <paragraph line="2" number="1"> Dvāsattatividhā <pageBreak edition="Vipassana Research Institut" number="0.0049" /> vuttā, vatthudhammā salakkhaṇā.</paragraph>
     <gathalast line="3">Tesaṃ dāni yathāyogaṃ, pavakkhāmi samuccayaṃ.</gathalast>

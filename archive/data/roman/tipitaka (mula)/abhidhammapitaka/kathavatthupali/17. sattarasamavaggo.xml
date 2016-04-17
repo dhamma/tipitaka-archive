@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/abh03m3.mul24.xml</normativeSource>
-    <archivePath>roman/tipitaka (mula)/abhidhammapitaka/kathavatthupali/17. sattarasamavaggo.xml</archivePath>
-    <baseFileName>17. sattarasamavaggo</baseFileName>
-    <titlePath>17. Sattarasamavaggo - Kathāvatthupāḷi - Abhidhammapiṭaka - Tipiṭaka (Mūla)</titlePath>
     <versions>
       <version source="vipassana research institut" source-abbr="vri"/>
       <version source="unknown" source-abbr="?"/>
@@ -17,8 +13,14 @@
       <version source="thai" source-abbr="syā."/>
       <version source="kaṃ." source-abbr="kaṃ."/>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/abh03m3.mul24.xml</normativeSource>
+    <source>roman/tipitaka (mula)/abhidhammapitaka/kathavatthupali/17. sattarasamavaggo.xml</source>
+    <script>roman</script>
+    <directory>/tipitaka (mula)/abhidhammapitaka/kathavatthupali</directory>
+    <basename>17. sattarasamavaggo</basename>
+    <titlePath>17. Sattarasamavaggo - Kathāvatthupāḷi - Abhidhammapiṭaka - Tipiṭaka (Mūla)</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">17. Sattarasamavaggo</chapter>
     <subhead line="2">(166) 1. Arahato puññūpacayakathā</subhead>
     <paragraph line="3" number="776"> Atthi <pageBreak edition="Pali Text Society" number="0.0542" /><pageBreak edition="Vipassana Research Institut" number="0.0438" /> arahato puññūpacayoti? Āmantā. Atthi arahato apuññūpacayoti? Na hevaṃ vattabbe…pe… natthi arahato apuññūpacayoti? Āmantā. Natthi arahato puññūpacayoti? Na hevaṃ vattabbe…pe….</paragraph>

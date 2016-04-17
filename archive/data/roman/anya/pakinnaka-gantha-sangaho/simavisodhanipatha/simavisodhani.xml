@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/e1102n.nrf0.xml</normativeSource>
-    <archivePath>roman/anya/pakinnaka-gantha-sangaho/simavisodhanipatha/simavisodhani.xml</archivePath>
-    <baseFileName>simavisodhani</baseFileName>
-    <titlePath>Sīmavisodhanī - Sīmavisodhanīpāṭha - Pakiṇṇaka-gantha-saṅgaho - Anya</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/e1102n.nrf0.xml</normativeSource>
+    <source>roman/anya/pakinnaka-gantha-sangaho/simavisodhanipatha/simavisodhani.xml</source>
+    <script>roman</script>
+    <directory>/anya/pakinnaka-gantha-sangaho/simavisodhanipatha</directory>
+    <basename>simavisodhani</basename>
+    <titlePath>Sīmavisodhanī - Sīmavisodhanīpāṭha - Pakiṇṇaka-gantha-saṅgaho - Anya</titlePath>
   </metadata>
-  <content>
+<content>
     <centered line="1">Namo tassa bhagavato arahato sammāsambuddhassa.</centered>
     <book line="2">Sīmavisodhanī</book>
     <gatha1 line="3">Varadaṃ <pageBreak edition="Myanmar" number="0.0005" /> varadaṃ aggaṃ, diccaṃ diccaṃva vanajaṃ;</gatha1>

@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/s0506m.mul1.xml</normativeSource>
-    <archivePath>roman/tipitaka (mula)/suttapitaka/khuddakanikaya/vimanavatthupali/2. purisavimanam.xml</archivePath>
-    <baseFileName>2. purisavimanam</baseFileName>
-    <titlePath>2. Purisavimānaṃ - Vimānavatthupāḷi - Khuddakanikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
     <versions>
       <version source="sri lanka" source-abbr="sī."/>
       <version source="thai" source-abbr="syā."/>
@@ -17,8 +13,14 @@
       <version source="aṭṭha." source-abbr="aṭṭha."/>
       <version source="katthaci" source-abbr="katthaci"/>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/s0506m.mul1.xml</normativeSource>
+    <source>roman/tipitaka (mula)/suttapitaka/khuddakanikaya/vimanavatthupali/2. purisavimanam.xml</source>
+    <script>roman</script>
+    <directory>/tipitaka (mula)/suttapitaka/khuddakanikaya/vimanavatthupali</directory>
+    <basename>2. purisavimanam</basename>
+    <titlePath>2. Purisavimānaṃ - Vimānavatthupāḷi - Khuddakanikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">2. Purisavimānaṃ</chapter>
     <title line="2">5. Mahārathavaggo</title>
     <subhead line="3">1. Maṇḍūkadevaputtavimānavatthu</subhead>

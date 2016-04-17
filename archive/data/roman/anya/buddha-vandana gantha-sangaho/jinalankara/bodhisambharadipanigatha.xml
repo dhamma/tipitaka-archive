@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/e0605n.nrf5.xml</normativeSource>
-    <archivePath>roman/anya/buddha-vandana gantha-sangaho/jinalankara/bodhisambharadipanigatha.xml</archivePath>
-    <baseFileName>bodhisambharadipanigatha</baseFileName>
-    <titlePath>Bodhisambhāradīpanīgāthā - Jinālaṅkāra - Buddha-vandanā gantha-saṅgaho - Anya</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/e0605n.nrf5.xml</normativeSource>
+    <source>roman/anya/buddha-vandana gantha-sangaho/jinalankara/bodhisambharadipanigatha.xml</source>
+    <script>roman</script>
+    <directory>/anya/buddha-vandana gantha-sangaho/jinalankara</directory>
+    <basename>bodhisambharadipanigatha</basename>
+    <titlePath>Bodhisambhāradīpanīgāthā - Jinālaṅkāra - Buddha-vandanā gantha-saṅgaho - Anya</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">Bodhisambhāradīpanīgāthā</chapter>
     <hangnum line="2" number="23"></hangnum>
     <gatha1 line="3"> So dukkhakhinnajanadassanadukkhakhinno,</gatha1>

@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/s0403m1.mul14.xml</normativeSource>
-    <archivePath>roman/tipitaka (mula)/suttapitaka/anguttaranikaya/pancakanipatapali/(15) 5. tikandakivaggo.xml</archivePath>
-    <baseFileName>(15) 5. tikandakivaggo</baseFileName>
-    <titlePath>(15) 5. Tikaṇḍakīvaggo - Pañcakanipātapāḷi - Aṅguttaranikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
     <versions>
       <version source="vipassana research institut" source-abbr="vri"/>
       <version source="sri lanka" source-abbr="sī."/>
@@ -15,8 +11,14 @@
       <version source="unknown" source-abbr="?"/>
       <version source="saṃ. ni. 5.902" source-abbr="saṃ. ni. 5.902"/>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/s0403m1.mul14.xml</normativeSource>
+    <source>roman/tipitaka (mula)/suttapitaka/anguttaranikaya/pancakanipatapali/(15) 5. tikandakivaggo.xml</source>
+    <script>roman</script>
+    <directory>/tipitaka (mula)/suttapitaka/anguttaranikaya/pancakanipatapali</directory>
+    <basename>(15) 5. tikandakivaggo</basename>
+    <titlePath>(15) 5. Tikaṇḍakīvaggo - Pañcakanipātapāḷi - Aṅguttaranikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">(15) 5. Tikaṇḍakīvaggo</chapter>
     <subhead line="2">1. Avajānātisuttaṃ</subhead>
     <paragraph line="3" number="141"> ‘‘Pañcime <pageBreak edition="Vipassana Research Institut" number="2.0155" />, bhikkhave, puggalā santo saṃvijjamānā lokasmiṃ. Katame pañca? Datvā avajānāti, saṃvāsena avajānāti, <alternatives line="3" extra=" aṭṭhakathāya paṭhamasaṃvaṇṇanānurūpaṃ. pu. pa. 193 passitabbaṃ" separator="true"><alternative source-abbr="vri" source="vipassana research institut">ādheyyamukho</alternative><alternative source-abbr="sī." source="sri lanka">ādiyyamukho</alternative><alternative source-abbr="syā." source="thai">ādeyyamukho</alternative><alternative source-abbr="kaṃ." source="kaṃ.">ādeyyamukho</alternative><alternative source-abbr="pī." source="pali text society">ādiyamukho</alternative></alternatives>  hoti, lolo hoti, mando <alternatives line="13" extra="" separator="false"><alternative source-abbr="vri" source="vipassana research institut">momūho hoti</alternative><alternative source-abbr="sī." source="sri lanka">mando hoti momūho</alternative></alternatives> .</paragraph>

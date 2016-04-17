@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/abh02m.mul15.xml</normativeSource>
-    <archivePath>roman/tipitaka (mula)/abhidhammapitaka/vibhangapali/16. nanavibhango.xml</archivePath>
-    <baseFileName>16. nanavibhango</baseFileName>
-    <titlePath>16. Ñāṇavibhaṅgo - Vibhaṅgapāḷi - Abhidhammapiṭaka - Tipiṭaka (Mūla)</titlePath>
     <versions>
       <version source="vipassana research institut" source-abbr="vri"/>
       <version source="sri lanka" source-abbr="sī."/>
@@ -12,8 +8,14 @@
       <version source="sabbattha" source-abbr="sabbattha"/>
       <version source="thai" source-abbr="syā."/>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/abh02m.mul15.xml</normativeSource>
+    <source>roman/tipitaka (mula)/abhidhammapitaka/vibhangapali/16. nanavibhango.xml</source>
+    <script>roman</script>
+    <directory>/tipitaka (mula)/abhidhammapitaka/vibhangapali</directory>
+    <basename>16. nanavibhango</basename>
+    <titlePath>16. Ñāṇavibhaṅgo - Vibhaṅgapāḷi - Abhidhammapiṭaka - Tipiṭaka (Mūla)</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">16. Ñāṇavibhaṅgo</chapter>
     <subhead line="2">1. Ekakamātikā</subhead>
     <paragraph line="3" number="751"> Ekavidhena <pageBreak edition="Myanmar" number="0.0323" /><pageBreak edition="Pali Text Society" number="0.0306" /><pageBreak edition="Vipassana Research Institut" number="0.0348" /> ñāṇavatthu – pañca viññāṇā na hetū, ahetukā, hetuvippayuttā, sappaccayā, saṅkhatā, arūpā, lokiyā, sāsavā, saṃyojaniyā, ganthaniyā, oghaniyā, yoganiyā, nīvaraṇiyā, parāmaṭṭhā, upādāniyā, saṃkilesikā, abyākatā, sārammaṇā, acetasikā, vipākā, upādinnupādāniyā, asaṃkiliṭṭhasaṃkilesikā, na savitakkasavicārā, na avitakkavicāramattā, avitakkaavicārā, na pītisahagatā, neva dassanena na bhāvanāya pahātabbā, neva dassanena na bhāvanāya pahātabbahetukā, nevācayagāmināpacayagāmino, nevasekkhanāsekkhā <pageBreak edition="Pali Text Society" number="0.0307" />, parittā, kāmāvacarā, na rūpāvacarā, na arūpāvacarā, pariyāpannā, no apariyāpannā, aniyatā, aniyyānikā,</paragraph>

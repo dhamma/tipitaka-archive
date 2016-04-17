@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/e0601n.nrf0.xml</normativeSource>
-    <archivePath>roman/anya/buddha-vandana gantha-sangaho/namakkaratika/namakkarapali.xml</archivePath>
-    <baseFileName>namakkarapali</baseFileName>
-    <titlePath>Namakkārapāḷi - Namakkāraṭīkā - Buddha-vandanā gantha-saṅgaho - Anya</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/e0601n.nrf0.xml</normativeSource>
+    <source>roman/anya/buddha-vandana gantha-sangaho/namakkaratika/namakkarapali.xml</source>
+    <script>roman</script>
+    <directory>/anya/buddha-vandana gantha-sangaho/namakkaratika</directory>
+    <basename>namakkarapali</basename>
+    <titlePath>Namakkārapāḷi - Namakkāraṭīkā - Buddha-vandanā gantha-saṅgaho - Anya</titlePath>
   </metadata>
-  <content>
+<content>
     <centered line="1"> Namo tassa bhagavato arahato sammāsambuddhassa</centered>
     <chapter line="2">Namakkārapāḷi</chapter>
     <hangnum line="3" number="1"></hangnum>

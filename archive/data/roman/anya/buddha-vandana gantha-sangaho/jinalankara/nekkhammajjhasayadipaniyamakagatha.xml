@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/e0605n.nrf9.xml</normativeSource>
-    <archivePath>roman/anya/buddha-vandana gantha-sangaho/jinalankara/nekkhammajjhasayadipaniyamakagatha.xml</archivePath>
-    <baseFileName>nekkhammajjhasayadipaniyamakagatha</baseFileName>
-    <titlePath>Nekkhammajjhāsayadīpanīyamakagāthā - Jinālaṅkāra - Buddha-vandanā gantha-saṅgaho - Anya</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/e0605n.nrf9.xml</normativeSource>
+    <source>roman/anya/buddha-vandana gantha-sangaho/jinalankara/nekkhammajjhasayadipaniyamakagatha.xml</source>
+    <script>roman</script>
+    <directory>/anya/buddha-vandana gantha-sangaho/jinalankara</directory>
+    <basename>nekkhammajjhasayadipaniyamakagatha</basename>
+    <titlePath>Nekkhammajjhāsayadīpanīyamakagāthā - Jinālaṅkāra - Buddha-vandanā gantha-saṅgaho - Anya</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">Nekkhammajjhāsayadīpanīyamakagāthā</chapter>
     <centered line="2"> Namo tassa yato mahimato yassa tamo na</centered>
     <hangnum line="3" number="49"></hangnum>

@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/s0403m1.mul13.xml</normativeSource>
-    <archivePath>roman/tipitaka (mula)/suttapitaka/anguttaranikaya/pancakanipatapali/(14) 4. rajavaggo.xml</archivePath>
-    <baseFileName>(14) 4. rajavaggo</baseFileName>
-    <titlePath>(14) 4. Rājavaggo - Pañcakanipātapāḷi - Aṅguttaranikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
     <versions>
       <version source="vipassana research institut" source-abbr="vri"/>
       <version source="thai" source-abbr="syā."/>
@@ -15,8 +11,14 @@
       <version source="katthaci" source-abbr="katthaci"/>
       <version source="unknown" source-abbr="?"/>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/s0403m1.mul13.xml</normativeSource>
+    <source>roman/tipitaka (mula)/suttapitaka/anguttaranikaya/pancakanipatapali/(14) 4. rajavaggo.xml</source>
+    <script>roman</script>
+    <directory>/tipitaka (mula)/suttapitaka/anguttaranikaya/pancakanipatapali</directory>
+    <basename>(14) 4. rajavaggo</basename>
+    <titlePath>(14) 4. Rājavaggo - Pañcakanipātapāḷi - Aṅguttaranikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">(14) 4. Rājavaggo</chapter>
     <subhead line="2">1. Paṭhamacakkānuvattanasuttaṃ</subhead>
     <paragraph line="3" number="131"> ‘‘Pañcahi <pageBreak edition="Vipassana Research Institut" number="2.0140" />, bhikkhave, aṅgehi samannāgato rājā cakkavattī dhammeneva cakkaṃ <alternatives line="3" extra="" separator="false"><alternative source-abbr="vri" source="vipassana research institut">vatteti</alternative><alternative source-abbr="syā." source="thai">pavatteti</alternative><alternative source-abbr="pī." source="pali text society">pavatteti</alternative><alternative source-abbr="ka." source="cambodian">pavatteti</alternative></alternatives> ; taṃ hoti cakkaṃ <alternatives line="11" extra="" separator="false"><alternative source-abbr="vri" source="vipassana research institut">appaṭivattiyaṃ</alternative><alternative source-abbr="sī." source="sri lanka">appativattiyaṃ</alternative></alternatives> <pageBreak edition="Pali Text Society" number="3.0148" /> kenaci manussabhūtena paccatthikena pāṇinā.</paragraph>

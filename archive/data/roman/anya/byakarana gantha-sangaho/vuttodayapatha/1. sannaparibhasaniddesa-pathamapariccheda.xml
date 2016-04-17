@@ -1,16 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/e0808n.nrf0.xml</normativeSource>
-    <archivePath>roman/anya/byakarana gantha-sangaho/vuttodayapatha/1. sannaparibhasaniddesa-pathamapariccheda.xml</archivePath>
-    <baseFileName>1. sannaparibhasaniddesa-pathamapariccheda</baseFileName>
-    <titlePath>1. Saññāparibhāsāniddesa-paṭhamapariccheda - Vuttodayapāṭha - Byākaraṇa gantha-saṅgaho - Anya</titlePath>
     <versions>
       <version source="vipassana research institut" source-abbr="vri"/>
       <version source="cambodian" source-abbr="ka."/>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/e0808n.nrf0.xml</normativeSource>
+    <source>roman/anya/byakarana gantha-sangaho/vuttodayapatha/1. sannaparibhasaniddesa-pathamapariccheda.xml</source>
+    <script>roman</script>
+    <directory>/anya/byakarana gantha-sangaho/vuttodayapatha</directory>
+    <basename>1. sannaparibhasaniddesa-pathamapariccheda</basename>
+    <titlePath>1. Saññāparibhāsāniddesa-paṭhamapariccheda - Vuttodayapāṭha - Byākaraṇa gantha-saṅgaho - Anya</titlePath>
   </metadata>
-  <content>
+<content>
     <centered line="1">Namo tassa bhagavato arahato sammāsambuddhassa</centered>
     <book line="2">Vuttodayaṃ</book>
     <chapter line="3">1. Saññāparibhāsāniddesa-paṭhamapariccheda</chapter>

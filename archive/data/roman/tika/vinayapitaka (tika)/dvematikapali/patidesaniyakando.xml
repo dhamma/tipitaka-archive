@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/vin04t.nrf9.xml</normativeSource>
-    <archivePath>roman/tika/vinayapitaka (tika)/dvematikapali/patidesaniyakando.xml</archivePath>
-    <baseFileName>patidesaniyakando</baseFileName>
-    <titlePath>Pāṭidesanīyakaṇḍo - Dvemātikāpāḷi - Vinayapiṭaka (ṭīkā) - Tīkā</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/vin04t.nrf9.xml</normativeSource>
+    <source>roman/tika/vinayapitaka (tika)/dvematikapali/patidesaniyakando.xml</source>
+    <script>roman</script>
+    <directory>/tika/vinayapitaka (tika)/dvematikapali</directory>
+    <basename>patidesaniyakando</basename>
+    <titlePath>Pāṭidesanīyakaṇḍo - Dvemātikāpāḷi - Vinayapiṭaka (ṭīkā) - Tīkā</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">Pāṭidesanīyakaṇḍo</chapter>
     <subhead line="2">1. Paṭhamapāṭidesanīyasikkhāpadavaṇṇanā</subhead>
     <paragraph line="3">Pāṭidesanīyesu <pageBreak edition="Myanmar" number="0.0272" /><pageBreak edition="Vipassana Research Institut" number="0.0259" /> paṭhame <bold>antaragharaṃ paviṭṭhāyā</bold>ti vacanato sace tassā antarārāmādīsu ṭhatvāpi dadamānāya hatthato sayaṃ rathiyābyūhasiṅghāṭakagharānaṃ aññatarasmiṃ ṭhitopi gaṇhāti, doso natthi. Tassā pana rathiyādīsu ṭhatvā dadamānāya, rathiyādīsu vā, antarārāmādīsu vā ṭhatvāpi yaṃkiñci āmisaṃ ajjhoharaṇatthāya gaṇhato paṭiggahaṇe dukkaṭaṃ, ajjhohāre ajjhohāre pāṭidesanīyaṃ. Tassa desetabbākāro <bold>gārayhaṃ āvuso</bold>tiādinā nayena sikkhāpade dassitoyeva.</paragraph>

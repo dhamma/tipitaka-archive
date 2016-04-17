@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/vin11t.nrf35.xml</normativeSource>
-    <archivePath>roman/tika/vinayapitaka (tika)/vinayavinicchaya-tika/kammatthanavibhavanavidhanakathavannana.xml</archivePath>
-    <baseFileName>kammatthanavibhavanavidhanakathavannana</baseFileName>
-    <titlePath>Kammaṭṭhānavibhāvanāvidhānakathāvaṇṇanā - Vinayavinicchaya-ṭīkā - Vinayapiṭaka (ṭīkā) - Tīkā</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/vin11t.nrf35.xml</normativeSource>
+    <source>roman/tika/vinayapitaka (tika)/vinayavinicchaya-tika/kammatthanavibhavanavidhanakathavannana.xml</source>
+    <script>roman</script>
+    <directory>/tika/vinayapitaka (tika)/vinayavinicchaya-tika</directory>
+    <basename>kammatthanavibhavanavidhanakathavannana</basename>
+    <titlePath>Kammaṭṭhānavibhāvanāvidhānakathāvaṇṇanā - Vinayavinicchaya-ṭīkā - Vinayapiṭaka (ṭīkā) - Tīkā</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">Kammaṭṭhānavibhāvanāvidhānakathāvaṇṇanā</chapter>
     <paragraph line="2" number="3125"> ‘‘Ādimhi sīlaṃ dasseyya.</paragraph>
     <gatha2 line="3">Majjhe maggaṃ vibhāvaye;</gatha2>

@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/e1004n.nrf4.xml</normativeSource>
-    <archivePath>roman/anya/niti-gantha-sangaho/maharahaniti/itthikatha.xml</archivePath>
-    <baseFileName>itthikatha</baseFileName>
-    <titlePath>Itthikathā - Mahārahanīti - Nīti-gantha-saṅgaho - Anya</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/e1004n.nrf4.xml</normativeSource>
+    <source>roman/anya/niti-gantha-sangaho/maharahaniti/itthikatha.xml</source>
+    <script>roman</script>
+    <directory>/anya/niti-gantha-sangaho/maharahaniti</directory>
+    <basename>itthikatha</basename>
+    <titlePath>Itthikathā - Mahārahanīti - Nīti-gantha-saṅgaho - Anya</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">Itthikathā</chapter>
     <hangnum line="2" number="198"></hangnum>
     <gatha1 line="3"> Namātarā <pageBreak edition="Myanmar" number="0.0089" /> dhītuyā vāpi,</gatha1>

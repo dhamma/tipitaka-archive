@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/e1103n.nrf.xml</normativeSource>
-    <archivePath>roman/anya/pakinnaka-gantha-sangaho/vessantaragiti/vessantaragiti.xml</archivePath>
-    <baseFileName>vessantaragiti</baseFileName>
-    <titlePath>Vessantarāgīti - Vessantarāgīti - Pakiṇṇaka-gantha-saṅgaho - Anya</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/e1103n.nrf.xml</normativeSource>
+    <source>roman/anya/pakinnaka-gantha-sangaho/vessantaragiti/vessantaragiti.xml</source>
+    <script>roman</script>
+    <directory>/anya/pakinnaka-gantha-sangaho/vessantaragiti</directory>
+    <basename>vessantaragiti</basename>
+    <titlePath>Vessantarāgīti - Vessantarāgīti - Pakiṇṇaka-gantha-saṅgaho - Anya</titlePath>
   </metadata>
-  <content>
+<content>
     <centered line="1">Namo tassa bhagavato arahato sammāsambuddhassa.</centered>
     <chapter line="2">Vessantarāgīti</chapter>
     <paragraph line="3">[Ka]</paragraph>

@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/s0510m2.mul6.xml</normativeSource>
-    <archivePath>roman/tipitaka (mula)/suttapitaka/khuddakanikaya/apadanapali-2/49. pamsukulavaggo.xml</archivePath>
-    <baseFileName>49. pamsukulavaggo</baseFileName>
-    <titlePath>49. Paṃsukūlavaggo - Apadānapāḷi-2 - Khuddakanikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
     <versions>
       <version source="thai" source-abbr="syā."/>
       <version source="pali text society" source-abbr="pī."/>
@@ -13,8 +9,14 @@
       <version source="sri lanka" source-abbr="sī."/>
       <version source="sabbattha" source-abbr="sabbattha"/>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/s0510m2.mul6.xml</normativeSource>
+    <source>roman/tipitaka (mula)/suttapitaka/khuddakanikaya/apadanapali-2/49. pamsukulavaggo.xml</source>
+    <script>roman</script>
+    <directory>/tipitaka (mula)/suttapitaka/khuddakanikaya/apadanapali-2</directory>
+    <basename>49. pamsukulavaggo</basename>
+    <titlePath>49. Paṃsukūlavaggo - Apadānapāḷi-2 - Khuddakanikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">49. Paṃsukūlavaggo</chapter>
     <subhead line="2">1. Paṃsukūlasaññakattheraapadānaṃ</subhead>
     <hangnum line="3" number="1"></hangnum>

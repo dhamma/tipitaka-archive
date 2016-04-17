@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/vin04t.nrf8.xml</normativeSource>
-    <archivePath>roman/tika/vinayapitaka (tika)/dvematikapali/pacittiyakando.xml</archivePath>
-    <baseFileName>pacittiyakando</baseFileName>
-    <titlePath>Pācittiyakaṇḍo - Dvemātikāpāḷi - Vinayapiṭaka (ṭīkā) - Tīkā</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/vin04t.nrf8.xml</normativeSource>
+    <source>roman/tika/vinayapitaka (tika)/dvematikapali/pacittiyakando.xml</source>
+    <script>roman</script>
+    <directory>/tika/vinayapitaka (tika)/dvematikapali</directory>
+    <basename>pacittiyakando</basename>
+    <titlePath>Pācittiyakaṇḍo - Dvemātikāpāḷi - Vinayapiṭaka (ṭīkā) - Tīkā</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">Pācittiyakaṇḍo</chapter>
     <title line="2">1. Musāvādavaggo</title>
     <subhead line="3">1. Musāvādasikkhāpadavaṇṇanā</subhead>

@@ -1,17 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/s0511m.mul28.xml</normativeSource>
-    <archivePath>roman/tipitaka (mula)/suttapitaka/khuddakanikaya/buddhavamsapali/29. dhatubhajaniyakatha.xml</archivePath>
-    <baseFileName>29. dhatubhajaniyakatha</baseFileName>
-    <titlePath>29. Dhātubhājanīyakathā - Buddhavaṃsapāḷi - Khuddakanikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
     <versions>
       <version source="cambodian" source-abbr="ka."/>
       <version source="vipassana research institut" source-abbr="vri"/>
       <version source="thai" source-abbr="syā."/>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/s0511m.mul28.xml</normativeSource>
+    <source>roman/tipitaka (mula)/suttapitaka/khuddakanikaya/buddhavamsapali/29. dhatubhajaniyakatha.xml</source>
+    <script>roman</script>
+    <directory>/tipitaka (mula)/suttapitaka/khuddakanikaya/buddhavamsapali</directory>
+    <basename>29. dhatubhajaniyakatha</basename>
+    <titlePath>29. Dhātubhājanīyakathā - Buddhavaṃsapāḷi - Khuddakanikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">29. Dhātubhājanīyakathā</chapter>
     <hangnum line="2" number="1"></hangnum>
     <gatha1 line="3"> Mahāgotamo <pageBreak edition="Pali Text Society" number="0.0068" /> jinavaro, kusināramhi nibbuto;</gatha1>

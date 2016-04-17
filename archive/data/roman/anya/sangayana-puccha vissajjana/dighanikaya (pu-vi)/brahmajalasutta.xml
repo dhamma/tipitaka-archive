@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/e0901n.nrf1.xml</normativeSource>
-    <archivePath>roman/anya/sangayana-puccha vissajjana/dighanikaya (pu-vi)/brahmajalasutta.xml</archivePath>
-    <baseFileName>brahmajalasutta</baseFileName>
-    <titlePath>Brahmajālasutta - Dīghanikāya (pu-vi) - Saṅgāyana-puccha vissajjanā - Anya</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/e0901n.nrf1.xml</normativeSource>
+    <source>roman/anya/sangayana-puccha vissajjana/dighanikaya (pu-vi)/brahmajalasutta.xml</source>
+    <script>roman</script>
+    <directory>/anya/sangayana-puccha vissajjana/dighanikaya (pu-vi)</directory>
+    <basename>brahmajalasutta</basename>
+    <titlePath>Brahmajālasutta - Dīghanikāya (pu-vi) - Saṅgāyana-puccha vissajjanā - Anya</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">Brahmajālasutta</chapter>
     <paragraph line="2"><bold>Pucchā –</bold> sādhu <pageBreak edition="Myanmar" number="0.0004" /> sādhu āvuso mayampi dāni tatoyeva paṭṭhāya saṃgāyituṃ pubbakiccāni samārabhāma…, tenāvuso bhagavatā jānatā passatā arahatā sammāsambuddhena brahmajālasuttaṃ kattha bhāsitaṃ.</paragraph>
     <paragraph line="3"><bold>Vissajjanā –</bold> antarā ca bhante rājagahaṃ antarā ca nāḷandaṃ ambalaṭṭhikāyaṃ rājāgārake bhāsitaṃ.</paragraph>

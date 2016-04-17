@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/s0404m3.mul6.xml</normativeSource>
-    <archivePath>roman/tipitaka (mula)/suttapitaka/anguttaranikaya/dasakanipatapali/(7) 2. yamakavaggo.xml</archivePath>
-    <baseFileName>(7) 2. yamakavaggo</baseFileName>
-    <titlePath>(7) 2. Yamakavaggo - Dasakanipātapāḷi - Aṅguttaranikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
     <versions>
       <version source="vipassana research institut" source-abbr="vri"/>
       <version source="sri lanka" source-abbr="sī."/>
@@ -13,8 +9,14 @@
       <version source="kaṃ." source-abbr="kaṃ."/>
       <version source="pali text society" source-abbr="pī."/>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/s0404m3.mul6.xml</normativeSource>
+    <source>roman/tipitaka (mula)/suttapitaka/anguttaranikaya/dasakanipatapali/(7) 2. yamakavaggo.xml</source>
+    <script>roman</script>
+    <directory>/tipitaka (mula)/suttapitaka/anguttaranikaya/dasakanipatapali</directory>
+    <basename>(7) 2. yamakavaggo</basename>
+    <titlePath>(7) 2. Yamakavaggo - Dasakanipātapāḷi - Aṅguttaranikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">(7) 2. Yamakavaggo</chapter>
     <subhead line="2">1. Avijjāsuttaṃ</subhead>
     <paragraph line="3" number="61"> ‘‘Purimā <pageBreak edition="Myanmar" number="3.0346" /><pageBreak edition="Vipassana Research Institut" number="3.0094" /><pageBreak edition="Pali Text Society" number="5.0113" />, bhikkhave, koṭi na paññāyati avijjāya – ‘ito pubbe avijjā nāhosi, atha pacchā samabhavī’ti. Evañcetaṃ, bhikkhave, vuccati, atha ca pana paññāyati – ‘idappaccayā avijjā’ti.</paragraph>

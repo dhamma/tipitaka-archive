@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/abh05t.nrf5.xml</normativeSource>
-    <archivePath>roman/tika/abhidhammapitaka (tika)/pancapakarana-anutika/patthanapakarana-anutika.xml</archivePath>
-    <baseFileName>patthanapakarana-anutika</baseFileName>
-    <titlePath>Paṭṭhānapakaraṇa-anuṭīkā - Pañcapakaraṇa-anuṭīkā - Abhidhammapiṭaka (ṭīkā) - Tīkā</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/abh05t.nrf5.xml</normativeSource>
+    <source>roman/tika/abhidhammapitaka (tika)/pancapakarana-anutika/patthanapakarana-anutika.xml</source>
+    <script>roman</script>
+    <directory>/tika/abhidhammapitaka (tika)/pancapakarana-anutika</directory>
+    <basename>patthanapakarana-anutika</basename>
+    <titlePath>Paṭṭhānapakaraṇa-anuṭīkā - Pañcapakaraṇa-anuṭīkā - Abhidhammapiṭaka (ṭīkā) - Tīkā</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">Paṭṭhānapakaraṇa-anuṭīkā</chapter>
     <subhead line="2">Ganthārambhavaṇṇanā</subhead>
     <paragraph line="3"><bold>Kāmaguṇādīhī</bold>ti <pageBreak edition="Myanmar" number="0.0223" /><pageBreak edition="Vipassana Research Institut" number="0.0226" /> kāmaguṇajhānābhiññācittissariyādīhi. <bold>Laḷantī</bold>ti laḷitānubhavanavasena ramanti. <bold>Tesū</bold>ti kāmaguṇādīsu. <bold>Viharantī</bold>ti iriyāpathaparivattanādinā vattanti. <bold>Paccatthike</bold>ti bāhirabbhantarabhede amitte. <bold>Issariyaṃ</bold> tattha tattha ādhipateyyaṃ. <bold>Ṭhānaṃ</bold> seṭṭhisenāpatiyuvarājādiṭṭhānantaraṃ. <bold>Ādi</bold>-saddena parivāraparicchedādi saṅgayhati. <bold>Puññayogānubhāvappattāyā</bold>ti dānamayādipuññānubhāvādhigatāya samathavipassanābhāvanāsaṅkhātayogānubhāvādhigatāya ca. <bold>Jutiyā</bold>ti sarīrappabhāya ceva ñāṇappabhāya ca. Ettha ca deva-saddo yathā kīḷāvijigisāvohārajutigatiattho, evaṃ sattiabhitthavakamanatthopi hoti dhātusaddānaṃ anekatthabhāvatoti <bold>‘‘yadicchitanipphādane sakkontīti vā’’</bold>tiādi vuttaṃ.</paragraph>

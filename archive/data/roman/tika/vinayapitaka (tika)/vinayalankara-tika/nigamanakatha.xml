@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/vin08t.nrf35.xml</normativeSource>
-    <archivePath>roman/tika/vinayapitaka (tika)/vinayalankara-tika/nigamanakatha.xml</archivePath>
-    <baseFileName>nigamanakatha</baseFileName>
-    <titlePath>Nigamanakathā - Vinayālaṅkāra-ṭīkā - Vinayapiṭaka (ṭīkā) - Tīkā</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/vin08t.nrf35.xml</normativeSource>
+    <source>roman/tika/vinayapitaka (tika)/vinayalankara-tika/nigamanakatha.xml</source>
+    <script>roman</script>
+    <directory>/tika/vinayapitaka (tika)/vinayalankara-tika</directory>
+    <basename>nigamanakatha</basename>
+    <titlePath>Nigamanakathā - Vinayālaṅkāra-ṭīkā - Vinayapiṭaka (ṭīkā) - Tīkā</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">Nigamanakathā</chapter>
     <hangnum line="2" number="1"></hangnum>
     <gatha1 line="3"> Jambudīpatale <pageBreak edition="Myanmar" number="2.0432" /> ramme, marammavisaye sute;</gatha1>

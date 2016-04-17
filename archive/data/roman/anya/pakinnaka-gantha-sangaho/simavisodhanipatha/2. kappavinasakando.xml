@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/e1102n.nrf2.xml</normativeSource>
-    <archivePath>roman/anya/pakinnaka-gantha-sangaho/simavisodhanipatha/2. kappavinasakando.xml</archivePath>
-    <baseFileName>2. kappavinasakando</baseFileName>
-    <titlePath>2. Kappavināsakaṇḍo - Sīmavisodhanīpāṭha - Pakiṇṇaka-gantha-saṅgaho - Anya</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/e1102n.nrf2.xml</normativeSource>
+    <source>roman/anya/pakinnaka-gantha-sangaho/simavisodhanipatha/2. kappavinasakando.xml</source>
+    <script>roman</script>
+    <directory>/anya/pakinnaka-gantha-sangaho/simavisodhanipatha</directory>
+    <basename>2. kappavinasakando</basename>
+    <titlePath>2. Kappavināsakaṇḍo - Sīmavisodhanīpāṭha - Pakiṇṇaka-gantha-saṅgaho - Anya</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">2. Kappavināsakaṇḍo</chapter>
     <paragraph line="2">Idāni <bold>buddhuppādadullabhakathā</bold></paragraph>
     <gatha1 line="3">‘‘Buddho ca dullabho loke, saddhammasavanampi ca;</gatha1>

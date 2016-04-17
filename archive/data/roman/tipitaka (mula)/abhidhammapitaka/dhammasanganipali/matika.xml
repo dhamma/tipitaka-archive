@@ -1,18 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/abh01m.mul0.xml</normativeSource>
-    <archivePath>roman/tipitaka (mula)/abhidhammapitaka/dhammasanganipali/matika.xml</archivePath>
-    <baseFileName>matika</baseFileName>
-    <titlePath>Mātikā - Dhammasaṅgaṇīpāḷi - Abhidhammapiṭaka - Tipiṭaka (Mūla)</titlePath>
     <versions>
       <version source="vipassana research institut" source-abbr="vri"/>
       <version source="thai" source-abbr="syā."/>
       <version source="sri lanka" source-abbr="sī."/>
       <version source="cambodian" source-abbr="ka."/>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/abh01m.mul0.xml</normativeSource>
+    <source>roman/tipitaka (mula)/abhidhammapitaka/dhammasanganipali/matika.xml</source>
+    <script>roman</script>
+    <directory>/tipitaka (mula)/abhidhammapitaka/dhammasanganipali</directory>
+    <basename>matika</basename>
+    <titlePath>Mātikā - Dhammasaṅgaṇīpāḷi - Abhidhammapiṭaka - Tipiṭaka (Mūla)</titlePath>
   </metadata>
-  <content>
+<content>
     <centered line="1"> Namo tassa bhagavato arahato sammāsambuddhassa</centered>
     <nikaya line="2">Abhidhammapiṭake</nikaya>
     <book line="3">Dhammasaṅgaṇīpāḷi</book>

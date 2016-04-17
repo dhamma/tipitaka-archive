@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/s0518m.nrf2.xml</normativeSource>
-    <archivePath>roman/tipitaka (mula)/suttapitaka/khuddakanikaya/milindapanhapali/4. mendakapanho.xml</archivePath>
-    <baseFileName>4. mendakapanho</baseFileName>
-    <titlePath>4. Meṇḍakapañho - Milindapañhapāḷi - Khuddakanikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
     <versions>
       <version source="sri lanka" source-abbr="sī."/>
       <version source="pali text society" source-abbr="pī."/>
@@ -19,8 +15,14 @@
       <version source="kuṇālajātake" source-abbr="kuṇālajātake"/>
       <version source="ma. ni. 2.289" source-abbr="ma. ni. 2.289"/>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/s0518m.nrf2.xml</normativeSource>
+    <source>roman/tipitaka (mula)/suttapitaka/khuddakanikaya/milindapanhapali/4. mendakapanho.xml</source>
+    <script>roman</script>
+    <directory>/tipitaka (mula)/suttapitaka/khuddakanikaya/milindapanhapali</directory>
+    <basename>4. mendakapanho</basename>
+    <titlePath>4. Meṇḍakapañho - Milindapañhapāḷi - Khuddakanikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">4. Meṇḍakapañho</chapter>
     <title line="2">1. Iddhibalavaggo</title>
     <subhead line="3">1. Katādhikārasaphalapañho</subhead>

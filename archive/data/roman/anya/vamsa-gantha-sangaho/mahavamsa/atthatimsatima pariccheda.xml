@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/e0703n.nrf37.xml</normativeSource>
-    <archivePath>roman/anya/vamsa-gantha-sangaho/mahavamsa/atthatimsatima pariccheda.xml</archivePath>
-    <baseFileName>atthatimsatima pariccheda</baseFileName>
-    <titlePath>Aṭṭhatiṃsatima pariccheda - Mahāvaṃsa - Vaṃsa-gantha-saṅgaho - Anya</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/e0703n.nrf37.xml</normativeSource>
+    <source>roman/anya/vamsa-gantha-sangaho/mahavamsa/atthatimsatima pariccheda.xml</source>
+    <script>roman</script>
+    <directory>/anya/vamsa-gantha-sangaho/mahavamsa</directory>
+    <basename>atthatimsatima pariccheda</basename>
+    <titlePath>Aṭṭhatiṃsatima pariccheda - Mahāvaṃsa - Vaṃsa-gantha-saṅgaho - Anya</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">Aṭṭhatiṃsatima pariccheda</chapter>
     <subhead line="2">Dasarājako</subhead>
     <hangnum line="3" number="1"></hangnum>

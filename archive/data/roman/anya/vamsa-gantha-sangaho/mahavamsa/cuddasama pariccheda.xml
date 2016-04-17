@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/e0703n.nrf13.xml</normativeSource>
-    <archivePath>roman/anya/vamsa-gantha-sangaho/mahavamsa/cuddasama pariccheda.xml</archivePath>
-    <baseFileName>cuddasama pariccheda</baseFileName>
-    <titlePath>Cuddasama pariccheda - Mahāvaṃsa - Vaṃsa-gantha-saṅgaho - Anya</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/e0703n.nrf13.xml</normativeSource>
+    <source>roman/anya/vamsa-gantha-sangaho/mahavamsa/cuddasama pariccheda.xml</source>
+    <script>roman</script>
+    <directory>/anya/vamsa-gantha-sangaho/mahavamsa</directory>
+    <basename>cuddasama pariccheda</basename>
+    <titlePath>Cuddasama pariccheda - Mahāvaṃsa - Vaṃsa-gantha-saṅgaho - Anya</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">Cuddasama pariccheda</chapter>
     <subhead line="2">Nagarappavesano</subhead>
     <hangnum line="3" number="1"></hangnum>

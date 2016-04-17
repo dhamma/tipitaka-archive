@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/e0605n.nrf0.xml</normativeSource>
-    <archivePath>roman/anya/buddha-vandana gantha-sangaho/jinalankara/panamadipanigatha.xml</archivePath>
-    <baseFileName>panamadipanigatha</baseFileName>
-    <titlePath>Paṇāmadīpanīgāthā - Jinālaṅkāra - Buddha-vandanā gantha-saṅgaho - Anya</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/e0605n.nrf0.xml</normativeSource>
+    <source>roman/anya/buddha-vandana gantha-sangaho/jinalankara/panamadipanigatha.xml</source>
+    <script>roman</script>
+    <directory>/anya/buddha-vandana gantha-sangaho/jinalankara</directory>
+    <basename>panamadipanigatha</basename>
+    <titlePath>Paṇāmadīpanīgāthā - Jinālaṅkāra - Buddha-vandanā gantha-saṅgaho - Anya</titlePath>
   </metadata>
-  <content>
+<content>
     <centered line="1"> Namo tassa bhagavato arahato sammāsambuddhassa</centered>
     <book line="2">Jinālaṅkāra</book>
     <chapter line="3">Paṇāmadīpanīgāthā</chapter>

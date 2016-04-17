@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/vin02a4.att12.xml</normativeSource>
-    <archivePath>roman/atthakatha/vinayapitaka (atthakatha)/parivara-atthakatha/kathinabhedam.xml</archivePath>
-    <baseFileName>kathinabhedam</baseFileName>
-    <titlePath>Kathinabhedaṃ - Parivāra-aṭṭhakathā - Vinayapiṭaka (aṭṭhakathā) - Aṭṭhakathā</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/vin02a4.att12.xml</normativeSource>
+    <source>roman/atthakatha/vinayapitaka (atthakatha)/parivara-atthakatha/kathinabhedam.xml</source>
+    <script>roman</script>
+    <directory>/atthakatha/vinayapitaka (atthakatha)/parivara-atthakatha</directory>
+    <basename>kathinabhedam</basename>
+    <titlePath>Kathinabhedaṃ - Parivāra-aṭṭhakathā - Vinayapiṭaka (aṭṭhakathā) - Aṭṭhakathā</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">Kathinabhedaṃ</chapter>
     <subhead line="2">Kathinaatthatādivaṇṇanā</subhead>
     <paragraph line="3" number="403"> Kathine <pageBreak edition="Pali Text Society" number="7.1369" /><pageBreak edition="Myanmar" number="0.0212" /><pageBreak edition="Vipassana Research Institut" number="0.0215" /> – <bold>aṭṭha mātikā</bold>ti khandhake vuttā pakkamanantikādikā aṭṭha. <bold>Palibodhānisaṃsā</bold>pi pubbe vuttā eva.</paragraph>

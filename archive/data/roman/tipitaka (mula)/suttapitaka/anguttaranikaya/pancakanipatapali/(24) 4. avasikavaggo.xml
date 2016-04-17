@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/s0403m1.mul23.xml</normativeSource>
-    <archivePath>roman/tipitaka (mula)/suttapitaka/anguttaranikaya/pancakanipatapali/(24) 4. avasikavaggo.xml</archivePath>
-    <baseFileName>(24) 4. avasikavaggo</baseFileName>
-    <titlePath>(24) 4. Āvāsikavaggo - Pañcakanipātapāḷi - Aṅguttaranikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
     <versions>
       <version source="vipassana research institut" source-abbr="vri"/>
       <version source="cambodian" source-abbr="ka."/>
@@ -12,8 +8,14 @@
       <version source="thai" source-abbr="syā."/>
       <version source="katthaci" source-abbr="katthaci"/>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/s0403m1.mul23.xml</normativeSource>
+    <source>roman/tipitaka (mula)/suttapitaka/anguttaranikaya/pancakanipatapali/(24) 4. avasikavaggo.xml</source>
+    <script>roman</script>
+    <directory>/tipitaka (mula)/suttapitaka/anguttaranikaya/pancakanipatapali</directory>
+    <basename>(24) 4. avasikavaggo</basename>
+    <titlePath>(24) 4. Āvāsikavaggo - Pañcakanipātapāḷi - Aṅguttaranikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">(24) 4. Āvāsikavaggo</chapter>
     <subhead line="2">1. Āvāsikasuttaṃ</subhead>
     <paragraph line="3" number="231"> ‘‘Pañcahi <pageBreak edition="Thai" number="3.0290" /><pageBreak edition="Vipassana Research Institut" number="2.0242" />, bhikkhave, dhammehi samannāgato āvāsiko bhikkhu abhāvanīyo hoti. Katamehi pañcahi? Na ākappasampanno hoti na vattasampanno; na bahussuto hoti na sutadharo; na <alternatives line="3" extra="" separator="false"><alternative source-abbr="vri" source="vipassana research institut">paṭisallekhitā</alternative><alternative source-abbr="ka." source="cambodian">sallekhitā</alternative><alternative source-abbr="sī." source="sri lanka">sallekhitā</alternative></alternatives>  hoti na paṭisallānārāmo; na kalyāṇavāco hoti na kalyāṇavākkaraṇo; duppañño hoti jaḷo eḷamūgo. Imehi kho, bhikkhave, pañcahi dhammehi samannāgato āvāsiko bhikkhu abhāvanīyo hoti.</paragraph>

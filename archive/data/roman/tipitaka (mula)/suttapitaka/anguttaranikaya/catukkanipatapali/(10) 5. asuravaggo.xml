@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/s0402m3.mul9.xml</normativeSource>
-    <archivePath>roman/tipitaka (mula)/suttapitaka/anguttaranikaya/catukkanipatapali/(10) 5. asuravaggo.xml</archivePath>
-    <baseFileName>(10) 5. asuravaggo</baseFileName>
-    <titlePath>(10) 5. Asuravaggo - Catukkanipātapāḷi - Aṅguttaranikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
     <versions>
       <version source="vipassana research institut" source-abbr="vri"/>
       <version source="sri lanka" source-abbr="sī."/>
@@ -15,8 +11,14 @@
       <version source="saṃ. ni. 3.662-662" source-abbr="saṃ. ni. 3.662-662"/>
       <version source="unknown" source-abbr="?"/>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/s0402m3.mul9.xml</normativeSource>
+    <source>roman/tipitaka (mula)/suttapitaka/anguttaranikaya/catukkanipatapali/(10) 5. asuravaggo.xml</source>
+    <script>roman</script>
+    <directory>/tipitaka (mula)/suttapitaka/anguttaranikaya/catukkanipatapali</directory>
+    <basename>(10) 5. asuravaggo</basename>
+    <titlePath>(10) 5. Asuravaggo - Catukkanipātapāḷi - Aṅguttaranikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">(10) 5. Asuravaggo</chapter>
     <subhead line="2">1. Asurasuttaṃ</subhead>
     <paragraph line="3" number="91"> ‘‘Cattārome <pageBreak edition="Vipassana Research Institut" number="1.0106" />, bhikkhave, puggalā santo saṃvijjamānā lokasmiṃ. Katame cattāro? Asuro asuraparivāro, asuro devaparivāro, devo asuraparivāro, devo devaparivāro.</paragraph>

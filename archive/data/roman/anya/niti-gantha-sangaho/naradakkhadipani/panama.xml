@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/e1009n.nrf1.xml</normativeSource>
-    <archivePath>roman/anya/niti-gantha-sangaho/naradakkhadipani/panama.xml</archivePath>
-    <baseFileName>panama</baseFileName>
-    <titlePath>Paṇāma - Naradakkhadīpanī - Nīti-gantha-saṅgaho - Anya</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/e1009n.nrf1.xml</normativeSource>
+    <source>roman/anya/niti-gantha-sangaho/naradakkhadipani/panama.xml</source>
+    <script>roman</script>
+    <directory>/anya/niti-gantha-sangaho/naradakkhadipani</directory>
+    <basename>panama</basename>
+    <titlePath>Paṇāma - Naradakkhadīpanī - Nīti-gantha-saṅgaho - Anya</titlePath>
   </metadata>
-  <content>
+<content>
     <centered line="1"> Namo tassa bhagavato arahato sammāsambuddhassa</centered>
     <book line="2">Naradakkhadīpanī</book>
     <gatha1 line="3">Pālito <pageBreak edition="Myanmar" number="0.0008" /> yeva saddhammo,</gatha1>

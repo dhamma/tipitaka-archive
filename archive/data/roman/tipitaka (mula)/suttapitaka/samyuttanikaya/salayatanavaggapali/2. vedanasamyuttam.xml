@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/s0304m.mul1.xml</normativeSource>
-    <archivePath>roman/tipitaka (mula)/suttapitaka/samyuttanikaya/salayatanavaggapali/2. vedanasamyuttam.xml</archivePath>
-    <baseFileName>2. vedanasamyuttam</baseFileName>
-    <titlePath>2. Vedanāsaṃyuttaṃ - Saḷāyatanavaggapāḷi - Saṃyuttanikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
     <versions>
       <version source="vipassana research institut" source-abbr="vri"/>
       <version source="bahūsu" source-abbr="bahūsu"/>
@@ -15,8 +11,14 @@
       <version source="kaṃ." source-abbr="kaṃ."/>
       <version source="aṭṭha." source-abbr="aṭṭha."/>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/s0304m.mul1.xml</normativeSource>
+    <source>roman/tipitaka (mula)/suttapitaka/samyuttanikaya/salayatanavaggapali/2. vedanasamyuttam.xml</source>
+    <script>roman</script>
+    <directory>/tipitaka (mula)/suttapitaka/samyuttanikaya/salayatanavaggapali</directory>
+    <basename>2. vedanasamyuttam</basename>
+    <titlePath>2. Vedanāsaṃyuttaṃ - Saḷāyatanavaggapāḷi - Saṃyuttanikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">2. Vedanāsaṃyuttaṃ</chapter>
     <title line="2">1. Sagāthāvaggo</title>
     <subhead line="3">1. Samādhisuttaṃ</subhead>

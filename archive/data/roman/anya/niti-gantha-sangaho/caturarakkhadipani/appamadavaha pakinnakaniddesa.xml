@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/e1010n.nrf4.xml</normativeSource>
-    <archivePath>roman/anya/niti-gantha-sangaho/caturarakkhadipani/appamadavaha pakinnakaniddesa.xml</archivePath>
-    <baseFileName>appamadavaha pakinnakaniddesa</baseFileName>
-    <titlePath>Appamādāvaha pakiṇṇakaniddesa - Caturārakkhadīpanī - Nīti-gantha-saṅgaho - Anya</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/e1010n.nrf4.xml</normativeSource>
+    <source>roman/anya/niti-gantha-sangaho/caturarakkhadipani/appamadavaha pakinnakaniddesa.xml</source>
+    <script>roman</script>
+    <directory>/anya/niti-gantha-sangaho/caturarakkhadipani</directory>
+    <basename>appamadavaha pakinnakaniddesa</basename>
+    <titlePath>Appamādāvaha pakiṇṇakaniddesa - Caturārakkhadīpanī - Nīti-gantha-saṅgaho - Anya</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">Appamādāvaha pakiṇṇakaniddesa</chapter>
     <hangnum line="2" number="1"></hangnum>
     <gatha1 line="3"> Saṃvijjanti <pageBreak edition="Myanmar" number="0.0200" /> dha lokasmiṃ,</gatha1>

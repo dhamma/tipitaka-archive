@@ -1,16 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/vin02m4.mul17.xml</normativeSource>
-    <archivePath>roman/tipitaka (mula)/vinayapitaka/parivarapali/pancavaggo.xml</archivePath>
-    <baseFileName>pancavaggo</baseFileName>
-    <titlePath>Pañcavaggo - Parivārapāḷi - Vinayapiṭaka - Tipiṭaka (Mūla)</titlePath>
     <versions>
       <version source="vipassana research institut" source-abbr="vri"/>
       <version source="cambodian" source-abbr="ka."/>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/vin02m4.mul17.xml</normativeSource>
+    <source>roman/tipitaka (mula)/vinayapitaka/parivarapali/pancavaggo.xml</source>
+    <script>roman</script>
+    <directory>/tipitaka (mula)/vinayapitaka/parivarapali</directory>
+    <basename>pancavaggo</basename>
+    <titlePath>Pañcavaggo - Parivārapāḷi - Vinayapiṭaka - Tipiṭaka (Mūla)</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">Pañcavaggo</chapter>
     <subhead line="2">1. Kammavaggo</subhead>
     <paragraph line="3" number="482"> Cattāri <pageBreak edition="Thai" number="0.0538" /><pageBreak edition="Pali Text Society" number="5.0220" /><pageBreak edition="Myanmar" number="0.0380" /><pageBreak edition="Vipassana Research Institut" number="0.0406" /> kammāni. Apalokanakammaṃ, ñattikammaṃ, ñattidutiyakammaṃ, ñatticatutthakammaṃ – imāni cattāri kammāni. Katihākārehi vipajjanti? Imāni cattāri kammāni pañcahākārehi vipajjanti – vatthuto vā ñattito vā anussāvanato vā sīmato vā parisato vā.</paragraph>

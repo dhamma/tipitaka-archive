@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/e1214n.nrf1.xml</normativeSource>
-    <archivePath>roman/anya/sihala-gantha-sangaho/kaccayanadhatumanjusa/tudadayo avuddhika.xml</archivePath>
-    <baseFileName>tudadayo avuddhika</baseFileName>
-    <titlePath>Tudādayo avuddhikā - Kaccāyanadhātumañjusā - Sihaḷa-gantha-saṅgaho - Anya</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/e1214n.nrf1.xml</normativeSource>
+    <source>roman/anya/sihala-gantha-sangaho/kaccayanadhatumanjusa/tudadayo avuddhika.xml</source>
+    <script>roman</script>
+    <directory>/anya/sihala-gantha-sangaho/kaccayanadhatumanjusa</directory>
+    <basename>tudadayo avuddhika</basename>
+    <titlePath>Tudādayo avuddhikā - Kaccāyanadhātumañjusā - Sihaḷa-gantha-saṅgaho - Anya</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">Tudādayo avuddhikā</chapter>
     <hangnum line="2" number="84"></hangnum>
     <gatha1 line="3"> Tuda byathāyaṃ (tu) nuda kkhepaṇe likha lekhaṇe,</gatha1>

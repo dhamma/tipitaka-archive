@@ -1,18 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/vin02m4.mul16.xml</normativeSource>
-    <archivePath>roman/tipitaka (mula)/vinayapitaka/parivarapali/sedamocanagatha.xml</archivePath>
-    <baseFileName>sedamocanagatha</baseFileName>
-    <titlePath>Sedamocanagāthā - Parivārapāḷi - Vinayapiṭaka - Tipiṭaka (Mūla)</titlePath>
     <versions>
       <version source="cambodian" source-abbr="ka."/>
       <version source="vipassana research institut" source-abbr="vri"/>
       <version source="thai" source-abbr="syā."/>
       <version source="sri lanka" source-abbr="sī."/>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/vin02m4.mul16.xml</normativeSource>
+    <source>roman/tipitaka (mula)/vinayapitaka/parivarapali/sedamocanagatha.xml</source>
+    <script>roman</script>
+    <directory>/tipitaka (mula)/vinayapitaka/parivarapali</directory>
+    <basename>sedamocanagatha</basename>
+    <titlePath>Sedamocanagāthā - Parivārapāḷi - Vinayapiṭaka - Tipiṭaka (Mūla)</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">Sedamocanagāthā</chapter>
     <subhead line="2">1. Avippavāsapañhā</subhead>
     <hangnum line="3" number="479"></hangnum>

@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/s0203m.mul3.xml</normativeSource>
-    <archivePath>roman/tipitaka (mula)/suttapitaka/majjhimanikaya/uparipannasapali/4. vibhangavaggo.xml</archivePath>
-    <baseFileName>4. vibhangavaggo</baseFileName>
-    <titlePath>4. Vibhaṅgavaggo - Uparipaṇṇāsapāḷi - Majjhimanikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
     <versions>
       <version source="nettipāḷi" source-abbr="nettipāḷi"/>
       <version source="vipassana research institut" source-abbr="vri"/>
@@ -16,8 +12,14 @@
       <version source="ṭīkā" source-abbr="ṭīkā"/>
       <version source="unknown" source-abbr="?"/>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/s0203m.mul3.xml</normativeSource>
+    <source>roman/tipitaka (mula)/suttapitaka/majjhimanikaya/uparipannasapali/4. vibhangavaggo.xml</source>
+    <script>roman</script>
+    <directory>/tipitaka (mula)/suttapitaka/majjhimanikaya/uparipannasapali</directory>
+    <basename>4. vibhangavaggo</basename>
+    <titlePath>4. Vibhaṅgavaggo - Uparipaṇṇāsapāḷi - Majjhimanikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">4. Vibhaṅgavaggo</chapter>
     <subhead line="2">1. Bhaddekarattasuttaṃ</subhead>
     <paragraph line="3" number="272"> Evaṃ <pageBreak edition="Thai" number="3.0348" /><pageBreak edition="Myanmar" number="3.0226" /><pageBreak edition="Vipassana Research Institut" number="3.0227" /> me sutaṃ – ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. Tatra kho bhagavā bhikkhū āmantesi – ‘‘bhikkhavo’’ti. ‘‘Bhadante’’ti te bhikkhū bhagavato paccassosuṃ. Bhagavā etadavoca – ‘‘bhaddekarattassa vo, bhikkhave, uddesañca vibhaṅgañca desessāmi. Taṃ suṇātha, sādhukaṃ manasi karotha; bhāsissāmī’’ti. ‘‘Evaṃ, bhante’’ti kho te bhikkhū bhagavato paccassosuṃ. Bhagavā etadavoca –</paragraph>

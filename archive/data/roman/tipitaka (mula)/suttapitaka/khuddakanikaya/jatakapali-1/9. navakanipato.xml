@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/s0513m.mul8.xml</normativeSource>
-    <archivePath>roman/tipitaka (mula)/suttapitaka/khuddakanikaya/jatakapali-1/9. navakanipato.xml</archivePath>
-    <baseFileName>9. navakanipato</baseFileName>
-    <titlePath>9. Navakanipāto - Jātakapāḷi-1 - Khuddakanikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
     <versions>
       <version source="cambodian" source-abbr="ka."/>
       <version source="sri lanka" source-abbr="sī."/>
@@ -19,8 +15,14 @@
       <version source="niyya" source-abbr="niyya"/>
       <version source="unknown" source-abbr="?"/>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/s0513m.mul8.xml</normativeSource>
+    <source>roman/tipitaka (mula)/suttapitaka/khuddakanikaya/jatakapali-1/9. navakanipato.xml</source>
+    <script>roman</script>
+    <directory>/tipitaka (mula)/suttapitaka/khuddakanikaya/jatakapali-1</directory>
+    <basename>9. navakanipato</basename>
+    <titlePath>9. Navakanipāto - Jātakapāḷi-1 - Khuddakanikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">9. Navakanipāto</chapter>
     <hangnum line="2"></hangnum>
     <paragraph line="3"> 427. Gijjhajātakaṃ (1)</paragraph>

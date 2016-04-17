@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/vin02a4.att2.xml</normativeSource>
-    <archivePath>roman/atthakatha/vinayapitaka (atthakatha)/parivara-atthakatha/antarapeyyalam.xml</archivePath>
-    <baseFileName>antarapeyyalam</baseFileName>
-    <titlePath>Antarapeyyālaṃ - Parivāra-aṭṭhakathā - Vinayapiṭaka (aṭṭhakathā) - Aṭṭhakathā</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/vin02a4.att2.xml</normativeSource>
+    <source>roman/atthakatha/vinayapitaka (atthakatha)/parivara-atthakatha/antarapeyyalam.xml</source>
+    <script>roman</script>
+    <directory>/atthakatha/vinayapitaka (atthakatha)/parivara-atthakatha</directory>
+    <basename>antarapeyyalam</basename>
+    <titlePath>Antarapeyyālaṃ - Parivāra-aṭṭhakathā - Vinayapiṭaka (aṭṭhakathā) - Aṭṭhakathā</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">Antarapeyyālaṃ</chapter>
     <subhead line="2">Katipucchāvāravaṇṇanā</subhead>
     <paragraph line="3" number="271"> Idāni <pageBreak edition="Vipassana Research Institut" number="0.0152" /><pageBreak edition="Myanmar" number="0.0151" /> āpattiādikoṭṭhāsesu kosallajananatthaṃ ‘‘kati āpattiyo’’tiādinā nayena mātikaṃ ṭhapetvā niddesappaṭiniddesavasena vibhaṅgo vutto.</paragraph>

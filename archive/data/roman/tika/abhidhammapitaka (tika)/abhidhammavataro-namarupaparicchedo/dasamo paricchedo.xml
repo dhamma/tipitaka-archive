@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/abh06t.nrf51.xml</normativeSource>
-    <archivePath>roman/tika/abhidhammapitaka (tika)/abhidhammavataro-namarupaparicchedo/dasamo paricchedo.xml</archivePath>
-    <baseFileName>dasamo paricchedo</baseFileName>
-    <titlePath>Dasamo paricchedo - Abhidhammāvatāro-nāmarūpaparicchedo - Abhidhammapiṭaka (ṭīkā) - Tīkā</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/abh06t.nrf51.xml</normativeSource>
+    <source>roman/tika/abhidhammapitaka (tika)/abhidhammavataro-namarupaparicchedo/dasamo paricchedo.xml</source>
+    <script>roman</script>
+    <directory>/tika/abhidhammapitaka (tika)/abhidhammavataro-namarupaparicchedo</directory>
+    <basename>dasamo paricchedo</basename>
+    <titlePath>Dasamo paricchedo - Abhidhammāvatāro-nāmarūpaparicchedo - Abhidhammapiṭaka (ṭīkā) - Tīkā</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">Dasamo paricchedo</chapter>
     <subhead line="2">10. Pabhedakathā</subhead>
     <hangnum line="3" number="352"></hangnum>

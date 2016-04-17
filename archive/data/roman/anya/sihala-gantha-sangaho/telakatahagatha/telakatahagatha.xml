@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/e1209n.nrf.xml</normativeSource>
-    <archivePath>roman/anya/sihala-gantha-sangaho/telakatahagatha/telakatahagatha.xml</archivePath>
-    <baseFileName>telakatahagatha</baseFileName>
-    <titlePath>Telakaṭāhagāthā  - Telakaṭāhagāthā  - Sihaḷa-gantha-saṅgaho - Anya</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/e1209n.nrf.xml</normativeSource>
+    <source>roman/anya/sihala-gantha-sangaho/telakatahagatha/telakatahagatha.xml</source>
+    <script>roman</script>
+    <directory>/anya/sihala-gantha-sangaho/telakatahagatha</directory>
+    <basename>telakatahagatha</basename>
+    <titlePath>Telakaṭāhagāthā  - Telakaṭāhagāthā  - Sihaḷa-gantha-saṅgaho - Anya</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">Telakaṭāhagāthā <pageBreak edition="Vipassana Research Institut" number="0.0001" /></chapter>
     <centered line="2">Namo tassa bhagavato arahato sammāsambuddhassa</centered>
     <hangnum line="3" number="1"></hangnum>

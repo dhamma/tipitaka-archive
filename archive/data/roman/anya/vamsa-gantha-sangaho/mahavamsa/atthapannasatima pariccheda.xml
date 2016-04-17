@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/e0703n.nrf57.xml</normativeSource>
-    <archivePath>roman/anya/vamsa-gantha-sangaho/mahavamsa/atthapannasatima pariccheda.xml</archivePath>
-    <baseFileName>atthapannasatima pariccheda</baseFileName>
-    <titlePath>Aṭṭhapaññāsatima pariccheda - Mahāvaṃsa - Vaṃsa-gantha-saṅgaho - Anya</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/e0703n.nrf57.xml</normativeSource>
+    <source>roman/anya/vamsa-gantha-sangaho/mahavamsa/atthapannasatima pariccheda.xml</source>
+    <script>roman</script>
+    <directory>/anya/vamsa-gantha-sangaho/mahavamsa</directory>
+    <basename>atthapannasatima pariccheda</basename>
+    <titlePath>Aṭṭhapaññāsatima pariccheda - Mahāvaṃsa - Vaṃsa-gantha-saṅgaho - Anya</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">Aṭṭhapaññāsatima pariccheda</chapter>
     <subhead line="2">Lokasāsana saṃgahakaraṇo</subhead>
     <hangnum line="3" number="1"></hangnum>

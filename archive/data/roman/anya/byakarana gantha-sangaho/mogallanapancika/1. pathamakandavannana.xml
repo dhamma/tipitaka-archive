@@ -1,17 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/e0806n.nrf1.xml</normativeSource>
-    <archivePath>roman/anya/byakarana gantha-sangaho/mogallanapancika/1. pathamakandavannana.xml</archivePath>
-    <baseFileName>1. pathamakandavannana</baseFileName>
-    <titlePath>1. Paṭhamakaṇḍavaṇṇanā - Mogallānapañcikā - Byākaraṇa gantha-saṅgaho - Anya</titlePath>
     <versions>
       <version source="potthake" source-abbr="potthake"/>
       <version source="vipassana research institut" source-abbr="vri"/>
       <version source="jinindabuddhi" source-abbr="jinindabuddhi"/>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/e0806n.nrf1.xml</normativeSource>
+    <source>roman/anya/byakarana gantha-sangaho/mogallanapancika/1. pathamakandavannana.xml</source>
+    <script>roman</script>
+    <directory>/anya/byakarana gantha-sangaho/mogallanapancika</directory>
+    <basename>1. pathamakandavannana</basename>
+    <titlePath>1. Paṭhamakaṇḍavaṇṇanā - Mogallānapañcikā - Byākaraṇa gantha-saṅgaho - Anya</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">1. Paṭhamakaṇḍavaṇṇanā</chapter>
     <title line="2">Saññādhikāra</title>
     <subhead line="3">1. A ādayo</subhead>

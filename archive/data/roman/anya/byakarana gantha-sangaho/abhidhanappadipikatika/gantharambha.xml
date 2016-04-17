@@ -1,17 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/e0810n.nrf0.xml</normativeSource>
-    <archivePath>roman/anya/byakarana gantha-sangaho/abhidhanappadipikatika/gantharambha.xml</archivePath>
-    <baseFileName>gantharambha</baseFileName>
-    <titlePath>Ganthārambha - Abhidhānappadīpikāṭīkā - Byākaraṇa gantha-saṅgaho - Anya</titlePath>
     <versions>
       <version source="amara 1.5." source-abbr="amara 1.5."/>
       <version source="vipassana research institut" source-abbr="vri"/>
       <version source="amarakosacintāmaṇiṭīkā" source-abbr="amarakosacintāmaṇiṭīkā"/>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/e0810n.nrf0.xml</normativeSource>
+    <source>roman/anya/byakarana gantha-sangaho/abhidhanappadipikatika/gantharambha.xml</source>
+    <script>roman</script>
+    <directory>/anya/byakarana gantha-sangaho/abhidhanappadipikatika</directory>
+    <basename>gantharambha</basename>
+    <titlePath>Ganthārambha - Abhidhānappadīpikāṭīkā - Byākaraṇa gantha-saṅgaho - Anya</titlePath>
   </metadata>
-  <content>
+<content>
     <centered line="1">Namo tassa bhagavato arahato sammāsambuddhassa.</centered>
     <book line="2">Abhidhānappadīpikāṭīkā</book>
     <subsubhead line="3">Ganthārambha</subsubhead>

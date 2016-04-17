@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/e1214n.nrf2.xml</normativeSource>
-    <archivePath>roman/anya/sihala-gantha-sangaho/kaccayanadhatumanjusa/juhotya’dayo sadvibhavaluttavikarana.xml</archivePath>
-    <baseFileName>juhotya’dayo sadvibhavaluttavikarana</baseFileName>
-    <titlePath>Juhotyā’dayo sadvibhāvaluttavikaraṇā. - Kaccāyanadhātumañjusā - Sihaḷa-gantha-saṅgaho - Anya</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/e1214n.nrf2.xml</normativeSource>
+    <source>roman/anya/sihala-gantha-sangaho/kaccayanadhatumanjusa/juhotya’dayo sadvibhavaluttavikarana.xml</source>
+    <script>roman</script>
+    <directory>/anya/sihala-gantha-sangaho/kaccayanadhatumanjusa</directory>
+    <basename>juhotya’dayo sadvibhavaluttavikarana</basename>
+    <titlePath>Juhotyā’dayo sadvibhāvaluttavikaraṇā. - Kaccāyanadhātumañjusā - Sihaḷa-gantha-saṅgaho - Anya</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">Juhotyā’dayo <pageBreak edition="Vipassana Research Institut" number="0.0023" /> sadvibhāvaluttavikaraṇā.</chapter>
     <hangnum line="2" number="100"></hangnum>
     <gatha1 line="3"> Hū dāne’(pi ca) ādāne havyadāne (ca vattate,)</gatha1>

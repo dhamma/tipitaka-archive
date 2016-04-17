@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/vin12t.nrf3.xml</normativeSource>
-    <archivePath>roman/tika/vinayapitaka (tika)/pacityadiyojanapali/culavaggayojana.xml</archivePath>
-    <baseFileName>culavaggayojana</baseFileName>
-    <titlePath>Cūḷavaggayojanā - Pācityādiyojanāpāḷi - Vinayapiṭaka (ṭīkā) - Tīkā</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/vin12t.nrf3.xml</normativeSource>
+    <source>roman/tika/vinayapitaka (tika)/pacityadiyojanapali/culavaggayojana.xml</source>
+    <script>roman</script>
+    <directory>/tika/vinayapitaka (tika)/pacityadiyojanapali</directory>
+    <basename>culavaggayojana</basename>
+    <titlePath>Cūḷavaggayojanā - Pācityādiyojanāpāḷi - Vinayapiṭaka (ṭīkā) - Tīkā</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">Cūḷavaggayojanā</chapter>
     <gatha1 line="2">Mahāvaggakhandhakassevaṃ <pageBreak edition="Myanmar" number="0.0409" />, katvāna yojanānayaṃ;</gatha1>
     <gathalast line="3">Adhunā cūḷavaggassa, karissaṃ yojanānayaṃ.</gathalast>

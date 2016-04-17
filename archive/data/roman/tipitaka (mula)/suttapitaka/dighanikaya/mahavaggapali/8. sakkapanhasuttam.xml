@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/s0102m.mul7.xml</normativeSource>
-    <archivePath>roman/tipitaka (mula)/suttapitaka/dighanikaya/mahavaggapali/8. sakkapanhasuttam.xml</archivePath>
-    <baseFileName>8. sakkapanhasuttam</baseFileName>
-    <titlePath>8. Sakkapañhasuttaṃ - Mahāvaggapāḷi - Dīghanikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
     <versions>
       <version source="vipassana research institut" source-abbr="vri"/>
       <version source="thai" source-abbr="syā."/>
@@ -14,8 +10,14 @@
       <version source="kaṃ." source-abbr="kaṃ."/>
       <version source="unknown" source-abbr="?"/>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/s0102m.mul7.xml</normativeSource>
+    <source>roman/tipitaka (mula)/suttapitaka/dighanikaya/mahavaggapali/8. sakkapanhasuttam.xml</source>
+    <script>roman</script>
+    <directory>/tipitaka (mula)/suttapitaka/dighanikaya/mahavaggapali</directory>
+    <basename>8. sakkapanhasuttam</basename>
+    <titlePath>8. Sakkapañhasuttaṃ - Mahāvaggapāḷi - Dīghanikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">8. Sakkapañhasuttaṃ</chapter>
     <paragraph line="2" number="344"> Evaṃ <pageBreak edition="Thai" number="2.0298" /><pageBreak edition="Myanmar" number="2.0211" /><pageBreak edition="Vipassana Research Institut" number="2.0194" /><pageBreak edition="Pali Text Society" number="2.0264" /> me sutaṃ – ekaṃ samayaṃ bhagavā magadhesu viharati, pācīnato rājagahassa ambasaṇḍā nāma brāhmaṇagāmo, tassuttarato vediyake pabbate indasālaguhāyaṃ. Tena kho pana samayena sakkassa devānamindassa ussukkaṃ udapādi bhagavantaṃ dassanāya. Atha kho sakkassa devānamindassa etadahosi – ‘‘kahaṃ nu kho bhagavā etarahi viharati arahaṃ sammāsambuddho’’ti? Addasā kho sakko devānamindo bhagavantaṃ magadhesu viharantaṃ pācīnato rājagahassa ambasaṇḍā nāma brāhmaṇagāmo, tassuttarato vediyake pabbate indasālaguhāyaṃ. Disvāna deve tāvatiṃse āmantesi – ‘‘ayaṃ, mārisā, bhagavā magadhesu viharati, pācīnato rājagahassa ambasaṇḍā nāma brāhmaṇagāmo, tassuttarato vediyake pabbate indasālaguhāyaṃ. Yadi pana, mārisā, mayaṃ taṃ bhagavantaṃ dassanāya upasaṅkameyyāma arahantaṃ sammāsambuddha’’nti? ‘‘Evaṃ bhaddantavā’’ti kho devā tāvatiṃsā sakkassa devānamindassa paccassosuṃ.</paragraph>
     <paragraph line="3" number="345"> Atha kho sakko devānamindo pañcasikhaṃ <alternatives line="3" extra="" separator="false"><alternative source-abbr="vri" source="vipassana research institut">gandhabbadevaputtaṃ</alternative><alternative source-abbr="syā." source="thai">gandhabbaputtaṃ</alternative></alternatives>  āmantesi – ‘‘ayaṃ, tāta pañcasikha, bhagavā magadhesu viharati pācīnato rājagahassa ambasaṇḍā nāma brāhmaṇagāmo, tassuttarato vediyake pabbate indasālaguhāyaṃ. Yadi pana <pageBreak edition="Thai" number="2.0299" />, tāta pañcasikha, mayaṃ taṃ bhagavantaṃ dassanāya upasaṅkameyyāma arahantaṃ sammāsambuddha’’nti? ‘‘Evaṃ bhaddantavā’’ti kho pañcasikho gandhabbadevaputto sakkassa devānamindassa paṭissutvā beluvapaṇḍuvīṇaṃ ādāya sakkassa devānamindassa anucariyaṃ upāgami.</paragraph>

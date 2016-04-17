@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/e0605n.nrf3.xml</normativeSource>
-    <archivePath>roman/anya/buddha-vandana gantha-sangaho/jinalankara/anannasadharanadipanigatha.xml</archivePath>
-    <baseFileName>anannasadharanadipanigatha</baseFileName>
-    <titlePath>Anaññasādhāraṇadīpanīgāthā - Jinālaṅkāra - Buddha-vandanā gantha-saṅgaho - Anya</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/e0605n.nrf3.xml</normativeSource>
+    <source>roman/anya/buddha-vandana gantha-sangaho/jinalankara/anannasadharanadipanigatha.xml</source>
+    <script>roman</script>
+    <directory>/anya/buddha-vandana gantha-sangaho/jinalankara</directory>
+    <basename>anannasadharanadipanigatha</basename>
+    <titlePath>Anaññasādhāraṇadīpanīgāthā - Jinālaṅkāra - Buddha-vandanā gantha-saṅgaho - Anya</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">Anaññasādhāraṇadīpanīgāthā</chapter>
     <hangnum line="2" number="7"></hangnum>
     <gatha1 line="3"> Abbhuggatā yassa guṇā anantā,</gatha1>

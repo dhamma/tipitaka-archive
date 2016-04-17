@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/s0403m1.mul11.xml</normativeSource>
-    <archivePath>roman/tipitaka (mula)/suttapitaka/anguttaranikaya/pancakanipatapali/(12) 2. andhakavindavaggo.xml</archivePath>
-    <baseFileName>(12) 2. andhakavindavaggo</baseFileName>
-    <titlePath>(12) 2. Andhakavindavaggo - Pañcakanipātapāḷi - Aṅguttaranikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
     <versions>
       <version source="vipassana research institut" source-abbr="vri"/>
       <version source="sri lanka" source-abbr="sī."/>
@@ -14,8 +10,14 @@
       <version source="pali text society" source-abbr="pī."/>
       <version source="unknown" source-abbr="?"/>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/s0403m1.mul11.xml</normativeSource>
+    <source>roman/tipitaka (mula)/suttapitaka/anguttaranikaya/pancakanipatapali/(12) 2. andhakavindavaggo.xml</source>
+    <script>roman</script>
+    <directory>/tipitaka (mula)/suttapitaka/anguttaranikaya/pancakanipatapali</directory>
+    <basename>(12) 2. andhakavindavaggo</basename>
+    <titlePath>(12) 2. Andhakavindavaggo - Pañcakanipātapāḷi - Aṅguttaranikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">(12) 2. Andhakavindavaggo</chapter>
     <subhead line="2">1. Kulūpakasuttaṃ</subhead>
     <paragraph line="3" number="111"> ‘‘Pañcahi <pageBreak edition="Vipassana Research Institut" number="2.0128" />, bhikkhave, dhammehi samannāgato kulūpako bhikkhu kulesu appiyo ca hoti amanāpo ca agaru ca abhāvanīyo ca. Katamehi pañcahi? <alternatives line="3" extra="" separator="true"><alternative source-abbr="vri" source="vipassana research institut">Asanthavavissāsī</alternative><alternative source-abbr="sī." source="sri lanka">asanthutavissāsī</alternative><alternative source-abbr="ka." source="cambodian">asandhavavissāsī</alternative></alternatives>  ca hoti, anissaravikappī ca, <alternatives line="12" extra="" separator="true"><alternative source-abbr="vri" source="vipassana research institut">vissaṭṭhupasevī</alternative><alternative source-abbr="sī." source="sri lanka">viyatthupasevī</alternative><alternative source-abbr="syā." source="thai">byatthupasevī</alternative><alternative source-abbr="kaṃ." source="kaṃ.">byatthupasevī</alternative><alternative source-abbr="pī." source="pali text society">vyattūpasevī</alternative></alternatives>  ca, upakaṇṇakajappī ca, atiyācanako ca. Imehi kho, bhikkhave, pañcahi dhammehi samannāgato kulūpako bhikkhu kulesu appiyo ca hoti amanāpo ca agaru ca abhāvanīyo ca.</paragraph>

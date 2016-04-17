@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/e0701n.nrf0.xml</normativeSource>
-    <archivePath>roman/anya/vamsa-gantha-sangaho/culaganthavamsa/1. pitakattayaparicchedo.xml</archivePath>
-    <baseFileName>1. pitakattayaparicchedo</baseFileName>
-    <titlePath>1. Piṭakattayaparicchedo - Cūḷaganthavaṃsa - Vaṃsa-gantha-saṅgaho - Anya</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/e0701n.nrf0.xml</normativeSource>
+    <source>roman/anya/vamsa-gantha-sangaho/culaganthavamsa/1. pitakattayaparicchedo.xml</source>
+    <script>roman</script>
+    <directory>/anya/vamsa-gantha-sangaho/culaganthavamsa</directory>
+    <basename>1. pitakattayaparicchedo</basename>
+    <titlePath>1. Piṭakattayaparicchedo - Cūḷaganthavaṃsa - Vaṃsa-gantha-saṅgaho - Anya</titlePath>
   </metadata>
-  <content>
+<content>
     <centered line="1"> Namo tassa bhagavato arahato sammāsambuddhassa</centered>
     <book line="2">Cūḷaganthavaṃsapāḷi</book>
     <chapter line="3">1. Piṭakattayaparicchedo</chapter>

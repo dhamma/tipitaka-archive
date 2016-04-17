@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/e1009n.nrf4.xml</normativeSource>
-    <archivePath>roman/anya/niti-gantha-sangaho/naradakkhadipani/asisa.xml</archivePath>
-    <baseFileName>asisa</baseFileName>
-    <titlePath>Āsīsa - Naradakkhadīpanī - Nīti-gantha-saṅgaho - Anya</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/e1009n.nrf4.xml</normativeSource>
+    <source>roman/anya/niti-gantha-sangaho/naradakkhadipani/asisa.xml</source>
+    <script>roman</script>
+    <directory>/anya/niti-gantha-sangaho/naradakkhadipani</directory>
+    <basename>asisa</basename>
+    <titlePath>Āsīsa - Naradakkhadīpanī - Nīti-gantha-saṅgaho - Anya</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">Āsīsa</chapter>
     <hangnum line="2" number="3"></hangnum>
     <gatha1 line="3"> Bahussuto <pageBreak edition="Myanmar" number="0.0037" /> ca medhāvī,</gatha1>

@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/abh03m3.mul11.xml</normativeSource>
-    <archivePath>roman/tipitaka (mula)/abhidhammapitaka/kathavatthupali/4. catutthavaggo.xml</archivePath>
-    <baseFileName>4. catutthavaggo</baseFileName>
-    <titlePath>4. Catutthavaggo - Kathāvatthupāḷi - Abhidhammapiṭaka - Tipiṭaka (Mūla)</titlePath>
     <versions>
       <version source="thai" source-abbr="syā."/>
       <version source="kaṃ." source-abbr="kaṃ."/>
@@ -14,8 +10,14 @@
       <version source="saṃ. ni. 1.137" source-abbr="saṃ. ni. 1.137"/>
       <version source="sri lanka" source-abbr="sī."/>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/abh03m3.mul11.xml</normativeSource>
+    <source>roman/tipitaka (mula)/abhidhammapitaka/kathavatthupali/4. catutthavaggo.xml</source>
+    <script>roman</script>
+    <directory>/tipitaka (mula)/abhidhammapitaka/kathavatthupali</directory>
+    <basename>4. catutthavaggo</basename>
+    <titlePath>4. Catutthavaggo - Kathāvatthupāḷi - Abhidhammapiṭaka - Tipiṭaka (Mūla)</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">4. Catutthavaggo</chapter>
     <subhead line="2">(33) 1. Gihissa arahātikathā</subhead>
     <paragraph line="3" number="387"> Gihissa <pageBreak edition="Myanmar" number="0.0202" /><pageBreak edition="Pali Text Society" number="0.0267" /> arahāti? Āmantā. Atthi arahato gihisaṃyojananti? Na hevaṃ vattabbe…pe… natthi arahato gihisaṃyojananti? Āmantā. Hañci natthi arahato gihisaṃyojanaṃ, no ca vata re vattabbe – ‘‘gihissa arahā’’ti.</paragraph>

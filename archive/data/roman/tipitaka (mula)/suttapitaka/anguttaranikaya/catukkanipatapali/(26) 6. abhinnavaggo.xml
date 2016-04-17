@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/s0402m3.mul25.xml</normativeSource>
-    <archivePath>roman/tipitaka (mula)/suttapitaka/anguttaranikaya/catukkanipatapali/(26) 6. abhinnavaggo.xml</archivePath>
-    <baseFileName>(26) 6. abhinnavaggo</baseFileName>
-    <titlePath>(26) 6. Abhiññāvaggo - Catukkanipātapāḷi - Aṅguttaranikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
     <versions>
       <version source="vipassana research institut" source-abbr="vri"/>
       <version source="cambodian" source-abbr="ka."/>
@@ -13,8 +9,14 @@
       <version source="kaṃ." source-abbr="kaṃ."/>
       <version source="pali text society" source-abbr="pī."/>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/s0402m3.mul25.xml</normativeSource>
+    <source>roman/tipitaka (mula)/suttapitaka/anguttaranikaya/catukkanipatapali/(26) 6. abhinnavaggo.xml</source>
+    <script>roman</script>
+    <directory>/tipitaka (mula)/suttapitaka/anguttaranikaya/catukkanipatapali</directory>
+    <basename>(26) 6. abhinnavaggo</basename>
+    <titlePath>(26) 6. Abhiññāvaggo - Catukkanipātapāḷi - Aṅguttaranikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">(26) 6. Abhiññāvaggo</chapter>
     <subhead line="2">1. Abhiññāsuttaṃ</subhead>
     <paragraph line="3" number="254"> ‘‘Cattārome <pageBreak edition="Vipassana Research Institut" number="1.0283" /><pageBreak edition="Myanmar" number="1.0570" />, bhikkhave, dhammā. Katame cattāro? Atthi, bhikkhave, dhammā abhiññā pariññeyyā; atthi, bhikkhave <pageBreak edition="Pali Text Society" number="2.0247" />, dhammā abhiññā pahātabbā; atthi, bhikkhave, dhammā abhiññā bhāvetabbā; atthi, bhikkhave, dhammā abhiññā sacchikātabbā.</paragraph>

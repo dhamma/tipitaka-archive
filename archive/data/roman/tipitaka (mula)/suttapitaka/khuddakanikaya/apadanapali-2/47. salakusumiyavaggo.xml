@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/s0510m2.mul4.xml</normativeSource>
-    <archivePath>roman/tipitaka (mula)/suttapitaka/khuddakanikaya/apadanapali-2/47. salakusumiyavaggo.xml</archivePath>
-    <baseFileName>47. salakusumiyavaggo</baseFileName>
-    <titlePath>47. Sālakusumiyavaggo - Apadānapāḷi-2 - Khuddakanikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
     <versions>
       <version source="vipassana research institut" source-abbr="vri"/>
       <version source="thai" source-abbr="syā."/>
@@ -12,8 +8,14 @@
       <version source="pali text society" source-abbr="pī."/>
       <version source="cambodian" source-abbr="ka."/>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/s0510m2.mul4.xml</normativeSource>
+    <source>roman/tipitaka (mula)/suttapitaka/khuddakanikaya/apadanapali-2/47. salakusumiyavaggo.xml</source>
+    <script>roman</script>
+    <directory>/tipitaka (mula)/suttapitaka/khuddakanikaya/apadanapali-2</directory>
+    <basename>47. salakusumiyavaggo</basename>
+    <titlePath>47. Sālakusumiyavaggo - Apadānapāḷi-2 - Khuddakanikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">47. Sālakusumiyavaggo</chapter>
     <subhead line="2">1. Sālakusumiyattheraapadānaṃ</subhead>
     <hangnum line="3" number="1"></hangnum>

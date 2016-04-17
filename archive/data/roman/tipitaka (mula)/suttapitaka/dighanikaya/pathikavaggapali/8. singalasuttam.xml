@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/s0103m.mul7.xml</normativeSource>
-    <archivePath>roman/tipitaka (mula)/suttapitaka/dighanikaya/pathikavaggapali/8. singalasuttam.xml</archivePath>
-    <baseFileName>8. singalasuttam</baseFileName>
-    <titlePath>8. Siṅgālasuttaṃ - Pāthikavaggapāḷi - Dīghanikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
     <versions>
       <version source="vipassana research institut" source-abbr="vri"/>
       <version source="sri lanka" source-abbr="sī."/>
@@ -16,8 +12,14 @@
       <version source="sabbattha" source-abbr="sabbattha"/>
       <version source="bahūsu" source-abbr="bahūsu"/>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/s0103m.mul7.xml</normativeSource>
+    <source>roman/tipitaka (mula)/suttapitaka/dighanikaya/pathikavaggapali/8. singalasuttam.xml</source>
+    <script>roman</script>
+    <directory>/tipitaka (mula)/suttapitaka/dighanikaya/pathikavaggapali</directory>
+    <basename>8. singalasuttam</basename>
+    <titlePath>8. Siṅgālasuttaṃ - Pāthikavaggapāḷi - Dīghanikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">8. Siṅgālasuttaṃ</chapter>
     <paragraph line="2" number="242"> Evaṃ <pageBreak edition="Myanmar" number="3.0146" /><pageBreak edition="Pali Text Society" number="3.0180" /><pageBreak edition="Vipassana Research Institut" number="3.0136" /><pageBreak edition="Thai" number="3.0194" /> me sutaṃ – ekaṃ samayaṃ bhagavā rājagahe viharati veḷuvane kalandakanivāpe. Tena kho pana samayena <alternatives line="3" extra="" separator="false"><alternative source-abbr="vri" source="vipassana research institut">siṅgālako</alternative><alternative source-abbr="sī." source="sri lanka">sigālako</alternative></alternatives>  gahapatiputto kālasseva uṭṭhāya rājagahā nikkhamitvā allavattho allakeso pañjaliko <alternatives line="11" extra="" separator="false"><alternative source-abbr="vri" source="vipassana research institut">puthudisā</alternative><alternative source-abbr="sī." source="sri lanka">puthuddisā</alternative><alternative source-abbr="syā." source="thai">puthuddisā</alternative><alternative source-abbr="pī." source="pali text society">puthuddisā</alternative></alternatives>  namassati – puratthimaṃ disaṃ dakkhiṇaṃ disaṃ pacchimaṃ disaṃ uttaraṃ disaṃ heṭṭhimaṃ disaṃ uparimaṃ disaṃ.</paragraph>
     <paragraph line="3" number="243"> Atha kho bhagavā pubbaṇhasamayaṃ nivāsetvā pattacīvaramādāya rājagahaṃ piṇḍāya pāvisi. Addasā kho bhagavā siṅgālakaṃ gahapatiputtaṃ kālasseva vuṭṭhāya rājagahā nikkhamitvā allavatthaṃ allakesaṃ pañjalikaṃ puthudisā namassantaṃ – puratthimaṃ disaṃ dakkhiṇaṃ disaṃ pacchimaṃ disaṃ uttaraṃ disaṃ heṭṭhimaṃ disaṃ uparimaṃ disaṃ. Disvā siṅgālakaṃ gahapatiputtaṃ etadavoca – ‘‘kiṃ nu kho tvaṃ, gahapatiputta, kālasseva uṭṭhāya rājagahā nikkhamitvā allavattho allakeso pañjaliko puthudisā <pageBreak edition="Pali Text Society" number="3.0181" /> namassasi – puratthimaṃ disaṃ dakkhiṇaṃ disaṃ pacchimaṃ disaṃ uttaraṃ disaṃ heṭṭhimaṃ disaṃ uparimaṃ disa’’nti? ‘‘Pitā maṃ, bhante, kālaṃ karonto evaṃ avaca – ‘disā, tāta, namasseyyāsī’ti. So kho ahaṃ, bhante, pituvacanaṃ sakkaronto garuṃ karonto mānento pūjento kālasseva uṭṭhāya rājagahā nikkhamitvā allavattho allakeso pañjaliko puthudisā namassāmi – puratthimaṃ disaṃ dakkhiṇaṃ disaṃ pacchimaṃ disaṃ uttaraṃ disaṃ heṭṭhimaṃ disaṃ uparimaṃ <pageBreak edition="Thai" number="3.0195" /> disa’’nti.</paragraph>

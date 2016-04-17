@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/vin07t.nrf17.xml</normativeSource>
-    <archivePath>roman/tika/vinayapitaka (tika)/vimativinodani-tika/2. uposathakkhandhako.xml</archivePath>
-    <baseFileName>2. uposathakkhandhako</baseFileName>
-    <titlePath>2. Uposathakkhandhako - Vimativinodanī-ṭīkā - Vinayapiṭaka (ṭīkā) - Tīkā</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/vin07t.nrf17.xml</normativeSource>
+    <source>roman/tika/vinayapitaka (tika)/vimativinodani-tika/2. uposathakkhandhako.xml</source>
+    <script>roman</script>
+    <directory>/tika/vinayapitaka (tika)/vimativinodani-tika</directory>
+    <basename>2. uposathakkhandhako</basename>
+    <titlePath>2. Uposathakkhandhako - Vimativinodanī-ṭīkā - Vinayapiṭaka (ṭīkā) - Tīkā</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">2. Uposathakkhandhako</chapter>
     <subhead line="2">Sannipātānujānanādikathāvaṇṇanā</subhead>
     <paragraph line="3" number="132"> Uposathakkhandhake <pageBreak edition="Myanmar" number="2.0140" /><pageBreak edition="Vipassana Research Institut" number="2.0133" /> taranti otaranti etthāti <bold>titthaṃ,</bold> laddhi. <bold>Ito</bold>ti sāsanaladdhito.</paragraph>

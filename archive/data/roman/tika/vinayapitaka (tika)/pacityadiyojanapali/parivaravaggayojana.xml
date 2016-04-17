@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/vin12t.nrf4.xml</normativeSource>
-    <archivePath>roman/tika/vinayapitaka (tika)/pacityadiyojanapali/parivaravaggayojana.xml</archivePath>
-    <baseFileName>parivaravaggayojana</baseFileName>
-    <titlePath>Parivāravaggayojanā - Pācityādiyojanāpāḷi - Vinayapiṭaka (ṭīkā) - Tīkā</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/vin12t.nrf4.xml</normativeSource>
+    <source>roman/tika/vinayapitaka (tika)/pacityadiyojanapali/parivaravaggayojana.xml</source>
+    <script>roman</script>
+    <directory>/tika/vinayapitaka (tika)/pacityadiyojanapali</directory>
+    <basename>parivaravaggayojana</basename>
+    <titlePath>Parivāravaggayojanā - Pācityādiyojanāpāḷi - Vinayapiṭaka (ṭīkā) - Tīkā</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">Parivāravaggayojanā</chapter>
     <gatha1 line="2">Cūḷavaggakhandhakassevaṃ <pageBreak edition="Vipassana Research Institut" number="2.0181" /><pageBreak edition="Myanmar" number="0.0547" />, katvāna yojanānayaṃ;</gatha1>
     <gathalast line="3">Adhunā parivārassa, karissaṃ yojanānayaṃ.</gathalast>

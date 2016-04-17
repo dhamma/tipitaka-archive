@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/abh09t.nrf1.xml</normativeSource>
-    <archivePath>roman/tika/abhidhammapitaka (tika)/abhidhammamatikapali/2. vibhangamatika.xml</archivePath>
-    <baseFileName>2. vibhangamatika</baseFileName>
-    <titlePath>2. Vibhaṅgamātikā - Abhidhammamātikāpāḷi - Abhidhammapiṭaka (ṭīkā) - Tīkā</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/abh09t.nrf1.xml</normativeSource>
+    <source>roman/tika/abhidhammapitaka (tika)/abhidhammamatikapali/2. vibhangamatika.xml</source>
+    <script>roman</script>
+    <directory>/tika/abhidhammapitaka (tika)/abhidhammamatikapali</directory>
+    <basename>2. vibhangamatika</basename>
+    <titlePath>2. Vibhaṅgamātikā - Abhidhammamātikāpāḷi - Abhidhammapiṭaka (ṭīkā) - Tīkā</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">2. Vibhaṅgamātikā</chapter>
     <title line="2">Khandhavibhaṅgo</title>
     <paragraph line="3"><bold>Pañcakkhandhā</bold><pageBreak edition="Myanmar" number="0.0008" /> – (vibha. 1) rūpakkhandho vedanākkhandho saññākkhandho saṅkhārakkhandho viññāṇakkhandhoti. Khandhavibhaṅgaṃ.</paragraph>

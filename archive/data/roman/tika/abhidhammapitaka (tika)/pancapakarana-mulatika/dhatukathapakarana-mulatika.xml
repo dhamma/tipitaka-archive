@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/abh03t.tik0.xml</normativeSource>
-    <archivePath>roman/tika/abhidhammapitaka (tika)/pancapakarana-mulatika/dhatukathapakarana-mulatika.xml</archivePath>
-    <baseFileName>dhatukathapakarana-mulatika</baseFileName>
-    <titlePath>Dhātukathāpakaraṇa-mūlaṭīkā - Pañcapakaraṇa-mūlaṭīkā - Abhidhammapiṭaka (ṭīkā) - Tīkā</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/abh03t.tik0.xml</normativeSource>
+    <source>roman/tika/abhidhammapitaka (tika)/pancapakarana-mulatika/dhatukathapakarana-mulatika.xml</source>
+    <script>roman</script>
+    <directory>/tika/abhidhammapitaka (tika)/pancapakarana-mulatika</directory>
+    <basename>dhatukathapakarana-mulatika</basename>
+    <titlePath>Dhātukathāpakaraṇa-mūlaṭīkā - Pañcapakaraṇa-mūlaṭīkā - Abhidhammapiṭaka (ṭīkā) - Tīkā</titlePath>
   </metadata>
-  <content>
+<content>
     <centered line="1"> Namo tassa bhagavato arahato sammāsambuddhassa</centered>
     <nikaya line="2">Abhidhammapiṭake</nikaya>
     <book line="3">Pañcapakaraṇa-mūlaṭīkā</book>

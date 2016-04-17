@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/e1005n.nrf5.xml</normativeSource>
-    <archivePath>roman/anya/niti-gantha-sangaho/lokaniti/6. rajakando.xml</archivePath>
-    <baseFileName>6. rajakando</baseFileName>
-    <titlePath>6. Rājakaṇḍo - Lokanīti - Nīti-gantha-saṅgaho - Anya</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/e1005n.nrf5.xml</normativeSource>
+    <source>roman/anya/niti-gantha-sangaho/lokaniti/6. rajakando.xml</source>
+    <script>roman</script>
+    <directory>/anya/niti-gantha-sangaho/lokaniti</directory>
+    <basename>6. rajakando</basename>
+    <titlePath>6. Rājakaṇḍo - Lokanīti - Nīti-gantha-saṅgaho - Anya</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">6. Rājakaṇḍo</chapter>
     <hangnum line="2" number="112"></hangnum>
     <gatha1 line="3"> Ekayāmaṃ saye rājā,</gatha1>

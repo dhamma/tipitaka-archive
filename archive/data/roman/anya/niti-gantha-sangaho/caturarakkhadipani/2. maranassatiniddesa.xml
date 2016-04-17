@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/e1010n.nrf2.xml</normativeSource>
-    <archivePath>roman/anya/niti-gantha-sangaho/caturarakkhadipani/2. maranassatiniddesa.xml</archivePath>
-    <baseFileName>2. maranassatiniddesa</baseFileName>
-    <titlePath>2. Maraṇassatiniddesa - Caturārakkhadīpanī - Nīti-gantha-saṅgaho - Anya</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/e1010n.nrf2.xml</normativeSource>
+    <source>roman/anya/niti-gantha-sangaho/caturarakkhadipani/2. maranassatiniddesa.xml</source>
+    <script>roman</script>
+    <directory>/anya/niti-gantha-sangaho/caturarakkhadipani</directory>
+    <basename>2. maranassatiniddesa</basename>
+    <titlePath>2. Maraṇassatiniddesa - Caturārakkhadīpanī - Nīti-gantha-saṅgaho - Anya</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">2. Maraṇassatiniddesa</chapter>
     <hangnum line="2" number="1"></hangnum>
     <gatha1 line="3"> Maraṇassati <pageBreak edition="Myanmar" number="0.0023" /> micchanto, tāva buddhavaco suṇa;</gatha1>

@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/e0809n.nrf1.xml</normativeSource>
-    <archivePath>roman/anya/byakarana gantha-sangaho/abhidhanappadipikapatha/1. saggakanda.xml</archivePath>
-    <baseFileName>1. saggakanda</baseFileName>
-    <titlePath>1. Saggakaṇḍa - Abhidhānappadīpikāpāṭha - Byākaraṇa gantha-saṅgaho - Anya</titlePath>
     <versions>
       <version source="ṭīkā" source-abbr="ṭīkā"/>
       <version source="sri lanka" source-abbr="sī."/>
@@ -18,8 +14,14 @@
       <version source="katthaci, amarakose" source-abbr="katthaci, amarakose"/>
       <version source="bahūsu" source-abbr="bahūsu"/>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/e0809n.nrf1.xml</normativeSource>
+    <source>roman/anya/byakarana gantha-sangaho/abhidhanappadipikapatha/1. saggakanda.xml</source>
+    <script>roman</script>
+    <directory>/anya/byakarana gantha-sangaho/abhidhanappadipikapatha</directory>
+    <basename>1. saggakanda</basename>
+    <titlePath>1. Saggakaṇḍa - Abhidhānappadīpikāpāṭha - Byākaraṇa gantha-saṅgaho - Anya</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">1. Saggakaṇḍa</chapter>
     <hangnum line="2" number="1"></hangnum>
     <gatha1 line="3"> Buddho dasabalo satthā, sabbaññū dvipaduttamo;</gatha1>

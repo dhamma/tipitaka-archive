@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/e0812n.nrf1.xml</normativeSource>
-    <archivePath>roman/anya/byakarana gantha-sangaho/subodhalankaratika/2. dosapariharavabodhaparicchedavannana.xml</archivePath>
-    <baseFileName>2. dosapariharavabodhaparicchedavannana</baseFileName>
-    <titlePath>2. Dosaparihārāvabodhaparicchedavaṇṇanā - Subodhālaṅkāraṭīkā - Byākaraṇa gantha-saṅgaho - Anya</titlePath>
     <versions>
       <version source="vipassana research institut" source-abbr="vri"/>
       <version source="cambodian" source-abbr="ka."/>
@@ -12,8 +8,14 @@
       <version source="unknown" source-abbr="?"/>
       <version source="katvabodhinī" source-abbr="katvabodhinī"/>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/e0812n.nrf1.xml</normativeSource>
+    <source>roman/anya/byakarana gantha-sangaho/subodhalankaratika/2. dosapariharavabodhaparicchedavannana.xml</source>
+    <script>roman</script>
+    <directory>/anya/byakarana gantha-sangaho/subodhalankaratika</directory>
+    <basename>2. dosapariharavabodhaparicchedavannana</basename>
+    <titlePath>2. Dosaparihārāvabodhaparicchedavaṇṇanā - Subodhālaṅkāraṭīkā - Byākaraṇa gantha-saṅgaho - Anya</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">2. Dosaparihārāvabodhaparicchedavaṇṇanā</chapter>
     <hangnum line="2" number="68"></hangnum>
     <gatha1 line="3"><bold>Kadāci kavikosallā, virodho sakalopya’yaṃ;</bold></gatha1>

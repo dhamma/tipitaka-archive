@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/e1001n.nrf10.xml</normativeSource>
-    <archivePath>roman/anya/niti-gantha-sangaho/kavidappananiti/itthikanda.xml</archivePath>
-    <baseFileName>itthikanda</baseFileName>
-    <titlePath>Itthikaṇḍa - Kavidappaṇanīti - Nīti-gantha-saṅgaho - Anya</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/e1001n.nrf10.xml</normativeSource>
+    <source>roman/anya/niti-gantha-sangaho/kavidappananiti/itthikanda.xml</source>
+    <script>roman</script>
+    <directory>/anya/niti-gantha-sangaho/kavidappananiti</directory>
+    <basename>itthikanda</basename>
+    <titlePath>Itthikaṇḍa - Kavidappaṇanīti - Nīti-gantha-saṅgaho - Anya</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">Itthikaṇḍa</chapter>
     <hangnum line="2" number="295"></hangnum>
     <gatha1 line="3"> Āsā <pageBreak edition="Myanmar" number="0.0178" /> lokitthiyo nāma, velā tāsaṃ na vijjati;</gatha1>

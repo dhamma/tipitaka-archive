@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/s0403m1.mul10.xml</normativeSource>
-    <archivePath>roman/tipitaka (mula)/suttapitaka/anguttaranikaya/pancakanipatapali/(11) 1. phasuviharavaggo.xml</archivePath>
-    <baseFileName>(11) 1. phasuviharavaggo</baseFileName>
-    <titlePath>(11) 1. Phāsuvihāravaggo - Pañcakanipātapāḷi - Aṅguttaranikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
     <versions>
       <version source="vipassana research institut" source-abbr="vri"/>
       <version source="sri lanka" source-abbr="sī."/>
@@ -14,8 +10,14 @@
       <version source="cambodian" source-abbr="ka."/>
       <version source="unknown" source-abbr="?"/>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/s0403m1.mul10.xml</normativeSource>
+    <source>roman/tipitaka (mula)/suttapitaka/anguttaranikaya/pancakanipatapali/(11) 1. phasuviharavaggo.xml</source>
+    <script>roman</script>
+    <directory>/tipitaka (mula)/suttapitaka/anguttaranikaya/pancakanipatapali</directory>
+    <basename>(11) 1. phasuviharavaggo</basename>
+    <titlePath>(11) 1. Phāsuvihāravaggo - Pañcakanipātapāḷi - Aṅguttaranikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">(11) 1. Phāsuvihāravaggo</chapter>
     <subhead line="2">1. Sārajjasuttaṃ</subhead>
     <paragraph line="3" number="101"> ‘‘Pañcime <pageBreak edition="Thai" number="3.0145" /><pageBreak edition="Vipassana Research Institut" number="2.0119" /><pageBreak edition="Myanmar" number="2.0112" />, bhikkhave, sekhavesārajjakaraṇā dhammā. Katame pañca? Idha, bhikkhave, bhikkhu saddho hoti, sīlavā hoti, bahussuto hoti, āraddhavīriyo hoti, paññavā hoti.</paragraph>

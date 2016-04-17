@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/e1002n.nrf.xml</normativeSource>
-    <archivePath>roman/anya/niti-gantha-sangaho/nitimanjari/nitimanjari.xml</archivePath>
-    <baseFileName>nitimanjari</baseFileName>
-    <titlePath>Nītimañjarī - Nītimañjarī - Nīti-gantha-saṅgaho - Anya</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/e1002n.nrf.xml</normativeSource>
+    <source>roman/anya/niti-gantha-sangaho/nitimanjari/nitimanjari.xml</source>
+    <script>roman</script>
+    <directory>/anya/niti-gantha-sangaho/nitimanjari</directory>
+    <basename>nitimanjari</basename>
+    <titlePath>Nītimañjarī - Nītimañjarī - Nīti-gantha-saṅgaho - Anya</titlePath>
   </metadata>
-  <content>
+<content>
     <centered line="1"> Namo tassa bhagavato arahato sammāsambuddhassa</centered>
     <chapter line="2">Nītimañjarī</chapter>
     <hangnum line="3" number="1"></hangnum>

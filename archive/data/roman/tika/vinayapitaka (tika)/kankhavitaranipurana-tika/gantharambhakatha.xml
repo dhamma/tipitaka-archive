@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/vin09t.nrf0.xml</normativeSource>
-    <archivePath>roman/tika/vinayapitaka (tika)/kankhavitaranipurana-tika/gantharambhakatha.xml</archivePath>
-    <baseFileName>gantharambhakatha</baseFileName>
-    <titlePath>Ganthārambhakathā - Kaṅkhāvitaraṇīpurāṇa-ṭīkā - Vinayapiṭaka (ṭīkā) - Tīkā</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/vin09t.nrf0.xml</normativeSource>
+    <source>roman/tika/vinayapitaka (tika)/kankhavitaranipurana-tika/gantharambhakatha.xml</source>
+    <script>roman</script>
+    <directory>/tika/vinayapitaka (tika)/kankhavitaranipurana-tika</directory>
+    <basename>gantharambhakatha</basename>
+    <titlePath>Ganthārambhakathā - Kaṅkhāvitaraṇīpurāṇa-ṭīkā - Vinayapiṭaka (ṭīkā) - Tīkā</titlePath>
   </metadata>
-  <content>
+<content>
     <centered line="1"> Namo tassa bhagavato arahato sammāsambuddhassa</centered>
     <book line="2">Kaṅkhāvitaraṇīpurāṇa-ṭīkā</book>
     <subsubhead line="3">Ganthārambhakathā</subsubhead>

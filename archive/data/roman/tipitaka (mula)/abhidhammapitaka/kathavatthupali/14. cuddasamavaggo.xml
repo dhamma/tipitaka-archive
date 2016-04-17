@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/abh03m3.mul21.xml</normativeSource>
-    <archivePath>roman/tipitaka (mula)/abhidhammapitaka/kathavatthupali/14. cuddasamavaggo.xml</archivePath>
-    <baseFileName>14. cuddasamavaggo</baseFileName>
-    <titlePath>14. Cuddasamavaggo - Kathāvatthupāḷi - Abhidhammapiṭaka - Tipiṭaka (Mūla)</titlePath>
     <versions>
       <version source="vipassana research institut" source-abbr="vri"/>
       <version source="sri lanka" source-abbr="sī."/>
@@ -18,8 +14,14 @@
       <version source="ma. ni. 2.194" source-abbr="ma. ni. 2.194"/>
       <version source="ma. ni. 2.104" source-abbr="ma. ni. 2.104"/>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/abh03m3.mul21.xml</normativeSource>
+    <source>roman/tipitaka (mula)/abhidhammapitaka/kathavatthupali/14. cuddasamavaggo.xml</source>
+    <script>roman</script>
+    <directory>/tipitaka (mula)/abhidhammapitaka/kathavatthupali</directory>
+    <basename>14. cuddasamavaggo</basename>
+    <titlePath>14. Cuddasamavaggo - Kathāvatthupāḷi - Abhidhammapiṭaka - Tipiṭaka (Mūla)</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">14. Cuddasamavaggo</chapter>
     <subhead line="2">(136) 1. Kusalākusalapaṭisandahanakathā</subhead>
     <paragraph line="3" number="686"> Akusalamūlaṃ <pageBreak edition="Myanmar" number="0.0356" /><pageBreak edition="Pali Text Society" number="0.0491" /><pageBreak edition="Vipassana Research Institut" number="0.0396" /> paṭisandahati kusalamūlanti? Āmantā. Yā akusalassa uppādāya āvaṭṭanā…pe… paṇidhi, sāva kusalassa uppādāya āvaṭṭanā…pe… paṇidhīti? Na hevaṃ vattabbe…pe….</paragraph>

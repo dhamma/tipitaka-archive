@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/vin04t.nrf1.xml</normativeSource>
-    <archivePath>roman/tika/vinayapitaka (tika)/dvematikapali/bhikkhunipatimokkhapali.xml</archivePath>
-    <baseFileName>bhikkhunipatimokkhapali</baseFileName>
-    <titlePath>Bhikkhunīpātimokkhapāḷi - Dvemātikāpāḷi - Vinayapiṭaka (ṭīkā) - Tīkā</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/vin04t.nrf1.xml</normativeSource>
+    <source>roman/tika/vinayapitaka (tika)/dvematikapali/bhikkhunipatimokkhapali.xml</source>
+    <script>roman</script>
+    <directory>/tika/vinayapitaka (tika)/dvematikapali</directory>
+    <basename>bhikkhunipatimokkhapali</basename>
+    <titlePath>Bhikkhunīpātimokkhapāḷi - Dvemātikāpāḷi - Vinayapiṭaka (ṭīkā) - Tīkā</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">Bhikkhunīpātimokkhapāḷi</chapter>
     <centered line="2">Pubbakaraṇaṃ-4</centered>
     <gatha1 line="3">Sammajjanī <pageBreak edition="Myanmar" number="0.0037" /><pageBreak edition="Vipassana Research Institut" number="0.0041" /> padīpo ca, udakaṃ āsanena ca;</gatha1>

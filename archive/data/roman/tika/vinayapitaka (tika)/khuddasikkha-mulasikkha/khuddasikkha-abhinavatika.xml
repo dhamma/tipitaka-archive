@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/vin13t.nrf2.xml</normativeSource>
-    <archivePath>roman/tika/vinayapitaka (tika)/khuddasikkha-mulasikkha/khuddasikkha-abhinavatika.xml</archivePath>
-    <baseFileName>khuddasikkha-abhinavatika</baseFileName>
-    <titlePath>Khuddasikkhā-abhinavaṭīkā - Khuddasikkhā-mūlasikkhā - Vinayapiṭaka (ṭīkā) - Tīkā</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/vin13t.nrf2.xml</normativeSource>
+    <source>roman/tika/vinayapitaka (tika)/khuddasikkha-mulasikkha/khuddasikkha-abhinavatika.xml</source>
+    <script>roman</script>
+    <directory>/tika/vinayapitaka (tika)/khuddasikkha-mulasikkha</directory>
+    <basename>khuddasikkha-abhinavatika</basename>
+    <titlePath>Khuddasikkhā-abhinavaṭīkā - Khuddasikkhā-mūlasikkhā - Vinayapiṭaka (ṭīkā) - Tīkā</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">Khuddasikkhā-abhinavaṭīkā</chapter>
     <subsubhead line="2">Ganthārambhakathā</subsubhead>
     <gatha1 line="3">Tilokatilakaṃ <pageBreak edition="Vipassana Research Institut" number="0.0211" /><pageBreak edition="Myanmar" number="0.0237" /> vande, saddhammāmatanimmitaṃ;</gatha1>

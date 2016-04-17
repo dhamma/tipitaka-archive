@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/vin02t.tik45.xml</normativeSource>
-    <archivePath>roman/tika/vinayapitaka (tika)/saratthadipani-tika-3/aparadutiyagathasanganikam.xml</archivePath>
-    <baseFileName>aparadutiyagathasanganikam</baseFileName>
-    <titlePath>Aparadutiyagāthāsaṅgaṇikaṃ - Sāratthadīpanī-ṭīkā-3 - Vinayapiṭaka (ṭīkā) - Tīkā</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/vin02t.tik45.xml</normativeSource>
+    <source>roman/tika/vinayapitaka (tika)/saratthadipani-tika-3/aparadutiyagathasanganikam.xml</source>
+    <script>roman</script>
+    <directory>/tika/vinayapitaka (tika)/saratthadipani-tika-3</directory>
+    <basename>aparadutiyagathasanganikam</basename>
+    <titlePath>Aparadutiyagāthāsaṅgaṇikaṃ - Sāratthadīpanī-ṭīkā-3 - Vinayapiṭaka (ṭīkā) - Tīkā</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">Aparadutiyagāthāsaṅgaṇikaṃ</chapter>
     <subhead line="2">Kāyikādiāpattivaṇṇanā</subhead>
     <paragraph line="3" number="474"> Vinaye garukā <bold>vinayagarukā</bold>. Kiñcāpi idaṃ dvīsu gāthāsu āgataṃ, aññehi pana missetvā vuttabhāvato nānākaraṇaṃ paccetabbaṃ.</paragraph>

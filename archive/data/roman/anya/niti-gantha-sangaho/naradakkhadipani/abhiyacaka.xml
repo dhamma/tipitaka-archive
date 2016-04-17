@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/e1009n.nrf5.xml</normativeSource>
-    <archivePath>roman/anya/niti-gantha-sangaho/naradakkhadipani/abhiyacaka.xml</archivePath>
-    <baseFileName>abhiyacaka</baseFileName>
-    <titlePath>Abhiyācaka - Naradakkhadīpanī - Nīti-gantha-saṅgaho - Anya</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/e1009n.nrf5.xml</normativeSource>
+    <source>roman/anya/niti-gantha-sangaho/naradakkhadipani/abhiyacaka.xml</source>
+    <script>roman</script>
+    <directory>/anya/niti-gantha-sangaho/naradakkhadipani</directory>
+    <basename>abhiyacaka</basename>
+    <titlePath>Abhiyācaka - Naradakkhadīpanī - Nīti-gantha-saṅgaho - Anya</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">Abhiyācaka</chapter>
     <hangnum line="2" number="4"></hangnum>
     <gatha1 line="3"> Dhamma-saṅghaṃ <pageBreak edition="Myanmar" number="0.0038" /> vanditvāna,</gatha1>

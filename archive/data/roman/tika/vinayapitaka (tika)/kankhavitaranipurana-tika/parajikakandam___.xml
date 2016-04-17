@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/vin09t.nrf21.xml</normativeSource>
-    <archivePath>roman/tika/vinayapitaka (tika)/kankhavitaranipurana-tika/parajikakandam___.xml</archivePath>
-    <baseFileName>parajikakandam___</baseFileName>
-    <titlePath>Pārājikakaṇḍaṃ - Kaṅkhāvitaraṇīpurāṇa-ṭīkā - Vinayapiṭaka (ṭīkā) - Tīkā</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/vin09t.nrf21.xml</normativeSource>
+    <source>roman/tika/vinayapitaka (tika)/kankhavitaranipurana-tika/parajikakandam___.xml</source>
+    <script>roman</script>
+    <directory>/tika/vinayapitaka (tika)/kankhavitaranipurana-tika</directory>
+    <basename>parajikakandam___</basename>
+    <titlePath>Pārājikakaṇḍaṃ - Kaṅkhāvitaraṇīpurāṇa-ṭīkā - Vinayapiṭaka (ṭīkā) - Tīkā</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">Pārājikakaṇḍaṃ</chapter>
     <paragraph line="2">Nātho <pageBreak edition="Myanmar" number="0.0451" /><pageBreak edition="Vipassana Research Institut" number="0.0415" /> bhikkhunīnaṃ hitatthāya yaṃ pātimokkhaṃ pakāsayīti sambandho. Tattha <bold>pakāsayī</bold>ti desayi, paññāpayīti attho.</paragraph>
     <title line="3">Sādhāraṇapārājikaṃ</title>

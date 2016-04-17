@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/e1208n.nrf.xml</normativeSource>
-    <archivePath>roman/anya/sihala-gantha-sangaho/jinavamsadipam/jinavamsadipam.xml</archivePath>
-    <baseFileName>jinavamsadipam</baseFileName>
-    <titlePath>Jinavaṃsadīpaṃ  - Jinavaṃsadīpaṃ  - Sihaḷa-gantha-saṅgaho - Anya</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/e1208n.nrf.xml</normativeSource>
+    <source>roman/anya/sihala-gantha-sangaho/jinavamsadipam/jinavamsadipam.xml</source>
+    <script>roman</script>
+    <directory>/anya/sihala-gantha-sangaho/jinavamsadipam</directory>
+    <basename>jinavamsadipam</basename>
+    <titlePath>Jinavaṃsadīpaṃ  - Jinavaṃsadīpaṃ  - Sihaḷa-gantha-saṅgaho - Anya</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">Jinavaṃsadīpaṃ <pageBreak edition="Vipassana Research Institut" number="0.0001" /></chapter>
     <centered line="2">Namo tassa bhagavato arahato sammāsambuddhassa</centered>
     <hangnum line="3" number="1"></hangnum>

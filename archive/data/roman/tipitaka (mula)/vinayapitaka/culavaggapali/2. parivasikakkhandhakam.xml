@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/vin02m3.mul1.xml</normativeSource>
-    <archivePath>roman/tipitaka (mula)/vinayapitaka/culavaggapali/2. parivasikakkhandhakam.xml</archivePath>
-    <baseFileName>2. parivasikakkhandhakam</baseFileName>
-    <titlePath>2. Pārivāsikakkhandhakaṃ - Cūḷavaggapāḷi - Vinayapiṭaka - Tipiṭaka (Mūla)</titlePath>
     <versions>
       <version source="vipassana research institut" source-abbr="vri"/>
       <version source="cambodian" source-abbr="ka."/>
@@ -15,8 +11,14 @@
       <version source="sri lanka" source-abbr="sī."/>
       <version source="itipi" source-abbr="itipi"/>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/vin02m3.mul1.xml</normativeSource>
+    <source>roman/tipitaka (mula)/vinayapitaka/culavaggapali/2. parivasikakkhandhakam.xml</source>
+    <script>roman</script>
+    <directory>/tipitaka (mula)/vinayapitaka/culavaggapali</directory>
+    <basename>2. parivasikakkhandhakam</basename>
+    <titlePath>2. Pārivāsikakkhandhakaṃ - Cūḷavaggapāḷi - Vinayapiṭaka - Tipiṭaka (Mūla)</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">2. Pārivāsikakkhandhakaṃ</chapter>
     <subhead line="2">1. Pārivāsikavattaṃ</subhead>
     <paragraph line="3" number="75"> Tena <pageBreak edition="Thai" number="1.0128" /><pageBreak edition="Pali Text Society" number="2.0031" /><pageBreak edition="Myanmar" number="0.0082" /><pageBreak edition="Vipassana Research Institut" number="0.0077" /> samayena buddho bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena pārivāsikā bhikkhū sādiyanti pakatattānaṃ bhikkhūnaṃ abhivādanaṃ, paccuṭṭhānaṃ, añjalikammaṃ, sāmīcikammaṃ, āsanābhihāraṃ, seyyābhihāraṃ, pādodakaṃ pādapīṭhaṃ, pādakathalikaṃ, pattacīvarapaṭiggahaṇaṃ, nahāne piṭṭhiparikammaṃ. Ye te bhikkhū appicchā…pe… te ujjhāyanti khiyyanti vipācenti – ‘‘kathañhi nāma pārivāsikā bhikkhū sādiyissanti pakatattānaṃ bhikkhūnaṃ abhivādanaṃ, paccuṭṭhānaṃ, añjalikammaṃ, sāmīcikammaṃ, āsanābhihāraṃ, seyyābhihāraṃ, pādodakaṃ pādapīṭhaṃ, pādakathalikaṃ, pattacīvarapaṭiggahaṇaṃ, nahāne piṭṭhiparikamma’’nti! Atha kho te bhikkhū bhagavato etamatthaṃ ārocesuṃ.</paragraph>

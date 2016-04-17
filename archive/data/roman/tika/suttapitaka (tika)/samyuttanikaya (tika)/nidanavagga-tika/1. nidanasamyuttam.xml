@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/s0302t.tik0.xml</normativeSource>
-    <archivePath>roman/tika/suttapitaka (tika)/samyuttanikaya (tika)/nidanavagga-tika/1. nidanasamyuttam.xml</archivePath>
-    <baseFileName>1. nidanasamyuttam</baseFileName>
-    <titlePath>1. Nidānasaṃyuttaṃ - Nidānavagga-ṭīkā - Saṃyuttanikāya (ṭīkā) - Suttapiṭaka (ṭīkā) - Tīkā</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/s0302t.tik0.xml</normativeSource>
+    <source>roman/tika/suttapitaka (tika)/samyuttanikaya (tika)/nidanavagga-tika/1. nidanasamyuttam.xml</source>
+    <script>roman</script>
+    <directory>/tika/suttapitaka (tika)/samyuttanikaya (tika)/nidanavagga-tika</directory>
+    <basename>1. nidanasamyuttam</basename>
+    <titlePath>1. Nidānasaṃyuttaṃ - Nidānavagga-ṭīkā - Saṃyuttanikāya (ṭīkā) - Suttapiṭaka (ṭīkā) - Tīkā</titlePath>
   </metadata>
-  <content>
+<content>
     <centered line="1"> Namo tassa bhagavato arahato sammāsambuddhassa</centered>
     <nikaya line="2">Saṃyuttanikāye</nikaya>
     <book line="3">Nidānavaggaṭīkā</book>

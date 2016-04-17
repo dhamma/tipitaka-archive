@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/vin04t.nrf2.xml</normativeSource>
-    <archivePath>roman/tika/vinayapitaka (tika)/dvematikapali/kankhavitarani-atthakatha.xml</archivePath>
-    <baseFileName>kankhavitarani-atthakatha</baseFileName>
-    <titlePath>Kaṅkhāvitaraṇī-aṭṭhakathā - Dvemātikāpāḷi - Vinayapiṭaka (ṭīkā) - Tīkā</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/vin04t.nrf2.xml</normativeSource>
+    <source>roman/tika/vinayapitaka (tika)/dvematikapali/kankhavitarani-atthakatha.xml</source>
+    <script>roman</script>
+    <directory>/tika/vinayapitaka (tika)/dvematikapali</directory>
+    <basename>kankhavitarani-atthakatha</basename>
+    <titlePath>Kaṅkhāvitaraṇī-aṭṭhakathā - Dvemātikāpāḷi - Vinayapiṭaka (ṭīkā) - Tīkā</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">Kaṅkhāvitaraṇī-aṭṭhakathā</chapter>
     <subsubhead line="2">Ganthārambhakathā</subsubhead>
     <gatha1 line="3">Buddhaṃ <pageBreak edition="Pali Text Society" number="0.0001" /><pageBreak edition="Myanmar" number="0.0083" /><pageBreak edition="Vipassana Research Institut" number="0.0091" /> dhammañca saṅghañca, vippasannena cetasā;</gatha1>

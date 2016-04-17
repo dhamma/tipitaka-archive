@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/vin04t.nrf7.xml</normativeSource>
-    <archivePath>roman/tika/vinayapitaka (tika)/dvematikapali/nissaggiyakando.xml</archivePath>
-    <baseFileName>nissaggiyakando</baseFileName>
-    <titlePath>Nissaggiyakaṇḍo - Dvemātikāpāḷi - Vinayapiṭaka (ṭīkā) - Tīkā</titlePath>
     <versions>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/vin04t.nrf7.xml</normativeSource>
+    <source>roman/tika/vinayapitaka (tika)/dvematikapali/nissaggiyakando.xml</source>
+    <script>roman</script>
+    <directory>/tika/vinayapitaka (tika)/dvematikapali</directory>
+    <basename>nissaggiyakando</basename>
+    <titlePath>Nissaggiyakaṇḍo - Dvemātikāpāḷi - Vinayapiṭaka (ṭīkā) - Tīkā</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">Nissaggiyakaṇḍo</chapter>
     <paragraph line="2">Ito paraṃ pana <bold>ime kho panā</bold>tiādi sabbattha vuttanayeneva veditabbaṃ.</paragraph>
     <title line="3">1. Cīvaravaggo</title>

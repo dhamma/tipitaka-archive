@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/s0503m.mul6.xml</normativeSource>
-    <archivePath>roman/tipitaka (mula)/suttapitaka/khuddakanikaya/udanapali/7. culavaggo.xml</archivePath>
-    <baseFileName>7. culavaggo</baseFileName>
-    <titlePath>7. Cūḷavaggo - Udānapāḷi - Khuddakanikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
     <versions>
       <version source="vipassana research institut" source-abbr="vri"/>
       <version source="unknown" source-abbr="?"/>
@@ -14,8 +10,14 @@
       <version source="cambodian" source-abbr="ka."/>
       <version source="sabbattha" source-abbr="sabbattha"/>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/s0503m.mul6.xml</normativeSource>
+    <source>roman/tipitaka (mula)/suttapitaka/khuddakanikaya/udanapali/7. culavaggo.xml</source>
+    <script>roman</script>
+    <directory>/tipitaka (mula)/suttapitaka/khuddakanikaya/udanapali</directory>
+    <basename>7. culavaggo</basename>
+    <titlePath>7. Cūḷavaggo - Udānapāḷi - Khuddakanikāya - Suttapiṭaka - Tipiṭaka (Mūla)</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">7. Cūḷavaggo</chapter>
     <subhead line="2">1. Paṭhamalakuṇḍakabhaddiyasuttaṃ</subhead>
     <paragraph line="3" number="61"> Evaṃ <pageBreak edition="Myanmar" number="0.0170" /><pageBreak edition="Pali Text Society" number="0.0074" /> me sutaṃ – ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena āyasmā sāriputto āyasmantaṃ lakuṇḍakabhaddiyaṃ anekapariyāyena dhammiyā kathāya sandasseti <alternatives line="3" extra="" separator="false"><alternative source-abbr="vri" source="vipassana research institut">samādapeti</alternative><alternative source-abbr="?" source="unknown">samādāpeti</alternative></alternatives>  samuttejeti sampahaṃseti.</paragraph>

@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
   <metadata>
-    <normativeSource>http://tipitaka.org/romn/cscd/abh03m3.mul15.xml</normativeSource>
-    <archivePath>roman/tipitaka (mula)/abhidhammapitaka/kathavatthupali/8. atthamavaggo.xml</archivePath>
-    <baseFileName>8. atthamavaggo</baseFileName>
-    <titlePath>8. Aṭṭhamavaggo - Kathāvatthupāḷi - Abhidhammapiṭaka - Tipiṭaka (Mūla)</titlePath>
     <versions>
       <version source="vipassana research institut" source-abbr="vri"/>
       <version source="sri lanka" source-abbr="sī."/>
@@ -16,8 +12,14 @@
       <version source="saṃ. ni. 2.25" source-abbr="saṃ. ni. 2.25"/>
       <version source="ma. ni. 3.300" source-abbr="ma. ni. 3.300"/>
     </versions>
+    <normativeSource>http://tipitaka.org/romn/cscd/abh03m3.mul15.xml</normativeSource>
+    <source>roman/tipitaka (mula)/abhidhammapitaka/kathavatthupali/8. atthamavaggo.xml</source>
+    <script>roman</script>
+    <directory>/tipitaka (mula)/abhidhammapitaka/kathavatthupali</directory>
+    <basename>8. atthamavaggo</basename>
+    <titlePath>8. Aṭṭhamavaggo - Kathāvatthupāḷi - Abhidhammapiṭaka - Tipiṭaka (Mūla)</titlePath>
   </metadata>
-  <content>
+<content>
     <chapter line="1">8. Aṭṭhamavaggo</chapter>
     <subhead line="2">(73) 1. Chagatikathā</subhead>
     <paragraph line="3" number="503"> Cha <pageBreak edition="Pali Text Society" number="0.0360" /> gatiyoti? Āmantā. Nanu pañca gatiyo vuttā bhagavatā – nirayo, tiracchānayoni, pettivisayo, manussā, devāti <note>ma. ni. 1.153</note>? Āmantā. Hañci pañca gatiyo vuttā bhagavatā – nirayo, tiracchānayoni, pettivisayo, manussā, devā; no ca vata re vattabbe – ‘‘cha gatiyo’’ti.</paragraph>
