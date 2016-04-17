@@ -118,7 +118,7 @@ public class XmlBuilder
   }
 
   public LegacyBuilder appendTitle(Map<String, String> breadCrumbs) throws IOException {
-    state.append("<titlePath>");
+    state.appendIndent("<titlePath>");
     boolean first = true;
     List<String> parts = new LinkedList<>(breadCrumbs.values());
     Collections.reverse(parts);
@@ -133,7 +133,7 @@ public class XmlBuilder
         state.append(part);
       }
     }
-    state.append("</titlePath>");
+    state.appendEnd("</titlePath>").outdent();
     return this;
   }
 

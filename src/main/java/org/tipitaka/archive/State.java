@@ -9,6 +9,7 @@ import org.tipitaka.archive.Notes.Note;
 /**
  * Created by cmeier on 3/6/16.
  */
+// TODO separate into State and NGState
 class State
 {
   private String indent = "";

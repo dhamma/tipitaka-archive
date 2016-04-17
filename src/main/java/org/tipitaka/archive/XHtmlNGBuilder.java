@@ -3,11 +3,14 @@ package org.tipitaka.archive;
 import java.io.IOException;
 import java.io.OutputStreamWriter;
 import java.io.Writer;
+import java.util.Collections;
 import java.util.LinkedHashMap;
 import java.util.LinkedList;
 import java.util.List;
 import java.util.Map;
 import java.util.Map.Entry;
+
+import org.tipitaka.archive.Notes.Version;
 
 /**
  * Created by cmeier on 4/1/16.
@@ -17,6 +20,10 @@ public class XHtmlNGBuilder
 {
 
   public static final String VRI = "vri";
+
+  public static final String ALL = "all";
+
+  public static final String ALL_VERSIONS_ANNOTATED = "all versions annotated";
 
   private String script;
 
@@ -40,9 +47,7 @@ public class XHtmlNGBuilder
 
   private String source;
 
-  private String extra;
-
-  private boolean first;
+  private Alternative alternative;
 
   static public class BuilderFactory
       extends NGBuilderFactory {
@@ -62,13 +67,15 @@ public class XHtmlNGBuilder
   }
   static public void main(String... args) throws Exception {
     BuilderFactory factory = new BuilderFactory();
-    NGVisitor visitor = new NGVisitor(factory);
+    NGVisitor visitor = new DirectoryNGVisitor(factory);
+    visitor.accept(new OutputStreamWriter(System.out), "/roman/tipitaka (mula)/vinayapitaka/parajikapali/index.html", null);
+    visitor.accept(new OutputStreamWriter(System.out), "/roman/tipitaka (mula)/vinayapitaka/index.html", null);
     String file =
         //"/tipitaka (mula)/vinayapitaka/parajikapali/veranjakandam";
         "/tipitaka (mula)/vinayapitaka/pacittiyapali/5. pacittiyakandam";
     //"/tipitaka (mula)/vinayapitaka/parajikapali/1. parajikakandam";
     // "/tipitaka (mula)/vinayapitaka/parajikapali/2. sanghadisesakandam";
-    visitor.accept(new OutputStreamWriter(System.out), "roman" + file + ".html", null);
+   // visitor.accept(new OutputStreamWriter(System.out), "roman" + file + ".html", null);
   }
 
   public XHtmlNGBuilder(Writer writer, NGBuilderFactory factory) {
@@ -79,15 +86,10 @@ public class XHtmlNGBuilder
     state.appendIndent("<div class=\"").append(clazz).append("\">");
     String lineNumber = state.nextNumber();
     state.append("<a class=\"line-number\" name=\"line").append(lineNumber).append("\" href=\"")
-  //      .append("/").append(state.builder.script.name)
-    //    .append(state.builder.path)
       .append("#line").append(lineNumber).append("\">")
         .append(lineNumber).append("</a>");
     if (number != null) {
-      //isAnchor = true;
       state.append("<a class=\"bold\" name=\"para").append(number).append("\" href=\"")
-        //  .append("/").append(state.builder.script.name)
-          //.append(state.builder.path)
           .append("#para").append(number).append("\">").append(number).append(".").append("</a>");
     }
     omit = false;
@@ -101,7 +103,7 @@ public class XHtmlNGBuilder
   @Override
   public void init(final String extension, final String version) throws IOException {
     this.extension = extension;
-    this.current = version == null ? VRI : version;
+    this.current = version;
   }
 
   @Override
@@ -159,18 +161,51 @@ public class XHtmlNGBuilder
 
     state.appendIndent("<meta name=\"basename\" content=\"").append(basename).appendEnd("\" />");
     state.appendIndent("<meta name=\"extension\" content=\"").append(extension.substring(1)).appendEnd("\" />");
+    state.appendIndent("<meta name=\"version\" content=\"")
+        .append(current == null ? Version.VIPASSANA_RESEARCH_INSTITUT.getName() : current).appendEnd("\" />");
     state.appendIndent("<meta name=\"fullpath\" content=\"/").append(script)
-        .append(dir).append("/").append(basename).append(extension).appendEnd("\" />");
+        .append(dir).append("/").append(basename).append(extension);
+    if (current != null) {
+      state.append("?version=").append(current);
+    }
+    state.appendEnd("\" />");
   }
 
   @Override
   public void title(final String title) throws IOException {
-    state.appendIndent("<link rel=\"stylesheet\" href=\"/").append(script).appendEnd("/style.css\" />")
-      .appendIndent("<title>").append(title).appendEnd("</title>");
+    if (current != null) {
+      state.appendLine("<meta name=\"robots\" content=\"noindex, nofollow\" />")
+          .appendIndent("<link rel=\"canonical\" href=\"http://www.tipitaka.de/")
+          .append(script).append(file).append(extension).appendEnd("\" />");
+    }
+    state.appendIndent("<link rel=\"stylesheet\" href=\"/").append(script).appendEnd("/style.css\" />");
+    state.appendIndent("<title>");
+    if (title == null) {
+      boolean first = true;
+      List<String> parts = new LinkedList<>(breadCrumbs.values());
+      Collections.reverse(parts);
+      for (String part : parts) {
+        if (part != null) {
+          if (first) {
+            first = false;
+          }
+          else {
+            state.append(" - ");
+          }
+          state.append(part);
+        }
+      }
+    }
+    else {
+        state.append(title);
+    }
+    state.appendEnd("</title>");
   }
 
   @Override
   public void startContent() throws IOException {
+    final String postfix = current == null ? "" : "?version=" + current;
+
     state.appendLine("<body>").indent()
         .appendLine("<div class=\"navigation-container\">").indent();
 
@@ -181,7 +216,7 @@ public class XHtmlNGBuilder
 
     state.appendLine("<div class=\"menu\">").indent();
     state.appendIndent("<div class=\"current\">")
-        .append("<a href=\"").append("/index.html\">ROOT</a>")
+        .append("<a href=\"").append("/index.html").append(postfix).append("\">ROOT</a>")
         .appendEnd("</div>");
     state.outdent().appendLine("</div>");
 
@@ -193,8 +228,8 @@ public class XHtmlNGBuilder
       state.append(script);
     }
     else {
-      state.append("<a href=\"").append("/").append(script).append("/index.html\">").append(script)
-          .append("</a>");
+      state.append("<a href=\"").append("/").append(script).append("/index.html").append(postfix)
+          .append("\">").append(script).append("</a>");
     }
     state.appendEnd("</div>");
     state.outdent().appendLine("</div>");
@@ -202,8 +237,12 @@ public class XHtmlNGBuilder
     List<Entry<String, String>> crumbs = new LinkedList<>(breadCrumbs.entrySet());
     for (Map.Entry<String, String> part : crumbs) {
       if (part.getValue() != null) {
-        appendMenu(part.getKey());
+        appendMenu(part.getKey(), postfix);
       }
+    }
+
+    if (file.endsWith("index")) {
+      appendMenu(file.substring(0, file.lastIndexOf('/') + 1), postfix);
     }
 
     state.outdent().appendLine("</div>")
@@ -213,20 +252,25 @@ public class XHtmlNGBuilder
   }
 
   private void appendVersions() throws IOException {
+    if (versions == null) return;
     state.appendLine("<div class=\"versions\">").indent()
         .appendLine("<span>version:</span>").appendLine("<span class=\"menu\">").indent();
 
     for (Entry<String, String> entry: versions.entrySet()) {
       String key = RomanScriptHelper.removeDiacritcals(entry.getValue());
-      boolean isCurrent = key.equals(current) || entry.getKey().equals(current);
+      boolean isVri = entry.getKey().equals(Version.VIPASSANA_RESEARCH_INSTITUT.getAbbrevation());
+      boolean isCurrent = key.equals(current) || entry.getKey().equals(current) || (current == null && isVri);
       if (isCurrent) {
         state.appendIndent("<div class=\"current\">");
       }
       else {
         state.appendIndent("<div>");
       }
-      if (isCurrent && VRI.equals(current)) {
-        state.append("<a href=\"\">");
+      if (isCurrent && current == null) {
+        state.append("<a>");
+      }
+      else if (isVri) {
+        state.append("<a href=\"").append(name).append(extension).append("\">");
       }
       else {
         state.append("<a href=\"?version=").append(key).append("\">");
@@ -238,10 +282,7 @@ public class XHtmlNGBuilder
   }
 
   private void appendMainMenu() throws IOException {
-    state.appendLine("<div class=\"main-menu\">").indent()
-        .appendLine("<a target=\"_blank\" href=\"/impressum.html\">impressum</a>")
-        .appendLine("<a target=\"_blank\" href=\"/help.html\">help</a>")
-        .appendLine("<a target=\"_blank\" href=\"http://blog.tipitaka.de\">blog</a>");
+    state.appendLine("<div class=\"main-menu\">").indent();
     if (name.length() > 0 && !isSubdir) {
       // TODO do not follow
       state.appendIndent("<a target=\"_blank\" href=\"")
@@ -249,12 +290,15 @@ public class XHtmlNGBuilder
       state.appendIndent("<a target=\"_blank\" href=\"").append(name)
           .appendEnd(".tei\">TEI format from tipitaka.org (beta)</a>");
     }
+    state.appendLine("<a target=\"_blank\" href=\"/help.html\">help</a>")
+        .appendLine("<a target=\"_blank\" href=\"http://blog.tipitaka.de\">blog</a>")
+        .appendLine("<a target=\"_blank\" href=\"/impressum.html\">impressum</a>");
     state.outdent().appendLine("</div>");
   }
 
-  private void appendMenu(final String current) throws IOException {
+  private void appendMenu(final String current, final String postfix) throws IOException {
     appendSeparator();
-    String name = current.replaceFirst("[^/]+$","");
+    String name = current.replaceFirst("[^/]+$", "");
     state.appendLine("<div class=\"menu\">").indent();
     for (Entry<String, String> entry : factory.getDirectory().list(factory.script(script), name).entrySet()) {
 
@@ -268,17 +312,18 @@ public class XHtmlNGBuilder
       }
       state.append("\">");
       boolean isDir = dir.startsWith(entry.getKey());
-      if (!isDir && file.equals(entry.getKey())) {
-            state.append(entry.getValue());
+      //System.err.println(dir + " " + isDir + " " + entry.getKey() + " " + factory.getDirectory().fileOf(entry.getKey()));
+      if (!isDir && file.equals(entry.getKey()) || (isDir && file.replace("/index", "").equals(entry.getKey()))) {
+        state.append(entry.getValue());
       }
       else {
         state.append("<a href=\"").append("/").append(script).append(entry.getKey());
-        if (isDir || !entry.getKey().startsWith(dir)) {
-          //!dir.startsWith(entry.getKey())) {
+        if (isDir || !entry.getKey().startsWith(dir) || factory.getDirectory().fileOf(entry.getKey()) == null) {
           state.append("/index");
         }
-        state.append(extension).append("\">").append(entry.getValue()).append("</a>");
+        state.append(extension).append(postfix).append("\">").append(entry.getValue()).append("</a>");
       }
+
       state.appendEnd("</div>");
     }
     state.outdent().appendLine("</div>");
@@ -412,38 +457,48 @@ public class XHtmlNGBuilder
   @Override
   public void startAlternatives(final String extra, final boolean hasSeparator) throws IOException {
     state.append("<div class=\"tooltip\">");
-    this.extra = extra;
-    this.first = true;
+    // always use separator for consistent look and feel
+    this.alternative = new Alternative(extra, true);
   }
 
   @Override
   public void endAlternatives() throws IOException {
-    state.outdent().appendLine("</div>").outdent().appendIndent("</div>");
-    if (extra != null && extra.length() > 0) {
-      state.append("<span class=\"note\">").append(extra).append("</span>");
-      this.extra = null;
+    if (ALL_VERSIONS_ANNOTATED.equals(current)) {
+     state.append(alternative.getText()).append(" <span class=\"note\">[")
+         .append(alternative.getNote()).append("]</span></div>");
     }
+    else {
+      state.appendEnd(alternative.getText()).indent();
+      state.appendIndent("<div class=\"tooltiptext\" style=\"width:")
+          .append(Integer.toString((alternative.longest()+7)/2)).appendEnd("em;\">").indent();
+      for (Entry<String, String> entry : alternative.entrySet()) {
+        state.appendIndent("<div>").append(entry.getValue()).append(" <span>[").append(entry.getKey()).append("]")
+            .appendEnd("</span></div>");
+      }
+      state.outdent().appendLine("</div>").outdent().appendIndent("</div>");
+      if (alternative.getExtra() != null && alternative.getExtra().length() > 0) {
+        state.append("<span class=\"note\">[").append(alternative.getExtra()).append("]</span>");
+      }
+    }
+    alternative = null;
   }
 
   @Override
   public void beginAlternative(final String abbr, final String source) throws IOException {
     this.source = source;
-    if (current.equals(abbr) || current.equals(source)) {
-      first = true;
-    }
-    else {
-      if (first) state.append("\n").indent().appendLine("<div class=\"tooltiptext\">").indent();
-      first = false;
+    if ((current == null && abbr.equals(Version.VIPASSANA_RESEARCH_INSTITUT.getAbbrevation())) ||
+        (current != null && (current.equals(abbr) || current.equals(source)))) {
+      alternative.setCurrent(source);
     }
   }
 
   @Override
   public void finalizeAlternative(final String text) throws IOException {
-    if (first) {
-      state.append(text);
+    if (ALL_VERSIONS_ANNOTATED.equals(current) && Version.VIPASSANA_RESEARCH_INSTITUT.getName().equals(source)) {
+      alternative.setText(text);
     }
     else {
-      state.appendIndent("<div>").append(text).append(" [").append(this.source).append("]").appendEnd("</div>");
+      alternative.add(source, text);
     }
   }
 
@@ -460,7 +515,7 @@ public class XHtmlNGBuilder
   @Override
   public void startVersions() {
     this.versions = new LinkedHashMap<>();
-    this.versions.put("all", "all versions annotated");
+    this.versions.put(ALL, ALL_VERSIONS_ANNOTATED);
   }
 
   @Override

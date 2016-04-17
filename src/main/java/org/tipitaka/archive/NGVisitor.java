@@ -24,6 +24,10 @@ public class NGVisitor implements Visitor
     this.builders = builders;
   }
 
+  protected BuilderFactory<NGBuilder> getBuilders() {
+    return builders;
+  }
+
   public void accept(Writer writer, String path, String version) throws IOException {
     try (NGBuilder builder = builders.create(writer)) {
       accept(builder, path, version);

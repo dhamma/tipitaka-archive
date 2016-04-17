@@ -4,13 +4,10 @@ import java.io.IOException;
 
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServlet;
-import javax.servlet.http.HttpServletRequest;
-import javax.servlet.http.HttpServletResponse;
 
 import org.tipitaka.archive.Layout;
 import org.tipitaka.archive.NGBuilderFactory;
 import org.tipitaka.archive.NGVisitor;
-import org.tipitaka.archive.TeiNGBuilder;
 import org.tipitaka.archive.Visitor;
 import org.xmlpull.v1.XmlPullParserException;
 
@@ -27,11 +24,15 @@ public abstract class VisitorServlet
   public void init() throws ServletException {
     try {
       Layout layout = new ServletLayout(getServletContext());
-      visitor = new NGVisitor(createFactory(layout));
+      visitor = createVisitor(createFactory(layout));
     }
     catch (IOException | XmlPullParserException e) {
       throw new ServletException(e);
     }
+  }
+
+  protected Visitor createVisitor(NGBuilderFactory factory) throws XmlPullParserException {
+    return new NGVisitor(factory);
   }
 
   protected Visitor getVisitor() {

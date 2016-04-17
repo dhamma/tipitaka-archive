@@ -3,8 +3,6 @@ package org.tipitaka.archive;
 import java.io.IOException;
 import java.io.OutputStreamWriter;
 import java.io.Writer;
-import java.util.LinkedHashMap;
-import java.util.Map;
 
 import org.tipitaka.archive.Notes.Version;
 
@@ -278,56 +276,56 @@ public class TeiNGBuilder
     state.append("</note>");
   }
 
-  static class Alternative {
-
-    private final String extra;
-
-    private final String separator;
-
-    private String text;
-
-    private Map<String, String> map = new LinkedHashMap<>();
-
-    public Alternative(final String extra, final boolean separator) {
-      this.extra = "null".equals(extra) ? "" : extra;
-      this.separator = separator ? ", " : " ";
-    }
-
-
-    public void setText(final String text) {
-      this.text = text;
-    }
-
-    public String getText() {
-      return this.text;
-    }
-
-    public void add(final String version, final String text) {
-      if (map.containsKey(text)) {
-        String versions = map.get(text) + " " + version;
-        map.put(text, versions);
-      }
-      else {
-        map.put(text, version);
-      }
-    }
-
-    public String getNote() {
-      StringBuilder result = new StringBuilder();
-      boolean first = true;
-      for (Map.Entry entry : map.entrySet()) {
-        if (first) {
-          first = false;
-        }
-        else {
-          result.append(separator);
-        }
-        result.append((entry.getKey())).append(" (").append(entry.getValue()).append(")");
-      }
-      if (extra != null) result.append(extra);
-      return result.toString();
-    }
-  }
+  //static class Alternative {
+  //
+  //  private final String extra;
+  //
+  //  private final String separator;
+  //
+  //  private String text;
+  //
+  //  private Map<String, String> map = new LinkedHashMap<>();
+  //
+  //  public Alternative(final String extra, final boolean separator) {
+  //    this.extra = "null".equals(extra) ? "" : extra;
+  //    this.separator = separator ? ", " : " ";
+  //  }
+  //
+  //
+  //  public void setText(final String text) {
+  //    this.text = text;
+  //  }
+  //
+  //  public String getText() {
+  //    return this.text;
+  //  }
+  //
+  //  public void add(final String version, final String text) {
+  //    if (map.containsKey(text)) {
+  //      String versions = map.get(text) + " " + version;
+  //      map.put(text, versions);
+  //    }
+  //    else {
+  //      map.put(text, version);
+  //    }
+  //  }
+  //
+  //  public String getNote() {
+  //    StringBuilder result = new StringBuilder();
+  //    boolean first = true;
+  //    for (Map.Entry entry : map.entrySet()) {
+  //      if (first) {
+  //        first = false;
+  //      }
+  //      else {
+  //        result.append(separator);
+  //      }
+  //      result.append((entry.getKey())).append(" (").append(entry.getValue()).append(")");
+  //    }
+  //    if (extra != null) result.append(extra);
+  //    return result.toString();
+  //  }
+  //}
 
   private Alternative alternative;
   @Override

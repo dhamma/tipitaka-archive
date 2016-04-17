@@ -3,91 +3,27 @@ body {
   background: white;
 }
 
-.document div {
-  border-top: 0; border-bottom: 0;
-  padding-top: 0; padding-bottom: 0;
-  margin-top: 0; margin-bottom: 1em;
+p {
+  border-top: 0in; border-bottom: 0in;
+  padding-top: 0in; padding-bottom: 0in;
+  margin-top: 0in; margin-bottom: 0.5cm;
 }
 
-.tooltip {
-    display: inline;
-    text-indent: 0;
-    position: relative;
-    color: green;   
+div.impressum {
+    margin: 0.5em;
+    text-align: right;
 }
 
-.tooltip .tooltiptext {
-    visibility: hidden;
-    background-color: white;
-    padding: 0.2em;
-    top: 100%;
-    left: -0.2em;
-    border: grey 1px solid;
-    opacity: 0.9;
-
-    /* Position the tooltip text */
-    position: absolute;
-    z-index: 1;
+a.line-number:visited {
+    color: green;
 }
 
-.tooltip .tooltiptext div {
-    float: left;
-    clear: both;
-    margin: 0;
-}
-
-.tooltip:hover .tooltiptext {
-    visibility: visible;
-}
-
-div.versions {
-    font-size: 0.8em;
-    position: fixed;
-    left: 0;
-    margin-left: 0.4em;
-    padding: 0.1em;
-    color: darkblue;
-}
-
-div.versions span {
-    float: left;
-    padding: 0.2em;
-}
-
-div.versions:hover span.menu {
-    opacity: 0.9;
-    background-color: white;
-    border: solid 1px grey;
-}
-
-div.versions div.current {
-    display: block;
-    color: darkred;
-}
-
-div.versions:hover div {
-    display:block;
-}
-
-div.versions a {
-    color: darkgreen;
-}
-
-div.versions div.current a {
-    color: darkred;
-}
-
-div.versions div {
-    display: none;
-    color: darkgreen;
-}
-
-div.main-menu a {
+div.extras a {
     font-size: 0.8em;
     padding-right: 1em;
     color: darkgreen;
 }
-div.main-menu {
+div.extras {
     position: fixed;
     right: 0;
 }
@@ -96,7 +32,7 @@ a.line-number {
     color: green;
     position: absolute;
     left: 0;
-    //width: 5%;
+    width: 50%;
     text-align: left;
     text-indent: 0;
     font-weight: initial;
@@ -104,11 +40,11 @@ a.line-number {
     display: none;
 }
 
-div.document div:hover a.line-number {
+p:hover a.line-number {
     display: inline;
 }
 
-div.navigation span, div.menu {
+div.navigation span, span.context-toc {
     float: left;
     padding-top: 1.1em;
     margin: 0.5em;
@@ -118,10 +54,6 @@ div.navigation span, div.menu {
 div.navigation {
     height: 100%;
     overflow: scroll;
-}
-
-div.navigation div.current a {
-    color: darkred;
 }
 
 div.navigation-container {
@@ -157,9 +89,9 @@ div.document {
 
 .indent { font-size: 12pt; text-indent: 2em; margin-left: 3em;}
 
-.paragraph { font-size: 12pt; text-indent: 2em;}
+.bodytext { font-size: 12pt; text-indent: 2em;}
 
-.hangnum { font-size: 12pt; margin-bottom: -0.75em; text-indent: 2em;}
+.hangnum { font-size: 12pt; margin-bottom: -0.75cm; text-indent: 2em;}
 
 /* Namo tassa, and nitthita -- no unique structural distinction */
 .centered { font-size: 12pt; text-align:center;}
@@ -188,4 +120,4 @@ div.document {
 .gatha3 { font-size: 12pt; margin-bottom: 0em; margin-left: 4em;}
 
 /* Gatha last line */
-.gathalast { font-size: 12pt; margin-bottom: 0.5em; margin-left: 4em;}
+.gathalast { font-size: 12pt; margin-bottom: 0.5cm; margin-left: 4em;}
