@@ -1,6 +1,7 @@
 body { 
   font-family: "Times Ext Roman", "Indic Times", "Doulos SIL", Tahoma, "Arial Unicode MS", Gentium;
   background: white;
+  margin: 0;
 }
 
 .document div {
@@ -45,20 +46,17 @@ body {
 }
 
 div.versions {
-    font-size: 0.8em;
     position: fixed;
     left: 0;
-    margin-left: 0.4em;
-    padding: 0.1em;
     color: darkblue;
 }
 
 div.versions span {
     float: left;
-    padding: 0.2em;
+    padding-left: 0.2em;
 }
 
-div.versions:hover span.menu {
+div.versions:hover span.menu, div.versions:active span.menu {
     opacity: 0.9;
     background-color: white;
     border: solid 1px grey;
@@ -69,7 +67,7 @@ div.versions div.current {
     color: darkred;
 }
 
-div.versions:hover div {
+div.versions:active div, div.versions:hover div {
     display:block;
 }
 
@@ -85,15 +83,109 @@ div.versions div {
     display: none;
     color: darkgreen;
 }
-
 div.main-menu a {
-    font-size: 0.8em;
-    padding-right: 1em;
+    padding-left: 1em;
+    padding-right: 0.1em;
     color: darkgreen;
 }
-div.main-menu {
+
+div.main-menu, div.sandwitch {
     position: fixed;
     right: 0;
+}
+
+div.main-menu {
+    visibility: hidden;
+}
+
+div.sandwitch {
+  visibility: visible;
+}
+
+div.main-menu:hover, div.main-menu:active {
+  visibility: visible;
+  background: white;
+}
+
+div.main-menu:hover div.sandwitch, div.main-menu:active div.sandwitch {
+  display: none;
+}
+
+div.pos6, div.pos5, div.pos4, div.pos3, div.pos2, div.pos1 {
+  display:none;
+}
+div.navigation span {
+    display: none;
+}
+div.navigation-container {
+    height: 3em;
+    float: left;
+    position: fixed;
+    top:0;
+    left:0;
+    border-bottom: solid 1px black;
+    z-index: 500;
+    width:100%;    
+}
+
+div.document-container {
+    position:  fixed;
+    top: 3em;
+    height: 100%;
+    width:100%;
+    margin: 0;
+    padding: 0;
+}
+div.navigation-container div.menu .other {
+    display:none;
+}
+@media screen and (min-width:25em) {
+  div.pos1 {
+    display:block;
+  }
+}
+@media screen and (min-width:35em) {
+  div.pos2 {
+    display:block;
+  }
+}
+@media screen and (min-width:45em) { 
+  div.navigation-container {
+    height: 8em;
+  }
+  div.document-container {
+    top: 8em;
+  }
+  div.navigation-container div.menu .other {
+    display:block;
+  }
+    
+  div.pos3 {
+    display:block;
+  }
+}
+@media screen and (min-width:50em) {
+  div.pos4 {
+    display:block;
+  }
+}
+@media screen and (min-width:55em) {
+  div.pos5 {
+    display:block;
+  }
+}
+@media screen and (min-width:60em) {
+  div.pos5 {
+    display:block;
+  }
+}
+@media screen and (min-width:50em) {
+  div.main-menu a {
+    visibility: visible;
+  }
+  div.sandwitch {
+    display: none;
+  }
 }
 
 a.line-number {
@@ -104,7 +196,7 @@ a.line-number {
     text-align: left;
     text-indent: 0;
     font-weight: initial;
-    font-size: 1em;
+    //font-size: 1em;
     display: none;
 }
 
@@ -125,27 +217,7 @@ div.navigation {
 }
 
 div.navigation div.current a, div.navigation div.current {
-    color: darkred;
-}
-
-div.navigation-container {
-    height: 20%;
-    float: left;
-    position: fixed;
-    top:0;
-    left:0;
-    border-bottom: solid 1px black;
-    z-index: 500;
-    width:100%;    
-}
-
-div.document-container {
-    position:  fixed;
-    top: 20%;
-    height: 80%;
-    width:100%;
-    margin: 0;
-    padding: 0;
+    color: green;
 }
 
 div.document { 

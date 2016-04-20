@@ -1,6 +1,8 @@
 package org.tipitaka.archive;
 
+import java.io.BufferedReader;
 import java.io.IOException;
+import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
 import java.io.Writer;
 import java.util.Collections;
@@ -119,8 +121,9 @@ public class XHtmlNGBuilder
 
   @Override
   public void startMetadata() throws IOException {
-    state.appendLine("<head>").indent()
-        .appendLine("<meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\" />");
+    state.appendLine("<head>").indent();
+    state.appendLine("<meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\" />")
+        .appendLine("<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" />");
   }
 
   @Override
@@ -141,6 +144,17 @@ public class XHtmlNGBuilder
   @Override
   public void script(final String script) throws IOException {
     this.script = script;
+
+    state.appendLine("<style type='text/css'>");
+    try (BufferedReader reader =
+             new BufferedReader(new InputStreamReader(getClass().getClassLoader().getResourceAsStream("./" + script + ".css")))) {
+      String line = reader.readLine();
+      while (line != null) {
+        state.append(line).append("\n");
+        line = reader.readLine();
+      }
+    }
+    state.appendLine("</style>");
 
     state.appendIndent("<meta name=\"script\" content=\"").append(script).appendEnd("\" />");
   }
@@ -184,7 +198,6 @@ public class XHtmlNGBuilder
       }
       state.append(file).append(extension).appendEnd("\" />");
     }
-    state.appendIndent("<link rel=\"stylesheet\" href=\"/").append(script).appendEnd("/style.css\" />");
     state.appendIndent("<title>");
     if (title == null) {
       boolean first = true;
@@ -212,15 +225,19 @@ public class XHtmlNGBuilder
   public void startContent() throws IOException {
     final String postfix = current == null ? "" : "?version=" + current;
 
-    state.appendLine("<body>").indent()
-        .appendLine("<div class=\"navigation-container\">").indent();
+    state.appendLine("<body>").indent();
+    if (unlessIndex()) {
+      state.appendLine("<div class=\"navigation-container\">").indent();
+    }
 
     appendVersions();
     appendMainMenu();
 
     state.appendLine("<div class=\"navigation\">").indent();
+    List<Entry<String, String>> crumbs = new LinkedList<>(breadCrumbs.entrySet());
+    int pos = crumbs.size();
 
-    state.appendLine("<div class=\"menu\">").indent();
+    state.appendIndent("<div class=\"menu pos").append(Integer.toString(pos + 1)).appendEnd("\">").indent();
     state.appendIndent("<div class=\"current\">");
     if (dir != null) {
       state.append("<a href=\"").append("/index.html").append(postfix).append("\">ROOT</a>");
@@ -233,7 +250,7 @@ public class XHtmlNGBuilder
 
     appendSeparator();
 
-    state.appendLine("<div class=\"menu\">").indent();
+    state.appendIndent("<div class=\"menu pos").append(Integer.toString(pos)).appendEnd("\">").indent();
     state.appendIndent("<div class=\"current\">");
     if ("".equals(dir)) {
       state.append(script);
@@ -245,22 +262,25 @@ public class XHtmlNGBuilder
     state.appendEnd("</div>");
     state.outdent().appendLine("</div>");
 
-    List<Entry<String, String>> crumbs = new LinkedList<>(breadCrumbs.entrySet());
     for (Map.Entry<String, String> part : crumbs) {
       if (part.getValue() != null) {
-        appendMenu(part.getKey(), postfix);
+        appendMenu(part.getKey(), postfix, --pos);
       }
     }
 
-    if (file.endsWith("index") && dir != null) {
-      appendMenu(file.substring(0, file.lastIndexOf('/') + 1), postfix);
+    if (name.equals("index") && dir != null) {
+      appendMenu(file.substring(0, file.lastIndexOf('/') + 1), postfix, --pos);
     }
 
-    state.outdent().appendLine("</div>")
-        .outdent().appendLine("</div>")
-        .appendLine("<div class=\"document-container\">").indent()
-        .appendLine("<div class=\"document\">").indent();
+    state.outdent().appendLine("</div>");
+    if (unlessIndex()) {
+      state.outdent().appendLine("</div>")
+          .appendLine("<div class=\"document-container\">").indent()
+          .appendLine("<div class=\"document\">").indent();
+    }
   }
+
+  private boolean unlessIndex() {return !name.equals("index");}
 
   private void appendVersions() throws IOException {
     if (versions == null) return;
@@ -292,14 +312,15 @@ public class XHtmlNGBuilder
         .outdent().appendLine("</div>");
   }
 
-  private void appendMainMenu() throws IOException {
+  private void appendMainMenu() throws IOException {;
     state.appendLine("<div class=\"main-menu\">").indent();
+    state.appendLine("<div class=\"sandwitch\">&#9776;</div>");
     if (name.length() > 0 && !isSubdir) {
       // TODO do not follow
       state.appendIndent("<a target=\"_blank\" href=\"")
           .append(name).append(".xml").appendEnd("\">XML format (alpha)</a>");
       state.appendIndent("<a target=\"_blank\" href=\"").append(name)
-          .appendEnd(".tei\">TEI format from tipitaka.org (beta)</a>");
+          .appendEnd(".tei\">TEI format (beta)</a>");
     }
     state.appendLine("<a target=\"_blank\" href=\"/help.html\">help</a>")
         .appendLine("<a target=\"_blank\" href=\"http://blog.tipitaka.de\">blog</a>")
@@ -307,10 +328,10 @@ public class XHtmlNGBuilder
     state.outdent().appendLine("</div>");
   }
 
-  private void appendMenu(final String current, final String postfix) throws IOException {
+  private void appendMenu(final String current, final String postfix, int pos) throws IOException {
     appendSeparator();
     String name = current.replaceFirst("[^/]+$", "");
-    state.appendLine("<div class=\"menu\">").indent();
+    state.appendIndent("<div class=\"menu pos").append(Integer.toString(pos)).appendEnd("\">").indent();
     for (Entry<String, String> entry : factory.getDirectory().list(factory.script(script), name).entrySet()) {
 
       state.appendIndent("<div");
@@ -344,9 +365,11 @@ public class XHtmlNGBuilder
 
   @Override
   public void endContent() throws IOException {
-    state.outdent().appendLine("</div>")
-        .outdent().appendLine("</div>")
-        .outdent().appendLine("</body>");
+    if (unlessIndex()) {
+      state.outdent().appendLine("</div>")
+          .outdent().appendLine("</div>");
+    }
+    state.outdent().appendLine("</body>");
   }
 
   @Override
