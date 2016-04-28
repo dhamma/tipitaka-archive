@@ -107,6 +107,7 @@ public class TeiTest
 
   private String normalize(String string) {
     return string
+        .replace(", ", " ")
         .replace("/tipitaka-latn.xs", "tipitaka-latn.xs")
         // notes inside quotes
         .replaceAll("’’<note>", "<note>")
@@ -146,18 +147,18 @@ public class TeiTest
         // /tipitaka (mula)/vinayapitaka/mahavaggapali/1. mahakhandhako
         .replace("<note>nissayā ", "<note>")
         // /tipitaka (mula)/vinayapitaka/mahavaggapali/8. civarakkhandhako
-        .replace("uttarāḷupaṃ (yojanā), uttarāḷupaṃ (syā.)", "uttarāḷupaṃ (yojanā syā.)")
+        .replace("uttarāḷupaṃ (yojanā) uttarāḷupaṃ (syā.)", "uttarāḷupaṃ (yojanā syā.)")
             // /tipitaka (mula)/vinayapitaka/pacittiyapali/5. pacittiyakandam
         .replace("<pb ed=\"T\" n=\"5.1080\" />", "</note><note>")
         // /tipitaka (mula)/suttapitaka/dighanikaya/silakkhandhavaggapali/2. samannaphalasuttam
-        .replace("samaggatā (ka. syā.)", "samaggatā (ka.), samaggatā (syā.)")
+        .replace("samaggatā (ka. syā.)", "samaggatā (ka.) samaggatā (syā.)")
         // /tipitaka (mula)/suttapitaka/dighanikaya/mahavaggapali/1. mahapadanasuttam
-        .replace("(pī.) cattāro", "(pī.), cattāro")
+        .replace("(pī.) cattāro", "(pī.) cattāro")
         // /tipitaka (mula)/suttapitaka/dighanikaya/mahavaggapali/4. mahasudassanasuttam
         .replace("dukūlasandanāni(pī.)", "dukūlasandanāni (pī.)")
-        .replace("(ka. sī. pī.) velāmikā", "(ka. sī. pī.), velāmikā")
+        .replace("(ka. sī. pī.) velāmikā", "(ka. sī. pī.) velāmikā")
             // /tipitaka (mula)/suttapitaka/dighanikaya/mahavaggapali/6. mahagovindasuttam
-        .replace("(sī. pī.),sukha", "(sī. pī.), sukha")
+        .replace("(sī. pī.),sukha", "(sī. pī.) sukha")
             // /tipitaka (mula)/suttapitaka/dighanikaya/mahavaggapali/9. mahasatipatthanasuttam
         .replace("<hi rend=\"paranum\">389</hi>.", "<hi rend=\"paranum\">389</hi><hi rend=\"dot\">.</hi>.")
         // /tipitaka (mula)/suttapitaka/dighanikaya/pathikavaggapali/9. atanatiyasuttam
@@ -170,9 +171,9 @@ public class TeiTest
         .replace("toti (?)", "to’’ti (?)")
         // /tipitaka (mula)/suttapitaka/majjhimanikaya/majjhimapannasapali/3. paribbajakavaggo
         .replace("(sī. pī.) ( )", "(sī. pī.)")
-        .replace("(ka.) abhidoti", "(ka.), abhidoti")
+        .replace("(ka.) abhidoti", "(ka.) abhidoti")
         //  /tipitaka (mula)/suttapitaka/majjhimanikaya/majjhimapannasapali/5. brahmanavaggo
-        .replace("(sī. ka.), kathaṃ (syā. kaṃ. pī.)", "(sī. ka. syā. kaṃ. pī.)")
+        .replace("(sī. ka.) kathaṃ (syā. kaṃ. pī.)", "(sī. ka. syā. kaṃ. pī.)")
         .replace("(sī. syā. kaṃ. pī)", "(sī. syā. kaṃ. pī.)")
         // /tipitaka (mula)/suttapitaka/majjhimanikaya/uparipannasapali/2. anupadavaggo
         .replace("(pī. ka.) ( )", "(pī. ka.)")
@@ -181,55 +182,11 @@ public class TeiTest
         //
         // duplicates
         //
-        //tipitaka (mula)/suttapitaka/majjhimanikaya/majjhimapannasapali/3. paribbajakavaggo
-        .replace("abhide (ka. sī.), abhidosaṃ (ka.)", "abhidosaṃ (ka.), abhide (sī.)")
-        //tipitaka (mula)/vinayapitaka/mahavaggapali/5. cammakkhandhako
-        .replace("undalomiṃ (ka.), uddalomiṃ (ka.)", "uddalomiṃ (ka.)")
-        //tipitaka (mula)/suttapitaka/dighanikaya/pathikavaggapali/1. pathikasuttam
-        .replace("sattakāya (sī. pī.), sattāya (ka. sī.)", "sattāya (sī. ka.), sattakāya (pī.)")
-        //tipitaka (mula)/suttapitaka/dighanikaya/pathikavaggapali/10. sangitisuttam
-        .replace("paricce (sī. ka.), paricchede (syā. pī. ka.)", "paricce (sī.), paricchede (ka. syā. pī.)")
-        //tipitaka (mula)/suttapitaka/majjhimanikaya/uparipannasapali/1. devadahavaggo
-        .replace("vante (ka. sī.), bhutte (ka. sī. ka.)", "bhutte (ka. sī.)")
-        //tipitaka (mula)/suttapitaka/dighanikaya/pathikavaggapali/10. sangitisuttam
-        .replace("āvī (ka. sī. pī. ka.)", "āvī (ka. sī. pī.)")
-        //tipitaka (mula)/suttapitaka/majjhimanikaya/uparipannasapali/2. anupadavaggo
-        .replace("paṭhamajjhāne (ka. sī. pī. ka.)", "paṭhamajjhāne (ka. sī. pī.)")
-        //tipitaka (mula)/suttapitaka/dighanikaya/pathikavaggapali/2. udumbarikasuttam
-        .replace("atipāpeti (ka. sī. pī. ka.)", "atipāpeti (ka. sī. pī.)")
-        .replace("saddarā (pī. ka.), sadarathā (syā. ka.)", "saddarā (pī.), sadarathā (ka. syā.)")
-        //tipitaka (mula)/ suttapitaka/dighanikaya/pathikavaggapali/4. aggannasuttam
-        .replace("vissutakammante (sī. pī.), vissukammante (ka. sī.)", "vissukammante (sī.), vissutakammante (pī.)")
-        .replace("visuṃ kammante (syā. ka.)", "visuṃ kammante (ka. syā.)")
-        //tipitaka (mula)/suttapitaka/dighanikaya/pathikavaggapali/7. lakkhanasuttam
-        .replace("atthadhammasaṃhitaṃ (ka. sī. pī.), atthadhammupasaṃhitaṃ (ka.)",
-            "atthadhammupasaṃhitaṃ (ka.), atthadhammasaṃhitaṃ (sī. pī.)")
-        //tipitaka (mula)/suttapitaka/majjhimanikaya/uparipannasapali/3. sunnatavaggo
-        .replace("viharataṃ (ka. sī.), viharati (syā. kaṃ. ka.)", "viharati (ka. syā. kaṃ.), viharataṃ (sī.)")
-        //tipitaka (mula)/suttapitaka/majjhimanikaya/uparipannasapali/5. salayatanavaggo
-        .replace("pappajitañhitaṃ (ka.), upavajjitaṃ (ka.)", "upavajjitaṃ (ka.)")
-        .replace("īsakapoṇe (sī. syā. kaṃ. pī.), īsakaphaṇe (sī. aṭṭha.)",
-            "īsakaphaṇe (sī. aṭṭha.), īsakapoṇe (syā. kaṃ. pī.)")
-        //tipitaka (mula)/suttapitaka/dighanikaya/mahavaggapali/1. mahapadanasuttam
-        // TODO
-        .replace("bhadraṃ yānaṃ (syā.), bhaddaṃ yānaṃ (pī.)", "bhadraṃ yānaṃ (syā.)")
-        //tipitaka (mula)/suttapitaka/dighanikaya/mahavaggapali/1. mahapadanasuttam
-        .replace("cattāro māse (sī. pī.)", "cattāro māse (pī. sī.)")
-        .replace("najjhāvuṭṭhapubbo (ka. sī. ka.)", "najjhāvuṭṭhapubbo (ka. sī.)")
         //tipitaka (mula)/suttapitaka/dighanikaya/silakkhandhavaggapali/5. kutadantasuttam/
-        .replace("purohitopi (ka. sī. ka.)", "purohitopi (ka. sī.)")
-        .replace("parihiṃsatthāya (syā. ka. sī. ka.), parahiṃsatthāya (ka.)",
-            "parihiṃsatthāya (syā. sī.), parahiṃsatthāya (ka.)")
-        .replace("", "")
-        //tipitaka (mula)/suttapitaka/majjhimanikaya/mulapannasapali/2. sihanadavaggo
-        .replace("adhippāyo (ka. sī. syā. pī.), adhippayogo (ka.)", "adhippayogo (ka.), adhippāyo (sī. syā. pī.)")
-        //tipitaka (mula)/suttapitaka/dighanikaya/mahavaggapali/10. payasisuttam
-        .replace("uccāropetvā (ka. sī. ka.)", "uccāropetvā (ka. sī.)")
-        //tipitaka (mula)/suttapitaka/majjhimanikaya/mulapannasapali/4. mahayamakavaggo
-        .replace("nicchādeyya (sī. pī. ka.), nicchoṭeyya (ka.)", "nicchādeyya (sī. pī.), nicchoṭeyya (ka.)")
-        //tipitaka (mula)/suttapitaka/dighanikaya/mahavaggapali/7. mahasamayasuttam
-        .replace("paccekagāthaṃ (sī. syā. pī.), paccekagāthā (ka. sī.)",
-            "paccekagāthā (sī. ka.), paccekagāthaṃ (syā. pī.)")
+        .replace("parihiṃsatthāya (syā. ka. sī. ka.) parahiṃsatthāya (ka.)",
+            "parihiṃsatthāya (syā. ka. sī.) parahiṃsatthāya (ka.)")
+        //tipitaka (mula)/suttapitaka/majjhimanikaya/uparipannasapali/1. devadahavaggo
+        .replace("vante (ka. sī.) bhutte (ka. sī. ka.)", "vante (ka. sī.) bhutte (ka. sī.)")
         ;
   }
 

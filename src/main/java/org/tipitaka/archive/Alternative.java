@@ -53,7 +53,10 @@ class Alternative
     return result;
   }
 
-  public void add(final String version, final String text) {
+  public void add(String version, final String text) {
+    if (map.containsKey(version)) {
+      version += Notes.Version.SUFFIX;
+    }
     map.put(version, text);
   }
 
@@ -75,8 +78,9 @@ class Alternative
     for (Entry<String, String> entry: map.entrySet()) {
       String text = entry.getValue();
       String version = entry.getKey();
+      if (version.endsWith(Notes.Version.SUFFIX)) version = version.substring(0, version.length() - 1);
       if (inverseMap.containsKey(text)) {
-        String versions = inverseMap.get(text) + " " + version;
+        String versions = inverseMap.get(text) + ", " + version;
         inverseMap.put(text, versions);
       }
       else {
