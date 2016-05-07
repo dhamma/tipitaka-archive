@@ -24,7 +24,7 @@ public class DirectoryNGVisitor
 
   @Override
   public void accept(final Writer writer, final String path, final String version) throws IOException {
-    if (path.endsWith("index.html")) {
+    if (path.matches(".*index\\.(html|xml|js)$")) {
       try (NGBuilder builder = getBuilders().create(writer)) {
         String extension = path.substring(path.lastIndexOf('.'));
         builder.init(extension, version);
