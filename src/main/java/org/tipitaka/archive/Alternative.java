@@ -15,6 +15,8 @@ class Alternative
 
   private final String separator;
 
+  private final String line;
+
   private String text;
 
   public String getExtra() {
@@ -31,9 +33,10 @@ class Alternative
 
   private String current;
 
-  public Alternative(final String extra, final boolean separator) {
+  public Alternative(final String extra, final boolean separator, final String line) {
     this.extra = "null".equals(extra) ? null : extra;
     this.separator = separator ? ", " : " ";
+    this.line = line;
   }
 
 
@@ -71,6 +74,10 @@ class Alternative
       if (len > max) max = len;
     }
     return max;
+  }
+
+  public String getLine() {
+    return line;
   }
 
   public String getNote() {

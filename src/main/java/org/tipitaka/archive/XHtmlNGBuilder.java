@@ -70,14 +70,14 @@ public class XHtmlNGBuilder
   static public void main(String... args) throws Exception {
     BuilderFactory factory = new BuilderFactory();
     NGVisitor visitor = new DirectoryNGVisitor(factory);
-    visitor.accept(new OutputStreamWriter(System.out), "/roman/tipitaka (mula)/vinayapitaka/parajikapali/index.html", null);
-    visitor.accept(new OutputStreamWriter(System.out), "/roman/tipitaka (mula)/vinayapitaka/index.html", null);
+    //visitor.accept(new OutputStreamWriter(System.out), "/roman/tipitaka (mula)/vinayapitaka/parajikapali/index.html", null);
+    //visitor.accept(new OutputStreamWriter(System.out), "/roman/tipitaka (mula)/vinayapitaka/index.html", null);
     String file =
-        //"/tipitaka (mula)/vinayapitaka/parajikapali/veranjakandam";
-        "/tipitaka (mula)/vinayapitaka/pacittiyapali/5. pacittiyakandam";
+        "/tipitaka (mula)/vinayapitaka/parajikapali/veranjakandam";
+        //"/tipitaka (mula)/vinayapitaka/pacittiyapali/5. pacittiyakandam";
     //"/tipitaka (mula)/vinayapitaka/parajikapali/1. parajikakandam";
     // "/tipitaka (mula)/vinayapitaka/parajikapali/2. sanghadisesakandam";
-   // visitor.accept(new OutputStreamWriter(System.out), "roman" + file + ".html", null);
+    visitor.accept(new OutputStreamWriter(System.out), "roman" + file + ".html", null);
   }
 
   public XHtmlNGBuilder(Writer writer, NGBuilderFactory factory) {
@@ -489,10 +489,10 @@ public class XHtmlNGBuilder
   }
 
   @Override
-  public void startAlternatives(final String extra, final boolean hasSeparator) throws IOException {
+  public void startAlternatives(final String extra, final boolean hasSeparator, final String line) throws IOException {
     state.append("<div class=\"tooltip\">");
     // always use separator for consistent look and feel
-    this.alternative = new Alternative(extra, true);
+    this.alternative = new Alternative(extra, true, line);
   }
 
   @Override
@@ -509,6 +509,13 @@ public class XHtmlNGBuilder
         state.appendIndent("<div>").append(entry.getValue()).append(" <span>[").append(entry.getKey()).append("]")
             .appendEnd("</span></div>");
       }
+      state.appendIndent("<div><a href='https://github.com/tipitaka-org/tipitaka-archive/edit/master/archive/notes/")
+          .append(script).append(dir).append("/").append(name).append("-notes.xml#L")
+          .append(Integer.toString(Integer.parseInt(alternative.getLine()) + 3))
+          .append("' target='_blank' " +
+              "title='edit the vri alternative to match the correct words of the snippet - " +
+              "you need a github account for this'>report error via github</a>")
+          .appendEnd("</div>");
       state.outdent().appendLine("</div>").outdent().appendIndent("</div>");
       if (alternative.getExtra() != null && alternative.getExtra().length() > 0) {
         state.append("<span class=\"note\">[").append(alternative.getExtra()).append("]</span>");

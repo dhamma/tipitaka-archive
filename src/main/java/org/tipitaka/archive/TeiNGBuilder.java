@@ -329,8 +329,8 @@ public class TeiNGBuilder
 
   private Alternative alternative;
   @Override
-  public void startAlternatives(final String extra, final boolean hasSeparator) throws IOException {
-    alternative = new Alternative(extra, hasSeparator);
+  public void startAlternatives(final String extra, final boolean hasSeparator, final String line) throws IOException {
+    alternative = new Alternative(extra, hasSeparator, line);
   }
 
   @Override

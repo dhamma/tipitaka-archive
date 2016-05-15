@@ -61,7 +61,7 @@ public interface NGBuilder extends BaseBuilder
   void startNote() throws IOException;
   void endNote() throws IOException;
 
-  void startAlternatives(final String extra, final boolean hasSeparator) throws IOException;
+  void startAlternatives(final String extra, final boolean hasSeparator, final String line) throws IOException;
   void endAlternatives() throws IOException;
 
   void beginAlternative(final String abbr, String source) throws IOException;

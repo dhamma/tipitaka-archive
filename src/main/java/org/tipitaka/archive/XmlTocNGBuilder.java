@@ -1,8 +1,6 @@
 package org.tipitaka.archive;
 
-import java.io.BufferedReader;
 import java.io.IOException;
-import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
 import java.io.Writer;
 import java.util.Collections;
@@ -387,10 +385,10 @@ public class XmlTocNGBuilder
   }
 
   @Override
-  public void startAlternatives(final String extra, final boolean hasSeparator) throws IOException {
+  public void startAlternatives(final String extra, final boolean hasSeparator, final String line) throws IOException {
     state.append("<div class=\"tooltip\">");
     // always use separator for consistent look and feel
-    this.alternative = new Alternative(extra, true);
+    this.alternative = new Alternative(extra, true, line);
   }
 
   @Override

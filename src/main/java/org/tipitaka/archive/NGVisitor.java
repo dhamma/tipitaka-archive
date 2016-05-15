@@ -154,7 +154,8 @@ public class NGVisitor implements Visitor
       case "alternatives":
         String extra = xpp.getAttributeValue(null, "extra");
         String separator = xpp.getAttributeValue(null, "separator");
-        builder.startAlternatives(extra, "true".equals(separator));
+        String line = xpp.getAttributeValue(null, "line");
+        builder.startAlternatives(extra, "true".equals(separator), line);
         return;
       case "alternative":
         String abbr = xpp.getAttributeValue(null, "source-abbr");
