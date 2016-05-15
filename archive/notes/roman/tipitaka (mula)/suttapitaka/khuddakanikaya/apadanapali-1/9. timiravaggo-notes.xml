@@ -7,7 +7,7 @@
       <alternative source-abbr="syā." source="thai">pasādesiṃ</alternative>
     </alternatives>
     <type>auto</type>
-    <previous> Tattha cittaṃ pasādetvā </previous>
+    <snippet> Tattha cittaṃ pasādetvā </snippet>
   </note>
   <note line="12" original="tadā (syā.)" reference-line="14" id="1">
     <extra></extra>
@@ -15,7 +15,7 @@
       <alternative source-abbr="syā." source="thai">tadā</alternative>
     </alternatives>
     <type>no_match</type>
-    <previous>Gahetvā timirapupphaṃ, matthake okiriṃ ahaṃ </previous>
+    <snippet>Gahetvā timirapupphaṃ, matthake okiriṃ ahaṃ </snippet>
   </note>
   <note line="20" original="buddhapūjāyidaṃ (sī. syā.)" reference-line="23" id="2">
     <extra></extra>
@@ -25,7 +25,7 @@
       <alternative source-abbr="syā." source="thai">buddhapūjāyidaṃ</alternative>
     </alternatives>
     <type>auto</type>
-    <previous>Duggatiṃ nābhijānāmi, pupphapūjāyidaṃ </previous>
+    <snippet>Duggatiṃ nābhijānāmi, pupphapūjāyidaṃ </snippet>
   </note>
   <note line="30" original="mahārahā (syā. ka.)" reference-line="25" id="3">
     <extra></extra>
@@ -35,7 +35,7 @@
       <alternative source-abbr="ka." source="cambodian">mahārahā</alternative>
     </alternatives>
     <type>auto</type>
-    <previous> kappamhi, sattevāsuṃ mahāyasā </previous>
+    <snippet> kappamhi, sattevāsuṃ mahāyasā </snippet>
   </note>
   <note line="40" original="añjalissa (ka.)" reference-line="41" id="4">
     <extra></extra>
@@ -44,7 +44,7 @@
       <alternative source-abbr="ka." source="cambodian">añjalissa</alternative>
     </alternatives>
     <type>auto</type>
-    <previous>Añjaliñca </previous>
+    <snippet>Añjaliñca </snippet>
   </note>
   <note line="49" original="abhipatthayiṃ (syā.), abhimatthayiṃ (ka.), adhivatthayinti pabbatassa upari gacchintiattho" reference-line="80" id="5">
     <extra>, adhivatthayinti pabbatassa upari gacchintiattho</extra>
@@ -53,7 +53,7 @@
       <alternative source-abbr="ka." source="cambodian">abhimatthayiṃ</alternative>
     </alternatives>
     <type>no_match</type>
-    <previous> Pakkhijāto viyākāse, pabbataṃ adhivattayiṃ </previous>
+    <snippet> Pakkhijāto viyākāse, pabbataṃ adhivattayiṃ </snippet>
   </note>
   <note line="58" original="agacchiṃ (ka.)" reference-line="81" id="6">
     <extra></extra>
@@ -62,7 +62,7 @@
       <alternative source-abbr="ka." source="cambodian">agacchiṃ</alternative>
     </alternatives>
     <type>auto</type>
-    <previous>Adhopupphaṃ gahetvāna, āgacchiṃ </previous>
+    <snippet>Adhopupphaṃ gahetvāna, āgacchiṃ </snippet>
   </note>
   <note line="67" original="ālokito (syā.)" reference-line="84" id="7">
     <extra></extra>
@@ -71,7 +71,7 @@
       <alternative source-abbr="syā." source="thai">ālokito</alternative>
     </alternatives>
     <type>auto</type>
-    <previous>Ālokite </previous>
+    <snippet>Ālokite </snippet>
   </note>
   <note line="76" original="pāvisiṃ (sī.)" reference-line="87" id="8">
     <extra></extra>
@@ -80,7 +80,7 @@
       <alternative source-abbr="sī." source="sri lanka">pāvisiṃ</alternative>
     </alternatives>
     <type>auto</type>
-    <previous>Khāribhāraṃ gahetvāna, pāyāsiṃ </previous>
+    <snippet>Khāribhāraṃ gahetvāna, pāyāsiṃ </snippet>
   </note>
   <note line="85" original="raṃse (syā. ka.)" reference-line="106" id="9">
     <extra></extra>
@@ -90,7 +90,7 @@
       <alternative source-abbr="ka." source="cambodian">raṃse</alternative>
     </alternatives>
     <type>auto</type>
-    <previous> Raṃsyā </previous>
+    <snippet> Raṃsyā </snippet>
   </note>
   <note line="95" original="sirasā ukkuṭiko (syā.), sirasukkuṭiko (ka.)" reference-line="107" id="10">
     <extra></extra>
@@ -100,7 +100,7 @@
       <alternative source-abbr="ka." source="cambodian">sirasukkuṭiko</alternative>
     </alternatives>
     <type>auto</type>
-    <previous>Paggayha añjaliṃ vandiṃ, sirasā ukkuṭī </previous>
+    <snippet>Paggayha añjaliṃ vandiṃ, sirasā ukkuṭī </snippet>
   </note>
   <note line="105" original="addasaṃ phussasambuddhaṃ (sī. syā.)" reference-line="174" id="11">
     <extra></extra>
@@ -110,6 +110,6 @@
       <alternative source-abbr="syā." source="thai">addasaṃ phussasambuddhaṃ</alternative>
     </alternatives>
     <type>auto</type>
-    <previous>Tatthaddasaṃ phussaṃ buddhaṃ </previous>
+    <snippet>Tatthaddasaṃ phussaṃ buddhaṃ </snippet>
   </note>
 </notes>

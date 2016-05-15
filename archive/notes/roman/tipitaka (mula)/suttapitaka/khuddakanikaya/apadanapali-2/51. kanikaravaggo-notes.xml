@@ -7,7 +7,7 @@
       <alternative source-abbr="syā." source="thai">satageṇḍu</alternative>
     </alternatives>
     <type>auto</type>
-    <previous> Sahassakaṇḍaṃ satabheṇḍu </previous>
+    <snippet> Sahassakaṇḍaṃ satabheṇḍu </snippet>
   </note>
   <note line="12" original="yenicchayā yadicchakaṃ (syā.), yadicchakāyadicchakā (ka.)" reference-line="35" id="1">
     <extra></extra>
@@ -17,7 +17,7 @@
       <alternative source-abbr="ka." source="cambodian">yadicchakāyadicchakā</alternative>
     </alternatives>
     <type>auto</type>
-    <previous>Phalikāpi ca pallaṅkā, yenicchakā yadicchakā </previous>
+    <snippet>Phalikāpi ca pallaṅkā, yenicchakā yadicchakā </snippet>
   </note>
   <note line="22" original="bibbohanasamāyutaṃ… (syā. ka.)" reference-line="38" id="2">
     <extra></extra>
@@ -26,7 +26,7 @@
       <alternative source-abbr="ka." source="cambodian">bibbohanasamāyutaṃ…</alternative>
     </alternatives>
     <type>no_match</type>
-    <previous>Uddhalomikaekantaṃ, bimbohanasamāyutaṃ </previous>
+    <snippet>Uddhalomikaekantaṃ, bimbohanasamāyutaṃ </snippet>
   </note>
   <note line="31" original="yasasāva janānañca (syā.)" reference-line="134" id="3">
     <extra></extra>
@@ -35,7 +35,7 @@
       <alternative source-abbr="syā." source="thai">yasasāva janānañca</alternative>
     </alternatives>
     <type>auto</type>
-    <previous>Yasānañca dhanānañca </previous>
+    <snippet>Yasānañca dhanānañca </snippet>
   </note>
   <note line="40" original="pattabhūto (sī. pī.)" reference-line="134" id="4">
     <extra></extra>
@@ -45,7 +45,7 @@
       <alternative source-abbr="pī." source="pali text society">pattabhūto</alternative>
     </alternatives>
     <type>auto</type>
-    <previous>, aggabhūto </previous>
+    <snippet>, aggabhūto </snippet>
   </note>
   <note line="50" original="vāraphalaṃ (sī.), cāraphalaṃ (syā.), pāraphalaṃ (pī.)" reference-line="200" id="5">
     <extra></extra>
@@ -56,7 +56,7 @@
       <alternative source-abbr="pī." source="pali text society">pāraphalaṃ</alternative>
     </alternatives>
     <type>auto</type>
-    <previous>Rathiyaṃ paṭipajjantaṃ, pādaphalaṃ </previous>
+    <snippet>Rathiyaṃ paṭipajjantaṃ, pādaphalaṃ </snippet>
   </note>
   <note line="61" original="dhīrassa (sī.)" reference-line="219" id="6">
     <extra></extra>
@@ -65,7 +65,7 @@
       <alternative source-abbr="sī." source="sri lanka">dhīrassa</alternative>
     </alternatives>
     <type>auto</type>
-    <previous>Dakkhiṇeyyassa vīrassa </previous>
+    <snippet>Dakkhiṇeyyassa vīrassa </snippet>
   </note>
   <note line="70" original="ajino (syā.)" reference-line="234" id="7">
     <extra></extra>
@@ -74,7 +74,7 @@
       <alternative source-abbr="syā." source="thai">ajino</alternative>
     </alternatives>
     <type>auto</type>
-    <previous> Ajjuno </previous>
+    <snippet> Ajjuno </snippet>
   </note>
   <note line="79" original="añjaliṃ (syā.), ajelaṃ (pī.)" reference-line="237" id="8">
     <extra></extra>
@@ -84,6 +84,6 @@
       <alternative source-abbr="pī." source="pali text society">ajelaṃ</alternative>
     </alternatives>
     <type>auto</type>
-    <previous> gahetvāna, ajeliṃ </previous>
+    <snippet> gahetvāna, ajeliṃ </snippet>
   </note>
 </notes>

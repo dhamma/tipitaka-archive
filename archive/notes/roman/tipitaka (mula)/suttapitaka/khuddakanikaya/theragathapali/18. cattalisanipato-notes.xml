@@ -7,7 +7,7 @@
       <alternative source-abbr="ka." source="cambodian">taṃ</alternative>
     </alternatives>
     <type>no_match</type>
-    <previous> So me </previous>
+    <snippet> So me </snippet>
   </note>
   <note line="12" original="pettha (sī. ka.)" reference-line="17" id="1">
     <extra></extra>
@@ -17,7 +17,7 @@
       <alternative source-abbr="ka." source="cambodian">pettha</alternative>
     </alternatives>
     <type>auto</type>
-    <previous>Ālopaṃ pakkhipantassa, aṅguli cettha </previous>
+    <snippet>Ālopaṃ pakkhipantassa, aṅguli cettha </snippet>
   </note>
   <note line="22" original="kuḍḍamūlañca (sī. syā.)" reference-line="19" id="2">
     <extra></extra>
@@ -27,7 +27,7 @@
       <alternative source-abbr="syā." source="thai">kuḍḍamūlañca</alternative>
     </alternatives>
     <type>auto</type>
-    <previous> Kuṭṭamūlañca </previous>
+    <snippet> Kuṭṭamūlañca </snippet>
   </note>
   <note line="32" original="abhibhuñjati (?)" reference-line="24" id="3">
     <extra></extra>
@@ -35,7 +35,7 @@
       <alternative source-abbr="?" source="unknown">abhibhuñjati</alternative>
     </alternatives>
     <type>no_match</type>
-    <previous>Yassete abhisambhutvā </previous>
+    <snippet>Yassete abhisambhutvā </snippet>
   </note>
   <note line="40" original="attakāmassa (?)" reference-line="52" id="4">
     <extra></extra>
@@ -44,7 +44,7 @@
       <alternative source-abbr="?" source="unknown">attakāmassa</alternative>
     </alternatives>
     <type>auto</type>
-    <previous>Alaṃ me atthakāmassa </previous>
+    <snippet>Alaṃ me atthakāmassa </snippet>
   </note>
   <note line="49" original="tīnohaṃ sadiso (syā.)" reference-line="82" id="5">
     <extra></extra>
@@ -53,7 +53,7 @@
       <alternative source-abbr="syā." source="thai">tīnohaṃ sadiso</alternative>
     </alternatives>
     <type>auto</type>
-    <previous>Hīno taṃsadiso </previous>
+    <snippet>Hīno taṃsadiso </snippet>
   </note>
   <note line="58" original="jhāyasi (ka. aṭṭha.)" reference-line="106" id="6">
     <extra></extra>
@@ -63,6 +63,6 @@
       <alternative source-abbr="aṭṭha." source="aṭṭha.">jhāyasi</alternative>
     </alternatives>
     <type>auto</type>
-    <previous>Yassa te nābhijānāma, yampi nissāya jhāyati </previous>
+    <snippet>Yassa te nābhijānāma, yampi nissāya jhāyati </snippet>
   </note>
 </notes>

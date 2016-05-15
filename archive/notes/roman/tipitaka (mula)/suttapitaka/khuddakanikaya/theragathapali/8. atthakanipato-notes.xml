@@ -7,7 +7,7 @@
       <alternative source-abbr="sī." source="sri lanka">yathā vetti</alternative>
     </alternatives>
     <type>auto</type>
-    <previous>Attā ca naṃ yathāvedi </previous>
+    <snippet>Attā ca naṃ yathāvedi </snippet>
   </note>
   <note line="12" original="abhāvena (sī. aṭṭha.)" reference-line="20" id="1">
     <extra></extra>
@@ -16,7 +16,7 @@
       <alternative source-abbr="aṭṭha." source="aṭṭha.">abhāvena</alternative>
     </alternatives>
     <type>no_match</type>
-    <previous>Paññāya ca alābhena </previous>
+    <snippet>Paññāya ca alābhena </snippet>
   </note>
   <note line="21" original="passetha (ka.)" reference-line="27" id="2">
     <extra></extra>
@@ -25,7 +25,7 @@
       <alternative source-abbr="ka." source="cambodian">passetha</alternative>
     </alternatives>
     <type>auto</type>
-    <previous>Atha atthe samuppanne, sayetha </previous>
+    <snippet>Atha atthe samuppanne, sayetha </snippet>
   </note>
   <note line="30" original="yo (syā.)" reference-line="38" id="3">
     <extra></extra>
@@ -33,7 +33,7 @@
       <alternative source-abbr="syā." source="thai">yo</alternative>
     </alternatives>
     <type>no_match</type>
-    <previous>Kalyāṇasīlo so </previous>
+    <snippet>Kalyāṇasīlo so </snippet>
   </note>
   <note line="38" original="vivasane (sī. syā.)" reference-line="78" id="4">
     <extra></extra>
@@ -43,6 +43,6 @@
       <alternative source-abbr="syā." source="thai">vivasane</alternative>
     </alternatives>
     <type>auto</type>
-    <previous> ratyā vivasāne </previous>
+    <snippet> ratyā vivasāne </snippet>
   </note>
 </notes>

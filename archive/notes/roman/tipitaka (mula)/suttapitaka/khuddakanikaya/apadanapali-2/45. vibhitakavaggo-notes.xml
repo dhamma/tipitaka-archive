@@ -9,7 +9,7 @@
       <alternative source-abbr="syā." source="thai">bījamadadiṃ</alternative>
     </alternatives>
     <type>auto</type>
-    <previous> Imasmiṃyeva kappamhi, yaṃ miñjamadadiṃ </previous>
+    <snippet> Imasmiṃyeva kappamhi, yaṃ miñjamadadiṃ </snippet>
   </note>
   <note line="14" original="vibhedaka… (syā. ka.)" reference-line="24" id="1">
     <extra></extra>
@@ -18,7 +18,7 @@
       <alternative source-abbr="ka." source="cambodian">vibhedaka…</alternative>
     </alternatives>
     <type>no_match</type>
-    <previous>Itthaṃ sudaṃ āyasmā vibhītakamiñjiyo </previous>
+    <snippet>Itthaṃ sudaṃ āyasmā vibhītakamiñjiyo </snippet>
   </note>
   <note line="23" original="khāribhāraṃ haritvāna, kolamāharimassamaṃ (sī. pī.)" reference-line="30" id="2">
     <extra></extra>
@@ -28,7 +28,7 @@
       <alternative source-abbr="pī." source="pali text society">khāribhāraṃ haritvāna, kolamāharimassamaṃ</alternative>
     </alternatives>
     <type>auto</type>
-    <previous>Khāriyā pūrayitvāna, kolaṃhāsiṃ mamassamaṃ </previous>
+    <snippet>Khāriyā pūrayitvāna, kolaṃhāsiṃ mamassamaṃ </snippet>
   </note>
   <note line="33" original="beluvarukkhehi (syā.)" reference-line="52" id="3">
     <extra></extra>
@@ -37,7 +37,7 @@
       <alternative source-abbr="syā." source="thai">beluvarukkhehi</alternative>
     </alternatives>
     <type>auto</type>
-    <previous>Billarukkhehi </previous>
+    <snippet>Billarukkhehi </snippet>
   </note>
   <note line="42" original="pavanaggena (sī. syā. pī.)" reference-line="74" id="4">
     <extra></extra>
@@ -48,7 +48,7 @@
       <alternative source-abbr="pī." source="pali text society">pavanaggena</alternative>
     </alternatives>
     <type>auto</type>
-    <previous>Vipinaggena </previous>
+    <snippet>Vipinaggena </snippet>
   </note>
   <note line="53" original="ummā mālaṃ hi (syā.)" reference-line="102" id="5">
     <extra></extra>
@@ -57,7 +57,7 @@
       <alternative source-abbr="syā." source="thai">ummā mālaṃ hi</alternative>
     </alternatives>
     <type>auto</type>
-    <previous>Uttalimālaṃ </previous>
+    <snippet>Uttalimālaṃ </snippet>
   </note>
   <note line="62" original="mahāvīraṃ (sī. syā.)" reference-line="121" id="6">
     <extra></extra>
@@ -66,7 +66,7 @@
       <alternative source-abbr="syā." source="thai">mahāvīraṃ</alternative>
     </alternatives>
     <type>no_match</type>
-    <previous>Puññakkhettaṃ anuttaraṃ </previous>
+    <snippet>Puññakkhettaṃ anuttaraṃ </snippet>
   </note>
   <note line="71" original="lohitaṅkamayā (sī. syā. pī.)" reference-line="142" id="7">
     <extra></extra>
@@ -77,7 +77,7 @@
       <alternative source-abbr="pī." source="pali text society">lohitaṅkamayā</alternative>
     </alternatives>
     <type>auto</type>
-    <previous> Soṇṇamayā rūpimayā, lohitaṅgamayā </previous>
+    <snippet> Soṇṇamayā rūpimayā, lohitaṅgamayā </snippet>
   </note>
   <note line="82" original="paccayenahaṃ (sī. pī.)" reference-line="179" id="8">
     <extra></extra>
@@ -87,7 +87,7 @@
       <alternative source-abbr="pī." source="pali text society">paccayenahaṃ</alternative>
     </alternatives>
     <type>auto</type>
-    <previous> Yaṃ yaṃ disaṃ pakkamāmi, kenaci kiccayenahaṃ </previous>
+    <snippet> Yaṃ yaṃ disaṃ pakkamāmi, kenaci kiccayenahaṃ </snippet>
   </note>
   <note line="92" original="soṇṇapīṭhena kamāmi (ka.)" reference-line="180" id="9">
     <extra></extra>
@@ -96,7 +96,7 @@
       <alternative source-abbr="ka." source="cambodian">soṇṇapīṭhena kamāmi</alternative>
     </alternatives>
     <type>auto</type>
-    <previous>Soṇṇapīṭhe akkamāmi </previous>
+    <snippet>Soṇṇapīṭhe akkamāmi </snippet>
   </note>
   <note line="101" original="athoḷārāni (sī. pī.), aggoḷārāni (syā.)" reference-line="198" id="10">
     <extra></extra>
@@ -107,7 +107,7 @@
       <alternative source-abbr="syā." source="thai">aggoḷārāni</alternative>
     </alternatives>
     <type>auto</type>
-    <previous> Atoḷārāni </previous>
+    <snippet> Atoḷārāni </snippet>
   </note>
   <note line="112" original="visukammena (syā. ka.)" reference-line="227" id="11">
     <extra></extra>
@@ -117,6 +117,6 @@
       <alternative source-abbr="ka." source="cambodian">visukammena</alternative>
     </alternatives>
     <type>auto</type>
-    <previous>Kāsikaṃ nāma nagaraṃ, vissakammena </previous>
+    <snippet>Kāsikaṃ nāma nagaraṃ, vissakammena </snippet>
   </note>
 </notes>

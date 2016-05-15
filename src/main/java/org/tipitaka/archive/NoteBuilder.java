@@ -141,7 +141,7 @@ public class NoteBuilder
         state.append("    <type>").append(type.name()).append("</type>\n");
         if (!previous.trim().isEmpty()) {
           state.nextNumber();
-          state.append("    <previous>").append(previous.replace("‘‘", "")).append("</previous>\n");
+          state.append("    <snippet>").append(previous.replace("‘‘", "")).append("</snippet>\n");
         }
       }
       else {

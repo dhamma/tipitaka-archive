@@ -7,7 +7,7 @@
       <alternative source-abbr="ka." source="cambodian">amataṃ padaṃ</alternative>
     </alternatives>
     <type>auto</type>
-    <previous> amatapadaṃ </previous>
+    <snippet> amatapadaṃ </snippet>
   </note>
   <note line="12" original="etaṃ (sī. syā. kaṃ. pī.)" reference-line="6" id="1">
     <extra></extra>
@@ -19,7 +19,7 @@
       <alternative source-abbr="pī." source="pali text society">etaṃ</alternative>
     </alternatives>
     <type>auto</type>
-    <previous> Evaṃ </previous>
+    <snippet> Evaṃ </snippet>
   </note>
   <note line="24" original="satimato (sī. syā. ka.)" reference-line="12" id="2">
     <extra></extra>
@@ -30,7 +30,7 @@
       <alternative source-abbr="ka." source="cambodian">satimato</alternative>
     </alternatives>
     <type>auto</type>
-    <previous> Uṭṭhānavato satīmato </previous>
+    <snippet> Uṭṭhānavato satīmato </snippet>
   </note>
   <note line="35" original="apamattassa (?)" reference-line="13" id="3">
     <extra></extra>
@@ -39,7 +39,7 @@
       <alternative source-abbr="?" source="unknown">apamattassa</alternative>
     </alternatives>
     <type>auto</type>
-    <previous>Saññatassa dhammajīvino, appamattassa </previous>
+    <snippet>Saññatassa dhammajīvino, appamattassa </snippet>
   </note>
   <note line="44" original="sandhavaṃ (ka)" reference-line="21" id="4">
     <extra></extra>
@@ -47,7 +47,7 @@
       <alternative source-abbr="ka." source="cambodian">sandhavaṃ</alternative>
     </alternatives>
     <type>no_match</type>
-    <previous> Mā pamādamanuyuñjetha, mā kāmaratisanthavaṃ </previous>
+    <snippet> Mā pamādamanuyuñjetha, mā kāmaratisanthavaṃ </snippet>
   </note>
   <note line="52" original="bhummaṭṭhe (sī. syā.)" reference-line="26" id="5">
     <extra></extra>
@@ -57,6 +57,6 @@
       <alternative source-abbr="syā." source="thai">bhummaṭṭhe</alternative>
     </alternatives>
     <type>auto</type>
-    <previous>Pabbataṭṭhova bhūmaṭṭhe </previous>
+    <snippet>Pabbataṭṭhova bhūmaṭṭhe </snippet>
   </note>
 </notes>

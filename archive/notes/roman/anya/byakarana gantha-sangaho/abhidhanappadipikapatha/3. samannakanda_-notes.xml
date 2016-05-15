@@ -7,7 +7,7 @@
       <alternative source-abbr="ṭī." source="ṭī.">rattaṃ</alternative>
     </alternatives>
     <type>auto</type>
-    <previous>Nattaṃ </previous>
+    <snippet>Nattaṃ </snippet>
   </note>
   <note line="12" original="vo (ka.)" reference-line="50" id="1">
     <extra></extra>
@@ -15,7 +15,7 @@
       <alternative source-abbr="ka." source="cambodian">vo</alternative>
     </alternatives>
     <type>no_match</type>
-    <previous> Sudaṃ kho </previous>
+    <snippet> Sudaṃ kho </snippet>
   </note>
   <note line="20" original="sanā (ka.)" reference-line="59" id="2">
     <extra></extra>
@@ -24,7 +24,7 @@
       <alternative source-abbr="ka." source="cambodian">sanā</alternative>
     </alternatives>
     <type>auto</type>
-    <previous>sadā sanaṃ</previous>
+    <snippet>sadā sanaṃ</snippet>
   </note>
   <note line="29" original="dhi (ka.)" reference-line="83" id="3">
     <extra></extra>
@@ -33,7 +33,7 @@
       <alternative source-abbr="ka." source="cambodian">dhi</alternative>
     </alternatives>
     <type>auto</type>
-    <previous>dhī</previous>
+    <snippet>dhī</snippet>
   </note>
   <note line="38" original="bhāga’nicchaya (bhāga+anicchaya-ṭī)" reference-line="126" id="4">
     <extra></extra>
@@ -42,7 +42,7 @@
       <alternative source-abbr="bhāga+anicchaya-ṭī" source="bhāga+anicchaya-ṭī">bhāga’nicchaya</alternative>
     </alternatives>
     <type>auto</type>
-    <previous> jānane cā’dho,bhāga nicchaya </previous>
+    <snippet> jānane cā’dho,bhāga nicchaya </snippet>
   </note>
   <note line="47" original="upetya=upa+iti" reference-line="168" id="5">
     <type>raw</type>
@@ -53,7 +53,7 @@
       <alternative source-abbr="ṭī." source="ṭī.">svīkāra</alternative>
     </alternatives>
     <type>no_match</type>
-    <previous> Pasaṃsāgarahāsaññā, sīkārādo </previous>
+    <snippet> Pasaṃsāgarahāsaññā, sīkārādo </snippet>
   </note>
   <note line="58" original="santanālapane (ka.)" reference-line="189" id="7">
     <extra></extra>
@@ -62,7 +62,7 @@
       <alternative source-abbr="ka." source="cambodian">santanālapane</alternative>
     </alternatives>
     <type>auto</type>
-    <previous> Pucchā’vadhāraṇā’nuññā, sāntvanā’lapane </previous>
+    <snippet> Pucchā’vadhāraṇā’nuññā, sāntvanā’lapane </snippet>
   </note>
   <note line="67" original="hiṃsāpane (ṭī.)" reference-line="219" id="8">
     <extra></extra>
@@ -71,7 +71,7 @@
       <alternative source-abbr="ṭī." source="ṭī.">hiṃsāpane</alternative>
     </alternatives>
     <type>auto</type>
-    <previous>Bhiṃsāpane </previous>
+    <snippet>Bhiṃsāpane </snippet>
   </note>
   <note line="76" original="dhi (ka.)" reference-line="219" id="9">
     <extra></extra>
@@ -80,6 +80,6 @@
       <alternative source-abbr="ka." source="cambodian">dhi</alternative>
     </alternatives>
     <type>auto</type>
-    <previous>dhī</previous>
+    <snippet>dhī</snippet>
   </note>
 </notes>

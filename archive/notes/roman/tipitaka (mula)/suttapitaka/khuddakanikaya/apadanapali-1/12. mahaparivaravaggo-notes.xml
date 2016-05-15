@@ -7,7 +7,7 @@
       <alternative source-abbr="ka." source="cambodian">maṃ niccaṃ</alternative>
     </alternatives>
     <type>auto</type>
-    <previous>Upaṭṭhahanti sakkaccaṃ </previous>
+    <snippet>Upaṭṭhahanti sakkaccaṃ </snippet>
   </note>
   <note line="12" original="soḷasāsiṃsu vāhano (syā.)" reference-line="28" id="1">
     <extra></extra>
@@ -15,7 +15,7 @@
       <alternative source-abbr="syā." source="thai">soḷasāsiṃsu vāhano</alternative>
     </alternatives>
     <type>no_match</type>
-    <previous> Ito pannarase kappe, soḷasāsuṃ suvāhanā </previous>
+    <snippet> Ito pannarase kappe, soḷasāsuṃ suvāhanā </snippet>
   </note>
   <note line="20" original="iminā pādadvayena purimapādadvayassa purato bhavitabbaṃ" reference-line="46" id="2">
     <type>raw</type>
@@ -32,7 +32,7 @@
       <alternative source-abbr="ka." source="cambodian">pariggahena</alternative>
     </alternatives>
     <type>auto</type>
-    <previous> Pariggahe </previous>
+    <snippet> Pariggahe </snippet>
   </note>
   <note line="37" original="samupabbūḷho (sī.)" reference-line="67" id="5">
     <extra></extra>
@@ -41,7 +41,7 @@
       <alternative source-abbr="sī." source="sri lanka">samupabbūḷho</alternative>
     </alternatives>
     <type>auto</type>
-    <previous>Ahosi samupabyūḷho </previous>
+    <snippet>Ahosi samupabyūḷho </snippet>
   </note>
   <note line="46" original="pavattatha (sī.)" reference-line="67" id="6">
     <extra></extra>
@@ -50,7 +50,7 @@
       <alternative source-abbr="sī." source="sri lanka">pavattatha</alternative>
     </alternatives>
     <type>auto</type>
-    <previous>, mahāghoso avattatha </previous>
+    <snippet>, mahāghoso avattatha </snippet>
   </note>
   <note line="55" original="amhaṃ (sī.)" reference-line="75" id="7">
     <extra></extra>
@@ -59,7 +59,7 @@
       <alternative source-abbr="sī." source="sri lanka">amhaṃ</alternative>
     </alternatives>
     <type>auto</type>
-    <previous> Mayhaṃ </previous>
+    <snippet> Mayhaṃ </snippet>
   </note>
   <note line="64" original="senāyo vimhitā ahū (sī.), senāpi samitā ahu (syā.)" reference-line="84" id="8">
     <extra></extra>
@@ -69,7 +69,7 @@
       <alternative source-abbr="syā." source="thai">senāpi samitā ahu</alternative>
     </alternatives>
     <type>auto</type>
-    <previous> Dvinnampi yakkharājūnaṃ, senā sā vimhitā ahu </previous>
+    <snippet> Dvinnampi yakkharājūnaṃ, senā sā vimhitā ahu </snippet>
   </note>
   <note line="74" original="uddhari pana (sī. syā.)" reference-line="87" id="9">
     <extra></extra>
@@ -78,7 +78,7 @@
       <alternative source-abbr="syā." source="thai">uddhari pana</alternative>
     </alternatives>
     <type>no_match</type>
-    <previous> janataṃ, padamuddhari </previous>
+    <snippet> janataṃ, padamuddhari </snippet>
   </note>
   <note line="83" original="ayañca gāthā paṭisambhidā catassetigāthāya ekasambandhā bhavitaṃ yuttā" reference-line="120" id="10">
     <type>raw</type>
@@ -90,7 +90,7 @@
       <alternative source-abbr="syā." source="thai">otataṃ vitataṃ</alternative>
     </alternatives>
     <type>auto</type>
-    <previous> Otataṃ vitthataṃ </previous>
+    <snippet> Otataṃ vitthataṃ </snippet>
   </note>
   <note line="95" original="sucicittaṃ papañcakaṃ (syā.)" reference-line="188" id="12">
     <extra></extra>
@@ -98,7 +98,7 @@
       <alternative source-abbr="syā." source="thai">sucicittaṃ papañcakaṃ</alternative>
     </alternatives>
     <type>no_match</type>
-    <previous> mayhaṃ, suvicittavaṭaṃsakaṃ </previous>
+    <snippet> mayhaṃ, suvicittavaṭaṃsakaṃ </snippet>
   </note>
   <note line="103" original="uppāto (?)" reference-line="192" id="13">
     <extra></extra>
@@ -107,7 +107,7 @@
       <alternative source-abbr="?" source="unknown">uppāto</alternative>
     </alternatives>
     <type>auto</type>
-    <previous>Uppādo </previous>
+    <snippet>Uppādo </snippet>
   </note>
   <note line="112" original="pāṇabhutaṃ (syā.), pāṇabhūnaṃ (sī. ka.)" reference-line="195" id="14">
     <extra></extra>
@@ -118,7 +118,7 @@
       <alternative source-abbr="ka." source="cambodian">pāṇabhūnaṃ</alternative>
     </alternatives>
     <type>auto</type>
-    <previous>Pāṇabhūte </previous>
+    <snippet>Pāṇabhūte </snippet>
   </note>
   <note line="123" original="sagāravā (syā.)" reference-line="195" id="15">
     <extra></extra>
@@ -126,7 +126,7 @@
       <alternative source-abbr="syā." source="thai">sagāravā</alternative>
     </alternatives>
     <type>no_match</type>
-    <previous> bhayaṃ natthi, ekaggā hotha saṃvutā </previous>
+    <snippet> bhayaṃ natthi, ekaggā hotha saṃvutā </snippet>
   </note>
   <note line="131" original="paṭhavī (sī. syā.)" reference-line="198" id="16">
     <extra></extra>
@@ -136,7 +136,7 @@
       <alternative source-abbr="syā." source="thai">paṭhavī</alternative>
     </alternatives>
     <type>auto</type>
-    <previous>Yasmiṃ uppajjamānamhi, pathavī </previous>
+    <snippet>Yasmiṃ uppajjamānamhi, pathavī </snippet>
   </note>
   <note line="141" original="karitaṃ (sī. syā.), kāritaṃ (ka.)" reference-line="201" id="17">
     <extra></extra>
@@ -147,7 +147,7 @@
       <alternative source-abbr="ka." source="cambodian">kāritaṃ</alternative>
     </alternatives>
     <type>auto</type>
-    <previous>Avasesesu kappesu, kusalaṃ caritaṃ </previous>
+    <snippet>Avasesesu kappesu, kusalaṃ caritaṃ </snippet>
   </note>
   <note line="152" original="anusuyare (sī.)" reference-line="215" id="18">
     <extra></extra>
@@ -156,7 +156,7 @@
       <alternative source-abbr="sī." source="sri lanka">anusuyare</alternative>
     </alternatives>
     <type>auto</type>
-    <previous>Vippanaṭṭhā brahāraññe, andhāva anusuyyare </previous>
+    <snippet>Vippanaṭṭhā brahāraññe, andhāva anusuyyare </snippet>
   </note>
   <note line="161" original="saṃharitvāna (sī. syā.), saṅkaritvāna (ka.)" reference-line="275" id="19">
     <extra></extra>
@@ -167,6 +167,6 @@
       <alternative source-abbr="ka." source="cambodian">saṅkaritvāna</alternative>
     </alternatives>
     <type>auto</type>
-    <previous> Saṅkharitvāna </previous>
+    <snippet> Saṅkharitvāna </snippet>
   </note>
 </notes>

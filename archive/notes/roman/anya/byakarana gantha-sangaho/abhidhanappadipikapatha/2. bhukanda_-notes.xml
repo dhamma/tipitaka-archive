@@ -7,7 +7,7 @@
       <alternative source-abbr="ṭī." source="ṭī.">rājaṭhānī</alternative>
     </alternatives>
     <type>auto</type>
-    <previous>Thiyaṃ tu rājadhānī </previous>
+    <snippet>Thiyaṃ tu rājadhānī </snippet>
   </note>
   <note line="12" original="saṃsumāra (ṭīkā)" reference-line="11" id="1">
     <extra></extra>
@@ -15,7 +15,7 @@
       <alternative source-abbr="ṭīkā" source="ṭīkā">saṃsumāra</alternative>
     </alternatives>
     <type>no_match</type>
-    <previous>Susumāragiraṃ </previous>
+    <snippet>Susumāragiraṃ </snippet>
   </note>
   <note line="20" original="uddāpa, uddāpa" reference-line="20" id="2">
     <type>raw</type>
@@ -26,7 +26,7 @@
       <alternative source-abbr="ṭī." source="ṭī.">‘adhibhū’ti īrito kathito</alternative>
     </alternatives>
     <type>no_match</type>
-    <previous> bhoga, maccādibhyo dhi tūdito </previous>
+    <snippet> bhoga, maccādibhyo dhi tūdito </snippet>
   </note>
   <note line="31" original="dampatīti padaṃ pulliṅga bahuvacanantaṃ ikārantaṃ, tudampati (ṭī.)" reference-line="144" id="4">
     <extra></extra>
@@ -35,7 +35,7 @@
       <alternative source-abbr="ṭī." source="ṭī.">dampatīti padaṃ pulliṅga bahuvacanantaṃ ikārantaṃ, tudampati</alternative>
     </alternatives>
     <type>auto</type>
-    <previous> Jāyāpatī janipatī, jayampatī tu dampatī </previous>
+    <snippet> Jāyāpatī janipatī, jayampatī tu dampatī </snippet>
   </note>
   <note line="40" original="khappo (ṭī.)" reference-line="203" id="5">
     <extra></extra>
@@ -44,7 +44,7 @@
       <alternative source-abbr="ṭī." source="ṭī.">khappo</alternative>
     </alternatives>
     <type>auto</type>
-    <previous> Bappo </previous>
+    <snippet> Bappo </snippet>
   </note>
   <note line="49" original="gaṇḍatthī (ṭī.) hanvatthī=hanu+itthī; hana+u (ṇvādi)" reference-line="210" id="6">
     <extra></extra>
@@ -53,7 +53,7 @@
       <alternative source-abbr="ṇvādi" source="ṇvādi">hanvatthī=hanu+itthī; hana+u</alternative>
     </alternatives>
     <type>no_match</type>
-    <previous>Gaṇḍo kapolo hanvitthī </previous>
+    <snippet>Gaṇḍo kapolo hanvitthī </snippet>
   </note>
   <note line="58" original="catukkaṃ udare; 944-gāthāpi passitabbā" reference-line="239" id="7">
     <type>raw</type>
@@ -64,7 +64,7 @@
       <alternative source-abbr="ka." source="cambodian">kiṃkaṇī kiṃ kaṇikā</alternative>
     </alternatives>
     <type>no_match</type>
-    <previous> Kaṅkaṇaṃ karabhūsā tha, kiṅkiṇī </previous>
+    <snippet> Kaṅkaṇaṃ karabhūsā tha, kiṅkiṇī </snippet>
   </note>
   <note line="69" original="pupphaṃ dāmaṃ (ka.)" reference-line="348" id="9">
     <extra></extra>
@@ -72,7 +72,7 @@
       <alternative source-abbr="ka." source="cambodian">pupphaṃ dāmaṃ</alternative>
     </alternatives>
     <type>no_match</type>
-    <previous>Mālā mālyaṃ pupphadāme </previous>
+    <snippet>Mālā mālyaṃ pupphadāme </snippet>
   </note>
   <note line="77" original="pīnāsotipi pāṭho" reference-line="402" id="10">
     <type>raw</type>
@@ -84,7 +84,7 @@
       <alternative source-abbr="ka." source="cambodian">bhagandaro</alternative>
     </alternatives>
     <type>auto</type>
-    <previous>Visūcikā iti mahā, vireko tha bhagandalo </previous>
+    <snippet>Visūcikā iti mahā, vireko tha bhagandalo </snippet>
   </note>
   <note line="89" original="bhaddā kaccānā (ṭī.)" reference-line="444" id="12">
     <extra></extra>
@@ -93,7 +93,7 @@
       <alternative source-abbr="ṭī." source="ṭī.">bhaddā kaccānā</alternative>
     </alternatives>
     <type>auto</type>
-    <previous>Bhaddakaccānā </previous>
+    <snippet>Bhaddakaccānā </snippet>
   </note>
   <note line="98" original="suhajjo (ṭī.)" reference-line="474" id="13">
     <extra></extra>
@@ -101,7 +101,7 @@
       <alternative source-abbr="ṭī." source="ṭī.">suhajjo</alternative>
     </alternatives>
     <type>no_match</type>
-    <previous> Mitto nitthī vayasso ca, sahāyo </previous>
+    <snippet> Mitto nitthī vayasso ca, sahāyo </snippet>
   </note>
   <note line="106" original="mantu (ka.)" reference-line="502" id="14">
     <extra></extra>
@@ -109,7 +109,7 @@
       <alternative source-abbr="ka." source="cambodian">mantu</alternative>
     </alternatives>
     <type>no_match</type>
-    <previous> Āgu vutta </previous>
+    <snippet> Āgu vutta </snippet>
   </note>
   <note line="114" original="(sakaṭo pi+anaṃ)" reference-line="565" id="15">
     <type>raw</type>
@@ -120,7 +120,7 @@
       <alternative source-abbr="ka." source="cambodian">akkhobhiṇī</alternative>
     </alternatives>
     <type>no_match</type>
-    <previous>kkhobhanī</previous>
+    <snippet>kkhobhanī</snippet>
   </note>
   <note line="125" original="āyudhantipi pāṭho" reference-line="605" id="17">
     <type>raw</type>
@@ -132,7 +132,7 @@
       <alternative source-abbr="ka." source="cambodian">urappo</alternative>
     </alternatives>
     <type>auto</type>
-    <previous> Vāṇo kaṇḍa musu dvīsu, khurappo </previous>
+    <snippet> Vāṇo kaṇḍa musu dvīsu, khurappo </snippet>
   </note>
   <note line="137" original="kudhārī (ṭī.)" reference-line="630" id="19">
     <extra></extra>
@@ -141,7 +141,7 @@
       <alternative source-abbr="ṭī." source="ṭī.">kudhārī</alternative>
     </alternatives>
     <type>auto</type>
-    <previous>Kuṭhārī </previous>
+    <snippet>Kuṭhārī </snippet>
   </note>
   <note line="146" original="uppāto (ka.)1027-gāthā passitabbā" reference-line="656" id="20">
     <extra>1027-gāthā passitabbā</extra>
@@ -150,7 +150,7 @@
       <alternative source-abbr="ka." source="cambodian">uppāto</alternative>
     </alternatives>
     <type>auto</type>
-    <previous>Uppādo</previous>
+    <snippet>Uppādo</snippet>
   </note>
   <note line="155" original="niyuddhaṃ (ka.)" reference-line="659" id="21">
     <extra></extra>
@@ -159,7 +159,7 @@
       <alternative source-abbr="ka." source="cambodian">niyuddhaṃ</alternative>
     </alternatives>
     <type>auto</type>
-    <previous>Nibbuddhaṃ</previous>
+    <snippet>Nibbuddhaṃ</snippet>
   </note>
   <note line="164" original="nissayadāyako (ṭī.)" reference-line="687" id="22">
     <extra></extra>
@@ -168,7 +168,7 @@
       <alternative source-abbr="ṭī." source="ṭī.">nissayadāyako</alternative>
     </alternatives>
     <type>auto</type>
-    <previous>Upajjhāyo upajjhā thā, cariyo nissayadādiko </previous>
+    <snippet>Upajjhāyo upajjhā thā, cariyo nissayadādiko </snippet>
   </note>
   <note line="173" original="iditvijo (ṭī.)" reference-line="698" id="23">
     <extra></extra>
@@ -177,7 +177,7 @@
       <alternative source-abbr="ṭī." source="ṭī.">iditvijo</alternative>
     </alternatives>
     <type>auto</type>
-    <previous> Itvijo </previous>
+    <snippet> Itvijo </snippet>
   </note>
   <note line="182" original="‘‘asita’’ saddo puṃnapuṃsake-1005-gāthā passitabbā" reference-line="801" id="24">
     <type>raw</type>
@@ -188,7 +188,7 @@
       <alternative source-abbr="ṭī." source="ṭī.">viññeyyaṃ</alternative>
     </alternatives>
     <type>no_match</type>
-    <previous>Kiṭṭhañca sassaṃ dhaññañca </previous>
+    <snippet>Kiṭṭhañca sassaṃ dhaññañca </snippet>
   </note>
   <note line="193" original="thambhakarī (ka.)" reference-line="815" id="26">
     <extra></extra>
@@ -197,7 +197,7 @@
       <alternative source-abbr="ka." source="cambodian">thambhakarī</alternative>
     </alternatives>
     <type>auto</type>
-    <previous>, vīhi thambakarī </previous>
+    <snippet>, vīhi thambakarī </snippet>
   </note>
   <note line="202" original="thambho (ka.)" reference-line="822" id="27">
     <extra></extra>
@@ -206,7 +206,7 @@
       <alternative source-abbr="ka." source="cambodian">thambho</alternative>
     </alternatives>
     <type>auto</type>
-    <previous>thambo</previous>
+    <snippet>thambo</snippet>
   </note>
   <note line="211" original="biḷāla (ka.)" reference-line="843" id="28">
     <extra></extra>
@@ -215,7 +215,7 @@
       <alternative source-abbr="ka." source="cambodian">biḷāla</alternative>
     </alternatives>
     <type>auto</type>
-    <previous>Biḷakaṃ </previous>
+    <snippet>Biḷakaṃ </snippet>
   </note>
   <note line="220" original="nahutaṃ-nayutaṃ (katthaci)" reference-line="884" id="29">
     <extra></extra>
@@ -224,7 +224,7 @@
       <alternative source-abbr="katthaci" source="katthaci">nahutaṃ-nayutaṃ</alternative>
     </alternatives>
     <type>auto</type>
-    <previous> Sataṃ sahassaṃ niyutaṃ </previous>
+    <snippet> Sataṃ sahassaṃ niyutaṃ </snippet>
   </note>
   <note line="229" original="akkhobhiṇī (ka.)" reference-line="887" id="30">
     <extra></extra>
@@ -233,7 +233,7 @@
       <alternative source-abbr="ka." source="cambodian">akkhobhiṇī</alternative>
     </alternatives>
     <type>auto</type>
-    <previous> Akkhobhanītthiyaṃ </previous>
+    <snippet> Akkhobhanītthiyaṃ </snippet>
   </note>
   <note line="238" original="rīrī (ṭī.)" reference-line="946" id="31">
     <extra></extra>
@@ -242,7 +242,7 @@
       <alternative source-abbr="ṭī." source="ṭī.">rīrī</alternative>
     </alternatives>
     <type>auto</type>
-    <previous>Rīti </previous>
+    <snippet>Rīti </snippet>
   </note>
   <note line="247" original="balibadda (ka.)" reference-line="957" id="32">
     <extra></extra>
@@ -251,7 +251,7 @@
       <alternative source-abbr="ka." source="cambodian">balibadda</alternative>
     </alternatives>
     <type>auto</type>
-    <previous>Usabho balībaddho </previous>
+    <snippet>Usabho balībaddho </snippet>
   </note>
   <note line="256" original="kakudo (ka.)" reference-line="962" id="33">
     <extra></extra>
@@ -260,7 +260,7 @@
       <alternative source-abbr="ka." source="cambodian">kakudo</alternative>
     </alternatives>
     <type>auto</type>
-    <previous> ca khandhadeso tha, kakudho </previous>
+    <snippet> ca khandhadeso tha, kakudho </snippet>
   </note>
   <note line="265" original="pāṇiyo (katthaci)" reference-line="1010" id="34">
     <extra></extra>
@@ -269,7 +269,7 @@
       <alternative source-abbr="katthaci" source="katthaci">pāṇiyo</alternative>
     </alternatives>
     <type>auto</type>
-    <previous>Pāṇivādo tu pāṇigho </previous>
+    <snippet>Pāṇivādo tu pāṇigho </snippet>
   </note>
   <note line="274" original="vākarā (sī. ṭī.)" reference-line="1043" id="35">
     <extra></extra>
@@ -279,7 +279,7 @@
       <alternative source-abbr="ṭī." source="ṭī.">vākarā</alternative>
     </alternatives>
     <type>auto</type>
-    <previous>Bandhanaṃ gaṇṭhi pāso tha, vāgurā </previous>
+    <snippet>Bandhanaṃ gaṇṭhi pāso tha, vāgurā </snippet>
   </note>
   <note line="284" original="aṭṭhāpadaṃ (ṭī. sī.)" reference-line="1084" id="36">
     <extra></extra>
@@ -288,7 +288,7 @@
       <alternative source-abbr="ṭī. sī." source="ṭī. sī.">aṭṭhāpadaṃ</alternative>
     </alternatives>
     <type>auto</type>
-    <previous>ṭṭhapadaṃ</previous>
+    <snippet>ṭṭhapadaṃ</snippet>
   </note>
   <note line="293" original="pūgo (ka.)" reference-line="1189" id="37">
     <extra></extra>
@@ -296,7 +296,7 @@
       <alternative source-abbr="ka." source="cambodian">pūgo</alternative>
     </alternatives>
     <type>no_match</type>
-    <previous>Yūpo </previous>
+    <snippet>Yūpo </snippet>
   </note>
   <note line="301" original="tiṇasūlaṃ (ṭī.)" reference-line="1220" id="38">
     <extra></extra>
@@ -305,7 +305,7 @@
       <alternative source-abbr="ṭī." source="ṭī.">tiṇasūlaṃ</alternative>
     </alternatives>
     <type>auto</type>
-    <previous>Niguṇṭhi’tthī sinduvāro, tiṇasuññaṃ </previous>
+    <snippet>Niguṇṭhi’tthī sinduvāro, tiṇasuññaṃ </snippet>
   </note>
   <note line="310" original="devatāḍo (sī. amarakosa)" reference-line="1232" id="39">
     <extra></extra>
@@ -315,7 +315,7 @@
       <alternative source-abbr="amarakosa" source="amarakosa">devatāḍo</alternative>
     </alternatives>
     <type>auto</type>
-    <previous>Devatāso </previous>
+    <snippet>Devatāso </snippet>
   </note>
   <note line="320" original="jiñjukā (ka.)" reference-line="1256" id="40">
     <extra></extra>
@@ -324,7 +324,7 @@
       <alternative source-abbr="ka." source="cambodian">jiñjukā</alternative>
     </alternatives>
     <type>auto</type>
-    <previous>Jiñjuko </previous>
+    <snippet>Jiñjuko </snippet>
   </note>
   <note line="329" original="madhulaṭṭhikā (sī. ṭī.)" reference-line="1262" id="41">
     <extra></extra>
@@ -334,7 +334,7 @@
       <alternative source-abbr="ṭī." source="ṭī.">madhulaṭṭhikā</alternative>
     </alternatives>
     <type>auto</type>
-    <previous>Athāpi madhukaṃ yaṭṭhi, madhukāmadhuyaṭṭhikā </previous>
+    <snippet>Athāpi madhukaṃ yaṭṭhi, madhukāmadhuyaṭṭhikā </snippet>
   </note>
   <note line="339" original="gonaṅgalo (ṭī.)" reference-line="1352" id="42">
     <extra></extra>
@@ -343,7 +343,7 @@
       <alternative source-abbr="ṭī." source="ṭī.">gonaṅgalo</alternative>
     </alternatives>
     <type>auto</type>
-    <previous>Gonaṅgulo</previous>
+    <snippet>Gonaṅgulo</snippet>
   </note>
   <note line="348" original="sigālo (sī.)" reference-line="1354" id="43">
     <extra></extra>
@@ -352,7 +352,7 @@
       <alternative source-abbr="sī." source="sri lanka">sigālo</alternative>
     </alternatives>
     <type>auto</type>
-    <previous> Siṅgālo </previous>
+    <snippet> Siṅgālo </snippet>
   </note>
   <note line="357" original="mahiso (sī.)" reference-line="1357" id="44">
     <extra></extra>
@@ -361,7 +361,7 @@
       <alternative source-abbr="sī." source="sri lanka">mahiso</alternative>
     </alternatives>
     <type>auto</type>
-    <previous> Mahiṃso </previous>
+    <snippet> Mahiṃso </snippet>
   </note>
   <note line="366" original="bilavo (ṭī.)" reference-line="1392" id="45">
     <extra></extra>
@@ -370,7 +370,7 @@
       <alternative source-abbr="ṭī." source="ṭī.">bilavo</alternative>
     </alternatives>
     <type>auto</type>
-    <previous>Kāraṇḍavo ca pilavo </previous>
+    <snippet>Kāraṇḍavo ca pilavo </snippet>
   </note>
   <note line="375" original="jhillikā (ka.)" reference-line="1456" id="46">
     <extra></extra>
@@ -379,7 +379,7 @@
       <alternative source-abbr="ka." source="cambodian">jhillikā</alternative>
     </alternatives>
     <type>auto</type>
-    <previous> Sūcimukho ca makaso, cīrī tu jhallikā </previous>
+    <snippet> Sūcimukho ca makaso, cīrī tu jhallikā </snippet>
   </note>
   <note line="384" original="uḷupo (ka.)" reference-line="1517" id="47">
     <extra></extra>
@@ -388,7 +388,7 @@
       <alternative source-abbr="ka." source="cambodian">uḷupo</alternative>
     </alternatives>
     <type>auto</type>
-    <previous>Uḷumpo </previous>
+    <snippet>Uḷumpo </snippet>
   </note>
   <note line="393" original="ammaṇaṃ (sī.)" reference-line="1527" id="48">
     <extra></extra>
@@ -397,7 +397,7 @@
       <alternative source-abbr="sī." source="sri lanka">ammaṇaṃ</alternative>
     </alternatives>
     <type>auto</type>
-    <previous>Poto pavahanaṃ vuttaṃ, doṇi tvi’tthī tathā’mbaṇaṃ </previous>
+    <snippet>Poto pavahanaṃ vuttaṃ, doṇi tvi’tthī tathā’mbaṇaṃ </snippet>
   </note>
   <note line="402" original="saṃsumāro (ṭī.), suṃsumāro (sī.)" reference-line="1545" id="49">
     <extra></extra>
@@ -407,7 +407,7 @@
       <alternative source-abbr="sī." source="sri lanka">suṃsumāro</alternative>
     </alternatives>
     <type>auto</type>
-    <previous>Susumāro </previous>
+    <snippet>Susumāro </snippet>
   </note>
   <note line="412" original="sarayū (ka.)" reference-line="1570" id="50">
     <extra></extra>
@@ -415,7 +415,7 @@
       <alternative source-abbr="ka." source="cambodian">sarayū</alternative>
     </alternatives>
     <type>no_match</type>
-    <previous> Gaṅgā’ciravatī ceva, yamunā sarabhū (sarabū </previous>
+    <snippet> Gaṅgā’ciravatī ceva, yamunā sarabhū (sarabū </snippet>
   </note>
   <note line="420" original="sarasvatī (sī. ṭī.)" reference-line="1571" id="51">
     <extra></extra>
@@ -425,7 +425,7 @@
       <alternative source-abbr="ṭī." source="ṭī.">sarasvatī</alternative>
     </alternatives>
     <type>auto</type>
-    <previous> pañca, candabhāgā sarassatī </previous>
+    <snippet> pañca, candabhāgā sarassatī </snippet>
   </note>
   <note line="430" original="panāḷī (ṭī.)" reference-line="1574" id="52">
     <extra></extra>
@@ -434,6 +434,6 @@
       <alternative source-abbr="ṭī." source="ṭī.">panāḷī</alternative>
     </alternatives>
     <type>auto</type>
-    <previous>Vārimaggo paṇālī’tthī </previous>
+    <snippet>Vārimaggo paṇālī’tthī </snippet>
   </note>
 </notes>

@@ -7,7 +7,7 @@
       <alternative source-abbr="ka." source="cambodian">rājānaṃ</alternative>
     </alternatives>
     <type>auto</type>
-    <previous> Yadā arindamaṃ rājaṃ </previous>
+    <snippet> Yadā arindamaṃ rājaṃ </snippet>
   </note>
   <note line="12" original="yo so (syā. kaṃ. ka.)" reference-line="24" id="1">
     <extra></extra>
@@ -17,7 +17,7 @@
       <alternative source-abbr="ka." source="cambodian">yo so</alternative>
     </alternatives>
     <type>no_match</type>
-    <previous> Yopi </previous>
+    <snippet> Yopi </snippet>
   </note>
   <note line="22" original="sudhammakaṃ nāma (sī.), sudhaññakaṃ nāma (syā.)" reference-line="47" id="2">
     <extra></extra>
@@ -27,7 +27,7 @@
       <alternative source-abbr="syā." source="thai">sudhaññakaṃ nāma</alternative>
     </alternatives>
     <type>auto</type>
-    <previous> sudhaññavatī nāma </previous>
+    <snippet> sudhaññavatī nāma </snippet>
   </note>
   <note line="32" original="chabbassasahassāni (sī. syā.)" reference-line="50" id="3">
     <extra></extra>
@@ -37,6 +37,6 @@
       <alternative source-abbr="syā." source="thai">chabbassasahassāni</alternative>
     </alternatives>
     <type>auto</type>
-    <previous> ca vassasahassāni </previous>
+    <snippet> ca vassasahassāni </snippet>
   </note>
 </notes>

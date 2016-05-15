@@ -9,7 +9,7 @@
       <alternative source-abbr="ka." source="cambodian">asesikesu</alternative>
     </alternatives>
     <type>auto</type>
-    <previous>Sabbesu bhogesu asesakesu </previous>
+    <snippet>Sabbesu bhogesu asesakesu </snippet>
   </note>
   <note line="14" original="ca ne (pī.), dhane (ka.)" reference-line="9" id="1">
     <extra></extra>
@@ -18,7 +18,7 @@
       <alternative source-abbr="ka." source="cambodian">dhane</alternative>
     </alternatives>
     <type>no_match</type>
-    <previous> Pubbeva maccaṃ vijahanti bhogā, macco vā te </previous>
+    <snippet> Pubbeva maccaṃ vijahanti bhogā, macco vā te </snippet>
   </note>
   <note line="23" original="pūreti khīyati (syā.)" reference-line="12" id="2">
     <extra></extra>
@@ -26,7 +26,7 @@
       <alternative source-abbr="syā." source="thai">pūreti khīyati</alternative>
     </alternatives>
     <type>no_match</type>
-    <previous> Udeti āpūrati veti </previous>
+    <snippet> Udeti āpūrati veti </snippet>
   </note>
   <note line="31" original="andhaṃ tapetvāna (ka.), atthaṅgametvāna (syā.), ettha ‘‘tapetvāna atthaṃ paletī’’ti sambandho" reference-line="12" id="3">
     <extra>, ettha ‘‘tapetvāna atthaṃ paletī’’ti sambandho</extra>
@@ -36,7 +36,7 @@
       <alternative source-abbr="syā." source="thai">atthaṅgametvāna</alternative>
     </alternatives>
     <type>auto</type>
-    <previous> cando, atthaṃ tapetvāna </previous>
+    <snippet> cando, atthaṃ tapetvāna </snippet>
   </note>
   <note line="41" original="vijitā (syā.)" reference-line="13" id="4">
     <extra></extra>
@@ -45,7 +45,7 @@
       <alternative source-abbr="syā." source="thai">vijitā</alternative>
     </alternatives>
     <type>auto</type>
-    <previous>Viditā </previous>
+    <snippet>Viditā </snippet>
   </note>
   <note line="50" original="rañño (sī. syā.)" reference-line="19" id="5">
     <extra></extra>
@@ -54,7 +54,7 @@
       <alternative source-abbr="syā." source="thai">rañño</alternative>
     </alternatives>
     <type>no_match</type>
-    <previous>Nisammakārino rāja </previous>
+    <snippet>Nisammakārino rāja </snippet>
   </note>
   <note line="59" original="so tāta tatheva tiṭṭhati (ka.)" reference-line="31" id="6">
     <extra></extra>
@@ -63,7 +63,7 @@
       <alternative source-abbr="ka." source="cambodian">so tāta tatheva tiṭṭhati</alternative>
     </alternatives>
     <type>auto</type>
-    <previous>Sotā tatheva tiṭṭhanti </previous>
+    <snippet>Sotā tatheva tiṭṭhanti </snippet>
   </note>
   <note line="68" original="sīsaṃ vā (sī. syā. pī.)" reference-line="33" id="7">
     <extra></extra>
@@ -74,7 +74,7 @@
       <alternative source-abbr="pī." source="pali text society">sīsaṃ vā</alternative>
     </alternatives>
     <type>auto</type>
-    <previous> Nevayyakassa sīsañca </previous>
+    <snippet> Nevayyakassa sīsañca </snippet>
   </note>
   <note line="79" original="osiñci (ka.)" reference-line="37" id="8">
     <extra></extra>
@@ -83,7 +83,7 @@
       <alternative source-abbr="ka." source="cambodian">osiñci</alternative>
     </alternatives>
     <type>auto</type>
-    <previous>Vārinā viya osiñcaṃ </previous>
+    <snippet>Vārinā viya osiñcaṃ </snippet>
   </note>
   <note line="88" original="abbūḷhaṃ (sī. syā.), abbhūḷhaṃ (ka.)" reference-line="39" id="9">
     <extra></extra>
@@ -93,7 +93,7 @@
       <alternative source-abbr="ka." source="cambodian">abbhūḷhaṃ</alternative>
     </alternatives>
     <type>no_match</type>
-    <previous> Abbahī </previous>
+    <snippet> Abbahī </snippet>
   </note>
   <note line="98" original="sokaṃ hadayanissitaṃ (sī. syā.)" reference-line="39" id="10">
     <extra></extra>
@@ -103,7 +103,7 @@
       <alternative source-abbr="syā." source="thai">sokaṃ hadayanissitaṃ</alternative>
     </alternatives>
     <type>auto</type>
-    <previous> vata me sallaṃ, yamāsi hadayassitaṃ </previous>
+    <snippet> vata me sallaṃ, yamāsi hadayassitaṃ </snippet>
   </note>
   <note line="108" original="mā ssu (sī. syā. pī.)" reference-line="59" id="11">
     <extra></extra>
@@ -114,7 +114,7 @@
       <alternative source-abbr="pī." source="pali text society">mā ssu</alternative>
     </alternatives>
     <type>auto</type>
-    <previous>Mā su </previous>
+    <snippet>Mā su </snippet>
   </note>
   <note line="119" original="so piṅgiyo (syā.), sopi bhiyyo (ka.)" reference-line="61" id="12">
     <extra></extra>
@@ -124,7 +124,7 @@
       <alternative source-abbr="ka." source="cambodian">sopi bhiyyo</alternative>
     </alternatives>
     <type>auto</type>
-    <previous> Ayameva so piṅgiya </previous>
+    <snippet> Ayameva so piṅgiya </snippet>
   </note>
   <note line="129" original="dhonasākho (ka. sī. pī.)" reference-line="61" id="13">
     <extra></extra>
@@ -135,7 +135,7 @@
       <alternative source-abbr="pī." source="pali text society">dhonasākho</alternative>
     </alternatives>
     <type>auto</type>
-    <previous> venasākho, </previous>
+    <snippet> venasākho, </snippet>
   </note>
   <note line="140" original="sāmāpi (sī. syā.)" reference-line="64" id="14">
     <extra></extra>
@@ -144,7 +144,7 @@
       <alternative source-abbr="syā." source="thai">sāmāpi</alternative>
     </alternatives>
     <type>no_match</type>
-    <previous> Sāmā ca </previous>
+    <snippet> Sāmā ca </snippet>
   </note>
   <note line="149" original="gattī (ka. sī. syā. pī.)" reference-line="64" id="15">
     <extra></extra>
@@ -155,7 +155,7 @@
       <alternative source-abbr="pī." source="pali text society">gattī</alternative>
     </alternatives>
     <type>no_match</type>
-    <previous> kho candanalittagattā </previous>
+    <snippet> kho candanalittagattā </snippet>
   </note>
   <note line="160" original="adisvāva (sī.)" reference-line="65" id="16">
     <extra></extra>
@@ -164,7 +164,7 @@
       <alternative source-abbr="sī." source="sri lanka">adisvāva</alternative>
     </alternatives>
     <type>auto</type>
-    <previous>Adisvā </previous>
+    <snippet>Adisvā </snippet>
   </note>
   <note line="169" original="dhonasākhajātakaṃ (ka. sī. pī.)" reference-line="66" id="17">
     <extra></extra>
@@ -175,7 +175,7 @@
       <alternative source-abbr="pī." source="pali text society">dhonasākhajātakaṃ</alternative>
     </alternatives>
     <type>auto</type>
-    <previous>Venasākhajātakaṃ </previous>
+    <snippet>Venasākhajātakaṃ </snippet>
   </note>
   <note line="180" original="nānuññāto (ka.)" reference-line="76" id="18">
     <extra></extra>
@@ -184,7 +184,7 @@
       <alternative source-abbr="ka." source="cambodian">nānuññāto</alternative>
     </alternatives>
     <type>auto</type>
-    <previous> tato āgā, ananuññāto </previous>
+    <snippet> tato āgā, ananuññāto </snippet>
   </note>
   <note line="189" original="kisī (pī.)" reference-line="82" id="19">
     <extra></extra>
@@ -193,7 +193,7 @@
       <alternative source-abbr="pī." source="pali text society">kisī</alternative>
     </alternatives>
     <type>auto</type>
-    <previous> Sace rode kisā </previous>
+    <snippet> Sace rode kisā </snippet>
   </note>
   <note line="198" original="ghata (sī. pī.)" reference-line="104" id="20">
     <extra></extra>
@@ -203,7 +203,7 @@
       <alternative source-abbr="pī." source="pali text society">ghata</alternative>
     </alternatives>
     <type>auto</type>
-    <previous>Pasannamukhavaṇṇosi, kasmā ghaṭa </previous>
+    <snippet>Pasannamukhavaṇṇosi, kasmā ghaṭa </snippet>
   </note>
   <note line="208" original="vaṃka (pī.)" reference-line="107" id="21">
     <extra></extra>
@@ -211,7 +211,7 @@
       <alternative source-abbr="pī." source="pali text society">vaṃka</alternative>
     </alternatives>
     <type>no_match</type>
-    <previous>Tasmā dhaṅka </previous>
+    <snippet>Tasmā dhaṅka </snippet>
   </note>
   <note line="216" original="soko dutīyakā (ka.)" reference-line="107" id="22">
     <extra></extra>
@@ -220,7 +220,7 @@
       <alternative source-abbr="ka." source="cambodian">soko dutīyakā</alternative>
     </alternatives>
     <type>auto</type>
-    <previous> na socāmi, natthi soke dutīyatā </previous>
+    <snippet> na socāmi, natthi soke dutīyatā </snippet>
   </note>
   <note line="225" original="pavejjhasi (syā. sī. aṭṭha.)" reference-line="121" id="23">
     <extra></extra>
@@ -231,7 +231,7 @@
       <alternative source-abbr="aṭṭha." source="aṭṭha.">pavejjhasi</alternative>
     </alternatives>
     <type>auto</type>
-    <previous> araññe girikandarāyaṃ, paggayha paggayha silaṃ pavecchasi </previous>
+    <snippet> araññe girikandarāyaṃ, paggayha paggayha silaṃ pavecchasi </snippet>
   </note>
   <note line="236" original="kāraṇḍiya (sī. syā. pī.)" reference-line="122" id="24">
     <extra></extra>
@@ -242,7 +242,7 @@
       <alternative source-abbr="pī." source="pali text society">kāraṇḍiya</alternative>
     </alternatives>
     <type>auto</type>
-    <previous>Punappunaṃ santaramānarūpo, koraṇḍiya </previous>
+    <snippet>Punappunaṃ santaramānarūpo, koraṇḍiya </snippet>
   </note>
   <note line="247" original="jigiṃsaṃ (sī. syā. pī.)" reference-line="128" id="25">
     <extra></extra>
@@ -253,7 +253,7 @@
       <alternative source-abbr="pī." source="pali text society">jigiṃsaṃ</alternative>
     </alternatives>
     <type>auto</type>
-    <previous>Maññāmimaññeva dariṃ jigīsaṃ </previous>
+    <snippet>Maññāmimaññeva dariṃ jigīsaṃ </snippet>
   </note>
   <note line="258" original="hāyasi (syā. ka.)" reference-line="128" id="26">
     <extra></extra>
@@ -263,7 +263,7 @@
       <alternative source-abbr="ka." source="cambodian">hāyasi</alternative>
     </alternatives>
     <type>auto</type>
-    <previous> hāhasi </previous>
+    <snippet> hāhasi </snippet>
   </note>
   <note line="268" original="ayaṃ (sī. syā. pī.)" reference-line="130" id="27">
     <extra></extra>
@@ -274,7 +274,7 @@
       <alternative source-abbr="pī." source="pali text society">ayaṃ</alternative>
     </alternatives>
     <type>auto</type>
-    <previous> Sace ahaṃ </previous>
+    <snippet> Sace ahaṃ </snippet>
   </note>
   <note line="279" original="sakko (syā. ka.)" reference-line="130" id="28">
     <extra></extra>
@@ -284,7 +284,7 @@
       <alternative source-abbr="ka." source="cambodian">sakko</alternative>
     </alternatives>
     <type>auto</type>
-    <previous> bhūtadharaṃ na sakkā </previous>
+    <snippet> bhūtadharaṃ na sakkā </snippet>
   </note>
   <note line="289" original="ne (ka.)" reference-line="131" id="29">
     <extra></extra>
@@ -292,7 +292,7 @@
       <alternative source-abbr="ka." source="cambodian">ne</alternative>
     </alternatives>
     <type>no_match</type>
-    <previous>Evameva tvaṃ brahme ime manusse, nānādiṭṭhike nānayissasi te </previous>
+    <snippet>Evameva tvaṃ brahme ime manusse, nānādiṭṭhike nānayissasi te </snippet>
   </note>
   <note line="297" original="naha (sī. syā. pī.) ettha ha-kāro khede" reference-line="167" id="30">
     <extra> ettha ha-kāro khede</extra>
@@ -302,7 +302,7 @@
       <alternative source-abbr="pī." source="pali text society">naha</alternative>
     </alternatives>
     <type>no_match</type>
-    <previous> Na hi </previous>
+    <snippet> Na hi </snippet>
   </note>
   <note line="307" original="naha (sī. syā. pī.) ettha ha-kāro khede" reference-line="170" id="31">
     <extra> ettha ha-kāro khede</extra>
@@ -312,7 +312,7 @@
       <alternative source-abbr="pī." source="pali text society">naha</alternative>
     </alternatives>
     <type>no_match</type>
-    <previous> Na hi </previous>
+    <snippet> Na hi </snippet>
   </note>
   <note line="317" original="mahāmiga (sī. syā. pī.)" reference-line="179" id="32">
     <extra></extra>
@@ -322,7 +322,7 @@
       <alternative source-abbr="pī." source="pali text society">mahāmiga</alternative>
     </alternatives>
     <type>no_match</type>
-    <previous> Vikkama re haripāda </previous>
+    <snippet> Vikkama re haripāda </snippet>
   </note>
   <note line="327" original="harīpada (sī. syā. pī.)" reference-line="179" id="33">
     <extra></extra>
@@ -332,7 +332,7 @@
       <alternative source-abbr="pī." source="pali text society">harīpada</alternative>
     </alternatives>
     <type>no_match</type>
-    <previous>, vikkama re mahāmiga </previous>
+    <snippet>, vikkama re mahāmiga </snippet>
   </note>
   <note line="337" original="na me sutā vā diṭṭhā vā, bhāsantī mānusiṃ migī (ṭīkā)" reference-line="188" id="34">
     <extra></extra>
@@ -341,7 +341,7 @@
       <alternative source-abbr="ṭīkā" source="ṭīkā">na me sutā vā diṭṭhā vā, bhāsantī mānusiṃ migī</alternative>
     </alternatives>
     <type>auto</type>
-    <previous> Na me sutaṃ vā diṭṭhaṃ vā, bhāsantiṃ mānusiṃ migiṃ </previous>
+    <snippet> Na me sutaṃ vā diṭṭhaṃ vā, bhāsantiṃ mānusiṃ migiṃ </snippet>
   </note>
   <note line="346" original="va (syā. pī.)" reference-line="197" id="35">
     <extra></extra>
@@ -350,7 +350,7 @@
       <alternative source-abbr="pī." source="pali text society">va</alternative>
     </alternatives>
     <type>no_match</type>
-    <previous> gandho timirānaṃ, kusamuddo ca </previous>
+    <snippet> gandho timirānaṃ, kusamuddo ca </snippet>
   </note>
   <note line="355" original="ito hi susandī (sī. syā.), itopi sussondī (pī.)" reference-line="198" id="36">
     <extra></extra>
@@ -361,7 +361,7 @@
       <alternative source-abbr="pī." source="pali text society">itopi sussondī</alternative>
     </alternatives>
     <type>auto</type>
-    <previous>Dūre ito suyonandī </previous>
+    <snippet>Dūre ito suyonandī </snippet>
   </note>
   <note line="366" original="serumaṃ (sī. syā. pī.)" reference-line="200" id="37">
     <extra></extra>
@@ -372,7 +372,7 @@
       <alternative source-abbr="pī." source="pali text society">serumaṃ</alternative>
     </alternatives>
     <type>auto</type>
-    <previous> Kathaṃ samuddamatari, kathaṃ addakkhi sedumaṃ </previous>
+    <snippet> Kathaṃ samuddamatari, kathaṃ addakkhi sedumaṃ </snippet>
   </note>
   <note line="377" original="agga (sī. syā.)" reference-line="201" id="38">
     <extra></extra>
@@ -382,7 +382,7 @@
       <alternative source-abbr="syā." source="thai">agga</alternative>
     </alternatives>
     <type>auto</type>
-    <previous>Kathaṃ tassā ca tuyhañca, ahu sagga </previous>
+    <snippet>Kathaṃ tassā ca tuyhañca, ahu sagga </snippet>
   </note>
   <note line="387" original="bharukacchā (sī. syā. pī.)" reference-line="203" id="39">
     <extra></extra>
@@ -393,7 +393,7 @@
       <alternative source-abbr="pī." source="pali text society">bharukacchā</alternative>
     </alternatives>
     <type>auto</type>
-    <previous> Kurukacchā </previous>
+    <snippet> Kurukacchā </snippet>
   </note>
   <note line="398" original="makarehibbhidā (sī.), makarehi’bhidā (syā.), makarehi bhinnā (pī.)" reference-line="204" id="40">
     <extra></extra>
@@ -404,7 +404,7 @@
       <alternative source-abbr="pī." source="pali text society">makarehi bhinnā</alternative>
     </alternatives>
     <type>auto</type>
-    <previous>Makarehi abhidā </previous>
+    <snippet>Makarehi abhidā </snippet>
   </note>
   <note line="409" original="aṅkena (pī. ka.)" reference-line="207" id="41">
     <extra></extra>
@@ -414,7 +414,7 @@
       <alternative source-abbr="ka." source="cambodian">aṅkena</alternative>
     </alternatives>
     <type>auto</type>
-    <previous>Aṅgena </previous>
+    <snippet>Aṅgena </snippet>
   </note>
   <note line="419" original="saddahetha (sī. syā. pī.)" reference-line="229" id="42">
     <extra></extra>
@@ -425,7 +425,7 @@
       <alternative source-abbr="pī." source="pali text society">saddahetha</alternative>
     </alternatives>
     <type>auto</type>
-    <previous> paresaṃ vacanāni, saddaheyya </previous>
+    <snippet> paresaṃ vacanāni, saddaheyya </snippet>
   </note>
   <note line="430" original="nopi (pī.)" reference-line="250" id="43">
     <extra></extra>
@@ -434,7 +434,7 @@
       <alternative source-abbr="pī." source="pali text society">nopi</alternative>
     </alternatives>
     <type>auto</type>
-    <previous> Na vedā samparāyāya, na jāti nāpi </previous>
+    <snippet> Na vedā samparāyāya, na jāti nāpi </snippet>
   </note>
   <note line="439" original="sukhāvahanti (sī. syā.)" reference-line="251" id="44">
     <extra></extra>
@@ -443,7 +443,7 @@
       <alternative source-abbr="syā." source="thai">sukhāvahanti</alternative>
     </alternatives>
     <type>no_match</type>
-    <previous>Sakañca sīlaṃ saṃsuddhaṃ, samparāyāya sukhāya cāti </previous>
+    <snippet>Sakañca sīlaṃ saṃsuddhaṃ, samparāyāya sukhāya cāti </snippet>
   </note>
   <note line="448" original="rattiṃ (syā.)" reference-line="275" id="45">
     <extra></extra>
@@ -452,7 +452,7 @@
       <alternative source-abbr="syā." source="thai">rattiṃ</alternative>
     </alternatives>
     <type>auto</type>
-    <previous>Addakkhi ratti </previous>
+    <snippet>Addakkhi ratti </snippet>
   </note>
   <note line="457" original="mūgo (syā.)" reference-line="280" id="46">
     <extra></extra>
@@ -461,7 +461,7 @@
       <alternative source-abbr="syā." source="thai">mūgo</alternative>
     </alternatives>
     <type>auto</type>
-    <previous> Evampi anupāyena, atthaṃ na labhate migo </previous>
+    <snippet> Evampi anupāyena, atthaṃ na labhate migo </snippet>
   </note>
   <note line="466" original="senī mokkhūpalābhena (syā.)" reference-line="286" id="47">
     <extra></extra>
@@ -470,7 +470,7 @@
       <alternative source-abbr="syā." source="thai">senī mokkhūpalābhena</alternative>
     </alternatives>
     <type>auto</type>
-    <previous> Senāmokkhapalābhena </previous>
+    <snippet> Senāmokkhapalābhena </snippet>
   </note>
   <note line="475" original="sevehi (pī.)" reference-line="293" id="48">
     <extra></extra>
@@ -478,7 +478,7 @@
       <alternative source-abbr="pī." source="pali text society">sevehi</alternative>
     </alternatives>
     <type>no_match</type>
-    <previous>Harehi </previous>
+    <snippet>Harehi </snippet>
   </note>
   <note line="483" original="te maṃ sarasi (ka.)" reference-line="298" id="49">
     <extra></extra>
@@ -487,7 +487,7 @@
       <alternative source-abbr="ka." source="cambodian">te maṃ sarasi</alternative>
     </alternatives>
     <type>auto</type>
-    <previous> me taṃ manasi </previous>
+    <snippet> me taṃ manasi </snippet>
   </note>
   <note line="492" original="mutto (ka.)" reference-line="299" id="50">
     <extra></extra>
@@ -496,7 +496,7 @@
       <alternative source-abbr="ka." source="cambodian">mutto</alternative>
     </alternatives>
     <type>auto</type>
-    <previous>Dhaññāpaṇaṃ pavisitvā, matto </previous>
+    <snippet>Dhaññāpaṇaṃ pavisitvā, matto </snippet>
   </note>
   <note line="501" original="madhūti maññamānāya (ka.)" reference-line="313" id="51">
     <extra></extra>
@@ -505,7 +505,7 @@
       <alternative source-abbr="ka." source="cambodian">madhūti maññamānāya</alternative>
     </alternatives>
     <type>auto</type>
-    <previous> Madhu iti maññamānā </previous>
+    <snippet> Madhu iti maññamānā </snippet>
   </note>
   <note line="510" original="visamasāyisuṃ (sī. syā.)" reference-line="313" id="52">
     <extra></extra>
@@ -515,7 +515,7 @@
       <alternative source-abbr="syā." source="thai">visamasāyisuṃ</alternative>
     </alternatives>
     <type>auto</type>
-    <previous>, ye taṃ visamakhādisuṃ </previous>
+    <snippet>, ye taṃ visamakhādisuṃ </snippet>
   </note>
   <note line="520" original="paccuvaso (sī. syā.)" reference-line="320" id="53">
     <extra></extra>
@@ -524,7 +524,7 @@
       <alternative source-abbr="syā." source="thai">paccuvaso</alternative>
     </alternatives>
     <type>no_match</type>
-    <previous>Āmisaṃ bandhanañcetaṃ, maccuveso </previous>
+    <snippet>Āmisaṃ bandhanañcetaṃ, maccuveso </snippet>
   </note>
   <note line="529" original="paricārake (ka.)" reference-line="322" id="54">
     <extra></extra>
@@ -533,7 +533,7 @@
       <alternative source-abbr="ka." source="cambodian">paricārake</alternative>
     </alternatives>
     <type>auto</type>
-    <previous> Evameva ime kāme, āturā paricārike </previous>
+    <snippet> Evameva ime kāme, āturā paricārike </snippet>
   </note>
   <note line="538" original="sāliya (sī. syā. pī.), sāḷika (?)" reference-line="328" id="55">
     <extra></extra>
@@ -545,7 +545,7 @@
       <alternative source-abbr="?" source="unknown">sāḷika</alternative>
     </alternatives>
     <type>auto</type>
-    <previous> Yvāyaṃ sāḷiya </previous>
+    <snippet> Yvāyaṃ sāḷiya </snippet>
   </note>
   <note line="550" original="ahananta (pī.), aharanta (?)" reference-line="331" id="56">
     <extra></extra>
@@ -555,7 +555,7 @@
       <alternative source-abbr="?" source="unknown">aharanta</alternative>
     </alternatives>
     <type>auto</type>
-    <previous> Ahantāra </previous>
+    <snippet> Ahantāra </snippet>
   </note>
   <note line="560" original="ahananta (sī. syā. pī.), aharanta (?)" reference-line="334" id="57">
     <extra></extra>
@@ -567,7 +567,7 @@
       <alternative source-abbr="?" source="unknown">aharanta</alternative>
     </alternatives>
     <type>auto</type>
-    <previous> Ahantāra </previous>
+    <snippet> Ahantāra </snippet>
   </note>
   <note line="572" original="hatthattagatā (katthaci, sī. niyya)" reference-line="346" id="58">
     <extra></extra>
@@ -575,7 +575,7 @@
       <alternative source-abbr="katthaci, sī. niyya" source="katthaci, sī. niyya">hatthattagatā</alternative>
     </alternatives>
     <type>no_match</type>
-    <previous> Amittahatthatthagatā </previous>
+    <snippet> Amittahatthatthagatā </snippet>
   </note>
   <note line="580" original="attho ca labbhā (sī. syā.), atthodha labbhā (a. ni. 5.48)" reference-line="349" id="59">
     <extra></extra>
@@ -586,7 +586,7 @@
       <alternative source-abbr="a. ni. 5.48" source="a. ni. 5.48">atthodha labbhā</alternative>
     </alternatives>
     <type>auto</type>
-    <previous> socanāya paridevanāya, atthova labbho </previous>
+    <snippet> socanāya paridevanāya, atthova labbho </snippet>
   </note>
   <note line="591" original="paccatthikā te (ka.)" reference-line="353" id="60">
     <extra></extra>
@@ -595,7 +595,7 @@
       <alternative source-abbr="ka." source="cambodian">paccatthikā te</alternative>
     </alternatives>
     <type>auto</type>
-    <previous>Paccatthikāssa </previous>
+    <snippet>Paccatthikāssa </snippet>
   </note>
   <note line="600" original="mayā vā (syā. ka.)" reference-line="358" id="61">
     <extra></extra>
@@ -605,7 +605,7 @@
       <alternative source-abbr="ka." source="cambodian">mayā vā</alternative>
     </alternatives>
     <type>auto</type>
-    <previous> ca jāneyya alabbhaneyyo, mayā va </previous>
+    <snippet> ca jāneyya alabbhaneyyo, mayā va </snippet>
   </note>
   <note line="610" original="uhacca (ka.), uhacca (pī.)" reference-line="365" id="62">
     <extra></extra>
@@ -615,7 +615,7 @@
       <alternative source-abbr="pī." source="pali text society">uhacca</alternative>
     </alternatives>
     <type>auto</type>
-    <previous>Yaṃ me sirasmiṃ ohacca </previous>
+    <snippet>Yaṃ me sirasmiṃ ohacca </snippet>
   </note>
   <note line="620" original="aṭṭhāhi cāpi (sī. syā.), aṭṭhābhi cāpi (ka.)" reference-line="373" id="63">
     <extra></extra>
@@ -626,7 +626,7 @@
       <alternative source-abbr="ka." source="cambodian">aṭṭhābhi cāpi</alternative>
     </alternatives>
     <type>auto</type>
-    <previous> Catubbhi aṭṭhajjhagamā, aṭṭhāhipi ca </previous>
+    <snippet> Catubbhi aṭṭhajjhagamā, aṭṭhāhipi ca </snippet>
   </note>
   <note line="631" original="upari visālaṃ duppūraṃ, icchāvisadagāminī (sī.)" reference-line="377" id="64">
     <extra></extra>
@@ -635,7 +635,7 @@
       <alternative source-abbr="sī." source="sri lanka">upari visālaṃ duppūraṃ, icchāvisadagāminī</alternative>
     </alternatives>
     <type>auto</type>
-    <previous> Uparivisālā duppūrā, icchā visaṭagāminī </previous>
+    <snippet> Uparivisālā duppūrā, icchā visaṭagāminī </snippet>
   </note>
   <note line="640" original="aṅgasmiṃ (ka.)" reference-line="384" id="65">
     <extra></extra>
@@ -644,7 +644,7 @@
       <alternative source-abbr="ka." source="cambodian">aṅgasmiṃ</alternative>
     </alternatives>
     <type>auto</type>
-    <previous>Aṅkasmiṃ </previous>
+    <snippet>Aṅkasmiṃ </snippet>
   </note>
   <note line="649" original="chijjati (ka.)" reference-line="384" id="66">
     <extra></extra>
@@ -653,7 +653,7 @@
       <alternative source-abbr="ka." source="cambodian">chijjati</alternative>
     </alternatives>
     <type>auto</type>
-    <previous> te nisinnova, so te mammāni checchati </previous>
+    <snippet> te nisinnova, so te mammāni checchati </snippet>
   </note>
   <note line="658" original="vaddhitameva (ka.)" reference-line="386" id="67">
     <extra></extra>
@@ -662,7 +662,7 @@
       <alternative source-abbr="ka." source="cambodian">vaddhitameva</alternative>
     </alternatives>
     <type>auto</type>
-    <previous> Vaḍḍhatāmeva </previous>
+    <snippet> Vaḍḍhatāmeva </snippet>
   </note>
   <note line="667" original="pitā vā mātā vā (pī.), mātā vā pitā vā (ka.)" reference-line="387" id="68">
     <extra></extra>
@@ -672,7 +672,7 @@
       <alternative source-abbr="ka." source="cambodian">mātā vā pitā vā</alternative>
     </alternatives>
     <type>auto</type>
-    <previous>Yathā pitā ca mātā ca </previous>
+    <snippet>Yathā pitā ca mātā ca </snippet>
   </note>
   <note line="677" original="imassuddānaṃ tatiyavaggapariyosāne bhavissati" reference-line="398" id="69">
     <type>raw</type>
@@ -685,7 +685,7 @@
       <alternative source-abbr="ka." source="cambodian">vaso</alternative>
     </alternatives>
     <type>auto</type>
-    <previous> Evaṃbhūtassa te rāja, āgatassa vase </previous>
+    <snippet> Evaṃbhūtassa te rāja, āgatassa vase </snippet>
   </note>
   <note line="690" original="yathetaṃ (pī.), yavetaṃ (ka.), yametaṃ (katthaci)" reference-line="451" id="71">
     <extra></extra>
@@ -696,7 +696,7 @@
       <alternative source-abbr="katthaci" source="katthaci">yametaṃ</alternative>
     </alternatives>
     <type>auto</type>
-    <previous> Yañcetaṃ </previous>
+    <snippet> Yañcetaṃ </snippet>
   </note>
   <note line="701" original="paṭhamuppattito (sī. pī.)" reference-line="454" id="72">
     <extra></extra>
@@ -706,7 +706,7 @@
       <alternative source-abbr="pī." source="pali text society">paṭhamuppattito</alternative>
     </alternatives>
     <type>auto</type>
-    <previous> Daharo cāsi dummedha, paṭhamuppattiko </previous>
+    <snippet> Daharo cāsi dummedha, paṭhamuppattiko </snippet>
   </note>
   <note line="711" original="dīghametaṃ (pī.)" reference-line="455" id="73">
     <extra></extra>
@@ -715,7 +715,7 @@
       <alternative source-abbr="pī." source="pali text society">dīghametaṃ</alternative>
     </alternatives>
     <type>auto</type>
-    <previous>Dīghañcetaṃ </previous>
+    <snippet>Dīghañcetaṃ </snippet>
   </note>
   <note line="720" original="samāpajja (syā. ka.)" reference-line="455" id="74">
     <extra></extra>
@@ -725,7 +725,7 @@
       <alternative source-abbr="ka." source="cambodian">samāpajja</alternative>
     </alternatives>
     <type>auto</type>
-    <previous> samāsajja </previous>
+    <snippet> samāsajja </snippet>
   </note>
   <note line="730" original="nāṅgaputtasirena (sī. syā. pī.)" reference-line="457" id="75">
     <extra></extra>
@@ -736,7 +736,7 @@
       <alternative source-abbr="pī." source="pali text society">nāṅgaputtasirena</alternative>
     </alternatives>
     <type>auto</type>
-    <previous> Nāntalikkhabhavanena, nāṅgaputtapinena </previous>
+    <snippet> Nāntalikkhabhavanena, nāṅgaputtapinena </snippet>
   </note>
   <note line="741" original="dānibho (syā.)" reference-line="468" id="76">
     <extra></extra>
@@ -745,7 +745,7 @@
       <alternative source-abbr="syā." source="thai">dānibho</alternative>
     </alternatives>
     <type>auto</type>
-    <previous>Paccāgaccha lahuṃ khippaṃ, mampi tārehi dānito </previous>
+    <snippet>Paccāgaccha lahuṃ khippaṃ, mampi tārehi dānito </snippet>
   </note>
   <note line="750" original="eḷagaṇagumbe (ka.)" reference-line="473" id="77">
     <extra></extra>
@@ -754,7 +754,7 @@
       <alternative source-abbr="ka." source="cambodian">eḷagaṇagumbe</alternative>
     </alternatives>
     <type>auto</type>
-    <previous> Kāyaṃ eḷagalāgumbe </previous>
+    <snippet> Kāyaṃ eḷagalāgumbe </snippet>
   </note>
   <note line="759" original="nayidha naccaṃ vā gītaṃ vā (sī. syā. pī.)" reference-line="474" id="78">
     <extra></extra>
@@ -765,7 +765,7 @@
       <alternative source-abbr="pī." source="pali text society">nayidha naccaṃ vā gītaṃ vā</alternative>
     </alternatives>
     <type>auto</type>
-    <previous>Nayīdha naccagītaṃ vā </previous>
+    <snippet>Nayīdha naccagītaṃ vā </snippet>
   </note>
   <note line="770" original="anamhakāle (pī.)" reference-line="475" id="79">
     <extra></extra>
@@ -774,7 +774,7 @@
       <alternative source-abbr="pī." source="pali text society">anamhakāle</alternative>
     </alternatives>
     <type>auto</type>
-    <previous>Anamhikāle </previous>
+    <snippet>Anamhikāle </snippet>
   </note>
   <note line="779" original="sussoṇi (sī. syā. pī.)" reference-line="475" id="80">
     <extra></extra>
@@ -785,7 +785,7 @@
       <alternative source-abbr="pī." source="pali text society">sussoṇi</alternative>
     </alternatives>
     <type>auto</type>
-    <previous> susoṇi </previous>
+    <snippet> susoṇi </snippet>
   </note>
   <note line="790" original="sobhaṇe (pī. ka.)" reference-line="475" id="81">
     <extra></extra>
@@ -795,7 +795,7 @@
       <alternative source-abbr="ka." source="cambodian">sobhaṇe</alternative>
     </alternatives>
     <type>auto</type>
-    <previous>, kiṃ nu jagghasi sobhane </previous>
+    <snippet>, kiṃ nu jagghasi sobhane </snippet>
   </note>
   <note line="800" original="mampi tvaññeva (sī. syā.), tvampi maññeva (pī.)" reference-line="481" id="82">
     <extra></extra>
@@ -806,7 +806,7 @@
       <alternative source-abbr="pī." source="pali text society">tvampi maññeva</alternative>
     </alternatives>
     <type>auto</type>
-    <previous>Jīnā patiñca jārañca, maññe tvaññeva </previous>
+    <snippet>Jīnā patiñca jārañca, maññe tvaññeva </snippet>
   </note>
   <note line="811" original="kataṃyeva (sī. syā. pī.)" reference-line="487" id="83">
     <extra></extra>
@@ -817,7 +817,7 @@
       <alternative source-abbr="pī." source="pali text society">kataṃyeva</alternative>
     </alternatives>
     <type>auto</type>
-    <previous>Katañceva </previous>
+    <snippet>Katañceva </snippet>
   </note>
   <note line="822" original="piṭṭhamaddena (sī. syā. pī.)" reference-line="499" id="84">
     <extra></extra>
@@ -828,7 +828,7 @@
       <alternative source-abbr="pī." source="pali text society">piṭṭhamaddena</alternative>
     </alternatives>
     <type>auto</type>
-    <previous>Vilūnaṃ sūdaputtena, piṭṭhamaṇḍena </previous>
+    <snippet>Vilūnaṃ sūdaputtena, piṭṭhamaṇḍena </snippet>
   </note>
   <note line="833" original="jātaka pañcavīsati (?)" reference-line="515" id="85">
     <extra></extra>
@@ -837,6 +837,6 @@
       <alternative source-abbr="?" source="unknown">jātaka pañcavīsati</alternative>
     </alternatives>
     <type>auto</type>
-    <previous>Jīnañca vaṇṇaṃ asamaṃvaguppari, sudesitā jātakanti santi vīsati </previous>
+    <snippet>Jīnañca vaṇṇaṃ asamaṃvaguppari, sudesitā jātakanti santi vīsati </snippet>
   </note>
 </notes>

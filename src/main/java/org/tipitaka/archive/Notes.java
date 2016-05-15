@@ -73,7 +73,8 @@ public class Notes
 
     public String extra;
 
-    public String previous;
+    @JacksonXmlProperty(localName = "previous")
+    public String snippet;
 
     public void setExtra(String value) {
       if (value == null || "null".equals(value)) {
@@ -119,7 +120,7 @@ public class Notes
       if (!extra.equals(note.extra)) {
         return false;
       }
-      return previous.equals(note.previous);
+      return snippet.equals(note.snippet);
 
     }
 
@@ -132,7 +133,7 @@ public class Notes
       result = 31 * result + type.hashCode();
       result = 31 * result + alternatives.hashCode();
       result = 31 * result + extra.hashCode();
-      result = 31 * result + previous.hashCode();
+      result = 31 * result + snippet.hashCode();
       return result;
     }
 
@@ -145,7 +146,7 @@ public class Notes
       sb.append(", original='").append(original).append('\'');
       sb.append(", type='").append(type).append('\'');
       sb.append(", extra='").append(extra).append('\'');
-      sb.append(", previous='").append(previous).append('\'');
+      sb.append(", snippet='").append(snippet).append('\'');
       if (alternatives != null)
       for (Alternative alternative: alternatives) {
         sb.append("\n\t").append(alternative);
