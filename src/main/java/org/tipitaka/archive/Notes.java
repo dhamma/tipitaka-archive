@@ -73,7 +73,6 @@ public class Notes
 
     public String extra;
 
-    @JacksonXmlProperty(localName = "previous")
     public String snippet;
 
     public void setExtra(String value) {
