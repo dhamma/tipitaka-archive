@@ -61,8 +61,8 @@ public class NoteBuilder
     LegacyVisitor visitor = new LegacyVisitor(new BuilderFactory());
 
     String file =
-        //"/tipitaka (mula)/vinayapitaka/parajikapali/veranjakandam";
-        "/tipitaka (mula)/vinayapitaka/parajikapali/1. parajikakandam";
+        "/tipitaka (mula)/vinayapitaka/parajikapali/veranjakandam";
+        //"/tipitaka (mula)/vinayapitaka/parajikapali/1. parajikakandam";
     //"/tipitaka (mula)/vinayapitaka/parajikapali/2. sanghadisesakandam";
     visitor.accept(new OutputStreamWriter(System.out), new ScriptFactory().script("romn"), file);
         //visitor.generateAll(new File("archive"), new ScriptFactory().script("romn"));
@@ -128,10 +128,11 @@ public class NoteBuilder
         Note note = notes.get(id);
         boolean isManual = note != null && Type.manual == note.type;
 
-        state.nextNumber();
         LinkedList<String> sections = new LinkedList<>();
         String extraNote = fillSections(text, sections);
+        state.nextNumber();
         state.append("    <extra>").append(extraNote).append("</extra>\n");
+        state.nextNumber();
         state.append("    <alternatives>\n");
         Type type = appendAlternatives(sections, previous, isManual ? note.getVRI() : null);
         state.nextNumber();
@@ -209,7 +210,6 @@ public class NoteBuilder
 
         String altText = matcher.group(1).trim();
         count ++;
-        state.nextNumber();
         if (previous.endsWith("’’ti ") && altText.contains("ti") && found != null && found.endsWith("’’ti")) {
           int index = altText.lastIndexOf("ti");
           altText = altText.substring(0, index) + "’’" + altText.substring(index);
@@ -224,6 +224,7 @@ public class NoteBuilder
             System.err.println("notes source: " + name + " " + type + " " + sections);
             if (first) part = name;
           }
+          state.nextNumber();
           state.append("      <alternative source-abbr=\"").append(version == null ? part: version.getAbbrevation())
               .append("\" source=\"").append(version == null ? part : version.getName())
               .append("\">").append(altText)
