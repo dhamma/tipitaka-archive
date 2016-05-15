@@ -27,6 +27,8 @@ public class XHtmlNGBuilder
 
   public static final String ALL_VERSIONS_ANNOTATED = "all versions annotated";
 
+  public static final String GITHUB_TIPITAKA_ARCHIVE_URL = "https://github.com/tipitaka-org/tipitaka-archive/";
+
   private String script;
 
   private String extension;
@@ -509,12 +511,16 @@ public class XHtmlNGBuilder
         state.appendIndent("<div>").append(entry.getValue()).append(" <span>[").append(entry.getKey()).append("]")
             .appendEnd("</span></div>");
       }
-      state.appendIndent("<div><a href='https://github.com/tipitaka-org/tipitaka-archive/edit/master/archive/notes/")
-          .append(script).append(dir).append("/").append(name).append("-notes.xml#L")
-          .append(Integer.toString(Integer.parseInt(alternative.getLine()) + 3))
-          .append("' target='_blank' " +
-              "title='edit the vri alternative to match the correct words of the snippet - " +
-              "you need a github account for this'>report error via github</a>")
+      StringBuilder path = new StringBuilder("/master/archive/notes/");
+      path.append(script).append(dir).append("/").append(name).append("-notes.xml#L")
+          .append(Integer.toString(Integer.parseInt(alternative.getLine()) + 3));
+      state.appendIndent("<div><a href='").append(GITHUB_TIPITAKA_ARCHIVE_URL).append("blob")
+          .append(path).append("' target='_blank' " +
+          "title='edit the vri alternative to match the correct words of the snippet - " +
+          "you need a github account for this. set the type to manual as well'>" +
+          "report error via github</a> <a href='")
+          .append(GITHUB_TIPITAKA_ARCHIVE_URL).append("(edit)")
+          .append(path).append("' target='_blank'>").append("edit</a>)")
           .appendEnd("</div>");
       state.outdent().appendLine("</div>").outdent().appendIndent("</div>");
       if (alternative.getExtra() != null && alternative.getExtra().length() > 0) {
