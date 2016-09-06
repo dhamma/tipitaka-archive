@@ -3,7 +3,6 @@ package org.tipitaka.archive.model;
 import org.junit.Before;
 import org.junit.Test;
 
-import javax.print.Doc;
 import java.io.File;
 import java.io.IOException;
 import java.nio.file.Files;

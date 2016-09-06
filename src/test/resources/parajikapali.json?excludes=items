@@ -11,14 +11,7 @@
         "Vinayapiṭaka",
         "Mūla"
       ],
-      "hasDocuments":true,
-      "items":{
-        "veranjakandam":"Verañjakaṇḍaṃ",
-        "1. parajikakandam":"1. Pārājikakaṇḍaṃ",
-        "2. sanghadisesakandam":"2. Saṅghādisesakaṇḍaṃ",
-        "3. aniyatakandam":"3. Aniyatakaṇḍaṃ",
-        "4. nissaggiyakandam":"4. Nissaggiyakaṇḍaṃ"
-      }
+      "hasDocuments":true
     },
     "links":{
       "self":"/roman/mula/vinayapitaka/parajikapali",
@@ -50,13 +43,7 @@
         "script":"roman",
         "path":null,
         "version":null,
-        "hasDocuments":false,
-        "items":{
-          "mula":"Mūla",
-          "atthakatha":"Aṭṭhakathā",
-          "tika":"Tīkā",
-          "anya":"Anya"
-        }
+        "hasDocuments":false
       },
       "links":{
         "self":"/roman",
@@ -71,12 +58,7 @@
         "script":"roman",
         "path":"/mula",
         "version":null,
-        "hasDocuments":false,
-        "items":{
-          "vinayapitaka":"Vinayapiṭaka",
-          "suttapitaka":"Suttapiṭaka",
-          "abhidhammapitaka":"Abhidhammapiṭaka"
-        }
+        "hasDocuments":false
       },
       "links":{
         "self":"/roman/mula",
@@ -91,14 +73,7 @@
         "script":"roman",
         "path":"/mula/vinayapitaka",
         "version":null,
-        "hasDocuments":false,
-        "items":{
-          "parajikapali":"Pārājikapāḷi",
-          "pacittiyapali":"Pācittiyapāḷi",
-          "mahavaggapali":"Mahāvaggapāḷi",
-          "culavaggapali":"Cūḷavaggapāḷi",
-          "parivarapali":"Parivārapāḷi"
-        }
+        "hasDocuments":false
       },
       "links":{
         "self":"/roman/mula/vinayapitaka",

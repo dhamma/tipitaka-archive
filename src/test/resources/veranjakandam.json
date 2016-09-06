@@ -6,14 +6,14 @@
       "script":"roman",
       "path":"/mula/vinayapitaka/parajikapali/veranjakandam",
       "version":null,
-      "title_path":[
+      "titlePath":[
         "Verañjakaṇḍaṃ",
         "Pārājikapāḷi",
         "Vinayapiṭaka",
         "Mūla"
       ],
-      "normative_source":"http://tipitaka.org/romn/cscd/vin01m.mul0.xml",
-      "source":"/roman/mula/vinayapitaka/parajikapali/veranjakandam.xml",
+      "normativeSource":"http://tipitaka.org/romn/cscd/vin01m.mul0.xml",
+      "source":"/roman/mula/vinayapitaka/parajikapali/veranjakandam.xml"
     },
     "links":{
       "self":"/roman/mula/vinayapitaka/parajikapali/veranjakandam",
@@ -25,19 +25,19 @@
     "menus":[
       {
         "type":"menu",
-        "id":"/roman",
+        "id":"/roman"
       },
       {
         "type":"menu",
-        "id":"/roman/mula",
+        "id":"/roman/mula"
       },
       {
         "type":"menu",
-        "id":"/roman/mula/vinayapitaka",
+        "id":"/roman/mula/vinayapitaka"
       },
       {
         "type":"menu",
-        "id":"/roman/mula/vinayapitaka/parajikapali",
+        "id":"/roman/mula/vinayapitaka/parajikapali"
       }
     ]
   },

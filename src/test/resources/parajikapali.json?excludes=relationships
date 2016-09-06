@@ -26,22 +26,6 @@
       "html":"/roman/mula/vinayapitaka/parajikapali.html"
     }
   },
-  "relationships":{
-    "menus":[
-      {
-        "type":"menu",
-        "id":"/roman"
-      },
-      {
-        "type":"menu",
-        "id":"/roman/mula"
-      },
-      {
-        "type":"menu",
-        "id":"/roman/mula/vinayapitaka"
-      }
-    ]
-  },
   "included":[
     {
       "type":"menu",

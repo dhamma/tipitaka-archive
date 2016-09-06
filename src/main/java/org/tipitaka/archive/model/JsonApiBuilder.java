@@ -69,6 +69,7 @@ public class JsonApiBuilder {
         indentHash();
         buildType(menu);
         buildId(menu);
+        comma();
         buildBaseAttributes(menu);
         buildHasDocuments(menu.hasDocuments());
         buildItems(menu.getItems());
@@ -82,6 +83,7 @@ public class JsonApiBuilder {
         indentHash();
         buildType(toc);
         buildId(toc);
+        comma();
         buildExtendedBaseAttributes(toc);
         buildHasDocuments(toc.hasDocuments());
         buildItems(toc.getItems());
@@ -98,6 +100,7 @@ public class JsonApiBuilder {
             indentHash();
             buildType(menu);
             buildId(menu);
+            newLine();
             if (++index < toc.getMenus().size()) {
                 dedent("},");
             }
@@ -130,11 +133,12 @@ public class JsonApiBuilder {
         indentHash();
         buildType(document);
         buildId(document);
+        comma();
         buildExtendedBaseAttributes(document);
-        append("\"normative_source\":\"").append(document.getNormativeSource()).append("\"");
+        append("\"normativeSource\":\"").append(document.getNormativeSource()).append("\"");
         comma();
         append("\"source\":\"").append(document.getSource()).append("\"");
-        comma();
+        newLine();
         dedent("},");
         buildLinks(document);
         dedent("},");
@@ -148,6 +152,7 @@ public class JsonApiBuilder {
             indentHash();
             buildType(menu);
             buildId(menu);
+            newLine();
             if (++index < document.getMenus().size()) {
                 dedent("},");
             }
@@ -223,7 +228,7 @@ public class JsonApiBuilder {
 
     private void buildExtendedBaseAttributes(ExtendedBase base) throws IOException {
         buildBaseAttributes(base);
-        append("\"title_path\":");
+        append("\"titlePath\":");
         indentArray();
         int index = 0;
         for(String part: base.getTitlePath()) {
@@ -269,7 +274,6 @@ public class JsonApiBuilder {
         append("\"id\":\"");
         buildRawId(base);
         appendable.append("\"");
-        comma();
     }
 
     private void buildType(Base base) throws IOException {
