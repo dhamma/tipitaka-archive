@@ -44,11 +44,11 @@ class XmlVisitor implements Visitor {
         if ("titlePath".equals(stack.peek())) {
             listName = "item";
         }
+        if ("versions".equals(stack.peek())) {
+            listName = "version";
+        }
         if ("menus".equals(stack.peek())) {
             arrayName = "menu";
-        }
-        if ("included".equals(stack.peek())) {
-            arrayName = "include";
         }
     }
 
@@ -84,7 +84,8 @@ class XmlVisitor implements Visitor {
             append("<").append(listName).append(">")
                     .append(value)
                     .append("</").append(listName).append(">");
-            if (!stack.peek().equals("titlePath")) {
+            String name = stack.peek();
+            if (!name.equals("titlePath") && !name.equals("versions")) {
                 append("</item>");
             }
         } else {

@@ -7,15 +7,15 @@ import java.util.List;
 /**
  * Created by christian on 03.09.16.
  */
-public class Document extends ExtendedBase {
+public class Document extends Folder {
     private final String normativeSource;
     private final String source;
     private final List<String> versions;
 
     @JsonCreator
-    public Document(Script script, String path, String version, List<String> titlePath, String normativeSource,
+    public Document(String path, Script script, String version, String baseUrl, List<String> titlePath, String normativeSource,
                     String source, List<String> versions, Menu... menus) {
-        super(script, path, version, titlePath, menus);
+        super(path, script, version, baseUrl, titlePath, menus);
         this.normativeSource = normativeSource;
         this.source = source;
         this.versions = versions;

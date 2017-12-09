@@ -7,26 +7,13 @@ import java.util.Map;
  */
 class Base {
 
-    protected final String version;
     private final String path;
 
-    private final Script script;
-
-    Base(Script script, String path, String version) {
-        this.script = script;
+    Base(String path) {
         this.path = path;
-        this.version = version;
     }
 
     public String getPath() {
         return path;
-    }
-
-    public Script getScript() {
-        return script;
-    }
-
-    public String getVersion() {
-        return version;
     }
 }

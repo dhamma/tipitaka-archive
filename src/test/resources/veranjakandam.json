@@ -1,130 +1,53 @@
 {
-  "data":{
-    "type":"document",
-    "id":"/roman/mula/vinayapitaka/parajikapali/veranjakandam",
-    "attributes":{
-      "script":"roman",
-      "path":"/mula/vinayapitaka/parajikapali/veranjakandam",
-      "version":null,
-      "titlePath":[
-        "Verañjakaṇḍaṃ",
-        "Pārājikapāḷi",
-        "Vinayapiṭaka",
-        "Mūla"
-      ],
-      "normativeSource":"http://tipitaka.org/romn/cscd/vin01m.mul0.xml",
-      "source":"/roman/mula/vinayapitaka/parajikapali/veranjakandam.xml"
-    },
-    "links":{
-      "self":"/roman/mula/vinayapitaka/parajikapali/veranjakandam",
-      "xml":"/roman/mula/vinayapitaka/parajikapali/veranjakandam.xml",
-      "html":"/roman/mula/vinayapitaka/parajikapali/veranjakandam.html"
-    }
-  },
-  "relationships":{
-    "menus":[
-      {
-        "type":"menu",
-        "id":"/roman"
-      },
-      {
-        "type":"menu",
-        "id":"/roman/mula"
-      },
-      {
-        "type":"menu",
-        "id":"/roman/mula/vinayapitaka"
-      },
-      {
-        "type":"menu",
-        "id":"/roman/mula/vinayapitaka/parajikapali"
-      }
-    ]
-  },
-  "included":[
+  "path":"/mula/vinayapitaka/parajikapali/veranjakandam",
+  "script":"roman",
+  "version":null,
+  "baseUrl":"https://example.com",
+  "titlePath":[
+    "Verañjakaṇḍaṃ",
+    "Pārājikapāḷi",
+    "Vinayapiṭaka",
+    "Mūla"
+  ],
+  "normativeSource":"http://tipitaka.org/romn/cscd/vin01m.mul0.xml",
+  "source":"/roman/mula/vinayapitaka/parajikapali/veranjakandam.xml",
+  "versions":["vri"],
+  "menus":[
     {
-      "type":"menu",
-      "id":"/roman",
-      "attributes":{
-        "script":"roman",
-        "path":null,
-        "version":null,
-        "hasDocuments":false,
-        "items":{
-          "mula":"Mūla",
-          "atthakatha":"Aṭṭhakathā",
-          "tika":"Tīkā",
-          "anya":"Anya"
-        }
-      },
-      "links":{
-        "self":"/roman",
-        "xml":"/roman.xml",
-        "html":"/roman.html"
+      "path":null,
+      "items":{
+        "mula":"Mūla",
+        "atthakatha":"Aṭṭhakathā",
+        "tika":"Tīkā",
+        "anya":"Anya"
       }
     },
     {
-      "type":"menu",
-      "id":"/roman/mula",
-      "attributes":{
-        "script":"roman",
-        "path":"/mula",
-        "version":null,
-        "hasDocuments":false,
-        "items":{
-          "vinayapitaka":"Vinayapiṭaka",
-          "suttapitaka":"Suttapiṭaka",
-          "abhidhammapitaka":"Abhidhammapiṭaka"
-        }
-      },
-      "links":{
-        "self":"/roman/mula",
-        "xml":"/roman/mula.xml",
-        "html":"/roman/mula.html"
+      "path":"/mula",
+      "items":{
+        "vinayapitaka":"Vinayapiṭaka",
+        "suttapitaka":"Suttapiṭaka",
+        "abhidhammapitaka":"Abhidhammapiṭaka"
       }
     },
     {
-      "type":"menu",
-      "id":"/roman/mula/vinayapitaka",
-      "attributes":{
-        "script":"roman",
-        "path":"/mula/vinayapitaka",
-        "version":null,
-        "hasDocuments":false,
-        "items":{
-          "parajikapali":"Pārājikapāḷi",
-          "pacittiyapali":"Pācittiyapāḷi",
-          "mahavaggapali":"Mahāvaggapāḷi",
-          "culavaggapali":"Cūḷavaggapāḷi",
-          "parivarapali":"Parivārapāḷi"
-        }
-      },
-      "links":{
-        "self":"/roman/mula/vinayapitaka",
-        "xml":"/roman/mula/vinayapitaka.xml",
-        "html":"/roman/mula/vinayapitaka.html"
+      "path":"/mula/vinayapitaka",
+      "items":{
+        "parajikapali":"Pārājikapāḷi",
+        "pacittiyapali":"Pācittiyapāḷi",
+        "mahavaggapali":"Mahāvaggapāḷi",
+        "culavaggapali":"Cūḷavaggapāḷi",
+        "parivarapali":"Parivārapāḷi"
       }
     },
     {
-      "type":"menu",
-      "id":"/roman/mula/vinayapitaka/parajikapali",
-      "attributes":{
-        "script":"roman",
-        "path":"/mula/vinayapitaka/parajikapali",
-        "version":null,
-        "hasDocuments":false,
-        "items":{
-          "veranjakandam":"Verañjakaṇḍaṃ",
-          "1. parajikakandam":"1. Pārājikakaṇḍaṃ",
-          "2. sanghadisesakandam":"2. Saṅghādisesakaṇḍaṃ",
-          "3. aniyatakandam":"3. Aniyatakaṇḍaṃ",
-          "4. nissaggiyakandam":"4. Nissaggiyakaṇḍaṃ"
-        }
-      },
-      "links":{
-        "self":"/roman/mula/vinayapitaka/parajikapali",
-        "xml":"/roman/mula/vinayapitaka/parajikapali.xml",
-        "html":"/roman/mula/vinayapitaka/parajikapali.html"
+      "path":"/mula/vinayapitaka/parajikapali",
+      "items":{
+        "veranjakandam":"Verañjakaṇḍaṃ",
+        "1. parajikakandam":"1. Pārājikakaṇḍaṃ",
+        "2. sanghadisesakandam":"2. Saṅghādisesakaṇḍaṃ",
+        "3. aniyatakandam":"3. Aniyatakaṇḍaṃ",
+        "4. nissaggiyakandam":"4. Nissaggiyakaṇḍaṃ"
       }
     }
   ]

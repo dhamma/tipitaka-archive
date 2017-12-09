@@ -9,20 +9,32 @@ import java.util.Map;
  */
 class ExtendedBase extends Base {
 
-    protected final List<Menu> menus;
+    private final Script script;
+    private final String version;
+    private final String baseUrl;
     private final List<String> titlePath;
 
-    ExtendedBase(Script script, String path, String version, List<String> titlePath, Menu... menus) {
-        super(script, path, version);
+    ExtendedBase(String path, Script script, String version, String baseUrl, List<String> titlePath) {
+        super(path);
+        this.script = script;
+        this.version = version;
+        this.baseUrl = baseUrl;
         this.titlePath = titlePath;
-        this.menus = Arrays.asList(menus);
+    }
+
+    public Script getScript() {
+        return script;
+    }
+
+    public String getVersion() {
+        return version;
+    }
+
+    public String getBaseUrl() {
+        return baseUrl;
     }
 
     public List<String> getTitlePath() {
         return titlePath;
-    }
-
-    public List<Menu> getMenus() {
-        return menus;
     }
 }

@@ -1,0 +1,46 @@
+{
+  "script": "roman",
+  "path": "/mula/vinayapitaka/parajikapali",
+  "base_url": "http://example.com"
+  "titlePath":["Pārājikapāḷi","Vinayapiṭaka","Tipiṭaka (Mūla)"],
+  "menus": [
+    {
+      "path": null,
+      "items": {
+        "mula": "Tipiṭaka (Mūla)",
+        "atthakatha": "Aṭṭhakathā",
+        "tika": "Tīkā",
+        "anya": "Anya"
+      },
+    },
+    {
+      "path": "/mula",
+      "items": {
+        "vinayapitaka": "Vinayapiṭaka",
+        "suttapitaka": "Suttapiṭaka",
+        "abhidhammapitaka": "Abhidhammapiṭaka"
+      },
+    },
+    {
+      "path": "/mula/vinayapitaka",
+      "items": {
+        "parajikapali":"Pārājikapāḷi",
+        "pacittiyapali":"Pācittiyapāḷi",
+        "mahavaggapali":"Mahāvaggapāḷi",
+        "culavaggapali":"Cūḷavaggapāḷi",
+        "parivarapali":"Parivārapāḷi"
+
+      }
+    },
+    {
+      "path": "/mula/vinayapitaka/parajikapali",
+      "items": {
+        "veranjakandam": "Verañjakaṇḍaṃ",
+        "1. parajikakandam.html": "1. Pārājikakaṇḍaṃ",
+        "2. sanghadisesakandam": "2. Saṅghādisesakaṇḍaṃ",
+        "3. aniyatakandam", "3. Aniyatakaṇḍaṃ",
+        "4. nissaggiyakandam": "4. Nissaggiyakaṇḍaṃ"
+      }
+    }
+  ]
+}

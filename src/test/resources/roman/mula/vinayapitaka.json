@@ -1,0 +1,30 @@
+{
+  "script": "roman",
+  "path": "/mula/vinayapitaka",
+  "base_url": "http://example.com"
+  "titlePath":["Vinayapiṭaka","Tipiṭaka (Mūla)"],
+  "menus": [
+    {
+      "path": null,
+      "items": {
+        "/roman/mula": "Tipiṭaka (Mūla)",
+        "/roman/atthakatha": "Aṭṭhakathā",
+        "/roman/tika": "Tīkā",
+        "/roman/anya": "Anya"
+      },
+    },
+    {
+      "path": "/mula",
+      "items": {
+        "/roman/mula/vinayapitaka": "Vinayapiṭaka",
+        "/roman/mula/suttapitaka": "Suttapiṭaka",
+        "/roman/mula/abhidhammapitaka": "Abhidhammapiṭaka"
+      },
+    },
+    {
+      "path": "/mula/vinayapitaka",
+      "items": {
+      }
+    }
+  ]
+}

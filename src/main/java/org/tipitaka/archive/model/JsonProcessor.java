@@ -17,13 +17,9 @@ class JsonProcessor {
 
     private static final JsonFactory factory = new JsonFactory();
 
-    private final List<String> skip;
     private final String file;
 
-    private boolean silence = false;
-
-    JsonProcessor(String file, String... skip) throws IOException {
-        this.skip = Arrays.asList(skip);
+    JsonProcessor(String file) throws IOException {
         this.file = file;
     }
 
@@ -44,17 +40,18 @@ class JsonProcessor {
                     break;
                 case FIELD_NAME:
                     String name = parser.getValueAsString();
-                    if (!silence) visitField(name, visitor, parser);
+                    visitField(name, visitor, parser);
                     break;
                 case VALUE_STRING:
-                    if (!silence) visitor.visitStringValue(parser.getValueAsString());
+                    System.out.println("->" + parser.getValueAsString());
+                    visitor.visitStringValue(parser.getValueAsString());
                     break;
                 case VALUE_FALSE:
                 case VALUE_NULL:
                 case VALUE_TRUE:
                 case VALUE_NUMBER_FLOAT:
                 case VALUE_NUMBER_INT:
-                    if (!silence) visitor.visitValue(parser.getValueAsString());
+                    visitor.visitValue(parser.getValueAsString());
                     break;
                 default:
                     throw new RuntimeException("TODO " +token);
@@ -64,11 +61,8 @@ class JsonProcessor {
     }
 
     private void visitField(String name, Visitor visitor, JsonParser parser) throws IOException {
-        boolean skipped = skip.indexOf(name) > -1 && ! silence;
-        if (skipped){
-            silence = true;
-        }
-        if (!silence) visitor.visitField(name);
+        System.out.println("=>" + name);
+        visitor.visitField(name);
         JsonToken token = parser.nextToken();
         switch(token) {
             case START_OBJECT:
@@ -78,23 +72,22 @@ class JsonProcessor {
                 visitArray(visitor, parser);
                 break;
             case VALUE_STRING:
-                if (!silence) visitor.visitStringValue(parser.getValueAsString());
+                visitor.visitStringValue(parser.getValueAsString());
                 break;
             default:
-                if (!silence) visitor.visitValue(parser.getValueAsString());
+                visitor.visitValue(parser.getValueAsString());
         }
-        if (skipped) silence = false;
     }
 
     private void visitObject(Visitor visitor, JsonParser parser) throws IOException {
-        if (!silence) visitor.visitStartObject();
+        visitor.visitStartObject();
         dispatch(visitor, parser, JsonToken.END_OBJECT);
-        if (!silence) visitor.visitEndObject();
+        visitor.visitEndObject();
     }
 
     private void visitArray(Visitor visitor, JsonParser parser) throws IOException {
-        if (!silence) visitor.visitStartArray();
+        visitor.visitStartArray();
         dispatch(visitor, parser, JsonToken.END_ARRAY);
-        if (!silence) visitor.visitEndArray();
+        visitor.visitEndArray();
     }
 }

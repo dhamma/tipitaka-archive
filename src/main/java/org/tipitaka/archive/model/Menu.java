@@ -7,18 +7,11 @@ import java.util.Map;
  */
 public class Menu extends Base {
 
-    private final boolean hasDocuments;
+    private final Map<String, String> items;
 
-    protected final Map<String, String> items;
-
-    public Menu(Script script, String path, String version, boolean hasLeaves, Map<String, String> items) {
-        super(script, path, version);
-        this.hasDocuments = hasLeaves;
+    public Menu(String path, Map<String, String> items) {
+        super(path);
         this.items = items;
-    }
-
-    public Boolean hasDocuments() {
-        return hasDocuments;
     }
 
     public Map<String, String> getItems() {

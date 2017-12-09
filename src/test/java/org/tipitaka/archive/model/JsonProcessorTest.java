@@ -17,27 +17,39 @@ import static org.hamcrest.Matchers.is;
 public class JsonProcessorTest {
 
     @Test
-    public void test() throws IOException {
-        String[] excludes = new String[]{"", "data", "attributes", "items", "relationships", "included"};
-        for (String exclude : excludes) {
-            System.out.println(exclude);
-            JsonProcessor processor = new JsonProcessor("src/test/resources/parajikapali.json", exclude);
+    public void testFolder() throws IOException {
+        JsonProcessor processor = new JsonProcessor("src/test/resources/parajikapali.json");
 
-            StringWriter out = new StringWriter();
-            processor.accept(new JsonVisitor(out));
-            String reference = getReferenceFile("parajikapali", "json", exclude);
-            assertThat(reference, is(out.toString()));
+        StringWriter out = new StringWriter();
+        processor.accept(new JsonVisitor(out));
+        String reference = getReferenceFile("parajikapali", "json");
+        assertThat(reference, is(out.toString()));
 
-            out = new StringWriter();
-            processor.accept(new XmlVisitor(out));
-            reference = getReferenceFile("parajikapali", "xml", exclude);
-            assertThat(reference, is(out.toString().replaceAll("\\n", "")));
-        }
+        out = new StringWriter();
+        processor.accept(new XmlVisitor(out));
+        reference = getReferenceFile("parajikapali", "xml");
+        assertThat(reference, is(out.toString().replaceAll("\\n", "")));
     }
 
-    private static String getReferenceFile(String name, String ext, String exclude) throws IOException {
+    @Test
+    public void testDocument() throws IOException {
+        JsonProcessor processor = new JsonProcessor("src/test/resources/veranjakandam.json");
+
+        StringWriter out = new StringWriter();
+        processor.accept(new JsonVisitor(out));
+        String reference = getReferenceFile("veranjakandam", "json");
+        assertThat(reference, is(out.toString()));
+
+        out = new StringWriter();
+        processor.accept(new XmlVisitor(out));
+        System.out.println(out.toString());
+        reference = getReferenceFile("veranjakandam", "xml");
+        assertThat(reference, is(out.toString().replaceAll("\\n", "")));
+    }
+
+    private static String getReferenceFile(String name, String ext) throws IOException {
         return new String(Files.readAllBytes(new File("src/test/resources/" +
-                name + "." + ext + "?excludes=" + exclude).toPath()))
+                name + "." + ext).toPath()))
                 .replaceAll("\\s+([\\{\\}\\]\"<])", "$1").replaceAll("\\n", "");
     }
 }
