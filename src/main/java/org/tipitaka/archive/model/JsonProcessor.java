@@ -4,8 +4,10 @@ import com.fasterxml.jackson.core.JsonFactory;
 import com.fasterxml.jackson.core.JsonParser;
 import com.fasterxml.jackson.core.JsonToken;
 
+import java.io.File;
 import java.io.FileReader;
 import java.io.IOException;
+import java.io.Reader;
 import java.util.Arrays;
 import java.util.List;
 
@@ -18,14 +20,18 @@ class JsonProcessor {
     private static final JsonFactory factory = new JsonFactory();
 
     private final String file;
+    private final File basedir;
 
-    JsonProcessor(String file) throws IOException {
+    JsonProcessor(File basedir, String file) throws IOException {
+        this.basedir = basedir;
         this.file = file;
     }
 
     void accept(Visitor visitor) throws IOException {
-        JsonParser parser = factory.createParser(new FileReader(file));
-        dispatch(visitor, parser, null);
+        try(Reader reader = new FileReader(new File(basedir, file))) {
+            JsonParser parser = factory.createParser(reader);
+            dispatch(visitor, parser, null);
+        }
     }
 
     private void dispatch(Visitor visitor, JsonParser parser, JsonToken end) throws IOException {
@@ -43,7 +49,6 @@ class JsonProcessor {
                     visitField(name, visitor, parser);
                     break;
                 case VALUE_STRING:
-                    System.out.println("->" + parser.getValueAsString());
                     visitor.visitStringValue(parser.getValueAsString());
                     break;
                 case VALUE_FALSE:
@@ -61,7 +66,6 @@ class JsonProcessor {
     }
 
     private void visitField(String name, Visitor visitor, JsonParser parser) throws IOException {
-        System.out.println("=>" + name);
         visitor.visitField(name);
         JsonToken token = parser.nextToken();
         switch(token) {

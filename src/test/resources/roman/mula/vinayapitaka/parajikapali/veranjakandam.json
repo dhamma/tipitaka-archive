@@ -1,31 +1,38 @@
 {
-  "script": "roman",
   "path":"/mula/vinayapitaka/parajikapali/veranjakandam",
-  "base_url": "http://example.com"
-  "titlePath":["Verañjakaṇḍaṃ","Pārājikapāḷi","Vinayapiṭaka","Tipiṭaka (Mūla)"],
+  "script":"roman",
+  "version":null,
+  "baseUrl":"https://example.com",
+  "titlePath":[
+    "Verañjakaṇḍaṃ",
+    "Pārājikapāḷi",
+    "Vinayapiṭaka",
+    "Mūla"
+  ],
   "normativeSource":"http://tipitaka.org/romn/cscd/vin01m.mul0.xml",
-  "source":"roman/mula/vinayapitaka/parajikapali/veranjakandam.xml",
-  "menus": [
+  "source":"/roman/mula/vinayapitaka/parajikapali/veranjakandam.xml",
+  "versions":["vri"],
+  "menus":[
     {
-      "path": null,
-      "items": {
-        "mula": "Tipiṭaka (Mūla)",
-        "atthakatha": "Aṭṭhakathā",
-        "tika": "Tīkā",
-        "anya": "Anya"
-      },
+      "path":null,
+      "items":{
+        "mula":"Mūla",
+        "atthakatha":"Aṭṭhakathā",
+        "tika":"Tīkā",
+        "anya":"Anya"
+      }
     },
     {
-      "path": "/mula",
-      "items": {
-        "vinayapitaka": "Vinayapiṭaka",
-        "suttapitaka": "Suttapiṭaka",
-        "abhidhammapitaka": "Abhidhammapiṭaka"
-      },
+      "path":"/mula",
+      "items":{
+        "vinayapitaka":"Vinayapiṭaka",
+        "suttapitaka":"Suttapiṭaka",
+        "abhidhammapitaka":"Abhidhammapiṭaka"
+      }
     },
     {
-      "path": "/mula/vinayapitaka",
-      "items": {
+      "path":"/mula/vinayapitaka",
+      "items":{
         "parajikapali":"Pārājikapāḷi",
         "pacittiyapali":"Pācittiyapāḷi",
         "mahavaggapali":"Mahāvaggapāḷi",
@@ -34,13 +41,13 @@
       }
     },
     {
-      "path": "/mula/vinayapitaka/parajikapali",
-      "items": {
-        "veranjakandam": "Verañjakaṇḍaṃ",
-        "1. parajikakandam.html": "1. Pārājikakaṇḍaṃ",
-        "2. sanghadisesakandam": "2. Saṅghādisesakaṇḍaṃ",
-        "3. aniyatakandam", "3. Aniyatakaṇḍaṃ",
-        "4. nissaggiyakandam": "4. Nissaggiyakaṇḍaṃ"
+      "path":"/mula/vinayapitaka/parajikapali",
+      "items":{
+        "veranjakandam":"Verañjakaṇḍaṃ",
+        "1. parajikakandam":"1. Pārājikakaṇḍaṃ",
+        "2. sanghadisesakandam":"2. Saṅghādisesakaṇḍaṃ",
+        "3. aniyatakandam":"3. Aniyatakaṇḍaṃ",
+        "4. nissaggiyakandam":"4. Nissaggiyakaṇḍaṃ"
       }
     }
   ]

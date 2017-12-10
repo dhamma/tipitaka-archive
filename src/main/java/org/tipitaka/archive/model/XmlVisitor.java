@@ -1,6 +1,10 @@
 package org.tipitaka.archive.model;
 
+import java.io.BufferedReader;
+import java.io.File;
+import java.io.FileReader;
 import java.io.IOException;
+import java.io.Reader;
 import java.util.Stack;
 
 /**
@@ -8,12 +12,16 @@ import java.util.Stack;
  */
 class XmlVisitor implements Visitor {
 
+    private final File basedir;
     private final Appendable output;
     private final Stack<String> stack = new Stack<>();
     private String listName;
     private String arrayName;
+    private boolean isSource = false;
+    private String source = null;
 
-    XmlVisitor(Appendable output) throws IOException {
+    XmlVisitor(File basedir, Appendable output) throws IOException {
+        this.basedir = basedir;
         this.output = output;
         output.append("<?xml version=\"1.0\" encoding=\"utf-8\"?>\n");
         visitField("tipitaka");
@@ -36,7 +44,22 @@ class XmlVisitor implements Visitor {
         if ("items".equals(stack.peek())) {
             listName = null;
         }
-        append("</").append(stack.pop()).append(">");
+        String tag = stack.pop();
+        if ("tipitaka".equals(tag) && source != null) {
+            embedSourceDocument();
+        }
+        append("</").append(tag).append(">");
+    }
+
+    private void embedSourceDocument() throws IOException {
+        // we want to stream if possible
+        try(BufferedReader in = new BufferedReader(new FileReader(new File(basedir, this.source)))) {
+            String line = in.readLine();
+            while(line != null) {
+                append(line);
+                line = in.readLine();
+            }
+        }
     }
 
     @Override
@@ -75,6 +98,7 @@ class XmlVisitor implements Visitor {
             }
             append("<").append(name).append(">");
             stack.push(name);
+            this.isSource = "source".equals(name);
         }
     }
 
@@ -89,6 +113,7 @@ class XmlVisitor implements Visitor {
                 append("</item>");
             }
         } else {
+            if (this.isSource) this.source = value;
             append(value).append("</").append(stack.pop()).append(">");
         }
     }

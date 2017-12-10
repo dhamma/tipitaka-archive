@@ -16,9 +16,11 @@ import static org.hamcrest.Matchers.is;
  */
 public class JsonProcessorTest {
 
+    File basedir = new File("src/test/resources");
+
     @Test
     public void testFolder() throws IOException {
-        JsonProcessor processor = new JsonProcessor("src/test/resources/parajikapali.json");
+        JsonProcessor processor = new JsonProcessor(basedir, "parajikapali.json");
 
         StringWriter out = new StringWriter();
         processor.accept(new JsonVisitor(out));
@@ -26,14 +28,14 @@ public class JsonProcessorTest {
         assertThat(reference, is(out.toString()));
 
         out = new StringWriter();
-        processor.accept(new XmlVisitor(out));
+        processor.accept(new XmlVisitor(basedir, out));
         reference = getReferenceFile("parajikapali", "xml");
         assertThat(reference, is(out.toString().replaceAll("\\n", "")));
     }
 
     @Test
     public void testDocument() throws IOException {
-        JsonProcessor processor = new JsonProcessor("src/test/resources/veranjakandam.json");
+        JsonProcessor processor = new JsonProcessor(basedir, "veranjakandam.json");
 
         StringWriter out = new StringWriter();
         processor.accept(new JsonVisitor(out));
@@ -41,8 +43,7 @@ public class JsonProcessorTest {
         assertThat(reference, is(out.toString()));
 
         out = new StringWriter();
-        processor.accept(new XmlVisitor(out));
-        System.out.println(out.toString());
+        processor.accept(new XmlVisitor(basedir, out));
         reference = getReferenceFile("veranjakandam", "xml");
         assertThat(reference, is(out.toString().replaceAll("\\n", "")));
     }
