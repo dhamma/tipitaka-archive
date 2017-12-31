@@ -17,4 +17,11 @@ public class Menu extends Base {
     public Map<String, String> getItems() {
         return items;
     }
+
+    public String toString() {
+        StringBuilder builder = new StringBuilder();
+        toString(builder);
+        builder.append(":").append(items);
+        return builder.toString();
+    }
 }

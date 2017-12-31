@@ -12,8 +12,12 @@ public class Folder extends ExtendedBase {
     private final List<Menu> menus;
 
     public Folder(String path, Script script, String version, String baseUrl, List<String> titlePath, Menu... menus) {
+        this(path, script, version, baseUrl, titlePath, Arrays.asList(menus));
+    }
+
+    public Folder(String path, Script script, String version, String baseUrl, List<String> titlePath, List<Menu> menus) {
         super(path, script, version, baseUrl, titlePath);
-        this.menus = Arrays.asList(menus);
+        this.menus = menus;
     }
 
     public List<Menu> getMenus() {
