@@ -1,0 +1,69 @@
+{
+  "path":"/atthakatha/suttapitaka/digha nikaya/pathikavagga-atthakatha/2. udumbarikasuttavannana",
+  "script":"roman",
+  "version":null,
+  "baseUrl":"file:.",
+  "titlePath":[
+    "2. Udumbarikasuttavaṇṇanā",
+    "Pāthikavagga-aṭṭhakathā",
+    "Dīgha nikāya",
+    "Suttapiṭaka",
+    "Aṭṭhakathā"
+  ],
+  "normativeSource":"cscd/s0103a.att1.xml",
+  "source":"/roman/atthakatha/suttapitaka/digha nikaya/pathikavagga-atthakatha/2. udumbarikasuttavannana.xml",
+  "versions":[],
+  "menus":[
+    {
+      "path":null,
+      "items":{
+        "mula":"Mūla",
+        "atthakatha":"Aṭṭhakathā",
+        "tika":"Tīkā",
+        "anya":"Anya"
+      }
+    },
+    {
+      "path":"/atthakatha",
+      "items":{
+        "vinayapitaka":"Vinayapiṭaka",
+        "suttapitaka":"Suttapiṭaka",
+        "abhidhammapitaka":"Abhidhammapiṭaka"
+      }
+    },
+    {
+      "path":"/atthakatha/suttapitaka",
+      "items":{
+        "digha nikaya":"Dīgha nikāya",
+        "majjhimanikaya":"Majjhimanikāya",
+        "samyuttanikaya":"Saṃyuttanikāya",
+        "anguttaranikaya":"Aṅguttaranikāya",
+        "khuddakanikaya":"Khuddakanikāya"
+      }
+    },
+    {
+      "path":"/atthakatha/suttapitaka/digha nikaya",
+      "items":{
+        "silakkhandhavagga-atthakatha":"Sīlakkhandhavagga-aṭṭhakathā",
+        "mahavagga-atthakatha":"Mahāvagga-aṭṭhakathā",
+        "pathikavagga-atthakatha":"Pāthikavagga-aṭṭhakathā"
+      }
+    },
+    {
+      "path":"/atthakatha/suttapitaka/digha nikaya/pathikavagga-atthakatha",
+      "items":{
+        "1. pathikasuttavannana":"1. Pāthikasuttavaṇṇanā",
+        "2. udumbarikasuttavannana":"2. Udumbarikasuttavaṇṇanā",
+        "3. cakkavattisuttavannana":"3. Cakkavattisuttavaṇṇanā",
+        "4. aggannasuttavannana":"4. Aggaññasuttavaṇṇanā",
+        "5. sampasadaniyasuttavannana":"5. Sampasādanīyasuttavaṇṇanā",
+        "6. pasadikasuttavannana":"6. Pāsādikasuttavaṇṇanā",
+        "7. lakkhanasuttavannana":"7. Lakkhaṇasuttavaṇṇanā",
+        "8. singalasuttavannana":"8. Siṅgālasuttavaṇṇanā",
+        "9. atanatiyasuttavannana":"9. Āṭānāṭiyasuttavaṇṇanā",
+        "10. sangitisuttavannana":"10. Saṅgītisuttavaṇṇanā",
+        "11. dasuttarasuttavannana":"11. Dasuttarasuttavaṇṇanā"
+      }
+    }
+  ]
+}

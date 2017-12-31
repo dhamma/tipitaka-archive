@@ -1,0 +1,54 @@
+{
+  "path":"/anya/sangayana-puccha vissajjana/anguttaranikaya (pu-vi)",
+  "script":"roman",
+  "version":null,
+  "baseUrl":"file:.",
+  "titlePath":[
+    "Aṅguttaranikāya (pu-vi)",
+    "Saṅgāyana-puccha vissajjanā",
+    "Anya"
+  ],
+  "menus":[
+    {
+      "path":null,
+      "items":{
+        "mula":"Mūla",
+        "atthakatha":"Aṭṭhakathā",
+        "tika":"Tīkā",
+        "anya":"Anya"
+      }
+    },
+    {
+      "path":"/anya",
+      "items":{
+        "visuddhimagga":"Visuddhimagga",
+        "sangayana-puccha vissajjana":"Saṅgāyana-puccha vissajjanā",
+        "ledi sayado gantha-sangaho":"Leḍī sayāḍo gantha-saṅgaho",
+        "buddha-vandana gantha-sangaho":"Buddha-vandanā gantha-saṅgaho",
+        "vamsa-gantha-sangaho":"Vaṃsa-gantha-saṅgaho",
+        "byakarana gantha-sangaho":"Byākaraṇa gantha-saṅgaho",
+        "niti-gantha-sangaho":"Nīti-gantha-saṅgaho",
+        "pakinnaka-gantha-sangaho":"Pakiṇṇaka-gantha-saṅgaho",
+        "sihala-gantha-sangaho":"Sihaḷa-gantha-saṅgaho"
+      }
+    },
+    {
+      "path":"/anya/sangayana-puccha vissajjana",
+      "items":{
+        "dighanikaya (pu-vi)":"Dīghanikāya (pu-vi)",
+        "majjhimanikaya (pu-vi)":"Majjhimanikāya (pu-vi)",
+        "samyuttanikaya (pu-vi)":"Saṃyuttanikāya (pu-vi)",
+        "anguttaranikaya (pu-vi)":"Aṅguttaranikāya (pu-vi)",
+        "vinayapitaka (pu-vi)":"Vinayapiṭaka (pu-vi)",
+        "abhidhammapitaka (pu-vi)":"Abhidhammapiṭaka (pu-vi)",
+        "atthakatha (pu-vi)":"Aṭṭhakathā (pu-vi)"
+      }
+    },
+    {
+      "path":"/anya/sangayana-puccha vissajjana/anguttaranikaya (pu-vi)",
+      "items":{
+        "anguttaranikaye":"Aṅguttaranikāye"
+      }
+    }
+  ]
+}

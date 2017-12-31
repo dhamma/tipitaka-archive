@@ -1,0 +1,70 @@
+{
+  "path":"/tika/suttapitaka/samyuttanikaya/nidanavagga-tika/3. dhatusamyuttam",
+  "script":"roman",
+  "version":null,
+  "baseUrl":"file:.",
+  "titlePath":[
+    "3. Dhātusaṃyuttaṃ",
+    "Nidānavagga-ṭīkā",
+    "Saṃyuttanikāya",
+    "Suttapiṭaka",
+    "Tīkā"
+  ],
+  "normativeSource":"cscd/s0302t.tik2.xml",
+  "source":"/roman/tika/suttapitaka/samyuttanikaya/nidanavagga-tika/3. dhatusamyuttam.xml",
+  "versions":[],
+  "menus":[
+    {
+      "path":null,
+      "items":{
+        "mula":"Mūla",
+        "atthakatha":"Aṭṭhakathā",
+        "tika":"Tīkā",
+        "anya":"Anya"
+      }
+    },
+    {
+      "path":"/tika",
+      "items":{
+        "vinayapitaka":"Vinayapiṭaka",
+        "suttapitaka":"Suttapiṭaka",
+        "abhidhammapitaka":"Abhidhammapiṭaka"
+      }
+    },
+    {
+      "path":"/tika/suttapitaka",
+      "items":{
+        "dighanikaya":"Dīghanikāya",
+        "majjhimanikaya":"Majjhimanikāya",
+        "samyuttanikaya":"Saṃyuttanikāya",
+        "anguttaranikaya":"Aṅguttaranikāya",
+        "khuddakanikaya":"Khuddakanikāya"
+      }
+    },
+    {
+      "path":"/tika/suttapitaka/samyuttanikaya",
+      "items":{
+        "sagathavagga-tika":"Sagāthāvagga-ṭīkā",
+        "nidanavagga-tika":"Nidānavagga-ṭīkā",
+        "khandhavagga-tika":"Khandhavagga-ṭīkā",
+        "salayatanavagga-tika":"Saḷāyatanavagga-ṭīkā",
+        "mahavagga-tika":"Mahāvagga-ṭīkā"
+      }
+    },
+    {
+      "path":"/tika/suttapitaka/samyuttanikaya/nidanavagga-tika",
+      "items":{
+        "1. nidanasamyuttam":"1. Nidānasaṃyuttaṃ",
+        "2. abhisamayasamyuttam":"2. Abhisamayasaṃyuttaṃ",
+        "3. dhatusamyuttam":"3. Dhātusaṃyuttaṃ",
+        "4. anamataggasamyuttam":"4. Anamataggasaṃyuttaṃ",
+        "5. kassapasamyuttam":"5. Kassapasaṃyuttaṃ",
+        "6. labhasakkarasamyuttam":"6. Lābhasakkārasaṃyuttaṃ",
+        "7. rahulasamyuttam":"7. Rāhulasaṃyuttaṃ",
+        "8. lakkhanasamyuttam":"8. Lakkhaṇasaṃyuttaṃ",
+        "9. opammasamyuttam":"9. Opammasaṃyuttaṃ",
+        "10. bhikkhusamyuttam":"10. Bhikkhusaṃyuttaṃ"
+      }
+    }
+  ]
+}

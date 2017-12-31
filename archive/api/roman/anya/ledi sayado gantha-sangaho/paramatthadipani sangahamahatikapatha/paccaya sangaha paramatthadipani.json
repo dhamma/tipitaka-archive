@@ -1,0 +1,67 @@
+{
+  "path":"/anya/ledi sayado gantha-sangaho/paramatthadipani sangahamahatikapatha/paccaya sangaha paramatthadipani",
+  "script":"roman",
+  "version":null,
+  "baseUrl":"file:.",
+  "titlePath":[
+    "Paccaya saṅgaha paramatthadīpanī",
+    "Paramatthadīpanī Saṅgahamahāṭīkāpāṭha",
+    "Leḍī sayāḍo gantha-saṅgaho",
+    "Anya"
+  ],
+  "normativeSource":"cscd/e0301n.nrf10.xml",
+  "source":"/roman/anya/ledi sayado gantha-sangaho/paramatthadipani sangahamahatikapatha/paccaya sangaha paramatthadipani.xml",
+  "versions":[],
+  "menus":[
+    {
+      "path":null,
+      "items":{
+        "mula":"Mūla",
+        "atthakatha":"Aṭṭhakathā",
+        "tika":"Tīkā",
+        "anya":"Anya"
+      }
+    },
+    {
+      "path":"/anya",
+      "items":{
+        "visuddhimagga":"Visuddhimagga",
+        "sangayana-puccha vissajjana":"Saṅgāyana-puccha vissajjanā",
+        "ledi sayado gantha-sangaho":"Leḍī sayāḍo gantha-saṅgaho",
+        "buddha-vandana gantha-sangaho":"Buddha-vandanā gantha-saṅgaho",
+        "vamsa-gantha-sangaho":"Vaṃsa-gantha-saṅgaho",
+        "byakarana gantha-sangaho":"Byākaraṇa gantha-saṅgaho",
+        "niti-gantha-sangaho":"Nīti-gantha-saṅgaho",
+        "pakinnaka-gantha-sangaho":"Pakiṇṇaka-gantha-saṅgaho",
+        "sihala-gantha-sangaho":"Sihaḷa-gantha-saṅgaho"
+      }
+    },
+    {
+      "path":"/anya/ledi sayado gantha-sangaho",
+      "items":{
+        "niruttidipani":"Niruttidīpanī",
+        "paramatthadipani sangahamahatikapatha":"Paramatthadīpanī Saṅgahamahāṭīkāpāṭha",
+        "anudipanipatha":"Anudīpanīpāṭha",
+        "patthanuddesa dipanipatha":"Paṭṭhānuddesa dīpanīpāṭha"
+      }
+    },
+    {
+      "path":"/anya/ledi sayado gantha-sangaho/paramatthadipani sangahamahatikapatha",
+      "items":{
+        "gantharabbhakatha":"Ganthārabbhakathā",
+        "pathamagatha-paramatthadipani":"Pathamagāthā-paramatthadīpanī",
+        "dutiyagatha-paramatthadipani":"Dutīyagāthā-paramatthadīpanī",
+        "cittasangaha-paramatthadipani":"Cittasaṅgaha-paramatthadīpanī",
+        "cetasikasangaha paramatthadipani":"Cetasikasaṅgaha paramatthadīpanī",
+        "pakinnaka sangaha paramatthadipani":"Pakiṇṇaka saṅgaha paramatthadīpanī",
+        "vithi sangaha paramatthadipani":"Vīthi saṅgaha paramatthadīpanī",
+        "vithimutta sangaha paramatthadipani":"Vīthimutta saṅgaha paramatthadīpanī",
+        "rupa sangaha paramatthadipani":"Rūpa saṅgaha paramatthadīpanī",
+        "samuccaya sangaha paramatthadipani":"Samuccaya saṅgaha paramatthadīpanī",
+        "paccaya sangaha paramatthadipani":"Paccaya saṅgaha paramatthadīpanī",
+        "kammatthana sangaha paramatthadipani":"Kammaṭṭhāna saṅgaha paramatthadīpanī",
+        "nigama paramatthadipani":"Nigama paramatthadīpanī"
+      }
+    }
+  ]
+}

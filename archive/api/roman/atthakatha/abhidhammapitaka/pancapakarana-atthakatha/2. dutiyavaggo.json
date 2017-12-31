@@ -1,0 +1,113 @@
+{
+  "path":"/atthakatha/abhidhammapitaka/pancapakarana-atthakatha/2. dutiyavaggo",
+  "script":"roman",
+  "version":null,
+  "baseUrl":"file:.",
+  "titlePath":[
+    "2. Dutiyavaggo",
+    "Pañcapakaraṇa-aṭṭhakathā",
+    "Abhidhammapiṭaka",
+    "Aṭṭhakathā"
+  ],
+  "normativeSource":"cscd/abh03a.att17.xml",
+  "source":"/roman/atthakatha/abhidhammapitaka/pancapakarana-atthakatha/2. dutiyavaggo.xml",
+  "versions":[],
+  "menus":[
+    {
+      "path":null,
+      "items":{
+        "mula":"Mūla",
+        "atthakatha":"Aṭṭhakathā",
+        "tika":"Tīkā",
+        "anya":"Anya"
+      }
+    },
+    {
+      "path":"/atthakatha",
+      "items":{
+        "vinayapitaka":"Vinayapiṭaka",
+        "suttapitaka":"Suttapiṭaka",
+        "abhidhammapitaka":"Abhidhammapiṭaka"
+      }
+    },
+    {
+      "path":"/atthakatha/abhidhammapitaka",
+      "items":{
+        "dhammasangani-atthakatha":"Dhammasaṅgaṇi-aṭṭhakathā",
+        "sammohavinodani-atthakatha":"Sammohavinodanī-aṭṭhakathā",
+        "pancapakarana-atthakatha":"Pañcapakaraṇa-aṭṭhakathā"
+      }
+    },
+    {
+      "path":"/atthakatha/abhidhammapitaka/pancapakarana-atthakatha",
+      "items":{
+        "dhatukatha-atthakatha":"Dhātukathā-aṭṭhakathā",
+        "1. matikavannana":"1. Mātikāvaṇṇanā",
+        "2. niddesavannana":"2. Niddesavaṇṇanā",
+        "puggalapannatti-atthakatha":"Puggalapaññatti-aṭṭhakathā",
+        "1. matikavannana _2_":"1. Mātikāvaṇṇanā _2_",
+        "2. niddesavannana _2_":"2. Niddesavaṇṇanā _2_",
+        "kathavatthu-atthakatha":"Kathāvatthu-aṭṭhakathā",
+        "nidanakatha":"Nidānakathā",
+        "1. puggalakatha":"1. Puggalakathā",
+        "2. parihanikatha":"2. Parihānikathā",
+        "3. brahmacariyakatha":"3. Brahmacariyakathā",
+        "4. jahatikatha":"4. Jahatikathā",
+        "5. sabbamatthitikatha":"5. Sabbamatthītikathā",
+        "6. atitakkhandhadikatha":"6. Atītakkhandhādikathā",
+        "7. ekaccamatthitikatha":"7. Ekaccaṃatthītikathā",
+        "8. satipatthanakathavannana":"8. Satipaṭṭhānakathāvaṇṇanā",
+        "9. hevatthikathavannana":"9. Hevatthikathāvaṇṇanā",
+        "2. dutiyavaggo":"2. Dutiyavaggo",
+        "3. tatiyavaggo":"3. Tatiyavaggo",
+        "4. catutthavaggo":"4. Catutthavaggo",
+        "5. pancamavaggo":"5. Pañcamavaggo",
+        "6. chatthavaggo":"6. Chaṭṭhavaggo",
+        "7. sattamavaggo":"7. Sattamavaggo",
+        "8. atthamavaggo":"8. Aṭṭhamavaggo",
+        "9. navamavaggo":"9. Navamavaggo",
+        "10. dasamavaggo":"10. Dasamavaggo",
+        "11. ekadasamavaggo":"11. Ekādasamavaggo",
+        "12. dvadasamavaggo":"12. Dvādasamavaggo",
+        "13. terasamavaggo":"13. Terasamavaggo",
+        "14. cuddasamavaggo":"14. Cuddasamavaggo",
+        "15. pannarasamavaggo":"15. Pannarasamavaggo",
+        "16. solasamavaggo":"16. Soḷasamavaggo",
+        "17. sattarasamavaggo":"17. Sattarasamavaggo",
+        "18. attharasamavaggo":"18. Aṭṭhārasamavaggo",
+        "19. ekunavisatimavaggo":"19. Ekūnavīsatimavaggo",
+        "20. visatimavaggo":"20. Vīsatimavaggo",
+        "21. ekavisatimavaggo":"21. Ekavīsatimavaggo",
+        "22. bavisatimavaggo":"22. Bāvīsatimavaggo",
+        "23. tevisatimavaggo":"23. Tevīsatimavaggo",
+        "yamakappakarana-atthakatha":"Yamakappakaraṇa-aṭṭhakathā",
+        "1. mulayamakam":"1. Mūlayamakaṃ",
+        "2. khandhayamakam":"2. Khandhayamakaṃ",
+        "3. ayatanayamakam":"3. Āyatanayamakaṃ",
+        "4. dhatuyamakam":"4. Dhātuyamakaṃ",
+        "5. saccayamakam":"5. Saccayamakaṃ",
+        "6. sankharayamakam":"6. Saṅkhārayamakaṃ",
+        "7. anusayayamakam":"7. Anusayayamakaṃ",
+        "8. cittayamakam":"8. Cittayamakaṃ",
+        "9. dhammayamakam":"9. Dhammayamakaṃ",
+        "10. indriyayamakam":"10. Indriyayamakaṃ",
+        "patthanappakarana-atthakatha":"Paṭṭhānappakaraṇa-aṭṭhakathā",
+        "paccayuddesavannana":"Paccayuddesavaṇṇanā",
+        "paccayaniddeso":"Paccayaniddeso",
+        "1. kusalattikavannana":"1. Kusalattikavaṇṇanā",
+        "2. vedanattikavannana":"2. Vedanāttikavaṇṇanā",
+        "3. vipakattikavannana":"3. Vipākattikavaṇṇanā",
+        "4. upadinnattikavannana":"4. Upādinnattikavaṇṇanā",
+        "5-22. sankilitthattikadivannana":"5-22. Saṅkiliṭṭhattikādivaṇṇanā",
+        "2. dukapatthanavannana":"2. Dukapaṭṭhānavaṇṇanā",
+        "3. dukatikapatthanavannana":"3. Dukatikapaṭṭhānavaṇṇanā",
+        "4. tikadukapatthanavannana":"4. Tikadukapaṭṭhānavaṇṇanā",
+        "5. tikatikapatthanavannana":"5. Tikatikapaṭṭhānavaṇṇanā",
+        "6. dukadukapatthanavannana":"6. Dukadukapaṭṭhānavaṇṇanā",
+        "7-12. paccaniyapatthanavannana":"7-12. Paccanīyapaṭṭhānavaṇṇanā",
+        "13-18. anulomapaccaniyapatthanavannana":"13-18. Anulomapaccanīyapaṭṭhānavaṇṇanā",
+        "19-24. paccaniyanulomapatthanavannana":"19-24. Paccanīyānulomapaṭṭhānavaṇṇanā"
+      }
+    }
+  ]
+}

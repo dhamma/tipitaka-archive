@@ -1,0 +1,64 @@
+{
+  "path":"/anya/vamsa-gantha-sangaho/sasanavamsa/10. cinaratthasasanavamsakathamaggo",
+  "script":"roman",
+  "version":null,
+  "baseUrl":"file:.",
+  "titlePath":[
+    "10. Cinaraṭṭhasāsanavaṃsakathāmaggo",
+    "Sāsanavaṃsa",
+    "Vaṃsa-gantha-saṅgaho",
+    "Anya"
+  ],
+  "normativeSource":"cscd/e0702n.nrf10.xml",
+  "source":"/roman/anya/vamsa-gantha-sangaho/sasanavamsa/10. cinaratthasasanavamsakathamaggo.xml",
+  "versions":[],
+  "menus":[
+    {
+      "path":null,
+      "items":{
+        "mula":"Mūla",
+        "atthakatha":"Aṭṭhakathā",
+        "tika":"Tīkā",
+        "anya":"Anya"
+      }
+    },
+    {
+      "path":"/anya",
+      "items":{
+        "visuddhimagga":"Visuddhimagga",
+        "sangayana-puccha vissajjana":"Saṅgāyana-puccha vissajjanā",
+        "ledi sayado gantha-sangaho":"Leḍī sayāḍo gantha-saṅgaho",
+        "buddha-vandana gantha-sangaho":"Buddha-vandanā gantha-saṅgaho",
+        "vamsa-gantha-sangaho":"Vaṃsa-gantha-saṅgaho",
+        "byakarana gantha-sangaho":"Byākaraṇa gantha-saṅgaho",
+        "niti-gantha-sangaho":"Nīti-gantha-saṅgaho",
+        "pakinnaka-gantha-sangaho":"Pakiṇṇaka-gantha-saṅgaho",
+        "sihala-gantha-sangaho":"Sihaḷa-gantha-saṅgaho"
+      }
+    },
+    {
+      "path":"/anya/vamsa-gantha-sangaho",
+      "items":{
+        "culaganthavamsa":"Cūḷaganthavaṃsa",
+        "mahavamsa":"Mahāvaṃsa",
+        "sasanavamsa":"Sāsanavaṃsa"
+      }
+    },
+    {
+      "path":"/anya/vamsa-gantha-sangaho/sasanavamsa",
+      "items":{
+        "sasanavamsappadipika":"Sāsanavaṃsappadīpikā",
+        "1. navatthanagatasasanavamsakathamaggo":"1. Navaṭṭhānāgatasāsanavaṃsakathāmaggo",
+        "2. sihaladipikasasanavamsakathamaggo":"2. Sīhaḷadīpikasāsanavaṃsakathāmaggo",
+        "3. suvannabhumisasanavamsakathamaggo":"3. Suvaṇṇabhūmisāsanavaṃsakathāmaggo",
+        "4. yonakaratthasasanavamsakathamaggo":"4. Yonakaraṭṭhasāsanavaṃsakathāmaggo",
+        "5. navavasiratthasasanavamsakathamaggo":"5. Navavāsīraṭṭhasāsanavaṃsakathāmaggo",
+        "6. aparantaratthasasanavamsakathamaggo":"6. Aparantaraṭṭhasāsanavaṃsakathāmaggo",
+        "7. kasmiragandhararatthasasanavamsakathamaggo":"7. Kasmiragandhāraraṭṭhasāsanavaṃsakathāmaggo",
+        "8. mahimsakaratthassasanavamsakathamaggo":"8. Mahiṃsakaraṭṭhassāsanavaṃsakathāmaggo",
+        "9. maharatthasasanavamsakathamaggo":"9. Mahāraṭṭhasāsanavaṃsakathāmaggo",
+        "10. cinaratthasasanavamsakathamaggo":"10. Cinaraṭṭhasāsanavaṃsakathāmaggo"
+      }
+    }
+  ]
+}

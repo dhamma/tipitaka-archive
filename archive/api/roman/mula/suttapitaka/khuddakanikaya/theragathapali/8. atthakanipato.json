@@ -1,0 +1,97 @@
+{
+  "path":"/mula/suttapitaka/khuddakanikaya/theragathapali/8. atthakanipato",
+  "script":"roman",
+  "version":null,
+  "baseUrl":"file:.",
+  "titlePath":[
+    "8. Aṭṭhakanipāto",
+    "Theragāthāpāḷi",
+    "Khuddakanikāya",
+    "Suttapiṭaka",
+    "Mūla"
+  ],
+  "normativeSource":"cscd/s0508m.mul7.xml",
+  "source":"/roman/mula/suttapitaka/khuddakanikaya/theragathapali/8. atthakanipato.xml",
+  "versions":[],
+  "menus":[
+    {
+      "path":null,
+      "items":{
+        "mula":"Mūla",
+        "atthakatha":"Aṭṭhakathā",
+        "tika":"Tīkā",
+        "anya":"Anya"
+      }
+    },
+    {
+      "path":"/mula",
+      "items":{
+        "vinayapitaka":"Vinayapiṭaka",
+        "suttapitaka":"Suttapiṭaka",
+        "abhidhammapitaka":"Abhidhammapiṭaka"
+      }
+    },
+    {
+      "path":"/mula/suttapitaka",
+      "items":{
+        "dighanikaya":"Dīghanikāya",
+        "majjhimanikaya":"Majjhimanikāya",
+        "samyuttanikaya":"Saṃyuttanikāya",
+        "anguttaranikaya":"Aṅguttaranikāya",
+        "khuddakanikaya":"Khuddakanikāya"
+      }
+    },
+    {
+      "path":"/mula/suttapitaka/khuddakanikaya",
+      "items":{
+        "khuddakapathapali":"Khuddakapāṭhapāḷi",
+        "dhammapadapali":"Dhammapadapāḷi",
+        "udanapali":"Udānapāḷi",
+        "itivuttakapali":"Itivuttakapāḷi",
+        "suttanipatapali":"Suttanipātapāḷi",
+        "vimanavatthupali":"Vimānavatthupāḷi",
+        "petavatthupali":"Petavatthupāḷi",
+        "theragathapali":"Theragāthāpāḷi",
+        "therigathapali":"Therīgāthāpāḷi",
+        "apadanapali-1":"Apadānapāḷi-1",
+        "apadanapali-2":"Apadānapāḷi-2",
+        "buddhavamsapali":"Buddhavaṃsapāḷi",
+        "cariyapitakapali":"Cariyāpiṭakapāḷi",
+        "jatakapali-1":"Jātakapāḷi-1",
+        "jatakapali-2":"Jātakapāḷi-2",
+        "mahaniddesapali":"Mahāniddesapāḷi",
+        "culaniddesapali":"Cūḷaniddesapāḷi",
+        "patisambhidamaggapali":"Paṭisambhidāmaggapāḷi",
+        "nettippakaranapali":"Nettippakaraṇapāḷi",
+        "milindapanhapali":"Milindapañhapāḷi",
+        "petakopadesapali":"Peṭakopadesapāḷi"
+      }
+    },
+    {
+      "path":"/mula/suttapitaka/khuddakanikaya/theragathapali",
+      "items":{
+        "1. ekakanipato":"1. Ekakanipāto",
+        "2. dukanipato":"2. Dukanipāto",
+        "3. tikanipato":"3. Tikanipāto",
+        "4. catukanipato":"4. Catukanipāto",
+        "5. pancakanipato":"5. Pañcakanipāto",
+        "6. chakkanipato":"6. Chakkanipāto",
+        "7. sattakanipato":"7. Sattakanipāto",
+        "8. atthakanipato":"8. Aṭṭhakanipāto",
+        "9. navakanipato":"9. Navakanipāto",
+        "10. dasakanipato":"10. Dasakanipāto",
+        "11. ekadasanipato":"11. Ekādasanipāto",
+        "12. dvadasakanipato":"12. Dvādasakanipāto",
+        "13. terasanipato":"13. Terasanipāto",
+        "14. cuddasakanipato":"14. Cuddasakanipāto",
+        "15. solasakanipato":"15. Soḷasakanipāto",
+        "16. visatinipato":"16. Vīsatinipāto",
+        "17. timsanipato":"17. Tiṃsanipāto",
+        "18. cattalisanipato":"18. Cattālīsanipāto",
+        "19. pannasanipato":"19. Paññāsanipāto",
+        "20. satthinipato":"20. Saṭṭhinipāto",
+        "21. mahanipato":"21. Mahānipāto"
+      }
+    }
+  ]
+}

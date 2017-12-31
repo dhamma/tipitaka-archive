@@ -1,0 +1,116 @@
+{
+  "path":"/anya/vamsa-gantha-sangaho/mahavamsa/pathamapariccheda",
+  "script":"roman",
+  "version":null,
+  "baseUrl":"file:.",
+  "titlePath":[
+    "Pathamapariccheda",
+    "Mahāvaṃsa",
+    "Vaṃsa-gantha-saṅgaho",
+    "Anya"
+  ],
+  "normativeSource":"cscd/e0703n.nrf0.xml",
+  "source":"/roman/anya/vamsa-gantha-sangaho/mahavamsa/pathamapariccheda.xml",
+  "versions":[],
+  "menus":[
+    {
+      "path":null,
+      "items":{
+        "mula":"Mūla",
+        "atthakatha":"Aṭṭhakathā",
+        "tika":"Tīkā",
+        "anya":"Anya"
+      }
+    },
+    {
+      "path":"/anya",
+      "items":{
+        "visuddhimagga":"Visuddhimagga",
+        "sangayana-puccha vissajjana":"Saṅgāyana-puccha vissajjanā",
+        "ledi sayado gantha-sangaho":"Leḍī sayāḍo gantha-saṅgaho",
+        "buddha-vandana gantha-sangaho":"Buddha-vandanā gantha-saṅgaho",
+        "vamsa-gantha-sangaho":"Vaṃsa-gantha-saṅgaho",
+        "byakarana gantha-sangaho":"Byākaraṇa gantha-saṅgaho",
+        "niti-gantha-sangaho":"Nīti-gantha-saṅgaho",
+        "pakinnaka-gantha-sangaho":"Pakiṇṇaka-gantha-saṅgaho",
+        "sihala-gantha-sangaho":"Sihaḷa-gantha-saṅgaho"
+      }
+    },
+    {
+      "path":"/anya/vamsa-gantha-sangaho",
+      "items":{
+        "culaganthavamsa":"Cūḷaganthavaṃsa",
+        "mahavamsa":"Mahāvaṃsa",
+        "sasanavamsa":"Sāsanavaṃsa"
+      }
+    },
+    {
+      "path":"/anya/vamsa-gantha-sangaho/mahavamsa",
+      "items":{
+        "pathamapariccheda":"Pathamapariccheda",
+        "dutiyapariccheda":"Dutiyapariccheda",
+        "tatiya pariccheda":"Tatiya pariccheda",
+        "catuttha pariccheda":"Catuttha pariccheda",
+        "pancama pariccheda":"Pañcama pariccheda",
+        "chatthapariccheda":"Chaṭṭhapariccheda",
+        "sattama pariccheda":"Sattama pariccheda",
+        "atthama pariccheda":"Aṭṭhama pariccheda",
+        "navama pariccheda":"Navama pariccheda",
+        "dasama pariccheda":"Dasama pariccheda",
+        "ekadasama pariccheda":"Ekādasama pariccheda",
+        "dvadasama pariccheda":"Dvādasama pariccheda",
+        "terasama pariccheda":"Terasama pariccheda",
+        "cuddasama pariccheda":"Cuddasama pariccheda",
+        "pancadasama pariccheda":"Pañcadasama pariccheda",
+        "solasama pariccheda":"Soḷasama pariccheda",
+        "sattarasama pariccheda":"Sattarasama pariccheda",
+        "attharasama pariccheda":"Aṭṭhārasama pariccheda",
+        "ekunavisatima pariccheda":"Ekūnavīsatima pariccheda",
+        "visatima pariccheda":"Vīsatima pariccheda",
+        "ekavisatima pariccheda":"Ekavīsatima pariccheda",
+        "bavisatima pariccheda":"Bāvīsatima pariccheda",
+        "tevisatima pariccheda":"Tevīsatima pariccheda",
+        "catuvisatima pariccheda":"Catuvīsatima pariccheda",
+        "pancavisatima pariccheda":"Pañcavīsatima pariccheda",
+        "chabbisatima pariccheda":"Chabbīsatima pariccheda",
+        "sattavisatima pariccheda":"Sattavīsatima pariccheda",
+        "atthavisatima pariccheda":"Aṭṭhavīsatima pariccheda",
+        "ekunatimsatima pariccheda":"Ekūnatiṃsatima pariccheda",
+        "timsatima pariccheda":"Tiṃsatima pariccheda",
+        "ekatimsatima pariccheda":"Ekatiṃsatima pariccheda",
+        "dvattimsatima pariccheda":"Dvattiṃsatima pariccheda",
+        "tettimsatima pariccheda":"Tettiṃsatima pariccheda",
+        "catuttimsatima pariccheda":"Catuttiṃsatima pariccheda",
+        "pancatimsatimapariccheda":"Pañcatiṃsatimapariccheda",
+        "chattimsatima pariccheda":"Chattiṃsatima pariccheda",
+        "sattatimsatima pariccheda":"Sattatiṃsatima pariccheda",
+        "atthatimsatima pariccheda":"Aṭṭhatiṃsatima pariccheda",
+        "ekunacattalisatima pariccheda":"Ekūnacattālīsatima pariccheda",
+        "cattalisatima pariccheda":"Cattālīsatima pariccheda",
+        "ekacattalisatima pariccheda":"Ekacattālīsatima pariccheda",
+        "dvicattalisatima pariccheda":"Dvicattālīsatima pariccheda",
+        "tecattalisatima pariccheda":"Tecattālīsatima pariccheda",
+        "catucattalisatima pariccheda":"Catucattālīsatima pariccheda",
+        "pancacattalisatima pariccheda":"Pañcacattālīsatima pariccheda",
+        "chacattalisatima pariccheda":"Chacattālīsatima pariccheda",
+        "sattacattalisatima pariccheda":"Sattacattālīsatima pariccheda",
+        "atthacattalisatima pariccheda":"Aṭṭhacattālīsatima pariccheda",
+        "ekunapannasatima pariccheda":"Ekūnapaññāsatima pariccheda",
+        "pannasatima pariccheda":"Paññāsatima pariccheda",
+        "ekapannasatima pariccheda":"Ekapaññāsatima pariccheda",
+        "dvipannasatima pariccheda":"Dvipaññāsatima pariccheda",
+        "tivannasatima paccheda":"Tivaññāsatima paccheda",
+        "catupannasatima pariccheda":"Catupaññāsatima pariccheda",
+        "pancapannasatima pariccheda":"Pañcapaññāsatima pariccheda",
+        "chapannasatima pariccheda":"Chapaññāsatima pariccheda",
+        "sattapannasatima pariccheda":"Sattapaññāsatima pariccheda",
+        "atthapannasatima pariccheda":"Aṭṭhapaññāsatima pariccheda",
+        "ekunasatthima pariccheda":"Ekūnasaṭṭhima pariccheda",
+        "satthima pariccheda":"Saṭṭhima pariccheda",
+        "ekasatthima pariccheda":"Ekasaṭṭhima pariccheda",
+        "dvisatthimapariccheda":"Dvisaṭṭhimapariccheda",
+        "tisatthima pariccheda":"Tisaṭṭhima pariccheda"
+      }
+    }
+  ]
+}

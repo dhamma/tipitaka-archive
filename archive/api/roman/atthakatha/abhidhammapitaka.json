@@ -1,0 +1,37 @@
+{
+  "path":"/atthakatha/abhidhammapitaka",
+  "script":"roman",
+  "version":null,
+  "baseUrl":"file:.",
+  "titlePath":[
+    "Abhidhammapiṭaka",
+    "Aṭṭhakathā"
+  ],
+  "menus":[
+    {
+      "path":null,
+      "items":{
+        "mula":"Mūla",
+        "atthakatha":"Aṭṭhakathā",
+        "tika":"Tīkā",
+        "anya":"Anya"
+      }
+    },
+    {
+      "path":"/atthakatha",
+      "items":{
+        "vinayapitaka":"Vinayapiṭaka",
+        "suttapitaka":"Suttapiṭaka",
+        "abhidhammapitaka":"Abhidhammapiṭaka"
+      }
+    },
+    {
+      "path":"/atthakatha/abhidhammapitaka",
+      "items":{
+        "dhammasangani-atthakatha":"Dhammasaṅgaṇi-aṭṭhakathā",
+        "sammohavinodani-atthakatha":"Sammohavinodanī-aṭṭhakathā",
+        "pancapakarana-atthakatha":"Pañcapakaraṇa-aṭṭhakathā"
+      }
+    }
+  ]
+}

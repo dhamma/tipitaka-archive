@@ -1,0 +1,45 @@
+{
+  "path":"/anya/visuddhimagga",
+  "script":"roman",
+  "version":null,
+  "baseUrl":"file:.",
+  "titlePath":[
+    "Visuddhimagga",
+    "Anya"
+  ],
+  "menus":[
+    {
+      "path":null,
+      "items":{
+        "mula":"Mūla",
+        "atthakatha":"Aṭṭhakathā",
+        "tika":"Tīkā",
+        "anya":"Anya"
+      }
+    },
+    {
+      "path":"/anya",
+      "items":{
+        "visuddhimagga":"Visuddhimagga",
+        "sangayana-puccha vissajjana":"Saṅgāyana-puccha vissajjanā",
+        "ledi sayado gantha-sangaho":"Leḍī sayāḍo gantha-saṅgaho",
+        "buddha-vandana gantha-sangaho":"Buddha-vandanā gantha-saṅgaho",
+        "vamsa-gantha-sangaho":"Vaṃsa-gantha-saṅgaho",
+        "byakarana gantha-sangaho":"Byākaraṇa gantha-saṅgaho",
+        "niti-gantha-sangaho":"Nīti-gantha-saṅgaho",
+        "pakinnaka-gantha-sangaho":"Pakiṇṇaka-gantha-saṅgaho",
+        "sihala-gantha-sangaho":"Sihaḷa-gantha-saṅgaho"
+      }
+    },
+    {
+      "path":"/anya/visuddhimagga",
+      "items":{
+        "visuddhimagga-1":"Visuddhimagga-1",
+        "visuddhimagga-2":"Visuddhimagga-2",
+        "visuddhimagga-mahatika-1":"Visuddhimagga-mahāṭīkā-1",
+        "visuddhimagga-mahatika-2":"Visuddhimagga-mahāṭīkā-2",
+        "visuddhimagga nidanakatha":"Visuddhimagga nidānakathā"
+      }
+    }
+  ]
+}

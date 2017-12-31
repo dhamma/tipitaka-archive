@@ -1,0 +1,118 @@
+{
+  "path":"/mula/suttapitaka/khuddakanikaya/apadanapali-1/4. kundadhanavaggo",
+  "script":"roman",
+  "version":null,
+  "baseUrl":"file:.",
+  "titlePath":[
+    "4. Kuṇḍadhānavaggo",
+    "Apadānapāḷi-1",
+    "Khuddakanikāya",
+    "Suttapiṭaka",
+    "Mūla"
+  ],
+  "normativeSource":"cscd/s0510m1.mul3.xml",
+  "source":"/roman/mula/suttapitaka/khuddakanikaya/apadanapali-1/4. kundadhanavaggo.xml",
+  "versions":[],
+  "menus":[
+    {
+      "path":null,
+      "items":{
+        "mula":"Mūla",
+        "atthakatha":"Aṭṭhakathā",
+        "tika":"Tīkā",
+        "anya":"Anya"
+      }
+    },
+    {
+      "path":"/mula",
+      "items":{
+        "vinayapitaka":"Vinayapiṭaka",
+        "suttapitaka":"Suttapiṭaka",
+        "abhidhammapitaka":"Abhidhammapiṭaka"
+      }
+    },
+    {
+      "path":"/mula/suttapitaka",
+      "items":{
+        "dighanikaya":"Dīghanikāya",
+        "majjhimanikaya":"Majjhimanikāya",
+        "samyuttanikaya":"Saṃyuttanikāya",
+        "anguttaranikaya":"Aṅguttaranikāya",
+        "khuddakanikaya":"Khuddakanikāya"
+      }
+    },
+    {
+      "path":"/mula/suttapitaka/khuddakanikaya",
+      "items":{
+        "khuddakapathapali":"Khuddakapāṭhapāḷi",
+        "dhammapadapali":"Dhammapadapāḷi",
+        "udanapali":"Udānapāḷi",
+        "itivuttakapali":"Itivuttakapāḷi",
+        "suttanipatapali":"Suttanipātapāḷi",
+        "vimanavatthupali":"Vimānavatthupāḷi",
+        "petavatthupali":"Petavatthupāḷi",
+        "theragathapali":"Theragāthāpāḷi",
+        "therigathapali":"Therīgāthāpāḷi",
+        "apadanapali-1":"Apadānapāḷi-1",
+        "apadanapali-2":"Apadānapāḷi-2",
+        "buddhavamsapali":"Buddhavaṃsapāḷi",
+        "cariyapitakapali":"Cariyāpiṭakapāḷi",
+        "jatakapali-1":"Jātakapāḷi-1",
+        "jatakapali-2":"Jātakapāḷi-2",
+        "mahaniddesapali":"Mahāniddesapāḷi",
+        "culaniddesapali":"Cūḷaniddesapāḷi",
+        "patisambhidamaggapali":"Paṭisambhidāmaggapāḷi",
+        "nettippakaranapali":"Nettippakaraṇapāḷi",
+        "milindapanhapali":"Milindapañhapāḷi",
+        "petakopadesapali":"Peṭakopadesapāḷi"
+      }
+    },
+    {
+      "path":"/mula/suttapitaka/khuddakanikaya/apadanapali-1",
+      "items":{
+        "1. buddhavaggo":"1. Buddhavaggo",
+        "2. sihasaniyavaggo":"2. Sīhāsaniyavaggo",
+        "3. subhutivaggo":"3. Subhūtivaggo",
+        "4. kundadhanavaggo":"4. Kuṇḍadhānavaggo",
+        "5. upalivaggo":"5. Upālivaggo",
+        "6. bijanivaggo":"6. Bījanivaggo",
+        "7. sakacintaniyavaggo":"7. Sakacintaniyavaggo",
+        "8. nagasamalavaggo":"8. Nāgasamālavaggo",
+        "9. timiravaggo":"9. Timiravaggo",
+        "10. sudhavaggo":"10. Sudhāvaggo",
+        "11. bhikkhadayivaggo":"11. Bhikkhadāyivaggo",
+        "12. mahaparivaravaggo":"12. Mahāparivāravaggo",
+        "13. sereyyavaggo":"13. Sereyyavaggo",
+        "14. sobhitavaggo":"14. Sobhitavaggo",
+        "15. chattavaggo":"15. Chattavaggo",
+        "16. bandhujivakavaggo":"16. Bandhujīvakavaggo",
+        "17. suparicariyavaggo":"17. Supāricariyavaggo",
+        "18. kumudavaggo":"18. Kumudavaggo",
+        "19. kutajapupphiyavaggo":"19. Kuṭajapupphiyavaggo",
+        "20. tamalapupphiyavaggo":"20. Tamālapupphiyavaggo",
+        "21. kanikarapupphiyavaggo":"21. Kaṇikārapupphiyavaggo",
+        "22. hatthivaggo":"22. Hatthivaggo",
+        "23. alambanadayakavaggo":"23. Ālambaṇadāyakavaggo",
+        "24. udakasanavaggo":"24. Udakāsanavaggo",
+        "25. tuvaradayakavaggo":"25. Tuvaradāyakavaggo",
+        "26. thomakavaggo":"26. Thomakavaggo",
+        "27. padumukkhipavaggo":"27. Padumukkhipavaggo",
+        "28. suvannabibbohanavaggo":"28. Suvaṇṇabibbohanavaggo",
+        "29. pannadayakavaggo":"29. Paṇṇadāyakavaggo",
+        "30. citakapujakavaggo":"30. Citakapūjakavaggo",
+        "31. padumakesaravaggo":"31. Padumakesaravaggo",
+        "32. arakkhadayakavaggo":"32. Ārakkhadāyakavaggo",
+        "33. umapupphiyavaggo":"33. Umāpupphiyavaggo",
+        "34. gandhodakavaggo":"34. Gandhodakavaggo",
+        "35. ekapadumiyavaggo":"35. Ekapadumiyavaggo",
+        "36. saddasannakavaggo":"36. Saddasaññakavaggo",
+        "37. mandaravapupphiyavaggo":"37. Mandāravapupphiyavaggo",
+        "38. bodhivandanavaggo":"38. Bodhivandanavaggo",
+        "39. avataphalavaggo":"39. Avaṭaphalavaggo",
+        "40. pilindavacchavaggo":"40. Pilindavacchavaggo",
+        "41. metteyyavaggo":"41. Metteyyavaggo",
+        "42. bhaddalivaggo":"42. Bhaddālivaggo"
+      }
+    }
+  ]
+}

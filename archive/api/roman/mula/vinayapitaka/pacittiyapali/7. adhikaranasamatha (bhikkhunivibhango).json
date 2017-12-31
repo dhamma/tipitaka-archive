@@ -1,0 +1,60 @@
+{
+  "path":"/mula/vinayapitaka/pacittiyapali/7. adhikaranasamatha (bhikkhunivibhango)",
+  "script":"roman",
+  "version":null,
+  "baseUrl":"file:.",
+  "titlePath":[
+    "7. Adhikaraṇasamathā (bhikkhunīvibhaṅgo)",
+    "Pācittiyapāḷi",
+    "Vinayapiṭaka",
+    "Mūla"
+  ],
+  "normativeSource":"cscd/vin02m1.mul10.xml",
+  "source":"/roman/mula/vinayapitaka/pacittiyapali/7. adhikaranasamatha (bhikkhunivibhango).xml",
+  "versions":[],
+  "menus":[
+    {
+      "path":null,
+      "items":{
+        "mula":"Mūla",
+        "atthakatha":"Aṭṭhakathā",
+        "tika":"Tīkā",
+        "anya":"Anya"
+      }
+    },
+    {
+      "path":"/mula",
+      "items":{
+        "vinayapitaka":"Vinayapiṭaka",
+        "suttapitaka":"Suttapiṭaka",
+        "abhidhammapitaka":"Abhidhammapiṭaka"
+      }
+    },
+    {
+      "path":"/mula/vinayapitaka",
+      "items":{
+        "parajikapali":"Pārājikapāḷi",
+        "pacittiyapali":"Pācittiyapāḷi",
+        "mahavaggapali":"Mahāvaggapāḷi",
+        "culavaggapali":"Cūḷavaggapāḷi",
+        "parivarapali":"Parivārapāḷi"
+      }
+    },
+    {
+      "path":"/mula/vinayapitaka/pacittiyapali",
+      "items":{
+        "5. pacittiyakandam":"5. Pācittiyakaṇḍaṃ",
+        "6. patidesaniyakandam":"6. Pāṭidesanīyakaṇḍaṃ",
+        "7. sekhiyakandam":"7. Sekhiyakaṇḍaṃ",
+        "8. adhikaranasamatha":"8. Adhikaraṇasamathā",
+        "1. parajikakandam (bhikkhunivibhango)":"1. Pārājikakaṇḍaṃ (bhikkhunīvibhaṅgo)",
+        "2. sanghadisesakandam (bhikkhunivibhango)":"2. Saṅghādisesakaṇḍaṃ (bhikkhunīvibhaṅgo)",
+        "3. nissaggiyakandam (bhikkhunivibhango)":"3. Nissaggiyakaṇḍaṃ (bhikkhunīvibhaṅgo)",
+        "4. pacittiyakandam (bhikkhunivibhango)":"4. Pācittiyakaṇḍaṃ (bhikkhunīvibhaṅgo)",
+        "5. patidesaniyakandam (bhikkhunivibhango)":"5. Pāṭidesanīyakaṇḍaṃ (bhikkhunīvibhaṅgo)",
+        "6. sekhiyakandam (bhikkhunivibhango)":"6. Sekhiyakaṇḍaṃ (bhikkhunīvibhaṅgo)",
+        "7. adhikaranasamatha (bhikkhunivibhango)":"7. Adhikaraṇasamathā (bhikkhunīvibhaṅgo)"
+      }
+    }
+  ]
+}

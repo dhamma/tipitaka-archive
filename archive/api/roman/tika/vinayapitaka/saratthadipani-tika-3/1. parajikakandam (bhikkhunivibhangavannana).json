@@ -1,0 +1,105 @@
+{
+  "path":"/tika/vinayapitaka/saratthadipani-tika-3/1. parajikakandam (bhikkhunivibhangavannana)",
+  "script":"roman",
+  "version":null,
+  "baseUrl":"file:.",
+  "titlePath":[
+    "1. Pārājikakaṇḍaṃ (bhikkhunīvibhaṅgavaṇṇanā)",
+    "Sāratthadīpanī-ṭīkā-3",
+    "Vinayapiṭaka",
+    "Tīkā"
+  ],
+  "normativeSource":"cscd/vin02t.tik3.xml",
+  "source":"/roman/tika/vinayapitaka/saratthadipani-tika-3/1. parajikakandam (bhikkhunivibhangavannana).xml",
+  "versions":[],
+  "menus":[
+    {
+      "path":null,
+      "items":{
+        "mula":"Mūla",
+        "atthakatha":"Aṭṭhakathā",
+        "tika":"Tīkā",
+        "anya":"Anya"
+      }
+    },
+    {
+      "path":"/tika",
+      "items":{
+        "vinayapitaka":"Vinayapiṭaka",
+        "suttapitaka":"Suttapiṭaka",
+        "abhidhammapitaka":"Abhidhammapiṭaka"
+      }
+    },
+    {
+      "path":"/tika/vinayapitaka",
+      "items":{
+        "saratthadipani-tika-1":"Sāratthadīpanī-ṭīkā-1",
+        "saratthadipani-tika-2":"Sāratthadīpanī-ṭīkā-2",
+        "saratthadipani-tika-3":"Sāratthadīpanī-ṭīkā-3",
+        "dvematikapali":"Dvemātikāpāḷi",
+        "vinayasangaha-atthakatha":"Vinayasaṅgaha-aṭṭhakathā",
+        "vajirabuddhi-tika":"Vajirabuddhi-ṭīkā",
+        "vimativinodani-tika":"Vimativinodanī-ṭīkā",
+        "vinayalankara-tika":"Vinayālaṅkāra-ṭīkā",
+        "kankhavitaranipurana-tika":"Kaṅkhāvitaraṇīpurāṇa-ṭīkā",
+        "vinayavinicchaya-uttaravinicchaya":"Vinayavinicchaya-uttaravinicchaya",
+        "vinayavinicchaya-tika":"Vinayavinicchaya-ṭīkā",
+        "pacityadiyojanapali":"Pācityādiyojanāpāḷi",
+        "khuddasikkha-mulasikkha":"Khuddasikkhā-mūlasikkhā"
+      }
+    },
+    {
+      "path":"/tika/vinayapitaka/saratthadipani-tika-3",
+      "items":{
+        "5. pacittiyakandam":"5. Pācittiyakaṇḍaṃ",
+        "6. patidesaniyakandam":"6. Pāṭidesanīyakaṇḍaṃ",
+        "7. sekhiyakandam":"7. Sekhiyakaṇḍaṃ",
+        "1. parajikakandam (bhikkhunivibhangavannana)":"1. Pārājikakaṇḍaṃ (bhikkhunīvibhaṅgavaṇṇanā)",
+        "2. sanghadisesakandam (bhikkhunivibhangavannana)":"2. Saṅghādisesakaṇḍaṃ (bhikkhunīvibhaṅgavaṇṇanā)",
+        "3. nissaggiyakandam (bhikkhunivibhangavannana)":"3. Nissaggiyakaṇḍaṃ (bhikkhunīvibhaṅgavaṇṇanā)",
+        "4. pacittiyakandam (bhikkhunivibhangavannana)":"4. Pācittiyakaṇḍaṃ (bhikkhunīvibhaṅgavaṇṇanā)",
+        "5. patidesaniyakandam (bhikkhunivibhangavannana)":"5. Pāṭidesanīyakaṇḍaṃ (bhikkhunīvibhaṅgavaṇṇanā)",
+        "mahavagga-tika":"Mahāvagga-ṭīkā",
+        "1. mahakhandhakam":"1. Mahākhandhakaṃ",
+        "2. uposathakkhandhakam":"2. Uposathakkhandhakaṃ",
+        "3. vassupanayikakkhandhakam":"3. Vassūpanāyikakkhandhakaṃ",
+        "4. pavaranakkhandhakam":"4. Pavāraṇakkhandhakaṃ",
+        "5. cammakkhandhakam":"5. Cammakkhandhakaṃ",
+        "6. bhesajjakkhandhakam":"6. Bhesajjakkhandhakaṃ",
+        "7. kathinakkhandhakam":"7. Kathinakkhandhakaṃ",
+        "8. civarakkhandhakam":"8. Cīvarakkhandhakaṃ",
+        "9. campeyyakkhandhakam":"9. Campeyyakkhandhakaṃ",
+        "10. kosambakakkhandhakam":"10. Kosambakakkhandhakaṃ",
+        "culavagga-tika":"Cūḷavagga-ṭīkā",
+        "1. kammakkhandhakam":"1. Kammakkhandhakaṃ",
+        "2. parivasikakkhandhakam":"2. Pārivāsikakkhandhakaṃ",
+        "3. samuccayakkhandhakam":"3. Samuccayakkhandhakaṃ",
+        "4. samathakkhandhakam":"4. Samathakkhandhakaṃ",
+        "5. khuddakavatthukkhandhakam":"5. Khuddakavatthukkhandhakaṃ",
+        "6. senasanakkhandhakam":"6. Senāsanakkhandhakaṃ",
+        "7. sanghabhedakakkhandhakam":"7. Saṅghabhedakakkhandhakaṃ",
+        "8. vattakkhandhakam":"8. Vattakkhandhakaṃ",
+        "9. patimokkhatthapanakkhandhakam":"9. Pātimokkhaṭṭhapanakkhandhakaṃ",
+        "10. bhikkhunikkhandhakam":"10. Bhikkhunikkhandhakaṃ",
+        "11. pancasatikakkhandhakam":"11. Pañcasatikakkhandhakaṃ",
+        "12. sattasatikakkhandhakam":"12. Sattasatikakkhandhakaṃ",
+        "parivara-tika":"Parivāra-ṭīkā",
+        "solasamahavaro":"Soḷasamahāvāro",
+        "samutthanasisavannana":"Samuṭṭhānasīsavaṇṇanā",
+        "antarapeyyalam":"Antarapeyyālaṃ",
+        "ekuttarikanayo":"Ekuttarikanayo",
+        "uposathadipucchavissajjanavannana":"Uposathādipucchāvissajjanāvaṇṇanā",
+        "pathamagathasanganikam":"Paṭhamagāthāsaṅgaṇikaṃ",
+        "adhikaranabhedavannana":"Adhikaraṇabhedavaṇṇanā",
+        "dutiyagathasanganikavannana":"Dutiyagāthāsaṅgaṇikavaṇṇanā",
+        "sangamadvayavannana":"Saṅgāmadvayavaṇṇanā",
+        "kathinabhedavannana":"Kathinabhedavaṇṇanā",
+        "upalipancakavannana":"Upālipañcakavaṇṇanā",
+        "samutthanavannana":"Samuṭṭhānavaṇṇanā",
+        "aparadutiyagathasanganikam":"Aparadutiyagāthāsaṅgaṇikaṃ",
+        "sedamocanagatha":"Sedamocanagāthā",
+        "pancavaggo":"Pañcavaggo"
+      }
+    }
+  ]
+}

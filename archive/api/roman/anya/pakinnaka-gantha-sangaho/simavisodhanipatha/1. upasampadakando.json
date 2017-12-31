@@ -1,0 +1,59 @@
+{
+  "path":"/anya/pakinnaka-gantha-sangaho/simavisodhanipatha/1. upasampadakando",
+  "script":"roman",
+  "version":null,
+  "baseUrl":"file:.",
+  "titlePath":[
+    "1. Upasampadākaṇḍo",
+    "Sīmavisodhanīpāṭha",
+    "Pakiṇṇaka-gantha-saṅgaho",
+    "Anya"
+  ],
+  "normativeSource":"cscd/e1102n.nrf1.xml",
+  "source":"/roman/anya/pakinnaka-gantha-sangaho/simavisodhanipatha/1. upasampadakando.xml",
+  "versions":[],
+  "menus":[
+    {
+      "path":null,
+      "items":{
+        "mula":"Mūla",
+        "atthakatha":"Aṭṭhakathā",
+        "tika":"Tīkā",
+        "anya":"Anya"
+      }
+    },
+    {
+      "path":"/anya",
+      "items":{
+        "visuddhimagga":"Visuddhimagga",
+        "sangayana-puccha vissajjana":"Saṅgāyana-puccha vissajjanā",
+        "ledi sayado gantha-sangaho":"Leḍī sayāḍo gantha-saṅgaho",
+        "buddha-vandana gantha-sangaho":"Buddha-vandanā gantha-saṅgaho",
+        "vamsa-gantha-sangaho":"Vaṃsa-gantha-saṅgaho",
+        "byakarana gantha-sangaho":"Byākaraṇa gantha-saṅgaho",
+        "niti-gantha-sangaho":"Nīti-gantha-saṅgaho",
+        "pakinnaka-gantha-sangaho":"Pakiṇṇaka-gantha-saṅgaho",
+        "sihala-gantha-sangaho":"Sihaḷa-gantha-saṅgaho"
+      }
+    },
+    {
+      "path":"/anya/pakinnaka-gantha-sangaho",
+      "items":{
+        "rasavahini":"Rasavāhinī",
+        "simavisodhanipatha":"Sīmavisodhanīpāṭha",
+        "vessantaragiti":"Vessantaragīti"
+      }
+    },
+    {
+      "path":"/anya/pakinnaka-gantha-sangaho/simavisodhanipatha",
+      "items":{
+        "simavisodhani":"Sīmavisodhanī",
+        "1. upasampadakando":"1. Upasampadākaṇḍo",
+        "2. kappavinasakando":"2. Kappavināsakaṇḍo",
+        "3. nibbanakando":"3. Nibbānakaṇḍo",
+        "4. samasisikando":"4. Samasīsikaṇḍo",
+        "pakinnakakando":"Pakiṇṇakakaṇḍo"
+      }
+    }
+  ]
+}

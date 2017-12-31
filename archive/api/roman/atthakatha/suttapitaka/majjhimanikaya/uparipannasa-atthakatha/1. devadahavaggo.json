@@ -1,0 +1,63 @@
+{
+  "path":"/atthakatha/suttapitaka/majjhimanikaya/uparipannasa-atthakatha/1. devadahavaggo",
+  "script":"roman",
+  "version":null,
+  "baseUrl":"file:.",
+  "titlePath":[
+    "1. Devadahavaggo",
+    "Uparipaṇṇāsa-aṭṭhakathā",
+    "Majjhimanikāya",
+    "Suttapiṭaka",
+    "Aṭṭhakathā"
+  ],
+  "normativeSource":"cscd/s0203a.att0.xml",
+  "source":"/roman/atthakatha/suttapitaka/majjhimanikaya/uparipannasa-atthakatha/1. devadahavaggo.xml",
+  "versions":[],
+  "menus":[
+    {
+      "path":null,
+      "items":{
+        "mula":"Mūla",
+        "atthakatha":"Aṭṭhakathā",
+        "tika":"Tīkā",
+        "anya":"Anya"
+      }
+    },
+    {
+      "path":"/atthakatha",
+      "items":{
+        "vinayapitaka":"Vinayapiṭaka",
+        "suttapitaka":"Suttapiṭaka",
+        "abhidhammapitaka":"Abhidhammapiṭaka"
+      }
+    },
+    {
+      "path":"/atthakatha/suttapitaka",
+      "items":{
+        "digha nikaya":"Dīgha nikāya",
+        "majjhimanikaya":"Majjhimanikāya",
+        "samyuttanikaya":"Saṃyuttanikāya",
+        "anguttaranikaya":"Aṅguttaranikāya",
+        "khuddakanikaya":"Khuddakanikāya"
+      }
+    },
+    {
+      "path":"/atthakatha/suttapitaka/majjhimanikaya",
+      "items":{
+        "mulapannasa-atthakatha":"Mūlapaṇṇāsa-aṭṭhakathā",
+        "majjhimapannasa-atthakatha":"Majjhimapaṇṇāsa-aṭṭhakathā",
+        "uparipannasa-atthakatha":"Uparipaṇṇāsa-aṭṭhakathā"
+      }
+    },
+    {
+      "path":"/atthakatha/suttapitaka/majjhimanikaya/uparipannasa-atthakatha",
+      "items":{
+        "1. devadahavaggo":"1. Devadahavaggo",
+        "2. anupadavaggo":"2. Anupadavaggo",
+        "3. sunnatavaggo":"3. Suññatavaggo",
+        "4. vibhangavaggo":"4. Vibhaṅgavaggo",
+        "5. salayatanavaggo":"5. Saḷāyatanavaggo"
+      }
+    }
+  ]
+}

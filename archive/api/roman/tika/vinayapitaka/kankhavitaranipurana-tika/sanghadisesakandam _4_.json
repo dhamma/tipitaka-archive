@@ -1,0 +1,83 @@
+{
+  "path":"/tika/vinayapitaka/kankhavitaranipurana-tika/sanghadisesakandam _4_",
+  "script":"roman",
+  "version":null,
+  "baseUrl":"file:.",
+  "titlePath":[
+    "Saṅghādisesakaṇḍaṃ _4_",
+    "Kaṅkhāvitaraṇīpurāṇa-ṭīkā",
+    "Vinayapiṭaka",
+    "Tīkā"
+  ],
+  "normativeSource":"cscd/vin09t.nrf22.xml",
+  "source":"/roman/tika/vinayapitaka/kankhavitaranipurana-tika/sanghadisesakandam _4_.xml",
+  "versions":[],
+  "menus":[
+    {
+      "path":null,
+      "items":{
+        "mula":"Mūla",
+        "atthakatha":"Aṭṭhakathā",
+        "tika":"Tīkā",
+        "anya":"Anya"
+      }
+    },
+    {
+      "path":"/tika",
+      "items":{
+        "vinayapitaka":"Vinayapiṭaka",
+        "suttapitaka":"Suttapiṭaka",
+        "abhidhammapitaka":"Abhidhammapiṭaka"
+      }
+    },
+    {
+      "path":"/tika/vinayapitaka",
+      "items":{
+        "saratthadipani-tika-1":"Sāratthadīpanī-ṭīkā-1",
+        "saratthadipani-tika-2":"Sāratthadīpanī-ṭīkā-2",
+        "saratthadipani-tika-3":"Sāratthadīpanī-ṭīkā-3",
+        "dvematikapali":"Dvemātikāpāḷi",
+        "vinayasangaha-atthakatha":"Vinayasaṅgaha-aṭṭhakathā",
+        "vajirabuddhi-tika":"Vajirabuddhi-ṭīkā",
+        "vimativinodani-tika":"Vimativinodanī-ṭīkā",
+        "vinayalankara-tika":"Vinayālaṅkāra-ṭīkā",
+        "kankhavitaranipurana-tika":"Kaṅkhāvitaraṇīpurāṇa-ṭīkā",
+        "vinayavinicchaya-uttaravinicchaya":"Vinayavinicchaya-uttaravinicchaya",
+        "vinayavinicchaya-tika":"Vinayavinicchaya-ṭīkā",
+        "pacityadiyojanapali":"Pācityādiyojanāpāḷi",
+        "khuddasikkha-mulasikkha":"Khuddasikkhā-mūlasikkhā"
+      }
+    },
+    {
+      "path":"/tika/vinayapitaka/kankhavitaranipurana-tika",
+      "items":{
+        "gantharambhakatha":"Ganthārambhakathā",
+        "parajikakandam":"Pārājikakaṇḍaṃ",
+        "sanghadisesakandam":"Saṅghādisesakaṇḍaṃ",
+        "aniyatakandam":"Aniyatakaṇḍaṃ",
+        "nissaggiyakandam":"Nissaggiyakaṇḍaṃ",
+        "pacittiyakandam":"Pācittiyakaṇḍaṃ",
+        "patidesaniyakandam":"Pāṭidesanīyakaṇḍaṃ",
+        "sekhiyakandam":"Sekhiyakaṇḍaṃ",
+        "bhikkhunipatimokkhavannana":"Bhikkhunīpātimokkhavaṇṇanā",
+        "parajikakandam _2_":"Pārājikakaṇḍaṃ _2_",
+        "sanghadisesakandam _2_":"Saṅghādisesakaṇḍaṃ _2_",
+        "nissaggiyakandam _2_":"Nissaggiyakaṇḍaṃ _2_",
+        "pacittiyakandam _2_":"Pācittiyakaṇḍaṃ _2_",
+        "parajikakandam _3_":"Pārājikakaṇḍaṃ _3_",
+        "sanghadisesakandam _3_":"Saṅghādisesakaṇḍaṃ _3_",
+        "aniyatakandam _2_":"Aniyatakaṇḍaṃ _2_",
+        "nissaggiyakandam _3_":"Nissaggiyakaṇḍaṃ _3_",
+        "pacittiyakandam _3_":"Pācittiyakaṇḍaṃ _3_",
+        "patidesaniyakandam _2_":"Pāṭidesanīyakaṇḍaṃ _2_",
+        "sekhiyakandam _2_":"Sekhiyakaṇḍaṃ _2_",
+        "bhikkhunipatimokkhavannana _2_":"Bhikkhunīpātimokkhavaṇṇanā _2_",
+        "parajikakandam _4_":"Pārājikakaṇḍaṃ _4_",
+        "sanghadisesakandam _4_":"Saṅghādisesakaṇḍaṃ _4_",
+        "nissaggiyakandam _4_":"Nissaggiyakaṇḍaṃ _4_",
+        "pacittiyakandam _4_":"Pācittiyakaṇḍaṃ _4_",
+        "patidesaniyakandam _3_":"Pāṭidesanīyakaṇḍaṃ _3_"
+      }
+    }
+  ]
+}

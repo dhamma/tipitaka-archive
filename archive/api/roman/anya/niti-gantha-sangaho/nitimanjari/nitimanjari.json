@@ -1,0 +1,61 @@
+{
+  "path":"/anya/niti-gantha-sangaho/nitimanjari/nitimanjari",
+  "script":"roman",
+  "version":null,
+  "baseUrl":"file:.",
+  "titlePath":[
+    "Nītimañjarī",
+    "Nītimañjarī",
+    "Nīti-gantha-saṅgaho",
+    "Anya"
+  ],
+  "normativeSource":"cscd/e1002n.nrf.xml",
+  "source":"/roman/anya/niti-gantha-sangaho/nitimanjari/nitimanjari.xml",
+  "versions":[],
+  "menus":[
+    {
+      "path":null,
+      "items":{
+        "mula":"Mūla",
+        "atthakatha":"Aṭṭhakathā",
+        "tika":"Tīkā",
+        "anya":"Anya"
+      }
+    },
+    {
+      "path":"/anya",
+      "items":{
+        "visuddhimagga":"Visuddhimagga",
+        "sangayana-puccha vissajjana":"Saṅgāyana-puccha vissajjanā",
+        "ledi sayado gantha-sangaho":"Leḍī sayāḍo gantha-saṅgaho",
+        "buddha-vandana gantha-sangaho":"Buddha-vandanā gantha-saṅgaho",
+        "vamsa-gantha-sangaho":"Vaṃsa-gantha-saṅgaho",
+        "byakarana gantha-sangaho":"Byākaraṇa gantha-saṅgaho",
+        "niti-gantha-sangaho":"Nīti-gantha-saṅgaho",
+        "pakinnaka-gantha-sangaho":"Pakiṇṇaka-gantha-saṅgaho",
+        "sihala-gantha-sangaho":"Sihaḷa-gantha-saṅgaho"
+      }
+    },
+    {
+      "path":"/anya/niti-gantha-sangaho",
+      "items":{
+        "lokaniti":"Lokanīti",
+        "suttantaniti":"Suttantanīti",
+        "surassatiniti":"Sūrassatinīti",
+        "maharahaniti":"Mahārahanīti",
+        "dhammaniti":"Dhammanīti",
+        "kavidappananiti":"Kavidappaṇanīti",
+        "nitimanjari":"Nītimañjarī",
+        "naradakkhadipani":"Naradakkhadīpanī",
+        "caturarakkhadipani":"Caturārakkhadīpanī",
+        "canakyaniti":"Cāṇakyanīti"
+      }
+    },
+    {
+      "path":"/anya/niti-gantha-sangaho/nitimanjari",
+      "items":{
+        "nitimanjari":"Nītimañjarī"
+      }
+    }
+  ]
+}

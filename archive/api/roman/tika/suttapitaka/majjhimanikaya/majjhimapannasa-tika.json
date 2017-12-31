@@ -1,0 +1,59 @@
+{
+  "path":"/tika/suttapitaka/majjhimanikaya/majjhimapannasa-tika",
+  "script":"roman",
+  "version":null,
+  "baseUrl":"file:.",
+  "titlePath":[
+    "Majjhimapaṇṇāsa-ṭīkā",
+    "Majjhimanikāya",
+    "Suttapiṭaka",
+    "Tīkā"
+  ],
+  "menus":[
+    {
+      "path":null,
+      "items":{
+        "mula":"Mūla",
+        "atthakatha":"Aṭṭhakathā",
+        "tika":"Tīkā",
+        "anya":"Anya"
+      }
+    },
+    {
+      "path":"/tika",
+      "items":{
+        "vinayapitaka":"Vinayapiṭaka",
+        "suttapitaka":"Suttapiṭaka",
+        "abhidhammapitaka":"Abhidhammapiṭaka"
+      }
+    },
+    {
+      "path":"/tika/suttapitaka",
+      "items":{
+        "dighanikaya":"Dīghanikāya",
+        "majjhimanikaya":"Majjhimanikāya",
+        "samyuttanikaya":"Saṃyuttanikāya",
+        "anguttaranikaya":"Aṅguttaranikāya",
+        "khuddakanikaya":"Khuddakanikāya"
+      }
+    },
+    {
+      "path":"/tika/suttapitaka/majjhimanikaya",
+      "items":{
+        "mulapannasa-tika":"Mūlapaṇṇāsa-ṭīkā",
+        "majjhimapannasa-tika":"Majjhimapaṇṇāsa-ṭīkā",
+        "uparipannasa-tika":"Uparipaṇṇāsa-ṭīkā"
+      }
+    },
+    {
+      "path":"/tika/suttapitaka/majjhimanikaya/majjhimapannasa-tika",
+      "items":{
+        "1. gahapativaggo":"1. Gahapativaggo",
+        "2. bhikkhuvaggo":"2. Bhikkhuvaggo",
+        "3. paribbajakavaggo":"3. Paribbājakavaggo",
+        "4. rajavaggo":"4. Rājavaggo",
+        "5. brahmanavaggo":"5. Brāhmaṇavaggo"
+      }
+    }
+  ]
+}

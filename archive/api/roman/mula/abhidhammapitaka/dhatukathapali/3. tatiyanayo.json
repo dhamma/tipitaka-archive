@@ -1,0 +1,72 @@
+{
+  "path":"/mula/abhidhammapitaka/dhatukathapali/3. tatiyanayo",
+  "script":"roman",
+  "version":null,
+  "baseUrl":"file:.",
+  "titlePath":[
+    "3. Tatiyanayo",
+    "Dhātukathāpāḷi",
+    "Abhidhammapiṭaka",
+    "Mūla"
+  ],
+  "normativeSource":"cscd/abh03m1.mul3.xml",
+  "source":"/roman/mula/abhidhammapitaka/dhatukathapali/3. tatiyanayo.xml",
+  "versions":[],
+  "menus":[
+    {
+      "path":null,
+      "items":{
+        "mula":"Mūla",
+        "atthakatha":"Aṭṭhakathā",
+        "tika":"Tīkā",
+        "anya":"Anya"
+      }
+    },
+    {
+      "path":"/mula",
+      "items":{
+        "vinayapitaka":"Vinayapiṭaka",
+        "suttapitaka":"Suttapiṭaka",
+        "abhidhammapitaka":"Abhidhammapiṭaka"
+      }
+    },
+    {
+      "path":"/mula/abhidhammapitaka",
+      "items":{
+        "dhammasanganipali":"Dhammasaṅgaṇīpāḷi",
+        "vibhangapali":"Vibhaṅgapāḷi",
+        "dhatukathapali":"Dhātukathāpāḷi",
+        "puggalapannattipali":"Puggalapaññattipāḷi",
+        "kathavatthupali":"Kathāvatthupāḷi",
+        "yamakapali-1":"Yamakapāḷi-1",
+        "yamakapali-2":"Yamakapāḷi-2",
+        "yamakapali-3":"Yamakapāḷi-3",
+        "patthanapali-1":"Paṭṭhānapāḷi-1",
+        "patthanapali-2":"Paṭṭhānapāḷi-2",
+        "patthanapali-3":"Paṭṭhānapāḷi-3",
+        "patthanapali-4":"Paṭṭhānapāḷi-4",
+        "patthanapali-5":"Paṭṭhānapāḷi-5"
+      }
+    },
+    {
+      "path":"/mula/abhidhammapitaka/dhatukathapali",
+      "items":{
+        "uddeso":"Uddeso",
+        "1. pathamanayo":"1. Paṭhamanayo",
+        "2. dutiyanayo":"2. Dutiyanayo",
+        "3. tatiyanayo":"3. Tatiyanayo",
+        "4. catutthanayo":"4. Catutthanayo",
+        "5. pancamanayo":"5. Pañcamanayo",
+        "6. chatthanayo":"6. Chaṭṭhanayo",
+        "7. sattamanayo":"7. Sattamanayo",
+        "8. atthamanayo":"8. Aṭṭhamanayo",
+        "9. navamanayo":"9. Navamanayo",
+        "10. dasamanayo":"10. Dasamanayo",
+        "11. ekadasamanayo":"11. Ekādasamanayo",
+        "12. dvadasamanayo":"12. Dvādasamanayo",
+        "13. terasamanayo":"13. Terasamanayo",
+        "14. cuddasamanayo":"14. Cuddasamanayo"
+      }
+    }
+  ]
+}

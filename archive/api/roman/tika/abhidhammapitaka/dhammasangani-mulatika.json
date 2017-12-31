@@ -1,0 +1,58 @@
+{
+  "path":"/tika/abhidhammapitaka/dhammasangani-mulatika",
+  "script":"roman",
+  "version":null,
+  "baseUrl":"file:.",
+  "titlePath":[
+    "Dhammasaṅgaṇī-mūlaṭīkā",
+    "Abhidhammapiṭaka",
+    "Tīkā"
+  ],
+  "menus":[
+    {
+      "path":null,
+      "items":{
+        "mula":"Mūla",
+        "atthakatha":"Aṭṭhakathā",
+        "tika":"Tīkā",
+        "anya":"Anya"
+      }
+    },
+    {
+      "path":"/tika",
+      "items":{
+        "vinayapitaka":"Vinayapiṭaka",
+        "suttapitaka":"Suttapiṭaka",
+        "abhidhammapitaka":"Abhidhammapiṭaka"
+      }
+    },
+    {
+      "path":"/tika/abhidhammapitaka",
+      "items":{
+        "dhammasangani-mulatika":"Dhammasaṅgaṇī-mūlaṭīkā",
+        "vibhanga-mulatika":"Vibhaṅga-mūlaṭīkā",
+        "pancapakarana-mulatika":"Pañcapakaraṇa-mūlaṭīkā",
+        "dhammasangani-anutika":"Dhammasaṅgaṇī-anuṭīkā",
+        "pancapakarana-anutika":"Pañcapakaraṇa-anuṭīkā",
+        "abhidhammavataro-namarupaparicchedo":"Abhidhammāvatāro-nāmarūpaparicchedo",
+        "abhidhammatthasangaho":"Abhidhammatthasaṅgaho",
+        "abhidhammavatara-puranatika":"Abhidhammāvatāra-purāṇaṭīkā",
+        "abhidhammamatikapali":"Abhidhammamātikāpāḷi"
+      }
+    },
+    {
+      "path":"/tika/abhidhammapitaka/dhammasangani-mulatika",
+      "items":{
+        "visatigathavannana":"Vīsatigāthāvaṇṇanā",
+        "1. cittuppadakandam":"1. Cittuppādakaṇḍaṃ",
+        "tikamatikapadavannana":"Tikamātikāpadavaṇṇanā",
+        "dukamatikapadavannana":"Dukamātikāpadavaṇṇanā",
+        "kamavacarakusalapadabhajaniyavannana":"Kāmāvacarakusalapadabhājanīyavaṇṇanā",
+        "kamavacarakusalam":"Kāmāvacarakusalaṃ",
+        "2. rupakandam":"2. Rūpakaṇḍaṃ",
+        "3. nikkhepakandam":"3. Nikkhepakaṇḍaṃ",
+        "4. atthakathakandam":"4. Aṭṭhakathākaṇḍaṃ"
+      }
+    }
+  ]
+}

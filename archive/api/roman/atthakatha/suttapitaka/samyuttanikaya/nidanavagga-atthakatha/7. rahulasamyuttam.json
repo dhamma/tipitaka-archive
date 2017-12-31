@@ -1,0 +1,70 @@
+{
+  "path":"/atthakatha/suttapitaka/samyuttanikaya/nidanavagga-atthakatha/7. rahulasamyuttam",
+  "script":"roman",
+  "version":null,
+  "baseUrl":"file:.",
+  "titlePath":[
+    "7. Rāhulasaṃyuttaṃ",
+    "Nidānavagga-aṭṭhakathā",
+    "Saṃyuttanikāya",
+    "Suttapiṭaka",
+    "Aṭṭhakathā"
+  ],
+  "normativeSource":"cscd/s0302a.att6.xml",
+  "source":"/roman/atthakatha/suttapitaka/samyuttanikaya/nidanavagga-atthakatha/7. rahulasamyuttam.xml",
+  "versions":[],
+  "menus":[
+    {
+      "path":null,
+      "items":{
+        "mula":"Mūla",
+        "atthakatha":"Aṭṭhakathā",
+        "tika":"Tīkā",
+        "anya":"Anya"
+      }
+    },
+    {
+      "path":"/atthakatha",
+      "items":{
+        "vinayapitaka":"Vinayapiṭaka",
+        "suttapitaka":"Suttapiṭaka",
+        "abhidhammapitaka":"Abhidhammapiṭaka"
+      }
+    },
+    {
+      "path":"/atthakatha/suttapitaka",
+      "items":{
+        "digha nikaya":"Dīgha nikāya",
+        "majjhimanikaya":"Majjhimanikāya",
+        "samyuttanikaya":"Saṃyuttanikāya",
+        "anguttaranikaya":"Aṅguttaranikāya",
+        "khuddakanikaya":"Khuddakanikāya"
+      }
+    },
+    {
+      "path":"/atthakatha/suttapitaka/samyuttanikaya",
+      "items":{
+        "sagathavagga-atthakatha":"Sagāthāvagga-aṭṭhakathā",
+        "nidanavagga-atthakatha":"Nidānavagga-aṭṭhakathā",
+        "khandhavagga-atthakatha":"Khandhavagga-aṭṭhakathā",
+        "salayatanavagga-atthakatha":"Saḷāyatanavagga-aṭṭhakathā",
+        "mahavagga-atthakatha":"Mahāvagga-aṭṭhakathā"
+      }
+    },
+    {
+      "path":"/atthakatha/suttapitaka/samyuttanikaya/nidanavagga-atthakatha",
+      "items":{
+        "1. nidanasamyuttam":"1. Nidānasaṃyuttaṃ",
+        "2. abhisamayasamyuttam":"2. Abhisamayasaṃyuttaṃ",
+        "3. dhatusamyuttam":"3. Dhātusaṃyuttaṃ",
+        "4. anamataggasamyuttam":"4. Anamataggasaṃyuttaṃ",
+        "5. kassapasamyuttam":"5. Kassapasaṃyuttaṃ",
+        "6. labhasakkarasamyuttam":"6. Lābhasakkārasaṃyuttaṃ",
+        "7. rahulasamyuttam":"7. Rāhulasaṃyuttaṃ",
+        "8. lakkhanasamyuttam":"8. Lakkhaṇasaṃyuttaṃ",
+        "9. opammasamyuttam":"9. Opammasaṃyuttaṃ",
+        "10. bhikkhusamyuttam":"10. Bhikkhusaṃyuttaṃ"
+      }
+    }
+  ]
+}

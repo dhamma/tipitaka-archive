@@ -1,0 +1,73 @@
+{
+  "path":"/anya/niti-gantha-sangaho/naradakkhadipani/pakinnaka-niddesa",
+  "script":"roman",
+  "version":null,
+  "baseUrl":"file:.",
+  "titlePath":[
+    "Pakiṇṇaka-niddesa",
+    "Naradakkhadīpanī",
+    "Nīti-gantha-saṅgaho",
+    "Anya"
+  ],
+  "normativeSource":"cscd/e1009n.nrf11.xml",
+  "source":"/roman/anya/niti-gantha-sangaho/naradakkhadipani/pakinnaka-niddesa.xml",
+  "versions":[],
+  "menus":[
+    {
+      "path":null,
+      "items":{
+        "mula":"Mūla",
+        "atthakatha":"Aṭṭhakathā",
+        "tika":"Tīkā",
+        "anya":"Anya"
+      }
+    },
+    {
+      "path":"/anya",
+      "items":{
+        "visuddhimagga":"Visuddhimagga",
+        "sangayana-puccha vissajjana":"Saṅgāyana-puccha vissajjanā",
+        "ledi sayado gantha-sangaho":"Leḍī sayāḍo gantha-saṅgaho",
+        "buddha-vandana gantha-sangaho":"Buddha-vandanā gantha-saṅgaho",
+        "vamsa-gantha-sangaho":"Vaṃsa-gantha-saṅgaho",
+        "byakarana gantha-sangaho":"Byākaraṇa gantha-saṅgaho",
+        "niti-gantha-sangaho":"Nīti-gantha-saṅgaho",
+        "pakinnaka-gantha-sangaho":"Pakiṇṇaka-gantha-saṅgaho",
+        "sihala-gantha-sangaho":"Sihaḷa-gantha-saṅgaho"
+      }
+    },
+    {
+      "path":"/anya/niti-gantha-sangaho",
+      "items":{
+        "lokaniti":"Lokanīti",
+        "suttantaniti":"Suttantanīti",
+        "surassatiniti":"Sūrassatinīti",
+        "maharahaniti":"Mahārahanīti",
+        "dhammaniti":"Dhammanīti",
+        "kavidappananiti":"Kavidappaṇanīti",
+        "nitimanjari":"Nītimañjarī",
+        "naradakkhadipani":"Naradakkhadīpanī",
+        "caturarakkhadipani":"Caturārakkhadīpanī",
+        "canakyaniti":"Cāṇakyanīti"
+      }
+    },
+    {
+      "path":"/anya/niti-gantha-sangaho/naradakkhadipani",
+      "items":{
+        "panama":"Paṇāma",
+        "naradakkhadipakassa":"Naradakkhadīpakassa",
+        "matthana":"Matthanā",
+        "asisa":"Āsīsa",
+        "abhiyacaka":"Abhiyācaka",
+        "panna-niddesa":"Paññā-niddesa",
+        "caritta-niddesa":"Cāritta-niddesa",
+        "gharavasa-niddesa":"Gharāvāsa-niddesa",
+        "sadhujana-niddesa":"Sādhujana-niddesa",
+        "kayakhamaniya-niddesa":"Kāyakhamanīya-niddesa",
+        "pakinnaka-niddesa":"Pakiṇṇaka-niddesa",
+        "sila-niddesa":"Sīla-niddesa",
+        "naradakkha thomana asisa":"Naradakkha thomanā āsīsa"
+      }
+    }
+  ]
+}

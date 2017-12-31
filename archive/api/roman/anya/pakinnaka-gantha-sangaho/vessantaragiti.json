@@ -1,0 +1,50 @@
+{
+  "path":"/anya/pakinnaka-gantha-sangaho/vessantaragiti",
+  "script":"roman",
+  "version":null,
+  "baseUrl":"file:.",
+  "titlePath":[
+    "Vessantaragīti",
+    "Pakiṇṇaka-gantha-saṅgaho",
+    "Anya"
+  ],
+  "menus":[
+    {
+      "path":null,
+      "items":{
+        "mula":"Mūla",
+        "atthakatha":"Aṭṭhakathā",
+        "tika":"Tīkā",
+        "anya":"Anya"
+      }
+    },
+    {
+      "path":"/anya",
+      "items":{
+        "visuddhimagga":"Visuddhimagga",
+        "sangayana-puccha vissajjana":"Saṅgāyana-puccha vissajjanā",
+        "ledi sayado gantha-sangaho":"Leḍī sayāḍo gantha-saṅgaho",
+        "buddha-vandana gantha-sangaho":"Buddha-vandanā gantha-saṅgaho",
+        "vamsa-gantha-sangaho":"Vaṃsa-gantha-saṅgaho",
+        "byakarana gantha-sangaho":"Byākaraṇa gantha-saṅgaho",
+        "niti-gantha-sangaho":"Nīti-gantha-saṅgaho",
+        "pakinnaka-gantha-sangaho":"Pakiṇṇaka-gantha-saṅgaho",
+        "sihala-gantha-sangaho":"Sihaḷa-gantha-saṅgaho"
+      }
+    },
+    {
+      "path":"/anya/pakinnaka-gantha-sangaho",
+      "items":{
+        "rasavahini":"Rasavāhinī",
+        "simavisodhanipatha":"Sīmavisodhanīpāṭha",
+        "vessantaragiti":"Vessantaragīti"
+      }
+    },
+    {
+      "path":"/anya/pakinnaka-gantha-sangaho/vessantaragiti",
+      "items":{
+        "vessantaragiti":"Vessantarāgīti"
+      }
+    }
+  ]
+}

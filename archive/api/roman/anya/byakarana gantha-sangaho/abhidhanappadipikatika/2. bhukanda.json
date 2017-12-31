@@ -1,0 +1,67 @@
+{
+  "path":"/anya/byakarana gantha-sangaho/abhidhanappadipikatika/2. bhukanda",
+  "script":"roman",
+  "version":null,
+  "baseUrl":"file:.",
+  "titlePath":[
+    "2. Bhūkaṇḍa",
+    "Abhidhānappadīpikāṭīkā",
+    "Byākaraṇa gantha-saṅgaho",
+    "Anya"
+  ],
+  "normativeSource":"cscd/e0810n.nrf2.xml",
+  "source":"/roman/anya/byakarana gantha-sangaho/abhidhanappadipikatika/2. bhukanda.xml",
+  "versions":[],
+  "menus":[
+    {
+      "path":null,
+      "items":{
+        "mula":"Mūla",
+        "atthakatha":"Aṭṭhakathā",
+        "tika":"Tīkā",
+        "anya":"Anya"
+      }
+    },
+    {
+      "path":"/anya",
+      "items":{
+        "visuddhimagga":"Visuddhimagga",
+        "sangayana-puccha vissajjana":"Saṅgāyana-puccha vissajjanā",
+        "ledi sayado gantha-sangaho":"Leḍī sayāḍo gantha-saṅgaho",
+        "buddha-vandana gantha-sangaho":"Buddha-vandanā gantha-saṅgaho",
+        "vamsa-gantha-sangaho":"Vaṃsa-gantha-saṅgaho",
+        "byakarana gantha-sangaho":"Byākaraṇa gantha-saṅgaho",
+        "niti-gantha-sangaho":"Nīti-gantha-saṅgaho",
+        "pakinnaka-gantha-sangaho":"Pakiṇṇaka-gantha-saṅgaho",
+        "sihala-gantha-sangaho":"Sihaḷa-gantha-saṅgaho"
+      }
+    },
+    {
+      "path":"/anya/byakarana gantha-sangaho",
+      "items":{
+        "kaccayanabyakaranam":"Kaccāyanabyākaraṇaṃ",
+        "moggallanabyakaranam":"Moggallānabyākaraṇaṃ",
+        "saddanitippakaranam (padamala)":"Saddanītippakaraṇaṃ (padamālā)",
+        "saddanitippakaranam (dhatumala)":"Saddanītippakaraṇaṃ (dhātumālā)",
+        "padarupasiddhi":"Padarūpasiddhi",
+        "mogallanapancika":"Mogallānapañcikā",
+        "payogasiddhipatha":"Payogasiddhipāṭha",
+        "vuttodayapatha":"Vuttodayapāṭha",
+        "abhidhanappadipikapatha":"Abhidhānappadīpikāpāṭha",
+        "abhidhanappadipikatika":"Abhidhānappadīpikāṭīkā",
+        "subodhalankarapatha":"Subodhālaṅkārapāṭha",
+        "subodhalankaratika":"Subodhālaṅkāraṭīkā",
+        "balavatara ganthipadatthavinicchayasara":"Bālāvatāra gaṇṭhipadatthavinicchayasāra"
+      }
+    },
+    {
+      "path":"/anya/byakarana gantha-sangaho/abhidhanappadipikatika",
+      "items":{
+        "gantharambha":"Ganthārambha",
+        "1. saggakandavannana":"1. Saggakaṇḍavaṇṇanā",
+        "2. bhukanda":"2. Bhūkaṇḍa",
+        "3. samannakanda":"3. Sāmaññakaṇḍa"
+      }
+    }
+  ]
+}

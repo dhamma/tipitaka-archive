@@ -1,0 +1,55 @@
+{
+  "path":"/mula/vinayapitaka/mahavaggapali",
+  "script":"roman",
+  "version":null,
+  "baseUrl":"file:.",
+  "titlePath":[
+    "Mahāvaggapāḷi",
+    "Vinayapiṭaka",
+    "Mūla"
+  ],
+  "menus":[
+    {
+      "path":null,
+      "items":{
+        "mula":"Mūla",
+        "atthakatha":"Aṭṭhakathā",
+        "tika":"Tīkā",
+        "anya":"Anya"
+      }
+    },
+    {
+      "path":"/mula",
+      "items":{
+        "vinayapitaka":"Vinayapiṭaka",
+        "suttapitaka":"Suttapiṭaka",
+        "abhidhammapitaka":"Abhidhammapiṭaka"
+      }
+    },
+    {
+      "path":"/mula/vinayapitaka",
+      "items":{
+        "parajikapali":"Pārājikapāḷi",
+        "pacittiyapali":"Pācittiyapāḷi",
+        "mahavaggapali":"Mahāvaggapāḷi",
+        "culavaggapali":"Cūḷavaggapāḷi",
+        "parivarapali":"Parivārapāḷi"
+      }
+    },
+    {
+      "path":"/mula/vinayapitaka/mahavaggapali",
+      "items":{
+        "1. mahakhandhako":"1. Mahākhandhako",
+        "2. uposathakkhandhako":"2. Uposathakkhandhako",
+        "3. vassupanayikakkhandhako":"3. Vassūpanāyikakkhandhako",
+        "4. pavaranakkhandhako":"4. Pavāraṇākkhandhako",
+        "5. cammakkhandhako":"5. Cammakkhandhako",
+        "6. bhesajjakkhandhako":"6. Bhesajjakkhandhako",
+        "7. kathinakkhandhako":"7. Kathinakkhandhako",
+        "8. civarakkhandhako":"8. Cīvarakkhandhako",
+        "9. campeyyakkhandhako":"9. Campeyyakkhandhako",
+        "10. kosambakakkhandhako":"10. Kosambakakkhandhako"
+      }
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "path":"/anya/byakarana gantha-sangaho/mogallanapancika/3. tatiyakandavannana",
+  "script":"roman",
+  "version":null,
+  "baseUrl":"file:.",
+  "titlePath":[
+    "3. Tatiyakaṇḍavaṇṇanā",
+    "Mogallānapañcikā",
+    "Byākaraṇa gantha-saṅgaho",
+    "Anya"
+  ],
+  "normativeSource":"cscd/e0806n.nrf3.xml",
+  "source":"/roman/anya/byakarana gantha-sangaho/mogallanapancika/3. tatiyakandavannana.xml",
+  "versions":[],
+  "menus":[
+    {
+      "path":null,
+      "items":{
+        "mula":"Mūla",
+        "atthakatha":"Aṭṭhakathā",
+        "tika":"Tīkā",
+        "anya":"Anya"
+      }
+    },
+    {
+      "path":"/anya",
+      "items":{
+        "visuddhimagga":"Visuddhimagga",
+        "sangayana-puccha vissajjana":"Saṅgāyana-puccha vissajjanā",
+        "ledi sayado gantha-sangaho":"Leḍī sayāḍo gantha-saṅgaho",
+        "buddha-vandana gantha-sangaho":"Buddha-vandanā gantha-saṅgaho",
+        "vamsa-gantha-sangaho":"Vaṃsa-gantha-saṅgaho",
+        "byakarana gantha-sangaho":"Byākaraṇa gantha-saṅgaho",
+        "niti-gantha-sangaho":"Nīti-gantha-saṅgaho",
+        "pakinnaka-gantha-sangaho":"Pakiṇṇaka-gantha-saṅgaho",
+        "sihala-gantha-sangaho":"Sihaḷa-gantha-saṅgaho"
+      }
+    },
+    {
+      "path":"/anya/byakarana gantha-sangaho",
+      "items":{
+        "kaccayanabyakaranam":"Kaccāyanabyākaraṇaṃ",
+        "moggallanabyakaranam":"Moggallānabyākaraṇaṃ",
+        "saddanitippakaranam (padamala)":"Saddanītippakaraṇaṃ (padamālā)",
+        "saddanitippakaranam (dhatumala)":"Saddanītippakaraṇaṃ (dhātumālā)",
+        "padarupasiddhi":"Padarūpasiddhi",
+        "mogallanapancika":"Mogallānapañcikā",
+        "payogasiddhipatha":"Payogasiddhipāṭha",
+        "vuttodayapatha":"Vuttodayapāṭha",
+        "abhidhanappadipikapatha":"Abhidhānappadīpikāpāṭha",
+        "abhidhanappadipikatika":"Abhidhānappadīpikāṭīkā",
+        "subodhalankarapatha":"Subodhālaṅkārapāṭha",
+        "subodhalankaratika":"Subodhālaṅkāraṭīkā",
+        "balavatara ganthipadatthavinicchayasara":"Bālāvatāra gaṇṭhipadatthavinicchayasāra"
+      }
+    },
+    {
+      "path":"/anya/byakarana gantha-sangaho/mogallanapancika",
+      "items":{
+        "moggallana pancika tika":"Moggallāna pañcikā ṭīkā",
+        "1. pathamakandavannana":"1. Paṭhamakaṇḍavaṇṇanā",
+        "2. dutiyakanda vannana":"2. Dutiyakaṇḍa vaṇṇanā",
+        "3. tatiyakandavannana":"3. Tatiyakaṇḍavaṇṇanā",
+        "catutthakanda":"Catutthakaṇḍa",
+        "pancamakanda":"Pañcamakaṇḍa",
+        "chatthakanda":"Chaṭṭhakaṇḍa"
+      }
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "path":"/atthakatha/suttapitaka/khuddakanikaya/buddhavamsa-atthakatha/7. revatabuddhavamsavannana",
+  "script":"roman",
+  "version":null,
+  "baseUrl":"file:.",
+  "titlePath":[
+    "7. Revatabuddhavaṃsavaṇṇanā",
+    "Buddhavaṃsa-aṭṭhakathā",
+    "Khuddakanikāya",
+    "Suttapiṭaka",
+    "Aṭṭhakathā"
+  ],
+  "normativeSource":"cscd/s0511a.att7.xml",
+  "source":"/roman/atthakatha/suttapitaka/khuddakanikaya/buddhavamsa-atthakatha/7. revatabuddhavamsavannana.xml",
+  "versions":[],
+  "menus":[
+    {
+      "path":null,
+      "items":{
+        "mula":"Mūla",
+        "atthakatha":"Aṭṭhakathā",
+        "tika":"Tīkā",
+        "anya":"Anya"
+      }
+    },
+    {
+      "path":"/atthakatha",
+      "items":{
+        "vinayapitaka":"Vinayapiṭaka",
+        "suttapitaka":"Suttapiṭaka",
+        "abhidhammapitaka":"Abhidhammapiṭaka"
+      }
+    },
+    {
+      "path":"/atthakatha/suttapitaka",
+      "items":{
+        "digha nikaya":"Dīgha nikāya",
+        "majjhimanikaya":"Majjhimanikāya",
+        "samyuttanikaya":"Saṃyuttanikāya",
+        "anguttaranikaya":"Aṅguttaranikāya",
+        "khuddakanikaya":"Khuddakanikāya"
+      }
+    },
+    {
+      "path":"/atthakatha/suttapitaka/khuddakanikaya",
+      "items":{
+        "khuddakapatha-atthakatha":"Khuddakapāṭha-aṭṭhakathā",
+        "dhammapada-atthakatha":"Dhammapada-aṭṭhakathā",
+        "udana-atthakatha":"Udāna-aṭṭhakathā",
+        "itivuttaka-atthakatha":"Itivuttaka-aṭṭhakathā",
+        "suttanipata-atthakatha":"Suttanipāta-aṭṭhakathā",
+        "vimanavatthu-atthakatha":"Vimānavatthu-aṭṭhakathā",
+        "petavatthu-atthakatha":"Petavatthu-aṭṭhakathā",
+        "theragatha-atthakatha-1":"Theragāthā-aṭṭhakathā-1",
+        "theragatha-atthakatha-2":"Theragāthā-aṭṭhakathā-2",
+        "therigatha-atthakatha":"Therīgāthā-aṭṭhakathā",
+        "apadana-atthakatha":"Apadāna-aṭṭhakathā",
+        "buddhavamsa-atthakatha":"Buddhavaṃsa-aṭṭhakathā",
+        "cariyapitaka-atthakatha":"Cariyāpiṭaka-aṭṭhakathā",
+        "jataka-atthakatha-1":"Jātaka-aṭṭhakathā-1",
+        "jataka-atthakatha-2":"Jātaka-aṭṭhakathā-2",
+        "jataka-atthakatha-3":"Jātaka-aṭṭhakathā-3",
+        "jataka-atthakatha-4":"Jātaka-aṭṭhakathā-4",
+        "jataka-atthakatha-5":"Jātaka-aṭṭhakathā-5",
+        "jataka-atthakatha-6":"Jātaka-aṭṭhakathā-6",
+        "jataka-atthakatha-7":"Jātaka-aṭṭhakathā-7",
+        "mahaniddesa-atthakatha":"Mahāniddesa-aṭṭhakathā",
+        "culaniddesa-atthakatha":"Cūḷaniddesa-aṭṭhakathā",
+        "patisambhidamagga-atthakatha":"Paṭisambhidāmagga-aṭṭhakathā",
+        "nettippakarana-atthakatha":"Nettippakaraṇa-aṭṭhakathā"
+      }
+    },
+    {
+      "path":"/atthakatha/suttapitaka/khuddakanikaya/buddhavamsa-atthakatha",
+      "items":{
+        "gantharambhakatha":"Ganthārambhakathā",
+        "1. ratanacankamanakandavannana":"1. Ratanacaṅkamanakaṇḍavaṇṇanā",
+        "2. sumedhapatthanakathavannana":"2. Sumedhapatthanākathāvaṇṇanā",
+        "3. dipankarabuddhavamsavannana":"3. Dīpaṅkarabuddhavaṃsavaṇṇanā",
+        "4. kondannabuddhavamsavannana":"4. Koṇḍaññabuddhavaṃsavaṇṇanā",
+        "5. mangalabuddhavamsavannana":"5. Maṅgalabuddhavaṃsavaṇṇanā",
+        "6. sumanabuddhavamsavannana":"6. Sumanabuddhavaṃsavaṇṇanā",
+        "7. revatabuddhavamsavannana":"7. Revatabuddhavaṃsavaṇṇanā",
+        "8. sobhitabuddhavamsavannana":"8. Sobhitabuddhavaṃsavaṇṇanā",
+        "9. anomadassibuddhavamsavannana":"9. Anomadassībuddhavaṃsavaṇṇanā",
+        "10. padumabuddhavamsavannana":"10. Padumabuddhavaṃsavaṇṇanā",
+        "11. naradabuddhavamsavannana":"11. Nāradabuddhavaṃsavaṇṇanā",
+        "12. padumuttarabuddhavamsavannana":"12. Padumuttarabuddhavaṃsavaṇṇanā",
+        "13. sumedhabuddhavamsavannana":"13. Sumedhabuddhavaṃsavaṇṇanā",
+        "14. sujatabuddhavamsavannana":"14. Sujātabuddhavaṃsavaṇṇanā",
+        "15. piyadassibuddhavamsavannana":"15. Piyadassībuddhavaṃsavaṇṇanā",
+        "16. atthadassibuddhavamsavannana":"16. Atthadassībuddhavaṃsavaṇṇanā",
+        "17. dhammadassibuddhavamsavannana":"17. Dhammadassībuddhavaṃsavaṇṇanā",
+        "18. siddhatthabuddhavamsavannana":"18. Siddhatthabuddhavaṃsavaṇṇanā",
+        "19. tissabuddhavamsavannana":"19. Tissabuddhavaṃsavaṇṇanā",
+        "20. phussabuddhavamsavannana":"20. Phussabuddhavaṃsavaṇṇanā",
+        "21. vipassibuddhavamsavannana":"21. Vipassībuddhavaṃsavaṇṇanā",
+        "22. sikhibuddhavamsavannana":"22. Sikhībuddhavaṃsavaṇṇanā",
+        "23. vessabhubuddhavamsavannana":"23. Vessabhūbuddhavaṃsavaṇṇanā",
+        "24. kakusandhabuddhavamsavannana":"24. Kakusandhabuddhavaṃsavaṇṇanā",
+        "25. konagamanabuddhavamsavannana":"25. Koṇāgamanabuddhavaṃsavaṇṇanā",
+        "26. kassapabuddhavamsavannana":"26. Kassapabuddhavaṃsavaṇṇanā",
+        "27. gotamabuddhavamsavannana":"27. Gotamabuddhavaṃsavaṇṇanā",
+        "28. buddhapakinnakakatha":"28. Buddhapakiṇṇakakathā"
+      }
+    }
+  ]
+}

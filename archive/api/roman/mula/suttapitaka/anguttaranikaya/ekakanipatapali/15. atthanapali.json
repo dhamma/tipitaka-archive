@@ -1,0 +1,86 @@
+{
+  "path":"/mula/suttapitaka/anguttaranikaya/ekakanipatapali/15. atthanapali",
+  "script":"roman",
+  "version":null,
+  "baseUrl":"file:.",
+  "titlePath":[
+    "15. Aṭṭhānapāḷi",
+    "Ekakanipātapāḷi",
+    "Aṅguttaranikāya",
+    "Suttapiṭaka",
+    "Mūla"
+  ],
+  "normativeSource":"cscd/s0401m.mul14.xml",
+  "source":"/roman/mula/suttapitaka/anguttaranikaya/ekakanipatapali/15. atthanapali.xml",
+  "versions":[],
+  "menus":[
+    {
+      "path":null,
+      "items":{
+        "mula":"Mūla",
+        "atthakatha":"Aṭṭhakathā",
+        "tika":"Tīkā",
+        "anya":"Anya"
+      }
+    },
+    {
+      "path":"/mula",
+      "items":{
+        "vinayapitaka":"Vinayapiṭaka",
+        "suttapitaka":"Suttapiṭaka",
+        "abhidhammapitaka":"Abhidhammapiṭaka"
+      }
+    },
+    {
+      "path":"/mula/suttapitaka",
+      "items":{
+        "dighanikaya":"Dīghanikāya",
+        "majjhimanikaya":"Majjhimanikāya",
+        "samyuttanikaya":"Saṃyuttanikāya",
+        "anguttaranikaya":"Aṅguttaranikāya",
+        "khuddakanikaya":"Khuddakanikāya"
+      }
+    },
+    {
+      "path":"/mula/suttapitaka/anguttaranikaya",
+      "items":{
+        "ekakanipatapali":"Ekakanipātapāḷi",
+        "dukanipatapali":"Dukanipātapāḷi",
+        "tikanipatapali":"Tikanipātapāḷi",
+        "catukkanipatapali":"Catukkanipātapāḷi",
+        "pancakanipatapali":"Pañcakanipātapāḷi",
+        "chakkanipatapali":"Chakkanipātapāḷi",
+        "sattakanipatapali":"Sattakanipātapāḷi",
+        "atthakadinipatapali":"Aṭṭhakādinipātapāḷi",
+        "navakanipatapali":"Navakanipātapāḷi",
+        "dasakanipatapali":"Dasakanipātapāḷi",
+        "ekadasakanipatapali":"Ekādasakanipātapāḷi"
+      }
+    },
+    {
+      "path":"/mula/suttapitaka/anguttaranikaya/ekakanipatapali",
+      "items":{
+        "1. rupadivaggo":"1. Rūpādivaggo",
+        "2. nivaranappahanavaggo":"2. Nīvaraṇappahānavaggo",
+        "3. akammaniyavaggo":"3. Akammaniyavaggo",
+        "4. adantavaggo":"4. Adantavaggo",
+        "5. panihitaacchavaggo":"5. Paṇihitaacchavaggo",
+        "6. accharasanghatavaggo":"6. Accharāsaṅghātavaggo",
+        "7. viriyarambhadivaggo":"7. Vīriyārambhādivaggo",
+        "8. kalyanamittadivaggo":"8. Kalyāṇamittādivaggo",
+        "9. pamadadivaggo":"9. Pamādādivaggo",
+        "10. dutiyapamadadivaggo":"10. Dutiyapamādādivaggo",
+        "11. adhammavaggo":"11. Adhammavaggo",
+        "12. anapattivaggo":"12. Anāpattivaggo",
+        "13. ekapuggalavaggo":"13. Ekapuggalavaggo",
+        "14. etadaggavaggo":"14. Etadaggavaggo",
+        "15. atthanapali":"15. Aṭṭhānapāḷi",
+        "16. ekadhammapali":"16. Ekadhammapāḷi",
+        "17. pasadakaradhammavaggo":"17. Pasādakaradhammavaggo",
+        "18. aparaaccharasanghatavaggo":"18. Aparaaccharāsaṅghātavaggo",
+        "19. kayagatasativaggo":"19. Kāyagatāsativaggo",
+        "20. amatavaggo":"20. Amatavaggo"
+      }
+    }
+  ]
+}

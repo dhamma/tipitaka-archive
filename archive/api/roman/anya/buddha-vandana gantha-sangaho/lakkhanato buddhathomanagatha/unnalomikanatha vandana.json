@@ -1,0 +1,61 @@
+{
+  "path":"/anya/buddha-vandana gantha-sangaho/lakkhanato buddhathomanagatha/unnalomikanatha vandana",
+  "script":"roman",
+  "version":null,
+  "baseUrl":"file:.",
+  "titlePath":[
+    "Uṇṇālomikanātha vandanā",
+    "Lakkhaṇāto buddhathomanāgāthā",
+    "Buddha-vandanā gantha-saṅgaho",
+    "Anya"
+  ],
+  "normativeSource":"cscd/e0603n.nrf2.xml",
+  "source":"/roman/anya/buddha-vandana gantha-sangaho/lakkhanato buddhathomanagatha/unnalomikanatha vandana.xml",
+  "versions":[],
+  "menus":[
+    {
+      "path":null,
+      "items":{
+        "mula":"Mūla",
+        "atthakatha":"Aṭṭhakathā",
+        "tika":"Tīkā",
+        "anya":"Anya"
+      }
+    },
+    {
+      "path":"/anya",
+      "items":{
+        "visuddhimagga":"Visuddhimagga",
+        "sangayana-puccha vissajjana":"Saṅgāyana-puccha vissajjanā",
+        "ledi sayado gantha-sangaho":"Leḍī sayāḍo gantha-saṅgaho",
+        "buddha-vandana gantha-sangaho":"Buddha-vandanā gantha-saṅgaho",
+        "vamsa-gantha-sangaho":"Vaṃsa-gantha-saṅgaho",
+        "byakarana gantha-sangaho":"Byākaraṇa gantha-saṅgaho",
+        "niti-gantha-sangaho":"Nīti-gantha-saṅgaho",
+        "pakinnaka-gantha-sangaho":"Pakiṇṇaka-gantha-saṅgaho",
+        "sihala-gantha-sangaho":"Sihaḷa-gantha-saṅgaho"
+      }
+    },
+    {
+      "path":"/anya/buddha-vandana gantha-sangaho",
+      "items":{
+        "namakkaratika":"Namakkāraṭīkā",
+        "mahapanamapatha":"Mahāpaṇāmapāṭha",
+        "lakkhanato buddhathomanagatha":"Lakkhaṇāto buddhathomanāgāthā",
+        "sutavandana":"Sutavandanā",
+        "kamalanjali":"Kamalāñjali",
+        "jinalankara":"Jinālaṅkāra",
+        "pajjamadhu":"Pajjamadhu",
+        "buddhagunagathavali":"Buddhaguṇagāthāvalī"
+      }
+    },
+    {
+      "path":"/anya/buddha-vandana gantha-sangaho/lakkhanato buddhathomanagatha",
+      "items":{
+        "buddhathomanagatha":"Buddhathomanāgāthā",
+        "buddhavandana":"Buddhavandanā",
+        "unnalomikanatha vandana":"Uṇṇālomikanātha vandanā"
+      }
+    }
+  ]
+}

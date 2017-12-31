@@ -1,0 +1,85 @@
+{
+  "path":"/mula/suttapitaka/khuddakanikaya/khuddakapathapali/7. tirokuttasuttam",
+  "script":"roman",
+  "version":null,
+  "baseUrl":"file:.",
+  "titlePath":[
+    "7. Tirokuṭṭasuttaṃ",
+    "Khuddakapāṭhapāḷi",
+    "Khuddakanikāya",
+    "Suttapiṭaka",
+    "Mūla"
+  ],
+  "normativeSource":"cscd/s0501m.mul6.xml",
+  "source":"/roman/mula/suttapitaka/khuddakanikaya/khuddakapathapali/7. tirokuttasuttam.xml",
+  "versions":[],
+  "menus":[
+    {
+      "path":null,
+      "items":{
+        "mula":"Mūla",
+        "atthakatha":"Aṭṭhakathā",
+        "tika":"Tīkā",
+        "anya":"Anya"
+      }
+    },
+    {
+      "path":"/mula",
+      "items":{
+        "vinayapitaka":"Vinayapiṭaka",
+        "suttapitaka":"Suttapiṭaka",
+        "abhidhammapitaka":"Abhidhammapiṭaka"
+      }
+    },
+    {
+      "path":"/mula/suttapitaka",
+      "items":{
+        "dighanikaya":"Dīghanikāya",
+        "majjhimanikaya":"Majjhimanikāya",
+        "samyuttanikaya":"Saṃyuttanikāya",
+        "anguttaranikaya":"Aṅguttaranikāya",
+        "khuddakanikaya":"Khuddakanikāya"
+      }
+    },
+    {
+      "path":"/mula/suttapitaka/khuddakanikaya",
+      "items":{
+        "khuddakapathapali":"Khuddakapāṭhapāḷi",
+        "dhammapadapali":"Dhammapadapāḷi",
+        "udanapali":"Udānapāḷi",
+        "itivuttakapali":"Itivuttakapāḷi",
+        "suttanipatapali":"Suttanipātapāḷi",
+        "vimanavatthupali":"Vimānavatthupāḷi",
+        "petavatthupali":"Petavatthupāḷi",
+        "theragathapali":"Theragāthāpāḷi",
+        "therigathapali":"Therīgāthāpāḷi",
+        "apadanapali-1":"Apadānapāḷi-1",
+        "apadanapali-2":"Apadānapāḷi-2",
+        "buddhavamsapali":"Buddhavaṃsapāḷi",
+        "cariyapitakapali":"Cariyāpiṭakapāḷi",
+        "jatakapali-1":"Jātakapāḷi-1",
+        "jatakapali-2":"Jātakapāḷi-2",
+        "mahaniddesapali":"Mahāniddesapāḷi",
+        "culaniddesapali":"Cūḷaniddesapāḷi",
+        "patisambhidamaggapali":"Paṭisambhidāmaggapāḷi",
+        "nettippakaranapali":"Nettippakaraṇapāḷi",
+        "milindapanhapali":"Milindapañhapāḷi",
+        "petakopadesapali":"Peṭakopadesapāḷi"
+      }
+    },
+    {
+      "path":"/mula/suttapitaka/khuddakanikaya/khuddakapathapali",
+      "items":{
+        "1. saranattayam":"1. Saraṇattayaṃ",
+        "2. dasasikkhapadam":"2. Dasasikkhāpadaṃ",
+        "3. dvattimsakaro":"3. Dvattiṃsākāro",
+        "4. kumarapanha":"4. Kumārapañhā",
+        "5. mangalasuttam":"5. Maṅgalasuttaṃ",
+        "6. ratanasuttam":"6. Ratanasuttaṃ",
+        "7. tirokuttasuttam":"7. Tirokuṭṭasuttaṃ",
+        "8. nidhikandasuttam":"8. Nidhikaṇḍasuttaṃ",
+        "9. mettasuttam":"9. Mettasuttaṃ"
+      }
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "path":"/tika/suttapitaka/samyuttanikaya/mahavagga-tika/7. iddhipadasamyuttam",
+  "script":"roman",
+  "version":null,
+  "baseUrl":"file:.",
+  "titlePath":[
+    "7. Iddhipādasaṃyuttaṃ",
+    "Mahāvagga-ṭīkā",
+    "Saṃyuttanikāya",
+    "Suttapiṭaka",
+    "Tīkā"
+  ],
+  "normativeSource":"cscd/s0305t.tik6.xml",
+  "source":"/roman/tika/suttapitaka/samyuttanikaya/mahavagga-tika/7. iddhipadasamyuttam.xml",
+  "versions":[],
+  "menus":[
+    {
+      "path":null,
+      "items":{
+        "mula":"Mūla",
+        "atthakatha":"Aṭṭhakathā",
+        "tika":"Tīkā",
+        "anya":"Anya"
+      }
+    },
+    {
+      "path":"/tika",
+      "items":{
+        "vinayapitaka":"Vinayapiṭaka",
+        "suttapitaka":"Suttapiṭaka",
+        "abhidhammapitaka":"Abhidhammapiṭaka"
+      }
+    },
+    {
+      "path":"/tika/suttapitaka",
+      "items":{
+        "dighanikaya":"Dīghanikāya",
+        "majjhimanikaya":"Majjhimanikāya",
+        "samyuttanikaya":"Saṃyuttanikāya",
+        "anguttaranikaya":"Aṅguttaranikāya",
+        "khuddakanikaya":"Khuddakanikāya"
+      }
+    },
+    {
+      "path":"/tika/suttapitaka/samyuttanikaya",
+      "items":{
+        "sagathavagga-tika":"Sagāthāvagga-ṭīkā",
+        "nidanavagga-tika":"Nidānavagga-ṭīkā",
+        "khandhavagga-tika":"Khandhavagga-ṭīkā",
+        "salayatanavagga-tika":"Saḷāyatanavagga-ṭīkā",
+        "mahavagga-tika":"Mahāvagga-ṭīkā"
+      }
+    },
+    {
+      "path":"/tika/suttapitaka/samyuttanikaya/mahavagga-tika",
+      "items":{
+        "1. maggasamyuttam":"1. Maggasaṃyuttaṃ",
+        "2. bojjhangasamyuttam":"2. Bojjhaṅgasaṃyuttaṃ",
+        "3. satipatthanasamyuttam":"3. Satipaṭṭhānasaṃyuttaṃ",
+        "4. indriyasamyuttam":"4. Indriyasaṃyuttaṃ",
+        "5. sammappadhanasamyuttavannana":"5. Sammappadhānasaṃyuttavaṇṇanā",
+        "6. balasamyuttavannana":"6. Balasaṃyuttavaṇṇanā",
+        "7. iddhipadasamyuttam":"7. Iddhipādasaṃyuttaṃ",
+        "8. anuruddhasamyuttam":"8. Anuruddhasaṃyuttaṃ",
+        "9. jhanasamyuttavannana":"9. Jhānasaṃyuttavaṇṇanā",
+        "10. anapanasamyuttam":"10. Ānāpānasaṃyuttaṃ",
+        "11. sotapattisamyuttam":"11. Sotāpattisaṃyuttaṃ",
+        "12. saccasamyuttam":"12. Saccasaṃyuttaṃ"
+      }
+    }
+  ]
+}

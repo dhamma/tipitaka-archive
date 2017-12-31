@@ -1,0 +1,74 @@
+{
+  "path":"/anya/niti-gantha-sangaho/kavidappananiti/panama patinna",
+  "script":"roman",
+  "version":null,
+  "baseUrl":"file:.",
+  "titlePath":[
+    "Paṇāma paṭiññā",
+    "Kavidappaṇanīti",
+    "Nīti-gantha-saṅgaho",
+    "Anya"
+  ],
+  "normativeSource":"cscd/e1001n.nrf13.xml",
+  "source":"/roman/anya/niti-gantha-sangaho/kavidappananiti/panama patinna.xml",
+  "versions":[],
+  "menus":[
+    {
+      "path":null,
+      "items":{
+        "mula":"Mūla",
+        "atthakatha":"Aṭṭhakathā",
+        "tika":"Tīkā",
+        "anya":"Anya"
+      }
+    },
+    {
+      "path":"/anya",
+      "items":{
+        "visuddhimagga":"Visuddhimagga",
+        "sangayana-puccha vissajjana":"Saṅgāyana-puccha vissajjanā",
+        "ledi sayado gantha-sangaho":"Leḍī sayāḍo gantha-saṅgaho",
+        "buddha-vandana gantha-sangaho":"Buddha-vandanā gantha-saṅgaho",
+        "vamsa-gantha-sangaho":"Vaṃsa-gantha-saṅgaho",
+        "byakarana gantha-sangaho":"Byākaraṇa gantha-saṅgaho",
+        "niti-gantha-sangaho":"Nīti-gantha-saṅgaho",
+        "pakinnaka-gantha-sangaho":"Pakiṇṇaka-gantha-saṅgaho",
+        "sihala-gantha-sangaho":"Sihaḷa-gantha-saṅgaho"
+      }
+    },
+    {
+      "path":"/anya/niti-gantha-sangaho",
+      "items":{
+        "lokaniti":"Lokanīti",
+        "suttantaniti":"Suttantanīti",
+        "surassatiniti":"Sūrassatinīti",
+        "maharahaniti":"Mahārahanīti",
+        "dhammaniti":"Dhammanīti",
+        "kavidappananiti":"Kavidappaṇanīti",
+        "nitimanjari":"Nītimañjarī",
+        "naradakkhadipani":"Naradakkhadīpanī",
+        "caturarakkhadipani":"Caturārakkhadīpanī",
+        "canakyaniti":"Cāṇakyanīti"
+      }
+    },
+    {
+      "path":"/anya/niti-gantha-sangaho/kavidappananiti",
+      "items":{
+        "matika":"Mātikā",
+        "ratanattayapanama":"Ratanattayapaṇāma",
+        "panditakanda":"Paṇḍitakaṇḍa",
+        "sujanakanda":"Sujanakaṇḍa",
+        "baladujjanakanda":"Bāladujjanakaṇḍa",
+        "rajakanda":"Rājakaṇḍa",
+        "nayaka kanda":"Nāyaka kaṇḍa",
+        "puttakanda":"Puttakaṇḍa",
+        "vejjacariya kanda":"Vejjācariya kaṇḍa",
+        "dasaka kanda":"Dāsaka kaṇḍa",
+        "itthikanda":"Itthikaṇḍa",
+        "pakinnakakanda":"Pakiṇṇakakaṇḍa",
+        "kavidappananiti":"Kavidappaṇanīti",
+        "panama patinna":"Paṇāma paṭiññā"
+      }
+    }
+  ]
+}
