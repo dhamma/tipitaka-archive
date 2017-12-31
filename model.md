@@ -1,5 +1,4 @@
 Base {
- "id"      : String
  "path"    : String
 }
 
@@ -12,7 +11,7 @@ ExtendedBase < Base {
 
 Document < Folder {
   "normativeSource" : String
-  "xmlSource"       : String
+  "source"          : String
   "versions"        : Array[String]
 }
 

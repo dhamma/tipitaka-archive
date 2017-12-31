@@ -11,7 +11,7 @@ public class Layout
 {
 
   public URL tipitakaOrgMirror() throws MalformedURLException {
-    return new URL("file:../tipitaka-search/solr/tipitaka/");
+    return new URL("file:../tipitaka-mirror/");
   }
 
   public File notesArchive() {

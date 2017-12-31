@@ -41,8 +41,8 @@ public class ModelBuilderTest {
     public void testMenu() throws Exception {
         count = 0;
         builder.eachMenu(menu -> { count++; });
-        assertThat(count, is(2952));
-        assertThat(builder.menus.size(), is(2952));
+        assertThat(count, is(2953));
+        assertThat(builder.menus.size(), is(2953));
     }
 
     @Test
@@ -53,13 +53,13 @@ public class ModelBuilderTest {
                 assertFolder(folder);
             });
         assertThat(count, is(255));
-        assertThat(builder.menus.size(), is(2952));
+        assertThat(builder.menus.size(), is(2953));
     }
 
     private void assertFolder(Folder folder) {
         String path = folder.getPath();
         if (path != null) {
-            assertThat(path.replaceAll("[^/]", "").length(),
+            assertThat(path.replaceAll("[^/]", "").length() + 1,
                        is(folder.getMenus().size()));
         }
         else {
