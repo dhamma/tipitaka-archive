@@ -43,4 +43,11 @@ public class Document extends Folder {
     public List<String> getVersions() {
         return versions;
     }
+
+    public String toString() {
+      StringBuilder buf = new StringBuilder("Document[");
+      buf.append("normativeSource: ").append(normativeSource);
+      buf.append("]");
+      return buf.toString();
+    }
 }

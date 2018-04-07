@@ -42,6 +42,10 @@ public class TipitakaOrgTocVisitor {
         this.baseUrl = baseUrl;
     }
 
+    public String getBaseUrl() {
+      return baseUrl;
+    }
+
     public Map<String, String[]> map(){
         return map;
     }

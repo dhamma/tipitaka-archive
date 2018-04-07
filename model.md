@@ -9,16 +9,16 @@ ExtendedBase < Base {
  "titlePath: Array[String]
 }
 
-Document < Folder {
-  "normativeSource" : String
-  "source"          : String
-  "versions"        : Array[String]
-}
-
 Menu < Base {
   "items": HashMap
 }
 
 Folder < ExtendedBase {
   "menus" : Array[Menu]
+}
+
+Document < Folder {
+  "normativeSource" : String
+  "source"          : String
+  "versions"        : Array[String]
 }

@@ -10,12 +10,12 @@ import java.util.Map;
 /**
  * Created by cmeier on 3/6/16.
  */
-class Fuzzy
+public class Fuzzy
 {
 
   static List<String> results = new LinkedList<String>();
 
-  static String findMatchingText(final String altText, final String previous) {
+  public static String findMatchingText(final String altText, final String previous) {
     String[] words = previous.trim()
         .replaceFirst("’’ti$", "ti")
         .replaceFirst("’’$", "")
