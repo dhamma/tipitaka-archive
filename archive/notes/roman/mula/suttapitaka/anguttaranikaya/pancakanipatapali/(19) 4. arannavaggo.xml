@@ -1,40 +1,37 @@
-<?xml version="1.0" encoding="utf-8"?>
 <notes archive-path="/mula/suttapitaka/anguttaranikaya/pancakanipatapali/(19) 4. arannavaggo">
-  <note line="3" original="āraññatā (sabbattha) pari. 443 passitabbaṃ" reference-line="3" id="0">
-    <extra> pari. 443 passitabbaṃ</extra>
-    <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">āraññikā</alternative>
-      <alternative source-abbr="sabbattha" source="sabbattha">āraññatā</alternative>
-    </alternatives>
-    <type>auto</type>
+  <note reference-line="3" id="0">
+    <original>āraññatā (sabbattha) pari. 443 passitabbaṃ</original>
+    <type>raw</type>
     <snippet>, bhikkhave, āraññikā </snippet>
-  </note>
-  <note line="12" original="idamaṭṭhitaṃyeva (sī. pī.)" reference-line="3" id="1">
-    <extra></extra>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">idamatthitaṃyeva</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="3" id="1">
+    <original>idamaṭṭhitaṃyeva (sī. pī.)</original>
+    <type>auto</type>
+    <snippet>. Katame pañca? Mandattā momūhattā āraññiko hoti, pāpiccho icchāpakato āraññiko hoti, ummādā cittakkhepā āraññiko hoti, vaṇṇitaṃ buddhehi buddhasāvakehīti āraññiko hoti, appicchataṃyeva nissāya santuṭṭhiṃyeva nissāya sallekhaṃyeva nissāya pavivekaṃyeva nissāya idamatthitaṃyeva </snippet>
+    <match>idamatthitaṃyeva</match>
+    <alternatives>
       <alternative source-abbr="sī." source="sri lanka">idamaṭṭhitaṃyeva</alternative>
       <alternative source-abbr="pī." source="pali text society">idamaṭṭhitaṃyeva</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet>. Katame pañca? Mandattā momūhattā āraññiko hoti, pāpiccho icchāpakato āraññiko hoti, ummādā cittakkhepā āraññiko hoti, vaṇṇitaṃ buddhehi buddhasāvakehīti āraññiko hoti, appicchataṃyeva nissāya santuṭṭhiṃyeva nissāya sallekhaṃyeva nissāya pavivekaṃyeva nissāya idamatthitaṃyeva </snippet>
   </note>
-  <note line="22" original="pāmokkho (a. ni. 4.95; 10.91)" reference-line="3" id="2">
-    <extra></extra>
-    <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">mokkho</alternative>
-      <alternative source-abbr="a. ni. 4.95; 10.91" source="a. ni. 4.95; 10.91">pāmokkho</alternative>
-    </alternatives>
-    <type>auto</type>
+  <note reference-line="3" id="2">
+    <original>pāmokkho (a. ni. 4.95; 10.91)</original>
+    <type>raw</type>
     <snippet> imesaṃ pañcannaṃ āraññikānaṃ aggo ca seṭṭho ca mokkho </snippet>
-  </note>
-  <note line="31" original="sappimhā sappimaṇḍo (ka.) saṃ. ni. 3.662" reference-line="4" id="3">
-    <extra> saṃ. ni. 3.662</extra>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">sappimaṇḍo, sappimaṇḍo</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="4" id="3">
+    <original>sappimhā sappimaṇḍo (ka.) saṃ. ni. 3.662</original>
+    <type>no_match</type>
+    <snippet>‘‘Seyyathāpi, bhikkhave, gavā khīraṃ, khīramhā dadhi, dadhimhā navanītaṃ, navanītamhā sappi, sappimhā sappimaṇḍo, sappimaṇḍo </snippet>
+    <alternatives>
       <alternative source-abbr="ka." source="cambodian">sappimhā sappimaṇḍo</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet>Seyyathāpi, bhikkhave, gavā khīraṃ, khīramhā dadhi, dadhimhā navanītaṃ, navanītamhā sappi, sappimhā sappimaṇḍo, sappimaṇḍo </snippet>
+    <references>
+      <reference>saṃ. ni. 3.662</reference>
+    </references>
   </note>
 </notes>

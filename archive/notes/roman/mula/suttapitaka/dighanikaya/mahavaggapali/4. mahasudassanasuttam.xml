@@ -1,241 +1,223 @@
-<?xml version="1.0" encoding="utf-8"?>
 <notes archive-path="/mula/suttapitaka/dighanikaya/mahavaggapali/4. mahasudassanasuttam">
-  <note line="3" original="khattiyo muddhābhisitto (ka.), cakkavattīdhammiko dhammarājā (mahāparinibbānasutta)" reference-line="5" id="0">
-    <extra></extra>
+  <note reference-line="5" id="0">
+    <original>khattiyo muddhābhisitto (ka.), cakkavattīdhammiko dhammarājā (mahāparinibbānasutta)</original>
+    <type>raw</type>
+    <snippet>‘‘Bhūtapubbaṃ, ānanda, rājā mahāsudassano nāma ahosi khattiyo muddhāvasitto </snippet>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">khattiyo muddhāvasitto</alternative>
-      <alternative source-abbr="ka." source="cambodian">khattiyo muddhābhisitto</alternative>
-      <alternative source-abbr="mahāparinibbānasutta" source="mahāparinibbānasutta">cakkavattīdhammiko dhammarājā</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet>Bhūtapubbaṃ, ānanda, rājā mahāsudassano nāma ahosi khattiyo muddhāvasitto </snippet>
   </note>
-  <note line="13" original="iddhā ceva ahosi phītā ca (syā.)" reference-line="5" id="1">
-    <extra></extra>
+  <note reference-line="5" id="1">
+    <original>iddhā ceva ahosi phītā ca (syā.)</original>
+    <type>no_match</type>
+    <snippet>, devānaṃ āḷakamandā nāma rājadhānī iddhā ceva hoti phītā ca </snippet>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">phītā ca</alternative>
       <alternative source-abbr="syā." source="thai">iddhā ceva ahosi phītā ca</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet>, devānaṃ āḷakamandā nāma rājadhānī iddhā ceva hoti phītā ca </snippet>
   </note>
-  <note line="22" original="lohitaṅgamayo (ka.), lohitakamayo (byākaraṇesu)" reference-line="6" id="2">
-    <extra></extra>
+  <note reference-line="6" id="2">
+    <original>lohitaṅgamayo (ka.), lohitakamayo (byākaraṇesu)</original>
+    <type>raw</type>
+    <snippet>‘‘Kusāvatī, ānanda, rājadhānī sattahi pākārehi parikkhittā ahosi. Eko pākāro sovaṇṇamayo, eko rūpiyamayo, eko veḷuriyamayo, eko phalikamayo, eko lohitaṅkamayo </snippet>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">lohitaṅkamayo</alternative>
-      <alternative source-abbr="ka." source="cambodian">lohitaṅgamayo</alternative>
-      <alternative source-abbr="byākaraṇesu" source="byākaraṇesu">lohitakamayo</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet>Kusāvatī, ānanda, rājadhānī sattahi pākārehi parikkhittā ahosi. Eko pākāro sovaṇṇamayo, eko rūpiyamayo, eko veḷuriyamayo, eko phalikamayo, eko lohitaṅkamayo </snippet>
   </note>
-  <note line="32" original="kamanīyo (sī. syā. pī.)" reference-line="6" id="3">
-    <extra></extra>
+  <note reference-line="6" id="3">
+    <original>kamanīyo (sī. syā. pī.)</original>
+    <type>auto</type>
+    <snippet>. Ekekasmiṃ dvāre satta satta esikā nikhātā ahesuṃ tiporisaṅgā tiporisanikhātā dvādasaporisā ubbedhena. Ekā esikā sovaṇṇamayā, ekā rūpiyamayā, ekā veḷuriyamayā, ekā phalikamayā, ekā lohitaṅkamayā, ekā masāragallamayā, ekā sabbaratanamayā. Kusāvatī, ānanda, rājadhānī sattahi tālapantīhi parikkhittā ahosi. Ekā tālapanti sovaṇṇamayā, ekā rūpiyamayā, ekā veḷuriyamayā, ekā phalikamayā, ekā lohitaṅkamayā, ekā masāragallamayā, ekā sabbaratanamayā. Sovaṇṇamayassa tālassa sovaṇṇamayo khandho ahosi, rūpiyamayāni pattāni ca phalāni ca. Rūpiyamayassa tālassa rūpiyamayo khandho ahosi, sovaṇṇamayāni pattāni ca phalāni ca. Veḷuriyamayassa tālassa veḷuriyamayo khandho ahosi, phalikamayāni pattāni ca phalāni ca. Phalikamayassa tālassa phalikamayo khandho ahosi, veḷuriyamayāni pattāni ca phalāni ca. Lohitaṅkamayassa tālassa lohitaṅkamayo khandho ahosi, masāragallamayāni pattāni ca phalāni ca. Masāragallamayassa tālassa masāragallamayo khandho ahosi, lohitaṅkamayāni pattāni ca phalāni ca. Sabbaratanamayassa tālassa sabbaratanamayo khandho ahosi, sabbaratanamayāni pattāni ca phalāni ca. Tāsaṃ kho panānanda, tālapantīnaṃ vāteritānaṃ saddo ahosi vaggu ca rajanīyo ca khamanīyo </snippet>
+    <match>khamanīyo</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">khamanīyo</alternative>
       <alternative source-abbr="sī." source="sri lanka">kamanīyo</alternative>
       <alternative source-abbr="syā." source="thai">kamanīyo</alternative>
       <alternative source-abbr="pī." source="pali text society">kamanīyo</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet>. Ekekasmiṃ dvāre satta satta esikā nikhātā ahesuṃ tiporisaṅgā tiporisanikhātā dvādasaporisā ubbedhena. Ekā esikā sovaṇṇamayā, ekā rūpiyamayā, ekā veḷuriyamayā, ekā phalikamayā, ekā lohitaṅkamayā, ekā masāragallamayā, ekā sabbaratanamayā. Kusāvatī, ānanda, rājadhānī sattahi tālapantīhi parikkhittā ahosi. Ekā tālapanti sovaṇṇamayā, ekā rūpiyamayā, ekā veḷuriyamayā, ekā phalikamayā, ekā lohitaṅkamayā, ekā masāragallamayā, ekā sabbaratanamayā. Sovaṇṇamayassa tālassa sovaṇṇamayo khandho ahosi, rūpiyamayāni pattāni ca phalāni ca. Rūpiyamayassa tālassa rūpiyamayo khandho ahosi, sovaṇṇamayāni pattāni ca phalāni ca. Veḷuriyamayassa tālassa veḷuriyamayo khandho ahosi, phalikamayāni pattāni ca phalāni ca. Phalikamayassa tālassa phalikamayo khandho ahosi, veḷuriyamayāni pattāni ca phalāni ca. Lohitaṅkamayassa tālassa lohitaṅkamayo khandho ahosi, masāragallamayāni pattāni ca phalāni ca. Masāragallamayassa tālassa masāragallamayo khandho ahosi, lohitaṅkamayāni pattāni ca phalāni ca. Sabbaratanamayassa tālassa sabbaratanamayo khandho ahosi, sabbaratanamayāni pattāni ca phalāni ca. Tāsaṃ kho panānanda, tālapantīnaṃ vāteritānaṃ saddo ahosi vaggu ca rajanīyo ca khamanīyo </snippet>
   </note>
-  <note line="43" original="pavattati (syā. ka.)" reference-line="9" id="4">
-    <extra></extra>
+  <note reference-line="9" id="4">
+    <original>pavattati (syā. ka.)</original>
+    <type>auto</type>
+    <snippet> ‘‘Atha kho, ānanda, rājā mahāsudassano uṭṭhāyāsanā ekaṃsaṃ uttarāsaṅgaṃ karitvā vāmena hatthena suvaṇṇabhiṅkāraṃ gahetvā dakkhiṇena hatthena cakkaratanaṃ abbhukkiri – ‘pavattatu bhavaṃ cakkaratanaṃ, abhivijinātu bhavaṃ cakkaratana’nti. Atha kho taṃ, ānanda, cakkaratanaṃ puratthimaṃ disaṃ pavatti </snippet>
+    <match>pavatti</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">pavatti</alternative>
       <alternative source-abbr="syā." source="thai">pavattati</alternative>
       <alternative source-abbr="ka." source="cambodian">pavattati</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> Atha kho, ānanda, rājā mahāsudassano uṭṭhāyāsanā ekaṃsaṃ uttarāsaṅgaṃ karitvā vāmena hatthena suvaṇṇabhiṅkāraṃ gahetvā dakkhiṇena hatthena cakkaratanaṃ abbhukkiri – ‘pavattatu bhavaṃ cakkaratanaṃ, abhivijinātu bhavaṃ cakkaratana’nti. Atha kho taṃ, ānanda, cakkaratanaṃ puratthimaṃ disaṃ pavatti </snippet>
   </note>
-  <note line="53" original="anudeva (syā.)" reference-line="9" id="5">
-    <extra></extra>
-    <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">anvadeva</alternative>
-      <alternative source-abbr="syā." source="thai">anudeva</alternative>
-    </alternatives>
+  <note reference-line="9" id="5">
+    <original>anudeva (syā.)</original>
     <type>auto</type>
     <snippet>, anvadeva </snippet>
-  </note>
-  <note line="62" original="mānussivaṇṇaṃ (syā.)" reference-line="18" id="6">
-    <extra></extra>
+    <match>anvadeva</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">mānusivaṇṇaṃ</alternative>
+      <alternative source-abbr="syā." source="thai">anudeva</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="18" id="6">
+    <original>mānussivaṇṇaṃ (syā.)</original>
+    <type>auto</type>
+    <snippet> ‘‘Puna caparaṃ, ānanda, rañño mahāsudassanassa itthiratanaṃ pāturahosi abhirūpā dassanīyā pāsādikā paramāya vaṇṇapokkharatāya samannāgatā nātidīghā nātirassā nātikisā nātithūlā nātikāḷikā nāccodātā atikkantā mānusivaṇṇaṃ </snippet>
+    <match>mānusivaṇṇaṃ</match>
+    <alternatives>
       <alternative source-abbr="syā." source="thai">mānussivaṇṇaṃ</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> Puna caparaṃ, ānanda, rañño mahāsudassanassa itthiratanaṃ pāturahosi abhirūpā dassanīyā pāsādikā paramāya vaṇṇapokkharatāya samannāgatā nātidīghā nātirassā nātikisā nātithūlā nātikāḷikā nāccodātā atikkantā mānusivaṇṇaṃ </snippet>
   </note>
-  <note line="71" original="aticarī (ka.), aticārī (sī. syā. pī.)" reference-line="18" id="7">
-    <extra></extra>
+  <note reference-line="18" id="7">
+    <original>aticarī (ka.), aticārī (sī. syā. pī.)</original>
+    <type>auto</type>
+    <snippet> kiṅkārapaṭissāvinī manāpacārinī piyavādinī. Taṃ kho panānanda, itthiratanaṃ rājānaṃ mahāsudassanaṃ manasāpi no aticari </snippet>
+    <match>aticari</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">aticari</alternative>
       <alternative source-abbr="ka." source="cambodian">aticarī</alternative>
       <alternative source-abbr="sī." source="sri lanka">aticārī</alternative>
       <alternative source-abbr="syā." source="thai">aticārī</alternative>
       <alternative source-abbr="pī." source="pali text society">aticārī</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> kiṅkārapaṭissāvinī manāpacārinī piyavādinī. Taṃ kho panānanda, itthiratanaṃ rājānaṃ mahāsudassanaṃ manasāpi no aticari </snippet>
   </note>
-  <note line="83" original="catutthāya (syā.)" reference-line="29" id="8">
-    <extra></extra>
-    <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">catutthiyā</alternative>
-      <alternative source-abbr="syā." source="thai">catutthāya</alternative>
-    </alternatives>
+  <note reference-line="29" id="8">
+    <original>catutthāya (syā.)</original>
     <type>auto</type>
     <snippet> taṃ mayaṃ cirataraṃ passeyyāmā’ti. Rājāpi, ānanda, mahāsudassano sārathiṃ āmantesi – ‘ataramāno, sārathi, rathaṃ pesehi, yathā ahaṃ brāhmaṇagahapatike cirataraṃ passeyya’nti. Rājā, ānanda, mahāsudassano imāya catutthiyā </snippet>
-  </note>
-  <note line="92" original="annatthitassa (sī. syā. kaṃ. pī.), evaṃ sabbattha pakabhirūpeneva dissati" reference-line="35" id="9">
-    <extra>, evaṃ sabbattha pakabhirūpeneva dissati</extra>
+    <match>catutthiyā</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">annaṭṭhikassa</alternative>
-      <alternative source-abbr="sī." source="sri lanka">annatthitassa</alternative>
-      <alternative source-abbr="syā." source="thai">annatthitassa</alternative>
-      <alternative source-abbr="kaṃ." source="kaṃ.">annatthitassa</alternative>
-      <alternative source-abbr="pī." source="pali text society">annatthitassa</alternative>
+      <alternative source-abbr="syā." source="thai">catutthāya</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet>Atha kho, ānanda, rañño mahāsudassanassa etadahosi – ‘yaṃnūnāhaṃ imāsaṃ pokkharaṇīnaṃ tīre evarūpaṃ dānaṃ paṭṭhapeyyaṃ – annaṃ annaṭṭhikassa </snippet>
   </note>
-  <note line="104" original="visukammaṃ (ka.)" reference-line="37" id="10">
-    <extra></extra>
+  <note reference-line="35" id="9">
+    <original>annatthitassa (sī. syā. kaṃ. pī.), evaṃ sabbattha pakabhirūpeneva dissati</original>
+    <type>raw</type>
+    <snippet>‘‘Atha kho, ānanda, rañño mahāsudassanassa etadahosi – ‘yaṃnūnāhaṃ imāsaṃ pokkharaṇīnaṃ tīre evarūpaṃ dānaṃ paṭṭhapeyyaṃ – annaṃ annaṭṭhikassa </snippet>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">vissakammaṃ</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="37" id="10">
+    <original>visukammaṃ (ka.)</original>
+    <type>auto</type>
+    <snippet> ‘‘Atha kho, ānanda, sakko devānamindo rañño mahāsudassanassa cetasā cetoparivitakkamaññāya vissakammaṃ </snippet>
+    <match>vissakammaṃ</match>
+    <alternatives>
       <alternative source-abbr="ka." source="cambodian">visukammaṃ</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> Atha kho, ānanda, sakko devānamindo rañño mahāsudassanassa cetasā cetoparivitakkamaññāya vissakammaṃ </snippet>
   </note>
-  <note line="113" original="kiṅkaṇikajālehi (syā. ka.)" reference-line="43" id="11">
-    <extra></extra>
+  <note reference-line="43" id="11">
+    <original>kiṅkaṇikajālehi (syā. ka.)</original>
+    <type>auto</type>
+    <snippet> ‘‘Dhammo, ānanda, pāsādo dvīhi kiṅkiṇikajālehi </snippet>
+    <match>kiṅkiṇikajālehi</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">kiṅkiṇikajālehi</alternative>
       <alternative source-abbr="syā." source="thai">kiṅkaṇikajālehi</alternative>
       <alternative source-abbr="ka." source="cambodian">kiṅkaṇikajālehi</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> Dhammo, ānanda, pāsādo dvīhi kiṅkiṇikajālehi </snippet>
   </note>
-  <note line="123" original="kusalehi (sī. syā. kaṃ. pī.)" reference-line="43" id="12">
-    <extra></extra>
-    <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">sukusalehi</alternative>
-      <alternative source-abbr="sī." source="sri lanka">kusalehi</alternative>
-      <alternative source-abbr="syā." source="thai">kusalehi</alternative>
-      <alternative source-abbr="kaṃ." source="kaṃ.">kusalehi</alternative>
-      <alternative source-abbr="pī." source="pali text society">kusalehi</alternative>
-    </alternatives>
+  <note reference-line="43" id="12">
+    <original>kusalehi (sī. syā. kaṃ. pī.)</original>
     <type>auto</type>
     <snippet> sukusalehi </snippet>
-  </note>
-  <note line="135" original="abbhuggamamāno (sī. pī. ka.)" reference-line="43" id="13">
-    <extra></extra>
+    <match>sukusalehi</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">abbhussakkamāno</alternative>
+      <alternative source-abbr="sī." source="sri lanka">kusalehi</alternative>
+      <alternative source-abbr="syā." source="thai">kusalehi</alternative>
+      <alternative source-abbr="kaṃ." source="kam">kusalehi</alternative>
+      <alternative source-abbr="pī." source="pali text society">kusalehi</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="43" id="13">
+    <original>abbhuggamamāno (sī. pī. ka.)</original>
+    <type>auto</type>
+    <snippet> madanīyo ca. Ye kho panānanda, tena samayena kusāvatiyā rājadhāniyā dhuttā ahesuṃ soṇḍā pipāsā, te tesaṃ kiṅkiṇikajālānaṃ vāteritānaṃ saddena paricāresuṃ. Niṭṭhito kho panānanda, dhammo pāsādo duddikkho ahosi musati cakkhūni. Seyyathāpi, ānanda, vassānaṃ pacchime māse saradasamaye viddhe vigatavalāhake deve ādicco nabhaṃ abbhussakkamāno </snippet>
+    <match>abbhussakkamāno</match>
+    <alternatives>
       <alternative source-abbr="sī." source="sri lanka">abbhuggamamāno</alternative>
       <alternative source-abbr="pī." source="pali text society">abbhuggamamāno</alternative>
       <alternative source-abbr="ka." source="cambodian">abbhuggamamāno</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> madanīyo ca. Ye kho panānanda, tena samayena kusāvatiyā rājadhāniyā dhuttā ahesuṃ soṇḍā pipāsā, te tesaṃ kiṅkiṇikajālānaṃ vāteritānaṃ saddena paricāresuṃ. Niṭṭhito kho panānanda, dhammo pāsādo duddikkho ahosi musati cakkhūni. Seyyathāpi, ānanda, vassānaṃ pacchime māse saradasamaye viddhe vigatavalāhake deve ādicco nabhaṃ abbhussakkamāno </snippet>
   </note>
-  <note line="146" original="dudikkho (pī.)" reference-line="43" id="14">
-    <extra></extra>
-    <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">duddikkho</alternative>
-      <alternative source-abbr="pī." source="pali text society">dudikkho</alternative>
-    </alternatives>
+  <note reference-line="43" id="14">
+    <original>dudikkho (pī.)</original>
     <type>auto</type>
     <snippet> duddikkho </snippet>
-  </note>
-  <note line="155" original="ye ko panānanda (syā. ka.)" reference-line="48" id="15">
-    <extra></extra>
+    <match>duddikkho</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">ye</alternative>
+      <alternative source-abbr="pī." source="pali text society">dudikkho</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="48" id="15">
+    <original>ye ko panānanda (syā. ka.)</original>
+    <type>no_match</type>
+    <snippet>‘‘Niṭṭhite kho panānanda, dhamme pāsāde niṭṭhitāya dhammāya ca pokkharaṇiyā rājā mahāsudassano ‘ye </snippet>
+    <alternatives>
       <alternative source-abbr="syā." source="thai">ye ko panānanda</alternative>
       <alternative source-abbr="ka." source="cambodian">ye ko panānanda</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet>Niṭṭhite kho panānanda, dhamme pāsāde niṭṭhitāya dhammāya ca pokkharaṇiyā rājā mahāsudassano ‘ye </snippet>
   </note>
-  <note line="165" original="dukūlasandanāni(pī.)" reference-line="56" id="16">
-    <extra></extra>
-    <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">duhasandanāni</alternative>
-      <alternative source-abbr="pī." source="pali text society">dukūlasandanāni</alternative>
-    </alternatives>
+  <note reference-line="56" id="16">
+    <original>dukūlasandanāni(pī.)</original>
     <type>auto</type>
     <snippet> gahapatisahassāni ahesuṃ gahapatiratanappamukhāni; caturāsīti khattiyasahassāni ahesuṃ anuyantāni pariṇāyakaratanappamukhāni; caturāsīti dhenusahassāni ahesuṃ duhasandanāni </snippet>
-  </note>
-  <note line="174" original="dukūlasandanāni (pī.) dukūlasandānāni (saṃ. ni. 3.96)" reference-line="56" id="17">
-    <extra></extra>
+    <match>duhasandanāni</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">dukūlasandānāni</alternative>
       <alternative source-abbr="pī." source="pali text society">dukūlasandanāni</alternative>
-      <alternative source-abbr="saṃ. ni. 3.96" source="saṃ. ni. 3.96">dukūlasandānāni</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> dukūlasandānāni </snippet>
   </note>
-  <note line="184" original="( ) sī. ipotthakesu natthi" reference-line="56" id="18">
+  <note reference-line="56" id="17">
+    <original>dukūlasandanāni (pī.) dukūlasandānāni (saṃ. ni. 3.96)</original>
     <type>raw</type>
-  </note>
-  <note line="187" original="pamajjitvā (sī. syā. pī.), puñjitvā (ka.)" reference-line="64" id="19">
-    <extra></extra>
+    <snippet> dukūlasandānāni </snippet>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">puñchitvā</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="56" id="18">
+    <original>( ) sī. ipotthakesu natthi</original>
+    <type>raw</type>
+    <snippet>; (rañño, ānanda, mahāsudassanassa) </snippet>
+    <alternatives>
+    </alternatives>
+  </note>
+  <note reference-line="64" id="19">
+    <original>pamajjitvā (sī. syā. pī.), puñjitvā (ka.)</original>
+    <type>auto</type>
+    <snippet> vutte, ānanda, subhaddā devī parodi assūni pavattesi. Atha kho, ānanda, subhaddā devī assūni puñchitvā </snippet>
+    <match>puñchitvā</match>
+    <alternatives>
       <alternative source-abbr="sī." source="sri lanka">pamajjitvā</alternative>
       <alternative source-abbr="syā." source="thai">pamajjitvā</alternative>
       <alternative source-abbr="pī." source="pali text society">pamajjitvā</alternative>
       <alternative source-abbr="ka." source="cambodian">puñjitvā</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> vutte, ānanda, subhaddā devī parodi assūni pavattesi. Atha kho, ānanda, subhaddā devī assūni puñchitvā </snippet>
   </note>
-  <note line="199" original="kīḷitaṃ (ka.), kīḷikaṃ (sī. pī.)" reference-line="67" id="20">
-    <extra></extra>
+  <note reference-line="67" id="20">
+    <original>kīḷitaṃ (ka.), kīḷikaṃ (sī. pī.)</original>
+    <type>auto</type>
+    <snippet> māraṇantikā vedanā ahosi. Kālaṅkato ca, ānanda, rājā mahāsudassano sugatiṃ brahmalokaṃ upapajji. Rājā, ānanda, mahāsudassano caturāsīti vassasahassāni kumārakīḷaṃ </snippet>
+    <match>kumārakīḷaṃ</match>
     <alternatives>
       <alternative source-abbr="ka." source="cambodian">kīḷitaṃ</alternative>
       <alternative source-abbr="sī." source="sri lanka">kīḷikaṃ</alternative>
       <alternative source-abbr="pī." source="pali text society">kīḷikaṃ</alternative>
     </alternatives>
-    <type>no_match</type>
-    <snippet> māraṇantikā vedanā ahosi. Kālaṅkato ca, ānanda, rājā mahāsudassano sugatiṃ brahmalokaṃ upapajji. Rājā, ānanda, mahāsudassano caturāsīti vassasahassāni kumārakīḷaṃ </snippet>
   </note>
-  <note line="209" original="gihībhūto (sī. pī.)" reference-line="67" id="21">
-    <extra></extra>
+  <note reference-line="67" id="21">
+    <original>gihībhūto (sī. pī.)</original>
+    <type>auto</type>
+    <snippet> kīḷi. Caturāsīti vassasahassāni oparajjaṃ kāresi. Caturāsīti vassasahassāni rajjaṃ kāresi. Caturāsīti vassasahassāni gihibhūto </snippet>
+    <match>gihibhūto</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">gihibhūto</alternative>
       <alternative source-abbr="sī." source="sri lanka">gihībhūto</alternative>
       <alternative source-abbr="pī." source="pali text society">gihībhūto</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> kīḷi. Caturāsīti vassasahassāni oparajjaṃ kāresi. Caturāsīti vassasahassāni rajjaṃ kāresi. Caturāsīti vassasahassāni gihibhūto </snippet>
   </note>
-  <note line="219" original="brahmacariyamacari (ka.)" reference-line="67" id="22">
-    <extra></extra>
-    <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">cari</alternative>
-      <alternative source-abbr="ka." source="cambodian">brahmacariyamacari</alternative>
-    </alternatives>
+  <note reference-line="67" id="22">
+    <original>brahmacariyamacari (ka.)</original>
     <type>auto</type>
     <snippet> dhamme pāsāde brahmacariyaṃ cari </snippet>
-  </note>
-  <note line="228" original="vessāyinī (syā.), velāmikānī (ka. sī. pī.) velāmikā (saṃ. ni. 3.96)" reference-line="69" id="23">
-    <extra></extra>
+    <match>cari</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">vessinī</alternative>
-      <alternative source-abbr="syā." source="thai">vessāyinī</alternative>
-      <alternative source-abbr="ka." source="cambodian">velāmikānī</alternative>
-      <alternative source-abbr="sī." source="sri lanka">velāmikānī</alternative>
-      <alternative source-abbr="pī." source="pali text society">velāmikānī</alternative>
-      <alternative source-abbr="saṃ. ni. 3.96" source="saṃ. ni. 3.96">velāmikā</alternative>
+      <alternative source-abbr="ka." source="cambodian">brahmacariyamacari</alternative>
     </alternatives>
-    <type>auto</type>
+  </note>
+  <note reference-line="69" id="23">
+    <original>vessāyinī (syā.), velāmikānī (ka. sī. pī.) velāmikā (saṃ. ni. 3.96)</original>
+    <type>raw</type>
     <snippet> sā itthī hoti, yā tena samayena paccupaṭṭhāti khattiyānī vā vessinī </snippet>
+    <alternatives>
+    </alternatives>
   </note>
 </notes>

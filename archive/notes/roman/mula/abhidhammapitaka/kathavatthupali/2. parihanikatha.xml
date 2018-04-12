@@ -1,94 +1,108 @@
-<?xml version="1.0" encoding="utf-8"?>
 <notes archive-path="/mula/abhidhammapitaka/kathavatthupali/2. parihanikatha">
-  <note line="3" original="thīnaṃ (sī. syā. kaṃ. pī.)" reference-line="63" id="0">
-    <extra></extra>
-    <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">thinaṃ</alternative>
-      <alternative source-abbr="sī." source="sri lanka">thīnaṃ</alternative>
-      <alternative source-abbr="syā." source="thai">thīnaṃ</alternative>
-      <alternative source-abbr="kaṃ." source="kaṃ.">thīnaṃ</alternative>
-      <alternative source-abbr="pī." source="pali text society">thīnaṃ</alternative>
-    </alternatives>
+  <note reference-line="63" id="0">
+    <original>thīnaṃ (sī. syā. kaṃ. pī.)</original>
     <type>auto</type>
     <snippet>Arahato doso pahīno…pe… moho pahīno… māno pahīno… diṭṭhi pahīnā… vicikicchā pahīnā… thinaṃ </snippet>
-  </note>
-  <note line="15" original="anabhāvakato (sī.)" reference-line="93" id="1">
-    <extra></extra>
+    <match>thinaṃ</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">anabhāvaṅkato</alternative>
-      <alternative source-abbr="sī." source="sri lanka">anabhāvakato</alternative>
+      <alternative source-abbr="sī." source="sri lanka">thīnaṃ</alternative>
+      <alternative source-abbr="syā." source="thai">thīnaṃ</alternative>
+      <alternative source-abbr="kaṃ." source="kam">thīnaṃ</alternative>
+      <alternative source-abbr="pī." source="pali text society">thīnaṃ</alternative>
     </alternatives>
+  </note>
+  <note reference-line="93" id="1">
+    <original>anabhāvakato (sī.)</original>
     <type>auto</type>
     <snippet> Parihāyati arahā arahattāti? Āmantā. Nanu arahato rāgo pahīno ucchinnamūlo tālāvatthukato anabhāvaṅkato </snippet>
-  </note>
-  <note line="24" original="no vata re (syā. pī.) evamuparipi" reference-line="93" id="2">
-    <extra> evamuparipi</extra>
+    <match>anabhāvaṅkato</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">vata re</alternative>
-      <alternative source-abbr="syā." source="thai">no vata re</alternative>
-      <alternative source-abbr="pī." source="pali text society">no vata re</alternative>
+      <alternative source-abbr="sī." source="sri lanka">anabhāvakato</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> tālāvatthukato anabhāvaṅkato āyatiṃ anuppādadhammo, no ca vata re </snippet>
   </note>
-  <note line="34" original="(āmantā) (ka.)" reference-line="99" id="3">
+  <note reference-line="93" id="2">
+    <original>no vata re (syā. pī.) evamuparipi</original>
     <type>raw</type>
-  </note>
-  <note line="37" original="na parihāyatīti (ka.)" reference-line="99" id="4">
-    <extra></extra>
+    <snippet> tālāvatthukato anabhāvaṅkato āyatiṃ anuppādadhammo, no ca vata re </snippet>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">arahattā parihāyati, asamayavimutto arahā arahattā na parihāyatīti. Samayavimutto arahā arahattā parihāyatīti? Āmantā. Asamayavimutto arahā arahattā parihāyatīti</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="99" id="3">
+    <original>(āmantā) (ka.)</original>
+    <type>raw</type>
+    <snippet> Parihāyati arahā arahattāti? ( ) </snippet>
+    <alternatives>
+    </alternatives>
+  </note>
+  <note reference-line="99" id="4">
+    <original>na parihāyatīti (ka.)</original>
+    <type>no_match</type>
+    <snippet> Samayavimutto arahā arahattā parihāyati, asamayavimutto arahā arahattā na parihāyatīti. Samayavimutto arahā arahattā parihāyatīti? Āmantā. Asamayavimutto arahā arahattā parihāyatīti </snippet>
+    <alternatives>
       <alternative source-abbr="ka." source="cambodian">na parihāyatīti</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> Samayavimutto arahā arahattā parihāyati, asamayavimutto arahā arahattā na parihāyatīti. Samayavimutto arahā arahattā parihāyatīti? Āmantā. Asamayavimutto arahā arahattā parihāyatīti </snippet>
   </note>
-  <note line="46" original="mahāmoggalāno (ka.)" reference-line="112" id="5">
-    <extra></extra>
-    <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">Mahāmoggallāno</alternative>
-      <alternative source-abbr="ka." source="cambodian">mahāmoggalāno</alternative>
-    </alternatives>
+  <note reference-line="112" id="5">
+    <original>mahāmoggalāno (ka.)</original>
     <type>auto</type>
     <snippet>? Na hevaṃ vattabbe. Mahāmoggallāno </snippet>
-  </note>
-  <note line="55" original="mahākaccāno (ma. ni. 1.202 ādayo)" reference-line="112" id="6">
-    <extra></extra>
+    <match>Mahāmoggallāno</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">mahākaccāyano</alternative>
-      <alternative source-abbr="ma. ni. 1.202 ādayo" source="ma. ni. 1.202 ādayo">mahākaccāno</alternative>
+      <alternative source-abbr="ka." source="cambodian">mahāmoggalāno</alternative>
     </alternatives>
-    <type>auto</type>
+  </note>
+  <note reference-line="112" id="6">
+    <original>mahākaccāno (ma. ni. 1.202 ādayo)</original>
+    <type>raw</type>
     <snippet> thero… mahākassapo thero… mahākaccāyano </snippet>
-  </note>
-  <note line="64" original="mahākoṭṭhito (sī. syā. kaṃ. pī.)" reference-line="112" id="7">
-    <extra></extra>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">mahākoṭṭhiko</alternative>
-      <alternative source-abbr="sī." source="sri lanka">mahākoṭṭhito</alternative>
-      <alternative source-abbr="syā." source="thai">mahākoṭṭhito</alternative>
-      <alternative source-abbr="kaṃ." source="kaṃ.">mahākoṭṭhito</alternative>
-      <alternative source-abbr="pī." source="pali text society">mahākoṭṭhito</alternative>
     </alternatives>
+  </note>
+  <note reference-line="112" id="7">
+    <original>mahākoṭṭhito (sī. syā. kaṃ. pī.)</original>
     <type>auto</type>
     <snippet> thero… mahākoṭṭhiko </snippet>
-  </note>
-  <note line="76" original="paṭipādā (aṭṭha.)" reference-line="118" id="8">
-    <extra></extra>
+    <match>mahākoṭṭhiko</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">paṭipadā</alternative>
-      <alternative source-abbr="aṭṭha." source="aṭṭha.">paṭipādā</alternative>
+      <alternative source-abbr="sī." source="sri lanka">mahākoṭṭhito</alternative>
+      <alternative source-abbr="syā." source="thai">mahākoṭṭhito</alternative>
+      <alternative source-abbr="kaṃ." source="kam">mahākoṭṭhito</alternative>
+      <alternative source-abbr="pī." source="pali text society">mahākoṭṭhito</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet>Uccāvacā hi paṭipadā </snippet>
   </note>
-  <note line="85" original="su. ni. 719 suttanipāte" reference-line="119" id="9">
+  <note reference-line="118" id="8">
+    <original>paṭipādā (aṭṭha.)</original>
     <type>raw</type>
+    <snippet>‘‘Uccāvacā hi paṭipadā </snippet>
+    <alternatives>
+    </alternatives>
   </note>
-  <note line="88" original="mahāva. 244; a. ni. 6.55" reference-line="133" id="10">
+  <note reference-line="119" id="9">
+    <original>su. ni. 719 suttanipāte</original>
     <type>raw</type>
+    <snippet>Na pāraṃ diguṇaṃ yanti, nayidaṃ ekaguṇaṃ muta’’nti </snippet>
+    <alternatives>
+    </alternatives>
   </note>
-  <note line="91" original="a. ni. 5.149" reference-line="135" id="11">
-    <type>raw</type>
+  <note reference-line="133" id="10">
+    <original>mahāva. 244; a. ni. 6.55</original>
+    <type>no_match</type>
+    <snippet>Ṭhitaṃ cittaṃ vippamuttaṃ, vayaṃ cassānupassatī’’ti </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>mahāva. 244</reference>
+      <reference>a. ni. 6.55</reference>
+    </references>
+  </note>
+  <note reference-line="135" id="11">
+    <original>a. ni. 5.149</original>
+    <type>no_match</type>
+    <snippet> vattabbaṃ – ‘‘parihāyati arahā arahattā’’ti? Āmantā. Nanu vuttaṃ bhagavatā – ‘‘pañcime, bhikkhave, dhammā samayavimuttassa bhikkhuno parihānāya saṃvattanti. Katame pañca? Kammārāmatā, bhassārāmatā, niddārāmatā, saṅgaṇikārāmatā, yathāvimuttaṃ cittaṃ na paccavekkhati. Ime kho, bhikkhave, pañca dhammā samayavimuttassa bhikkhuno parihānāya saṃvattantī’’ti </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>a. ni. 5.149</reference>
+    </references>
   </note>
 </notes>

@@ -1,44 +1,40 @@
-<?xml version="1.0" encoding="utf-8"?>
 <notes archive-path="/mula/suttapitaka/khuddakanikaya/khuddakapathapali/8. nidhikandasuttam">
-  <note line="3" original="tāva sunihito (sī.)" reference-line="10" id="0">
-    <extra></extra>
+  <note reference-line="10" id="0">
+    <original>tāva sunihito (sī.)</original>
+    <type>no_match</type>
+    <snippet> Tāvassunihito </snippet>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">Tāvassunihito</alternative>
       <alternative source-abbr="sī." source="sri lanka">tāva sunihito</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> Tāvassunihito </snippet>
   </note>
-  <note line="12" original="vāpi (syā. kaṃ.)" reference-line="23" id="1">
-    <extra></extra>
-    <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">cāpi</alternative>
-      <alternative source-abbr="syā." source="thai">vāpi</alternative>
-      <alternative source-abbr="kaṃ." source="kaṃ.">vāpi</alternative>
-    </alternatives>
+  <note reference-line="23" id="1">
+    <original>vāpi (syā. kaṃ.)</original>
     <type>auto</type>
     <snippet>Mātari pitari cāpi </snippet>
-  </note>
-  <note line="22" original="susaṇṭhānasurūpatā (sī.), susaṇṭhānaṃ surūpatā (syā. kaṃ.)" reference-line="34" id="2">
-    <extra></extra>
+    <match>cāpi</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">surūpatā</alternative>
+      <alternative source-abbr="syā." source="thai">vāpi</alternative>
+      <alternative source-abbr="kaṃ." source="kam">vāpi</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="34" id="2">
+    <original>susaṇṭhānasurūpatā (sī.), susaṇṭhānaṃ surūpatā (syā. kaṃ.)</original>
+    <type>no_match</type>
+    <snippet> Suvaṇṇatā susaratā, susaṇṭhānā surūpatā </snippet>
+    <alternatives>
       <alternative source-abbr="sī." source="sri lanka">susaṇṭhānasurūpatā</alternative>
       <alternative source-abbr="syā." source="thai">susaṇṭhānaṃ surūpatā</alternative>
-      <alternative source-abbr="kaṃ." source="kaṃ.">susaṇṭhānaṃ surūpatā</alternative>
+      <alternative source-abbr="kaṃ." source="kam">susaṇṭhānaṃ surūpatā</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> Suvaṇṇatā susaratā, susaṇṭhānā surūpatā </snippet>
   </note>
-  <note line="33" original="yoniso ve (sī.), yoniso ce (syā.), yoniso ca (?)" reference-line="43" id="3">
-    <extra></extra>
+  <note reference-line="43" id="3">
+    <original>yoniso ve (sī.), yoniso ce (syā.), yoniso ca (?)</original>
+    <type>no_match</type>
+    <snippet> Mittasampadamāgamma, yonisova </snippet>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">yonisova</alternative>
       <alternative source-abbr="sī." source="sri lanka">yoniso ve</alternative>
       <alternative source-abbr="syā." source="thai">yoniso ce</alternative>
       <alternative source-abbr="?" source="unknown">yoniso ca</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> Mittasampadamāgamma, yonisova </snippet>
   </note>
 </notes>

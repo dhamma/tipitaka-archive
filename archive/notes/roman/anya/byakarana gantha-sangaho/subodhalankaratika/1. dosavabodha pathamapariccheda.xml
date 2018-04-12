@@ -1,286 +1,412 @@
-<?xml version="1.0" encoding="utf-8"?>
 <notes archive-path="/anya/byakarana gantha-sangaho/subodhalankaratika/1. dosavabodha pathamapariccheda">
-  <note line="3" original="…rādikena (ka.)" reference-line="4" id="0">
-    <extra></extra>
+  <note reference-line="4" id="0">
+    <original>…rādikena (ka.)</original>
+    <type>auto</type>
+    <snippet> pādanīrajavarodararādhitena </snippet>
+    <match>pādanīrajavarodararādhitena</match>
     <alternatives>
       <alternative source-abbr="ka." source="cambodian">…rādikena</alternative>
     </alternatives>
-    <type>no_match</type>
-    <snippet> pādanīrajavarodararādhitena </snippet>
   </note>
-  <note line="11" original="sattappasattha (ka.)" reference-line="10" id="1">
-    <extra></extra>
-    <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">Sattāpasatta</alternative>
-      <alternative source-abbr="ka." source="cambodian">sattappasattha</alternative>
-    </alternatives>
+  <note reference-line="10" id="1">
+    <original>sattappasattha (ka.)</original>
     <type>auto</type>
     <snippet>Sattāpasatta </snippet>
-  </note>
-  <note line="20" original="subodhālaṅkāra 14 gāthā" reference-line="26" id="2">
-    <type>raw</type>
-  </note>
-  <note line="23" original="subodhālaṅkāra 172 gāthā" reference-line="26" id="3">
-    <type>raw</type>
-  </note>
-  <note line="26" original="sadācārānurakkhaṇatthaṃ (ka.)" reference-line="27" id="4">
-    <extra></extra>
+    <match>Sattāpasatta</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">satācārānurakkhaṇatthaṃ</alternative>
+      <alternative source-abbr="ka." source="cambodian">sattappasattha</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="26" id="2">
+    <original>subodhālaṅkāra 14 gāthā</original>
+    <type>raw</type>
+    <snippet> niravajjā devatā. Vācā pana dosalesenāpa’samphuṭṭhāva niravajjā, tathā ca vakkhati ‘‘guṇālaṅkārasaṃyuttā’’ </snippet>
+    <alternatives>
+    </alternatives>
+  </note>
+  <note reference-line="26" id="3">
+    <original>subodhālaṅkāra 172 gāthā</original>
+    <type>raw</type>
+    <snippet> sattānaṃ paṭibhānādiguṇavisesāvahattamattena paṭisaraṇabhūtā devatā. Vācā pana sabbupaddavanivāraṇena sabbahitasukhasampadāsampādanenaccantapaṭisaraṇabhūtā. Sabhāvanapuṃsakattā cettha na liṅgaparivattanaṃ. Mayhanti ekavacanenattano nirabhimānata’māneti sajjanamācāraṃ. Abhinnapadasileso cāyaṃ, sabbatthevāvīkatasaddappayogato. Sileso cāyaṃ vaṅkavuttiyā sabbattha siriṃ poseti. Tathā ca vakkhati ‘‘vaṅkavuttīsu poseti, sileso tu siriṃ para’’nti </snippet>
+    <alternatives>
+    </alternatives>
+  </note>
+  <note reference-line="27" id="4">
+    <original>sadācārānurakkhaṇatthaṃ (ka.)</original>
+    <type>auto</type>
+    <snippet> sapiṭakattayasabbasatthapārāvataraṇena sañjātānappakapītisukhamanubhavaṃ paṭipattipaṭivedhasāsanadvayassa pariyattimūlakattā yena kenaci pariyāyena tassā pariyattiyā atthāvabodhena ‘‘appeva nāma sādhujanaṃ paritoseyya’’miti tadadhigamopāyabhūtamidaṃ pakaraṇamārabhanto ganthārambhe iṭṭhadevatāya paṇāmakaraṇaṃ satācārānurakkhaṇatthaṃ </snippet>
+    <match>satācārānurakkhaṇatthaṃ</match>
+    <alternatives>
       <alternative source-abbr="ka." source="cambodian">sadācārānurakkhaṇatthaṃ</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> sapiṭakattayasabbasatthapārāvataraṇena sañjātānappakapītisukhamanubhavaṃ paṭipattipaṭivedhasāsanadvayassa pariyattimūlakattā yena kenaci pariyāyena tassā pariyattiyā atthāvabodhena appeva nāma sādhujanaṃ paritoseyya’’miti tadadhigamopāyabhūtamidaṃ pakaraṇamārabhanto ganthārambhe iṭṭhadevatāya paṇāmakaraṇaṃ satācārānurakkhaṇatthaṃ </snippet>
   </note>
-  <note line="35" original="abhyupagametvā (ka.)" reference-line="28" id="5">
-    <extra></extra>
+  <note reference-line="28" id="5">
+    <original>abhyupagametvā (ka.)</original>
+    <type>auto</type>
+    <snippet>Puna santesu rāmasammādyalaṅkāresu piṭṭhapisanaṃ viya hotīdaṃ alaṅkārakaraṇanti vadantā viruddhavādino rāmasammādīnamatthibhāvaṃ ubbhāvetvā </snippet>
+    <match>ubbhāvetvā</match>
     <alternatives>
       <alternative source-abbr="ka." source="cambodian">abhyupagametvā</alternative>
     </alternatives>
-    <type>no_match</type>
-    <snippet>Puna santesu rāmasammādyalaṅkāresu piṭṭhapisanaṃ viya hotīdaṃ alaṅkārakaraṇanti vadantā viruddhavādino rāmasammādīnamatthibhāvaṃ ubbhāvetvā </snippet>
   </note>
-  <note line="43" original="sambandhyanuguṇopāyaṃ (ka.)" reference-line="34" id="6">
-    <extra></extra>
+  <note reference-line="34" id="6">
+    <original>sambandhyanuguṇopāyaṃ (ka.)</original>
+    <type>auto</type>
+    <snippet>‘‘Sambandhānuguṇopāyaṃ </snippet>
+    <match>‘‘Sambandhānuguṇopāyaṃ</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">Sambandhānuguṇopāyaṃ</alternative>
       <alternative source-abbr="ka." source="cambodian">sambandhyanuguṇopāyaṃ</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet>Sambandhānuguṇopāyaṃ </snippet>
   </note>
-  <note line="52" original="vīmaṃsādhikataṃ (sī.)" reference-line="35" id="7">
-    <extra></extra>
-    <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">Vīmaṃsādhigataṃ</alternative>
-      <alternative source-abbr="sī." source="sri lanka">vīmaṃsādhikataṃ</alternative>
-    </alternatives>
+  <note reference-line="35" id="7">
+    <original>vīmaṃsādhikataṃ (sī.)</original>
     <type>auto</type>
     <snippet>Vīmaṃsādhigataṃ </snippet>
+    <match>Vīmaṃsādhigataṃ</match>
+    <alternatives>
+      <alternative source-abbr="sī." source="sri lanka">vīmaṃsādhikataṃ</alternative>
+    </alternatives>
   </note>
-  <note line="61" original="…nadhikataṃ (sī.)" reference-line="35" id="8">
-    <extra></extra>
+  <note reference-line="35" id="8">
+    <original>…nadhikataṃ (sī.)</original>
+    <type>auto</type>
+    <snippet> vākya-matonadhigataṃ </snippet>
+    <match>vākya-matonadhigataṃ</match>
     <alternatives>
       <alternative source-abbr="sī." source="sri lanka">…nadhikataṃ</alternative>
     </alternatives>
-    <type>no_match</type>
-    <snippet> vākya-matonadhigataṃ </snippet>
   </note>
-  <note line="69" original="abhidhānappadīpikā 106 gāthā" reference-line="36" id="9">
+  <note reference-line="36" id="9">
+    <original>abhidhānappadīpikā 106 gāthā</original>
     <type>raw</type>
-  </note>
-  <note line="72" original="subodhālaṅkāra 104 gāthā" reference-line="40" id="10">
-    <type>raw</type>
-  </note>
-  <note line="75" original="subodhālaṅkāra 9 gāthā" reference-line="62" id="11">
-    <type>raw</type>
-  </note>
-  <note line="78" original="subodhālaṅkāra 164 gāthā" reference-line="62" id="12">
-    <type>raw</type>
-  </note>
-  <note line="81" original="subodhālaṅkāra 12 gāthā" reference-line="63" id="13">
-    <type>raw</type>
-  </note>
-  <note line="84" original="ganthavisaye (ka.)" reference-line="73" id="14">
-    <extra></extra>
+    <snippet> ‘‘ekākhyāto padaccayo, siyā vākyaṃ sakārako’’ti </snippet>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">ganthavisese</alternative>
-      <alternative source-abbr="ka." source="cambodian">ganthavisaye</alternative>
     </alternatives>
+  </note>
+  <note reference-line="40" id="10">
+    <original>subodhālaṅkāra 104 gāthā</original>
+    <type>raw</type>
+    <snippet>Tatthopadesappabhavā, sujanā kavipuṅgavā’’ti </snippet>
+    <alternatives>
+    </alternatives>
+  </note>
+  <note reference-line="62" id="11">
+    <original>subodhālaṅkāra 9 gāthā</original>
+    <type>raw</type>
+    <snippet>saddena pasādādayo saddālaṅkārā, sabhāvavutyādayo ca atthālaṅkārā nānappakārā saṅgahitā, yehi saddatthasaṅkhātaṃ bandhasarīraṃ sobhate, yathā hi purisasarīre hārakeyūrādyalaṅkāro nyasyate, yena sobhate, tathā bandhasarīrepi saddālaṅkārā, atthālaṅkārā ca nikkhipīyanti, yato sobhate. Teneva vakkhati ‘‘taṃ tu pāpentulaṅkārā, vindanīyatarattana’’nti </snippet>
+    <alternatives>
+    </alternatives>
+  </note>
+  <note reference-line="62" id="12">
+    <original>subodhālaṅkāra 164 gāthā</original>
+    <type>raw</type>
+    <snippet> ca, ‘‘atthālaṅkārasahite’’ccādikañca </snippet>
+    <alternatives>
+    </alternatives>
+  </note>
+  <note reference-line="63" id="13">
+    <original>subodhālaṅkāra 12 gāthā</original>
+    <type>raw</type>
+    <snippet>Alaṅkāravidhānabhāvena tu bandhasarīrampi tadatthiyā alaṅkāro, tathā tappaṭipādakaṃ subodhālaṅkāranāmadheyyasatthaṃ alaṅkatapaṭipādakattena maṅgalasuttanti viya. Vakkhati hi ‘‘ganthopi kavivācāna-malaṅkārappakāsako’’ </snippet>
+    <alternatives>
+    </alternatives>
+  </note>
+  <note reference-line="73" id="14">
+    <original>ganthavisaye (ka.)</original>
     <type>auto</type>
     <snippet> alaṅkāravaḷañjāpanena, ganthavisese </snippet>
+    <match>ganthavisese</match>
+    <alternatives>
+      <alternative source-abbr="ka." source="cambodian">ganthavisaye</alternative>
+    </alternatives>
   </note>
-  <note line="93" original="garūniha (ka.)" reference-line="82" id="15">
-    <extra></extra>
+  <note reference-line="82" id="15">
+    <original>garūniha (ka.)</original>
+    <type>auto</type>
+    <snippet>Kiṃ tehi pādasussūsā, yesaṃ natthi gurūnī’ha </snippet>
+    <match>gurūnī’ha</match>
     <alternatives>
       <alternative source-abbr="ka." source="cambodian">garūniha</alternative>
     </alternatives>
-    <type>no_match</type>
-    <snippet>Kiṃ tehi pādasussūsā, yesaṃ natthi gurūnī’ha </snippet>
   </note>
-  <note line="101" original="kābyādāsa 1.8" reference-line="89" id="16">
+  <note reference-line="89" id="16">
+    <original>kābyādāsa 1.8</original>
     <type>raw</type>
-  </note>
-  <note line="104" original="a. ni. 3.26" reference-line="94" id="17">
-    <type>raw</type>
-  </note>
-  <note line="107" original="kābyādāsa 1.8" reference-line="98" id="18">
-    <type>raw</type>
-  </note>
-  <note line="110" original="a. ni. 7.37" reference-line="107" id="19">
-    <type>raw</type>
-  </note>
-  <note line="113" original="a. ni. 3.26" reference-line="112" id="20">
-    <type>raw</type>
-  </note>
-  <note line="116" original="kābyādāsa 1.14 – 19 gāthā" reference-line="131" id="21">
-    <type>raw</type>
-  </note>
-  <note line="119" original="kābyādāsa 1.20" reference-line="135" id="22">
-    <type>raw</type>
-  </note>
-  <note line="122" original="kābyādāsa 1.21 22 gāthā" reference-line="140" id="23">
-    <type>raw</type>
-  </note>
-  <note line="125" original="kābyādāsa 1.103 gāthā" reference-line="146" id="24">
-    <type>raw</type>
-  </note>
-  <note line="128" original="kābyādāsa 1.104 gāthā" reference-line="151" id="25">
-    <type>raw</type>
-  </note>
-  <note line="131" original="kābyādāsa 1.104 gāthā" reference-line="157" id="26">
-    <type>raw</type>
-  </note>
-  <note line="134" original="kābyādāsa 1.14 – 19 gāthā" reference-line="171" id="27">
-    <type>raw</type>
-  </note>
-  <note line="137" original="kumārasambhava 1.1." reference-line="176" id="28">
-    <type>raw</type>
-  </note>
-  <note line="140" original="kābyappakāse dutiyaullāse āgatanyāyo’yaṃ" reference-line="191" id="29">
-    <type>raw</type>
-  </note>
-  <note line="143" original="tadatthatāya (ka.)" reference-line="192" id="30">
-    <extra></extra>
+    <snippet>Adhikāro kimandhassa, rūpabhedopaladdhiya’’nti </snippet>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">tadādhāratāya</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="94" id="17">
+    <original>a. ni. 3.26</original>
+    <type>no_match</type>
+    <snippet>Tasmā’ttano uttaritaraṃ bhajethā’’ti </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>a. ni. 3.26</reference>
+    </references>
+  </note>
+  <note reference-line="98" id="18">
+    <original>kābyādāsa 1.8</original>
+    <type>raw</type>
+    <snippet>Adhikāro kimandhassa, rūpabhedopaladdhiya’’nti </snippet>
+    <alternatives>
+    </alternatives>
+  </note>
+  <note reference-line="107" id="19">
+    <original>a. ni. 7.37</original>
+    <type>no_match</type>
+    <snippet>No cā’ṭṭhāne niyojako’’ti </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>a. ni. 7.37</reference>
+    </references>
+  </note>
+  <note reference-line="112" id="20">
+    <original>a. ni. 3.26</original>
+    <type>no_match</type>
+    <snippet>Tasmā’ttano uttaritaraṃ bhajethā’’ti </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>a. ni. 3.26</reference>
+    </references>
+  </note>
+  <note reference-line="131" id="21">
+    <original>kābyādāsa 1.14 – 19 gāthā</original>
+    <type>raw</type>
+    <snippet>Kabbaṃ kappantaraṭṭhāyi, jāyate sādhvalaṅkatī’’ti </snippet>
+    <alternatives>
+    </alternatives>
+  </note>
+  <note reference-line="135" id="22">
+    <original>kābyādāsa 1.20</original>
+    <type>raw</type>
+    <snippet>Bandhaṅgasampadā taññū, kāmamārādhayanti ce’’ti </snippet>
+    <alternatives>
+    </alternatives>
+  </note>
+  <note reference-line="140" id="23">
+    <original>kābyādāsa 1.21 22 gāthā</original>
+    <type>raw</type>
+    <snippet>Tajjayā nāyakukkaṃsa-kathanañca sukheti no’’ti </snippet>
+    <alternatives>
+    </alternatives>
+  </note>
+  <note reference-line="146" id="24">
+    <original>kābyādāsa 1.103 gāthā</original>
+    <type>raw</type>
+    <snippet>Hetu hotiha bandhane’’ti </snippet>
+    <alternatives>
+    </alternatives>
+  </note>
+  <note reference-line="151" id="25">
+    <original>kābyādāsa 1.104 gāthā</original>
+    <type>raw</type>
+    <snippet>Dhuvaṃ karotyeva kamapyanuggaha’’nti </snippet>
+    <alternatives>
+    </alternatives>
+  </note>
+  <note reference-line="157" id="26">
+    <original>kābyādāsa 1.104 gāthā</original>
+    <type>raw</type>
+    <snippet>Dhuvaṃ karotyeva kamapyanuggaha’’nti </snippet>
+    <alternatives>
+    </alternatives>
+  </note>
+  <note reference-line="171" id="27">
+    <original>kābyādāsa 1.14 – 19 gāthā</original>
+    <type>raw</type>
+    <snippet>Kabbaṃ kappantaraṭṭhāyi, jāyate sādhvalaṅkatī’’ti </snippet>
+    <alternatives>
+    </alternatives>
+  </note>
+  <note reference-line="176" id="28">
+    <original>kumārasambhava 1.1.</original>
+    <type>raw</type>
+    <snippet>Sthita? Pathijhā iva mānadaṇḍa?’’ </snippet>
+    <alternatives>
+    </alternatives>
+  </note>
+  <note reference-line="191" id="29">
+    <original>kābyappakāse dutiyaullāse āgatanyāyo’yaṃ</original>
+    <type>raw</type>
+    <snippet>‘‘Visesyaṃnābhidhā gacche, khīṇasatti visesane’’ti </snippet>
+    <alternatives>
+    </alternatives>
+  </note>
+  <note reference-line="192" id="30">
+    <original>tadatthatāya (ka.)</original>
+    <type>auto</type>
+    <snippet> upamāne upameyyamupacarīyate, yathā ‘‘go bāhiko’’ti. Katthaci abhedo tesaṃ, yathā ‘‘goyevāya’’nti. Katthaci tadādhāratāya </snippet>
+    <match>tadādhāratāya</match>
+    <alternatives>
       <alternative source-abbr="ka." source="cambodian">tadatthatāya</alternative>
     </alternatives>
+  </note>
+  <note reference-line="197" id="31">
+    <original>kābyappakāse dutiyaullāse āgatanyāyo’yaṃ</original>
+    <type>raw</type>
+    <snippet>‘‘Visesyaṃ nābhidhā gacche, khīṇasatti visesane’’ti </snippet>
+    <alternatives>
+    </alternatives>
+  </note>
+  <note reference-line="265" id="32">
+    <original>rūpabhiddhiṭīkāyaṃ nāmakaṇḍe</original>
+    <type>raw</type>
+    <snippet>Nipātakañca taññūhi, asso khalvābhidhāvatī’’ti </snippet>
+    <alternatives>
+    </alternatives>
+  </note>
+  <note reference-line="299" id="33">
+    <original>atyuttattā (ka.)</original>
     <type>auto</type>
-    <snippet> upamāne upameyyamupacarīyate, yathā go bāhiko’’ti. Katthaci abhedo tesaṃ, yathā goyevāya’’nti. Katthaci tadādhāratāya </snippet>
-  </note>
-  <note line="152" original="kābyappakāse dutiyaullāse āgatanyāyo’yaṃ" reference-line="197" id="31">
-    <type>raw</type>
-  </note>
-  <note line="155" original="rūpabhiddhiṭīkāyaṃ nāmakaṇḍe" reference-line="265" id="32">
-    <type>raw</type>
-  </note>
-  <note line="158" original="atyuttattā (ka.)" reference-line="299" id="33">
-    <extra></extra>
+    <snippet> dippati. Ettha visesyassa khajjotassa sakaladisobhāsanassa ajhatthattā </snippet>
+    <match>ajhatthattā</match>
     <alternatives>
       <alternative source-abbr="ka." source="cambodian">atyuttattā</alternative>
     </alternatives>
-    <type>no_match</type>
-    <snippet> dippati. Ettha visesyassa khajjotassa sakaladisobhāsanassa ajhatthattā </snippet>
   </note>
-  <note line="166" original="subodhālaṅkāra 127 gāthā" reference-line="320" id="34">
+  <note reference-line="320" id="34">
+    <original>subodhālaṅkāra 127 gāthā</original>
     <type>raw</type>
-  </note>
-  <note line="169" original="sambandhacinto 15 gāthā bhedacintā 194 gāthā" reference-line="345" id="35">
-    <type>raw</type>
-  </note>
-  <note line="172" original="pubbaparayugaḷadvayaṃ (ka.)" reference-line="386" id="36">
-    <extra></extra>
+    <snippet> adhivuttā punappunuccāraṇupetā anekesaṃ patirūpattā, bahuvaṇṇā sarabyañjanarūpā, na eko vaṇṇo tassānuppāsattā, tathā ca vakkhati ‘‘vaṇṇāvutti paro yathā’’ti </snippet>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">pubbaparayugaḷaṃ</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="345" id="35">
+    <original>sambandhacinto 15 gāthā bhedacintā 194 gāthā</original>
+    <type>raw</type>
+    <snippet>Kātabbā tā visesane’’ti </snippet>
+    <alternatives>
+    </alternatives>
+  </note>
+  <note reference-line="386" id="36">
+    <original>pubbaparayugaḷadvayaṃ (ka.)</original>
+    <type>auto</type>
+    <snippet>Ettha ‘‘samalaṃ samalaṃ, suciraṃ sucira’’nti visadisavaṇṇehi abyavahitattā abyapetaṃ, ‘‘samalaṃ samala’’nti pubbaparayugaḷaṃ </snippet>
+    <match>pubbaparayugaḷaṃ</match>
+    <alternatives>
       <alternative source-abbr="ka." source="cambodian">pubbaparayugaḷadvayaṃ</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet>Ettha samalaṃ samalaṃ, suciraṃ sucira’’nti visadisavaṇṇehi abyavahitattā abyapetaṃ, samalaṃ samala’’nti pubbaparayugaḷaṃ </snippet>
   </note>
-  <note line="181" original="pubbaparayugaḷadvayaṃ (ka.)" reference-line="386" id="37">
-    <extra></extra>
+  <note reference-line="386" id="37">
+    <original>pubbaparayugaḷadvayaṃ (ka.)</original>
+    <type>auto</type>
+    <snippet> ‘‘kattu’’miti bhinnavaṇṇehi, ‘‘suciraṃ sucira’’nti pubbaparayugaḷaṃ </snippet>
+    <match>pubbaparayugaḷaṃ</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">pubbaparayugaḷaṃ</alternative>
       <alternative source-abbr="ka." source="cambodian">pubbaparayugaḷadvayaṃ</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> kattu’’miti bhinnavaṇṇehi, suciraṃ sucira’’nti pubbaparayugaḷaṃ </snippet>
   </note>
-  <note line="190" original="paramabyāmohane (ka.), kābyādāsa 3.97" reference-line="452" id="38">
-    <extra>, kābyādāsa 3.97</extra>
-    <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">parabyāmohane</alternative>
-      <alternative source-abbr="ka." source="cambodian">paramabyāmohane</alternative>
-    </alternatives>
-    <type>auto</type>
+  <note reference-line="452" id="38">
+    <original>paramabyāmohane (ka.), kābyādāsa 3.97</original>
+    <type>raw</type>
     <snippet> Nanu yamakaṃ nāma kavīnaṃ sāmatthiyavisesasūcakanti tattha taṃ sopayogaṃ, paheḷikā ca sopayogā kīḷāvinodane sambādhaṭṭhānamantane parabyāmohane </snippet>
+    <alternatives>
+    </alternatives>
   </note>
-  <note line="199" original="manasoti (ka.)" reference-line="469" id="39">
-    <extra></extra>
+  <note reference-line="469" id="39">
+    <original>manasoti (ka.)</original>
+    <type>auto</type>
+    <snippet>Dosattepi cesaṃ sabbesaṃ ukkantādīsu dosabhāve nāropitabbā. Esā hi </snippet>
+    <match>hi</match>
     <alternatives>
       <alternative source-abbr="ka." source="cambodian">manasoti</alternative>
     </alternatives>
-    <type>no_match</type>
-    <snippet>Dosattepi cesaṃ sabbesaṃ ukkantādīsu dosabhāve nāropitabbā. Esā hi </snippet>
   </note>
-  <note line="207" original="subodhālaṅkāra 44 gāthā" reference-line="469" id="40">
+  <note reference-line="469" id="40">
+    <original>subodhālaṅkāra 44 gāthā</original>
     <type>raw</type>
+    <snippet> ‘‘bahuguṇe paṇamati’’ccādinā </snippet>
+    <alternatives>
+    </alternatives>
   </note>
-  <note line="210" original="subodhālaṅkāra 112 gāthā" reference-line="469" id="41">
+  <note reference-line="469" id="41">
+    <original>subodhālaṅkāra 112 gāthā</original>
     <type>raw</type>
+    <snippet> vākyasaṃkiṇṇanāmena na vuttā, pakappitā ca saṃsayadosaparihārena ‘‘yāte dutiyaṃ nilaya’’nti </snippet>
+    <alternatives>
+    </alternatives>
   </note>
-  <note line="213" original="pindapissa (ka.)" reference-line="518" id="42">
-    <extra></extra>
+  <note reference-line="518" id="42">
+    <original>pindapissa (ka.)</original>
+    <type>auto</type>
+    <snippet> mandapiya </snippet>
+    <match>mandapiya</match>
     <alternatives>
       <alternative source-abbr="ka." source="cambodian">pindapissa</alternative>
     </alternatives>
-    <type>no_match</type>
-    <snippet> mandapiya </snippet>
   </note>
-  <note line="221" original="karontomuttamavhayanti (ka.)" reference-line="552" id="43">
-    <extra></extra>
+  <note reference-line="552" id="43">
+    <original>karontomuttamavhayanti (ka.)</original>
+    <type>auto</type>
+    <snippet>Hitvā na sari so dhīro, karontopyu’yyamavhaya’’nti </snippet>
+    <match>karontopyu’yyamavhaya’’nti</match>
     <alternatives>
       <alternative source-abbr="ka." source="cambodian">karontomuttamavhayanti</alternative>
     </alternatives>
-    <type>no_match</type>
-    <snippet>Hitvā na sari so dhīro, karontopyu’yyamavhaya’’nti </snippet>
   </note>
-  <note line="229" original="duppasitanti (ka.)" reference-line="649" id="44">
-    <extra></extra>
-    <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">dūsitanti</alternative>
-      <alternative source-abbr="ka." source="cambodian">duppasitanti</alternative>
-    </alternatives>
+  <note reference-line="649" id="44">
+    <original>duppasitanti (ka.)</original>
     <type>auto</type>
     <snippet> yathāvuttagāmmadosena dūsitanti </snippet>
-  </note>
-  <note line="238" original="thanajumbhane (sī.)" reference-line="699" id="45">
-    <extra></extra>
+    <match>dūsitanti</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">thanajambhane</alternative>
-      <alternative source-abbr="sī." source="sri lanka">thanajumbhane</alternative>
+      <alternative source-abbr="ka." source="cambodian">duppasitanti</alternative>
     </alternatives>
+  </note>
+  <note reference-line="699" id="45">
+    <original>thanajumbhane (sī.)</original>
     <type>auto</type>
     <snippet>Atisambādha’mākāsa-metissā thanajambhane</snippet>
-  </note>
-  <note line="247" original="na (ka.)" reference-line="705" id="46">
-    <extra></extra>
+    <match>thanajambhane</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">vinā</alternative>
-      <alternative source-abbr="ka." source="cambodian">na</alternative>
+      <alternative source-abbr="sī." source="sri lanka">thanajumbhane</alternative>
     </alternatives>
+  </note>
+  <note reference-line="705" id="46">
+    <original>na (ka.)</original>
     <type>auto</type>
     <snippet> apagataṃ suññaṃ, vinā </snippet>
-  </note>
-  <note line="256" original="purātarehi (ka.)" reference-line="766" id="47">
-    <extra></extra>
+    <match>vinā</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">purātanehi</alternative>
+      <alternative source-abbr="ka." source="cambodian">na</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="766" id="47">
+    <original>purātarehi (ka.)</original>
+    <type>auto</type>
+    <snippet> niṭṭhāpito. Nanu ‘‘saṅkhepanayā’’ti vuttattā purātanehi </snippet>
+    <match>purātanehi</match>
+    <alternatives>
       <alternative source-abbr="ka." source="cambodian">purātarehi</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> niṭṭhāpito. Nanu saṅkhepanayā’’ti vuttattā purātanehi </snippet>
   </note>
-  <note line="265" original="(duruccāraṇaṃ)?" reference-line="771" id="48">
+  <note reference-line="771" id="48">
+    <original>(duruccāraṇaṃ)?</original>
     <type>raw</type>
-  </note>
-  <note line="268" original="dunniddatādi (ka.)" reference-line="796" id="49">
-    <extra></extra>
+    <snippet>Iccādikaṃ asāmatthyābhidheyyādikaṃ ocityahīne saṅgahitanti ca. Jigucchaasabbhasaṃsūcakaatthantarakañca gāmmaṃ duppatītikare saṅgayhatīti ca. ( ) </snippet>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">phullatādi</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="796" id="49">
+    <original>dunniddatādi (ka.)</original>
+    <type>auto</type>
+    <snippet> ‘‘asamatthābhidhāyi’’ādipadaṃ, ‘‘jigucchādittayapakāsakā’’dipadaṃ, kaṭṭhapadaṃ, paduminīnaṃ rattiyaṃ phullatādi </snippet>
+    <match>phullatādi</match>
+    <alternatives>
       <alternative source-abbr="ka." source="cambodian">dunniddatādi</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> asamatthābhidhāyi’’ādipadaṃ, jigucchādittayapakāsakā’’dipadaṃ, kaṭṭhapadaṃ, paduminīnaṃ rattiyaṃ phullatādi </snippet>
   </note>
-  <note line="277" original="imissāyeva (ka.)" reference-line="797" id="50">
-    <extra></extra>
-    <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">Imāyeva</alternative>
-      <alternative source-abbr="ka." source="cambodian">imissāyeva</alternative>
-    </alternatives>
+  <note reference-line="797" id="50">
+    <original>imissāyeva (ka.)</original>
     <type>auto</type>
     <snippet>Imāyeva </snippet>
+    <match>Imāyeva</match>
+    <alternatives>
+      <alternative source-abbr="ka." source="cambodian">imissāyeva</alternative>
+    </alternatives>
   </note>
 </notes>

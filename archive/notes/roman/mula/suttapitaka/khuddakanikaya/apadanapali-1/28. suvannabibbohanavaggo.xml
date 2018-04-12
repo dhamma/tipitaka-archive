@@ -1,81 +1,79 @@
-<?xml version="1.0" encoding="utf-8"?>
 <notes archive-path="/mula/suttapitaka/khuddakanikaya/apadanapali-1/28. suvannabibbohanavaggo">
-  <note line="3" original="bimbohanañca (sī. pī.)" reference-line="5" id="0">
-    <extra></extra>
+  <note reference-line="5" id="0">
+    <original>bimbohanañca (sī. pī.)</original>
+    <type>auto</type>
+    <snippet>Bibbohanañca </snippet>
+    <match>Bibbohanañca</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">Bibbohanañca</alternative>
       <alternative source-abbr="sī." source="sri lanka">bimbohanañca</alternative>
       <alternative source-abbr="pī." source="pali text society">bimbohanañca</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet>Bibbohanañca </snippet>
   </note>
-  <note line="13" original="khantiyo (syā.)" reference-line="28" id="1">
-    <extra></extra>
+  <note reference-line="28" id="1">
+    <original>khantiyo (syā.)</original>
+    <type>auto</type>
+    <snippet> ‘‘Ito soḷasakappamhi, tantiso </snippet>
+    <match>tantiso</match>
     <alternatives>
       <alternative source-abbr="syā." source="thai">khantiyo</alternative>
     </alternatives>
-    <type>no_match</type>
-    <snippet> Ito soḷasakappamhi, tantiso </snippet>
   </note>
-  <note line="21" original="paccuggantvāna’kāsahaṃ (aṭṭha.), paccuggamanaṃ katvāna (?)" reference-line="37" id="2">
-    <extra></extra>
-    <alternatives>
-      <alternative source-abbr="aṭṭha." source="aṭṭha.">paccuggantvāna’kāsahaṃ</alternative>
-      <alternative source-abbr="vri" source="vipassana research institut">Paccuggantvāna katvāna</alternative>
-      <alternative source-abbr="?" source="unknown">paccuggamanaṃ katvāna</alternative>
-    </alternatives>
-    <type>auto</type>
+  <note reference-line="37" id="2">
+    <original>paccuggantvāna’kāsahaṃ (aṭṭha.), paccuggamanaṃ katvāna (?)</original>
+    <type>raw</type>
     <snippet>Paccuggantvāna katvāna </snippet>
-  </note>
-  <note line="31" original="caṅgoṭaka (sī.)" reference-line="37" id="3">
-    <extra></extra>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">caṅkoṭaka</alternative>
-      <alternative source-abbr="sī." source="sri lanka">caṅgoṭaka</alternative>
     </alternatives>
+  </note>
+  <note reference-line="37" id="3">
+    <original>caṅgoṭaka (sī.)</original>
     <type>auto</type>
     <snippet>, caṅkoṭaka </snippet>
-  </note>
-  <note line="40" original="sayambhussānukampino (syā.)" reference-line="39" id="4">
-    <extra></extra>
+    <match>caṅkoṭaka</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">sabbasattānukampino</alternative>
+      <alternative source-abbr="sī." source="sri lanka">caṅgoṭaka</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="39" id="4">
+    <original>sayambhussānukampino (syā.)</original>
+    <type>auto</type>
+    <snippet> ‘‘Siddhatthassa mahesino, sabbasattānukampino </snippet>
+    <match>sabbasattānukampino</match>
+    <alternatives>
       <alternative source-abbr="syā." source="thai">sayambhussānukampino</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> Siddhatthassa mahesino, sabbasattānukampino </snippet>
   </note>
-  <note line="49" original="akakkasacittassātha (aṭṭha.)" reference-line="51" id="5">
-    <extra></extra>
-    <alternatives>
-      <alternative source-abbr="aṭṭha." source="aṭṭha.">akakkasacittassātha</alternative>
-    </alternatives>
-    <type>no_match</type>
+  <note reference-line="51" id="5">
+    <original>akakkasacittassātha (aṭṭha.)</original>
+    <type>raw</type>
     <snippet>Ākāsasamacittassa </snippet>
+    <alternatives>
+    </alternatives>
   </note>
-  <note line="57" original="ambhañjanamadāsahaṃ (syā.)" reference-line="56" id="6">
-    <extra></extra>
+  <note reference-line="56" id="6">
+    <original>ambhañjanamadāsahaṃ (syā.)</original>
+    <type>auto</type>
+    <snippet> ‘‘Aparimeyye ito kappe, abbhañjanamadaṃ tadā </snippet>
+    <match>tadā</match>
     <alternatives>
       <alternative source-abbr="syā." source="thai">ambhañjanamadāsahaṃ</alternative>
     </alternatives>
-    <type>no_match</type>
-    <snippet> Aparimeyye ito kappe, abbhañjanamadaṃ tadā </snippet>
   </note>
-  <note line="65" original="paṭijaggasanāmako; sattaratanasampanno, cakkavattī mahabbalo (syā.)" reference-line="102" id="7">
-    <extra></extra>
+  <note reference-line="102" id="7">
+    <original>paṭijaggasanāmako; sattaratanasampanno, cakkavattī mahabbalo (syā.)</original>
+    <type>no_match</type>
+    <snippet>Sattaratanasampannā, sattāsuṃ cakkavattino </snippet>
     <alternatives>
       <alternative source-abbr="syā." source="thai">paṭijaggasanāmako; sattaratanasampanno, cakkavattī mahabbalo</alternative>
     </alternatives>
-    <type>no_match</type>
-    <snippet>Sattaratanasampannā, sattāsuṃ cakkavattino </snippet>
   </note>
-  <note line="73" original="sappabho (syā.)" reference-line="123" id="8">
-    <extra></extra>
+  <note reference-line="123" id="8">
+    <original>sappabho (syā.)</original>
+    <type>auto</type>
+    <snippet> nāma nāmena, sayambhū subbato </snippet>
+    <match>subbato</match>
     <alternatives>
       <alternative source-abbr="syā." source="thai">sappabho</alternative>
     </alternatives>
-    <type>no_match</type>
-    <snippet> nāma nāmena, sayambhū subbato </snippet>
   </note>
 </notes>

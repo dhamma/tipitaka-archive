@@ -1,21 +1,18 @@
-<?xml version="1.0" encoding="utf-8"?>
 <notes archive-path="/mula/suttapitaka/khuddakanikaya/buddhavamsapali/27. gotamabuddhavamso">
-  <note line="3" original="buddho (sī.)" reference-line="3" id="0">
-    <extra></extra>
-    <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">sambuddho</alternative>
-      <alternative source-abbr="sī." source="sri lanka">buddho</alternative>
-    </alternatives>
+  <note reference-line="3" id="0">
+    <original>buddho (sī.)</original>
     <type>auto</type>
     <snippet> sambuddho </snippet>
-  </note>
-  <note line="12" original="yasabalāni (aṭṭha.)" reference-line="71" id="1">
-    <extra></extra>
+    <match>sambuddho</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">dasabalāni</alternative>
-      <alternative source-abbr="aṭṭha." source="aṭṭha.">yasabalāni</alternative>
+      <alternative source-abbr="sī." source="sri lanka">buddho</alternative>
     </alternatives>
-    <type>auto</type>
+  </note>
+  <note reference-line="71" id="1">
+    <original>yasabalāni (aṭṭha.)</original>
+    <type>raw</type>
     <snippet> Tāni ca atulatejāni, imāni ca dasabalāni </snippet>
+    <alternatives>
+    </alternatives>
   </note>
 </notes>

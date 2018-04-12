@@ -1,79 +1,84 @@
-<?xml version="1.0" encoding="utf-8"?>
 <notes archive-path="/mula/suttapitaka/anguttaranikaya/atthakadinipatapali/(10) 5. samannavaggo">
-  <note line="3" original="ettha ‘‘atha kho’’ti ca, ‘‘upāsikā’’ti ca idaṃ aṭṭhakathāyameva dissati, na pāḷipotthakesu" reference-line="2" id="0">
+  <note reference-line="2" id="0">
+    <original>ettha ‘‘atha kho’’ti ca, ‘‘upāsikā’’ti ca idaṃ aṭṭhakathāyameva dissati, na pāḷipotthakesu</original>
     <type>raw</type>
-  </note>
-  <note line="6" original="bojjhaṅgā (ka. sī.)" reference-line="2" id="1">
-    <extra></extra>
+    <snippet> kho </snippet>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">bojjhā</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="2" id="1">
+    <original>bojjhaṅgā (ka. sī.)</original>
+    <type>auto</type>
+    <snippet> bojjhā </snippet>
+    <match>bojjhā</match>
+    <alternatives>
       <alternative source-abbr="ka." source="cambodian">bojjhaṅgā</alternative>
       <alternative source-abbr="sī." source="sri lanka">bojjhaṅgā</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> bojjhā </snippet>
   </note>
-  <note line="16" original="ettha ‘‘atha kho’’ti ca, upāsikā’’ti ca idaṃ aṭṭhakathāyameva dissati, na pāḷipotthakesu" reference-line="2" id="2">
+  <note reference-line="2" id="2">
+    <original>ettha ‘‘atha kho’’ti ca, upāsikā’’ti ca idaṃ aṭṭhakathāyameva dissati, na pāḷipotthakesu</original>
     <type>raw</type>
-  </note>
-  <note line="19" original="sudhanā (sī. pī.), sudhammā (syā.)" reference-line="2" id="3">
-    <extra></extra>
+    <snippet> upāsikā </snippet>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">sutanā</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="2" id="3">
+    <original>sudhanā (sī. pī.), sudhammā (syā.)</original>
+    <type>auto</type>
+    <snippet>, sirīmā, padumā, sutanā </snippet>
+    <match>sutanā</match>
+    <alternatives>
       <alternative source-abbr="sī." source="sri lanka">sudhanā</alternative>
       <alternative source-abbr="pī." source="pali text society">sudhanā</alternative>
       <alternative source-abbr="syā." source="thai">sudhammā</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet>, sirīmā, padumā, sutanā </snippet>
   </note>
-  <note line="30" original="rūpī (sī. pī.)" reference-line="2" id="4">
-    <extra></extra>
+  <note reference-line="2" id="4">
+    <original>rūpī (sī. pī.)</original>
+    <type>auto</type>
+    <snippet>, manujā, uttarā, muttā, khemā, rucī </snippet>
+    <match>rucī</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">rucī</alternative>
       <alternative source-abbr="sī." source="sri lanka">rūpī</alternative>
       <alternative source-abbr="pī." source="pali text society">rūpī</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet>, manujā, uttarā, muttā, khemā, rucī </snippet>
   </note>
-  <note line="40" original="tissāya mātā (sī. pī.)" reference-line="2" id="5">
-    <extra></extra>
+  <note reference-line="2" id="5">
+    <original>tissāya mātā (sī. pī.)</original>
+    <type>no_match</type>
+    <snippet>, tissā, tissamātā </snippet>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">tissā, tissamātā</alternative>
       <alternative source-abbr="sī." source="sri lanka">tissāya mātā</alternative>
       <alternative source-abbr="pī." source="pali text society">tissāya mātā</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet>, tissā, tissamātā </snippet>
   </note>
-  <note line="50" original="soṇamātā (syā.)" reference-line="2" id="6">
-    <extra></extra>
-    <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">mātā</alternative>
-      <alternative source-abbr="syā." source="thai">soṇamātā</alternative>
-    </alternatives>
+  <note reference-line="2" id="6">
+    <original>soṇamātā (syā.)</original>
     <type>auto</type>
     <snippet>, soṇā, soṇāya mātā </snippet>
-  </note>
-  <note line="59" original="kāṇāya mātā (sī. pī.)" reference-line="2" id="7">
-    <extra></extra>
+    <match>mātā</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">kāṇā, kāṇamātā</alternative>
+      <alternative source-abbr="syā." source="thai">soṇamātā</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="2" id="7">
+    <original>kāṇāya mātā (sī. pī.)</original>
+    <type>no_match</type>
+    <snippet>, kāṇā, kāṇamātā </snippet>
+    <alternatives>
       <alternative source-abbr="sī." source="sri lanka">kāṇāya mātā</alternative>
       <alternative source-abbr="pī." source="pali text society">kāṇāya mātā</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet>, kāṇā, kāṇamātā </snippet>
   </note>
-  <note line="69" original="koḷiyadhītā (syā. pī.)" reference-line="2" id="8">
-    <extra></extra>
+  <note reference-line="2" id="8">
+    <original>koḷiyadhītā (syā. pī.)</original>
+    <type>auto</type>
+    <snippet>, uttarā nandamātā, visākhā migāramātā, khujjuttarā upāsikā, sāmāvatī upāsikā, suppavāsā koliyadhītā </snippet>
+    <match>koliyadhītā</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">koliyadhītā</alternative>
       <alternative source-abbr="syā." source="thai">koḷiyadhītā</alternative>
       <alternative source-abbr="pī." source="pali text society">koḷiyadhītā</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet>, uttarā nandamātā, visākhā migāramātā, khujjuttarā upāsikā, sāmāvatī upāsikā, suppavāsā koliyadhītā </snippet>
   </note>
 </notes>

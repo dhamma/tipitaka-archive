@@ -1,12 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?>
 <notes archive-path="/mula/suttapitaka/anguttaranikaya/dukanipatapali/1. kodhapeyyalam">
-  <note line="3" original="palāso (ka.)" reference-line="2" id="0">
-    <extra></extra>
-    <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">paḷāso</alternative>
-      <alternative source-abbr="ka." source="cambodian">palāso</alternative>
-    </alternatives>
+  <note reference-line="2" id="0">
+    <original>palāso (ka.)</original>
     <type>auto</type>
     <snippet>, bhikkhave, dhammā. Katame dve? Kodho ca upanāho ca…pe… makkho ca paḷāso </snippet>
+    <match>paḷāso</match>
+    <alternatives>
+      <alternative source-abbr="ka." source="cambodian">palāso</alternative>
+    </alternatives>
   </note>
 </notes>

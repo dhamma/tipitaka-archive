@@ -1,48 +1,45 @@
-<?xml version="1.0" encoding="utf-8"?>
 <notes archive-path="/mula/abhidhammapitaka/patthanapali-1/1. kusalattikam">
-  <note line="3" original="āruppe (sabbattha)" reference-line="1008" id="0">
-    <extra></extra>
-    <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">arūpe</alternative>
-      <alternative source-abbr="sabbattha" source="sabbattha">āruppe</alternative>
-    </alternatives>
-    <type>auto</type>
+  <note reference-line="1008" id="0">
+    <original>āruppe (sabbattha)</original>
+    <type>raw</type>
     <snippet> Kusalaṃ dhammaṃ saṃsaṭṭho kusalo dhammo uppajjati naadhipatipaccayā… napurejātapaccayā – arūpe </snippet>
-  </note>
-  <note line="12" original="pahīnakilese (syā.)" reference-line="1247" id="1">
-    <extra></extra>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">kilese</alternative>
-      <alternative source-abbr="syā." source="thai">pahīnakilese</alternative>
     </alternatives>
+  </note>
+  <note reference-line="1247" id="1">
+    <original>pahīnakilese (syā.)</original>
     <type>auto</type>
     <snippet> Akusalo dhammo kusalassa dhammassa ārammaṇapaccayena paccayo – sekkhā pahīne kilese </snippet>
-  </note>
-  <note line="21" original="vikkhambhitakilese (syā.)" reference-line="1247" id="2">
-    <extra></extra>
+    <match>kilese</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">kilese</alternative>
-      <alternative source-abbr="syā." source="thai">vikkhambhitakilese</alternative>
+      <alternative source-abbr="syā." source="thai">pahīnakilese</alternative>
     </alternatives>
+  </note>
+  <note reference-line="1247" id="2">
+    <original>vikkhambhitakilese (syā.)</original>
     <type>auto</type>
     <snippet> paccavekkhanti, vikkhambhite kilese </snippet>
-  </note>
-  <note line="30" original="nānākhaṇikā (ka.)" reference-line="1362" id="3">
-    <extra></extra>
+    <match>kilese</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">nānākkhaṇikā</alternative>
-      <alternative source-abbr="ka." source="cambodian">nānākhaṇikā</alternative>
+      <alternative source-abbr="syā." source="thai">vikkhambhitakilese</alternative>
     </alternatives>
+  </note>
+  <note reference-line="1362" id="3">
+    <original>nānākhaṇikā (ka.)</original>
     <type>auto</type>
     <snippet>Kusalo dhammo abyākatassa dhammassa kammapaccayena paccayo – sahajātā, nānākkhaṇikā </snippet>
-  </note>
-  <note line="39" original="nahetumūlake (syā.)" reference-line="2485" id="4">
-    <extra></extra>
+    <match>nānākkhaṇikā</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">nahetumūlakaṃ</alternative>
-      <alternative source-abbr="syā." source="thai">nahetumūlake</alternative>
+      <alternative source-abbr="ka." source="cambodian">nānākhaṇikā</alternative>
     </alternatives>
+  </note>
+  <note reference-line="2485" id="4">
+    <original>nahetumūlake (syā.)</original>
     <type>auto</type>
     <snippet> (yathā nahetumūlakaṃ </snippet>
+    <match>nahetumūlakaṃ</match>
+    <alternatives>
+      <alternative source-abbr="syā." source="thai">nahetumūlake</alternative>
+    </alternatives>
   </note>
 </notes>

@@ -1,107 +1,110 @@
-<?xml version="1.0" encoding="utf-8"?>
 <notes archive-path="/mula/vinayapitaka/pacittiyapali/7. sekhiyakandam">
-  <note line="3" original="pallattikāya (ka.)" reference-line="140" id="0">
-    <extra></extra>
-    <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">pallatthikāya</alternative>
-      <alternative source-abbr="ka." source="cambodian">pallattikāya</alternative>
-    </alternatives>
+  <note reference-line="140" id="0">
+    <original>pallattikāya (ka.)</original>
     <type>auto</type>
     <snippet> Tena samayena buddho bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena chabbaggiyā bhikkhū pallatthikāya </snippet>
-  </note>
-  <note line="12" original="atikkamantepi (sī.)" reference-line="151" id="1">
-    <extra></extra>
+    <match>pallatthikāya</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">atikkantepi</alternative>
-      <alternative source-abbr="sī." source="sri lanka">atikkamantepi</alternative>
+      <alternative source-abbr="ka." source="cambodian">pallattikāya</alternative>
     </alternatives>
+  </note>
+  <note reference-line="151" id="1">
+    <original>atikkamantepi (sī.)</original>
     <type>auto</type>
     <snippet> Tena samayena buddho bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena chabbaggiyā bhikkhū tahaṃ tahaṃ olokentā piṇḍapātaṃ paṭiggaṇhanti, ākirantepi atikkantepi </snippet>
-  </note>
-  <note line="21" original="samatitthikaṃ (ka.)" reference-line="162" id="2">
-    <extra></extra>
+    <match>atikkantepi</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">Samatittikaṃ</alternative>
-      <alternative source-abbr="ka." source="cambodian">samatitthikaṃ</alternative>
+      <alternative source-abbr="sī." source="sri lanka">atikkamantepi</alternative>
     </alternatives>
+  </note>
+  <note reference-line="162" id="2">
+    <original>samatitthikaṃ (ka.)</original>
     <type>auto</type>
-    <snippet>Samatittikaṃ</snippet>
-  </note>
-  <note line="30" original="samatitthikaṃ (ka.)" reference-line="163" id="3">
-    <extra></extra>
+    <snippet>‘‘Samatittikaṃ</snippet>
+    <match>‘‘Samatittikaṃ</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">Samatittiko</alternative>
       <alternative source-abbr="ka." source="cambodian">samatitthikaṃ</alternative>
     </alternatives>
+  </note>
+  <note reference-line="163" id="3">
+    <original>samatitthikaṃ (ka.)</original>
     <type>auto</type>
     <snippet>Samatittiko </snippet>
-  </note>
-  <note line="39" original="omadditvā (ka.)" reference-line="179" id="4">
-    <extra></extra>
+    <match>Samatittiko</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">omasitvā</alternative>
-      <alternative source-abbr="ka." source="cambodian">omadditvā</alternative>
+      <alternative source-abbr="ka." source="cambodian">samatitthikaṃ</alternative>
     </alternatives>
+  </note>
+  <note reference-line="179" id="4">
+    <original>omadditvā (ka.)</original>
     <type>auto</type>
     <snippet> Tena samayena buddho bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena chabbaggiyā bhikkhū tahaṃ tahaṃ omasitvā </snippet>
-  </note>
-  <note line="48" original="omadditvā (ka.)" reference-line="181" id="5">
-    <extra></extra>
+    <match>omasitvā</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">omasitvā</alternative>
       <alternative source-abbr="ka." source="cambodian">omadditvā</alternative>
     </alternatives>
+  </note>
+  <note reference-line="181" id="5">
+    <original>omadditvā (ka.)</original>
     <type>auto</type>
     <snippet>Sapadānaṃ piṇḍapāto bhuñjitabbo. Yo anādariyaṃ paṭicca tahaṃ tahaṃ omasitvā </snippet>
-  </note>
-  <note line="57" original="suṃsumāragire (sī. syā.), saṃsumāragire (ka.)" reference-line="296" id="6">
-    <extra></extra>
+    <match>omasitvā</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">susumāragire</alternative>
+      <alternative source-abbr="ka." source="cambodian">omadditvā</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="296" id="6">
+    <original>suṃsumāragire (sī. syā.), saṃsumāragire (ka.)</original>
+    <type>auto</type>
+    <snippet> Tena samayena buddho bhagavā bhaggesu viharati susumāragire </snippet>
+    <match>susumāragire</match>
+    <alternatives>
       <alternative source-abbr="sī." source="sri lanka">suṃsumāragire</alternative>
       <alternative source-abbr="syā." source="thai">suṃsumāragire</alternative>
       <alternative source-abbr="ka." source="cambodian">saṃsumāragire</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> Tena samayena buddho bhagavā bhaggesu viharati susumāragire </snippet>
   </note>
-  <note line="68" original="kokanude (ka.)" reference-line="296" id="7">
-    <extra></extra>
-    <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">kokanade</alternative>
-      <alternative source-abbr="ka." source="cambodian">kokanude</alternative>
-    </alternatives>
+  <note reference-line="296" id="7">
+    <original>kokanude (ka.)</original>
     <type>auto</type>
     <snippet> migadāye. Tena kho pana samayena bhikkhū kokanade </snippet>
-  </note>
-  <note line="77" original="nisinnena (aṭṭhakathā)" reference-line="376" id="8">
-    <extra></extra>
+    <match>kokanade</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">nisīditvā</alternative>
-      <alternative source-abbr="aṭṭhakathā" source="aṭṭhakathā">nisinnena</alternative>
+      <alternative source-abbr="ka." source="cambodian">kokanude</alternative>
     </alternatives>
-    <type>auto</type>
+  </note>
+  <note reference-line="376" id="8">
+    <original>nisinnena (aṭṭhakathā)</original>
+    <type>raw</type>
     <snippet>Na chamāyaṃ nisīditvā </snippet>
-  </note>
-  <note line="86" original="chavakassa (syā.)" reference-line="380" id="9">
-    <extra></extra>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">chapakassa</alternative>
-      <alternative source-abbr="syā." source="thai">chavakassa</alternative>
     </alternatives>
+  </note>
+  <note reference-line="380" id="9">
+    <original>chavakassa (syā.)</original>
     <type>auto</type>
     <snippet>, bhikkhave, bārāṇasiyaṃ aññatarassa chapakassa </snippet>
-  </note>
-  <note line="95" original="ambo (syā.)" reference-line="380" id="10">
-    <extra></extra>
+    <match>chapakassa</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">ambaṃ</alternative>
-      <alternative source-abbr="syā." source="thai">ambo</alternative>
+      <alternative source-abbr="syā." source="thai">chavakassa</alternative>
     </alternatives>
+  </note>
+  <note reference-line="380" id="10">
+    <original>ambo (syā.)</original>
     <type>auto</type>
     <snippet> pajāpati gabbhinī ahosi. Atha kho, bhikkhave, sā chapakī taṃ chapakaṃ etadavoca – ‘gabbhinīmhi, ayyaputta! Icchāmi ambaṃ khāditu’nti. ‘Natthi ambaṃ </snippet>
+    <match>ambaṃ</match>
+    <alternatives>
+      <alternative source-abbr="syā." source="thai">ambo</alternative>
+    </alternatives>
   </note>
-  <note line="104" original="imā gāthāyo jā. 1.4.33-35 jātake aññathā dissanti" reference-line="381" id="11">
+  <note reference-line="381" id="11">
+    <original>imā gāthāyo jā. 1.4.33-35 jātake aññathā dissanti</original>
     <type>raw</type>
+    <snippet>
+
+</snippet>
+    <alternatives>
+    </alternatives>
   </note>
 </notes>

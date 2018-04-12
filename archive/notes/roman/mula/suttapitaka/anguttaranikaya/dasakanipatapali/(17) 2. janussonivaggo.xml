@@ -1,271 +1,280 @@
-<?xml version="1.0" encoding="utf-8"?>
 <notes archive-path="/mula/suttapitaka/anguttaranikaya/dasakanipatapali/(17) 2. janussonivaggo">
-  <note line="3" original="a. ni. 10.117" reference-line="32" id="0">
-    <type>raw</type>
-  </note>
-  <note line="6" original="a. ni. 10.113" reference-line="59" id="1">
-    <type>raw</type>
-  </note>
-  <note line="9" original="maññetha (sī.), maññeyyātha (ka.)" reference-line="71" id="2">
-    <extra></extra>
+  <note reference-line="32" id="0">
+    <original>a. ni. 10.117</original>
+    <type>no_match</type>
+    <snippet>.</snippet>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">maññatha</alternative>
+    </alternatives>
+    <references>
+      <reference>a. ni. 10.117</reference>
+    </references>
+  </note>
+  <note reference-line="59" id="1">
+    <original>a. ni. 10.113</original>
+    <type>no_match</type>
+    <snippet>.</snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>a. ni. 10.113</reference>
+    </references>
+  </note>
+  <note reference-line="71" id="2">
+    <original>maññetha (sī.), maññeyyātha (ka.)</original>
+    <type>auto</type>
+    <snippet>‘‘Seyyathāpi, āvuso, puriso sāratthiko sāraṃ gavesī sārapariyesanaṃ caramāno mahato rukkhassa tiṭṭhato sāravato atikkammeva mūlaṃ atikkamma khandhaṃ sākhāpalāse sāraṃ pariyesitabbaṃ maññeyya. Evaṃsampadamidaṃ āyasmantānaṃ satthari sammukhībhūte taṃ bhagavantaṃ atisitvā amhe etamatthaṃ paṭipucchitabbaṃ maññatha </snippet>
+    <match>maññatha</match>
+    <alternatives>
       <alternative source-abbr="sī." source="sri lanka">maññetha</alternative>
       <alternative source-abbr="ka." source="cambodian">maññeyyātha</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet>Seyyathāpi, āvuso, puriso sāratthiko sāraṃ gavesī sārapariyesanaṃ caramāno mahato rukkhassa tiṭṭhato sāravato atikkammeva mūlaṃ atikkamma khandhaṃ sākhāpalāse sāraṃ pariyesitabbaṃ maññeyya. Evaṃsampadamidaṃ āyasmantānaṃ satthari sammukhībhūte taṃ bhagavantaṃ atisitvā amhe etamatthaṃ paṭipucchitabbaṃ maññatha </snippet>
   </note>
-  <note line="19" original="byāpādassa (sī. pī. ka.), byāpannassa (syā.)" reference-line="110" id="3">
-    <extra></extra>
+  <note reference-line="110" id="3">
+    <original>byāpādassa (sī. pī. ka.), byāpannassa (syā.)</original>
+    <type>auto</type>
+    <snippet>, bhikkhave, pisuṇāya vācāya veramaṇī parikkamanaṃ hoti. Pharusavācassa, bhikkhave, pharusāya vācāya veramaṇī parikkamanaṃ hoti. Samphappalāpissa, bhikkhave, samphappalāpā veramaṇī parikkamanaṃ hoti. Abhijjhālussa, bhikkhave, anabhijjhā parikkamanaṃ hoti. Byāpannacittassa </snippet>
+    <match>Byāpannacittassa</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">Byāpannacittassa</alternative>
       <alternative source-abbr="sī." source="sri lanka">byāpādassa</alternative>
       <alternative source-abbr="pī." source="pali text society">byāpādassa</alternative>
       <alternative source-abbr="ka." source="cambodian">byāpādassa</alternative>
       <alternative source-abbr="syā." source="thai">byāpannassa</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet>, bhikkhave, pisuṇāya vācāya veramaṇī parikkamanaṃ hoti. Pharusavācassa, bhikkhave, pharusāya vācāya veramaṇī parikkamanaṃ hoti. Samphappalāpissa, bhikkhave, samphappalāpā veramaṇī parikkamanaṃ hoti. Abhijjhālussa, bhikkhave, anabhijjhā parikkamanaṃ hoti. Byāpannacittassa </snippet>
   </note>
-  <note line="31" original="campāyaṃ (ka. sī.) dī. ni. 2.189 passitabbaṃ" reference-line="112" id="4">
-    <extra> dī. ni. 2.189 passitabbaṃ</extra>
-    <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">pāvāyaṃ</alternative>
-      <alternative source-abbr="ka." source="cambodian">campāyaṃ</alternative>
-      <alternative source-abbr="sī." source="sri lanka">campāyaṃ</alternative>
-    </alternatives>
-    <type>auto</type>
+  <note reference-line="112" id="4">
+    <original>campāyaṃ (ka. sī.) dī. ni. 2.189 passitabbaṃ</original>
+    <type>raw</type>
     <snippet> samayaṃ bhagavā pāvāyaṃ </snippet>
-  </note>
-  <note line="41" original="sevālamālakā (sī. syā. pī.)" reference-line="112" id="5">
-    <extra></extra>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">sevālamālikā</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="112" id="5">
+    <original>sevālamālakā (sī. syā. pī.)</original>
+    <type>auto</type>
+    <snippet> nisinnaṃ kho cundaṃ kammāraputtaṃ bhagavā etadavoca – ‘‘kassa no tvaṃ, cunda, soceyyāni rocesī’’ti? ‘‘Brāhmaṇā, bhante, pacchābhūmakā kamaṇḍalukā sevālamālikā </snippet>
+    <match>sevālamālikā</match>
+    <alternatives>
       <alternative source-abbr="sī." source="sri lanka">sevālamālakā</alternative>
       <alternative source-abbr="syā." source="thai">sevālamālakā</alternative>
       <alternative source-abbr="pī." source="pali text society">sevālamālakā</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> nisinnaṃ kho cundaṃ kammāraputtaṃ bhagavā etadavoca – kassa no tvaṃ, cunda, soceyyāni rocesī’’ti? Brāhmaṇā, bhante, pacchābhūmakā kamaṇḍalukā sevālamālikā </snippet>
   </note>
-  <note line="52" original="sāvake (syā. ka.)" reference-line="113" id="6">
-    <extra></extra>
+  <note reference-line="113" id="6">
+    <original>sāvake (syā. ka.)</original>
+    <type>auto</type>
+    <snippet>‘‘Yathā kathaṃ pana, cunda, brāhmaṇā pacchābhūmakā kamaṇḍalukā sevālamālikā aggiparicārikā udakorohakā soceyyāni paññapentī’’ti? ‘‘Idha, bhante, brāhmaṇā pacchābhūmakā kamaṇḍalukā sevālamālikā aggiparicārikā udakorohakā. Te sāvakaṃ </snippet>
+    <match>sāvakaṃ</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">sāvakaṃ</alternative>
       <alternative source-abbr="syā." source="thai">sāvake</alternative>
       <alternative source-abbr="ka." source="cambodian">sāvake</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet>Yathā kathaṃ pana, cunda, brāhmaṇā pacchābhūmakā kamaṇḍalukā sevālamālikā aggiparicārikā udakorohakā soceyyāni paññapentī’’ti? Idha, bhante, brāhmaṇā pacchābhūmakā kamaṇḍalukā sevālamālikā aggiparicārikā udakorohakā. Te sāvakaṃ </snippet>
   </note>
-  <note line="62" original="sakālasseva (syā.)" reference-line="113" id="7">
-    <extra></extra>
-    <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">kālasseva</alternative>
-      <alternative source-abbr="syā." source="thai">sakālasseva</alternative>
-    </alternatives>
+  <note reference-line="113" id="7">
+    <original>sakālasseva (syā.)</original>
     <type>auto</type>
     <snippet> evaṃ samādapenti – ‘ehi tvaṃ, ambho purisa, kālasseva </snippet>
-  </note>
-  <note line="71" original="uṭṭhahanto (syā.), vuṭṭhahantova (pī. ka.)" reference-line="113" id="8">
-    <extra></extra>
+    <match>kālasseva</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">uṭṭhahantova</alternative>
+      <alternative source-abbr="syā." source="thai">sakālasseva</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="113" id="8">
+    <original>uṭṭhahanto (syā.), vuṭṭhahantova (pī. ka.)</original>
+    <type>auto</type>
+    <snippet> uṭṭhahantova </snippet>
+    <match>uṭṭhahantova</match>
+    <alternatives>
       <alternative source-abbr="syā." source="thai">uṭṭhahanto</alternative>
       <alternative source-abbr="pī." source="pali text society">vuṭṭhahantova</alternative>
       <alternative source-abbr="ka." source="cambodian">vuṭṭhahantova</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> uṭṭhahantova </snippet>
   </note>
-  <note line="82" original="pāṇabhūtesu (ka.)" reference-line="117" id="9">
-    <extra></extra>
+  <note reference-line="117" id="9">
+    <original>pāṇabhūtesu (ka.)</original>
+    <type>auto</type>
+    <snippet>‘‘Kathañca, cunda, tividhaṃ kāyena asoceyyaṃ hoti? ‘‘Idha, cunda, ekacco pāṇātipātī hoti luddo lohitapāṇi hatapahate niviṭṭho adayāpanno sabbapāṇabhūtesu </snippet>
+    <match>sabbapāṇabhūtesu</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">sabbapāṇabhūtesu</alternative>
       <alternative source-abbr="ka." source="cambodian">pāṇabhūtesu</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet>Kathañca, cunda, tividhaṃ kāyena asoceyyaṃ hoti? Idha, cunda, ekacco pāṇātipātī hoti luddo lohitapāṇi hatapahate niviṭṭho adayāpanno sabbapāṇabhūtesu </snippet>
   </note>
-  <note line="91" original="natthi sī. syā. pī. potthakesu" reference-line="119" id="10">
+  <note reference-line="119" id="10">
+    <original>natthi sī. syā. pī. potthakesu</original>
     <type>raw</type>
-  </note>
-  <note line="94" original="natthi sī. syā. pī. potthakesu" reference-line="119" id="11">
-    <type>raw</type>
-  </note>
-  <note line="97" original="so ajānaṃ vā ahaṃ jānāmīti, jānaṃ vā ahaṃ na jānāmīti, apassaṃ vā ahaṃ passāmīti, passaṃ vā ahaṃ na passāmīti (pī. ka.) evamuparipi" reference-line="120" id="12">
-    <extra> evamuparipi</extra>
+    <snippet>‘‘Kāmesumicchācārī hoti. Yā tā māturakkhitā piturakkhitā mātāpiturakkhitā </snippet>
     <alternatives>
-      <alternative source-abbr="pī." source="pali text society">so ajānaṃ vā ahaṃ jānāmīti, jānaṃ vā ahaṃ na jānāmīti, apassaṃ vā ahaṃ passāmīti, passaṃ vā ahaṃ na passāmīti</alternative>
-      <alternative source-abbr="ka." source="cambodian">so ajānaṃ vā ahaṃ jānāmīti, jānaṃ vā ahaṃ na jānāmīti, apassaṃ vā ahaṃ passāmīti, passaṃ vā ahaṃ na passāmīti</alternative>
     </alternatives>
-    <type>no_match</type>
+  </note>
+  <note reference-line="119" id="11">
+    <original>natthi sī. syā. pī. potthakesu</original>
+    <type>raw</type>
+    <snippet> bhāturakkhitā bhaginirakkhitā ñātirakkhitā gottarakkhitā </snippet>
+    <alternatives>
+    </alternatives>
+  </note>
+  <note reference-line="120" id="12">
+    <original>so ajānaṃ vā ahaṃ jānāmīti, jānaṃ vā ahaṃ na jānāmīti, apassaṃ vā ahaṃ passāmīti, passaṃ vā ahaṃ na passāmīti (pī. ka.) evamuparipi</original>
+    <type>raw</type>
     <snippet> purisa, yaṃ jānāsi taṃ vadehī’ti </snippet>
-  </note>
-  <note line="106" original="so ajānaṃ vā ahaṃ jānāmīti, jānaṃ vā ahaṃ na jānāmīti, apassaṃ vā ahaṃ passāmīti, passaṃ vā ahaṃ na passāmīti (pī. ka.) evamuparipi" reference-line="120" id="13">
-    <extra> evamuparipi</extra>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">apassaṃ vā āha ‘passāmī’ti, passaṃ vā āha ‘na passāmī’ti</alternative>
-      <alternative source-abbr="pī." source="pali text society">so ajānaṃ vā ahaṃ jānāmīti, jānaṃ vā ahaṃ na jānāmīti, apassaṃ vā ahaṃ passāmīti, passaṃ vā ahaṃ na passāmīti</alternative>
-      <alternative source-abbr="ka." source="cambodian">so ajānaṃ vā ahaṃ jānāmīti, jānaṃ vā ahaṃ na jānāmīti, apassaṃ vā ahaṃ passāmīti, passaṃ vā ahaṃ na passāmīti</alternative>
     </alternatives>
-    <type>auto</type>
+  </note>
+  <note reference-line="120" id="13">
+    <original>so ajānaṃ vā ahaṃ jānāmīti, jānaṃ vā ahaṃ na jānāmīti, apassaṃ vā ahaṃ passāmīti, passaṃ vā ahaṃ na passāmīti (pī. ka.) evamuparipi</original>
+    <type>raw</type>
     <snippet>, so ajānaṃ vā āha ‘jānāmī’ti, jānaṃ vā āha ‘na jānāmī’ti; apassaṃ vā āha ‘passāmī’ti, passaṃ vā āha ‘na passāmī’ti </snippet>
-  </note>
-  <note line="116" original="bhedātā (ka.)" reference-line="121" id="14">
-    <extra></extra>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">bhettā</alternative>
-      <alternative source-abbr="ka." source="cambodian">bhedātā</alternative>
     </alternatives>
+  </note>
+  <note reference-line="121" id="14">
+    <original>bhedātā (ka.)</original>
     <type>auto</type>
     <snippet> akkhātā amūsaṃ bhedāya. Iti samaggānaṃ vā bhettā </snippet>
-  </note>
-  <note line="125" original="abhijjhitā (ka.) ma. ni. 1.440 passitabbaṃ" reference-line="124" id="15">
-    <extra> ma. ni. 1.440 passitabbaṃ</extra>
+    <match>bhettā</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">abhijjhātā</alternative>
-      <alternative source-abbr="ka." source="cambodian">abhijjhitā</alternative>
+      <alternative source-abbr="ka." source="cambodian">bhedātā</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet>Kathañca, cunda, tividhaṃ manasā asoceyyaṃ hoti? Idha, cunda, ekacco abhijjhālu hoti. Yaṃ taṃ parassa paravittūpakaraṇaṃ taṃ abhijjhātā </snippet>
   </note>
-  <note line="134" original="mā vā ahesuṃ iti vā ti (sī. pī. ka.)" reference-line="125" id="16">
-    <extra></extra>
+  <note reference-line="124" id="15">
+    <original>abhijjhitā (ka.) ma. ni. 1.440 passitabbaṃ</original>
+    <type>raw</type>
+    <snippet>‘‘Kathañca, cunda, tividhaṃ manasā asoceyyaṃ hoti? Idha, cunda, ekacco abhijjhālu hoti. Yaṃ taṃ parassa paravittūpakaraṇaṃ taṃ abhijjhātā </snippet>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">vā bajjhantu vā ucchijjantu vā vinassantu vā mā vā ahesu’nti</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="125" id="16">
+    <original>mā vā ahesuṃ iti vā ti (sī. pī. ka.)</original>
+    <type>no_match</type>
+    <snippet>‘‘Byāpannacitto hoti paduṭṭhamanasaṅkappo – ‘ime sattā haññantu vā bajjhantu vā ucchijjantu vā vinassantu vā mā vā ahesu’nti </snippet>
+    <alternatives>
       <alternative source-abbr="sī." source="sri lanka">mā vā ahesuṃ iti vā ti</alternative>
       <alternative source-abbr="pī." source="pali text society">mā vā ahesuṃ iti vā ti</alternative>
       <alternative source-abbr="ka." source="cambodian">mā vā ahesuṃ iti vā ti</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet>Byāpannacitto hoti paduṭṭhamanasaṅkappo – ‘ime sattā haññantu vā bajjhantu vā ucchijjantu vā vinassantu vā mā vā ahesu’nti </snippet>
   </note>
-  <note line="145" original="natthettha pāṭhabhedo" reference-line="126" id="17">
+  <note reference-line="126" id="17">
+    <original>natthettha pāṭhabhedo</original>
     <type>raw</type>
-  </note>
-  <note line="148" original="akusalā kammapathā (?)" reference-line="127" id="18">
-    <extra></extra>
+    <snippet>‘‘Micchādiṭṭhiko hoti viparītadassano – ‘natthi dinnaṃ, natthi yiṭṭhaṃ, natthi hutaṃ, natthi sukaṭadukkaṭānaṃ </snippet>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">akusalakammapathā</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="127" id="18">
+    <original>akusalā kammapathā (?)</original>
+    <type>no_match</type>
+    <snippet> kho, cunda, dasa akusalakammapathā </snippet>
+    <alternatives>
       <alternative source-abbr="?" source="unknown">akusalā kammapathā</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> kho, cunda, dasa akusalakammapathā </snippet>
   </note>
-  <note line="157" original="asucicceva (syā.)" reference-line="132" id="19">
-    <extra></extra>
+  <note reference-line="132" id="19">
+    <original>asucicceva (syā.)</original>
+    <type>auto</type>
+    <snippet>‘‘Sāyatatiyakaṃ cepi udakaṃ orohati, asuciyeva hoti; no cepi sāyatatiyakaṃ udakaṃ orohati, asuciyeva hoti. Taṃ kissa hetu? Ime, cunda, dasa akusalakammapathā asucīyeva </snippet>
+    <match>asucīyeva</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">asucīyeva</alternative>
       <alternative source-abbr="syā." source="thai">asucicceva</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet>Sāyatatiyakaṃ cepi udakaṃ orohati, asuciyeva hoti; no cepi sāyatatiyakaṃ udakaṃ orohati, asuciyeva hoti. Taṃ kissa hetu? Ime, cunda, dasa akusalakammapathā asucīyeva </snippet>
   </note>
-  <note line="166" original="yā ca (ka.)" reference-line="133" id="20">
-    <extra></extra>
+  <note reference-line="133" id="20">
+    <original>yā ca (ka.)</original>
+    <type>no_match</type>
+    <snippet>‘‘Imesaṃ pana, cunda, dasannaṃ akusalānaṃ kammapathānaṃ samannāgamanahetu nirayo paññāyati, tiracchānayoni paññāyati, pettivisayo paññāyati, yā vā </snippet>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">yā vā</alternative>
       <alternative source-abbr="ka." source="cambodian">yā ca</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet>Imesaṃ pana, cunda, dasannaṃ akusalānaṃ kammapathānaṃ samannāgamanahetu nirayo paññāyati, tiracchānayoni paññāyati, pettivisayo paññāyati, yā vā </snippet>
   </note>
-  <note line="175" original="duggati hoti (syā. ka.)" reference-line="133" id="21">
-    <extra></extra>
+  <note reference-line="133" id="21">
+    <original>duggati hoti (syā. ka.)</original>
+    <type>no_match</type>
+    <snippet> panaññāpi kāci duggatiyo </snippet>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">duggatiyo</alternative>
       <alternative source-abbr="syā." source="thai">duggati hoti</alternative>
       <alternative source-abbr="ka." source="cambodian">duggati hoti</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> panaññāpi kāci duggatiyo </snippet>
   </note>
-  <note line="185" original="taṃ nādinnaṃ (ka. sī., ma. ni. 1.441)" reference-line="136" id="22">
-    <extra></extra>
-    <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">taṃ parassa paravittūpakaraṇaṃ gāmagataṃ vā araññagataṃ vā, na taṃ adinnaṃ</alternative>
-      <alternative source-abbr="ka." source="cambodian">taṃ nādinnaṃ</alternative>
-      <alternative source-abbr="sī." source="sri lanka">taṃ nādinnaṃ</alternative>
-      <alternative source-abbr="ma." source="ma.">taṃ nādinnaṃ</alternative>
-      <alternative source-abbr="ni." source="ni.">taṃ nādinnaṃ</alternative>
-      <alternative source-abbr="1.441" source="1.441">taṃ nādinnaṃ</alternative>
-    </alternatives>
-    <type>auto</type>
-    <snippet> pahāya, adinnādānā paṭivirato hoti. Yaṃ taṃ parassa paravittūpakaraṇaṃ gāmagataṃ vā araññagataṃ vā, na taṃ adinnaṃ </snippet>
-  </note>
-  <note line="198" original="idaṃ padaṃ sī. syā. pī. potthakesu natthi, tathā ma. ni. 1.441" reference-line="143" id="23">
+  <note reference-line="136" id="22">
+    <original>taṃ nādinnaṃ (ka. sī., ma. ni. 1.441)</original>
     <type>raw</type>
-  </note>
-  <note line="201" original="sugati hotīti (syā.), sugati hoti (ka.)" reference-line="151" id="24">
-    <extra></extra>
+    <snippet> pahāya, adinnādānā paṭivirato hoti. Yaṃ taṃ parassa paravittūpakaraṇaṃ gāmagataṃ vā araññagataṃ vā, na taṃ adinnaṃ </snippet>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">pana, cunda, dasannaṃ kusalānaṃ kammapathānaṃ samannāgamanahetu devā paññāyanti, manussā paññāyanti, yā vā panaññāpi kāci sugatiyo’’ti</alternative>
-      <alternative source-abbr="syā." source="thai">sugati hotī’’ti</alternative>
-      <alternative source-abbr="ka." source="cambodian">sugati ho’’ti</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> pana, cunda, dasannaṃ kusalānaṃ kammapathānaṃ samannāgamanahetu devā paññāyanti, manussā paññāyanti, yā vā panaññāpi kāci sugatiyo’’ti </snippet>
   </note>
-  <note line="211" original="katamañca pana bho (sī. pī.) katamaṃ (syā.)" reference-line="156" id="25">
-    <extra></extra>
+  <note reference-line="143" id="23">
+    <original>idaṃ padaṃ sī. syā. pī. potthakesu natthi, tathā ma. ni. 1.441</original>
+    <type>raw</type>
+    <snippet>‘‘Abyāpannacitto hoti appaduṭṭhamanasaṅkappo – ‘ime sattā averā hontu </snippet>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">pana, bho</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="151" id="24">
+    <original>sugati hotīti (syā.), sugati hoti (ka.)</original>
+    <type>no_match</type>
+    <snippet> pana, cunda, dasannaṃ kusalānaṃ kammapathānaṃ samannāgamanahetu devā paññāyanti, manussā paññāyanti, yā vā panaññāpi kāci sugatiyo’’ti </snippet>
+    <alternatives>
+      <alternative source-abbr="syā." source="thai">sugati hotīti</alternative>
+      <alternative source-abbr="ka." source="cambodian">sugati hoti</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="156" id="25">
+    <original>katamañca pana bho (sī. pī.) katamaṃ (syā.)</original>
+    <type>no_match</type>
+    <snippet> pana, bho </snippet>
+    <alternatives>
       <alternative source-abbr="sī." source="sri lanka">katamañca pana bho</alternative>
       <alternative source-abbr="pī." source="pali text society">katamañca pana bho</alternative>
       <alternative source-abbr="syā." source="thai">katamaṃ</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> pana, bho </snippet>
   </note>
-  <note line="222" original="idaṃ (syā.)" reference-line="156" id="26">
-    <extra></extra>
-    <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">Idampi</alternative>
-      <alternative source-abbr="syā." source="thai">idaṃ</alternative>
-    </alternatives>
+  <note reference-line="156" id="26">
+    <original>idaṃ (syā.)</original>
     <type>auto</type>
     <snippet> hoti. So kāyassa bhedā paraṃ maraṇā nirayaṃ upapajjati. Yo nerayikānaṃ sattānaṃ āhāro, tena so tattha yāpeti, tena so tattha tiṭṭhati. Idampi </snippet>
-  </note>
-  <note line="231" original="mittā vā amaccā vā ñātī vā sālohitā vā (sī. pī.)" reference-line="160" id="27">
-    <extra></extra>
+    <match>Idampi</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">vā ñātisālohitā vā</alternative>
+      <alternative source-abbr="syā." source="thai">idaṃ</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="160" id="27">
+    <original>mittā vā amaccā vā ñātī vā sālohitā vā (sī. pī.)</original>
+    <type>no_match</type>
+    <snippet> vā ñātisālohitā vā </snippet>
+    <alternatives>
       <alternative source-abbr="sī." source="sri lanka">mittā vā amaccā vā ñātī vā sālohitā vā</alternative>
       <alternative source-abbr="pī." source="pali text society">mittā vā amaccā vā ñātī vā sālohitā vā</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> vā ñātisālohitā vā </snippet>
   </note>
-  <note line="241" original="mālāgandhavilepanassa nānālaṅkārassa (ka.)" reference-line="163" id="28">
-    <extra></extra>
+  <note reference-line="163" id="28">
+    <original>mālāgandhavilepanassa nānālaṅkārassa (ka.)</original>
+    <type>no_match</type>
+    <snippet> yānaṃ mālāgandhavilepanaṃ seyyāvasathapadīpeyyaṃ. So kāyassa bhedā paraṃ maraṇā hatthīnaṃ sahabyataṃ upapajjati. So tattha lābhī hoti annassa pānassa mālānānālaṅkārassa </snippet>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">pānassa mālānānālaṅkārassa</alternative>
       <alternative source-abbr="ka." source="cambodian">mālāgandhavilepanassa nānālaṅkārassa</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> yānaṃ mālāgandhavilepanaṃ seyyāvasathapadīpeyyaṃ. So kāyassa bhedā paraṃ maraṇā hatthīnaṃ sahabyataṃ upapajjati. So tattha lābhī hoti annassa pānassa mālānānālaṅkārassa </snippet>
   </note>
-  <note line="250" original="‘‘kukkurānaṃ sahabyataṃ upapajjatī’’ti ayaṃ vāro kesuci sīhaḷapotthakesu na dissatīti iṅgalisapotthake adholipi. taṃ dasavāragaṇanāya sameti" reference-line="165" id="29">
+  <note reference-line="165" id="29">
+    <original>‘‘kukkurānaṃ sahabyataṃ upapajjatī’’ti ayaṃ vāro kesuci sīhaḷapotthakesu na dissatīti iṅgalisapotthake adholipi. taṃ dasavāragaṇanāya sameti</original>
     <type>raw</type>
-  </note>
-  <note line="253" original="evametaṃ brāhmaṇa evametaṃ brāhmaṇa (sī. syā.)" reference-line="171" id="30">
-    <extra></extra>
+    <snippet> hoti samaṇassa vā brāhmaṇassa vā annaṃ pānaṃ vatthaṃ yānaṃ mālāgandhavilepanaṃ seyyāvasathapadīpeyyaṃ. So kāyassa bhedā paraṃ maraṇā assānaṃ sahabyataṃ upapajjati…pe… gunnaṃ sahabyataṃ upapajjati…pe… kukkurānaṃ sahabyataṃ upapajjati </snippet>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">Evametaṃ, brāhmaṇa</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="171" id="30">
+    <original>evametaṃ brāhmaṇa evametaṃ brāhmaṇa (sī. syā.)</original>
+    <type>no_match</type>
+    <snippet> anipphalo’’ti. ‘‘Evametaṃ, brāhmaṇa </snippet>
+    <alternatives>
       <alternative source-abbr="sī." source="sri lanka">evametaṃ brāhmaṇa evametaṃ brāhmaṇa</alternative>
       <alternative source-abbr="syā." source="thai">evametaṃ brāhmaṇa evametaṃ brāhmaṇa</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> anipphalo’’ti. Evametaṃ, brāhmaṇa </snippet>
   </note>
-  <note line="263" original="yamakavaggo (ka.)" reference-line="173" id="31">
-    <extra></extra>
+  <note reference-line="173" id="31">
+    <original>yamakavaggo (ka.)</original>
+    <type>auto</type>
+    <snippet>Jāṇussoṇivaggo </snippet>
+    <match>Jāṇussoṇivaggo</match>
     <alternatives>
       <alternative source-abbr="ka." source="cambodian">yamakavaggo</alternative>
     </alternatives>
-    <type>no_match</type>
-    <snippet>Jāṇussoṇivaggo </snippet>
   </note>
 </notes>

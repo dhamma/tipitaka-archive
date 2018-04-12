@@ -1,83 +1,109 @@
-<?xml version="1.0" encoding="utf-8"?>
 <notes archive-path="/mula/suttapitaka/anguttaranikaya/ekadasakanipatapali/1. nissayavaggo">
-  <note line="3" original="a. ni. 10.1" reference-line="6" id="0">
-    <type>raw</type>
-  </note>
-  <note line="6" original="a. ni. 10.2" reference-line="18" id="1">
-    <type>raw</type>
-  </note>
-  <note line="9" original="a. ni. 5.24; 10.3" reference-line="30" id="2">
-    <type>raw</type>
-  </note>
-  <note line="12" original="bhikkhavoti (sī. syā. pī.) evaṃ sabbattha a. ni. 10.4" reference-line="35" id="3">
-    <extra> evaṃ sabbattha a. ni. 10.4</extra>
+  <note reference-line="6" id="0">
+    <original>a. ni. 10.1</original>
+    <type>no_match</type>
+    <snippet>.</snippet>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">bhikkhave’’ti</alternative>
-      <alternative source-abbr="sī." source="sri lanka">bhikkhavo’’ti</alternative>
-      <alternative source-abbr="syā." source="thai">bhikkhavo’’ti</alternative>
-      <alternative source-abbr="pī." source="pali text society">bhikkhavo’’ti</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> kho āyasmā sāriputto bhikkhū āmantesi – āvuso bhikkhave’’ti </snippet>
+    <references>
+      <reference>a. ni. 10.1</reference>
+    </references>
   </note>
-  <note line="23" original="a. ni. 10.5" reference-line="41" id="4">
-    <type>raw</type>
-  </note>
-  <note line="26" original="( ) etthantare pāṭho sī. syā. kaṃ. pī. potthakesu na dissati" reference-line="47" id="5">
-    <type>raw</type>
-  </note>
-  <note line="29" original="ājānīyajjhāyitaṃ kho saddha jhāyatha, mā khaḷuṅkajjhāyitaṃ (sī. pī.)" reference-line="69" id="6">
-    <extra></extra>
+  <note reference-line="18" id="1">
+    <original>a. ni. 10.2</original>
+    <type>no_match</type>
+    <snippet>.</snippet>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">mā khaḷuṅkajhāyitaṃ</alternative>
+    </alternatives>
+    <references>
+      <reference>a. ni. 10.2</reference>
+    </references>
+  </note>
+  <note reference-line="30" id="2">
+    <original>a. ni. 5.24; 10.3</original>
+    <type>raw</type>
+    <snippet>.</snippet>
+    <alternatives>
+    </alternatives>
+  </note>
+  <note reference-line="35" id="3">
+    <original>bhikkhavoti (sī. syā. pī.) evaṃ sabbattha a. ni. 10.4</original>
+    <type>raw</type>
+    <snippet> kho āyasmā sāriputto bhikkhū āmantesi – ‘‘āvuso bhikkhave’’ti </snippet>
+    <alternatives>
+    </alternatives>
+  </note>
+  <note reference-line="41" id="4">
+    <original>a. ni. 10.5</original>
+    <type>no_match</type>
+    <snippet>.</snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>a. ni. 10.5</reference>
+    </references>
+  </note>
+  <note reference-line="47" id="5">
+    <original>( ) etthantare pāṭho sī. syā. kaṃ. pī. potthakesu na dissati</original>
+    <type>raw</type>
+    <snippet> āpattiṃ āpajjati, sikkhaṃ vā paccakkhāya hīnāyāvattati, gāḷhaṃ vā rogātaṅkaṃ phusati, ummādaṃ vā pāpuṇāti cittakkhepaṃ vā, sammūḷho kālaṃ karoti, kāyassa bhedā paraṃ maraṇā apāyaṃ duggatiṃ vinipātaṃ nirayaṃ upapajjati – yo so, bhikkhave, bhikkhu akkosako paribhāsako ariyūpavādo sabrahmacārīnaṃ, ṭhānametaṃ avakāso yaṃ so imesaṃ ekādasannaṃ byasanānaṃ aññataraṃ byasanaṃ nigaccheyya. </snippet>
+    <alternatives>
+    </alternatives>
+  </note>
+  <note reference-line="69" id="6">
+    <original>ājānīyajjhāyitaṃ kho saddha jhāyatha, mā khaḷuṅkajjhāyitaṃ (sī. pī.)</original>
+    <type>no_match</type>
+    <snippet>‘‘Ājānīyajhāyitaṃ kho, saddha, jhāya; mā khaḷuṅkajhāyitaṃ </snippet>
+    <alternatives>
       <alternative source-abbr="sī." source="sri lanka">ājānīyajjhāyitaṃ kho saddha jhāyatha, mā khaḷuṅkajjhāyitaṃ</alternative>
       <alternative source-abbr="pī." source="pali text society">ājānīyajjhāyitaṃ kho saddha jhāyatha, mā khaḷuṅkajjhāyitaṃ</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet>Ājānīyajhāyitaṃ kho, saddha, jhāya; mā khaḷuṅkajhāyitaṃ </snippet>
   </note>
-  <note line="39" original="bandho (syā. ka.)" reference-line="69" id="7">
-    <extra></extra>
+  <note reference-line="69" id="7">
+    <original>bandho (syā. ka.)</original>
+    <type>auto</type>
+    <snippet>, saddha, doṇiyā baddho </snippet>
+    <match>baddho</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">baddho</alternative>
       <alternative source-abbr="syā." source="thai">bandho</alternative>
       <alternative source-abbr="ka." source="cambodian">bandho</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet>, saddha, doṇiyā baddho </snippet>
   </note>
-  <note line="49" original="kammassāhaṃ (ka.)" reference-line="69" id="8">
-    <extra></extra>
-    <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">kimassāhaṃ</alternative>
-      <alternative source-abbr="ka." source="cambodian">kammassāhaṃ</alternative>
-    </alternatives>
+  <note reference-line="69" id="8">
+    <original>kammassāhaṃ (ka.)</original>
     <type>auto</type>
     <snippet> ‘yavasaṃ yavasa’nti jhāyati. Taṃ kissa hetu? Na hi, saddha, assakhaḷuṅkassa doṇiyā baddhassa evaṃ hoti – ‘kiṃ nu kho maṃ ajja assadammasārathi kāraṇaṃ kāressati, kimassāhaṃ </snippet>
-  </note>
-  <note line="58" original="purisājānīyo jhāyati, so (sī. syā. pī.), purisājānīyo, so (ka.)" reference-line="73" id="9">
-    <extra></extra>
+    <match>kimassāhaṃ</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">purisājānīyo</alternative>
+      <alternative source-abbr="ka." source="cambodian">kammassāhaṃ</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="73" id="9">
+    <original>purisājānīyo jhāyati, so (sī. syā. pī.), purisājānīyo, so (ka.)</original>
+    <type>no_match</type>
+    <snippet>Evaṃ vutte āyasmā saddho bhagavantaṃ etadavoca – ‘‘kathaṃ jhāyī pana, bhante, bhadro purisājānīyo </snippet>
+    <alternatives>
       <alternative source-abbr="sī." source="sri lanka">purisājānīyo jhāyati, so</alternative>
       <alternative source-abbr="syā." source="thai">purisājānīyo jhāyati, so</alternative>
       <alternative source-abbr="pī." source="pali text society">purisājānīyo jhāyati, so</alternative>
       <alternative source-abbr="ka." source="cambodian">purisājānīyo, so</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet>Evaṃ vutte āyasmā saddho bhagavantaṃ etadavoca – kathaṃ jhāyī pana, bhante, bhadro purisājānīyo </snippet>
   </note>
-  <note line="70" original="dī. ni. 1.277; saṃ. ni. 1.182; 2.245" reference-line="86" id="10">
+  <note reference-line="86" id="10">
+    <original>dī. ni. 1.277; saṃ. ni. 1.182; 2.245</original>
     <type>raw</type>
-  </note>
-  <note line="73" original="nissāyavaggo (syā. kaṃ.)" reference-line="90" id="11">
-    <extra></extra>
+    <snippet>Vijjācaraṇasampanno, so seṭṭho devamānuse’’ti </snippet>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">Nissayavaggo</alternative>
-      <alternative source-abbr="syā." source="thai">nissāyavaggo</alternative>
-      <alternative source-abbr="kaṃ." source="kaṃ.">nissāyavaggo</alternative>
     </alternatives>
+  </note>
+  <note reference-line="90" id="11">
+    <original>nissāyavaggo (syā. kaṃ.)</original>
     <type>auto</type>
     <snippet>Nissayavaggo </snippet>
+    <match>Nissayavaggo</match>
+    <alternatives>
+      <alternative source-abbr="syā." source="thai">nissāyavaggo</alternative>
+      <alternative source-abbr="kaṃ." source="kam">nissāyavaggo</alternative>
+    </alternatives>
   </note>
 </notes>

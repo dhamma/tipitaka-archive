@@ -5,6 +5,8 @@ import java.util.LinkedHashMap;
 import java.util.LinkedList;
 import java.util.List;
 import java.util.Map;
+import java.util.Set;
+import java.util.stream.Collectors;
 
 import com.fasterxml.jackson.dataformat.xml.annotation.JacksonXmlProperty;
 import com.fasterxml.jackson.dataformat.xml.annotation.JacksonXmlText;
@@ -19,33 +21,34 @@ public class Note
   public int id;
 
   @JacksonXmlProperty(isAttribute = true)
-  public String line;
+  public int line;
 
   @JacksonXmlProperty(isAttribute = true, localName = "reference-line")
-  public String referenceLine;
+  public int referenceLine;
 
-  @JacksonXmlProperty(isAttribute = true)
   public String original;
 
   public Type type;
 
-  public List<Alternative> alternatives;
-
-  public String extra;
+  public List<Alternative> alternatives = new LinkedList<>();
 
   public String snippet;
 
-  public void setExtra(String value) {
-    if (value == null || "null".equals(value)) {
-      extra = "";
+  public String hint;
+
+  public String match;
+
+  public List<String> references;
+
+  public void addAlternative(Alternative alt) {
+    for(Alternative old: alternatives) {
+      if (alt.equals(old)) return;
+      if (alt.getVersion().equals(old.getVersion())) {
+        System.err.println("[WARN] (version.duplication) " + old + "<->" + alt + " on " + this);
+      }
     }
-    else {
-      extra = value;
-    }
+    alternatives.add(alt);
   }
-  //String getKey() {
-  //  return referenceLine + " " + original;
-  //}
 
   @Override
   public boolean equals(final Object o) {
@@ -61,10 +64,10 @@ public class Note
     if (id != note.id) {
       return false;
     }
-    if (!line.equals(note.line)) {
+    if (line != note.line) {
       return false;
     }
-    if (!referenceLine.equals(note.referenceLine)) {
+    if (referenceLine != note.referenceLine) {
       return false;
     }
     if (!original.equals(note.original)) {
@@ -76,7 +79,7 @@ public class Note
     if (!alternatives.equals(note.alternatives)) {
       return false;
     }
-    if (!extra.equals(note.extra)) {
+    if (!match.equals(note.match)) {
       return false;
     }
     return snippet.equals(note.snippet);
@@ -86,12 +89,13 @@ public class Note
   @Override
   public int hashCode() {
     int result = id;
-    result = 31 * result + line.hashCode();
-    result = 31 * result + referenceLine.hashCode();
+    result = 31 * result + line;
+    result = 31 * result + referenceLine;
     result = 31 * result + original.hashCode();
     result = 31 * result + type.hashCode();
     result = 31 * result + alternatives.hashCode();
-    result = 31 * result + extra.hashCode();
+    result = 31 * result + hint.hashCode();
+    result = 31 * result + match.hashCode();
     result = 31 * result + snippet.hashCode();
     return result;
   }
@@ -104,12 +108,17 @@ public class Note
     sb.append(", referenceLine='").append(referenceLine).append('\'');
     sb.append(", original='").append(original).append('\'');
     sb.append(", type='").append(type).append('\'');
-    sb.append(", extra='").append(extra).append('\'');
+    sb.append(", hint='").append(hint).append('\'');
+    sb.append(", match='").append(match).append('\'');
     sb.append(", snippet='").append(snippet).append('\'');
-    if (alternatives != null)
+    if (references != null) {
+      sb.append(",  references ").append(references);
+    }
+    if (alternatives != null) {
       for (Alternative alternative: alternatives) {
         sb.append("\n\t").append(alternative);
       }
+    }
     sb.append('}');
     return sb.toString();
   }
@@ -121,5 +130,11 @@ public class Note
       }
     }
     return null;
+  }
+
+  public Set<Version> getVersions() {
+    return alternatives.stream()
+      .map(Alternative::getVersion)
+      .collect(Collectors.toSet());
   }
 }

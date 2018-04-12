@@ -1,90 +1,85 @@
-<?xml version="1.0" encoding="utf-8"?>
 <notes archive-path="/mula/suttapitaka/khuddakanikaya/dhammapadapali/5. balavaggo">
-  <note line="3" original="ekacariyaṃ (ka.)" reference-line="7" id="0">
-    <extra></extra>
-    <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">Ekacariyaṃ</alternative>
-      <alternative source-abbr="ka." source="cambodian">ekacariyaṃ</alternative>
-    </alternatives>
+  <note reference-line="7" id="0">
+    <original>ekacariyaṃ (ka.)</original>
     <type>auto</type>
     <snippet>Ekacariyaṃ </snippet>
-  </note>
-  <note line="12" original="puttamatthi dhanamatthi (ka.)" reference-line="9" id="1">
-    <extra></extra>
+    <match>Ekacariyaṃ</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">matthi dhanammatthi</alternative>
+      <alternative source-abbr="ka." source="cambodian">ekacariyaṃ</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="9" id="1">
+    <original>puttamatthi dhanamatthi (ka.)</original>
+    <type>no_match</type>
+    <snippet> Puttā matthi dhanammatthi </snippet>
+    <alternatives>
       <alternative source-abbr="ka." source="cambodian">puttamatthi dhanamatthi</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> Puttā matthi dhanammatthi </snippet>
   </note>
-  <note line="21" original="attāpi (?)" reference-line="10" id="2">
-    <extra></extra>
+  <note reference-line="10" id="2">
+    <original>attāpi (?)</original>
+    <type>auto</type>
+    <snippet>Attā hi </snippet>
+    <match>hi</match>
     <alternatives>
       <alternative source-abbr="?" source="unknown">attāpi</alternative>
     </alternatives>
-    <type>no_match</type>
-    <snippet>Attā hi </snippet>
   </note>
-  <note line="29" original="madhuṃ vā (dī. ni. ṭīkā 1)" reference-line="30" id="3">
-    <extra></extra>
-    <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">Madhuvā</alternative>
-      <alternative source-abbr="dī. ni. ṭīkā 1" source="dī. ni. ṭīkā 1">madhuṃ vā</alternative>
-    </alternatives>
-    <type>auto</type>
+  <note reference-line="30" id="3">
+    <original>madhuṃ vā (dī. ni. ṭīkā 1)</original>
+    <type>raw</type>
     <snippet> Madhuvā </snippet>
-  </note>
-  <note line="38" original="atha bālo (sī. syā.) atha (?)" reference-line="31" id="4">
-    <extra></extra>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">bālo</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="31" id="4">
+    <original>atha bālo (sī. syā.) atha (?)</original>
+    <type>no_match</type>
+    <snippet>Yadā ca paccati pāpaṃ, bālo </snippet>
+    <alternatives>
       <alternative source-abbr="sī." source="sri lanka">atha bālo</alternative>
       <alternative source-abbr="syā." source="thai">atha bālo</alternative>
       <alternative source-abbr="?" source="unknown">atha</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet>Yadā ca paccati pāpaṃ, bālo </snippet>
   </note>
-  <note line="49" original="saṅkhatadhammānaṃ (sī. pī. ka.)" reference-line="34" id="5">
-    <extra></extra>
+  <note reference-line="34" id="5">
+    <original>saṅkhatadhammānaṃ (sī. pī. ka.)</original>
+    <type>auto</type>
+    <snippet>Na so saṅkhātadhammānaṃ </snippet>
+    <match>saṅkhātadhammānaṃ</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">saṅkhātadhammānaṃ</alternative>
       <alternative source-abbr="sī." source="sri lanka">saṅkhatadhammānaṃ</alternative>
       <alternative source-abbr="pī." source="pali text society">saṅkhatadhammānaṃ</alternative>
       <alternative source-abbr="ka." source="cambodian">saṅkhatadhammānaṃ</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet>Na so saṅkhātadhammānaṃ </snippet>
   </note>
-  <note line="60" original="bhasmāchannova (sī. pī. ka.)" reference-line="37" id="6">
-    <extra></extra>
+  <note reference-line="37" id="6">
+    <original>bhasmāchannova (sī. pī. ka.)</original>
+    <type>auto</type>
+    <snippet>Ḍahantaṃ bālamanveti, bhasmacchannova </snippet>
+    <match>bhasmacchannova</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">bhasmacchannova</alternative>
       <alternative source-abbr="sī." source="sri lanka">bhasmāchannova</alternative>
       <alternative source-abbr="pī." source="pali text society">bhasmāchannova</alternative>
       <alternative source-abbr="ka." source="cambodian">bhasmāchannova</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet>Ḍahantaṃ bālamanveti, bhasmacchannova </snippet>
   </note>
-  <note line="71" original="ñātaṃ (?)" reference-line="39" id="7">
-    <extra></extra>
-    <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">ñattaṃ</alternative>
-      <alternative source-abbr="?" source="unknown">ñātaṃ</alternative>
-    </alternatives>
+  <note reference-line="39" id="7">
+    <original>ñātaṃ (?)</original>
     <type>auto</type>
     <snippet> Yāvadeva anatthāya, ñattaṃ </snippet>
-  </note>
-  <note line="80" original="asantaṃ bhāvamiccheyya (syā.), asantabhāvanamiccheyya (ka.)" reference-line="42" id="8">
-    <extra></extra>
+    <match>ñattaṃ</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">bhāvanamiccheyya</alternative>
+      <alternative source-abbr="?" source="unknown">ñātaṃ</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="42" id="8">
+    <original>asantaṃ bhāvamiccheyya (syā.), asantabhāvanamiccheyya (ka.)</original>
+    <type>no_match</type>
+    <snippet> bhāvanamiccheyya </snippet>
+    <alternatives>
       <alternative source-abbr="syā." source="thai">asantaṃ bhāvamiccheyya</alternative>
       <alternative source-abbr="ka." source="cambodian">asantabhāvanamiccheyya</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> bhāvanamiccheyya </snippet>
   </note>
 </notes>

@@ -20,7 +20,7 @@ public class State
 
   private int id = 0;
 
-  private final Writer writer;
+  //private final Writer writer;
 
   private final LinkedList<String> stack = new LinkedList<>();
 
@@ -34,19 +34,20 @@ public class State
 
   private String previousText;
 
-  protected State(Writer writer) {
-    this.writer = writer;
+  protected State() {//Writer writer) {
+    //this.writer = writer;
   }
 
   public void push(String name) {
     stack.push(name);
   }
 
-  // TODO move into specialist State
-  //LinkedList<Note> notes;
-
   public String pop() {
     return stack.pop();
+  }
+
+  public String peek() {
+    return stack.peek();
   }
 
   public String nextNumber() {
@@ -58,17 +59,16 @@ public class State
     return id;
   }
 
-  public String nextId() {
-    return String.valueOf(id++);
+  public int nextId() {
+    return id++;
   }
 
-  public String getLineNumber() {
-    return String.valueOf(lineCount);
+  public int getLineNumber() {
+    return lineCount;
   }
 
-  public String nextLineNumber() {
-    lineCount++;
-    return String.valueOf(lineCount);
+  public int nextLineNumber() {
+    return ++lineCount;
   }
 
   // State appendText(String text) throws IOException {
@@ -101,20 +101,16 @@ public class State
   //   return this;
   // }
 
-  public State append(CharSequence string) throws IOException {
-    writer.append(string);
-    return this;
-  }
+  // public State append(CharSequence string) throws IOException {
+  //  writer.append(string);
+  //  return this;
+  //}
 
-  public String peek() {
-    return stack.peek();
-  }
+  //public void flush() throws IOException {
+  //  writer.flush();;
+  //}
 
-  public void flush() throws IOException {
-    writer.flush();;
-  }
-
-  public void close() throws IOException {
-    writer.close();
-  }
+  //public void close() throws IOException {
+  //  writer.close();
+  //}
 }

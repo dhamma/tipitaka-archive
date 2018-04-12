@@ -1,60 +1,60 @@
-<?xml version="1.0" encoding="utf-8"?>
 <notes archive-path="/mula/suttapitaka/khuddakanikaya/dhammapadapali/1. yamakavaggo">
-  <note line="3" original="anupāyinī (ka.)" reference-line="12" id="0">
-    <extra></extra>
-    <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">anapāyinī</alternative>
-      <alternative source-abbr="ka." source="cambodian">anupāyinī</alternative>
-    </alternatives>
+  <note reference-line="12" id="0">
+    <original>anupāyinī (ka.)</original>
     <type>auto</type>
     <snippet>Tato naṃ sukhamanveti, chāyāva anapāyinī </snippet>
-  </note>
-  <note line="12" original="ajinī (?)" reference-line="14" id="1">
-    <extra></extra>
+    <match>anapāyinī</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">ajini</alternative>
-      <alternative source-abbr="?" source="unknown">ajinī</alternative>
+      <alternative source-abbr="ka." source="cambodian">anupāyinī</alternative>
     </alternatives>
+  </note>
+  <note reference-line="14" id="1">
+    <original>ajinī (?)</original>
     <type>auto</type>
     <snippet> maṃ avadhi maṃ, ajini </snippet>
-  </note>
-  <note line="21" original="pāpakāri (?)" reference-line="58" id="2">
-    <extra></extra>
+    <match>ajini</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">pāpakārī</alternative>
-      <alternative source-abbr="?" source="unknown">pāpakāri</alternative>
+      <alternative source-abbr="?" source="unknown">ajinī</alternative>
     </alternatives>
+  </note>
+  <note reference-line="58" id="2">
+    <original>pāpakāri (?)</original>
     <type>auto</type>
     <snippet> Idha tappati pecca tappati, pāpakārī </snippet>
-  </note>
-  <note line="30" original="bhīyo (sī.)" reference-line="59" id="3">
-    <extra></extra>
+    <match>pāpakārī</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">bhiyyo</alternative>
+      <alternative source-abbr="?" source="unknown">pāpakāri</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="59" id="3">
+    <original>bhīyo (sī.)</original>
+    <type>auto</type>
+    <snippet>‘‘Pāpaṃ me kata’’nti tappati, bhiyyo </snippet>
+    <match>bhiyyo</match>
+    <alternatives>
       <alternative source-abbr="sī." source="sri lanka">bhīyo</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet>Pāpaṃ me kata’’nti tappati, bhiyyo </snippet>
   </note>
-  <note line="39" original="sahitaṃ (sī. syā. kaṃ. pī.)" reference-line="64" id="4">
-    <extra></extra>
+  <note reference-line="64" id="4">
+    <original>sahitaṃ (sī. syā. kaṃ. pī.)</original>
+    <type>auto</type>
+    <snippet> Bahumpi ce saṃhita </snippet>
+    <match>saṃhita</match>
     <alternatives>
       <alternative source-abbr="sī." source="sri lanka">sahitaṃ</alternative>
       <alternative source-abbr="syā." source="thai">sahitaṃ</alternative>
-      <alternative source-abbr="kaṃ." source="kaṃ.">sahitaṃ</alternative>
+      <alternative source-abbr="kaṃ." source="kam">sahitaṃ</alternative>
       <alternative source-abbr="pī." source="pali text society">sahitaṃ</alternative>
     </alternatives>
-    <type>no_match</type>
-    <snippet> Bahumpi ce saṃhita </snippet>
   </note>
-  <note line="50" original="hotī (sī. pī.)" reference-line="67" id="5">
-    <extra></extra>
+  <note reference-line="67" id="5">
+    <original>hotī (sī. pī.)</original>
+    <type>auto</type>
+    <snippet> Appampi ce saṃhita bhāsamāno, dhammassa hoti </snippet>
+    <match>hoti</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">hoti</alternative>
       <alternative source-abbr="sī." source="sri lanka">hotī</alternative>
       <alternative source-abbr="pī." source="pali text society">hotī</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> Appampi ce saṃhita bhāsamāno, dhammassa hoti </snippet>
   </note>
 </notes>

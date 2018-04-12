@@ -1,45 +1,46 @@
-<?xml version="1.0" encoding="utf-8"?>
 <notes archive-path="/mula/suttapitaka/dighanikaya/silakkhandhavaggapali/10. subhasuttam">
-  <note line="3" original="ayaṃ kho so (ka.)" reference-line="16" id="0">
-    <extra></extra>
+  <note reference-line="16" id="0">
+    <original>ayaṃ kho so (ka.)</original>
+    <type>no_match</type>
+    <snippet> ‘‘Sa kho so </snippet>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">kho so</alternative>
       <alternative source-abbr="ka." source="cambodian">ayaṃ kho so</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> Sa kho so </snippet>
   </note>
-  <note line="12" original="imassa anantaraṃ sī. pī. potthakesu ‘‘paṭhamabhāṇavāraṃ’’ti pāṭho dissati" reference-line="18" id="1">
+  <note reference-line="18" id="1">
+    <original>imassa anantaraṃ sī. pī. potthakesu ‘‘paṭhamabhāṇavāraṃ’’ti pāṭho dissati</original>
     <type>raw</type>
-  </note>
-  <note line="15" original="itipīti (ka.)" reference-line="52" id="2">
-    <extra></extra>
+    <snippet> samanupassāmi. Evaṃ paripuṇṇañca, bho ānanda, ariyaṃ sīlakkhandhaṃ ito bahiddhā aññe samaṇabrāhmaṇā attani samanupasseyyuṃ, te tāvatakeneva attamanā assu – ‘alamettāvatā, katamettāvatā, anuppatto no sāmaññattho, natthi no kiñci uttarikaraṇīya’nti. Atha ca pana bhavaṃ ānando evamāha – ‘atthi cevettha uttarikaraṇīya’’’nti </snippet>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">iti’pi</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="52" id="2">
+    <original>itipīti (ka.)</original>
+    <type>auto</type>
+    <snippet> ‘‘So evaṃ samāhite citte…pe… āneñjappatte dibbāya sotadhātuyā cittaṃ abhinīharati abhininnāmeti. So dibbāya sotadhātuyā visuddhāya atikkantamānusikāya ubho sadde suṇāti dibbe ca mānuse ca ye dūre santike ca. Seyyathāpi, māṇava, puriso addhānamaggappaṭipanno. So suṇeyya bherisaddampi mudiṅgasaddampi saṅkhapaṇavadindimasaddampi. Tassa evamassa – ‘bherisaddo itipi mudiṅgasaddo itipi saṅkhapaṇavadindimasaddo iti’pi </snippet>
+    <match>iti’pi</match>
+    <alternatives>
       <alternative source-abbr="ka." source="cambodian">itipīti</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> So evaṃ samāhite citte…pe… āneñjappatte dibbāya sotadhātuyā cittaṃ abhinīharati abhininnāmeti. So dibbāya sotadhātuyā visuddhāya atikkantamānusikāya ubho sadde suṇāti dibbe ca mānuse ca ye dūre santike ca. Seyyathāpi, māṇava, puriso addhānamaggappaṭipanno. So suṇeyya bherisaddampi mudiṅgasaddampi saṅkhapaṇavadindimasaddampi. Tassa evamassa – ‘bherisaddo itipi mudiṅgasaddo itipi saṅkhapaṇavadindimasaddo iti’pi </snippet>
   </note>
-  <note line="24" original="na samanupassāmi…pe… natthi no kiñci (syā. ka.)" reference-line="62" id="3">
-    <extra></extra>
+  <note reference-line="62" id="3">
+    <original>na samanupassāmi…pe… natthi no kiñci (syā. ka.)</original>
+    <type>no_match</type>
+    <snippet> cevettha </snippet>
     <alternatives>
       <alternative source-abbr="syā." source="thai">na samanupassāmi…pe… natthi no kiñci</alternative>
       <alternative source-abbr="ka." source="cambodian">na samanupassāmi…pe… natthi no kiñci</alternative>
     </alternatives>
-    <type>no_match</type>
-    <snippet> cevettha </snippet>
   </note>
-  <note line="33" original="uttariṃ karaṇīyanti (sī. syā. pī.) uttarikaraṇīyanti (ka.)" reference-line="62" id="4">
-    <extra></extra>
+  <note reference-line="62" id="4">
+    <original>uttariṃ karaṇīyanti (sī. syā. pī.) uttarikaraṇīyanti (ka.)</original>
+    <type>no_match</type>
+    <snippet> uttarikaraṇīyaṃ </snippet>
     <alternatives>
       <alternative source-abbr="sī." source="sri lanka">uttariṃ karaṇīyanti</alternative>
       <alternative source-abbr="syā." source="thai">uttariṃ karaṇīyanti</alternative>
       <alternative source-abbr="pī." source="pali text society">uttariṃ karaṇīyanti</alternative>
-      <alternative source-abbr="vri" source="vipassana research institut">uttarikaraṇīyaṃ</alternative>
       <alternative source-abbr="ka." source="cambodian">uttarikaraṇīyanti</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> uttarikaraṇīyaṃ </snippet>
   </note>
 </notes>

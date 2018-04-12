@@ -1,53 +1,78 @@
-<?xml version="1.0" encoding="utf-8"?>
 <notes archive-path="/mula/suttapitaka/khuddakanikaya/theragathapali/15. solasakanipato">
-  <note line="3" original="dha. pa. 277 dhammapade" reference-line="13" id="0">
+  <note reference-line="13" id="0">
+    <original>dha. pa. 277 dhammapade</original>
     <type>raw</type>
-  </note>
-  <note line="6" original="dha. pa. 278 dhammapade" reference-line="16" id="1">
-    <type>raw</type>
-  </note>
-  <note line="9" original="dha. pa. 279 dhammapade" reference-line="19" id="2">
-    <type>raw</type>
-  </note>
-  <note line="12" original="daḷho khilo (syā. ka.)" reference-line="25" id="3">
-    <extra></extra>
+    <snippet>
+
+</snippet>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">daḷhakhilo</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="16" id="1">
+    <original>dha. pa. 278 dhammapade</original>
+    <type>raw</type>
+    <snippet>
+
+</snippet>
+    <alternatives>
+    </alternatives>
+  </note>
+  <note reference-line="19" id="2">
+    <original>dha. pa. 279 dhammapade</original>
+    <type>raw</type>
+    <snippet>
+
+</snippet>
+    <alternatives>
+    </alternatives>
+  </note>
+  <note reference-line="25" id="3">
+    <original>daḷho khilo (syā. ka.)</original>
+    <type>no_match</type>
+    <snippet> ‘‘Oghapāso daḷhakhilo </snippet>
+    <alternatives>
       <alternative source-abbr="syā." source="thai">daḷho khilo</alternative>
       <alternative source-abbr="ka." source="cambodian">daḷho khilo</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> Oghapāso daḷhakhilo </snippet>
   </note>
-  <note line="22" original="chetvāna (ka.)" reference-line="26" id="4">
-    <extra></extra>
-    <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">bhetvāna</alternative>
-      <alternative source-abbr="ka." source="cambodian">chetvāna</alternative>
-    </alternatives>
+  <note reference-line="26" id="4">
+    <original>chetvāna (ka.)</original>
     <type>auto</type>
     <snippet>Chetvā khilañca pāsañca, selaṃ bhetvāna </snippet>
-  </note>
-  <note line="31" original="aññākoṇḍañño (sī. syā.)" reference-line="49" id="5">
-    <extra></extra>
+    <match>bhetvāna</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">Aññāsikoṇḍañño</alternative>
+      <alternative source-abbr="ka." source="cambodian">chetvāna</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="49" id="5">
+    <original>aññākoṇḍañño (sī. syā.)</original>
+    <type>auto</type>
+    <snippet>… Aññāsikoṇḍañño </snippet>
+    <match>Aññāsikoṇḍañño</match>
+    <alternatives>
       <alternative source-abbr="sī." source="sri lanka">aññākoṇḍañño</alternative>
       <alternative source-abbr="syā." source="thai">aññākoṇḍañño</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet>… Aññāsikoṇḍañño </snippet>
   </note>
-  <note line="41" original="a. ni. 6.43" reference-line="52" id="6">
-    <type>raw</type>
-  </note>
-  <note line="44" original="nikkhammarataṃ (ka.)" reference-line="59" id="7">
-    <extra></extra>
+  <note reference-line="52" id="6">
+    <original>a. ni. 6.43</original>
+    <type>no_match</type>
+    <snippet>
+
+</snippet>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">nekkhammarataṃ</alternative>
-      <alternative source-abbr="ka." source="cambodian">nikkhammarataṃ</alternative>
     </alternatives>
+    <references>
+      <reference>a. ni. 6.43</reference>
+    </references>
+  </note>
+  <note reference-line="59" id="7">
+    <original>nikkhammarataṃ (ka.)</original>
     <type>auto</type>
     <snippet>Kāmehi nekkhammarataṃ </snippet>
+    <match>nekkhammarataṃ</match>
+    <alternatives>
+      <alternative source-abbr="ka." source="cambodian">nikkhammarataṃ</alternative>
+    </alternatives>
   </note>
 </notes>

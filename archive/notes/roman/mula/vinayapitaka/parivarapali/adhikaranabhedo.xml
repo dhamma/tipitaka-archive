@@ -1,47 +1,86 @@
-<?xml version="1.0" encoding="utf-8"?>
 <notes archive-path="/mula/vinayapitaka/parivarapali/adhikaranabhedo">
-  <note line="3" original="cūḷava. 215; pari. 275" reference-line="3" id="0">
-    <type>raw</type>
-  </note>
-  <note line="6" original="pārājikaṃ dhammaṃ ajjhāpannaṃ (syā.)" reference-line="31" id="1">
-    <extra></extra>
+  <note reference-line="3" id="0">
+    <original>cūḷava. 215; pari. 275</original>
+    <type>no_match</type>
+    <snippet>.</snippet>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">pārājikaṃ dhammaṃ</alternative>
+    </alternatives>
+    <references>
+      <reference>cūḷava. 215</reference>
+      <reference>pari. 275</reference>
+    </references>
+  </note>
+  <note reference-line="31" id="1">
+    <original>pārājikaṃ dhammaṃ ajjhāpannaṃ (syā.)</original>
+    <type>no_match</type>
+    <snippet> āpattiyo āpajjati. Bhikkhunī jānaṃ pārājikaṃ dhammaṃ </snippet>
+    <alternatives>
       <alternative source-abbr="syā." source="thai">pārājikaṃ dhammaṃ ajjhāpannaṃ</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> āpattiyo āpajjati. Bhikkhunī jānaṃ pārājikaṃ dhammaṃ </snippet>
   </note>
-  <note line="15" original="cūḷava. 215; pari. 314" reference-line="38" id="2">
-    <type>raw</type>
-  </note>
-  <note line="18" original="cūḷava. 215; pari. 348" reference-line="40" id="3">
-    <type>raw</type>
-  </note>
-  <note line="21" original="cūḷava. 224" reference-line="59" id="4">
-    <type>raw</type>
-  </note>
-  <note line="24" original="cūḷava. 224 ādayo" reference-line="64" id="5">
-    <type>raw</type>
-  </note>
-  <note line="27" original="cūḷava. 223" reference-line="74" id="6">
-    <type>raw</type>
-  </note>
-  <note line="30" original="upajjhāyakiccaṃ sakiccaṃ (ka.)" reference-line="76" id="7">
-    <extra></extra>
+  <note reference-line="38" id="2">
+    <original>cūḷava. 215; pari. 314</original>
+    <type>no_match</type>
+    <snippet> ca, vivādādhikaraṇapaccayā hoti anuvādādhikaraṇaṃ, hoti āpattādhikaraṇaṃ, hoti kiccādhikaraṇaṃ. Yathā kathaṃ viya? </snippet>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">Ācariyakiccaṃ upajjhāyakiccaṃ</alternative>
+    </alternatives>
+    <references>
+      <reference>cūḷava. 215</reference>
+      <reference>pari. 314</reference>
+    </references>
+  </note>
+  <note reference-line="40" id="3">
+    <original>cūḷava. 215; pari. 348</original>
+    <type>no_match</type>
+    <snippet>Āpattādhikaraṇaṃ hoti kiccādhikaraṇaṃ, hoti vivādādhikaraṇaṃ, hoti anuvādādhikaraṇaṃ. Āpattādhikaraṇaṃ na hoti kiccādhikaraṇaṃ, na hoti vivādādhikaraṇaṃ, na hoti anuvādādhikaraṇaṃ; api ca, āpattādhikaraṇapaccayā hoti kiccādhikaraṇaṃ, hoti vivādādhikaraṇaṃ, hoti anuvādādhikaraṇaṃ. Yathā kathaṃ viya? </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>cūḷava. 215</reference>
+      <reference>pari. 348</reference>
+    </references>
+  </note>
+  <note reference-line="59" id="4">
+    <original>cūḷava. 224</original>
+    <type>no_match</type>
+    <snippet>.</snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>cūḷava. 224</reference>
+    </references>
+  </note>
+  <note reference-line="64" id="5">
+    <original>cūḷava. 224 ādayo</original>
+    <type>raw</type>
+    <snippet>.</snippet>
+    <alternatives>
+    </alternatives>
+  </note>
+  <note reference-line="74" id="6">
+    <original>cūḷava. 223</original>
+    <type>no_match</type>
+    <snippet>.</snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>cūḷava. 223</reference>
+    </references>
+  </note>
+  <note reference-line="76" id="7">
+    <original>upajjhāyakiccaṃ sakiccaṃ (ka.)</original>
+    <type>no_match</type>
+    <snippet>Tattha katamaṃ kiccaṃ no adhikaraṇaṃ? Ācariyakiccaṃ upajjhāyakiccaṃ </snippet>
+    <alternatives>
       <alternative source-abbr="ka." source="cambodian">upajjhāyakiccaṃ sakiccaṃ</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet>Tattha katamaṃ kiccaṃ no adhikaraṇaṃ? Ācariyakiccaṃ upajjhāyakiccaṃ </snippet>
   </note>
-  <note line="39" original="saṃsaṭṭhā nidānapabhavā (sī.)" reference-line="83" id="8">
-    <extra></extra>
+  <note reference-line="83" id="8">
+    <original>saṃsaṭṭhā nidānapabhavā (sī.)</original>
+    <type>no_match</type>
+    <snippet>Āpatti hoti yattha ca, saṃsaṭṭhā nidānena ca </snippet>
     <alternatives>
       <alternative source-abbr="sī." source="sri lanka">saṃsaṭṭhā nidānapabhavā</alternative>
     </alternatives>
-    <type>no_match</type>
-    <snippet>Āpatti hoti yattha ca, saṃsaṭṭhā nidānena ca </snippet>
   </note>
 </notes>

@@ -1,21 +1,20 @@
-<?xml version="1.0" encoding="utf-8"?>
 <notes archive-path="/mula/suttapitaka/khuddakanikaya/nettippakaranapali/2. uddesavaro">
-  <note line="3" original="soḷasa (sī.)" reference-line="7" id="0">
-    <extra></extra>
-    <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">soḷaso</alternative>
-      <alternative source-abbr="sī." source="sri lanka">soḷasa</alternative>
-    </alternatives>
+  <note reference-line="7" id="0">
+    <original>soḷasa (sī.)</original>
     <type>auto</type>
     <snippet>Adhiṭṭhāno parikkhāro, samāropano soḷaso </snippet>
-  </note>
-  <note line="12" original="nayalañchako (sī.)" reference-line="13" id="1">
-    <extra></extra>
+    <match>soḷaso</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">nayalañjako</alternative>
-      <alternative source-abbr="sī." source="sri lanka">nayalañchako</alternative>
+      <alternative source-abbr="sī." source="sri lanka">soḷasa</alternative>
     </alternatives>
+  </note>
+  <note reference-line="13" id="1">
+    <original>nayalañchako (sī.)</original>
     <type>auto</type>
     <snippet>Sīhavikkīḷito nāma, tatiyo nayalañjako </snippet>
+    <match>nayalañjako</match>
+    <alternatives>
+      <alternative source-abbr="sī." source="sri lanka">nayalañchako</alternative>
+    </alternatives>
   </note>
 </notes>

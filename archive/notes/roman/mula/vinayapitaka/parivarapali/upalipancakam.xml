@@ -1,112 +1,224 @@
-<?xml version="1.0" encoding="utf-8"?>
 <notes archive-path="/mula/vinayapitaka/parivarapali/upalipancakam">
-  <note line="3" original="pari. 325" reference-line="4" id="0">
-    <type>raw</type>
-  </note>
-  <note line="6" original="mahāva. 84" reference-line="8" id="1">
-    <type>raw</type>
-  </note>
-  <note line="9" original="imasmiṃ ṭhāne sabbattha ‘‘vinodetuṃ vā vinodāpetuṃ vā’’ti pāṭho dissati, vimativinodanīṭīkāya mahāvaggavaṇṇanā oloketabbā" reference-line="8" id="2">
-    <type>raw</type>
-  </note>
-  <note line="12" original="cūḷava. 8-9, 18, 30-31, 43, 53, 62, 72" reference-line="29" id="3">
-    <type>raw</type>
-  </note>
-  <note line="15" original="pari. 365" reference-line="33" id="4">
-    <type>raw</type>
-  </note>
-  <note line="18" original="pāci. 239" reference-line="70" id="5">
-    <type>raw</type>
-  </note>
-  <note line="21" original="pāci. 239" reference-line="71" id="6">
-    <type>raw</type>
-  </note>
-  <note line="24" original="pāci. 239" reference-line="72" id="7">
-    <type>raw</type>
-  </note>
-  <note line="27" original="cūḷava. 399; a. ni. 10.44" reference-line="89" id="8">
-    <type>raw</type>
-  </note>
-  <note line="30" original="na sampādayati (ka.), na sampādeti (syā.)" reference-line="93" id="9">
-    <extra></extra>
+  <note reference-line="4" id="0">
+    <original>pari. 325</original>
+    <type>no_match</type>
+    <snippet>‘‘Pañcahupāli, aṅgehi samannāgatena bhikkhunā yāvajīvaṃ nānissitena vatthabbaṃ. </snippet>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">na bhikkhunā paraṃ codetukāmena evaṃ paccavekkhitabbaṃ – ‘ubhayāni kho me pātimokkhāni vitthārena svāgatāni honti suvibhattāni suppavattīni suvinicchitāni suttaso anubyañjanaso, saṃvijjati nu kho me eso dhammo udāhu no’ti. No ce, upāli, bhikkhuno ubhayāni pātimokkhāni vitthārena svāgatāni honti suvibhattāni suppavattīni suvinicchitāni suttaso anubyañjanaso, ‘idaṃ panāvuso kattha vuttaṃ bhagavatā’ti iti puṭṭho na sampāyati</alternative>
+    </alternatives>
+    <references>
+      <reference>pari. 325</reference>
+    </references>
+  </note>
+  <note reference-line="8" id="1">
+    <original>mahāva. 84</original>
+    <type>no_match</type>
+    <snippet>
+
+</snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>mahāva. 84</reference>
+    </references>
+  </note>
+  <note reference-line="8" id="2">
+    <original>imasmiṃ ṭhāne sabbattha ‘‘vinodetuṃ vā vinodāpetuṃ vā’’ti pāṭho dissati, vimativinodanīṭīkāya mahāvaggavaṇṇanā oloketabbā</original>
+    <type>raw</type>
+    <snippet> ‘‘Pañcahupāli, aṅgehi samannāgatena bhikkhunā na upasampādetabbaṃ, na nissayo dātabbo, na sāmaṇero upaṭṭhāpetabbo. Katamehi pañcahi? Na paṭibalo hoti antevāsiṃ vā saddhivihāriṃ vā gilānaṃ upaṭṭhātuṃ vā upaṭṭhāpetuṃ vā, anabhirataṃ vūpakāsetuṃ vā vūpakāsāpetuṃ vā, uppannaṃ kukkuccaṃ dhammato vinodetuṃ </snippet>
+    <alternatives>
+    </alternatives>
+  </note>
+  <note reference-line="29" id="3">
+    <original>cūḷava. 8-9, 18, 30-31, 43, 53, 62, 72</original>
+    <type>raw</type>
+    <snippet>
+
+</snippet>
+    <alternatives>
+    </alternatives>
+  </note>
+  <note reference-line="33" id="4">
+    <original>pari. 365</original>
+    <type>no_match</type>
+    <snippet>
+
+</snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>pari. 365</reference>
+    </references>
+  </note>
+  <note reference-line="70" id="5">
+    <original>pāci. 239</original>
+    <type>no_match</type>
+    <snippet> nu kho, bhante, anatirittā’’ti? ‘‘Pañcime, upāli, anatirittā. Katame pañca? </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>pāci. 239</reference>
+    </references>
+  </note>
+  <note reference-line="71" id="6">
+    <original>pāci. 239</original>
+    <type>no_match</type>
+    <snippet>‘‘Pañcime, upāli, atirittā. Katame pañca? </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>pāci. 239</reference>
+    </references>
+  </note>
+  <note reference-line="72" id="7">
+    <original>pāci. 239</original>
+    <type>no_match</type>
+    <snippet> nu kho, bhante, ākārehi pavāraṇā paññāyatī’’ti? ‘‘Pañcahupāli, ākārehi pavāraṇā paññāyati. Katamehi pañcahi? </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>pāci. 239</reference>
+    </references>
+  </note>
+  <note reference-line="89" id="8">
+    <original>cūḷava. 399; a. ni. 10.44</original>
+    <type>no_match</type>
+    <snippet>.</snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>cūḷava. 399</reference>
+      <reference>a. ni. 10.44</reference>
+    </references>
+  </note>
+  <note reference-line="93" id="9">
+    <original>na sampādayati (ka.), na sampādeti (syā.)</original>
+    <type>no_match</type>
+    <snippet> caparaṃ, upāli, codakena bhikkhunā paraṃ codetukāmena evaṃ paccavekkhitabbaṃ – ‘ubhayāni kho me pātimokkhāni vitthārena svāgatāni honti suvibhattāni suppavattīni suvinicchitāni suttaso anubyañjanaso, saṃvijjati nu kho me eso dhammo udāhu no’ti. No ce, upāli, bhikkhuno ubhayāni pātimokkhāni vitthārena svāgatāni honti suvibhattāni suppavattīni suvinicchitāni suttaso anubyañjanaso, ‘idaṃ panāvuso kattha vuttaṃ bhagavatā’ti iti puṭṭho na sampāyati </snippet>
+    <alternatives>
       <alternative source-abbr="ka." source="cambodian">na sampādayati</alternative>
       <alternative source-abbr="syā." source="thai">na sampādeti</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> caparaṃ, upāli, codakena bhikkhunā paraṃ codetukāmena evaṃ paccavekkhitabbaṃ – ‘ubhayāni kho me pātimokkhāni vitthārena svāgatāni honti suvibhattāni suppavattīni suvinicchitāni suttaso anubyañjanaso, saṃvijjati nu kho me eso dhammo udāhu no’ti. No ce, upāli, bhikkhuno ubhayāni pātimokkhāni vitthārena svāgatāni honti suvibhattāni suppavattīni suvinicchitāni suttaso anubyañjanaso, ‘idaṃ panāvuso kattha vuttaṃ bhagavatā’ti iti puṭṭho na sampāyati </snippet>
   </note>
-  <note line="40" original="cūḷava. 400" reference-line="95" id="10">
-    <type>raw</type>
-  </note>
-  <note line="43" original="cūḷava. 398" reference-line="98" id="11">
-    <type>raw</type>
-  </note>
-  <note line="46" original="pañcahaṅgehi samannāgataṃ (sī. syā.)" reference-line="98" id="12">
-    <extra></extra>
+  <note reference-line="95" id="10">
+    <original>cūḷava. 400</original>
+    <type>no_match</type>
+    <snippet>.</snippet>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">pañcaṅgasamannāgataṃ</alternative>
+    </alternatives>
+    <references>
+      <reference>cūḷava. 400</reference>
+    </references>
+  </note>
+  <note reference-line="98" id="11">
+    <original>cūḷava. 398</original>
+    <type>no_match</type>
+    <snippet>.</snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>cūḷava. 398</reference>
+    </references>
+  </note>
+  <note reference-line="98" id="12">
+    <original>pañcahaṅgehi samannāgataṃ (sī. syā.)</original>
+    <type>no_match</type>
+    <snippet> ‘‘Attādānaṃ ādātukāmena, bhante, bhikkhunā katihaṅgehi samannāgataṃ attādānaṃ ādātabba’’nti? ‘‘Attādānaṃ ādātukāmenupāli, bhikkhunā pañcaṅgasamannāgataṃ </snippet>
+    <alternatives>
       <alternative source-abbr="sī." source="sri lanka">pañcahaṅgehi samannāgataṃ</alternative>
       <alternative source-abbr="syā." source="thai">pañcahaṅgehi samannāgataṃ</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> Attādānaṃ ādātukāmena, bhante, bhikkhunā katihaṅgehi samannāgataṃ attādānaṃ ādātabba’’nti? Attādānaṃ ādātukāmenupāli, bhikkhunā pañcaṅgasamannāgataṃ </snippet>
   </note>
-  <note line="56" original="katamehi pañcahi (syā.)" reference-line="98" id="13">
-    <extra></extra>
+  <note reference-line="98" id="13">
+    <original>katamehi pañcahi (syā.)</original>
+    <type>no_match</type>
+    <snippet> attādānaṃ ādātabbaṃ. Katame pañca </snippet>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">Katame pañca</alternative>
       <alternative source-abbr="syā." source="thai">katamehi pañcahi</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> attādānaṃ ādātabbaṃ. Katame pañca </snippet>
   </note>
-  <note line="65" original="a. ni. 5.181; pari. 325" reference-line="123" id="14">
-    <type>raw</type>
-  </note>
-  <note line="68" original="veramaṇi (ka.)" reference-line="139" id="15">
-    <extra></extra>
+  <note reference-line="123" id="14">
+    <original>a. ni. 5.181; pari. 325</original>
+    <type>no_match</type>
+    <snippet> nu kho, bhante, āraññikā’’ti? ‘‘Pañcime, upāli, āraññikā </snippet>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">veramaṇī</alternative>
+    </alternatives>
+    <references>
+      <reference>a. ni. 5.181</reference>
+      <reference>pari. 325</reference>
+    </references>
+  </note>
+  <note reference-line="139" id="15">
+    <original>veramaṇi (ka.)</original>
+    <type>auto</type>
+    <snippet>‘‘Kati nu kho, bhante, veramaṇiyo’’ti? ‘‘Pañcimā, upāli, veramaṇiyo. Katamā pañca? Pāṇātipātā veramaṇī </snippet>
+    <match>veramaṇī</match>
+    <alternatives>
       <alternative source-abbr="ka." source="cambodian">veramaṇi</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet>Kati nu kho, bhante, veramaṇiyo’’ti? Pañcimā, upāli, veramaṇiyo. Katamā pañca? Pāṇātipātā veramaṇī </snippet>
   </note>
-  <note line="77" original="pari. 325; a. ni. 5.130" reference-line="140" id="16">
-    <type>raw</type>
-  </note>
-  <note line="80" original="pari. 325; a. ni. 5.130" reference-line="141" id="17">
-    <type>raw</type>
-  </note>
-  <note line="83" original="āveṇibhāvaṃ (sī. syā.)" reference-line="196" id="18">
-    <extra></extra>
+  <note reference-line="140" id="16">
+    <original>pari. 325; a. ni. 5.130</original>
+    <type>no_match</type>
+    <snippet> ‘‘Kati nu kho, bhante, byasanānī’’ti? ‘‘Pañcimāni, upāli, byasanāni. </snippet>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">āvenibhāvaṃ</alternative>
+    </alternatives>
+    <references>
+      <reference>pari. 325</reference>
+      <reference>a. ni. 5.130</reference>
+    </references>
+  </note>
+  <note reference-line="141" id="17">
+    <original>pari. 325; a. ni. 5.130</original>
+    <type>no_match</type>
+    <snippet>‘‘Kati nu kho, bhante, sampadā’’ti? ‘‘Pañcimā, upāli, sampadā. </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>pari. 325</reference>
+      <reference>a. ni. 5.130</reference>
+    </references>
+  </note>
+  <note reference-line="196" id="18">
+    <original>āveṇibhāvaṃ (sī. syā.)</original>
+    <type>auto</type>
+    <snippet> senāsanavattaṃ – yathāvuḍḍhaṃ yathārattaṃ yathāpatirūpaṃ. Evaṃ supaññatte kho, upāli, mayā sikkhāpade navā bhikkhū therānaṃ bhikkhūnaṃ senāsanaṃ paṭibāhanti. Evampi kho, upāli, saṅgharāji hoti no ca saṅghabhedo. Paññattetaṃ, upāli, mayā bhikkhūnaṃ antosīmāya ekaṃ uposathaṃ ekaṃ pavāraṇaṃ ekaṃ saṅghakammaṃ ekaṃ kammākammaṃ. Evaṃ supaññatte kho, upāli, mayā sikkhāpade tattheva antosīmāya āvenibhāvaṃ </snippet>
+    <match>āvenibhāvaṃ</match>
+    <alternatives>
       <alternative source-abbr="sī." source="sri lanka">āveṇibhāvaṃ</alternative>
       <alternative source-abbr="syā." source="thai">āveṇibhāvaṃ</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> senāsanavattaṃ – yathāvuḍḍhaṃ yathārattaṃ yathāpatirūpaṃ. Evaṃ supaññatte kho, upāli, mayā sikkhāpade navā bhikkhū therānaṃ bhikkhūnaṃ senāsanaṃ paṭibāhanti. Evampi kho, upāli, saṅgharāji hoti no ca saṅghabhedo. Paññattetaṃ, upāli, mayā bhikkhūnaṃ antosīmāya ekaṃ uposathaṃ ekaṃ pavāraṇaṃ ekaṃ saṅghakammaṃ ekaṃ kammākammaṃ. Evaṃ supaññatte kho, upāli, mayā sikkhāpade tattheva antosīmāya āvenibhāvaṃ </snippet>
   </note>
-  <note line="93" original="āveṇi (sī. syā.)" reference-line="196" id="19">
-    <extra></extra>
+  <note reference-line="196" id="19">
+    <original>āveṇi (sī. syā.)</original>
+    <type>auto</type>
+    <snippet> āveniṃ </snippet>
+    <match>āveniṃ</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">āveniṃ</alternative>
       <alternative source-abbr="sī." source="sri lanka">āveṇi</alternative>
       <alternative source-abbr="syā." source="thai">āveṇi</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> āveniṃ </snippet>
   </note>
-  <note line="103" original="cūḷava. 354-355; a. ni. 10.38 ādayo" reference-line="203" id="20">
+  <note reference-line="203" id="20">
+    <original>cūḷava. 354-355; a. ni. 10.38 ādayo</original>
     <type>raw</type>
+    <snippet>.</snippet>
+    <alternatives>
+    </alternatives>
   </note>
-  <note line="106" original="a. ni. 5.272-285" reference-line="236" id="21">
+  <note reference-line="236" id="21">
+    <original>a. ni. 5.272-285</original>
     <type>raw</type>
+    <snippet>.</snippet>
+    <alternatives>
+    </alternatives>
   </note>
-  <note line="109" original="a. ni. 5.272-285" reference-line="237" id="22">
+  <note reference-line="237" id="22">
+    <original>a. ni. 5.272-285</original>
     <type>raw</type>
+    <snippet>
+
+</snippet>
+    <alternatives>
+    </alternatives>
   </note>
 </notes>

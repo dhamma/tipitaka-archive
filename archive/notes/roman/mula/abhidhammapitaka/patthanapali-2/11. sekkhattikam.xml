@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?>
 <notes archive-path="/mula/abhidhammapitaka/patthanapali-2/11. sekkhattikam">
-  <note line="3" original="nevasekhānāsekho (sī.), nevasekkhānāsekkho (syā. ka.)" reference-line="7" id="0">
-    <extra></extra>
+  <note reference-line="7" id="0">
+    <original>nevasekhānāsekho (sī.), nevasekkhānāsekkho (syā. ka.)</original>
+    <type>auto</type>
+    <snippet>Sekkhaṃ dhammaṃ paṭicca nevasekkhanāsekkho </snippet>
+    <match>nevasekkhanāsekkho</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">nevasekkhanāsekkho</alternative>
       <alternative source-abbr="sī." source="sri lanka">nevasekhānāsekho</alternative>
       <alternative source-abbr="syā." source="thai">nevasekkhānāsekkho</alternative>
       <alternative source-abbr="ka." source="cambodian">nevasekkhānāsekkho</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet>Sekkhaṃ dhammaṃ paṭicca nevasekkhanāsekkho </snippet>
   </note>
 </notes>

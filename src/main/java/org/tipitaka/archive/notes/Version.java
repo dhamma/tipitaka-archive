@@ -5,7 +5,7 @@ package org.tipitaka.archive.notes;
  */
 public enum Version {
   SRI_LANKA("sī."), PALI_TEXT_SOCIETY("pī."), VIPASSANA_RESEARCH_INSTITUT("vri"),
-  CAMBODIAN("ka."), THAI("syā."), UNKNOWN("?");
+  CAMBODIAN("ka."), THAI("syā."), KAM("kaṃ."), TI("ṭī."), UNKNOWN("?");
 
   public static final String SUFFIX = "_";
 

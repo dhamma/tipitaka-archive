@@ -1,37 +1,39 @@
-<?xml version="1.0" encoding="utf-8"?>
 <notes archive-path="/mula/suttapitaka/khuddakanikaya/khuddakapathapali/3. dvattimsakaro">
-  <note line="3" original="nahāru (sī. pī.), nahārū (syā. kaṃ.)" reference-line="4" id="0">
-    <extra></extra>
+  <note reference-line="4" id="0">
+    <original>nahāru (sī. pī.), nahārū (syā. kaṃ.)</original>
+    <type>auto</type>
+    <snippet>Maṃsaṃ nhāru </snippet>
+    <match>nhāru</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">nhāru</alternative>
       <alternative source-abbr="sī." source="sri lanka">nahāru</alternative>
       <alternative source-abbr="pī." source="pali text society">nahāru</alternative>
       <alternative source-abbr="syā." source="thai">nahārū</alternative>
-      <alternative source-abbr="kaṃ." source="kaṃ.">nahārū</alternative>
+      <alternative source-abbr="kaṃ." source="kam">nahārū</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet>Maṃsaṃ nhāru </snippet>
   </note>
-  <note line="15" original="aṭṭhī (syā. kaṃ)" reference-line="4" id="1">
-    <extra></extra>
-    <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">aṭṭhi</alternative>
-      <alternative source-abbr="syā." source="thai">aṭṭhī</alternative>
-      <alternative source-abbr="kaṃ" source="kaṃ">aṭṭhī</alternative>
-    </alternatives>
+  <note reference-line="4" id="1">
+    <original>aṭṭhī (syā. kaṃ)</original>
     <type>auto</type>
     <snippet> aṭṭhi </snippet>
-  </note>
-  <note line="25" original="( ) sabbattha natthi, aṭṭhakathā ca dvattiṃsasaṅkhyā ca manasi kātabbā" reference-line="6" id="2">
-    <type>raw</type>
-  </note>
-  <note line="28" original="muttaṃ, matthake matthaluṅganti (syā.)" reference-line="8" id="3">
-    <extra></extra>
+    <match>aṭṭhi</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">muttanti</alternative>
+      <alternative source-abbr="syā." source="thai">aṭṭhī</alternative>
+      <alternative source-abbr="kaṃ." source="kam">aṭṭhī</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="6" id="2">
+    <original>( ) sabbattha natthi, aṭṭhakathā ca dvattiṃsasaṅkhyā ca manasi kātabbā</original>
+    <type>raw</type>
+    <snippet>Antaṃ antaguṇaṃ udariyaṃ karīsaṃ matthaluṅgaṃ </snippet>
+    <alternatives>
+    </alternatives>
+  </note>
+  <note reference-line="8" id="3">
+    <original>muttaṃ, matthake matthaluṅganti (syā.)</original>
+    <type>no_match</type>
+    <snippet>Assu vasā kheḷo siṅghāṇikā lasikā muttanti </snippet>
+    <alternatives>
       <alternative source-abbr="syā." source="thai">muttaṃ, matthake matthaluṅganti</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet>Assu vasā kheḷo siṅghāṇikā lasikā muttanti </snippet>
   </note>
 </notes>

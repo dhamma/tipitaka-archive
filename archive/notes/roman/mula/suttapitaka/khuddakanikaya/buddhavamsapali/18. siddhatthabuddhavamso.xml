@@ -1,32 +1,31 @@
-<?xml version="1.0" encoding="utf-8"?>
 <notes archive-path="/mula/suttapitaka/khuddakanikaya/buddhavamsapali/18. siddhatthabuddhavamso">
-  <note line="3" original="himaraṭṭhe (ka.)" reference-line="12" id="0">
-    <extra></extra>
-    <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">bhīmarathe</alternative>
-      <alternative source-abbr="ka." source="cambodian">himaraṭṭhe</alternative>
-    </alternatives>
+  <note reference-line="12" id="0">
+    <original>himaraṭṭhe (ka.)</original>
     <type>auto</type>
     <snippet> Punāparaṃ bhīmarathe </snippet>
-  </note>
-  <note line="12" original="navutiyā (syā. kaṃ.)" reference-line="21" id="1">
-    <extra></extra>
+    <match>bhīmarathe</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">navutīnaṃ</alternative>
-      <alternative source-abbr="syā." source="thai">navutiyā</alternative>
-      <alternative source-abbr="kaṃ." source="kaṃ.">navutiyā</alternative>
+      <alternative source-abbr="ka." source="cambodian">himaraṭṭhe</alternative>
     </alternatives>
+  </note>
+  <note reference-line="21" id="1">
+    <original>navutiyā (syā. kaṃ.)</original>
     <type>auto</type>
     <snippet> navutīnaṃ </snippet>
-  </note>
-  <note line="22" original="phalamāhatvā (sī. syā.)" reference-line="27" id="2">
-    <extra></extra>
+    <match>navutīnaṃ</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">phalamānetvā</alternative>
+      <alternative source-abbr="syā." source="thai">navutiyā</alternative>
+      <alternative source-abbr="kaṃ." source="kam">navutiyā</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="27" id="2">
+    <original>phalamāhatvā (sī. syā.)</original>
+    <type>auto</type>
+    <snippet> Jambuto phalamānetvā </snippet>
+    <match>phalamānetvā</match>
+    <alternatives>
       <alternative source-abbr="sī." source="sri lanka">phalamāhatvā</alternative>
       <alternative source-abbr="syā." source="thai">phalamāhatvā</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> Jambuto phalamānetvā </snippet>
   </note>
 </notes>

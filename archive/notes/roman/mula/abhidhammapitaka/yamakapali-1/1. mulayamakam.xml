@@ -1,12 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?>
 <notes archive-path="/mula/abhidhammapitaka/yamakapali-1/1. mulayamakam">
-  <note line="3" original="samuṭṭhānāhārārammaṇaṃ (ka.)" reference-line="124" id="0">
-    <extra></extra>
-    <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">Samuṭṭhānāhārārammaṇā</alternative>
-      <alternative source-abbr="ka." source="cambodian">samuṭṭhānāhārārammaṇaṃ</alternative>
-    </alternatives>
+  <note reference-line="124" id="0">
+    <original>samuṭṭhānāhārārammaṇaṃ (ka.)</original>
     <type>auto</type>
     <snippet>Samuṭṭhānāhārārammaṇā </snippet>
+    <match>Samuṭṭhānāhārārammaṇā</match>
+    <alternatives>
+      <alternative source-abbr="ka." source="cambodian">samuṭṭhānāhārārammaṇaṃ</alternative>
+    </alternatives>
   </note>
 </notes>

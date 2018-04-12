@@ -1,21 +1,20 @@
-<?xml version="1.0" encoding="utf-8"?>
 <notes archive-path="/mula/suttapitaka/khuddakanikaya/buddhavamsapali/5. mangalabuddhavamso">
-  <note line="3" original="navakoṭisahassānaṃ (sī.)" reference-line="16" id="0">
-    <extra></extra>
-    <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">koṭisahassānaṃ</alternative>
-      <alternative source-abbr="sī." source="sri lanka">navakoṭisahassānaṃ</alternative>
-    </alternatives>
+  <note reference-line="16" id="0">
+    <original>navakoṭisahassānaṃ (sī.)</original>
     <type>auto</type>
     <snippet>Tadā koṭisahassānaṃ </snippet>
-  </note>
-  <note line="12" original="saṃkilesamaraṇaṃ (sī.)" reference-line="88" id="1">
-    <extra></extra>
+    <match>koṭisahassānaṃ</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">sakilesamaraṇaṃ</alternative>
-      <alternative source-abbr="sī." source="sri lanka">saṃkilesamaraṇaṃ</alternative>
+      <alternative source-abbr="sī." source="sri lanka">navakoṭisahassānaṃ</alternative>
     </alternatives>
+  </note>
+  <note reference-line="88" id="1">
+    <original>saṃkilesamaraṇaṃ (sī.)</original>
     <type>auto</type>
     <snippet> tassa sāsane atthi, sakilesamaraṇaṃ </snippet>
+    <match>sakilesamaraṇaṃ</match>
+    <alternatives>
+      <alternative source-abbr="sī." source="sri lanka">saṃkilesamaraṇaṃ</alternative>
+    </alternatives>
   </note>
 </notes>

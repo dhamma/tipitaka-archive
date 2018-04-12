@@ -1,29 +1,27 @@
-<?xml version="1.0" encoding="utf-8"?>
 <notes archive-path="/mula/suttapitaka/khuddakanikaya/buddhavamsapali/22. sikhibuddhavamso">
-  <note line="3" original="munipuṅgave (sī.)" reference-line="9" id="0">
-    <extra></extra>
-    <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">jinapuṅgave</alternative>
-      <alternative source-abbr="sī." source="sri lanka">munipuṅgave</alternative>
-    </alternatives>
+  <note reference-line="9" id="0">
+    <original>munipuṅgave (sī.)</original>
     <type>auto</type>
     <snippet> Dhammacakkaṃ pavattente, sikhimhi jinapuṅgave </snippet>
-  </note>
-  <note line="12" original="yamakaṃ pāṭihīrañca (sī.)" reference-line="15" id="1">
-    <extra></extra>
+    <match>jinapuṅgave</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">Yamakapāṭihāriyañca</alternative>
+      <alternative source-abbr="sī." source="sri lanka">munipuṅgave</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="15" id="1">
+    <original>yamakaṃ pāṭihīrañca (sī.)</original>
+    <type>no_match</type>
+    <snippet> Yamakapāṭihāriyañca </snippet>
+    <alternatives>
       <alternative source-abbr="sī." source="sri lanka">yamakaṃ pāṭihīrañca</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> Yamakapāṭihāriyañca </snippet>
   </note>
-  <note line="21" original="sucando girivahano (sī.)" reference-line="48" id="2">
-    <extra></extra>
+  <note reference-line="48" id="2">
+    <original>sucando girivahano (sī.)</original>
+    <type>no_match</type>
+    <snippet>Sucandako giri vasabho </snippet>
     <alternatives>
       <alternative source-abbr="sī." source="sri lanka">sucando girivahano</alternative>
     </alternatives>
-    <type>no_match</type>
-    <snippet>Sucandako giri vasabho </snippet>
   </note>
 </notes>

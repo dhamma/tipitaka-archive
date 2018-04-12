@@ -1,40 +1,58 @@
-<?xml version="1.0" encoding="utf-8"?>
 <notes archive-path="/mula/abhidhammapitaka/kathavatthupali/6. chatthavaggo">
-  <note line="3" original="saṃ. ni. 2.20" reference-line="21" id="0">
-    <type>raw</type>
+  <note reference-line="21" id="0">
+    <original>saṃ. ni. 2.20</original>
+    <type>no_match</type>
+    <snippet>. Bhavapaccayā, bhikkhave, jāti…pe… avijjāpaccayā, bhikkhave, saṅkhārā. Uppādā vā tathāgatānaṃ anuppādā vā tathāgatānaṃ ṭhitāva sā dhātu…pe… ‘passathā’ti cāha – avijjāpaccayā, bhikkhave, saṅkhārā. Iti kho, bhikkhave, yā tatra tathatā avitathatā anaññathatā idappaccayatā – ayaṃ vuccati, bhikkhave, paṭiccasamuppādo’’ti </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>saṃ. ni. 2.20</reference>
+    </references>
   </note>
-  <note line="6" original="saṃ. ni. 5.1090" reference-line="33" id="1">
-    <type>raw</type>
+  <note reference-line="33" id="1">
+    <original>saṃ. ni. 5.1090</original>
+    <type>no_match</type>
+    <snippet>. Nanu vuttaṃ bhagavatā – ‘‘cattārimāni, bhikkhave, tathāni avitathāni anaññathāni! Katamāni cattāri? ‘Idaṃ dukkha’nti, bhikkhave, tathametaṃ avitathametaṃ anaññathametaṃ…pe… ‘ayaṃ dukkhasamudayo’ti…pe… ‘ayaṃ dukkhanirodho’ti…pe… ‘ayaṃ dukkhanirodhagāminī paṭipadā’ti tathametaṃ avitathametaṃ anaññathametaṃ. Imāni kho, bhikkhave, cattāri tathāni avitathāni anaññathānī’’ti </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>saṃ. ni. 5.1090</reference>
+    </references>
   </note>
-  <note line="9" original="sattiṃ (?)" reference-line="56" id="2">
-    <extra></extra>
+  <note reference-line="56" id="2">
+    <original>sattiṃ (?)</original>
+    <type>auto</type>
+    <snippet>Ākāse pakkhino gacchanti, candimasūriyā gacchanti, tārakarūpāni gacchanti, iddhiṃ vikubbanti, bāhuṃ cālenti, pāṇiṃ cālenti, leḍḍuṃ khipanti, laguḷaṃ khipanti, iddhiṃ </snippet>
+    <match>iddhiṃ</match>
     <alternatives>
       <alternative source-abbr="?" source="unknown">sattiṃ</alternative>
     </alternatives>
-    <type>no_match</type>
-    <snippet>Ākāse pakkhino gacchanti, candimasūriyā gacchanti, tārakarūpāni gacchanti, iddhiṃ vikubbanti, bāhuṃ cālenti, pāṇiṃ cālenti, leḍḍuṃ khipanti, laguḷaṃ khipanti, iddhiṃ </snippet>
   </note>
-  <note line="17" original="atthi (?)" reference-line="66" id="3">
-    <extra></extra>
+  <note reference-line="66" id="3">
+    <original>atthi (?)</original>
+    <type>auto</type>
+    <snippet>Cakkhuñca paṭicca ākāsañca uppajjati cakkhuviññāṇanti? Āmantā. ‘‘Cakkhuñca paṭicca ākāsañca uppajjati cakkhuviññāṇa’’nti – attheva </snippet>
+    <match>attheva</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">attheva</alternative>
       <alternative source-abbr="?" source="unknown">atthi</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet>Cakkhuñca paṭicca ākāsañca uppajjati cakkhuviññāṇanti? Āmantā. Cakkhuñca paṭicca ākāsañca uppajjati cakkhuviññāṇa’’nti – attheva </snippet>
   </note>
-  <note line="26" original="ma. ni. 1.400; 3.421; saṃ. ni. 4.60" reference-line="66" id="4">
-    <type>raw</type>
-  </note>
-  <note line="29" original="passasi (sī. syā. ka.) evamuparipi" reference-line="74" id="5">
-    <extra> evamuparipi</extra>
+  <note reference-line="66" id="4">
+    <original>ma. ni. 1.400; 3.421; saṃ. ni. 4.60</original>
+    <type>no_match</type>
+    <snippet> suttantoti? Natthi. ‘‘Cakkhuñca paṭicca rūpe ca uppajjati cakkhuviññāṇa’’nti </snippet>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">passati</alternative>
-      <alternative source-abbr="sī." source="sri lanka">passasi</alternative>
-      <alternative source-abbr="syā." source="thai">passasi</alternative>
-      <alternative source-abbr="ka." source="cambodian">passasi</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> Na vattabbaṃ – pathavīdhātu sanidassanā’’ti? Āmantā. Nanu passati bhūmiṃ pāsāṇaṃ pabbatanti? Āmantā. Hañci passati </snippet>
+    <references>
+      <reference>ma. ni. 1.400</reference>
+      <reference>saṃ. ni. 4.60</reference>
+    </references>
+  </note>
+  <note reference-line="74" id="5">
+    <original>passasi (sī. syā. ka.) evamuparipi</original>
+    <type>raw</type>
+    <snippet> Na vattabbaṃ – ‘‘pathavīdhātu sanidassanā’’ti? Āmantā. Nanu passati bhūmiṃ pāsāṇaṃ pabbatanti? Āmantā. Hañci passati </snippet>
+    <alternatives>
+    </alternatives>
   </note>
 </notes>

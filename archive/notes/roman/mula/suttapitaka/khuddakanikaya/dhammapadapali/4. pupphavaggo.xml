@@ -1,130 +1,124 @@
-<?xml version="1.0" encoding="utf-8"?>
 <notes archive-path="/mula/suttapitaka/khuddakanikaya/dhammapadapali/4. pupphavaggo">
-  <note line="3" original="komaṃ (ka.)" reference-line="3" id="0">
-    <extra></extra>
-    <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">imaṃ</alternative>
-      <alternative source-abbr="ka." source="cambodian">komaṃ</alternative>
-    </alternatives>
+  <note reference-line="3" id="0">
+    <original>komaṃ (ka.)</original>
     <type>auto</type>
     <snippet> imaṃ </snippet>
-  </note>
-  <note line="12" original="vijessati (sī. syā. pī.)" reference-line="3" id="1">
-    <extra></extra>
+    <match>imaṃ</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">vicessati</alternative>
+      <alternative source-abbr="ka." source="cambodian">komaṃ</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="3" id="1">
+    <original>vijessati (sī. syā. pī.)</original>
+    <type>auto</type>
+    <snippet> pathaviṃ vicessati </snippet>
+    <match>vicessati</match>
+    <alternatives>
       <alternative source-abbr="sī." source="sri lanka">vijessati</alternative>
       <alternative source-abbr="syā." source="thai">vijessati</alternative>
       <alternative source-abbr="pī." source="pali text society">vijessati</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> pathaviṃ vicessati </snippet>
   </note>
-  <note line="23" original="pupphamivappacessati (ka.)" reference-line="4" id="2">
-    <extra></extra>
-    <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">pacessati</alternative>
-      <alternative source-abbr="ka." source="cambodian">pupphamivappacessati</alternative>
-    </alternatives>
+  <note reference-line="4" id="2">
+    <original>pupphamivappacessati (ka.)</original>
     <type>auto</type>
     <snippet>Ko dhammapadaṃ sudesitaṃ, kusalo pupphamiva pacessati </snippet>
-  </note>
-  <note line="32" original="sapupphakāni (ṭīkā)" reference-line="10" id="3">
-    <extra></extra>
+    <match>pacessati</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">papupphakāni</alternative>
-      <alternative source-abbr="ṭīkā" source="ṭīkā">sapupphakāni</alternative>
+      <alternative source-abbr="ka." source="cambodian">pupphamivappacessati</alternative>
     </alternatives>
-    <type>auto</type>
+  </note>
+  <note reference-line="10" id="3">
+    <original>sapupphakāni (ṭīkā)</original>
+    <type>raw</type>
     <snippet>Chetvāna mārassa papupphakāni </snippet>
-  </note>
-  <note line="41" original="byāsattamānasaṃ (ka.)" reference-line="12" id="4">
-    <extra></extra>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">byāsattamanasaṃ</alternative>
-      <alternative source-abbr="ka." source="cambodian">byāsattamānasaṃ</alternative>
     </alternatives>
+  </note>
+  <note reference-line="12" id="4">
+    <original>byāsattamānasaṃ (ka.)</original>
     <type>auto</type>
     <snippet> Pupphāni heva pacinantaṃ, byāsattamanasaṃ </snippet>
-  </note>
-  <note line="50" original="vaṇṇagandhamapoṭhayaṃ (ka.)" reference-line="18" id="5">
-    <extra></extra>
+    <match>byāsattamanasaṃ</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">vaṇṇagandhamaheṭhayaṃ</alternative>
-      <alternative source-abbr="ka." source="cambodian">vaṇṇagandhamapoṭhayaṃ</alternative>
+      <alternative source-abbr="ka." source="cambodian">byāsattamānasaṃ</alternative>
     </alternatives>
+  </note>
+  <note reference-line="18" id="5">
+    <original>vaṇṇagandhamapoṭhayaṃ (ka.)</original>
     <type>auto</type>
     <snippet> Yathāpi bhamaro pupphaṃ, vaṇṇagandhamaheṭhayaṃ </snippet>
-  </note>
-  <note line="59" original="sagandhakaṃ (sī. syā. kaṃ. pī.)" reference-line="27" id="6">
-    <extra></extra>
+    <match>vaṇṇagandhamaheṭhayaṃ</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">sugandhakaṃ</alternative>
-      <alternative source-abbr="sī." source="sri lanka">sagandhakaṃ</alternative>
-      <alternative source-abbr="syā." source="thai">sagandhakaṃ</alternative>
-      <alternative source-abbr="kaṃ." source="kaṃ.">sagandhakaṃ</alternative>
-      <alternative source-abbr="pī." source="pali text society">sagandhakaṃ</alternative>
+      <alternative source-abbr="ka." source="cambodian">vaṇṇagandhamapoṭhayaṃ</alternative>
     </alternatives>
+  </note>
+  <note reference-line="27" id="6">
+    <original>sagandhakaṃ (sī. syā. kaṃ. pī.)</original>
     <type>auto</type>
     <snippet> ruciraṃ pupphaṃ, vaṇṇavantaṃ sugandhakaṃ </snippet>
-  </note>
-  <note line="71" original="sakubbato (sī. pī.), pakubbato (sī. aṭṭha.), sukubbato (syā. kaṃ.)" reference-line="28" id="7">
-    <extra></extra>
+    <match>sugandhakaṃ</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">kubbato</alternative>
-      <alternative source-abbr="sī." source="sri lanka">sakubbato</alternative>
-      <alternative source-abbr="pī." source="pali text society">sakubbato</alternative>
-      <alternative source-abbr="sī." source="sri lanka">pakubbato</alternative>
-      <alternative source-abbr="aṭṭha." source="aṭṭha.">pakubbato</alternative>
-      <alternative source-abbr="syā." source="thai">sukubbato</alternative>
-      <alternative source-abbr="kaṃ." source="kaṃ.">sukubbato</alternative>
+      <alternative source-abbr="sī." source="sri lanka">sagandhakaṃ</alternative>
+      <alternative source-abbr="syā." source="thai">sagandhakaṃ</alternative>
+      <alternative source-abbr="kaṃ." source="kam">sagandhakaṃ</alternative>
+      <alternative source-abbr="pī." source="pali text society">sagandhakaṃ</alternative>
     </alternatives>
+  </note>
+  <note reference-line="28" id="7">
+    <original>sakubbato (sī. pī.), pakubbato (sī. aṭṭha.), sukubbato (syā. kaṃ.)</original>
     <type>auto</type>
     <snippet>Evaṃ subhāsitā vācā, saphalā hoti kubbato </snippet>
-  </note>
-  <note line="85" original="tagaramallikā (sī. syā. kaṃ. pī.)" reference-line="33" id="8">
-    <extra></extra>
+    <match>kubbato</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">tagaramallikā</alternative>
-      <alternative source-abbr="sī." source="sri lanka">tagaramallikā</alternative>
-      <alternative source-abbr="syā." source="thai">tagaramallikā</alternative>
-      <alternative source-abbr="kaṃ." source="kaṃ.">tagaramallikā</alternative>
-      <alternative source-abbr="pī." source="pali text society">tagaramallikā</alternative>
+      <alternative source-abbr="sī." source="sri lanka">sakubbato</alternative>
+      <alternative source-abbr="pī." source="pali text society">sakubbato</alternative>
+      <alternative source-abbr="syā." source="thai">sukubbato</alternative>
+      <alternative source-abbr="kaṃ." source="kam">sukubbato</alternative>
     </alternatives>
+  </note>
+  <note reference-line="33" id="8">
+    <original>tagaramallikā (sī. syā. kaṃ. pī.)</original>
     <type>auto</type>
     <snippet> Na pupphagandho paṭivātameti, na candanaṃ tagaramallikā </snippet>
-  </note>
-  <note line="97" original="yāyaṃ tagaracandanī (sī. syā. kaṃ. pī.)" reference-line="39" id="9">
-    <extra></extra>
+    <match>tagaramallikā</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">yvāyaṃ tagaracandanaṃ</alternative>
+      <alternative source-abbr="sī." source="sri lanka">tagaramallikā</alternative>
+      <alternative source-abbr="syā." source="thai">tagaramallikā</alternative>
+      <alternative source-abbr="kaṃ." source="kam">tagaramallikā</alternative>
+      <alternative source-abbr="pī." source="pali text society">tagaramallikā</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="39" id="9">
+    <original>yāyaṃ tagaracandanī (sī. syā. kaṃ. pī.)</original>
+    <type>no_match</type>
+    <snippet> Appamatto ayaṃ gandho, yvāyaṃ tagaracandanaṃ </snippet>
+    <alternatives>
       <alternative source-abbr="sī." source="sri lanka">yāyaṃ tagaracandanī</alternative>
       <alternative source-abbr="syā." source="thai">yāyaṃ tagaracandanī</alternative>
-      <alternative source-abbr="kaṃ." source="kaṃ.">yāyaṃ tagaracandanī</alternative>
+      <alternative source-abbr="kaṃ." source="kam">yāyaṃ tagaracandanī</alternative>
       <alternative source-abbr="pī." source="pali text society">yāyaṃ tagaracandanī</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> Appamatto ayaṃ gandho, yvāyaṃ tagaracandanaṃ </snippet>
   </note>
-  <note line="109" original="saṅkāradhānasmiṃ (sī. syā. kaṃ. pī.)" reference-line="45" id="10">
-    <extra></extra>
-    <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">saṅkāraṭhānasmiṃ</alternative>
-      <alternative source-abbr="sī." source="sri lanka">saṅkāradhānasmiṃ</alternative>
-      <alternative source-abbr="syā." source="thai">saṅkāradhānasmiṃ</alternative>
-      <alternative source-abbr="kaṃ." source="kaṃ.">saṅkāradhānasmiṃ</alternative>
-      <alternative source-abbr="pī." source="pali text society">saṅkāradhānasmiṃ</alternative>
-    </alternatives>
+  <note reference-line="45" id="10">
+    <original>saṅkāradhānasmiṃ (sī. syā. kaṃ. pī.)</original>
     <type>auto</type>
     <snippet> Yathā saṅkāraṭhānasmiṃ </snippet>
-  </note>
-  <note line="121" original="andhībhūte (ka.)" reference-line="48" id="11">
-    <extra></extra>
+    <match>saṅkāraṭhānasmiṃ</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">andhabhūte</alternative>
-      <alternative source-abbr="ka." source="cambodian">andhībhūte</alternative>
+      <alternative source-abbr="sī." source="sri lanka">saṅkāradhānasmiṃ</alternative>
+      <alternative source-abbr="syā." source="thai">saṅkāradhānasmiṃ</alternative>
+      <alternative source-abbr="kaṃ." source="kam">saṅkāradhānasmiṃ</alternative>
+      <alternative source-abbr="pī." source="pali text society">saṅkāradhānasmiṃ</alternative>
     </alternatives>
+  </note>
+  <note reference-line="48" id="11">
+    <original>andhībhūte (ka.)</original>
     <type>auto</type>
     <snippet> saṅkārabhūtesu, andhabhūte </snippet>
+    <match>andhabhūte</match>
+    <alternatives>
+      <alternative source-abbr="ka." source="cambodian">andhībhūte</alternative>
+    </alternatives>
   </note>
 </notes>

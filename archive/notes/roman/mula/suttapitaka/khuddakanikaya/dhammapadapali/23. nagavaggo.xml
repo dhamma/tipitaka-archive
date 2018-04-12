@@ -1,61 +1,62 @@
-<?xml version="1.0" encoding="utf-8"?>
 <notes archive-path="/mula/suttapitaka/khuddakanikaya/dhammapadapali/23. nagavaggo">
-  <note line="3" original="ājānīyāva (syā.)" reference-line="9" id="0">
-    <extra></extra>
+  <note reference-line="9" id="0">
+    <original>ājānīyāva (syā.)</original>
+    <type>auto</type>
+    <snippet> Varamassatarā dantā, ājānīyā ca </snippet>
+    <match>ca</match>
     <alternatives>
       <alternative source-abbr="syā." source="thai">ājānīyāva</alternative>
     </alternatives>
-    <type>no_match</type>
-    <snippet> Varamassatarā dantā, ājānīyā ca </snippet>
   </note>
-  <note line="11" original="kuñjarāva (syā.)" reference-line="10" id="1">
-    <extra></extra>
+  <note reference-line="10" id="1">
+    <original>kuñjarāva (syā.)</original>
+    <type>auto</type>
+    <snippet>Kuñjarā ca </snippet>
+    <match>ca</match>
     <alternatives>
       <alternative source-abbr="syā." source="thai">kuñjarāva</alternative>
     </alternatives>
-    <type>no_match</type>
-    <snippet>Kuñjarā ca </snippet>
   </note>
-  <note line="19" original="dhanapālako (sī. syā. kaṃ. pī.)" reference-line="15" id="2">
-    <extra></extra>
-    <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">Dhanapālo</alternative>
-      <alternative source-abbr="sī." source="sri lanka">dhanapālako</alternative>
-      <alternative source-abbr="syā." source="thai">dhanapālako</alternative>
-      <alternative source-abbr="kaṃ." source="kaṃ.">dhanapālako</alternative>
-      <alternative source-abbr="pī." source="pali text society">dhanapālako</alternative>
-    </alternatives>
+  <note reference-line="15" id="2">
+    <original>dhanapālako (sī. syā. kaṃ. pī.)</original>
     <type>auto</type>
     <snippet> Dhanapālo </snippet>
-  </note>
-  <note line="31" original="kaṭukappabhedano (sī. syā. pī.)" reference-line="15" id="3">
-    <extra></extra>
+    <match>Dhanapālo</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">kaṭukabhedano</alternative>
+      <alternative source-abbr="sī." source="sri lanka">dhanapālako</alternative>
+      <alternative source-abbr="syā." source="thai">dhanapālako</alternative>
+      <alternative source-abbr="kaṃ." source="kam">dhanapālako</alternative>
+      <alternative source-abbr="pī." source="pali text society">dhanapālako</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="15" id="3">
+    <original>kaṭukappabhedano (sī. syā. pī.)</original>
+    <type>auto</type>
+    <snippet> nāma kuñjaro, kaṭukabhedano </snippet>
+    <match>kaṭukabhedano</match>
+    <alternatives>
       <alternative source-abbr="sī." source="sri lanka">kaṭukappabhedano</alternative>
       <alternative source-abbr="syā." source="thai">kaṭukappabhedano</alternative>
       <alternative source-abbr="pī." source="pali text society">kaṭukappabhedano</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> nāma kuñjaro, kaṭukabhedano </snippet>
   </note>
-  <note line="42" original="susarati (ka.)" reference-line="16" id="4">
-    <extra></extra>
-    <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">sumarati</alternative>
-      <alternative source-abbr="ka." source="cambodian">susarati</alternative>
-    </alternatives>
+  <note reference-line="16" id="4">
+    <original>susarati (ka.)</original>
     <type>auto</type>
     <snippet>Baddho kabaḷaṃ na bhuñjati, sumarati </snippet>
-  </note>
-  <note line="51" original="sattova (sī. pī.)" reference-line="25" id="5">
-    <extra></extra>
+    <match>sumarati</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">sannova</alternative>
+      <alternative source-abbr="ka." source="cambodian">susarati</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="25" id="5">
+    <original>sattova (sī. pī.)</original>
+    <type>auto</type>
+    <snippet>Duggā uddharathattānaṃ, paṅke sannova </snippet>
+    <match>sannova</match>
+    <alternatives>
       <alternative source-abbr="sī." source="sri lanka">sattova</alternative>
       <alternative source-abbr="pī." source="pali text society">sattova</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet>Duggā uddharathattānaṃ, paṅke sannova </snippet>
   </note>
 </notes>

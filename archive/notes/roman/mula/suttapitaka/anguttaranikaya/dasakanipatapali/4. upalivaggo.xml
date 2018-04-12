@@ -1,38 +1,52 @@
-<?xml version="1.0" encoding="utf-8"?>
 <notes archive-path="/mula/suttapitaka/anguttaranikaya/dasakanipatapali/4. upalivaggo">
-  <note line="3" original="cūḷava. 231" reference-line="8" id="0">
+  <note reference-line="8" id="0">
+    <original>cūḷava. 231</original>
+    <type>no_match</type>
+    <snippet>.</snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>cūḷava. 231</reference>
+    </references>
+  </note>
+  <note reference-line="8" id="1">
+    <original>satthā sabyañjanā (sī.) evamuparipi</original>
     <type>raw</type>
-  </note>
-  <note line="6" original="satthā sabyañjanā (sī.) evamuparipi" reference-line="8" id="1">
-    <extra> evamuparipi</extra>
+    <snippet> nu kho, bhante, dhammehi samannāgato bhikkhu ubbāhikāya sammannitabbo’’ti? ‘‘Dasahi kho, upāli, dhammehi samannāgato bhikkhu ubbāhikāya sammannitabbo. Katamehi dasahi? Idhupāli, bhikkhu sīlavā hoti; pātimokkhasaṃvarasaṃvuto viharati ācāragocarasampanno aṇumattesu vajjesu bhayadassāvī, samādāya sikkhati sikkhāpadesu; bahussuto hoti sutadharo sutasannicayo, ye te dhammā ādikalyāṇā majjhekalyāṇā pariyosānakalyāṇā sātthaṃ sabyañjanaṃ </snippet>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">sātthaṃ sabyañjanaṃ</alternative>
-      <alternative source-abbr="sī." source="sri lanka">satthā sabyañjanā</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> nu kho, bhante, dhammehi samannāgato bhikkhu ubbāhikāya sammannitabbo’’ti? Dasahi kho, upāli, dhammehi samannāgato bhikkhu ubbāhikāya sammannitabbo. Katamehi dasahi? Idhupāli, bhikkhu sīlavā hoti; pātimokkhasaṃvarasaṃvuto viharati ācāragocarasampanno aṇumattesu vajjesu bhayadassāvī, samādāya sikkhati sikkhāpadesu; bahussuto hoti sutadharo sutasannicayo, ye te dhammā ādikalyāṇā majjhekalyāṇā pariyosānakalyāṇā sātthaṃ sabyañjanaṃ </snippet>
   </note>
-  <note line="15" original="āveniṃ (cūḷava. 352) āveṇi, āveṇikaṃ (tattheva adholipi)" reference-line="16" id="2">
-    <extra></extra>
-    <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">āveni</alternative>
-      <alternative source-abbr="cūḷava. 352" source="cūḷava. 352">āveniṃ</alternative>
-      <alternative source-abbr="tattheva adholipi" source="tattheva adholipi">āveṇi, āveṇikaṃ</alternative>
-    </alternatives>
-    <type>auto</type>
+  <note reference-line="16" id="2">
+    <original>āveniṃ (cūḷava. 352) āveṇi, āveṇikaṃ (tattheva adholipi)</original>
+    <type>raw</type>
     <snippet>, paññattaṃ tathāgatena apaññattaṃ tathāgatenāti dīpenti. Te imehi dasahi vatthūhi avakassanti apakassanti āveni </snippet>
+    <alternatives>
+    </alternatives>
   </note>
-  <note line="25" original="cūḷava. 353" reference-line="18" id="3">
-    <type>raw</type>
+  <note reference-line="18" id="3">
+    <original>cūḷava. 353</original>
+    <type>no_match</type>
+    <snippet>.</snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>cūḷava. 353</reference>
+    </references>
   </note>
-  <note line="28" original="bhetvāna (sī. syā.), bhitvāna (ka.) cūḷava. 354; itivu. 18; kathāva. 657" reference-line="24" id="4">
-    <extra> cūḷava. 354; itivu. 18; kathāva. 657</extra>
+  <note reference-line="24" id="4">
+    <original>bhetvāna (sī. syā.), bhitvāna (ka.) cūḷava. 354; itivu. 18; kathāva. 657</original>
+    <type>auto</type>
+    <snippet>Saṅghaṃ samaggaṃ bhinditvā </snippet>
+    <match>bhinditvā</match>
     <alternatives>
       <alternative source-abbr="sī." source="sri lanka">bhetvāna</alternative>
       <alternative source-abbr="syā." source="thai">bhetvāna</alternative>
       <alternative source-abbr="ka." source="cambodian">bhitvāna</alternative>
     </alternatives>
-    <type>no_match</type>
-    <snippet>Saṅghaṃ samaggaṃ bhinditvā </snippet>
+    <references>
+      <reference>cūḷava. 354</reference>
+      <reference>itivu. 18</reference>
+      <reference>kathāva. 657</reference>
+    </references>
   </note>
 </notes>

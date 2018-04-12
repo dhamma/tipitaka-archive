@@ -1,79 +1,77 @@
-<?xml version="1.0" encoding="utf-8"?>
 <notes archive-path="/anya/byakarana gantha-sangaho/subodhalankarapatha/4. atthalankaravabodha-catutthapariccheda">
-  <note line="3" original="yato accantakantā (ka.)" reference-line="4" id="0">
-    <extra></extra>
+  <note reference-line="4" id="0">
+    <original>yato accantakantā (ka.)</original>
+    <type>no_match</type>
+    <snippet>Accantakantā kantā </snippet>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">kantā</alternative>
       <alternative source-abbr="ka." source="cambodian">yato accantakantā</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet>Accantakantā kantā </snippet>
   </note>
-  <note line="12" original="vivatti (ṭīkā)" reference-line="157" id="1">
-    <extra></extra>
-    <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">vivutti</alternative>
-      <alternative source-abbr="ṭīkā" source="ṭīkā">vivatti</alternative>
-    </alternatives>
-    <type>auto</type>
-    <snippet>Asesa vatthu visayaṃ, ekadesa vivutti</snippet>
-  </note>
-  <note line="21" original="ṭīkāyaṃ uddhaṭaṃ yuttarūpakaṃ sitapupphujalaṃ lola, nettabhiṅga tavā’nanaṃ; kassa nāma mano dhīra, nākaḍḍhati manoharaṃ;" reference-line="187" id="2">
+  <note reference-line="157" id="1">
+    <original>vivatti (ṭīkā)</original>
     <type>raw</type>
-  </note>
-  <note line="24" original="punappunuccāraṇaṃ yaṃ (sī. ka.)" reference-line="196" id="3">
-    <extra></extra>
+    <snippet>Asesa vatthu visayaṃ, ekadesa vivutti</snippet>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">Punappuna muccāraṇaṃ</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="187" id="2">
+    <original>ṭīkāyaṃ uddhaṭaṃ yuttarūpakaṃ sitapupphujalaṃ lola, nettabhiṅga tavā’nanaṃ; kassa nāma mano dhīra, nākaḍḍhati manoharaṃ;</original>
+    <type>raw</type>
+    <snippet> bahūnye’va </snippet>
+    <alternatives>
+    </alternatives>
+  </note>
+  <note reference-line="196" id="3">
+    <original>punappunuccāraṇaṃ yaṃ (sī. ka.)</original>
+    <type>no_match</type>
+    <snippet> Punappuna muccāraṇaṃ </snippet>
+    <alternatives>
       <alternative source-abbr="sī." source="sri lanka">punappunuccāraṇaṃ yaṃ</alternative>
       <alternative source-abbr="ka." source="cambodian">punappunuccāraṇaṃ yaṃ</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> Punappuna muccāraṇaṃ </snippet>
   </note>
-  <note line="34" original="parikanta (ka.)" reference-line="248" id="4">
-    <extra></extra>
-    <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">parikkanta</alternative>
-      <alternative source-abbr="ka." source="cambodian">parikanta</alternative>
-    </alternatives>
+  <note reference-line="248" id="4">
+    <original>parikanta (ka.)</original>
     <type>auto</type>
     <snippet>Micchādiṭṭhi parikkanta </snippet>
-  </note>
-  <note line="43" original="pāpesi (ka.)" reference-line="263" id="5">
-    <extra></extra>
+    <match>parikkanta</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">pāpeti</alternative>
-      <alternative source-abbr="ka." source="cambodian">pāpesi</alternative>
+      <alternative source-abbr="ka." source="cambodian">parikanta</alternative>
     </alternatives>
+  </note>
+  <note reference-line="263" id="5">
+    <original>pāpesi (ka.)</original>
     <type>auto</type>
     <snippet> saṃsārakantārā, janaṃ pāpeti </snippet>
-  </note>
-  <note line="52" original="tatā (ka.)" reference-line="409" id="6">
-    <extra></extra>
+    <match>pāpeti</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">byāttā</alternative>
-      <alternative source-abbr="ka." source="cambodian">tatā</alternative>
+      <alternative source-abbr="ka." source="cambodian">pāpesi</alternative>
     </alternatives>
+  </note>
+  <note reference-line="409" id="6">
+    <original>tatā (ka.)</original>
     <type>auto</type>
     <snippet> Na disāsu byāttā </snippet>
-  </note>
-  <note line="61" original="padajāti (ka.)" reference-line="442" id="7">
-    <extra></extra>
+    <match>byāttā</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">padajā’di</alternative>
-      <alternative source-abbr="ka." source="cambodian">padajāti</alternative>
+      <alternative source-abbr="ka." source="cambodian">tatā</alternative>
     </alternatives>
+  </note>
+  <note reference-line="442" id="7">
+    <original>padajāti (ka.)</original>
     <type>auto</type>
     <snippet> Ocitya samposakādi, sileso, padajā’di </snippet>
-  </note>
-  <note line="70" original="muninda! samanuppatto, dāni sabbaññutāsiriṃ (ka.)" reference-line="563" id="8">
-    <extra></extra>
+    <match>padajā’di</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">Muninā samanuppattā, dāni sabbaññutāsirī</alternative>
+      <alternative source-abbr="ka." source="cambodian">padajāti</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="563" id="8">
+    <original>muninda! samanuppatto, dāni sabbaññutāsiriṃ (ka.)</original>
+    <type>no_match</type>
+    <snippet>Muninā samanuppattā, dāni sabbaññutāsirī</snippet>
+    <alternatives>
       <alternative source-abbr="ka." source="cambodian">muninda! samanuppatto, dāni sabbaññutāsiriṃ</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet>Muninā samanuppattā, dāni sabbaññutāsirī</snippet>
   </note>
 </notes>

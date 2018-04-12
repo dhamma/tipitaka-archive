@@ -1,96 +1,131 @@
-<?xml version="1.0" encoding="utf-8"?>
 <notes archive-path="/mula/suttapitaka/anguttaranikaya/catukkanipatapali/(11) 1. valahakavaggo">
-  <note line="3" original="pu. pa. 157" reference-line="4" id="0">
-    <type>raw</type>
-  </note>
-  <note line="6" original="neva gajjitā hoti (ka.)" reference-line="7" id="1">
-    <extra></extra>
+  <note reference-line="4" id="0">
+    <original>pu. pa. 157</original>
+    <type>no_match</type>
+    <snippet>‘‘Cattārome, bhikkhave, valāhakā. Katame cattāro? Gajjitā no vassitā, vassitā no gajjitā, neva gajjitā no vassitā, gajjitā ca vassitā ca. Ime kho, bhikkhave, cattāro valāhakā. Evamevaṃ kho, bhikkhave, cattāro valāhakūpamā </snippet>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">neva gajjitā</alternative>
+    </alternatives>
+    <references>
+      <reference>pu. pa. 157</reference>
+    </references>
+  </note>
+  <note reference-line="7" id="1">
+    <original>neva gajjitā hoti (ka.)</original>
+    <type>no_match</type>
+    <snippet> so, bhikkhave, valāhako neva gajjitā </snippet>
+    <alternatives>
       <alternative source-abbr="ka." source="cambodian">neva gajjitā hoti</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> so, bhikkhave, valāhako neva gajjitā </snippet>
   </note>
-  <note line="15" original="gajjitā ca hoti (ka.)" reference-line="8" id="2">
-    <extra></extra>
+  <note reference-line="8" id="2">
+    <original>gajjitā ca hoti (ka.)</original>
+    <type>no_match</type>
+    <snippet>‘‘Kathañca, bhikkhave, puggalo gajjitā ca hoti vassitā ca? Idha, bhikkhave, ekacco puggalo bhāsitā ca hoti kattā ca. Evaṃ kho, bhikkhave, puggalo gajjitā ca hoti vassitā ca. Seyyathāpi so, bhikkhave, valāhako gajjitā ca </snippet>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">gajjitā ca hoti vassitā ca? Idha, bhikkhave, ekacco puggalo bhāsitā ca hoti kattā ca. Evaṃ kho, bhikkhave, puggalo gajjitā ca hoti vassitā ca. Seyyathāpi so, bhikkhave, valāhako gajjitā ca</alternative>
       <alternative source-abbr="ka." source="cambodian">gajjitā ca hoti</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet>Kathañca, bhikkhave, puggalo gajjitā ca hoti vassitā ca? Idha, bhikkhave, ekacco puggalo bhāsitā ca hoti kattā ca. Evaṃ kho, bhikkhave, puggalo gajjitā ca hoti vassitā ca. Seyyathāpi so, bhikkhave, valāhako gajjitā ca </snippet>
   </note>
-  <note line="24" original="pu. pa. 160" reference-line="16" id="3">
-    <type>raw</type>
-  </note>
-  <note line="27" original="pu. pa. 161" reference-line="22" id="4">
-    <type>raw</type>
-  </note>
-  <note line="30" original="pakkavaṇṇī (pu. pa. 159)" reference-line="28" id="5">
-    <extra></extra>
+  <note reference-line="16" id="3">
+    <original>pu. pa. 160</original>
+    <type>no_match</type>
+    <snippet>, cattāro kumbhūpamā </snippet>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">pakkavaṇṇi</alternative>
-      <alternative source-abbr="pu. pa. 159" source="pu. pa. 159">pakkavaṇṇī</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> Cattārimāni, bhikkhave, ambāni. Katamāni cattāri? Āmaṃ pakkavaṇṇi </snippet>
+    <references>
+      <reference>pu. pa. 160</reference>
+    </references>
   </note>
-  <note line="39" original="āmavaṇṇī (sī. syā. kaṃ. pī.)" reference-line="28" id="6">
-    <extra></extra>
+  <note reference-line="22" id="4">
+    <original>pu. pa. 161</original>
+    <type>no_match</type>
+    <snippet> ‘‘Cattārome, bhikkhave, udakarahadā. Katame cattāro? Uttāno gambhīrobhāso, gambhīro uttānobhāso, uttāno uttānobhāso, gambhīro gambhīrobhāso – ime kho, bhikkhave, cattāro udakarahadā. Evamevaṃ kho, bhikkhave, cattāro udakarahadūpamā </snippet>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">āmavaṇṇi</alternative>
-      <alternative source-abbr="sī." source="sri lanka">āmavaṇṇī</alternative>
-      <alternative source-abbr="syā." source="thai">āmavaṇṇī</alternative>
-      <alternative source-abbr="kaṃ." source="kaṃ.">āmavaṇṇī</alternative>
-      <alternative source-abbr="pī." source="pali text society">āmavaṇṇī</alternative>
     </alternatives>
+    <references>
+      <reference>pu. pa. 161</reference>
+    </references>
+  </note>
+  <note reference-line="28" id="5">
+    <original>pakkavaṇṇī (pu. pa. 159)</original>
+    <type>raw</type>
+    <snippet> ‘‘Cattārimāni, bhikkhave, ambāni. Katamāni cattāri? Āmaṃ pakkavaṇṇi </snippet>
+    <alternatives>
+    </alternatives>
+  </note>
+  <note reference-line="28" id="6">
+    <original>āmavaṇṇī (sī. syā. kaṃ. pī.)</original>
     <type>auto</type>
     <snippet>, pakkaṃ āmavaṇṇi </snippet>
-  </note>
-  <note line="51" original="pakkavaṇṇī (pu. pa. 159)" reference-line="28" id="7">
-    <extra></extra>
+    <match>āmavaṇṇi</match>
     <alternatives>
-      <alternative source-abbr="pu. pa. 159" source="pu. pa. 159">pakkavaṇṇī</alternative>
+      <alternative source-abbr="sī." source="sri lanka">āmavaṇṇī</alternative>
+      <alternative source-abbr="syā." source="thai">āmavaṇṇī</alternative>
+      <alternative source-abbr="kaṃ." source="kam">āmavaṇṇī</alternative>
+      <alternative source-abbr="pī." source="pali text society">āmavaṇṇī</alternative>
     </alternatives>
-    <type>no_match</type>
-    <snippet>, āmaṃ āmavaṇṇi, pakkaṃ pakkavaṇṇi – imāni kho, bhikkhave, cattāri ambāni. Evamevaṃ kho, bhikkhave, cattāro ambūpamā </snippet>
   </note>
-  <note line="59" original="( ) ‘‘chaṭṭhaṃ ukkānatthamevā’’ti aṭṭhakathāyaṃ dassitaṃ, pāḷipotthakesu pana katthacipi na dissati. ‘‘… āmaṃ pakkobhāsaṃ, pakkaṃ āmobhāsa’’ntiādinā pāṭho bhaveyya" reference-line="34" id="8">
+  <note reference-line="28" id="7">
+    <original>pakkavaṇṇī (pu. pa. 159)</original>
     <type>raw</type>
-  </note>
-  <note line="62" original="balivaddā (sī. syā. kaṃ. pī.), balibaddhā (ka.) pu. pa. 162" reference-line="42" id="9">
-    <extra> pu. pa. 162</extra>
+    <snippet>, āmaṃ āmavaṇṇi, pakkaṃ pakkavaṇṇi – imāni kho, bhikkhave, cattāri ambāni. Evamevaṃ kho, bhikkhave, cattāro ambūpamā </snippet>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">balībaddā</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="34" id="8">
+    <original>( ) ‘‘chaṭṭhaṃ ukkānatthamevā’’ti aṭṭhakathāyaṃ dassitaṃ, pāḷipotthakesu pana katthacipi na dissati. ‘‘… āmaṃ pakkobhāsaṃ, pakkaṃ āmobhāsa’’ntiādinā pāṭho bhaveyya</original>
+    <type>raw</type>
+    <snippet>(Chaṭṭhaṃ uttānatthamevāti aṭṭhakathāyaṃ dassitaṃ, pāḷipotthakesu pana katthacipi na dissati.) </snippet>
+    <alternatives>
+    </alternatives>
+  </note>
+  <note reference-line="42" id="9">
+    <original>balivaddā (sī. syā. kaṃ. pī.), balibaddhā (ka.) pu. pa. 162</original>
+    <type>auto</type>
+    <snippet> ‘‘Cattārome, bhikkhave, balībaddā </snippet>
+    <match>balībaddā</match>
+    <alternatives>
       <alternative source-abbr="sī." source="sri lanka">balivaddā</alternative>
       <alternative source-abbr="syā." source="thai">balivaddā</alternative>
-      <alternative source-abbr="kaṃ." source="kaṃ.">balivaddā</alternative>
+      <alternative source-abbr="kaṃ." source="kam">balivaddā</alternative>
       <alternative source-abbr="pī." source="pali text society">balivaddā</alternative>
       <alternative source-abbr="ka." source="cambodian">balibaddhā</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> Cattārome, bhikkhave, balībaddā </snippet>
+    <references>
+      <reference>pu. pa. 162</reference>
+    </references>
   </note>
-  <note line="75" original="pu. pa. 170" reference-line="52" id="10">
-    <type>raw</type>
-  </note>
-  <note line="78" original="āsivisā (ka.) pu. pa. 163" reference-line="54" id="11">
-    <extra> pu. pa. 163</extra>
+  <note reference-line="52" id="10">
+    <original>pu. pa. 170</original>
+    <type>no_match</type>
+    <snippet> saṃvijjamānā lokasmi’’nti </snippet>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">āsīvisā</alternative>
+    </alternatives>
+    <references>
+      <reference>pu. pa. 170</reference>
+    </references>
+  </note>
+  <note reference-line="54" id="11">
+    <original>āsivisā (ka.) pu. pa. 163</original>
+    <type>auto</type>
+    <snippet> ‘‘Cattārome, bhikkhave, āsīvisā </snippet>
+    <match>āsīvisā</match>
+    <alternatives>
       <alternative source-abbr="ka." source="cambodian">āsivisā</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> Cattārome, bhikkhave, āsīvisā </snippet>
+    <references>
+      <reference>pu. pa. 163</reference>
+    </references>
   </note>
-  <note line="87" original="kopo (ka.) pu. pa. 163" reference-line="55" id="12">
-    <extra> pu. pa. 163</extra>
+  <note reference-line="55" id="12">
+    <original>kopo (ka.) pu. pa. 163</original>
+    <type>auto</type>
+    <snippet>‘‘Kathañca, bhikkhave, puggalo āgataviso hoti, na ghoraviso? Idha, bhikkhave, ekacco puggalo abhiṇhaṃ kujjhati. So ca khvassa kodho </snippet>
+    <match>kodho</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">kodho</alternative>
       <alternative source-abbr="ka." source="cambodian">kopo</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet>Kathañca, bhikkhave, puggalo āgataviso hoti, na ghoraviso? Idha, bhikkhave, ekacco puggalo abhiṇhaṃ kujjhati. So ca khvassa kodho </snippet>
+    <references>
+      <reference>pu. pa. 163</reference>
+    </references>
   </note>
 </notes>

@@ -1,1294 +1,3568 @@
-<?xml version="1.0" encoding="utf-8"?>
 <notes archive-path="/anya/ledi sayado gantha-sangaho/niruttidipani/3. karakakanda">
-  <note line="3" original="caṃ. 2.1.93; pā. 2.3.46" reference-line="5" id="0">
-    <type>raw</type>
-  </note>
-  <note line="6" original="ka. 285; rū. 70; nī. 578; caṃ. 2.1.94; pā. 2.3.47; āmantaṇe (bahūsu)" reference-line="30" id="1">
-    <extra></extra>
+  <note reference-line="5" id="0">
+    <original>caṃ. 2.1.93; pā. 2.3.46</original>
+    <type>no_match</type>
+    <snippet>Paṭhamatthamatte</snippet>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">Āmantane</alternative>
-      <alternative source-abbr="bahūsu" source="bahūsu">ka. 285; rū. 70; nī. 578; caṃ. 2.1.94; pā. 2.3.47; āmantaṇe</alternative>
     </alternatives>
-    <type>auto</type>
+    <references>
+      <reference>caṃ. 2.1.93</reference>
+      <reference>pā. 2.3.46</reference>
+    </references>
+  </note>
+  <note reference-line="30" id="1">
+    <original>ka. 285; rū. 70; nī. 578; caṃ. 2.1.94; pā. 2.3.47; āmantaṇe (bahūsu)</original>
+    <type>raw</type>
     <snippet>Āmantane</snippet>
-  </note>
-  <note line="15" original="dī. ni. 2.426" reference-line="33" id="2">
-    <type>raw</type>
-  </note>
-  <note line="18" original="saṃ. ni. 4.358" reference-line="33" id="3">
-    <type>raw</type>
-  </note>
-  <note line="21" original="saṃ. ni. 2.63; dha. pa. aṭṭha. 1.2" reference-line="34" id="4">
-    <type>raw</type>
-  </note>
-  <note line="24" original="dī. ni. 2.192" reference-line="35" id="5">
-    <type>raw</type>
-  </note>
-  <note line="27" original="dī. ni. 2.192" reference-line="35" id="6">
-    <type>raw</type>
-  </note>
-  <note line="30" original="ka. 297; rū. 284; nī. 580; caṃ. 2.1.43; pā. 1.4.49-51" reference-line="39" id="7">
-    <type>raw</type>
-  </note>
-  <note line="33" original="udā. 23 (thokaṃ visadisaṃ)" reference-line="47" id="8">
-    <extra></extra>
     <alternatives>
-      <alternative source-abbr="thokaṃ visadisaṃ" source="thokaṃ visadisaṃ">udā. 23</alternative>
     </alternatives>
+  </note>
+  <note reference-line="33" id="2">
+    <original>dī. ni. 2.426</original>
     <type>no_match</type>
+    <snippet> sajīva, nijjīvavasena, bho purisa, vadehi bho saṅkha, vadehi bho saṅkha </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>dī. ni. 2.426</reference>
+    </references>
+  </note>
+  <note reference-line="33" id="3">
+    <original>saṃ. ni. 4.358</original>
+    <type>no_match</type>
+    <snippet>. Ummujja bho puthusile, ummujja bho puthusileti </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>saṃ. ni. 4.358</reference>
+    </references>
+  </note>
+  <note reference-line="34" id="4">
+    <original>saṃ. ni. 2.63; dha. pa. aṭṭha. 1.2</original>
+    <type>no_match</type>
+    <snippet>Tathā paccakkhā’paccakkhavasena, bho purisa, kahaṃ ekaputtaka, kahaṃ ekaputtakāti </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>saṃ. ni. 2.63</reference>
+      <reference>dha. pa. aṭṭha. 1.2</reference>
+    </references>
+  </note>
+  <note reference-line="35" id="5">
+    <original>dī. ni. 2.192</original>
+    <type>no_match</type>
+    <snippet>Tathā niyamā’niyamavasena, bho purisa, acchariyaṃ vata bho abbhutaṃ vata bho </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>dī. ni. 2.192</reference>
+    </references>
+  </note>
+  <note reference-line="35" id="6">
+    <original>dī. ni. 2.192</original>
+    <type>no_match</type>
+    <snippet>. Yatra hi nāma saññī samānotiādi </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>dī. ni. 2.192</reference>
+    </references>
+  </note>
+  <note reference-line="39" id="7">
+    <original>ka. 297; rū. 284; nī. 580; caṃ. 2.1.43; pā. 1.4.49-51</original>
+    <type>raw</type>
+    <snippet>Kamme dutiyā</snippet>
+    <alternatives>
+    </alternatives>
+  </note>
+  <note reference-line="47" id="8">
+    <original>udā. 23 (thokaṃ visadisaṃ)</original>
+    <type>raw</type>
     <snippet>Dhātukammañca dvikammikadhātūnaṃ duvidhaṃ padhānakammaṃ, appadhānakammanti. Ajapālo ajaṃ gāmaṃ neti, puriso bhāraṃ gāmaṃ vahati, harati, gāmaṃ sākhaṃ kaḍḍhati, gāviṃ khīraṃ dohati, brāhmaṇaṃ kambalaṃ yācati, brāhmaṇaṃ bhattaṃ bhikkhati, gāviyo vajaṃ avarundhati, bhagavantaṃ pañhaṃ pucchati, rukkhaṃ phalāni ocināti, sissaṃ dhammaṃ bravīti, bhagavā bhikkhū etadavoca </snippet>
-  </note>
-  <note line="41" original="ka. 300; rū. 286; nī. 587; caṃ. 2.1.44; pā. 1.4.52" reference-line="51" id="9">
-    <type>raw</type>
-  </note>
-  <note line="44" original="141 piṭṭhe" reference-line="55" id="10">
-    <type>raw</type>
-  </note>
-  <note line="47" original="sutta-148 piṭṭhe" reference-line="55" id="11">
-    <type>raw</type>
-  </note>
-  <note line="50" original="pārā. 363" reference-line="56" id="12">
-    <type>raw</type>
-  </note>
-  <note line="53" original="ka. 300; rū. 286; nī. 587; caṃ. 2.1.45; pā. 1.4.53" reference-line="57" id="13">
-    <type>raw</type>
-  </note>
-  <note line="56" original="ka. 300; rū. 286; nī. 587; caṃ. 2.1.47; pā. 1.4.57" reference-line="60" id="14">
-    <type>raw</type>
-  </note>
-  <note line="59" original="ka. 300; rū. 286; nī. 587; caṃ. 2.1.48; pā. 1.4.52" reference-line="63" id="15">
-    <type>raw</type>
-  </note>
-  <note line="62" original="ka. 300; rū. 286; nī. 587; caṃ. 2.1.49; pā. 1.4.5" reference-line="67" id="16">
-    <type>raw</type>
-  </note>
-  <note line="65" original="apa. thera 1.1.438" reference-line="71" id="17">
-    <type>raw</type>
-  </note>
-  <note line="68" original="apa. thera 1.1.300" reference-line="71" id="18">
-    <type>raw</type>
-  </note>
-  <note line="71" original="pārā. 615" reference-line="71" id="19">
-    <type>raw</type>
-  </note>
-  <note line="74" original="ka. 299; rū. 288; nī. 582, 586; caṃ. 2.1.50; pā. 2.3.2" reference-line="72" id="20">
-    <type>raw</type>
-  </note>
-  <note line="77" original="dha. pa. 389" reference-line="74" id="21">
-    <type>raw</type>
-  </note>
-  <note line="80" original="jā. 1.3.129" reference-line="74" id="22">
-    <type>raw</type>
-  </note>
-  <note line="83" original="jā. 1.4.36" reference-line="74" id="23">
-    <type>raw</type>
-  </note>
-  <note line="86" original="jā. 2.17.135" reference-line="74" id="24">
-    <type>raw</type>
-  </note>
-  <note line="89" original="dī. ni. 1.1" reference-line="74" id="25">
-    <type>raw</type>
-  </note>
-  <note line="92" original="su. ni. 427" reference-line="74" id="26">
-    <type>raw</type>
-  </note>
-  <note line="95" original="udā. 45; saṃ. ni. 1.217" reference-line="75" id="27">
-    <type>raw</type>
-  </note>
-  <note line="98" original="ma. ni. 1.374" reference-line="75" id="28">
-    <type>raw</type>
-  </note>
-  <note line="101" original="mahāva. 258" reference-line="75" id="29">
-    <type>raw</type>
-  </note>
-  <note line="104" original="saṃ. ni. 3.79" reference-line="75" id="30">
-    <type>raw</type>
-  </note>
-  <note line="107" original="ma. ni. 3.393; udā. 74" reference-line="75" id="31">
-    <type>raw</type>
-  </note>
-  <note line="110" original="pāci. 130" reference-line="76" id="32">
-    <type>raw</type>
-  </note>
-  <note line="113" original="dī. ni. 1.258; pārā. 519" reference-line="76" id="33">
-    <type>raw</type>
-  </note>
-  <note line="116" original="dī. ni. 3.282" reference-line="76" id="34">
-    <type>raw</type>
-  </note>
-  <note line="119" original="dī. ni. 3.282" reference-line="76" id="35">
-    <type>raw</type>
-  </note>
-  <note line="122" original="dī. ni. 3.282" reference-line="76" id="36">
-    <type>raw</type>
-  </note>
-  <note line="125" original="khu. pā. 5.1" reference-line="78" id="37">
-    <type>raw</type>
-  </note>
-  <note line="128" original="khu. pā. 5.1; dī. ni. 1.1" reference-line="78" id="38">
-    <type>raw</type>
-  </note>
-  <note line="131" original="pārā. 16" reference-line="78" id="39">
-    <type>raw</type>
-  </note>
-  <note line="134" original="dī. ni. 3.285" reference-line="78" id="40">
-    <type>raw</type>
-  </note>
-  <note line="137" original="dī. ni. 2.336" reference-line="78" id="41">
-    <type>raw</type>
-  </note>
-  <note line="140" original="dī. ni. 2.336" reference-line="78" id="42">
-    <type>raw</type>
-  </note>
-  <note line="143" original="dī. ni. 2.336" reference-line="78" id="43">
-    <type>raw</type>
-  </note>
-  <note line="146" original="dī. ni. 2.336" reference-line="78" id="44">
-    <type>raw</type>
-  </note>
-  <note line="149" original="jā. 1.16.104" reference-line="78" id="45">
-    <type>raw</type>
-  </note>
-  <note line="152" original="ka. 299; rū. 288; nī. 582, 586; caṃ. 2.1.54; pā. 1.4.90, 91; 2.3.8" reference-line="79" id="46">
-    <type>raw</type>
-  </note>
-  <note line="155" original="pārā. 1" reference-line="85" id="47">
-    <type>raw</type>
-  </note>
-  <note line="158" original="ka. 299; rū. 288; nī. 582, 586; caṃ. 2.1.55; pā. 1.4.90" reference-line="89" id="48">
-    <type>raw</type>
-  </note>
-  <note line="161" original="ka. 299; rū. 288; nī. 582, 586; caṃ. 2.1.56; pā. 1.4.84, 90" reference-line="99" id="49">
-    <type>raw</type>
-  </note>
-  <note line="164" original="bu. vaṃ. 21.5" reference-line="102" id="50">
-    <type>raw</type>
-  </note>
-  <note line="167" original="cariyā. 3.82" reference-line="102" id="51">
-    <type>raw</type>
-  </note>
-  <note line="170" original="ka. 299; rū. 288; nī. 582, 586; caṃ. 2.1.57; pā. 1.4.85" reference-line="109" id="52">
-    <type>raw</type>
-  </note>
-  <note line="173" original="pabbatamanusenā tiṭṭhati (moggallānavuttiyaṃ)" reference-line="111" id="53">
-    <extra></extra>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">tiṭṭhati</alternative>
-      <alternative source-abbr="moggallānavuttiyaṃ" source="moggallānavuttiyaṃ">pabbatamanusenā tiṭṭhati</alternative>
     </alternatives>
-    <type>auto</type>
+  </note>
+  <note reference-line="51" id="9">
+    <original>ka. 300; rū. 286; nī. 587; caṃ. 2.1.44; pā. 1.4.52</original>
+    <type>no_match</type>
+    <snippet>Gatibodhāhārasaddatthā kammaka bhajjādīnaṃ payojje</snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>ka. 300</reference>
+      <reference>rū. 286</reference>
+      <reference>nī. 587</reference>
+      <reference>caṃ. 2.1.44</reference>
+      <reference>pā. 1.4.52</reference>
+    </references>
+  </note>
+  <note reference-line="55" id="10">
+    <original>141 piṭṭhe</original>
+    <type>raw</type>
+    <snippet>Ettha ca gamanatthādīnaṃ payojje tatiyāpi rūpasiddhiyaṃ </snippet>
+    <alternatives>
+    </alternatives>
+  </note>
+  <note reference-line="55" id="11">
+    <original>sutta-148 piṭṭhe</original>
+    <type>raw</type>
+    <snippet> saddanītiyañca </snippet>
+    <alternatives>
+    </alternatives>
+  </note>
+  <note reference-line="56" id="12">
+    <original>pārā. 363</original>
+    <type>no_match</type>
+    <snippet> pana paṭhamaṃ payojakaṃ añño dutiyo payojeti, tadā paṭhamo payojjo nāma. Tasmiṃ tatiyāevāti vuttiyaṃ vuttaṃ. Attanā vippakataṃ kuṭiṃ parehi pariyosāpeti </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>pārā. 363</reference>
+    </references>
+  </note>
+  <note reference-line="57" id="13">
+    <original>ka. 300; rū. 286; nī. 587; caṃ. 2.1.45; pā. 1.4.53</original>
+    <type>no_match</type>
+    <snippet>Harādīnaṃ vā</snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>ka. 300</reference>
+      <reference>rū. 286</reference>
+      <reference>nī. 587</reference>
+      <reference>caṃ. 2.1.45</reference>
+      <reference>pā. 1.4.53</reference>
+    </references>
+  </note>
+  <note reference-line="60" id="14">
+    <original>ka. 300; rū. 286; nī. 587; caṃ. 2.1.47; pā. 1.4.57</original>
+    <type>no_match</type>
+    <snippet>Na khādādīnaṃ</snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>ka. 300</reference>
+      <reference>rū. 286</reference>
+      <reference>nī. 587</reference>
+      <reference>caṃ. 2.1.47</reference>
+      <reference>pā. 1.4.57</reference>
+    </references>
+  </note>
+  <note reference-line="63" id="15">
+    <original>ka. 300; rū. 286; nī. 587; caṃ. 2.1.48; pā. 1.4.52</original>
+    <type>no_match</type>
+    <snippet>Vahissāniyantuke</snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>ka. 300</reference>
+      <reference>rū. 286</reference>
+      <reference>nī. 587</reference>
+      <reference>caṃ. 2.1.48</reference>
+      <reference>pā. 1.4.52</reference>
+    </references>
+  </note>
+  <note reference-line="67" id="16">
+    <original>ka. 300; rū. 286; nī. 587; caṃ. 2.1.49; pā. 1.4.5</original>
+    <type>no_match</type>
+    <snippet>Bhakkhissāhiṃsāyaṃ</snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>ka. 300</reference>
+      <reference>rū. 286</reference>
+      <reference>nī. 587</reference>
+      <reference>caṃ. 2.1.49</reference>
+      <reference>pā. 1.4.5</reference>
+    </references>
+  </note>
+  <note reference-line="71" id="17">
+    <original>apa. thera 1.1.438</original>
+    <type>raw</type>
+    <snippet>Pāḷiyaṃ ‘‘sabbesaṃ viññāpetvāna </snippet>
+    <alternatives>
+    </alternatives>
+  </note>
+  <note reference-line="71" id="18">
+    <original>apa. thera 1.1.300</original>
+    <type>raw</type>
+    <snippet>, tosenti sabbapāṇinaṃ </snippet>
+    <alternatives>
+    </alternatives>
+  </note>
+  <note reference-line="71" id="19">
+    <original>pārā. 615</original>
+    <type>no_match</type>
+    <snippet>. Therassa patto dutiyassa gāhetabbo’’ iccādinā </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>pārā. 615</reference>
+    </references>
+  </note>
+  <note reference-line="72" id="20">
+    <original>ka. 299; rū. 288; nī. 582, 586; caṃ. 2.1.50; pā. 2.3.2</original>
+    <type>no_match</type>
+    <snippet>Jhādīhi yuttā</snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>ka. 299</reference>
+      <reference>rū. 288</reference>
+      <reference>nī. 582</reference>
+      <reference>caṃ. 2.1.50</reference>
+      <reference>pā. 2.3.2</reference>
+    </references>
+  </note>
+  <note reference-line="74" id="21">
+    <original>dha. pa. 389</original>
+    <type>no_match</type>
+    <snippet>Dhī brāhmaṇassa hantāraṃ </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>dha. pa. 389</reference>
+    </references>
+  </note>
+  <note reference-line="74" id="22">
+    <original>jā. 1.3.129</original>
+    <type>no_match</type>
+    <snippet>, dhīratthu’maṃ pūtikāyaṃ </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>jā. 1.3.129</reference>
+    </references>
+  </note>
+  <note reference-line="74" id="23">
+    <original>jā. 1.4.36</original>
+    <type>no_match</type>
+    <snippet>, dhīratthu taṃ dhanalābhaṃ </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>jā. 1.4.36</reference>
+    </references>
+  </note>
+  <note reference-line="74" id="24">
+    <original>jā. 2.17.135</original>
+    <type>no_match</type>
+    <snippet>, dhīratthu bahuke kāme. Tatiyāpi dissati, dhīratthu jīvitena me </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>jā. 2.17.135</reference>
+    </references>
+  </note>
+  <note reference-line="74" id="25">
+    <original>dī. ni. 1.1</original>
+    <type>no_match</type>
+    <snippet>. Antarā ca rājagahaṃ antarā ca nāḷandaṃ </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>dī. ni. 1.1</reference>
+    </references>
+  </note>
+  <note reference-line="74" id="26">
+    <original>su. ni. 427</original>
+    <type>no_match</type>
+    <snippet>, abhito gāmaṃ vasati, paritogāmaṃ vasati, nadiṃ nerañjaraṃ pati </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>su. ni. 427</reference>
+    </references>
+  </note>
+  <note reference-line="75" id="27">
+    <original>udā. 45; saṃ. ni. 1.217</original>
+    <type>no_match</type>
+    <snippet> paṭibhāti maṃ bhagavā </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>udā. 45</reference>
+      <reference>saṃ. ni. 1.217</reference>
+    </references>
+  </note>
+  <note reference-line="75" id="28">
+    <original>ma. ni. 1.374</original>
+    <type>no_match</type>
+    <snippet>, apissu maṃ tisso upamāyo paṭibhaṃsu </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>ma. ni. 1.374</reference>
+    </references>
+  </note>
+  <note reference-line="75" id="29">
+    <original>mahāva. 258</original>
+    <type>no_match</type>
+    <snippet>, paṭibhātu taṃ bhikkhu dhammo bhāsituṃ </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>mahāva. 258</reference>
+    </references>
+  </note>
+  <note reference-line="75" id="30">
+    <original>saṃ. ni. 3.79</original>
+    <type>no_match</type>
+    <snippet>. Paṭibhantu taṃ cunda bojjhaṅgā </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>saṃ. ni. 3.79</reference>
+    </references>
+  </note>
+  <note reference-line="75" id="31">
+    <original>ma. ni. 3.393; udā. 74</original>
+    <type>no_match</type>
+    <snippet> – ‘ma’nti mama, ‘ta’nti tava, sampadānatthe dutiyā. ‘Ma’nti mamañāṇe, ‘ta’nti tavañāṇetipi vaṇṇesuṃ. Na upāyamantarena atthassa siddhi, natthi samādānamantarena sikkhāpaṭilābho, nevidha na huraṃ na ubhayamantarena, esevanto dukkhassa </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>ma. ni. 3.393</reference>
+      <reference>udā. 74</reference>
+    </references>
+  </note>
+  <note reference-line="76" id="32">
+    <original>pāci. 130</original>
+    <type>no_match</type>
+    <snippet>Upasaggapubbānaṃ akammakadhātūnaṃ payoge ādhāre dutiyā, pathaviṃ adhisessati, gāmaṃ adhitiṭṭhati, rukkhaṃ ajjhāvasati, mañcaṃ vā pīṭhaṃ vā abhinisīdeyya vā abhinipajjeyya vā </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>pāci. 130</reference>
+    </references>
+  </note>
+  <note reference-line="76" id="33">
+    <original>dī. ni. 1.258; pārā. 519</original>
+    <type>no_match</type>
+    <snippet>, gāmaṃ upavasati, gāmaṃ anuvasati, pabbataṃ adhivasati, gharaṃ āvasati, agāraṃ ajjhāvasati </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>dī. ni. 1.258</reference>
+      <reference>pārā. 519</reference>
+    </references>
+  </note>
+  <note reference-line="76" id="34">
+    <original>dī. ni. 3.282</original>
+    <type>no_match</type>
+    <snippet>, uposathaṃ upavasati, kāmāvacaraṃ upapajjati, rūpāvacaraṃ upapajjati, arūpāvacaraṃ upapajjati, sakkassa sahabyataṃ upapajjati, nipannaṃ vā upanipajjeyya </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>dī. ni. 3.282</reference>
+    </references>
+  </note>
+  <note reference-line="76" id="35">
+    <original>dī. ni. 3.282</original>
+    <type>no_match</type>
+    <snippet>, nisinnaṃ vā upanisīdeyya </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>dī. ni. 3.282</reference>
+    </references>
+  </note>
+  <note reference-line="76" id="36">
+    <original>dī. ni. 3.282</original>
+    <type>no_match</type>
+    <snippet>, ṭhitaṃ vā upatiṭṭheyya </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>dī. ni. 3.282</reference>
+    </references>
+  </note>
+  <note reference-line="78" id="37">
+    <original>khu. pā. 5.1</original>
+    <type>no_match</type>
+    <snippet>Kāla, disāsupi ādhāre eva dutiyā, taṃ khaṇaṃ, taṃ muhuttaṃ, taṃ kālaṃ, ekamantaṃ </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>khu. pā. 5.1</reference>
+    </references>
+  </note>
+  <note reference-line="78" id="38">
+    <original>khu. pā. 5.1; dī. ni. 1.1</original>
+    <type>no_match</type>
+    <snippet>, ekaṃ samayaṃ </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>khu. pā. 5.1</reference>
+      <reference>dī. ni. 1.1</reference>
+    </references>
+  </note>
+  <note reference-line="78" id="39">
+    <original>pārā. 16</original>
+    <type>no_match</type>
+    <snippet>, pubbaṇhasamayaṃ </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>pārā. 16</reference>
+    </references>
+  </note>
+  <note reference-line="78" id="40">
+    <original>dī. ni. 3.285</original>
+    <type>no_match</type>
+    <snippet>, sāyanhasamayaṃ, taṃ divasaṃ, imaṃ rattiṃ </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>dī. ni. 3.285</reference>
+    </references>
+  </note>
+  <note reference-line="78" id="41">
+    <original>dī. ni. 2.336</original>
+    <type>no_match</type>
+    <snippet>, dutiyampi, tatiyampi, catutthaṃ vā pañcamaṃ vā appeti, tato pubbaṃ, tato paraṃ, purimaṃ disaṃ </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>dī. ni. 2.336</reference>
+    </references>
+  </note>
+  <note reference-line="78" id="42">
+    <original>dī. ni. 2.336</original>
+    <type>no_match</type>
+    <snippet>, dakkhiṇaṃ disaṃ </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>dī. ni. 2.336</reference>
+    </references>
+  </note>
+  <note reference-line="78" id="43">
+    <original>dī. ni. 2.336</original>
+    <type>no_match</type>
+    <snippet>, pacchimaṃ disaṃ </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>dī. ni. 2.336</reference>
+    </references>
+  </note>
+  <note reference-line="78" id="44">
+    <original>dī. ni. 2.336</original>
+    <type>no_match</type>
+    <snippet>, uttaraṃ disaṃ </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>dī. ni. 2.336</reference>
+    </references>
+  </note>
+  <note reference-line="78" id="45">
+    <original>jā. 1.16.104</original>
+    <type>no_match</type>
+    <snippet> disāyo, katamaṃ disaṃ tiṭṭhati nāgarājā </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>jā. 1.16.104</reference>
+    </references>
+  </note>
+  <note reference-line="79" id="46">
+    <original>ka. 299; rū. 288; nī. 582, 586; caṃ. 2.1.54; pā. 1.4.90, 91; 2.3.8</original>
+    <type>raw</type>
+    <snippet>Lakkhaṇitthambhūtavicchāsvabhinā</snippet>
+    <alternatives>
+    </alternatives>
+  </note>
+  <note reference-line="85" id="47">
+    <original>pārā. 1</original>
+    <type>no_match</type>
+    <snippet>Sādhu devadatto mātaramabhi, mātaraṃ abhi visiṭṭhaṃ katvā sādhūti attho, devadatto sakkaccaṃ mātupaṭṭhāne aggapurisoti vuttaṃ hoti. Taṃ kho pana bhavantaṃ gotamaṃ evaṃ kalyāṇo kittisaddo abbhuggato </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>pārā. 1</reference>
+    </references>
+  </note>
+  <note reference-line="89" id="48">
+    <original>ka. 299; rū. 288; nī. 582, 586; caṃ. 2.1.55; pā. 1.4.90</original>
+    <type>no_match</type>
+    <snippet>Patiparīhi bhāge ca</snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>ka. 299</reference>
+      <reference>rū. 288</reference>
+      <reference>nī. 582</reference>
+      <reference>caṃ. 2.1.55</reference>
+      <reference>pā. 1.4.90</reference>
+    </references>
+  </note>
+  <note reference-line="99" id="49">
+    <original>ka. 299; rū. 288; nī. 582, 586; caṃ. 2.1.56; pā. 1.4.84, 90</original>
+    <type>raw</type>
+    <snippet>Anunā</snippet>
+    <alternatives>
+    </alternatives>
+  </note>
+  <note reference-line="102" id="50">
+    <original>bu. vaṃ. 21.5</original>
+    <type>no_match</type>
+    <snippet>Rukkhaṃ anu vijjotate vijju, rukkhaṃ anu pharitvāti attho. Caturāsītisahassāni, sambuddhamanupabbajuṃ </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>bu. vaṃ. 21.5</reference>
+    </references>
+  </note>
+  <note reference-line="102" id="51">
+    <original>cariyā. 3.82</original>
+    <type>no_match</type>
+    <snippet>, ‘sambuddha’nti bodhisattaṃ, anu gantvā pabbajiṃsūti attho, vipassibodhisatte pabbajite sati tānipi caturāsītikulaputtasahassāni pabbajiṃsūti vuttaṃ hoti. Saccakriyamanu vuṭṭhi pāvassi, ‘anū’ti anvāya, paṭiccāti attho, saccakriyāya sati saccakriyahetu devo pāvassīti vuttaṃ hoti. ‘‘Hetu ca lakkhaṇaṃ bhavatī’’ti vuttiyaṃ vuttaṃ. Saccakriyāya sahevātipi yujjati. ‘‘Saha sacce kate mayha’’nti </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>cariyā. 3.82</reference>
+    </references>
+  </note>
+  <note reference-line="109" id="52">
+    <original>ka. 299; rū. 288; nī. 582, 586; caṃ. 2.1.57; pā. 1.4.85</original>
+    <type>no_match</type>
+    <snippet>Sahatthe</snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>ka. 299</reference>
+      <reference>rū. 288</reference>
+      <reference>nī. 582</reference>
+      <reference>caṃ. 2.1.57</reference>
+      <reference>pā. 1.4.85</reference>
+    </references>
+  </note>
+  <note reference-line="111" id="53">
+    <original>pabbatamanusenā tiṭṭhati (moggallānavuttiyaṃ)</original>
+    <type>raw</type>
     <snippet>Pabbataṃ anu tiṭṭhati </snippet>
-  </note>
-  <note line="182" original="ka. 299; rū. 288; nī. 582, 586; caṃ. 2.1.58; pā. 1.4.86" reference-line="112" id="54">
-    <type>raw</type>
-  </note>
-  <note line="185" original="ka. 299; rū. 288; nī. 582, 586; caṃ. 2.1.59; pā. 1.4.87" reference-line="115" id="55">
-    <type>raw</type>
-  </note>
-  <note line="188" original="ka. 298; rū. 287; nī. 581; pā. 2.3.5" reference-line="120" id="56">
-    <type>raw</type>
-  </note>
-  <note line="191" original="pāci. 590" reference-line="128" id="57">
-    <type>raw</type>
-  </note>
-  <note line="194" original="pāci. 594-595" reference-line="128" id="58">
-    <type>raw</type>
-  </note>
-  <note line="197" original="pāci. 627" reference-line="128" id="59">
-    <type>raw</type>
-  </note>
-  <note line="200" original="pāci. 622" reference-line="128" id="60">
-    <type>raw</type>
-  </note>
-  <note line="203" original="pāci. 620" reference-line="128" id="61">
-    <type>raw</type>
-  </note>
-  <note line="206" original="pāci. 623" reference-line="128" id="62">
-    <type>raw</type>
-  </note>
-  <note line="209" original="pāci. 628" reference-line="128" id="63">
-    <type>raw</type>
-  </note>
-  <note line="212" original="ka. 286, 288; rū. 291, 293; nī. 591, 594; caṃ. 2.1.62-3; pā. 2.3.18" reference-line="132" id="64">
-    <type>raw</type>
-  </note>
-  <note line="215" original="parasunā (sakkataganthesu)" reference-line="141" id="65">
-    <extra></extra>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">pharasunā</alternative>
-      <alternative source-abbr="sakkataganthesu" source="sakkataganthesu">parasunā</alternative>
     </alternatives>
-    <type>auto</type>
+  </note>
+  <note reference-line="112" id="54">
+    <original>ka. 299; rū. 288; nī. 582, 586; caṃ. 2.1.58; pā. 1.4.86</original>
+    <type>no_match</type>
+    <snippet>Hīne</snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>ka. 299</reference>
+      <reference>rū. 288</reference>
+      <reference>nī. 582</reference>
+      <reference>caṃ. 2.1.58</reference>
+      <reference>pā. 1.4.86</reference>
+    </references>
+  </note>
+  <note reference-line="115" id="55">
+    <original>ka. 299; rū. 288; nī. 582, 586; caṃ. 2.1.59; pā. 1.4.87</original>
+    <type>no_match</type>
+    <snippet>Upena</snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>ka. 299</reference>
+      <reference>rū. 288</reference>
+      <reference>nī. 582</reference>
+      <reference>caṃ. 2.1.59</reference>
+      <reference>pā. 1.4.87</reference>
+    </references>
+  </note>
+  <note reference-line="120" id="56">
+    <original>ka. 298; rū. 287; nī. 581; pā. 2.3.5</original>
+    <type>no_match</type>
+    <snippet>Kāladdhānamaccantasaṃyoge</snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>ka. 298</reference>
+      <reference>rū. 287</reference>
+      <reference>nī. 581</reference>
+      <reference>pā. 2.3.5</reference>
+    </references>
+  </note>
+  <note reference-line="128" id="57">
+    <original>pāci. 590</original>
+    <type>no_match</type>
+    <snippet>Sukhaṃ seti, dukkhaṃ seti, sīghaṃ gacchati, khippaṃ gacchati, dandhaṃ gacchati, muduṃ pacati, garuṃ essati, lahuṃ essati, sannidhikārakaṃ bhuñjati, samparivattakaṃ otāpeti, kāyappacālakaṃ gacchati </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>pāci. 590</reference>
+    </references>
+  </note>
+  <note reference-line="128" id="58">
+    <original>pāci. 594-595</original>
+    <type>raw</type>
+    <snippet> gacchati, sīsappacālakaṃ gacchati </snippet>
+    <alternatives>
+    </alternatives>
+  </note>
+  <note reference-line="128" id="59">
+    <original>pāci. 627</original>
+    <type>no_match</type>
+    <snippet>, surusurukārakaṃ bhuñjati </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>pāci. 627</reference>
+    </references>
+  </note>
+  <note reference-line="128" id="60">
+    <original>pāci. 622</original>
+    <type>no_match</type>
+    <snippet>, avagaṇḍakārakaṃ bhuñjati </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>pāci. 622</reference>
+    </references>
+  </note>
+  <note reference-line="128" id="61">
+    <original>pāci. 620</original>
+    <type>no_match</type>
+    <snippet>, piṇḍukkhepakaṃ bhuñjati </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>pāci. 620</reference>
+    </references>
+  </note>
+  <note reference-line="128" id="62">
+    <original>pāci. 623</original>
+    <type>no_match</type>
+    <snippet>, hatthaniddhunakaṃ bhuñjati </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>pāci. 623</reference>
+    </references>
+  </note>
+  <note reference-line="128" id="63">
+    <original>pāci. 628</original>
+    <type>no_match</type>
+    <snippet>, hatthanillehakaṃ bhuñjati </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>pāci. 628</reference>
+    </references>
+  </note>
+  <note reference-line="132" id="64">
+    <original>ka. 286, 288; rū. 291, 293; nī. 591, 594; caṃ. 2.1.62-3; pā. 2.3.18</original>
+    <type>no_match</type>
+    <snippet>Kattukaraṇesu tatiyā</snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>ka. 286</reference>
+      <reference>rū. 291</reference>
+      <reference>nī. 591</reference>
+      <reference>caṃ. 2.1.62</reference>
+      <reference>pā. 2.3.18</reference>
+    </references>
+  </note>
+  <note reference-line="141" id="65">
+    <original>parasunā (sakkataganthesu)</original>
+    <type>raw</type>
     <snippet> nāma, puriso yānena gacchati, pharasunā </snippet>
-  </note>
-  <note line="224" original="ka. 287; rū. 296; nī. 592; caṃ. 2.1.65; pā. 2.3.19" reference-line="142" id="66">
-    <type>raw</type>
-  </note>
-  <note line="227" original="mahāva. 59" reference-line="145" id="67">
-    <type>raw</type>
-  </note>
-  <note line="230" original="saṃ. ni. 1.32" reference-line="145" id="68">
-    <type>raw</type>
-  </note>
-  <note line="233" original="dī. ni. 2.183, 207" reference-line="145" id="69">
-    <type>raw</type>
-  </note>
-  <note line="236" original="mahāva. 167" reference-line="145" id="70">
-    <type>raw</type>
-  </note>
-  <note line="239" original="rū. 147 piṭṭhe; nī. 598; caṃ. 2.1.66; pā. 2.3.21" reference-line="146" id="71">
-    <type>raw</type>
-  </note>
-  <note line="242" original="jā. 2.22.2123" reference-line="148" id="72">
-    <type>raw</type>
-  </note>
-  <note line="245" original="a. ni. 3.67" reference-line="148" id="73">
-    <type>raw</type>
-  </note>
-  <note line="248" original="pārā. 612 (thokaṃ visadisaṃ)" reference-line="148" id="74">
-    <extra></extra>
     <alternatives>
-      <alternative source-abbr="thokaṃ visadisaṃ" source="thokaṃ visadisaṃ">pārā. 612</alternative>
     </alternatives>
+  </note>
+  <note reference-line="142" id="66">
+    <original>ka. 287; rū. 296; nī. 592; caṃ. 2.1.65; pā. 2.3.19</original>
     <type>no_match</type>
+    <snippet>Sahatthena</snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>ka. 287</reference>
+      <reference>rū. 296</reference>
+      <reference>nī. 592</reference>
+      <reference>caṃ. 2.1.65</reference>
+      <reference>pā. 2.3.19</reference>
+    </references>
+  </note>
+  <note reference-line="145" id="67">
+    <original>mahāva. 59</original>
+    <type>no_match</type>
+    <snippet>Nisīdi bhagavā saddhiṃ bhikkhusaṅghena </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>mahāva. 59</reference>
+    </references>
+  </note>
+  <note reference-line="145" id="68">
+    <original>saṃ. ni. 1.32</original>
+    <type>no_match</type>
+    <snippet>, sahassena samaṃ mitā </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>saṃ. ni. 1.32</reference>
+    </references>
+  </note>
+  <note reference-line="145" id="69">
+    <original>dī. ni. 2.183, 207</original>
+    <type>raw</type>
+    <snippet>, piyehi nānābhāvo vinābhāvo </snippet>
+    <alternatives>
+    </alternatives>
+  </note>
+  <note reference-line="145" id="70">
+    <original>mahāva. 167</original>
+    <type>no_match</type>
+    <snippet>, saṅgho saha vā gaggena vinā vā gaggena uposathaṃ kareyya </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>mahāva. 167</reference>
+    </references>
+  </note>
+  <note reference-line="146" id="71">
+    <original>rū. 147 piṭṭhe; nī. 598; caṃ. 2.1.66; pā. 2.3.21</original>
+    <type>no_match</type>
+    <snippet>Lakkhaṇe</snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>rū. 147</reference>
+      <reference>nī. 598</reference>
+      <reference>caṃ. 2.1.66</reference>
+      <reference>pā. 2.3.21</reference>
+    </references>
+  </note>
+  <note reference-line="148" id="72">
+    <original>jā. 2.22.2123</original>
+    <type>no_match</type>
+    <snippet>Assupuṇṇehi nettehi, pitaraṃ so udikkhati </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>jā. 2.22.2123</reference>
+    </references>
+  </note>
+  <note reference-line="148" id="73">
+    <original>a. ni. 3.67</original>
+    <type>no_match</type>
+    <snippet>. Brahmabhūtena attanā viharati </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>a. ni. 3.67</reference>
+    </references>
+  </note>
+  <note reference-line="148" id="74">
+    <original>pārā. 612 (thokaṃ visadisaṃ)</original>
+    <type>raw</type>
     <snippet>, asambhinnena vilepanena rājānamadakkhi, tidaṇḍakena paribbājakamadakkhi, ūnapañcabandhanena pattena aññaṃ pattaṃ cetāpeti </snippet>
-  </note>
-  <note line="256" original="ma. ni. 1.226" reference-line="148" id="75">
-    <type>raw</type>
-  </note>
-  <note line="259" original="pāci. 584" reference-line="148" id="76">
-    <type>raw</type>
-  </note>
-  <note line="262" original="pāci. 599" reference-line="148" id="77">
-    <type>raw</type>
-  </note>
-  <note line="265" original="ka. 291; rū. 299; nī. 603" reference-line="149" id="78">
-    <type>raw</type>
-  </note>
-  <note line="268" original="ka. 289; rū. 297; nī. 601" reference-line="150" id="79">
-    <type>raw</type>
-  </note>
-  <note line="271" original="ma. ni. 2.460; su. ni. 659 (vattatī pajā)" reference-line="152" id="80">
-    <extra></extra>
     <alternatives>
-      <alternative source-abbr="vattatī pajā" source="vattatī pajā">ma. ni. 2.460; su. ni. 659</alternative>
     </alternatives>
+  </note>
+  <note reference-line="148" id="75">
+    <original>ma. ni. 1.226</original>
     <type>no_match</type>
+    <snippet>, bhikkhu pāsādikena abhikkantena paṭikkantena ālokitena vilokitena samiñjitena pasāritena gāmaṃ piṇḍāya pāvisi, sā kāḷī dāsī bhinnena sīsena lohitena galantena pativissakānaṃ ujjhāpesi </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>ma. ni. 1.226</reference>
+    </references>
+  </note>
+  <note reference-line="148" id="76">
+    <original>pāci. 584</original>
+    <type>no_match</type>
+    <snippet>, ukkhittakāya antaraghare gacchanti </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>pāci. 584</reference>
+    </references>
+  </note>
+  <note reference-line="148" id="77">
+    <original>pāci. 599</original>
+    <type>no_match</type>
+    <snippet>, pallatthikāya antaraghare nisīdanti </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>pāci. 599</reference>
+    </references>
+  </note>
+  <note reference-line="149" id="78">
+    <original>ka. 291; rū. 299; nī. 603</original>
+    <type>no_match</type>
+    <snippet>Aṅgavikāropi idha saṅgayhati </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>ka. 291</reference>
+      <reference>rū. 299</reference>
+      <reference>nī. 603</reference>
+    </references>
+  </note>
+  <note reference-line="150" id="79">
+    <original>ka. 289; rū. 297; nī. 601</original>
+    <type>no_match</type>
+    <snippet>Hetumhi</snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>ka. 289</reference>
+      <reference>rū. 297</reference>
+      <reference>nī. 601</reference>
+    </references>
+  </note>
+  <note reference-line="152" id="80">
+    <original>ma. ni. 2.460; su. ni. 659 (vattatī pajā)</original>
+    <type>raw</type>
     <snippet>Annena vasati, vijjāya sādhu, kammunā vattati loko, kammunā vattati pajā </snippet>
-  </note>
-  <note line="279" original="su. ni. 136" reference-line="152" id="81">
-    <type>raw</type>
-  </note>
-  <note line="282" original="dha. sa. aṭṭha. nidānakathā" reference-line="152" id="82">
-    <type>raw</type>
-  </note>
-  <note line="285" original="saṃ. ni. 1.234" reference-line="152" id="83">
-    <type>raw</type>
-  </note>
-  <note line="288" original="jā. 2.22.2097" reference-line="152" id="84">
-    <type>raw</type>
-  </note>
-  <note line="291" original="jā. aṭṭha. 4.15 mātaṅgajātakavaṇṇanā" reference-line="152" id="85">
-    <type>raw</type>
-  </note>
-  <note line="294" original="su. ni. 425" reference-line="155" id="86">
-    <type>raw</type>
-  </note>
-  <note line="297" original="apa. thera 1.1.253 (visadisaṃ)" reference-line="155" id="87">
-    <extra></extra>
     <alternatives>
-      <alternative source-abbr="visadisaṃ" source="visadisaṃ">apa. thera 1.1.253</alternative>
     </alternatives>
+  </note>
+  <note reference-line="152" id="81">
+    <original>su. ni. 136</original>
     <type>no_match</type>
+    <snippet>. Kammunā vasalo hoti, kammunā hoti brāhmaṇo </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>su. ni. 136</reference>
+    </references>
+  </note>
+  <note reference-line="152" id="82">
+    <original>dha. sa. aṭṭha. nidānakathā</original>
+    <type>raw</type>
+    <snippet>. Kenaṭṭhena </snippet>
+    <alternatives>
+    </alternatives>
+  </note>
+  <note reference-line="152" id="83">
+    <original>saṃ. ni. 1.234</original>
+    <type>no_match</type>
+    <snippet>, kena nimittena, kena vaṇṇena </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>saṃ. ni. 1.234</reference>
+    </references>
+  </note>
+  <note reference-line="152" id="84">
+    <original>jā. 2.22.2097</original>
+    <type>no_match</type>
+    <snippet> kena paccayena, kena hetunā </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>jā. 2.22.2097</reference>
+    </references>
+  </note>
+  <note reference-line="152" id="85">
+    <original>jā. aṭṭha. 4.15 mātaṅgajātakavaṇṇanā</original>
+    <type>raw</type>
+    <snippet>, kena kāraṇena </snippet>
+    <alternatives>
+    </alternatives>
+  </note>
+  <note reference-line="155" id="86">
+    <original>su. ni. 425</original>
+    <type>no_match</type>
+    <snippet> yathā? Ādicco nāma gottena, sākiyo nāma jātiyā </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>su. ni. 425</reference>
+    </references>
+  </note>
+  <note reference-line="155" id="87">
+    <original>apa. thera 1.1.253 (visadisaṃ)</original>
+    <type>raw</type>
     <snippet>. Gottena gotamo nātho </snippet>
-  </note>
-  <note line="305" original="apa. thera 1.1.251" reference-line="155" id="88">
-    <type>raw</type>
-  </note>
-  <note line="308" original="dī. ni. 2.92" reference-line="155" id="89">
-    <type>raw</type>
-  </note>
-  <note line="311" original="mi. pa. 6.4.8" reference-line="155" id="90">
-    <type>raw</type>
-  </note>
-  <note line="314" original="dī. ni. 2.214" reference-line="155" id="91">
-    <type>raw</type>
-  </note>
-  <note line="317" original="pāci. 86" reference-line="155" id="92">
-    <type>raw</type>
-  </note>
-  <note line="320" original="bu. vaṃ. 2.78" reference-line="155" id="93">
-    <type>raw</type>
-  </note>
-  <note line="323" original="pārā. aṭṭha. 1.paṭhamamahāsaṅgītikathā (sammanni)" reference-line="155" id="94">
-    <extra></extra>
     <alternatives>
-      <alternative source-abbr="sammanni" source="sammanni">pārā. aṭṭha. 1.paṭhamamahāsaṅgītikathā</alternative>
     </alternatives>
+  </note>
+  <note reference-line="155" id="88">
+    <original>apa. thera 1.1.251</original>
+    <type>raw</type>
+    <snippet>, sāriputtoti nāmena </snippet>
+    <alternatives>
+    </alternatives>
+  </note>
+  <note reference-line="155" id="89">
+    <original>dī. ni. 2.92</original>
     <type>no_match</type>
+    <snippet>, vissuto paññavā ca so, jātiyā khattiyo buddho </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>dī. ni. 2.92</reference>
+    </references>
+  </note>
+  <note reference-line="155" id="90">
+    <original>mi. pa. 6.4.8</original>
+    <type>no_match</type>
+    <snippet>, jātiyā sattavassiko </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>mi. pa. 6.4.8</reference>
+    </references>
+  </note>
+  <note reference-line="155" id="91">
+    <original>dī. ni. 2.214</original>
+    <type>no_match</type>
+    <snippet>, sippena naḷakāro so, ekūnatiṃso vayasā </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>dī. ni. 2.214</reference>
+    </references>
+  </note>
+  <note reference-line="155" id="92">
+    <original>pāci. 86</original>
+    <type>no_match</type>
+    <snippet>, vijjāya sādhu, tapasā uttamo, suvaṇṇena abhirūpo, pakatiyā abhirūpo, pakatiyā bhaddako, yebhuyyena mattikā </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>pāci. 86</reference>
+    </references>
+  </note>
+  <note reference-line="155" id="93">
+    <original>bu. vaṃ. 2.78</original>
+    <type>no_match</type>
+    <snippet>, dhammena samena rajjaṃ kāreti, samena dhāvati, visamena dhāvati, sukhena sukhito homi, pāmojjena pamudito </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>bu. vaṃ. 2.78</reference>
+    </references>
+  </note>
+  <note reference-line="155" id="94">
+    <original>pārā. aṭṭha. 1.paṭhamamahāsaṅgītikathā (sammanni)</original>
+    <type>raw</type>
     <snippet>. Dvidoṇena dhaññaṃ kiṇāti, sahassena asse vikkiṇāti, attanāva attānaṃ sammannati </snippet>
-  </note>
-  <note line="331" original="bu. vaṃ. 2.56" reference-line="156" id="95">
-    <type>raw</type>
-  </note>
-  <note line="334" original="dha. pa. 394" reference-line="156" id="96">
-    <type>raw</type>
-  </note>
-  <note line="337" original="pārā. 436" reference-line="156" id="97">
-    <type>raw</type>
-  </note>
-  <note line="340" original="pārā. 52" reference-line="156" id="98">
-    <type>raw</type>
-  </note>
-  <note line="343" original="pārā. 52" reference-line="156" id="99">
-    <type>raw</type>
-  </note>
-  <note line="346" original="pārā. 52" reference-line="156" id="100">
-    <type>raw</type>
-  </note>
-  <note line="349" original="pārā. 344" reference-line="156" id="101">
-    <type>raw</type>
-  </note>
-  <note line="352" original="pāṇiyena (mū.)" reference-line="156" id="102">
-    <extra></extra>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">pānīyena</alternative>
-      <alternative source-abbr="mū." source="mū.">pāṇiyena</alternative>
     </alternatives>
-    <type>auto</type>
+  </note>
+  <note reference-line="156" id="95">
+    <original>bu. vaṃ. 2.56</original>
+    <type>no_match</type>
+    <snippet> yathā? Kiṃ me ekena tiṇṇena, purisena thāmadassinā </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>bu. vaṃ. 2.56</reference>
+    </references>
+  </note>
+  <note reference-line="156" id="96">
+    <original>dha. pa. 394</original>
+    <type>no_match</type>
+    <snippet>. Kiṃ te jaṭāhi dummedha, kiṃ te ajinasāṭiyā </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>dha. pa. 394</reference>
+    </references>
+  </note>
+  <note reference-line="156" id="97">
+    <original>pārā. 436</original>
+    <type>no_match</type>
+    <snippet>. Alaṃ te idha vāsena </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>pārā. 436</reference>
+    </references>
+  </note>
+  <note reference-line="156" id="98">
+    <original>pārā. 52</original>
+    <type>no_match</type>
+    <snippet>, alaṃ me buddhena </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>pārā. 52</reference>
+    </references>
+  </note>
+  <note reference-line="156" id="99">
+    <original>pārā. 52</original>
+    <type>no_match</type>
+    <snippet>, kinnumebuddhena </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>pārā. 52</reference>
+    </references>
+  </note>
+  <note reference-line="156" id="100">
+    <original>pārā. 52</original>
+    <type>no_match</type>
+    <snippet>, na mamattho buddhena </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>pārā. 52</reference>
+    </references>
+  </note>
+  <note reference-line="156" id="101">
+    <original>pārā. 344</original>
+    <type>no_match</type>
+    <snippet>, maṇinā me attho </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>pārā. 344</reference>
+    </references>
+  </note>
+  <note reference-line="156" id="102">
+    <original>pāṇiyena (mū.)</original>
+    <type>raw</type>
     <snippet>, vadeyyātha bhante yenattho, pānīyena </snippet>
-  </note>
-  <note line="361" original="mahāva. 263" reference-line="156" id="103">
-    <type>raw</type>
-  </note>
-  <note line="364" original="cūḷava. 437" reference-line="161" id="104">
-    <type>raw</type>
-  </note>
-  <note line="367" original="saṃ. ni. 4.85" reference-line="161" id="105">
-    <type>raw</type>
-  </note>
-  <note line="370" original="a. ni. 5.2" reference-line="161" id="106">
-    <type>raw</type>
-  </note>
-  <note line="373" original="a. ni. 5.2" reference-line="161" id="107">
-    <type>raw</type>
-  </note>
-  <note line="376" original="dha. pa. 178" reference-line="161" id="108">
-    <type>raw</type>
-  </note>
-  <note line="379" original="mahāva. 17" reference-line="163" id="109">
-    <type>raw</type>
-  </note>
-  <note line="382" original="pārā. 1" reference-line="163" id="110">
-    <type>raw</type>
-  </note>
-  <note line="385" original="khu. pā. 5.9" reference-line="163" id="111">
-    <type>raw</type>
-  </note>
-  <note line="388" original="dī. ni. 2.216" reference-line="163" id="112">
-    <type>raw</type>
-  </note>
-  <note line="391" original="dī. ni. 2.168; udā. 51" reference-line="163" id="113">
-    <type>raw</type>
-  </note>
-  <note line="394" original="dī. ni. 2.336" reference-line="163" id="114">
-    <type>raw</type>
-  </note>
-  <note line="397" original="khu. pā. 5.1" reference-line="163" id="115">
-    <type>raw</type>
-  </note>
-  <note line="400" original="ka. 293; rū. 301; nī. 605; catutthī sampadāne (bahūsu), caṃ. 2.1.73; pā. 2.3.13" reference-line="170" id="116">
-    <extra>, caṃ. 2.1.73; pā. 2.3.13</extra>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">Sampadāne catutthī</alternative>
-      <alternative source-abbr="bahūsu" source="bahūsu">ka. 293; rū. 301; nī. 605; catutthī sampadāne</alternative>
     </alternatives>
-    <type>auto</type>
+  </note>
+  <note reference-line="156" id="103">
+    <original>mahāva. 263</original>
+    <type>no_match</type>
+    <snippet> attho, mūlehi bhesajjehi attho </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>mahāva. 263</reference>
+    </references>
+  </note>
+  <note reference-line="161" id="104">
+    <original>cūḷava. 437</original>
+    <type>no_match</type>
+    <snippet>Sumuttā mayaṃ tena mahāsamaṇena </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>cūḷava. 437</reference>
+    </references>
+  </note>
+  <note reference-line="161" id="105">
+    <original>saṃ. ni. 4.85</original>
+    <type>no_match</type>
+    <snippet>, muttomhi kāsirājena, cakkhu suññaṃ attena vā attaniyena vā </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>saṃ. ni. 4.85</reference>
+    </references>
+  </note>
+  <note reference-line="161" id="106">
+    <original>a. ni. 5.2</original>
+    <type>no_match</type>
+    <snippet>, ottappati kāyaduccaritena </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>a. ni. 5.2</reference>
+    </references>
+  </note>
+  <note reference-line="161" id="107">
+    <original>a. ni. 5.2</original>
+    <type>no_match</type>
+    <snippet>, hirīyati kāyaduccaritena </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>a. ni. 5.2</reference>
+    </references>
+  </note>
+  <note reference-line="161" id="108">
+    <original>dha. pa. 178</original>
+    <type>no_match</type>
+    <snippet>, jigucchati sakena kāyena, pathabyā ekarajjena, saggassa gamanena vā. Sabbalokādhipaccena, sotāpattiphalaṃ varaṃ </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>dha. pa. 178</reference>
+    </references>
+  </note>
+  <note reference-line="163" id="109">
+    <original>mahāva. 17</original>
+    <type>no_match</type>
+    <snippet>Tena khaṇena tena layena tena muhuttena </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>mahāva. 17</reference>
+    </references>
+  </note>
+  <note reference-line="163" id="110">
+    <original>pārā. 1</original>
+    <type>no_match</type>
+    <snippet>, tena samayena </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>pārā. 1</reference>
+    </references>
+  </note>
+  <note reference-line="163" id="111">
+    <original>khu. pā. 5.9</original>
+    <type>no_match</type>
+    <snippet>, kālena dhammassavanaṃ </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>khu. pā. 5.9</reference>
+    </references>
+  </note>
+  <note reference-line="163" id="112">
+    <original>dī. ni. 2.216</original>
+    <type>no_match</type>
+    <snippet>. So vo mamaccayena satthā </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>dī. ni. 2.216</reference>
+    </references>
+  </note>
+  <note reference-line="163" id="113">
+    <original>dī. ni. 2.168; udā. 51</original>
+    <type>no_match</type>
+    <snippet>, tiṇṇaṃ māsānaṃ accayena </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>dī. ni. 2.168</reference>
+      <reference>udā. 51</reference>
+    </references>
+  </note>
+  <note reference-line="163" id="114">
+    <original>dī. ni. 2.336</original>
+    <type>no_match</type>
+    <snippet>, pubbena gāmaṃ, dakkhiṇena gāmaṃ, puratthimena dhataraṭṭho, dakkhiṇena virūḷhako pacchimena virūpakkho </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>dī. ni. 2.336</reference>
+    </references>
+  </note>
+  <note reference-line="163" id="115">
+    <original>khu. pā. 5.1</original>
+    <type>no_match</type>
+    <snippet>, yena bhagavā tenupasaṅkami </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>khu. pā. 5.1</reference>
+    </references>
+  </note>
+  <note reference-line="170" id="116">
+    <original>ka. 293; rū. 301; nī. 605; catutthī sampadāne (bahūsu), caṃ. 2.1.73; pā. 2.3.13</original>
+    <type>no_match</type>
     <snippet>Sampadāne catutthī</snippet>
-  </note>
-  <note line="409" original="ma. ni. 1.179; ma. ni. 2.435" reference-line="176" id="117">
-    <type>raw</type>
-  </note>
-  <note line="412" original="jā. 2.22.43" reference-line="176" id="118">
-    <type>raw</type>
-  </note>
-  <note line="415" original="jā. 1.3.60" reference-line="176" id="119">
-    <type>raw</type>
-  </note>
-  <note line="418" original="pārā. 418" reference-line="176" id="120">
-    <type>raw</type>
-  </note>
-  <note line="421" original="pārā. 438" reference-line="176" id="121">
-    <type>raw</type>
-  </note>
-  <note line="424" original="cūḷava. 282" reference-line="176" id="122">
-    <type>raw</type>
-  </note>
-  <note line="427" original="mahāva. 261 (thokaṃ visadisaṃ)" reference-line="176" id="123">
-    <extra></extra>
     <alternatives>
-      <alternative source-abbr="thokaṃ visadisaṃ" source="thokaṃ visadisaṃ">mahāva. 261</alternative>
     </alternatives>
+    <references>
+      <reference>ka. 293</reference>
+      <reference>rū. 301</reference>
+      <reference>nī. 605</reference>
+      <reference>caṃ. 2.1.73</reference>
+      <reference>pā. 2.3.13</reference>
+    </references>
+  </note>
+  <note reference-line="176" id="117">
+    <original>ma. ni. 1.179; ma. ni. 2.435</original>
     <type>no_match</type>
+    <snippet>Tañca amhākaṃ ruccati ceva khamati ca </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>ma. ni. 1.179</reference>
+      <reference>ma. ni. 2.435</reference>
+    </references>
+  </note>
+  <note reference-line="176" id="118">
+    <original>jā. 2.22.43</original>
+    <type>no_match</type>
+    <snippet>, pabbajjā mama ruccati </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>jā. 2.22.43</reference>
+    </references>
+  </note>
+  <note reference-line="176" id="119">
+    <original>jā. 1.3.60</original>
+    <type>no_match</type>
+    <snippet>, kassa sāduṃ na ruccati, na me ruccati bhaddante, ulūkassābhisecanaṃ </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>jā. 1.3.60</reference>
+    </references>
+  </note>
+  <note reference-line="176" id="120">
+    <original>pārā. 418</original>
+    <type>no_match</type>
+    <snippet>. Gamanaṃ mayhaṃ ruccati, māyasmantānampi saṅghabhedo ruccittha </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>pārā. 418</reference>
+    </references>
+  </note>
+  <note reference-line="176" id="121">
+    <original>pārā. 438</original>
+    <type>no_match</type>
+    <snippet>, yassāyasmato na khamati, khamati saṅghassa </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>pārā. 438</reference>
+    </references>
+  </note>
+  <note reference-line="176" id="122">
+    <original>cūḷava. 282</original>
+    <type>no_match</type>
+    <snippet>, bhattaṃ mayhaṃ chādeti, bhattamassa nacchādeti </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>cūḷava. 282</reference>
+    </references>
+  </note>
+  <note reference-line="176" id="123">
+    <original>mahāva. 261 (thokaṃ visadisaṃ)</original>
+    <type>raw</type>
     <snippet>, tesaṃ bhikkhūnaṃ lūkhāni bhojanāni nacchādenti </snippet>
-  </note>
-  <note line="435" original="pāci. 816 (visadisaṃ)" reference-line="179" id="124">
-    <extra></extra>
     <alternatives>
-      <alternative source-abbr="visadisaṃ" source="visadisaṃ">pāci. 816</alternative>
     </alternatives>
-    <type>no_match</type>
+  </note>
+  <note reference-line="179" id="124">
+    <original>pāci. 816 (visadisaṃ)</original>
+    <type>raw</type>
     <snippet>Buddhassa silāghate, thometīti attho, tuyhaṃ hanute, tuṇhibhāvena vañcetīti attho, bhikkhunī bhikkhussa bhuñjamānassa pānīyena vā vidhūpanena vā upaṭṭhāti </snippet>
-  </note>
-  <note line="443" original="jā. 2.22.1934" reference-line="179" id="125">
-    <type>raw</type>
-  </note>
-  <note line="446" original="khu. pā. 5.6" reference-line="179" id="126">
-    <type>raw</type>
-  </note>
-  <note line="449" original="saṃ. ni. 1.253" reference-line="179" id="127">
-    <type>raw</type>
-  </note>
-  <note line="452" original="jā. 2.21.407" reference-line="179" id="128">
-    <type>raw</type>
-  </note>
-  <note line="455" original="a. ni. 4.62" reference-line="179" id="129">
-    <type>raw</type>
-  </note>
-  <note line="458" original="nidhetīti, nidhema (keci)" reference-line="179" id="130">
-    <extra></extra>
     <alternatives>
-      <alternative source-abbr="keci" source="keci">nidhetīti, nidhema</alternative>
     </alternatives>
+  </note>
+  <note reference-line="179" id="125">
+    <original>jā. 2.22.1934</original>
     <type>no_match</type>
+    <snippet>. Dutiyāpi hoti, rañño upaṭṭhāti, rājānaṃ upaṭṭhāti, ahaṃ bhotiṃ upaṭṭhissaṃ </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>jā. 2.22.1934</reference>
+    </references>
+  </note>
+  <note reference-line="179" id="126">
+    <original>khu. pā. 5.6</original>
+    <type>no_match</type>
+    <snippet>, ahaṃ taṃ upaṭṭhissāmi, mātāpituupaṭṭhānaṃ </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>khu. pā. 5.6</reference>
+    </references>
+  </note>
+  <note reference-line="179" id="127">
+    <original>saṃ. ni. 1.253</original>
+    <type>no_match</type>
+    <snippet>, tuyhaṃ sapate, sapassu me vepacitti </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>saṃ. ni. 1.253</reference>
+    </references>
+  </note>
+  <note reference-line="179" id="128">
+    <original>jā. 2.21.407</original>
+    <type>no_match</type>
+    <snippet>, sapathampi te samma ahaṃ karomi </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>jā. 2.21.407</reference>
+    </references>
+  </note>
+  <note reference-line="179" id="129">
+    <original>a. ni. 4.62</original>
+    <type>no_match</type>
+    <snippet>, tava mayi saddahanatthaṃ saccaṃ karomīti attho, rañño sataṃ dhāreti, idha kulaputto na kassaci kiñci dhāreti </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>a. ni. 4.62</reference>
+    </references>
+  </note>
+  <note reference-line="179" id="130">
+    <original>nidhetīti, nidhema (keci)</original>
+    <type>raw</type>
     <snippet>, tassa rañño mayaṃ nāgaṃ dhārayāma. Tattha ‘rañño sataṃ dhāretī’ti sataṃ balidhanaṃ vā daṇḍadhanaṃ vā nidetīti </snippet>
-  </note>
-  <note line="466" original="nidhetīti, nidhema (keci)" reference-line="179" id="131">
-    <extra></extra>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">nidema</alternative>
-      <alternative source-abbr="keci" source="keci">nidhetīti, nidhema</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> attho, iṇaṃ katvā gaṇhātī’’ti ca vadanti. ‘Dhārayāmā’ti puna nidema </snippet>
   </note>
-  <note line="475" original="jā. 1.1.113" reference-line="179" id="132">
+  <note reference-line="179" id="131">
+    <original>nidhetīti, nidhema (keci)</original>
     <type>raw</type>
-  </note>
-  <note line="478" original="dha. pa. 94 (tassa pihayanti)" reference-line="180" id="133">
-    <extra></extra>
+    <snippet> attho, ‘‘iṇaṃ katvā gaṇhātī’’ti ca vadanti. ‘Dhārayāmā’ti puna nidema </snippet>
     <alternatives>
-      <alternative source-abbr="tassa pihayanti" source="tassa pihayanti">dha. pa. 94</alternative>
     </alternatives>
+  </note>
+  <note reference-line="179" id="132">
+    <original>jā. 1.1.113</original>
     <type>no_match</type>
+    <snippet>, tuyhaṃ saddahati, mayhaṃ saddahati, saddahāsi siṅgālassa, surāpītassa brāhmaṇa </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>jā. 1.1.113</reference>
+    </references>
+  </note>
+  <note reference-line="180" id="133">
+    <original>dha. pa. 94 (tassa pihayanti)</original>
+    <type>raw</type>
     <snippet> te pihayanti tādino </snippet>
-  </note>
-  <note line="486" original="dha. pa. 181" reference-line="180" id="134">
-    <type>raw</type>
-  </note>
-  <note line="489" original="jā. 1.4.49" reference-line="181" id="135">
-    <type>raw</type>
-  </note>
-  <note line="492" original="jā. 2.22.1696 (kujjhi)" reference-line="181" id="136">
-    <extra></extra>
     <alternatives>
-      <alternative source-abbr="kujjhi" source="kujjhi">jā. 2.22.1696</alternative>
     </alternatives>
+  </note>
+  <note reference-line="180" id="134">
+    <original>dha. pa. 181</original>
     <type>no_match</type>
+    <snippet>, devāpi tesaṃ pihayanti, sambuddhānaṃ satīmataṃ </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>dha. pa. 181</reference>
+    </references>
+  </note>
+  <note reference-line="181" id="135">
+    <original>jā. 1.4.49</original>
+    <type>no_match</type>
+    <snippet>Tassa kujjha mahāvīra </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>jā. 1.4.49</reference>
+    </references>
+  </note>
+  <note reference-line="181" id="136">
+    <original>jā. 2.22.1696 (kujjhi)</original>
+    <type>raw</type>
     <snippet>, mā me kujjha rathesabha </snippet>
-  </note>
-  <note line="500" original="dha. pa. 125; su. ni. 667; jā. 1.5.94" reference-line="181" id="137">
-    <type>raw</type>
-  </note>
-  <note line="503" original="jā. 2.22.19" reference-line="181" id="138">
-    <type>raw</type>
-  </note>
-  <note line="506" original="jā. 1.16.295" reference-line="181" id="139">
-    <type>raw</type>
-  </note>
-  <note line="509" original="ma. ni. 1.226 (ujjhāpesi)" reference-line="181" id="140">
-    <extra></extra>
     <alternatives>
-      <alternative source-abbr="ujjhāpesi" source="ujjhāpesi">ma. ni. 1.226</alternative>
     </alternatives>
+  </note>
+  <note reference-line="181" id="137">
+    <original>dha. pa. 125; su. ni. 667; jā. 1.5.94</original>
     <type>no_match</type>
+    <snippet>, yadihaṃ tassa kuppeyyaṃ, mātu kuppati, pitu kuppati, yo appaduṭṭhassa narassa dussati </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>dha. pa. 125</reference>
+      <reference>su. ni. 667</reference>
+      <reference>jā. 1.5.94</reference>
+    </references>
+  </note>
+  <note reference-line="181" id="138">
+    <original>jā. 2.22.19</original>
+    <type>no_match</type>
+    <snippet>, duhayati disānaṃ megho, pūreti vināseti vāti attho, akāle vassanto hi vināseti nāma, yo mittānaṃ na dubbhati </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>jā. 2.22.19</reference>
+    </references>
+  </note>
+  <note reference-line="181" id="139">
+    <original>jā. 1.16.295</original>
+    <type>no_match</type>
+    <snippet>, aduṭṭhassa tuvaṃ dubbhi </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>jā. 1.16.295</reference>
+    </references>
+  </note>
+  <note reference-line="181" id="140">
+    <original>ma. ni. 1.226 (ujjhāpesi)</original>
+    <type>raw</type>
     <snippet>, mittānaṃ na dubbheyya, titthiyā issanti samaṇānaṃ, ussūyanti dujjanā guṇavantānaṃ, pativissakānaṃ ujjhāpesi </snippet>
-  </note>
-  <note line="517" original="udā. 26 (visadisaṃ)" reference-line="181" id="141">
-    <extra></extra>
     <alternatives>
-      <alternative source-abbr="visadisaṃ" source="visadisaṃ">udā. 26</alternative>
     </alternatives>
-    <type>no_match</type>
+  </note>
+  <note reference-line="181" id="141">
+    <original>udā. 26 (visadisaṃ)</original>
+    <type>raw</type>
     <snippet>, mā tumhe tassa ujjhāyittha </snippet>
-  </note>
-  <note line="525" original="pārā. 383" reference-line="181" id="142">
-    <type>raw</type>
-  </note>
-  <note line="528" original="a. ni. 1.1" reference-line="182" id="143">
-    <type>raw</type>
-  </note>
-  <note line="531" original="mahāva. 270" reference-line="182" id="144">
-    <type>raw</type>
-  </note>
-  <note line="534" original="mahāva. 270" reference-line="182" id="145">
-    <type>raw</type>
-  </note>
-  <note line="537" original="ma. ni. 1.416" reference-line="184" id="146">
-    <type>raw</type>
-  </note>
-  <note line="540" original="ma. ni. 1.416" reference-line="184" id="147">
-    <type>raw</type>
-  </note>
-  <note line="543" original="dī. ni. 2.218 (visadisaṃ)" reference-line="184" id="148">
-    <extra></extra>
     <alternatives>
-      <alternative source-abbr="visadisaṃ" source="visadisaṃ">dī. ni. 2.218</alternative>
     </alternatives>
+  </note>
+  <note reference-line="181" id="142">
+    <original>pārā. 383</original>
     <type>no_match</type>
-    <snippet>, āmantayāmi vo bhikkhave </snippet>
-  </note>
-  <note line="551" original="ma. ni. 3.105" reference-line="184" id="149">
-    <type>raw</type>
-  </note>
-  <note line="554" original="ka. 277; rū. 303; nī. 554" reference-line="185" id="150">
-    <type>raw</type>
-  </note>
-  <note line="557" original="ka. 109; rū. 304; nī. 279-80" reference-line="187" id="151">
-    <type>raw</type>
-  </note>
-  <note line="560" original="pari. 366" reference-line="189" id="152">
-    <type>raw</type>
-  </note>
-  <note line="563" original="ma. ni. 1.50" reference-line="189" id="153">
-    <type>raw</type>
-  </note>
-  <note line="566" original="pārā. 38" reference-line="189" id="154">
-    <type>raw</type>
-  </note>
-  <note line="569" original="pāci. 902" reference-line="189" id="155">
-    <type>raw</type>
-  </note>
-  <note line="572" original="jā. 2.17.13" reference-line="190" id="156">
-    <type>raw</type>
-  </note>
-  <note line="575" original="mahāva. 13" reference-line="190" id="157">
-    <type>raw</type>
-  </note>
-  <note line="578" original="pārā. 436" reference-line="192" id="158">
-    <type>raw</type>
-  </note>
-  <note line="581" original="bu. vaṃ. 2.56" reference-line="192" id="159">
-    <type>raw</type>
-  </note>
-  <note line="584" original="dha. pa. 394" reference-line="192" id="160">
-    <type>raw</type>
-  </note>
-  <note line="587" original="kaḷiṅgarassa, kaḷaṅgarassa (ka.)" reference-line="193" id="161">
-    <extra></extra>
+    <snippet>, mahārājānaṃ ujjhāpetabbaṃ viravitabbaṃ vikkanditabbaṃ, kyāhaṃ ayyānaṃ aparajjhāmi </snippet>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">kaliṅgarassa</alternative>
+    </alternatives>
+    <references>
+      <reference>pārā. 383</reference>
+    </references>
+  </note>
+  <note reference-line="182" id="143">
+    <original>a. ni. 1.1</original>
+    <type>no_match</type>
+    <snippet>Pati, āpubbassa su-dhātussa anu, patipubbassa ca gī-dhātussa yoge sampadāne catutthī. Tatra kho bhagavā bhikkhū āmantesi ‘‘bhikkhavo’’ti, ‘‘bhaddante’’ti te bhikkhū bhagavato paccassosuṃ </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>a. ni. 1.1</reference>
+    </references>
+  </note>
+  <note reference-line="182" id="144">
+    <original>mahāva. 270</original>
+    <type>no_match</type>
+    <snippet>. Ettha ca pubbavākye āmantanakriyāya kattā bhagavā, so paravākye paccāsuyoge sampadānaṃ hoti, ‘paccassosu’nti bhaddanteti paṭivacanaṃ adaṃsūti attho. Bhikkhū buddhassa āsuṇanti, rājā bimbisāro pilindavacchattherassa ārāmikaṃ paṭissutvā </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>mahāva. 270</reference>
+    </references>
+  </note>
+  <note reference-line="182" id="145">
+    <original>mahāva. 270</original>
+    <type>no_match</type>
+    <snippet>, amacco rañño bimbisārassa paṭissutvā </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>mahāva. 270</reference>
+    </references>
+  </note>
+  <note reference-line="184" id="146">
+    <original>ma. ni. 1.416</original>
+    <type>no_match</type>
+    <snippet>Ārocayāmi vo bhikkhave </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>ma. ni. 1.416</reference>
+    </references>
+  </note>
+  <note reference-line="184" id="147">
+    <original>ma. ni. 1.416</original>
+    <type>no_match</type>
+    <snippet>, paṭivedayāmi vo bhikkhave </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>ma. ni. 1.416</reference>
+    </references>
+  </note>
+  <note reference-line="184" id="148">
+    <original>dī. ni. 2.218 (visadisaṃ)</original>
+    <type>raw</type>
+    <snippet>, āmantayāmi vo bhikkhave </snippet>
+    <alternatives>
+    </alternatives>
+  </note>
+  <note reference-line="184" id="149">
+    <original>ma. ni. 3.105</original>
+    <type>no_match</type>
+    <snippet>, dhammaṃ vo desessāmi </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>ma. ni. 3.105</reference>
+    </references>
+  </note>
+  <note reference-line="185" id="150">
+    <original>ka. 277; rū. 303; nī. 554</original>
+    <type>no_match</type>
+    <snippet>Tadatthe</snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>ka. 277</reference>
+      <reference>rū. 303</reference>
+      <reference>nī. 554</reference>
+    </references>
+  </note>
+  <note reference-line="187" id="151">
+    <original>ka. 109; rū. 304; nī. 279-80</original>
+    <type>raw</type>
+    <snippet>Sassāya catutthiyā</snippet>
+    <alternatives>
+    </alternatives>
+  </note>
+  <note reference-line="189" id="152">
+    <original>pari. 366</original>
+    <type>no_match</type>
+    <snippet>Vinayo saṃvaratthāya, saṃvaro avippaṭisāratthāya, avippaṭisāro pāmujjatthāya, pāmujjaṃ pītatthāya, pīti passaddhatthāya, passaddhi sukhatthāya, sukhaṃ samādhatthāya, samādhi yathābhūtañāṇadassanatthāya, yathābhūtañāṇadassanaṃ nibbidatthāya, nibbidā virāgatthāya, virāgo vimuttatthāya, vimutti vimuttiñāṇadassanatthāya, vimuttiñāṇadassanaṃ anupādāparinibbānatthāya </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>pari. 366</reference>
+    </references>
+  </note>
+  <note reference-line="189" id="153">
+    <original>ma. ni. 1.50</original>
+    <type>no_match</type>
+    <snippet>, atthāya hitāya sukhāya devamanussānaṃ </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>ma. ni. 1.50</reference>
+    </references>
+  </note>
+  <note reference-line="189" id="154">
+    <original>pārā. 38</original>
+    <type>no_match</type>
+    <snippet>, alaṃ kukkuccāya </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>pārā. 38</reference>
+    </references>
+  </note>
+  <note reference-line="189" id="155">
+    <original>pāci. 902</original>
+    <type>no_match</type>
+    <snippet>, alaṃ sammohāya, pākāya vajati, yuddhāya gacchati, gāmaṃ piṇḍāya pāvisiṃ </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>pāci. 902</reference>
+    </references>
+  </note>
+  <note reference-line="190" id="156">
+    <original>jā. 2.17.13</original>
+    <type>no_match</type>
+    <snippet> tadatthe saṅgayhati, alaṃ mitte sukhāpetuṃ, amittānaṃ dukhāya ca </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>jā. 2.17.13</reference>
+    </references>
+  </note>
+  <note reference-line="190" id="157">
+    <original>mahāva. 13</original>
+    <type>no_match</type>
+    <snippet>. Lokānukampāya buddho loke uppajjati, alaṃ phāsuvihārāya, abhiññāya sambodhāya nibbānāya saṃvattati </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>mahāva. 13</reference>
+    </references>
+  </note>
+  <note reference-line="192" id="158">
+    <original>pārā. 436</original>
+    <type>no_match</type>
+    <snippet>Alaṃ mallo mallassa, arahati mallo mallassa, alaṃ te idha vāsena </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>pārā. 436</reference>
+    </references>
+  </note>
+  <note reference-line="192" id="159">
+    <original>bu. vaṃ. 2.56</original>
+    <type>no_match</type>
+    <snippet>, alaṃ te hiraññasuvaṇṇena, kiṃ me ekena tiṇṇena </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>bu. vaṃ. 2.56</reference>
+    </references>
+  </note>
+  <note reference-line="192" id="160">
+    <original>dha. pa. 394</original>
+    <type>no_match</type>
+    <snippet>, kiṃ te jaṭāhi dummedha, kiṃ te ajinasāṭiyā </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>dha. pa. 394</reference>
+    </references>
+  </note>
+  <note reference-line="193" id="161">
+    <original>kaḷiṅgarassa, kaḷaṅgarassa (ka.)</original>
+    <type>no_match</type>
+    <snippet>Maññanāpayoge anādare apāṇismimeva catutthī, kaṭṭhassa tuvaṃ maññe, kaliṅgarassa </snippet>
+    <alternatives>
       <alternative source-abbr="ka." source="cambodian">kaḷiṅgarassa, kaḷaṅgarassa</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet>Maññanāpayoge anādare apāṇismimeva catutthī, kaṭṭhassa tuvaṃ maññe, kaliṅgarassa </snippet>
   </note>
-  <note line="596" original="dha. pa. 174" reference-line="196" id="162">
-    <type>raw</type>
-  </note>
-  <note line="599" original="jā. 1.6.97" reference-line="196" id="163">
-    <type>raw</type>
-  </note>
-  <note line="602" original="dha. pa. 311" reference-line="196" id="164">
-    <type>raw</type>
-  </note>
-  <note line="605" original="cūḷava. 111" reference-line="196" id="165">
-    <type>raw</type>
-  </note>
-  <note line="608" original="jā. 1.8.15; jā. 2.17.1" reference-line="198" id="166">
-    <type>raw</type>
-  </note>
-  <note line="611" original="ma. ni. 2.351" reference-line="198" id="167">
-    <type>raw</type>
-  </note>
-  <note line="614" original="pārā. 590" reference-line="199" id="168">
-    <type>raw</type>
-  </note>
-  <note line="617" original="pārā. 614" reference-line="199" id="169">
-    <type>raw</type>
-  </note>
-  <note line="620" original="ma. ni. 1.258; jā. 2.19.24" reference-line="201" id="170">
-    <type>raw</type>
-  </note>
-  <note line="623" original="jā. 2.22.327" reference-line="201" id="171">
-    <type>raw</type>
-  </note>
-  <note line="626" original="mahāva. 134" reference-line="201" id="172">
-    <type>raw</type>
-  </note>
-  <note line="629" original="pārā. 344" reference-line="201" id="173">
-    <type>raw</type>
-  </note>
-  <note line="632" original="pārā. 52" reference-line="201" id="174">
-    <type>raw</type>
-  </note>
-  <note line="635" original="jā. 1.2.17" reference-line="201" id="175">
-    <type>raw</type>
-  </note>
-  <note line="638" original="dī. ni. 3.277" reference-line="201" id="176">
-    <type>raw</type>
-  </note>
-  <note line="641" original="ma. ni. 1.249" reference-line="201" id="177">
-    <type>raw</type>
-  </note>
-  <note line="644" original="apa. thera 1.2.129" reference-line="201" id="178">
-    <type>raw</type>
-  </note>
-  <note line="647" original="dī. ni. 1.274" reference-line="201" id="179">
-    <type>raw</type>
-  </note>
-  <note line="650" original="ka. 295; rū. 307; nī. 607; caṃ. 2.1.81; pā. 2.3.28; 1.4.24" reference-line="205" id="180">
-    <type>raw</type>
-  </note>
-  <note line="653" original="mahāva. 30" reference-line="209" id="181">
-    <type>raw</type>
-  </note>
-  <note line="656" original="jā. 1.5.65" reference-line="210" id="182">
-    <type>raw</type>
-  </note>
-  <note line="659" original="ma. ni. 3.207" reference-line="210" id="183">
-    <type>raw</type>
-  </note>
-  <note line="662" original="dī. ni. 3.279" reference-line="214" id="184">
-    <type>raw</type>
-  </note>
-  <note line="665" original="dī. ni. 2.4" reference-line="214" id="185">
-    <type>raw</type>
-  </note>
-  <note line="668" original="jā. 2.21.138" reference-line="214" id="186">
-    <type>raw</type>
-  </note>
-  <note line="671" original="ma. ni. 2.350" reference-line="214" id="187">
-    <type>raw</type>
-  </note>
-  <note line="674" original="jā. 1.9.58" reference-line="214" id="188">
-    <type>raw</type>
-  </note>
-  <note line="677" original="su. ni. sūcilomasutta" reference-line="214" id="189">
-    <type>raw</type>
-  </note>
-  <note line="680" original="su. ni. sūcilomasutta" reference-line="214" id="190">
-    <type>raw</type>
-  </note>
-  <note line="683" original="jā. 2.22.835" reference-line="214" id="191">
-    <type>raw</type>
-  </note>
-  <note line="686" original="jā. 2.22.307" reference-line="214" id="192">
-    <type>raw</type>
-  </note>
-  <note line="689" original="dha. pa. 129" reference-line="214" id="193">
-    <type>raw</type>
-  </note>
-  <note line="692" original="theragā. 1027" reference-line="215" id="194">
-    <type>raw</type>
-  </note>
-  <note line="695" original="dha. pa. 392" reference-line="216" id="195">
-    <type>raw</type>
-  </note>
-  <note line="698" original="a. ni. aṭṭha. 3.8.19" reference-line="218" id="196">
-    <type>raw</type>
-  </note>
-  <note line="701" original="apa. thera 1.1.255" reference-line="218" id="197">
-    <type>raw</type>
-  </note>
-  <note line="704" original="dha. pa. 215" reference-line="218" id="198">
-    <type>raw</type>
-  </note>
-  <note line="707" original="jā. 1.1.36; 1.2.13; 1.9.56, 57, 59" reference-line="218" id="199">
-    <type>raw</type>
-  </note>
-  <note line="710" original="dha. pa. 214" reference-line="218" id="200">
-    <type>raw</type>
-  </note>
-  <note line="713" original="dī. ni. 1.311" reference-line="218" id="201">
-    <type>raw</type>
-  </note>
-  <note line="716" original="pārā. 500 (thokaṃ visadisaṃ)" reference-line="218" id="202">
-    <extra></extra>
-    <alternatives>
-      <alternative source-abbr="thokaṃ visadisaṃ" source="thokaṃ visadisaṃ">pārā. 500</alternative>
-    </alternatives>
+  <note reference-line="196" id="162">
+    <original>dha. pa. 174</original>
     <type>no_match</type>
+    <snippet>Gatyatthānaṃ nayanatthānañca dhātūnaṃ kammani catutthī, appo saggāya gacchati </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>dha. pa. 174</reference>
+    </references>
+  </note>
+  <note reference-line="196" id="163">
+    <original>jā. 1.6.97</original>
+    <type>no_match</type>
+    <snippet>, yo maṃ dakāya neti </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>jā. 1.6.97</reference>
+    </references>
+  </note>
+  <note reference-line="196" id="164">
+    <original>dha. pa. 311</original>
+    <type>no_match</type>
+    <snippet>, nirayāyupakaḍḍhati </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>dha. pa. 311</reference>
+    </references>
+  </note>
+  <note reference-line="196" id="165">
+    <original>cūḷava. 111</original>
+    <type>no_match</type>
+    <snippet>, mūlāya paṭikasseyya </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>cūḷava. 111</reference>
+    </references>
+  </note>
+  <note reference-line="198" id="166">
+    <original>jā. 1.8.15; jā. 2.17.1</original>
+    <type>no_match</type>
+    <snippet>Āyu bhavato hotu, bhaddaṃ te hotu, bhaddamatthu te </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>jā. 1.8.15</reference>
+      <reference>jā. 2.17.1</reference>
+    </references>
+  </note>
+  <note reference-line="198" id="167">
+    <original>ma. ni. 2.351</original>
+    <type>no_match</type>
+    <snippet>, kusalaṃ te hotu, anāmayaṃ te hotu, sukhaṃ te hotu, atthaṃ te hotu, hitaṃ te hotu, kalyāṇaṃ te hotu, svāgataṃ te hotu, sotthi te hotu sotthi gabbhassa </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>ma. ni. 2.351</reference>
+    </references>
+  </note>
+  <note reference-line="199" id="168">
+    <original>pārā. 590</original>
+    <type>no_match</type>
+    <snippet> kammatthe [chaṭṭhī], itthannāmassa bhikkhuno rūpiyachaḍḍakassa sammuti </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>pārā. 590</reference>
+    </references>
+  </note>
+  <note reference-line="199" id="169">
+    <original>pārā. 614</original>
+    <type>no_match</type>
+    <snippet>, pattagāhāpakassa sammutiiccādi </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>pārā. 614</reference>
+    </references>
+  </note>
+  <note reference-line="201" id="170">
+    <original>ma. ni. 1.258; jā. 2.19.24</original>
+    <type>no_match</type>
+    <snippet>Tuyhañcassa āvi karomi, tassa me sakko pāturahosi, tassa pahiṇeyya, bhikkhūnaṃ dūtaṃ pāhesi, kappati bhikkhūnaṃ āyogo, vaṭṭati bhikkhūnaṃ āyogo, patthodano dvinnaṃ tiṇṇaṃ nappahoti, ekassa pahoti, ekassa pariyatto, upamaṃ te karissāmi </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>ma. ni. 1.258</reference>
+      <reference>jā. 2.19.24</reference>
+    </references>
+  </note>
+  <note reference-line="201" id="171">
+    <original>jā. 2.22.327</original>
+    <type>no_match</type>
+    <snippet>, añjaliṃ te paggaṇhāmi </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>jā. 2.22.327</reference>
+    </references>
+  </note>
+  <note reference-line="201" id="172">
+    <original>mahāva. 134</original>
+    <type>no_match</type>
+    <snippet>, tathāgatassa phāsu hoti, āvikatā hissa phāsu </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>mahāva. 134</reference>
+    </references>
+  </note>
+  <note reference-line="201" id="173">
+    <original>pārā. 344</original>
+    <type>no_match</type>
+    <snippet>, lokassa attho, lokassa hitaṃ, maṇinā me attho </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>pārā. 344</reference>
+    </references>
+  </note>
+  <note reference-line="201" id="174">
+    <original>pārā. 52</original>
+    <type>no_match</type>
+    <snippet>, na mamattho buddhena </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>pārā. 52</reference>
+    </references>
+  </note>
+  <note reference-line="201" id="175">
+    <original>jā. 1.2.17</original>
+    <type>no_match</type>
+    <snippet>, namatthu buddhānaṃ namatthu bodhiyā </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>jā. 1.2.17</reference>
+    </references>
+  </note>
+  <note reference-line="201" id="176">
+    <original>dī. ni. 3.277</original>
+    <type>no_match</type>
+    <snippet>, vipassissa ca namatthu </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>dī. ni. 3.277</reference>
+    </references>
+  </note>
+  <note reference-line="201" id="177">
+    <original>ma. ni. 1.249</original>
+    <type>no_match</type>
+    <snippet>, namo karohi nāgassa </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>ma. ni. 1.249</reference>
+    </references>
+  </note>
+  <note reference-line="201" id="178">
+    <original>apa. thera 1.2.129</original>
+    <type>raw</type>
+    <snippet>, namo te purisājañña, namo te purisuttama </snippet>
+    <alternatives>
+    </alternatives>
+  </note>
+  <note reference-line="201" id="179">
+    <original>dī. ni. 1.274</original>
+    <type>no_match</type>
+    <snippet>. Sotthi pajānaṃ </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>dī. ni. 1.274</reference>
+    </references>
+  </note>
+  <note reference-line="205" id="180">
+    <original>ka. 295; rū. 307; nī. 607; caṃ. 2.1.81; pā. 2.3.28; 1.4.24</original>
+    <type>raw</type>
+    <snippet>Pañcamyāvadhismiṃ</snippet>
+    <alternatives>
+    </alternatives>
+  </note>
+  <note reference-line="209" id="181">
+    <original>mahāva. 30</original>
+    <type>no_match</type>
+    <snippet>. Yathā? Valāhakā vijjotate vijju, agārasmā anagāriyaṃ pabbajitoti </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>mahāva. 30</reference>
+    </references>
+  </note>
+  <note reference-line="210" id="182">
+    <original>jā. 1.5.65</original>
+    <type>no_match</type>
+    <snippet>. Yathā? Māthurā pāṭaliputtakehi abhirūpatarā, sīlameva sutā seyyo </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>jā. 1.5.65</reference>
+    </references>
+  </note>
+  <note reference-line="210" id="183">
+    <original>ma. ni. 3.207</original>
+    <type>no_match</type>
+    <snippet>, mayā bhiyyo na vijjati, aggohamasmi lokassa, jeṭṭhohamasmi lokassa, seṭṭhohamasmi lokassa iccādi </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>ma. ni. 3.207</reference>
+    </references>
+  </note>
+  <note reference-line="214" id="184">
+    <original>dī. ni. 3.279</original>
+    <type>no_match</type>
+    <snippet> dūro ito gāmo, ito sā dakkhiṇā disā </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>dī. ni. 3.279</reference>
+    </references>
+  </note>
+  <note reference-line="214" id="185">
+    <original>dī. ni. 2.4</original>
+    <type>no_match</type>
+    <snippet>. Ito ekanavutikappe’’ti </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>dī. ni. 2.4</reference>
+    </references>
+  </note>
+  <note reference-line="214" id="186">
+    <original>jā. 2.21.138</original>
+    <type>no_match</type>
+    <snippet> ādīsu vadantassa cittasaṃsaggapubbakampi veditabbaṃ. ‘‘Na mātā puttato bhāyati, na ca putto mātito bhāyati, bhayā bhīto na bhāsasī’’ti </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>jā. 2.21.138</reference>
+    </references>
+  </note>
+  <note reference-line="214" id="187">
+    <original>ma. ni. 2.350</original>
+    <type>no_match</type>
+    <snippet> pāḷi. Atthi te ito bhayaṃ </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>ma. ni. 2.350</reference>
+    </references>
+  </note>
+  <note reference-line="214" id="188">
+    <original>jā. 1.9.58</original>
+    <type>no_match</type>
+    <snippet>, natthi te ito bhayaṃ, yato khemaṃ tato bhayaṃ </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>jā. 1.9.58</reference>
+    </references>
+  </note>
+  <note reference-line="214" id="189">
+    <original>su. ni. sūcilomasutta</original>
+    <type>raw</type>
+    <snippet>, corā bhāyati, corā bhīto. Chaṭṭhī ca, corassa bhāyati, corassa bhīto. Dutiyā ca, ‘‘kathaṃ paralokaṃ na bhāyeyya, evaṃ paralokaṃ na bhāyeyya, bhāyasi maṃ samaṇa </snippet>
+    <alternatives>
+    </alternatives>
+  </note>
+  <note reference-line="214" id="190">
+    <original>su. ni. sūcilomasutta</original>
+    <type>raw</type>
+    <snippet>, nāhaṃ taṃ bhāyāmi </snippet>
+    <alternatives>
+    </alternatives>
+  </note>
+  <note reference-line="214" id="191">
+    <original>jā. 2.22.835</original>
+    <type>no_match</type>
+    <snippet>, bhāyitabbaṃ na bhāyati, nāhaṃ bhāyāmi bhoginaṃ </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>jā. 2.22.835</reference>
+    </references>
+  </note>
+  <note reference-line="214" id="192">
+    <original>jā. 2.22.307</original>
+    <type>no_match</type>
+    <snippet>, na maṃ migā uttasantī’’ti </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>jā. 2.22.307</reference>
+    </references>
+  </note>
+  <note reference-line="214" id="193">
+    <original>dha. pa. 129</original>
+    <type>no_match</type>
+    <snippet> pāḷipadāni dissanti. Tattha ‘‘bhogina’nti nāgaṃ, corā tasati uttasati corassa vā, sabbe tasanti daṇḍassa </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>dha. pa. 129</reference>
+    </references>
+  </note>
+  <note reference-line="215" id="194">
+    <original>theragā. 1027</original>
+    <type>no_match</type>
+    <snippet>Yato kiñci sippaṃ vā vijjaṃ vā dhammaṃ vā gaṇhāti, tasmiṃ akkhātari pañcamī, upajjhāyā adhīte, upajjhāyā sippaṃ gaṇhāti, dvāsīti buddhato gaṇhiṃ, dve sahassāni bhikkhuto. Caturāsītisahassāni, yeme dhammā pavattino </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>theragā. 1027</reference>
+    </references>
+  </note>
+  <note reference-line="216" id="195">
+    <original>dha. pa. 392</original>
+    <type>no_match</type>
+    <snippet>Yato suṇāti, tasmiṃ pañcamī, chaṭṭhī ca, ito sutvā, imassa sutvā vā, yamhā dhammaṃ vijāneyya, sammāsambuddhadesitaṃ </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>dha. pa. 392</reference>
+    </references>
+  </note>
+  <note reference-line="218" id="196">
+    <original>a. ni. aṭṭha. 3.8.19</original>
+    <type>no_match</type>
+    <snippet> pana saṅgāme devā jiniṃsu, asurā parājiniṃsu. Ettha devehi parājiniṃsūti pāṭhaseso. ‘‘Mayaṃ jitāmhā ambakāya. Himavantā pabhavanti pañca mahānadiyo </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>a. ni. aṭṭha. 3.8.19</reference>
+    </references>
+  </note>
+  <note reference-line="218" id="197">
+    <original>apa. thera 1.1.255</original>
+    <type>raw</type>
+    <snippet>, ayaṃ bhāgīrathī gaṅgā, himavantā pabhāvitā’’ti pāḷi </snippet>
+    <alternatives>
+    </alternatives>
+  </note>
+  <note reference-line="218" id="198">
+    <original>dha. pa. 215</original>
+    <type>no_match</type>
+    <snippet>, corā bhayaṃ jāyate, kāmato jāyate bhayaṃ </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>dha. pa. 215</reference>
+    </references>
+  </note>
+  <note reference-line="218" id="199">
+    <original>jā. 1.1.36; 1.2.13; 1.9.56, 57, 59</original>
+    <type>raw</type>
+    <snippet>, jātaṃ saraṇato bhayaṃ </snippet>
+    <alternatives>
+    </alternatives>
+  </note>
+  <note reference-line="218" id="200">
+    <original>dha. pa. 214</original>
+    <type>no_match</type>
+    <snippet>, yaṃkiñci bhayaṃ vā veraṃ vā upaddavo vā upasaggo vā jāyati, sabbaṃ taṃ bālato jāyati, no paṇḍitato, kāmato jāyatī soko </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>dha. pa. 214</reference>
+    </references>
+  </note>
+  <note reference-line="218" id="201">
+    <original>dī. ni. 1.311</original>
+    <type>no_match</type>
+    <snippet>, ubhato sujāto putto </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>dī. ni. 1.311</reference>
+    </references>
+  </note>
+  <note reference-line="218" id="202">
+    <original>pārā. 500 (thokaṃ visadisaṃ)</original>
+    <type>raw</type>
     <snippet>, urasmā jāto, ure jāto vā, cīvaraṃ uppajjeyya saṅghato vā gaṇato vā ñātimittato vā </snippet>
-  </note>
-  <note line="724" original="mahāva. 346" reference-line="219" id="203">
-    <type>raw</type>
-  </note>
-  <note line="727" original="pārā. 195" reference-line="219" id="204">
-    <type>raw</type>
-  </note>
-  <note line="730" original="ka. 272; rū. 309; nī. 558, 568; caṃ. 2.1.82; pā. 1.4.88; 2.3.10" reference-line="221" id="205">
-    <type>raw</type>
-  </note>
-  <note line="733" original="porāṇapāṭho" reference-line="223" id="206">
-    <type>raw</type>
-  </note>
-  <note line="736" original="ma. ni. 3.216; jā. 1.8.16" reference-line="223" id="207">
-    <type>raw</type>
-  </note>
-  <note line="739" original="dī. ni. 2.408" reference-line="223" id="208">
-    <type>raw</type>
-  </note>
-  <note line="742" original="pāci. 130" reference-line="223" id="209">
-    <type>raw</type>
-  </note>
-  <note line="745" original="ka. 272; rū. 309; nī. 558, 568; caṃ. 2.1.83; pā. 2.3.11; 1.4.9.2" reference-line="224" id="210">
-    <type>raw</type>
-  </note>
-  <note line="748" original="ka. 272; rū. 309; nī. 558, 568; caṃ. 2.1.84; pā. 2.3.29" reference-line="227" id="211">
-    <type>raw</type>
-  </note>
-  <note line="751" original="ka. 272; rū. 309; nī. 558, 568; caṃ. 2.1.85; pā. 2.3.32; ‘vināññatra tatiyāca’ (bahūsu)" reference-line="230" id="212">
-    <extra></extra>
     <alternatives>
-      <alternative source-abbr="bahūsu" source="bahūsu">ka. 272; rū. 309; nī. 558, 568; caṃ. 2.1.85; pā. 2.3.32; ‘vināññatra tatiyāca’</alternative>
     </alternatives>
+  </note>
+  <note reference-line="219" id="203">
+    <original>mahāva. 346</original>
     <type>no_match</type>
+    <snippet>Aññatthānaṃ yoge pañcamī, tato aññaṃ, tato paraṃ </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>mahāva. 346</reference>
+    </references>
+  </note>
+  <note reference-line="219" id="204">
+    <original>pārā. 195</original>
+    <type>no_match</type>
+    <snippet>, tato aparena samayena </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>pārā. 195</reference>
+    </references>
+  </note>
+  <note reference-line="221" id="205">
+    <original>ka. 272; rū. 309; nī. 558, 568; caṃ. 2.1.82; pā. 1.4.88; 2.3.10</original>
+    <type>raw</type>
+    <snippet>Apaparīhi vajjane</snippet>
+    <alternatives>
+    </alternatives>
+  </note>
+  <note reference-line="223" id="206">
+    <original>porāṇapāṭho</original>
+    <type>raw</type>
+    <snippet>Apapabbatā vassati devo, paripabbatā vassati devo, apasālāya āyanti vāṇijā, parisālāya āyanti vāṇijā, pabbataṃ sālaṃ vajjetvāti attho. Kaccāyane pana ‘‘uparipabbatā devo vassatī’’ti pāṭho </snippet>
+    <alternatives>
+    </alternatives>
+  </note>
+  <note reference-line="223" id="207">
+    <original>ma. ni. 3.216; jā. 1.8.16</original>
+    <type>no_match</type>
+    <snippet>, paripabbatāti yutto. Upariyoge pana sattamīyeva dissati – ‘‘tasmiṃ uparipabbate </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>ma. ni. 3.216</reference>
+      <reference>jā. 1.8.16</reference>
+    </references>
+  </note>
+  <note reference-line="223" id="208">
+    <original>dī. ni. 2.408</original>
+    <type>no_match</type>
+    <snippet>, uparipāsāde </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>dī. ni. 2.408</reference>
+    </references>
+  </note>
+  <note reference-line="223" id="209">
+    <original>pāci. 130</original>
+    <type>no_match</type>
+    <snippet>, uparivehāse, uparivehāsakuṭiyā’’ti, </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>pāci. 130</reference>
+    </references>
+  </note>
+  <note reference-line="224" id="210">
+    <original>ka. 272; rū. 309; nī. 558, 568; caṃ. 2.1.83; pā. 2.3.11; 1.4.9.2</original>
+    <type>raw</type>
+    <snippet>Paṭinidhipaṭidānesu patinā</snippet>
+    <alternatives>
+    </alternatives>
+  </note>
+  <note reference-line="227" id="211">
+    <original>ka. 272; rū. 309; nī. 558, 568; caṃ. 2.1.84; pā. 2.3.29</original>
+    <type>no_match</type>
+    <snippet>Rite dutiyā ca</snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>ka. 272</reference>
+      <reference>rū. 309</reference>
+      <reference>nī. 558</reference>
+      <reference>caṃ. 2.1.84</reference>
+      <reference>pā. 2.3.29</reference>
+    </references>
+  </note>
+  <note reference-line="230" id="212">
+    <original>ka. 272; rū. 309; nī. 558, 568; caṃ. 2.1.85; pā. 2.3.32; ‘vināññatra tatiyāca’ (bahūsu)</original>
+    <type>raw</type>
     <snippet>Vināññatrehi tatiyā ca</snippet>
-  </note>
-  <note line="759" original="ka. 272; rū. 309; nī. 558, 568; caṃ. 2.1.86; pā. 2.3.32; ‘puthanānāhi ca’ (bahūsu)" reference-line="233" id="213">
-    <extra></extra>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">Puthunānāhi ca</alternative>
-      <alternative source-abbr="bahūsu" source="bahūsu">ka. 272; rū. 309; nī. 558, 568; caṃ. 2.1.86; pā. 2.3.32; ‘puthanānāhi ca’</alternative>
     </alternatives>
-    <type>auto</type>
+  </note>
+  <note reference-line="233" id="213">
+    <original>ka. 272; rū. 309; nī. 558, 568; caṃ. 2.1.86; pā. 2.3.32; ‘puthanānāhi ca’ (bahūsu)</original>
+    <type>raw</type>
     <snippet>Puthunānāhi ca</snippet>
-  </note>
-  <note line="768" original="dī. ni. 2.183; cūḷava. 437" reference-line="235" id="214">
-    <type>raw</type>
-  </note>
-  <note line="771" original="ma. ni. 2.351" reference-line="239" id="215">
-    <type>raw</type>
-  </note>
-  <note line="774" original="jā. 2.22.307" reference-line="239" id="216">
-    <type>raw</type>
-  </note>
-  <note line="777" original="dī. ni. 2.220" reference-line="241" id="217">
-    <type>raw</type>
-  </note>
-  <note line="780" original="saṃ. ni. 2.20" reference-line="242" id="218">
-    <type>raw</type>
-  </note>
-  <note line="783" original="dī. ni. 1.250" reference-line="244" id="219">
-    <type>raw</type>
-  </note>
-  <note line="786" original="dī. ni. 3.130" reference-line="244" id="220">
-    <type>raw</type>
-  </note>
-  <note line="789" original="dī. ni. 1.213" reference-line="245" id="221">
-    <type>raw</type>
-  </note>
-  <note line="792" original="su. ni. 275" reference-line="245" id="222">
-    <type>raw</type>
-  </note>
-  <note line="795" original="ma. ni. 1.238" reference-line="245" id="223">
-    <type>raw</type>
-  </note>
-  <note line="798" original="moga. 79" reference-line="246" id="224">
-    <type>raw</type>
-  </note>
-  <note line="801" original="pārā. 564" reference-line="246" id="225">
-    <type>raw</type>
-  </note>
-  <note line="804" original="pārā. 564" reference-line="246" id="226">
-    <type>raw</type>
-  </note>
-  <note line="807" original="dha. pa. 116" reference-line="248" id="227">
-    <type>raw</type>
-  </note>
-  <note line="810" original="su. ni. 141 (na ne)" reference-line="248" id="228">
-    <extra></extra>
     <alternatives>
-      <alternative source-abbr="na ne" source="na ne">su. ni. 141</alternative>
     </alternatives>
+  </note>
+  <note reference-line="235" id="214">
+    <original>dī. ni. 2.183; cūḷava. 437</original>
     <type>no_match</type>
+    <snippet>Puthageva janasmā, puthageva janena, nānā saddhammā, nānā saddhammena, piyehi manāpehi nānābhāvo vinābhāvo </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>dī. ni. 2.183</reference>
+      <reference>cūḷava. 437</reference>
+    </references>
+  </note>
+  <note reference-line="239" id="215">
+    <original>ma. ni. 2.351</original>
+    <type>no_match</type>
+    <snippet>Ārabbhe, sahatthe ca pañcamī, yatohaṃ bhagini ariyāya jātiyā jāto </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>ma. ni. 2.351</reference>
+    </references>
+  </note>
+  <note reference-line="239" id="216">
+    <original>jā. 2.22.307</original>
+    <type>no_match</type>
+    <snippet>, yato paṭṭhāyāti attho. Yato sarāmi attānaṃ, yato pattosmi viññutaṃ </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>jā. 2.22.307</reference>
+    </references>
+  </note>
+  <note reference-line="241" id="217">
+    <original>dī. ni. 2.220</original>
+    <type>no_match</type>
+    <snippet>Saha sabbaññutaññāṇappaṭilābhā, saha parinibbānā </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>dī. ni. 2.220</reference>
+    </references>
+  </note>
+  <note reference-line="242" id="218">
+    <original>saṃ. ni. 2.20</original>
+    <type>no_match</type>
+    <snippet>‘‘Uppādā vā tathāgatānaṃ anuppādā vā tathāgatāna’’nti </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>saṃ. ni. 2.20</reference>
+    </references>
+  </note>
+  <note reference-line="244" id="219">
+    <original>dī. ni. 1.250</original>
+    <type>no_match</type>
+    <snippet>‘‘Ajjatagge pāṇupetaṃ </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>dī. ni. 1.250</reference>
+    </references>
+  </note>
+  <note reference-line="244" id="220">
+    <original>dī. ni. 3.130</original>
+    <type>no_match</type>
+    <snippet>, tadagge kho vāseṭṭha’’iccādīsu </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>dī. ni. 3.130</reference>
+    </references>
+  </note>
+  <note reference-line="245" id="221">
+    <original>dī. ni. 1.213</original>
+    <type>no_match</type>
+    <snippet>‘‘Yatvādhikaraṇaṃ </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>dī. ni. 1.213</reference>
+    </references>
+  </note>
+  <note reference-line="245" id="222">
+    <original>su. ni. 275</original>
+    <type>no_match</type>
+    <snippet>, yatonidānaṃ </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>su. ni. 275</reference>
+    </references>
+  </note>
+  <note reference-line="245" id="223">
+    <original>ma. ni. 1.238</original>
+    <type>no_match</type>
+    <snippet>, tatonidānaṃ’’ iccādīsu </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>ma. ni. 1.238</reference>
+    </references>
+  </note>
+  <note reference-line="246" id="224">
+    <original>moga. 79</original>
+    <type>no_match</type>
+    <snippet>Dvinnaṃ kārakānaṃ kriyānañca majjhe pavattakāladdhānavācīhi pañcamī, luddako pakkhasmā migaṃ vijjhati, kosā kuñjaraṃ vijjhati. Ettha ca luddako sakiṃ migaṃ vijjhitvā pakkhabbhantaramhi na vijjhi, pakkhe paripuṇṇe puna vijjhati, pakkhasaddo dvinnaṃ vijjhanavārānaṃ majjhe kālavācī hoti, dvepi vijjhanakriyā kārakehi saheva sijjhantīti kārakānañca majjheti vuccati. Vuttiyaṃ pana ‘‘ajja bhutvā devadatto dvihe bhuñjissati, dvihā bhuñjissati, atraṭṭho’yamissāso kose lakkhaṃ vijjhati, kosā lakkhaṃ vijjhatī’’ti </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>moga. 79</reference>
+    </references>
+  </note>
+  <note reference-line="246" id="225">
+    <original>pārā. 564</original>
+    <type>no_match</type>
+    <snippet> evaṃ sattamīvasena paripuṇṇavākyampi vuttaṃ. Pāḷiyaṃ ‘‘anāpatti chabbassā karoti </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>pārā. 564</reference>
+    </references>
+  </note>
+  <note reference-line="246" id="226">
+    <original>pārā. 564</original>
+    <type>no_match</type>
+    <snippet>, atirekachabbassā karotī’’ti </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>pārā. 564</reference>
+    </references>
+  </note>
+  <note reference-line="248" id="227">
+    <original>dha. pa. 116</original>
+    <type>no_match</type>
+    <snippet>Yañca vatthuṃ guttaṃ icchiyate, yato ca guttaṃ icchiyate, tattha pañcamī, yavehi gāvo rakkhati vāreti, taṇḍulā kāke rakkhati vāreti, taṃ maṃ puññā nivāresi, pāpā cittaṃ nivāraye </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>dha. pa. 116</reference>
+    </references>
+  </note>
+  <note reference-line="248" id="228">
+    <original>su. ni. 141 (na ne)</original>
+    <type>raw</type>
     <snippet>, na naṃ jāti nivāreti, duggatyā garahāya vā </snippet>
-  </note>
-  <note line="818" original="dī. ni. 2.224 (visadisaṃ)" reference-line="251" id="229">
-    <extra></extra>
     <alternatives>
-      <alternative source-abbr="visadisaṃ" source="visadisaṃ">dī. ni. 2.224</alternative>
     </alternatives>
-    <type>no_match</type>
+  </note>
+  <note reference-line="251" id="229">
+    <original>dī. ni. 2.224 (visadisaṃ)</original>
+    <type>raw</type>
     <snippet>Yasmiṃ ṭhāne antaradhāyati, tasmiṃ sattamī eva dissati, atikhippaṃ loke cakkhu antaradhāyissati </snippet>
-  </note>
-  <note line="826" original="saṃ. ni. 1.1" reference-line="251" id="230">
-    <type>raw</type>
-  </note>
-  <note line="829" original="su. ni. 156" reference-line="253" id="231">
-    <type>raw</type>
-  </note>
-  <note line="832" original="su. ni. 157" reference-line="253" id="232">
-    <type>raw</type>
-  </note>
-  <note line="835" original="dha. pa. 253" reference-line="253" id="233">
-    <type>raw</type>
-  </note>
-  <note line="838" original="visuddhi ṭī. 1.130" reference-line="253" id="234">
-    <type>raw</type>
-  </note>
-  <note line="841" original="dī. ni. 1.409" reference-line="255" id="235">
-    <type>raw</type>
-  </note>
-  <note line="844" original="dī. ni. 2.4" reference-line="259" id="236">
-    <type>raw</type>
-  </note>
-  <note line="847" original="dī. ni. 2.4" reference-line="259" id="237">
-    <type>raw</type>
-  </note>
-  <note line="850" original="dī. ni. 2.168; udā. 51" reference-line="259" id="238">
-    <type>raw</type>
-  </note>
-  <note line="853" original="pāci. 548" reference-line="261" id="239">
-    <type>raw</type>
-  </note>
-  <note line="856" original="saṃ. ni. 2.129" reference-line="261" id="240">
-    <type>raw</type>
-  </note>
-  <note line="859" original="saṃ. ni. 1.132" reference-line="262" id="241">
-    <type>raw</type>
-  </note>
-  <note line="862" original="saṃ. ni. 1.132" reference-line="262" id="242">
-    <type>raw</type>
-  </note>
-  <note line="865" original="saṃ. ni. 1.132" reference-line="262" id="243">
-    <type>raw</type>
-  </note>
-  <note line="868" original="dī. ni. 3.278" reference-line="263" id="244">
-    <type>raw</type>
-  </note>
-  <note line="871" original="dī. ni. 3.278" reference-line="263" id="245">
-    <type>raw</type>
-  </note>
-  <note line="874" original="dī. ni. 2.377; ma. ni. 1.110" reference-line="263" id="246">
-    <type>raw</type>
-  </note>
-  <note line="877" original="jā. 1.9.58" reference-line="265" id="247">
-    <type>raw</type>
-  </note>
-  <note line="880" original="dha. pa. 374" reference-line="265" id="248">
-    <type>raw</type>
-  </note>
-  <note line="883" original="a. ni. 3.104" reference-line="266" id="249">
-    <type>raw</type>
-  </note>
-  <note line="886" original="mahāva. 259" reference-line="266" id="250">
-    <type>raw</type>
-  </note>
-  <note line="889" original="pārā. 499" reference-line="266" id="251">
-    <type>raw</type>
-  </note>
-  <note line="892" original="dha. pa. 322" reference-line="267" id="252">
-    <type>raw</type>
-  </note>
-  <note line="895" original="ma. ni. 3.207" reference-line="267" id="253">
-    <type>raw</type>
-  </note>
-  <note line="898" original="ma. ni. 3.207" reference-line="267" id="254">
-    <type>raw</type>
-  </note>
-  <note line="901" original="ma. ni. 3.207" reference-line="267" id="255">
-    <type>raw</type>
-  </note>
-  <note line="904" original="khu. pā. 5.8" reference-line="269" id="256">
-    <type>raw</type>
-  </note>
-  <note line="907" original="khu. pā. 2.1" reference-line="269" id="257">
-    <type>raw</type>
-  </note>
-  <note line="910" original="saṃ. ni. 3.29" reference-line="272" id="258">
-    <type>raw</type>
-  </note>
-  <note line="913" original="dha. pa. 37" reference-line="272" id="259">
-    <type>raw</type>
-  </note>
-  <note line="916" original="jā. 1.10.92 (mīyare)" reference-line="274" id="260">
-    <extra></extra>
     <alternatives>
-      <alternative source-abbr="mīyare" source="mīyare">jā. 1.10.92</alternative>
     </alternatives>
+  </note>
+  <note reference-line="251" id="230">
+    <original>saṃ. ni. 1.1</original>
     <type>no_match</type>
+    <snippet>, jetavane antaradhāyitvā, brahmaloke antaradhāyitvā, maddakucchismiṃ antaradhāyitvā, tatthevantaradhāyī </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>saṃ. ni. 1.1</reference>
+    </references>
+  </note>
+  <note reference-line="253" id="231">
+    <original>su. ni. 156</original>
+    <type>no_match</type>
+    <snippet>Kiṃva dūro ito gāmo, kacci ārā pamādamhā </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>su. ni. 156</reference>
+    </references>
+  </note>
+  <note reference-line="253" id="232">
+    <original>su. ni. 157</original>
+    <type>no_match</type>
+    <snippet>, atho ārā pamādamhā </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>su. ni. 157</reference>
+    </references>
+  </note>
+  <note reference-line="253" id="233">
+    <original>dha. pa. 253</original>
+    <type>no_match</type>
+    <snippet>, gāmato avidūre, ārakā te moghapurisā imasmā dhammavinayā, ārakā tehi bhagavā, kilesehi ārakāti arahaṃ, ārā so āsavakkhayā </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>dha. pa. 253</reference>
+    </references>
+  </note>
+  <note reference-line="253" id="234">
+    <original>visuddhi ṭī. 1.130</original>
+    <type>raw</type>
+    <snippet>. Dutiyā ca tatiyā ca chaṭṭhī ca, ārakā imaṃ dhammavinayaṃ iminā dhammavinayena vā, ārakā mandabuddhīnaṃ </snippet>
+    <alternatives>
+    </alternatives>
+  </note>
+  <note reference-line="255" id="235">
+    <original>dī. ni. 1.409</original>
+    <type>no_match</type>
+    <snippet>Dūratova namassanti, addasā kho bhagavantaṃ dūratova āgacchantaṃ </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>dī. ni. 1.409</reference>
+    </references>
+  </note>
+  <note reference-line="259" id="236">
+    <original>dī. ni. 2.4</original>
+    <type>no_match</type>
+    <snippet>Ito mathurāya catūsu yojanesu saṅkassaṃ, rājagahato pañcacattālīsayojane sāvatthi, ito ekanavutikappe </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>dī. ni. 2.4</reference>
+    </references>
+  </note>
+  <note reference-line="259" id="237">
+    <original>dī. ni. 2.4</original>
+    <type>no_match</type>
+    <snippet>, ito ekatiṃse kappe </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>dī. ni. 2.4</reference>
+    </references>
+  </note>
+  <note reference-line="259" id="238">
+    <original>dī. ni. 2.168; udā. 51</original>
+    <type>no_match</type>
+    <snippet>, ito sattame divase, ito tiṇṇaṃ māsānaṃ accayena parinibbāyissāmi </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>dī. ni. 2.168</reference>
+      <reference>udā. 51</reference>
+    </references>
+  </note>
+  <note reference-line="261" id="239">
+    <original>pāci. 548</original>
+    <type>no_match</type>
+    <snippet>Āyāmato ca vitthārato ca yojanaṃ, parikkhepato navayojanasataparimāṇo majjhimadeso parikkhepena vā, dīghaso navavidatthiyo </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>pāci. 548</reference>
+    </references>
+  </note>
+  <note reference-line="261" id="240">
+    <original>saṃ. ni. 2.129</original>
+    <type>no_match</type>
+    <snippet>, yojanaṃ āyāmena yojanaṃ vitthārena yojanaṃ ubbedhena sāsaparāsi </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>saṃ. ni. 2.129</reference>
+    </references>
+  </note>
+  <note reference-line="262" id="241">
+    <original>saṃ. ni. 1.132</original>
+    <type>no_match</type>
+    <snippet>Tvālopepi pañcamī. Ettha ca tvālopo nāma paripuṇṇavākye laddhabbassa tvāntapadassa aparipuṇṇavākye natthi bhāvo, yañca padaṃ tvāntapade sati kammaṃ vā hoti adhikaraṇaṃ vā. Taṃ tvāntapade asati padantare avadhi hoti, tasmiṃ pañcamī, pāsādā vā pāsādaṃ saṅkameyya </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>saṃ. ni. 1.132</reference>
+    </references>
+  </note>
+  <note reference-line="262" id="242">
+    <original>saṃ. ni. 1.132</original>
+    <type>no_match</type>
+    <snippet>, hatthikkhandhā vā hatthikkhandhaṃ saṅkameyya </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>saṃ. ni. 1.132</reference>
+    </references>
+  </note>
+  <note reference-line="262" id="243">
+    <original>saṃ. ni. 1.132</original>
+    <type>no_match</type>
+    <snippet> tamaṃ gaccheyyā’’ti </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>saṃ. ni. 1.132</reference>
+    </references>
+  </note>
+  <note reference-line="263" id="244">
+    <original>dī. ni. 3.278</original>
+    <type>no_match</type>
+    <snippet>Disatthayoge disatthe ca pañcamī, ito sā purimā disā </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>dī. ni. 3.278</reference>
+    </references>
+  </note>
+  <note reference-line="263" id="245">
+    <original>dī. ni. 3.278</original>
+    <type>no_match</type>
+    <snippet>, ito sā dakkhiṇā disā </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>dī. ni. 3.278</reference>
+    </references>
+  </note>
+  <note reference-line="263" id="246">
+    <original>dī. ni. 2.377; ma. ni. 1.110</original>
+    <type>no_match</type>
+    <snippet>, avīcito upari, uddhaṃ pādatalā, adho kesamatthakā </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>dī. ni. 2.377</reference>
+      <reference>ma. ni. 1.110</reference>
+    </references>
+  </note>
+  <note reference-line="265" id="247">
+    <original>jā. 1.9.58</original>
+    <type>no_match</type>
+    <snippet>Purimato gāmassa, dakkhiṇato gāmassa, uparito pabbatassa, heṭṭhato pāsādassa, puratthimato, dakkhiṇato, yato khemaṃ, tato bhayaṃ </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>jā. 1.9.58</reference>
+    </references>
+  </note>
+  <note reference-line="265" id="248">
+    <original>dha. pa. 374</original>
+    <type>no_match</type>
+    <snippet>, yato yato sammasati, khandhānaṃ udayabbayaṃ </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>dha. pa. 374</reference>
+    </references>
+  </note>
+  <note reference-line="266" id="249">
+    <original>a. ni. 3.104</original>
+    <type>no_match</type>
+    <snippet>Pubbādiyogepi pañcamī, pubbeva me sambodhā </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>a. ni. 3.104</reference>
+    </references>
+  </note>
+  <note reference-line="266" id="250">
+    <original>mahāva. 259</original>
+    <type>no_match</type>
+    <snippet>, ito pubbe, tato pubbe, ito parā paccantimā janapadā </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>mahāva. 259</reference>
+    </references>
+  </note>
+  <note reference-line="266" id="251">
+    <original>pārā. 499</original>
+    <type>no_match</type>
+    <snippet>, tato pure, tato pacchā, tato uttari </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>pārā. 499</reference>
+    </references>
+  </note>
+  <note reference-line="267" id="252">
+    <original>dha. pa. 322</original>
+    <type>no_match</type>
+    <snippet>Vibhattatthe ca pañcamī chaṭṭhī ca. Vibhatti nāma pageva visuṃbhūtassa atthassa kenaci adhikena vā hīnena vā bhāgena tadaññato puthakkaraṇaṃ, māthurā pāṭaliputtakehi abhirūpatarā, yato paṇītataro vā visiṭṭhataro vā natthi, attadanto tato varaṃ </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>dha. pa. 322</reference>
+    </references>
+  </note>
+  <note reference-line="267" id="253">
+    <original>ma. ni. 3.207</original>
+    <type>no_match</type>
+    <snippet>, sadevakassa lokassa, satthā loke anuttaro, aggohamasmi lokassa </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>ma. ni. 3.207</reference>
+    </references>
+  </note>
+  <note reference-line="267" id="254">
+    <original>ma. ni. 3.207</original>
+    <type>no_match</type>
+    <snippet>, jeṭṭhohamasmi lokassa </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>ma. ni. 3.207</reference>
+    </references>
+  </note>
+  <note reference-line="267" id="255">
+    <original>ma. ni. 3.207</original>
+    <type>no_match</type>
+    <snippet>, seṭṭhohamasmi lokassa </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>ma. ni. 3.207</reference>
+    </references>
+  </note>
+  <note reference-line="269" id="256">
+    <original>khu. pā. 5.8</original>
+    <type>no_match</type>
+    <snippet>Āratī viratī pāpā </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>khu. pā. 5.8</reference>
+    </references>
+  </note>
+  <note reference-line="269" id="257">
+    <original>khu. pā. 2.1</original>
+    <type>no_match</type>
+    <snippet>, pāṇātipātā veramaṇi </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>khu. pā. 2.1</reference>
+    </references>
+  </note>
+  <note reference-line="272" id="258">
+    <original>saṃ. ni. 3.29</original>
+    <type>no_match</type>
+    <snippet>Mocanatthayoge pañcamī tatiyā ca, so parimuccati jātiyā jarāya maraṇena sokehi paridevehi dukkhehi domanassehi upāyāsehi, parimutto so dukkhasmāti vadāmi </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>saṃ. ni. 3.29</reference>
+    </references>
+  </note>
+  <note reference-line="272" id="259">
+    <original>dha. pa. 37</original>
+    <type>no_match</type>
+    <snippet>, mokkhanti mārabandhanā </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>dha. pa. 37</reference>
+    </references>
+  </note>
+  <note reference-line="274" id="260">
+    <original>jā. 1.10.92 (mīyare)</original>
+    <type>raw</type>
     <snippet>Kasmā hetunā, kena hetunā, kasmā nu tumhaṃ kule daharā na miyyare </snippet>
-  </note>
-  <note line="924" original="saṃ. ni. 2.157" reference-line="274" id="261">
-    <type>raw</type>
-  </note>
-  <note line="927" original="jā. aṭṭha. 6.22.umaṅgajātakavaṇṇanā" reference-line="274" id="262">
-    <type>raw</type>
-  </note>
-  <note line="930" original="dī. ni. 1.213" reference-line="274" id="263">
-    <type>raw</type>
-  </note>
-  <note line="933" original="su. ni. 275" reference-line="274" id="264">
-    <type>raw</type>
-  </note>
-  <note line="936" original="ma. ni. 1.238" reference-line="274" id="265">
-    <type>raw</type>
-  </note>
-  <note line="939" original="jā. aṭṭha. 4.20.mātaṅgajātakavaṇṇanā" reference-line="274" id="266">
-    <type>raw</type>
-  </note>
-  <note line="942" original="ma. ni. 1.2" reference-line="274" id="267">
-    <type>raw</type>
-  </note>
-  <note line="945" original="dī. ni. 1.226" reference-line="276" id="268">
-    <type>raw</type>
-  </note>
-  <note line="948" original="ka. 296; rū. 314; nī. 608; caṃ. 2.1.69; pā. 2.3.24" reference-line="278" id="269">
-    <type>raw</type>
-  </note>
-  <note line="951" original="caṃ. 2.1.70; pā. 2.3.25" reference-line="281" id="270">
-    <type>raw</type>
-  </note>
-  <note line="954" original="a. ni. 4.6" reference-line="283" id="271">
-    <type>raw</type>
-  </note>
-  <note line="957" original="udā. 2" reference-line="283" id="272">
-    <type>raw</type>
-  </note>
-  <note line="960" original="udā. 2" reference-line="283" id="273">
-    <type>raw</type>
-  </note>
-  <note line="963" original="dī. ni. 2.186 (visadisaṃ)" reference-line="283" id="274">
-    <extra></extra>
     <alternatives>
-      <alternative source-abbr="visadisaṃ" source="visadisaṃ">dī. ni. 2.186</alternative>
     </alternatives>
+  </note>
+  <note reference-line="274" id="261">
+    <original>saṃ. ni. 2.157</original>
     <type>no_match</type>
+    <snippet>, tasmātiha bhikkhave </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>saṃ. ni. 2.157</reference>
+    </references>
+  </note>
+  <note reference-line="274" id="262">
+    <original>jā. aṭṭha. 6.22.umaṅgajātakavaṇṇanā</original>
+    <type>raw</type>
+    <snippet>. Dutiyā tatiyā chaṭṭhī ca, kiṃkāraṇaṃ </snippet>
+    <alternatives>
+    </alternatives>
+  </note>
+  <note reference-line="274" id="263">
+    <original>dī. ni. 1.213</original>
+    <type>no_match</type>
+    <snippet>, yatvādhikaraṇaṃ </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>dī. ni. 1.213</reference>
+    </references>
+  </note>
+  <note reference-line="274" id="264">
+    <original>su. ni. 275</original>
+    <type>no_match</type>
+    <snippet>, yatonidānaṃ </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>su. ni. 275</reference>
+    </references>
+  </note>
+  <note reference-line="274" id="265">
+    <original>ma. ni. 1.238</original>
+    <type>no_match</type>
+    <snippet>, tatonidānaṃ </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>ma. ni. 1.238</reference>
+    </references>
+  </note>
+  <note reference-line="274" id="266">
+    <original>jā. aṭṭha. 4.20.mātaṅgajātakavaṇṇanā</original>
+    <type>raw</type>
+    <snippet>, kena kāraṇena </snippet>
+    <alternatives>
+    </alternatives>
+  </note>
+  <note reference-line="274" id="267">
+    <original>ma. ni. 1.2</original>
+    <type>no_match</type>
+    <snippet>, taṃ kissahetu </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>ma. ni. 1.2</reference>
+    </references>
+  </note>
+  <note reference-line="276" id="268">
+    <original>dī. ni. 1.226</original>
+    <type>no_match</type>
+    <snippet>Vivicceva kāmehi vivicca akusalehi dhammehi </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>dī. ni. 1.226</reference>
+    </references>
+  </note>
+  <note reference-line="278" id="269">
+    <original>ka. 296; rū. 314; nī. 608; caṃ. 2.1.69; pā. 2.3.24</original>
+    <type>no_match</type>
+    <snippet>Pañcamīṇe vā</snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>ka. 296</reference>
+      <reference>rū. 314</reference>
+      <reference>nī. 608</reference>
+      <reference>caṃ. 2.1.69</reference>
+      <reference>pā. 2.3.24</reference>
+    </references>
+  </note>
+  <note reference-line="281" id="270">
+    <original>caṃ. 2.1.70; pā. 2.3.25</original>
+    <type>no_match</type>
+    <snippet>Guṇe</snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>caṃ. 2.1.70</reference>
+      <reference>pā. 2.3.25</reference>
+    </references>
+  </note>
+  <note reference-line="283" id="271">
+    <original>a. ni. 4.6</original>
+    <type>no_match</type>
+    <snippet>Jaḷattā bandho naro jaḷattena vā, attano bālattāyeva bandhoti attho, paññāya bandhanā mutto, vācāya marati, vācāya muccati, vācāya piyo hoti, vācāya desso, issariyā janaṃ rakkhati rājā issariyena vā, sīlato naṃ pasaṃsanti </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>a. ni. 4.6</reference>
+    </references>
+  </note>
+  <note reference-line="283" id="272">
+    <original>udā. 2</original>
+    <type>no_match</type>
+    <snippet> sīlena vā, hutvā abhāvato aniccā, udayabbayapīḷanato dukkhā, avijjānirodhā saṅkhāranirodho </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>udā. 2</reference>
+    </references>
+  </note>
+  <note reference-line="283" id="273">
+    <original>udā. 2</original>
+    <type>no_match</type>
+    <snippet>, saṅkhāranirodhā viññāṇanirodho </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>udā. 2</reference>
+    </references>
+  </note>
+  <note reference-line="283" id="274">
+    <original>dī. ni. 2.186 (visadisaṃ)</original>
+    <type>raw</type>
     <snippet>, catunnaṃ ariyasaccānaṃ anaññā appaṭivedhā dīghamaddhānaṃ saṃsaranti </snippet>
-  </note>
-  <note line="971" original="mahāva. 148" reference-line="285" id="275">
-    <type>raw</type>
-  </note>
-  <note line="974" original="jā. 2.22.353" reference-line="285" id="276">
-    <type>raw</type>
-  </note>
-  <note line="977" original="jā. 2.22.700" reference-line="285" id="277">
-    <type>raw</type>
-  </note>
-  <note line="980" original="theragā. 248 (kule kule)" reference-line="286" id="278">
-    <extra></extra>
     <alternatives>
-      <alternative source-abbr="kule kule" source="kule kule">theragā. 248</alternative>
     </alternatives>
+  </note>
+  <note reference-line="285" id="275">
+    <original>mahāva. 148</original>
     <type>no_match</type>
+    <snippet>Thokatthepi asatvavacane pañcamī, satvaṃ vuccati dabbaṃ, thokā muccati thokena vā, muccanamattaṃ hotīti vuttaṃ hoti ‘‘nadiṃ taranto manaṃ vuḷho’’ti </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>mahāva. 148</reference>
+    </references>
+  </note>
+  <note reference-line="285" id="276">
+    <original>jā. 2.22.353</original>
+    <type>no_match</type>
+    <snippet> ettha viya. Appamattakā muccati appamattakena vā, kicchā muccati kicchena vā, kicchā laddho piyo putto </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>jā. 2.22.353</reference>
+    </references>
+  </note>
+  <note reference-line="285" id="277">
+    <original>jā. 2.22.700</original>
+    <type>no_match</type>
+    <snippet>, kicchā muttā’mha dukkhasmā, yāma dāni mahosadha </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>jā. 2.22.700</reference>
+    </references>
+  </note>
+  <note reference-line="286" id="278">
+    <original>theragā. 248 (kule kule)</original>
+    <type>raw</type>
     <snippet> kiṃ? Paccati munino bhattaṃ, thokaṃ thokaṃ ghare ghareti </snippet>
-  </note>
-  <note line="988" original="dha. pa. 239" reference-line="287" id="279">
-    <type>raw</type>
-  </note>
-  <note line="991" original="dī. ni. 3.201" reference-line="288" id="280">
-    <type>raw</type>
-  </note>
-  <note line="994" original="dī. ni. 3.253" reference-line="290" id="281">
-    <type>raw</type>
-  </note>
-  <note line="997" original="dī. ni. 2.287" reference-line="290" id="282">
-    <type>raw</type>
-  </note>
-  <note line="1000" original="saṃ. ni. 1.250" reference-line="290" id="283">
-    <type>raw</type>
-  </note>
-  <note line="1003" original="ka. 301; rū. 315; nī. 609; caṃ. 2.1.95; pā. 2.3.50" reference-line="294" id="284">
-    <type>raw</type>
-  </note>
-  <note line="1006" original="saṃ. ni. 1.248" reference-line="303" id="285">
-    <type>raw</type>
-  </note>
-  <note line="1009" original="jā. 1.15.72" reference-line="304" id="286">
-    <type>raw</type>
-  </note>
-  <note line="1012" original="dha. pa. 32" reference-line="305" id="287">
-    <type>raw</type>
-  </note>
-  <note line="1015" original="jā. 1.4.81" reference-line="307" id="288">
-    <type>raw</type>
-  </note>
-  <note line="1018" original="saṃ. ni. 2.1" reference-line="310" id="289">
-    <type>raw</type>
-  </note>
-  <note line="1021" original="dī. ni. aṭṭha. 1.304" reference-line="311" id="290">
-    <type>raw</type>
-  </note>
-  <note line="1024" original="jā. 1.1.113" reference-line="311" id="291">
-    <type>raw</type>
-  </note>
-  <note line="1027" original="ma. ni. 2.173" reference-line="317" id="292">
-    <type>raw</type>
-  </note>
-  <note line="1030" original="ma. ni. 1.203" reference-line="317" id="293">
-    <type>raw</type>
-  </note>
-  <note line="1033" original="dī. ni. 1.9, 164" reference-line="317" id="294">
-    <type>raw</type>
-  </note>
-  <note line="1036" original="dī. ni. 1.9, 164" reference-line="317" id="295">
-    <type>raw</type>
-  </note>
-  <note line="1039" original="a. ni. 7.37" reference-line="318" id="296">
-    <type>raw</type>
-  </note>
-  <note line="1042" original="a. ni. 4.107" reference-line="318" id="297">
-    <type>raw</type>
-  </note>
-  <note line="1045" original="mahāni. 192" reference-line="318" id="298">
-    <type>raw</type>
-  </note>
-  <note line="1048" original="visuddhi 2.689" reference-line="320" id="299">
-    <type>raw</type>
-  </note>
-  <note line="1051" original="dī. ni. 1.9" reference-line="320" id="300">
-    <type>raw</type>
-  </note>
-  <note line="1054" original="dha. pa. 61" reference-line="323" id="301">
-    <type>raw</type>
-  </note>
-  <note line="1057" original="pārā. 270" reference-line="323" id="302">
-    <type>raw</type>
-  </note>
-  <note line="1060" original="udā. 23" reference-line="324" id="303">
-    <type>raw</type>
-  </note>
-  <note line="1063" original="dha. sa. 596-599 (upādāya)" reference-line="327" id="304">
-    <extra></extra>
     <alternatives>
-      <alternative source-abbr="upādāya" source="upādāya">dha. sa. 596-599</alternative>
     </alternatives>
+  </note>
+  <note reference-line="287" id="279">
+    <original>dha. pa. 239</original>
     <type>no_match</type>
+    <snippet>‘‘Anupubbena medhāvī, thokaṃ thokaṃ khaṇe khaṇe </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>dha. pa. 239</reference>
+    </references>
+  </note>
+  <note reference-line="288" id="280">
+    <original>dī. ni. 3.201</original>
+    <type>no_match</type>
+    <snippet>Akattaripi pañcamī, tassa kammassa katattā upacitattā ussannattā vipulattā tathāgato suppatiṭṭhitapādo hoti </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>dī. ni. 3.201</reference>
+    </references>
+  </note>
+  <note reference-line="290" id="281">
+    <original>dī. ni. 3.253</original>
+    <type>no_match</type>
+    <snippet>Yodha sītañca uṇhañca, tiṇā bhiyyo na maññati </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>dī. ni. 3.253</reference>
+    </references>
+  </note>
+  <note reference-line="290" id="282">
+    <original>dī. ni. 2.287</original>
+    <type>no_match</type>
+    <snippet>, sukhā bhiyyo somanassaṃ </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>dī. ni. 2.287</reference>
+    </references>
+  </note>
+  <note reference-line="290" id="283">
+    <original>saṃ. ni. 1.250</original>
+    <type>no_match</type>
+    <snippet>, khantyā bhiyyo na vijjati </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>saṃ. ni. 1.250</reference>
+    </references>
+  </note>
+  <note reference-line="294" id="284">
+    <original>ka. 301; rū. 315; nī. 609; caṃ. 2.1.95; pā. 2.3.50</original>
+    <type>no_match</type>
+    <snippet>Chaṭṭhī sambandhe</snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>ka. 301</reference>
+      <reference>rū. 315</reference>
+      <reference>nī. 609</reference>
+      <reference>caṃ. 2.1.95</reference>
+      <reference>pā. 2.3.50</reference>
+    </references>
+  </note>
+  <note reference-line="303" id="285">
+    <original>saṃ. ni. 1.248</original>
+    <type>no_match</type>
+    <snippet>Sakko devānamindo </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>saṃ. ni. 1.248</reference>
+    </references>
+  </note>
+  <note reference-line="304" id="286">
+    <original>jā. 1.15.72</original>
+    <type>no_match</type>
+    <snippet>Pahūtaṃ me dhanaṃ sakka </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>jā. 1.15.72</reference>
+    </references>
+  </note>
+  <note reference-line="305" id="287">
+    <original>dha. pa. 32</original>
+    <type>no_match</type>
+    <snippet>Ambavanassa avidūre, nibbānasseva santike </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>dha. pa. 32</reference>
+    </references>
+  </note>
+  <note reference-line="307" id="288">
+    <original>jā. 1.4.81</original>
+    <type>no_match</type>
+    <snippet>Manussasseva te sīsaṃ </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>jā. 1.4.81</reference>
+    </references>
+  </note>
+  <note reference-line="310" id="289">
+    <original>saṃ. ni. 2.1</original>
+    <type>no_match</type>
+    <snippet>Khandhānaṃ jāti, khandhānaṃ jarā, khandhānaṃ bhedo </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>saṃ. ni. 2.1</reference>
+    </references>
+  </note>
+  <note reference-line="311" id="290">
+    <original>dī. ni. aṭṭha. 1.304</original>
+    <type>no_match</type>
+    <snippet>Suvaṇṇassa vaṇṇo, vaṇṇo na khīyyetha tathāgatassa </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>dī. ni. aṭṭha. 1.304</reference>
+    </references>
+  </note>
+  <note reference-line="311" id="291">
+    <original>jā. 1.1.113</original>
+    <type>no_match</type>
+    <snippet>, buddhassa kittisaddo, sippikānaṃ sataṃ natthi </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>jā. 1.1.113</reference>
+    </references>
+  </note>
+  <note reference-line="317" id="292">
+    <original>ma. ni. 2.173</original>
+    <type>no_match</type>
+    <snippet> bhavanti vattāro </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>ma. ni. 2.173</reference>
+    </references>
+  </note>
+  <note reference-line="317" id="293">
+    <original>ma. ni. 1.203</original>
+    <type>no_match</type>
+    <snippet>, sahasā kammassa kattāro, amatassa dātā </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>ma. ni. 1.203</reference>
+    </references>
+  </note>
+  <note reference-line="317" id="294">
+    <original>dī. ni. 1.9, 164</original>
+    <type>raw</type>
+    <snippet>, bhinnānaṃ sandhātā </snippet>
+    <alternatives>
+    </alternatives>
+  </note>
+  <note reference-line="317" id="295">
+    <original>dī. ni. 1.9, 164</original>
+    <type>raw</type>
+    <snippet>, sahitānaṃ vā anuppadātā </snippet>
+    <alternatives>
+    </alternatives>
+  </note>
+  <note reference-line="318" id="296">
+    <original>a. ni. 7.37</original>
+    <type>no_match</type>
+    <snippet>Kvacīti kiṃ? Gambhīrañca kathaṃ kattā </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>a. ni. 7.37</reference>
+    </references>
+  </note>
+  <note reference-line="318" id="297">
+    <original>a. ni. 4.107</original>
+    <type>no_match</type>
+    <snippet>, gādhaṃ kattā novasitā </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>a. ni. 4.107</reference>
+    </references>
+  </note>
+  <note reference-line="318" id="298">
+    <original>mahāni. 192</original>
+    <type>no_match</type>
+    <snippet>, kālena dhammīkathaṃ bhāsitā, sarasi tvaṃ evarūpaṃ vācaṃ bhāsitā, paresaṃ puññaṃ anumodetā, bujjhitā saccāni </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>mahāni. 192</reference>
+    </references>
+  </note>
+  <note reference-line="320" id="299">
+    <original>visuddhi 2.689</original>
+    <type>raw</type>
+    <snippet>Kammassa kārako natthi, vipākassa ca vedako </snippet>
+    <alternatives>
+    </alternatives>
+  </note>
+  <note reference-line="320" id="300">
+    <original>dī. ni. 1.9</original>
+    <type>no_match</type>
+    <snippet>, avisaṃvādako lokassa </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>dī. ni. 1.9</reference>
+    </references>
+  </note>
+  <note reference-line="323" id="301">
+    <original>dha. pa. 61</original>
+    <type>no_match</type>
+    <snippet>Pāpassa akaraṇaṃ sukhaṃ </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>dha. pa. 61</reference>
+    </references>
+  </note>
+  <note reference-line="323" id="302">
+    <original>pārā. 270</original>
+    <type>no_match</type>
+    <snippet>, bhārassa ukkhipanaṃ, hatthassa gahaṇaṃ, hatthassa parāmasanaṃ, aññatarassa aṅgassa parāmasanaṃ </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>pārā. 270</reference>
+    </references>
+  </note>
+  <note reference-line="324" id="303">
+    <original>udā. 23</original>
+    <type>no_match</type>
+    <snippet>Kvacīti kiṃ? Bhagavantaṃ dassanāya </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>udā. 23</reference>
+    </references>
+  </note>
+  <note reference-line="327" id="304">
+    <original>dha. sa. 596-599 (upādāya)</original>
+    <type>raw</type>
     <snippet> kvaci kammani chaṭṭhī, alajjīnaṃ nissāya, āyasmato nissāya vacchāmi, catunnaṃ mahābhūtānaṃ upādāya pasādo </snippet>
-  </note>
-  <note line="1071" original="dha. pa. 257" reference-line="329" id="305">
-    <type>raw</type>
-  </note>
-  <note line="1074" original="jā. 2.22.1721" reference-line="330" id="306">
-    <type>raw</type>
-  </note>
-  <note line="1077" original="khu. pā. 7.2" reference-line="330" id="307">
-    <type>raw</type>
-  </note>
-  <note line="1080" original="cūḷava. 157" reference-line="330" id="308">
-    <type>raw</type>
-  </note>
-  <note line="1083" original="dī. ni. 1.303" reference-line="332" id="309">
-    <type>raw</type>
-  </note>
-  <note line="1086" original="a. ni. 1.603" reference-line="332" id="310">
-    <type>raw</type>
-  </note>
-  <note line="1089" original="a. ni. 1.603" reference-line="332" id="311">
-    <type>raw</type>
-  </note>
-  <note line="1092" original="dī. ni. 2.377" reference-line="334" id="312">
-    <type>raw</type>
-  </note>
-  <note line="1095" original="dha. pa. 121" reference-line="334" id="313">
-    <type>raw</type>
-  </note>
-  <note line="1098" original="dha. pa. 121" reference-line="334" id="314">
-    <type>raw</type>
-  </note>
-  <note line="1101" original="dī. ni. 3.283 (visadisaṃ)" reference-line="335" id="315">
-    <extra></extra>
     <alternatives>
-      <alternative source-abbr="visadisaṃ" source="visadisaṃ">dī. ni. 3.283</alternative>
     </alternatives>
+  </note>
+  <note reference-line="329" id="305">
+    <original>dha. pa. 257</original>
     <type>no_match</type>
+    <snippet>Kvaci chaṭṭhīpi dissati, dhammassa gutto medhāvī </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>dha. pa. 257</reference>
+    </references>
+  </note>
+  <note reference-line="330" id="306">
+    <original>jā. 2.22.1721</original>
+    <type>no_match</type>
+    <snippet>Sara, isu, cinta, isa, dayadhātūnaṃ kammani chaṭṭhī vā, mātussa sarati, mātaraṃ sarati, pitussa sarati, pitaraṃ sarati, na rajjassa sarissasi </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>jā. 2.22.1721</reference>
+    </references>
+  </note>
+  <note reference-line="330" id="307">
+    <original>khu. pā. 7.2</original>
+    <type>no_match</type>
+    <snippet>, na tesaṃ koci sarati, sattānaṃ kammapaccayā </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>khu. pā. 7.2</reference>
+    </references>
+  </note>
+  <note reference-line="330" id="308">
+    <original>cūḷava. 157</original>
+    <type>no_match</type>
+    <snippet>, āpattipariyantaṃ nassarati, rattipariyantaṃ nassarati </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>cūḷava. 157</reference>
+    </references>
+  </note>
+  <note reference-line="332" id="309">
+    <original>dī. ni. 1.303</original>
+    <type>no_match</type>
+    <snippet>Tapaccaye pūjanatthādidhātūnaṃ kattari chaṭṭhī vā, rañño sammato raññā vā, gāmassa pūjito gāmena vā, rañño sakkato raññā vā, rañño apacito raññā vā, rañño mānito </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>dī. ni. 1.303</reference>
+    </references>
+  </note>
+  <note reference-line="332" id="310">
+    <original>a. ni. 1.603</original>
+    <type>no_match</type>
+    <snippet> raññā vā, tathā suppaṭividdhā buddhānaṃ dhammadhātu, amataṃ tesaṃ paribhuttaṃ, yesaṃ kāyagatāsati paribhuttā </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>a. ni. 1.603</reference>
+    </references>
+  </note>
+  <note reference-line="332" id="311">
+    <original>a. ni. 1.603</original>
+    <type>no_match</type>
+    <snippet>, amataṃ tesaṃ viraddhaṃ, yesaṃ kāyagatāsati viraddhā </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>a. ni. 1.603</reference>
+    </references>
+  </note>
+  <note reference-line="334" id="312">
+    <original>dī. ni. 2.377</original>
+    <type>no_match</type>
+    <snippet>Pūjanatthānaṃ pūraṇatthānañca karaṇe chaṭṭhī, pupphassa buddhaṃ pūjeti pupphena vā, ghatassa aggiṃ juhoti ghatena vā, pattaṃ udakassa pūretvā, pūraṃ nānāppakārassa asucino </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>dī. ni. 2.377</reference>
+    </references>
+  </note>
+  <note reference-line="334" id="313">
+    <original>dha. pa. 121</original>
+    <type>no_match</type>
+    <snippet>, bālo pūrati pāpassa </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>dha. pa. 121</reference>
+    </references>
+  </note>
+  <note reference-line="334" id="314">
+    <original>dha. pa. 121</original>
+    <type>no_match</type>
+    <snippet>, dhīro pūrati puññassa </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>dha. pa. 121</reference>
+    </references>
+  </note>
+  <note reference-line="335" id="315">
+    <original>dī. ni. 3.283 (visadisaṃ)</original>
+    <type>raw</type>
     <snippet>Tabba, rujādiyoge pana sampadāne catutthī eva, yakkhasenāpatīnaṃ ujjhāpetabbaṃ vikkanditabbaṃ viravitabbaṃ </snippet>
-  </note>
-  <note line="1109" original="dha. pa. 129" reference-line="336" id="316">
-    <type>raw</type>
-  </note>
-  <note line="1112" original="saṃ. ni. 4.238" reference-line="336" id="317">
-    <type>raw</type>
-  </note>
-  <note line="1115" original="udā. 22" reference-line="336" id="318">
-    <type>raw</type>
-  </note>
-  <note line="1118" original="saṃ. ni. 1.184" reference-line="336" id="319">
-    <type>raw</type>
-  </note>
-  <note line="1121" original="ma. ni. 3.207" reference-line="336" id="320">
-    <type>raw</type>
-  </note>
-  <note line="1124" original="jā. 2.22.94" reference-line="337" id="321">
-    <type>raw</type>
-  </note>
-  <note line="1127" original="ma. ni. 2.87" reference-line="337" id="322">
-    <type>raw</type>
-  </note>
-  <note line="1130" original="jā. 1.17.13" reference-line="337" id="323">
-    <type>raw</type>
-  </note>
-  <note line="1133" original="jā. 1.1.37" reference-line="337" id="324">
-    <type>raw</type>
-  </note>
-  <note line="1136" original="dī. ni. 3.276 (visadisaṃ)" reference-line="337" id="325">
-    <extra></extra>
     <alternatives>
-      <alternative source-abbr="visadisaṃ" source="visadisaṃ">dī. ni. 3.276</alternative>
     </alternatives>
+  </note>
+  <note reference-line="336" id="316">
+    <original>dha. pa. 129</original>
     <type>no_match</type>
-    <snippet>, maggāmaggassa kovidā, keci iddhīsu kovidā’’tipi atthi, santi yakkhā buddhassa pasannā </snippet>
-  </note>
-  <note line="1144" original="rū. 163 piṭṭhe; nī. 650; caṃ. 2.1.71; pā. 2.3.26" reference-line="338" id="326">
-    <type>raw</type>
-  </note>
-  <note line="1147" original="ma. ni. 1.2; caṃ. 2.1.96; pā. 2.3.72" reference-line="340" id="327">
-    <type>raw</type>
-  </note>
-  <note line="1150" original="pārā. 228" reference-line="340" id="328">
-    <type>raw</type>
-  </note>
-  <note line="1153" original="nī. 638" reference-line="341" id="329">
-    <type>raw</type>
-  </note>
-  <note line="1156" original="ka. 302; rū. 313; nī. 630; caṃ. 2.1.88; pā. 1.3.45" reference-line="348" id="330">
-    <type>raw</type>
-  </note>
-  <note line="1159" original="a. ni. 1.1" reference-line="354" id="331">
-    <type>raw</type>
-  </note>
-  <note line="1162" original="dha. pa. 116" reference-line="355" id="332">
-    <type>raw</type>
-  </note>
-  <note line="1165" original="dha. pa. 368" reference-line="355" id="333">
-    <type>raw</type>
-  </note>
-  <note line="1168" original="ka. 310; rū. 324; nī. 641; caṃ. 2.1.89; pā. 2.3.36" reference-line="356" id="334">
-    <type>raw</type>
-  </note>
-  <note line="1171" original="pāci. 2" reference-line="358" id="335">
-    <type>raw</type>
-  </note>
-  <note line="1174" original="pāci. 14" reference-line="358" id="336">
-    <type>raw</type>
-  </note>
-  <note line="1177" original="ka. 313; rū. 327; nī. 644; caṃ. 2.1.90; pā. 2.3.37; ‘yabbhā vo’ (bahūsu)" reference-line="359" id="337">
-    <extra></extra>
+    <snippet>Bhayatthādīnaṃ apādāne bahulaṃ chaṭṭhī, kiṃ nu kho ahaṃ tassa sukhassa bhāyāmi, sabbe tasanti daṇḍassa, sabbe bhāyanti maccuno </snippet>
     <alternatives>
-      <alternative source-abbr="bahūsu" source="bahūsu">ka. 313; rū. 327; nī. 644; caṃ. 2.1.90; pā. 2.3.37; ‘yabbhā vo’</alternative>
     </alternatives>
+    <references>
+      <reference>dha. pa. 129</reference>
+    </references>
+  </note>
+  <note reference-line="336" id="317">
+    <original>saṃ. ni. 4.238</original>
     <type>no_match</type>
+    <snippet>, bhīto catunnaṃ āsīvisānaṃ </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>saṃ. ni. 4.238</reference>
+    </references>
+  </note>
+  <note reference-line="336" id="318">
+    <original>udā. 22</original>
+    <type>no_match</type>
+    <snippet>, mā bhikkhave puññānaṃ bhāyittha </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>udā. 22</reference>
+    </references>
+  </note>
+  <note reference-line="336" id="319">
+    <original>saṃ. ni. 1.184</original>
+    <type>no_match</type>
+    <snippet>, saṅkhātuṃ nopi sakkomi, musāvādassa ottapaṃ </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>saṃ. ni. 1.184</reference>
+    </references>
+  </note>
+  <note reference-line="336" id="320">
+    <original>ma. ni. 3.207</original>
+    <type>no_match</type>
+    <snippet> iccādi. Tattha ‘ottapa’nti ottappanto. Tathā aggohamasmi lokassa, jeṭṭhohamasmi lokassa </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>ma. ni. 3.207</reference>
+    </references>
+  </note>
+  <note reference-line="337" id="321">
+    <original>jā. 2.22.94</original>
+    <type>no_match</type>
+    <snippet>Kusala, kovida, pasādatthānaṃ ādhāre chaṭṭhī, kusalā naccagītassa </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>jā. 2.22.94</reference>
+    </references>
+  </note>
+  <note reference-line="337" id="322">
+    <original>ma. ni. 2.87</original>
+    <type>no_match</type>
+    <snippet>, kusalo tvaṃ rathassa aṅgapaccaṅgānaṃ </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>ma. ni. 2.87</reference>
+    </references>
+  </note>
+  <note reference-line="337" id="323">
+    <original>jā. 1.17.13</original>
+    <type>no_match</type>
+    <snippet>, amacce tāta jānāhi, dhīre atthassa kovide </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>jā. 1.17.13</reference>
+    </references>
+  </note>
+  <note reference-line="337" id="324">
+    <original>jā. 1.1.37</original>
+    <type>no_match</type>
+    <snippet>, narā dhammassa kovidā </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>jā. 1.1.37</reference>
+    </references>
+  </note>
+  <note reference-line="337" id="325">
+    <original>dī. ni. 3.276 (visadisaṃ)</original>
+    <type>raw</type>
+    <snippet>, maggāmaggassa kovidā, ‘‘keci iddhīsu kovidā’’tipi atthi, santi yakkhā buddhassa pasannā </snippet>
+    <alternatives>
+    </alternatives>
+  </note>
+  <note reference-line="338" id="326">
+    <original>rū. 163 piṭṭhe; nī. 650; caṃ. 2.1.71; pā. 2.3.26</original>
+    <type>no_match</type>
+    <snippet>Chaṭṭhī hetvatthehi</snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>rū. 163</reference>
+      <reference>nī. 650</reference>
+      <reference>caṃ. 2.1.71</reference>
+      <reference>pā. 2.3.26</reference>
+    </references>
+  </note>
+  <note reference-line="340" id="327">
+    <original>ma. ni. 1.2; caṃ. 2.1.96; pā. 2.3.72</original>
+    <type>no_match</type>
+    <snippet>Taṃ kissa hetu </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>ma. ni. 1.2</reference>
+      <reference>caṃ. 2.1.96</reference>
+      <reference>pā. 2.3.72</reference>
+    </references>
+  </note>
+  <note reference-line="340" id="328">
+    <original>pārā. 228</original>
+    <type>no_match</type>
+    <snippet>, aṅgavarassa hetu, udarassa hetu, udarassa kāraṇā </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>pārā. 228</reference>
+    </references>
+  </note>
+  <note reference-line="341" id="329">
+    <original>nī. 638</original>
+    <type>no_match</type>
+    <snippet>Tulyatthena vā tatiyā</snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>nī. 638</reference>
+    </references>
+  </note>
+  <note reference-line="348" id="330">
+    <original>ka. 302; rū. 313; nī. 630; caṃ. 2.1.88; pā. 1.3.45</original>
+    <type>no_match</type>
+    <snippet>Sattamyādhāre</snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>ka. 302</reference>
+      <reference>rū. 313</reference>
+      <reference>nī. 630</reference>
+      <reference>caṃ. 2.1.88</reference>
+      <reference>pā. 1.3.45</reference>
+    </references>
+  </note>
+  <note reference-line="354" id="331">
+    <original>a. ni. 1.1</original>
+    <type>no_match</type>
+    <snippet> nāma. Yathā? Gaṅgāyaṃ ghoso tiṭṭhati, sāvatthiyaṃ viharati bhagavāti </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>a. ni. 1.1</reference>
+    </references>
+  </note>
+  <note reference-line="355" id="332">
+    <original>dha. pa. 116</original>
+    <type>no_match</type>
+    <snippet>, udake macchā caranti, bhagavantaṃ pādesu vandati, pādesu patitvā rodati, pāpasmiṃ ramatī mano </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>dha. pa. 116</reference>
+    </references>
+  </note>
+  <note reference-line="355" id="333">
+    <original>dha. pa. 368</original>
+    <type>no_match</type>
+    <snippet>, pasanno buddhasāsaneti </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>dha. pa. 368</reference>
+    </references>
+  </note>
+  <note reference-line="356" id="334">
+    <original>ka. 310; rū. 324; nī. 641; caṃ. 2.1.89; pā. 2.3.36</original>
+    <type>no_match</type>
+    <snippet>Nimitte</snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>ka. 310</reference>
+      <reference>rū. 324</reference>
+      <reference>nī. 641</reference>
+      <reference>caṃ. 2.1.89</reference>
+      <reference>pā. 2.3.36</reference>
+    </references>
+  </note>
+  <note reference-line="358" id="335">
+    <original>pāci. 2</original>
+    <type>no_match</type>
+    <snippet>Dīpi cammesu haññate, kuñjaro dantesu haññate, musāvāde pācittiyaṃ </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>pāci. 2</reference>
+    </references>
+  </note>
+  <note reference-line="358" id="336">
+    <original>pāci. 14</original>
+    <type>no_match</type>
+    <snippet>, omasavāde pācittiyaṃ </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>pāci. 14</reference>
+    </references>
+  </note>
+  <note reference-line="359" id="337">
+    <original>ka. 313; rū. 327; nī. 644; caṃ. 2.1.90; pā. 2.3.37; ‘yabbhā vo’ (bahūsu)</original>
+    <type>raw</type>
     <snippet>Yambhāvo bhāvalakkhaṇaṃ</snippet>
-  </note>
-  <note line="1185" original="ma. ni. 2.452 (visadisaṃ)" reference-line="361" id="338">
-    <extra></extra>
     <alternatives>
-      <alternative source-abbr="visadisaṃ" source="visadisaṃ">ma. ni. 2.452</alternative>
     </alternatives>
-    <type>no_match</type>
+  </note>
+  <note reference-line="361" id="338">
+    <original>ma. ni. 2.452 (visadisaṃ)</original>
+    <type>raw</type>
     <snippet>Acirapakkantassa sāriputtassa brāhmaṇo kālamakāsi </snippet>
-  </note>
-  <note line="1193" original="saṃ. ni. 1.129 (visadisaṃ)" reference-line="361" id="339">
-    <extra></extra>
     <alternatives>
-      <alternative source-abbr="visadisaṃ" source="visadisaṃ">saṃ. ni. 1.129</alternative>
     </alternatives>
-    <type>no_match</type>
+  </note>
+  <note reference-line="361" id="339">
+    <original>saṃ. ni. 1.129 (visadisaṃ)</original>
+    <type>raw</type>
     <snippet>, appamattassa te viharato itthāgāropi te appamatto viharissati </snippet>
-  </note>
-  <note line="1201" original="saṃ. ni. 2.21" reference-line="362" id="340">
-    <type>raw</type>
-  </note>
-  <note line="1204" original="ma. ni. aṭṭha. 2.22" reference-line="362" id="341">
-    <type>raw</type>
-  </note>
-  <note line="1207" original="jā. 2.22.2007 (addassa)" reference-line="363" id="342">
-    <extra></extra>
     <alternatives>
-      <alternative source-abbr="addassa" source="addassa">jā. 2.22.2007</alternative>
     </alternatives>
+  </note>
+  <note reference-line="362" id="340">
+    <original>saṃ. ni. 2.21</original>
     <type>no_match</type>
+    <snippet>Imasmiṃ sati idaṃ hoti, imasmiṃ asati idaṃ na hoti </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>saṃ. ni. 2.21</reference>
+    </references>
+  </note>
+  <note reference-line="362" id="341">
+    <original>ma. ni. aṭṭha. 2.22</original>
+    <type>no_match</type>
+    <snippet>, acirapakkante bhagavati brāhmaṇo kālamakāsi, sabbe maggā vivajjanti, gacchante lokanāyake </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>ma. ni. aṭṭha. 2.22</reference>
+    </references>
+  </note>
+  <note reference-line="363" id="342">
+    <original>jā. 2.22.2007 (addassa)</original>
+    <type>raw</type>
     <snippet> paṭhamāpi bahulaṃ dissati, gacchanto so bhāradvājo, addasā accutaṃ isiṃ </snippet>
-  </note>
-  <note line="1215" original="jā. 2.22.566" reference-line="363" id="343">
-    <type>raw</type>
-  </note>
-  <note line="1218" original="jā. 1.2.88; 1.8.48" reference-line="365" id="344">
-    <type>raw</type>
-  </note>
-  <note line="1221" original="apa. thera 2.54.28" reference-line="365" id="345">
-    <type>raw</type>
-  </note>
-  <note line="1224" original="ka. 305; rū. 323; nī. 633; caṃ. 2.1.91; pā. 2.3.38" reference-line="366" id="346">
-    <type>raw</type>
-  </note>
-  <note line="1227" original="jā. 2.22.2122 (teneti)" reference-line="368" id="347">
-    <extra></extra>
     <alternatives>
-      <alternative source-abbr="teneti" source="teneti">jā. 2.22.2122</alternative>
     </alternatives>
+  </note>
+  <note reference-line="363" id="343">
+    <original>jā. 2.22.566</original>
     <type>no_match</type>
+    <snippet>. Yāyamāno mahārājā, addā sīdantare nage </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>jā. 2.22.566</reference>
+    </references>
+  </note>
+  <note reference-line="365" id="344">
+    <original>jā. 1.2.88; 1.8.48</original>
+    <type>raw</type>
+    <snippet>Tathā akāle vassatī tassa, kāle tassa na vassati </snippet>
+    <alternatives>
+    </alternatives>
+  </note>
+  <note reference-line="365" id="345">
+    <original>apa. thera 2.54.28</original>
+    <type>raw</type>
+    <snippet>. Ito satasahassamhi, kappe uppajji nāyako </snippet>
+    <alternatives>
+    </alternatives>
+  </note>
+  <note reference-line="366" id="346">
+    <original>ka. 305; rū. 323; nī. 633; caṃ. 2.1.91; pā. 2.3.38</original>
+    <type>no_match</type>
+    <snippet>Chaṭṭhī cānādare</snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>ka. 305</reference>
+      <reference>rū. 323</reference>
+      <reference>nī. 633</reference>
+      <reference>caṃ. 2.1.91</reference>
+      <reference>pā. 2.3.38</reference>
+    </references>
+  </note>
+  <note reference-line="368" id="347">
+    <original>jā. 2.22.2122 (teneti)</original>
+    <type>raw</type>
     <snippet>Maccu gacchati ādāya, pekkhamāne mahājane. Ākoṭayanto so neti, sivirājassa pekkhato </snippet>
-  </note>
-  <note line="1235" original="jā. 1.7.107 (yaṃ petamanusocasi)" reference-line="368" id="348">
-    <extra></extra>
     <alternatives>
-      <alternative source-abbr="yaṃ petamanusocasi" source="yaṃ petamanusocasi">jā. 1.7.107</alternative>
     </alternatives>
-    <type>no_match</type>
+  </note>
+  <note reference-line="368" id="348">
+    <original>jā. 1.7.107 (yaṃ petamanusocasi)</original>
+    <type>raw</type>
     <snippet>. Akāmakānaṃ mātāpitūnaṃ rudantānaṃ pabbaji, anagāriyupetassa, vippamuttassa te sato. Samaṇassa na taṃ sādhu, yadaññamanusocati </snippet>
+    <alternatives>
+    </alternatives>
   </note>
-  <note line="1243" original="ka. 304; rū. 322; nī. 632; caṃ. 2.1.92; pā. 2.3.41" reference-line="369" id="349">
-    <type>raw</type>
+  <note reference-line="369" id="349">
+    <original>ka. 304; rū. 322; nī. 632; caṃ. 2.1.92; pā. 2.3.41</original>
+    <type>no_match</type>
+    <snippet>Yato niddhāraṇaṃ</snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>ka. 304</reference>
+      <reference>rū. 322</reference>
+      <reference>nī. 632</reference>
+      <reference>caṃ. 2.1.92</reference>
+      <reference>pā. 2.3.41</reference>
+    </references>
   </note>
-  <note line="1246" original="pārā. 517" reference-line="380" id="350">
-    <type>raw</type>
+  <note reference-line="380" id="350">
+    <original>pārā. 517</original>
+    <type>no_match</type>
+    <snippet>Kammatthe sattamī, bhikkhūsu abhivādenti </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>pārā. 517</reference>
+    </references>
   </note>
-  <note line="1249" original="saṃ. ni. 2.63" reference-line="380" id="351">
-    <type>raw</type>
+  <note reference-line="380" id="351">
+    <original>saṃ. ni. 2.63</original>
+    <type>no_match</type>
+    <snippet>, puttaṃ muddhani cumbitvā, purisaṃ nānābāhāsu gahetvā </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>saṃ. ni. 2.63</reference>
+    </references>
   </note>
-  <note line="1252" original="mahāva. 119" reference-line="382" id="352">
-    <type>raw</type>
+  <note reference-line="382" id="352">
+    <original>mahāva. 119</original>
+    <type>no_match</type>
+    <snippet>Karaṇe ca sattamī, hatthesu piṇḍāya caranti </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>mahāva. 119</reference>
+    </references>
   </note>
-  <note line="1255" original="mi. pa. 6.4.8" reference-line="382" id="353">
-    <type>raw</type>
+  <note reference-line="382" id="353">
+    <original>mi. pa. 6.4.8</original>
+    <type>no_match</type>
+    <snippet>, pattesu piṇḍāya caranti, pathesu gacchanti, sopi maṃ anusāseyya, sampaṭicchāmi matthake </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>mi. pa. 6.4.8</reference>
+    </references>
   </note>
-  <note line="1258" original="ma. ni. 3.376" reference-line="383" id="354">
-    <type>raw</type>
+  <note reference-line="383" id="354">
+    <original>ma. ni. 3.376</original>
+    <type>no_match</type>
+    <snippet>Sampadāne ca sattamī, saṅghe dinne mahapphalaṃ, saṅghe gotamī dadeyyāsi, saṅghe dinne ahañceva pūjito bhavissāmi </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>ma. ni. 3.376</reference>
+    </references>
   </note>
-  <note line="1261" original="pe. va. 329" reference-line="383" id="355">
-    <type>raw</type>
+  <note reference-line="383" id="355">
+    <original>pe. va. 329</original>
+    <type>no_match</type>
+    <snippet>, viceyya dānaṃ dātabbaṃ, yattha dinnaṃ mahapphalaṃ </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>pe. va. 329</reference>
+    </references>
   </note>
-  <note line="1264" original="ka. 314; rū. 328; nī. 645; caṃ. 2.1.60; pā. 2.3.9; 1.4.87" reference-line="386" id="356">
+  <note reference-line="386" id="356">
+    <original>ka. 314; rū. 328; nī. 645; caṃ. 2.1.60; pā. 2.3.9; 1.4.87</original>
     <type>raw</type>
+    <snippet>Sattamyādhikye</snippet>
+    <alternatives>
+    </alternatives>
   </note>
-  <note line="1267" original="caṃ. 2.1.61; pā. 2.3.9; 1.4.97" reference-line="389" id="357">
+  <note reference-line="389" id="357">
+    <original>caṃ. 2.1.61; pā. 2.3.9; 1.4.97</original>
     <type>raw</type>
+    <snippet>Sāmittedhinā</snippet>
+    <alternatives>
+    </alternatives>
   </note>
-  <note line="1270" original="caṃ. 2.1.72; pā. 2.3.27" reference-line="392" id="358">
-    <type>raw</type>
+  <note reference-line="392" id="358">
+    <original>caṃ. 2.1.72; pā. 2.3.27</original>
+    <type>no_match</type>
+    <snippet>sabbā</snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>caṃ. 2.1.72</reference>
+      <reference>pā. 2.3.27</reference>
+    </references>
   </note>
-  <note line="1273" original="jā. aṭṭha. 4.15 mātaṅgajātakavaṇṇanā" reference-line="394" id="359">
+  <note reference-line="394" id="359">
+    <original>jā. aṭṭha. 4.15 mātaṅgajātakavaṇṇanā</original>
     <type>raw</type>
+    <snippet>Kiṃ kāraṇaṃ, kena kāraṇena </snippet>
+    <alternatives>
+    </alternatives>
   </note>
-  <note line="1276" original="dha. sa. aṭṭha. nidānakathā" reference-line="394" id="360">
+  <note reference-line="394" id="360">
+    <original>dha. sa. aṭṭha. nidānakathā</original>
     <type>raw</type>
+    <snippet>, kiṃ nimittaṃ, kena nimittena, kiṃ payojanaṃ, kena payojanena, kenaṭṭhena </snippet>
+    <alternatives>
+    </alternatives>
   </note>
-  <note line="1279" original="saṃ. ni. 1.234" reference-line="394" id="361">
-    <type>raw</type>
+  <note reference-line="394" id="361">
+    <original>saṃ. ni. 1.234</original>
+    <type>no_match</type>
+    <snippet>, kena vaṇṇena </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>saṃ. ni. 1.234</reference>
+    </references>
   </note>
-  <note line="1282" original="pārā. 42" reference-line="394" id="362">
-    <type>raw</type>
+  <note reference-line="394" id="362">
+    <original>pārā. 42</original>
+    <type>no_match</type>
+    <snippet>, kimatthaṃ, kuto nidānaṃ </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>pārā. 42</reference>
+    </references>
   </note>
-  <note line="1285" original="pārā. 39" reference-line="394" id="363">
-    <type>raw</type>
+  <note reference-line="394" id="363">
+    <original>pārā. 39</original>
+    <type>no_match</type>
+    <snippet>, kissa hetu </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>pārā. 39</reference>
+    </references>
   </note>
-  <note line="1288" original="pārā. 42" reference-line="394" id="364">
-    <type>raw</type>
+  <note reference-line="394" id="364">
+    <original>pārā. 42</original>
+    <type>no_match</type>
+    <snippet>, kasmiṃ nidāne, etasmiṃ nidāne </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>pārā. 42</reference>
+    </references>
   </note>
-  <note line="1291" original="pārā. 42" reference-line="394" id="365">
-    <type>raw</type>
+  <note reference-line="394" id="365">
+    <original>pārā. 42</original>
+    <type>no_match</type>
+    <snippet>, etasmiṃ pakaraṇe </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>pārā. 42</reference>
+    </references>
   </note>
 </notes>

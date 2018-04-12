@@ -1,87 +1,85 @@
-<?xml version="1.0" encoding="utf-8"?>
 <notes archive-path="/mula/suttapitaka/dighanikaya/silakkhandhavaggapali/5. kutadantasuttam">
-  <note line="3" original="patapati (sī. pī.), tapati (syā.)" reference-line="66" id="0">
-    <extra></extra>
+  <note reference-line="66" id="0">
+    <original>patapati (sī. pī.), tapati (syā.)</original>
+    <type>auto</type>
+    <snippet> mahāvijito aṭṭhahaṅgehi samannāgato, ubhato sujāto mātito ca pitito ca saṃsuddhagahaṇiko yāva sattamā pitāmahayugā akkhitto anupakkuṭṭho jātivādena abhirūpo dassanīyo pāsādiko paramāya vaṇṇapokkharatāya samannāgato brahmavaṇṇī brahmavacchasī akhuddāvakāso dassanāya; aḍḍho mahaddhano mahābhogo pahūtajātarūparajato pahūtavittūpakaraṇo pahūtadhanadhañño paripuṇṇakosakoṭṭhāgāro; balavā caturaṅginiyā senāya samannāgato assavāya ovādapaṭikarāya sahati </snippet>
+    <match>sahati</match>
     <alternatives>
       <alternative source-abbr="sī." source="sri lanka">patapati</alternative>
       <alternative source-abbr="pī." source="pali text society">patapati</alternative>
       <alternative source-abbr="syā." source="thai">tapati</alternative>
     </alternatives>
-    <type>no_match</type>
-    <snippet> mahāvijito aṭṭhahaṅgehi samannāgato, ubhato sujāto mātito ca pitito ca saṃsuddhagahaṇiko yāva sattamā pitāmahayugā akkhitto anupakkuṭṭho jātivādena abhirūpo dassanīyo pāsādiko paramāya vaṇṇapokkharatāya samannāgato brahmavaṇṇī brahmavacchasī akhuddāvakāso dassanāya; aḍḍho mahaddhano mahābhogo pahūtajātarūparajato pahūtavittūpakaraṇo pahūtadhanadhañño paripuṇṇakosakoṭṭhāgāro; balavā caturaṅginiyā senāya samannāgato assavāya ovādapaṭikarāya sahati </snippet>
   </note>
-  <note line="13" original="purohitopi (ka. sī. ka.)" reference-line="68" id="1">
-    <extra></extra>
+  <note reference-line="68" id="1">
+    <original>purohitopi (ka. sī. ka.)</original>
+    <type>auto</type>
+    <snippet> ‘‘Purohito </snippet>
+    <match>‘‘Purohito</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">Purohito</alternative>
       <alternative source-abbr="ka." source="cambodian">purohitopi</alternative>
       <alternative source-abbr="sī." source="sri lanka">purohitopi</alternative>
-      <alternative source-abbr="ka." source="cambodian">purohitopi</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> Purohito </snippet>
   </note>
-  <note line="24" original="yiṭṭhakāmassa (ka.)" reference-line="70" id="2">
-    <extra></extra>
-    <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">yiṭṭhukāmassa</alternative>
-      <alternative source-abbr="ka." source="cambodian">yiṭṭhakāmassa</alternative>
-    </alternatives>
+  <note reference-line="70" id="2">
+    <original>yiṭṭhakāmassa (ka.)</original>
     <type>auto</type>
     <snippet> yiṭṭhukāmassa </snippet>
-  </note>
-  <note line="33" original="parihiṃsatthāya (syā. ka. sī. ka.), parahiṃsatthāya (ka.)" reference-line="80" id="3">
-    <extra></extra>
+    <match>yiṭṭhukāmassa</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">barihisatthāya</alternative>
+      <alternative source-abbr="ka." source="cambodian">yiṭṭhakāmassa</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="80" id="3">
+    <original>parihiṃsatthāya (syā. ka. sī. ka.), parahiṃsatthāya (ka.)</original>
+    <type>auto</type>
+    <snippet> ‘‘Tasmiṃ kho, brāhmaṇa, yaññe neva gāvo haññiṃsu, na ajeḷakā haññiṃsu, na kukkuṭasūkarā haññiṃsu, na vividhā pāṇā saṃghātaṃ āpajjiṃsu, na rukkhā chijjiṃsu yūpatthāya, na dabbhā lūyiṃsu barihisatthāya </snippet>
+    <match>barihisatthāya</match>
+    <alternatives>
       <alternative source-abbr="syā." source="thai">parihiṃsatthāya</alternative>
       <alternative source-abbr="ka." source="cambodian">parihiṃsatthāya</alternative>
       <alternative source-abbr="sī." source="sri lanka">parihiṃsatthāya</alternative>
-      <alternative source-abbr="ka." source="cambodian">parihiṃsatthāya</alternative>
       <alternative source-abbr="ka." source="cambodian">parahiṃsatthāya</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> Tasmiṃ kho, brāhmaṇa, yaññe neva gāvo haññiṃsu, na ajeḷakā haññiṃsu, na kukkuṭasūkarā haññiṃsu, na vividhā pāṇā saṃghātaṃ āpajjiṃsu, na rukkhā chijjiṃsu yūpatthāya, na dabbhā lūyiṃsu barihisatthāya </snippet>
   </note>
-  <note line="46" original="yaññāvāṭassa (sī. pī. ka.)" reference-line="82" id="4">
-    <extra></extra>
+  <note reference-line="82" id="4">
+    <original>yaññāvāṭassa (sī. pī. ka.)</original>
+    <type>auto</type>
+    <snippet> ‘‘Atha kho, brāhmaṇa, puratthimena yaññavāṭassa </snippet>
+    <match>yaññavāṭassa</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">yaññavāṭassa</alternative>
       <alternative source-abbr="sī." source="sri lanka">yaññāvāṭassa</alternative>
       <alternative source-abbr="pī." source="pali text society">yaññāvāṭassa</alternative>
       <alternative source-abbr="ka." source="cambodian">yaññāvāṭassa</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> Atha kho, brāhmaṇa, puratthimena yaññavāṭassa </snippet>
   </note>
-  <note line="57" original="tividhayaññasampadāya (ka.)" reference-line="87" id="5">
-    <extra></extra>
+  <note reference-line="87" id="5">
+    <original>tividhayaññasampadāya (ka.)</original>
+    <type>auto</type>
+    <snippet> ‘‘Atthi pana, bho gotama, añño yañño imāya tividhāya yaññasampadāya </snippet>
+    <match>yaññasampadāya</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">yaññasampadāya</alternative>
       <alternative source-abbr="ka." source="cambodian">tividhayaññasampadāya</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> Atthi pana, bho gotama, añño yañño imāya tividhāya yaññasampadāya </snippet>
   </note>
-  <note line="66" original="appatthataro (syā. kaṃ.)" reference-line="87" id="6">
-    <extra></extra>
-    <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">appaṭṭhataro</alternative>
-      <alternative source-abbr="syā." source="thai">appatthataro</alternative>
-      <alternative source-abbr="kaṃ." source="kaṃ.">appatthataro</alternative>
-    </alternatives>
+  <note reference-line="87" id="6">
+    <original>appatthataro (syā. kaṃ.)</original>
     <type>auto</type>
     <snippet> soḷasaparikkhārāya appaṭṭhataro </snippet>
-  </note>
-  <note line="76" original="appasamārabbhataro (sī. pī. ka.)" reference-line="87" id="7">
-    <extra></extra>
+    <match>appaṭṭhataro</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">appasamārambhataro</alternative>
+      <alternative source-abbr="syā." source="thai">appatthataro</alternative>
+      <alternative source-abbr="kaṃ." source="kam">appatthataro</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="87" id="7">
+    <original>appasamārabbhataro (sī. pī. ka.)</original>
+    <type>auto</type>
+    <snippet> ca appasamārambhataro </snippet>
+    <match>appasamārambhataro</match>
+    <alternatives>
       <alternative source-abbr="sī." source="sri lanka">appasamārabbhataro</alternative>
       <alternative source-abbr="pī." source="pali text society">appasamārabbhataro</alternative>
       <alternative source-abbr="ka." source="cambodian">appasamārabbhataro</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> ca appasamārambhataro </snippet>
   </note>
 </notes>

@@ -1,21 +1,37 @@
-<?xml version="1.0" encoding="utf-8"?>
 <notes archive-path="/mula/abhidhammapitaka/kathavatthupali/15. pannarasamavaggo">
-  <note line="3" original="dī. ni. 2.58, thokaṃ pana visadisaṃ" reference-line="25" id="0">
+  <note reference-line="25" id="0">
+    <original>dī. ni. 2.58, thokaṃ pana visadisaṃ</original>
     <type>raw</type>
-  </note>
-  <note line="6" original="a. ni. 3.68; dī. ni. 3.305" reference-line="35" id="1">
-    <type>raw</type>
-  </note>
-  <note line="9" original="sabyāpajjhampi abyāpajjhampi (ka.) ma. ni. 2.81 passitabbaṃ" reference-line="92" id="2">
-    <extra> ma. ni. 2.81 passitabbaṃ</extra>
+    <snippet>‘‘Viññāṇapaccayā, bhikkhave, nāmarūpaṃ, nāmarūpapaccayāpi viññāṇa’’nti </snippet>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">sabyābajjhampi abyābajjhampi</alternative>
-      <alternative source-abbr="ka." source="cambodian">sabyāpajjhampi abyāpajjhampi</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> Aññaṃ kammaṃ añño kammūpacayoti, āmantā. Nanu vuttaṃ bhagavatā – idha, puṇṇa, ekacco sabyābajjhampi abyābajjhampi </snippet>
   </note>
-  <note line="18" original="ma. ni. 2.81" reference-line="92" id="3">
+  <note reference-line="35" id="1">
+    <original>a. ni. 3.68; dī. ni. 3.305</original>
+    <type>no_match</type>
+    <snippet> Na vattabbaṃ – ‘‘addhā parinipphannoti? Āmantā. Nanu vuttaṃ bhagavatā – ‘‘tīṇimāni, bhikkhave, kathāvatthūni! Katamāni tīṇi? Atītaṃ vā, bhikkhave, addhānaṃ ārabbha kathaṃ katheyya – ‘evaṃ ahosi atītamaddhāna’nti; anāgataṃ vā, bhikkhave, addhānaṃ ārabbha kathaṃ katheyya – ‘evaṃ bhavissati anāgatamaddhāna’nti; etarahi vā, bhikkhave, paccuppannaṃ addhānaṃ ārabbha kathaṃ katheyya – ‘evaṃ hoti etarahi paccuppanna’nti. Imāni kho, bhikkhave, tīṇi kathāvatthūnī’’ti </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>a. ni. 3.68</reference>
+      <reference>dī. ni. 3.305</reference>
+    </references>
+  </note>
+  <note reference-line="92" id="2">
+    <original>sabyāpajjhampi abyāpajjhampi (ka.) ma. ni. 2.81 passitabbaṃ</original>
     <type>raw</type>
+    <snippet> Aññaṃ kammaṃ añño kammūpacayoti, āmantā. Nanu vuttaṃ bhagavatā – ‘‘idha, puṇṇa, ekacco sabyābajjhampi abyābajjhampi </snippet>
+    <alternatives>
+    </alternatives>
+  </note>
+  <note reference-line="92" id="3">
+    <original>ma. ni. 2.81</original>
+    <type>no_match</type>
+    <snippet> sattā’ti vadāmī’’ti </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>ma. ni. 2.81</reference>
+    </references>
   </note>
 </notes>

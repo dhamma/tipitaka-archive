@@ -1,81 +1,78 @@
-<?xml version="1.0" encoding="utf-8"?>
 <notes archive-path="/mula/abhidhammapitaka/vibhangapali/6. paticcasamuppadavibhango">
-  <note line="3" original="kālaṃkiriyā (ka.)" reference-line="21" id="0">
-    <extra></extra>
-    <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">kālakiriyā</alternative>
-      <alternative source-abbr="ka." source="cambodian">kālaṃkiriyā</alternative>
-    </alternatives>
+  <note reference-line="21" id="0">
+    <original>kālaṃkiriyā (ka.)</original>
     <type>auto</type>
     <snippet>Tattha katamaṃ maraṇaṃ? Yā tesaṃ tesaṃ sattānaṃ tamhā tamhā sattanikāyā cuti cavanatā bhedo antaradhānaṃ maccu maraṇaṃ kālakiriyā </snippet>
-  </note>
-  <note line="12" original="cetayitattaṃ (sī. ka.)" reference-line="60" id="1">
-    <extra></extra>
+    <match>kālakiriyā</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">sañcetayitattaṃ</alternative>
+      <alternative source-abbr="ka." source="cambodian">kālaṃkiriyā</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="60" id="1">
+    <original>cetayitattaṃ (sī. ka.)</original>
+    <type>auto</type>
+    <snippet> sañcetayitattaṃ </snippet>
+    <match>sañcetayitattaṃ</match>
+    <alternatives>
       <alternative source-abbr="sī." source="sri lanka">cetayitattaṃ</alternative>
       <alternative source-abbr="ka." source="cambodian">cetayitattaṃ</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> sañcetayitattaṃ </snippet>
   </note>
-  <note line="22" original="vipariyesaggāho (bahūsu)" reference-line="67" id="2">
-    <extra></extra>
-    <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">vipariyāsaggāho</alternative>
-      <alternative source-abbr="bahūsu" source="bahūsu">vipariyesaggāho</alternative>
-    </alternatives>
-    <type>auto</type>
+  <note reference-line="67" id="2">
+    <original>vipariyesaggāho (bahūsu)</original>
+    <type>raw</type>
     <snippet> diṭṭhigahanaṃ diṭṭhikantāro diṭṭhivisūkāyikaṃ diṭṭhivipphanditaṃ diṭṭhisaṃyojanaṃ gāho patiṭṭhāho abhiniveso parāmāso kummaggo micchāpatho micchattaṃ titthāyatanaṃ vipariyāsaggāho </snippet>
-  </note>
-  <note line="31" original="asulopo (syā.)" reference-line="247" id="3">
-    <extra></extra>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">asuropo</alternative>
-      <alternative source-abbr="syā." source="thai">asulopo</alternative>
     </alternatives>
+  </note>
+  <note reference-line="247" id="3">
+    <original>asulopo (syā.)</original>
     <type>auto</type>
     <snippet>Tattha katamaṃ vedanāpaccayā paṭighaṃ? Yo cittassa āghāto…pe… caṇḍikkaṃ asuropo </snippet>
-  </note>
-  <note line="40" original="dvedhāpatho (sī. syā.)" reference-line="253" id="4">
-    <extra></extra>
+    <match>asuropo</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">dvidhāpatho</alternative>
+      <alternative source-abbr="syā." source="thai">asulopo</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="253" id="4">
+    <original>dvedhāpatho (sī. syā.)</original>
+    <type>auto</type>
+    <snippet> dveḷhakaṃ dvidhāpatho </snippet>
+    <match>dvidhāpatho</match>
+    <alternatives>
       <alternative source-abbr="sī." source="sri lanka">dvedhāpatho</alternative>
       <alternative source-abbr="syā." source="thai">dvedhāpatho</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> dveḷhakaṃ dvidhāpatho </snippet>
   </note>
-  <note line="50" original="apariyogāhanā (sī. syā. ka.)" reference-line="253" id="5">
-    <extra></extra>
+  <note reference-line="253" id="5">
+    <original>apariyogāhanā (sī. syā. ka.)</original>
+    <type>auto</type>
+    <snippet> saṃsayo anekaṃsaggāho āsappanā parisappanā apariyogāhaṇā </snippet>
+    <match>apariyogāhaṇā</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">apariyogāhaṇā</alternative>
       <alternative source-abbr="sī." source="sri lanka">apariyogāhanā</alternative>
       <alternative source-abbr="syā." source="thai">apariyogāhanā</alternative>
       <alternative source-abbr="ka." source="cambodian">apariyogāhanā</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> saṃsayo anekaṃsaggāho āsappanā parisappanā apariyogāhaṇā </snippet>
   </note>
-  <note line="61" original="paṭhavīkasiṇaṃ (sī. syā.)" reference-line="286" id="6">
-    <extra></extra>
+  <note reference-line="286" id="6">
+    <original>paṭhavīkasiṇaṃ (sī. syā.)</original>
+    <type>auto</type>
+    <snippet> Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati pathavīkasiṇaṃ </snippet>
+    <match>pathavīkasiṇaṃ</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">pathavīkasiṇaṃ</alternative>
       <alternative source-abbr="sī." source="sri lanka">paṭhavīkasiṇaṃ</alternative>
       <alternative source-abbr="syā." source="thai">paṭhavīkasiṇaṃ</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati pathavīkasiṇaṃ </snippet>
   </note>
-  <note line="71" original="paccayākāravibhaṅgo (sī. syā.)" reference-line="413" id="7">
-    <extra></extra>
+  <note reference-line="413" id="7">
+    <original>paccayākāravibhaṅgo (sī. syā.)</original>
+    <type>auto</type>
+    <snippet>Paṭiccasamuppādavibhaṅgo </snippet>
+    <match>Paṭiccasamuppādavibhaṅgo</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">Paṭiccasamuppādavibhaṅgo</alternative>
       <alternative source-abbr="sī." source="sri lanka">paccayākāravibhaṅgo</alternative>
       <alternative source-abbr="syā." source="thai">paccayākāravibhaṅgo</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet>Paṭiccasamuppādavibhaṅgo </snippet>
   </note>
 </notes>

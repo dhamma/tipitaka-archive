@@ -1,60 +1,56 @@
-<?xml version="1.0" encoding="utf-8"?>
 <notes archive-path="/mula/suttapitaka/khuddakanikaya/apadanapali-1/24. udakasanavaggo">
-  <note line="3" original="bhājanadāyako (sī. syā.)" reference-line="29" id="0">
-    <extra></extra>
+  <note reference-line="29" id="0">
+    <original>bhājanadāyako (sī. syā.)</original>
+    <type>auto</type>
+    <snippet>Itthaṃ sudaṃ āyasmā bhājanapālako </snippet>
+    <match>bhājanapālako</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">bhājanapālako</alternative>
       <alternative source-abbr="sī." source="sri lanka">bhājanadāyako</alternative>
       <alternative source-abbr="syā." source="thai">bhājanadāyako</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet>Itthaṃ sudaṃ āyasmā bhājanapālako </snippet>
   </note>
-  <note line="13" original="yaṃ khajjakamadāsahaṃ (sī.), yaṃ khajjamabhidāsahaṃ (ka.) sālapupphanāmakaṃ khajjakaṃ vā bhaveyya" reference-line="39" id="1">
-    <extra> sālapupphanāmakaṃ khajjakaṃ vā bhaveyya</extra>
-    <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">yaṃ pupphamabhidāsahaṃ</alternative>
-      <alternative source-abbr="sī." source="sri lanka">yaṃ khajjakamadāsahaṃ</alternative>
-      <alternative source-abbr="ka." source="cambodian">yaṃ khajjamabhidāsahaṃ</alternative>
-    </alternatives>
-    <type>auto</type>
+  <note reference-line="39" id="1">
+    <original>yaṃ khajjakamadāsahaṃ (sī.), yaṃ khajjamabhidāsahaṃ (ka.) sālapupphanāmakaṃ khajjakaṃ vā bhaveyya</original>
+    <type>raw</type>
     <snippet> ito kappe, yaṃ pupphamabhidāsahaṃ </snippet>
-  </note>
-  <note line="23" original="jutindharo (sī.)" reference-line="59" id="2">
-    <extra></extra>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">jaladdharo</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="59" id="2">
+    <original>jutindharo (sī.)</original>
+    <type>auto</type>
+    <snippet> ‘‘Sattasattatikappamhi, rājā āsiṃ jaladdharo </snippet>
+    <match>jaladdharo</match>
+    <alternatives>
       <alternative source-abbr="sī." source="sri lanka">jutindharo</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> Sattasattatikappamhi, rājā āsiṃ jaladdharo </snippet>
   </note>
-  <note line="32" original="rajiṃ ahaṃ (ka.), rajemahaṃ (syā.)" reference-line="82" id="3">
-    <extra></extra>
+  <note reference-line="82" id="3">
+    <original>rajiṃ ahaṃ (ka.), rajemahaṃ (syā.)</original>
+    <type>no_match</type>
+    <snippet>Cetiye dussabhaṇḍāni, nānāvaṇṇaṃ rajesahaṃ </snippet>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">rajesahaṃ</alternative>
       <alternative source-abbr="ka." source="cambodian">rajiṃ ahaṃ</alternative>
       <alternative source-abbr="syā." source="thai">rajemahaṃ</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet>Cetiye dussabhaṇḍāni, nānāvaṇṇaṃ rajesahaṃ </snippet>
   </note>
-  <note line="42" original="candupama (sī.), candasama (syā.)" reference-line="87" id="4">
-    <extra></extra>
+  <note reference-line="87" id="4">
+    <original>candupama (sī.), candasama (syā.)</original>
+    <type>auto</type>
+    <snippet> ‘‘Ito tevīsatikappe, vaṇṇasama </snippet>
+    <match>vaṇṇasama</match>
     <alternatives>
       <alternative source-abbr="sī." source="sri lanka">candupama</alternative>
-      <alternative source-abbr="vri" source="vipassana research institut">vaṇṇasama</alternative>
       <alternative source-abbr="syā." source="thai">candasama</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> Ito tevīsatikappe, vaṇṇasama </snippet>
   </note>
-  <note line="52" original="sayambhumhiparājite (?)" reference-line="129" id="5">
-    <extra></extra>
+  <note reference-line="129" id="5">
+    <original>sayambhumhiparājite (?)</original>
+    <type>auto</type>
+    <snippet>Ekā vāsi mayā dinnā, sayambhuṃ aparājitaṃ </snippet>
+    <match>aparājitaṃ</match>
     <alternatives>
       <alternative source-abbr="?" source="unknown">sayambhumhiparājite</alternative>
     </alternatives>
-    <type>no_match</type>
-    <snippet>Ekā vāsi mayā dinnā, sayambhuṃ aparājitaṃ </snippet>
   </note>
 </notes>

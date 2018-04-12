@@ -1,89 +1,87 @@
-<?xml version="1.0" encoding="utf-8"?>
 <notes archive-path="/mula/suttapitaka/khuddakanikaya/apadanapali-2/51. kanikaravaggo">
-  <note line="3" original="satageṇḍu (syā.)" reference-line="31" id="0">
-    <extra></extra>
+  <note reference-line="31" id="0">
+    <original>satageṇḍu (syā.)</original>
+    <type>auto</type>
+    <snippet> ‘‘Sahassakaṇḍaṃ satabheṇḍu </snippet>
+    <match>satabheṇḍu</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">satabheṇḍu</alternative>
       <alternative source-abbr="syā." source="thai">satageṇḍu</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> Sahassakaṇḍaṃ satabheṇḍu </snippet>
   </note>
-  <note line="12" original="yenicchayā yadicchakaṃ (syā.), yadicchakāyadicchakā (ka.)" reference-line="35" id="1">
-    <extra></extra>
+  <note reference-line="35" id="1">
+    <original>yenicchayā yadicchakaṃ (syā.), yadicchakāyadicchakā (ka.)</original>
+    <type>no_match</type>
+    <snippet>Phalikāpi ca pallaṅkā, yenicchakā yadicchakā </snippet>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">yenicchakā yadicchakā</alternative>
       <alternative source-abbr="syā." source="thai">yenicchayā yadicchakaṃ</alternative>
       <alternative source-abbr="ka." source="cambodian">yadicchakāyadicchakā</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet>Phalikāpi ca pallaṅkā, yenicchakā yadicchakā </snippet>
   </note>
-  <note line="22" original="bibbohanasamāyutaṃ… (syā. ka.)" reference-line="38" id="2">
-    <extra></extra>
+  <note reference-line="38" id="2">
+    <original>bibbohanasamāyutaṃ… (syā. ka.)</original>
+    <type>auto</type>
+    <snippet>Uddhalomikaekantaṃ, bimbohanasamāyutaṃ </snippet>
+    <match>bimbohanasamāyutaṃ</match>
     <alternatives>
       <alternative source-abbr="syā." source="thai">bibbohanasamāyutaṃ…</alternative>
       <alternative source-abbr="ka." source="cambodian">bibbohanasamāyutaṃ…</alternative>
     </alternatives>
-    <type>no_match</type>
-    <snippet>Uddhalomikaekantaṃ, bimbohanasamāyutaṃ </snippet>
   </note>
-  <note line="31" original="yasasāva janānañca (syā.)" reference-line="134" id="3">
-    <extra></extra>
+  <note reference-line="134" id="3">
+    <original>yasasāva janānañca (syā.)</original>
+    <type>no_match</type>
+    <snippet>Yasānañca dhanānañca </snippet>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">Yasānañca dhanānañca</alternative>
       <alternative source-abbr="syā." source="thai">yasasāva janānañca</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet>Yasānañca dhanānañca </snippet>
   </note>
-  <note line="40" original="pattabhūto (sī. pī.)" reference-line="134" id="4">
-    <extra></extra>
+  <note reference-line="134" id="4">
+    <original>pattabhūto (sī. pī.)</original>
+    <type>auto</type>
+    <snippet>, aggabhūto </snippet>
+    <match>aggabhūto</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">aggabhūto</alternative>
       <alternative source-abbr="sī." source="sri lanka">pattabhūto</alternative>
       <alternative source-abbr="pī." source="pali text society">pattabhūto</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet>, aggabhūto </snippet>
   </note>
-  <note line="50" original="vāraphalaṃ (sī.), cāraphalaṃ (syā.), pāraphalaṃ (pī.)" reference-line="200" id="5">
-    <extra></extra>
+  <note reference-line="200" id="5">
+    <original>vāraphalaṃ (sī.), cāraphalaṃ (syā.), pāraphalaṃ (pī.)</original>
+    <type>auto</type>
+    <snippet>Rathiyaṃ paṭipajjantaṃ, pādaphalaṃ </snippet>
+    <match>pādaphalaṃ</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">pādaphalaṃ</alternative>
       <alternative source-abbr="sī." source="sri lanka">vāraphalaṃ</alternative>
       <alternative source-abbr="syā." source="thai">cāraphalaṃ</alternative>
       <alternative source-abbr="pī." source="pali text society">pāraphalaṃ</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet>Rathiyaṃ paṭipajjantaṃ, pādaphalaṃ </snippet>
   </note>
-  <note line="61" original="dhīrassa (sī.)" reference-line="219" id="6">
-    <extra></extra>
-    <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">vīrassa</alternative>
-      <alternative source-abbr="sī." source="sri lanka">dhīrassa</alternative>
-    </alternatives>
+  <note reference-line="219" id="6">
+    <original>dhīrassa (sī.)</original>
     <type>auto</type>
     <snippet>Dakkhiṇeyyassa vīrassa </snippet>
-  </note>
-  <note line="70" original="ajino (syā.)" reference-line="234" id="7">
-    <extra></extra>
+    <match>vīrassa</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">Ajjuno</alternative>
+      <alternative source-abbr="sī." source="sri lanka">dhīrassa</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="234" id="7">
+    <original>ajino (syā.)</original>
+    <type>auto</type>
+    <snippet> ‘‘Ajjuno </snippet>
+    <match>‘‘Ajjuno</match>
+    <alternatives>
       <alternative source-abbr="syā." source="thai">ajino</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> Ajjuno </snippet>
   </note>
-  <note line="79" original="añjaliṃ (syā.), ajelaṃ (pī.)" reference-line="237" id="8">
-    <extra></extra>
+  <note reference-line="237" id="8">
+    <original>añjaliṃ (syā.), ajelaṃ (pī.)</original>
+    <type>auto</type>
+    <snippet> gahetvāna, ajeliṃ </snippet>
+    <match>ajeliṃ</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">ajeliṃ</alternative>
       <alternative source-abbr="syā." source="thai">añjaliṃ</alternative>
       <alternative source-abbr="pī." source="pali text society">ajelaṃ</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> gahetvāna, ajeliṃ </snippet>
   </note>
 </notes>

@@ -1,117 +1,112 @@
-<?xml version="1.0" encoding="utf-8"?>
 <notes archive-path="/mula/vinayapitaka/mahavaggapali/7. kathinakkhandhako">
-  <note line="3" original="pāṭheyyakā (sī. syā.)" reference-line="3" id="0">
-    <extra></extra>
+  <note reference-line="3" id="0">
+    <original>pāṭheyyakā (sī. syā.)</original>
+    <type>auto</type>
+    <snippet> samayena buddho bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena tiṃsamattā pāveyyakā </snippet>
+    <match>pāveyyakā</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">pāveyyakā</alternative>
       <alternative source-abbr="sī." source="sri lanka">pāṭheyyakā</alternative>
       <alternative source-abbr="syā." source="thai">pāṭheyyakā</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> samayena buddho bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena tiṃsamattā pāveyyakā </snippet>
   </note>
-  <note line="13" original="kaṭhinaṃ (sī. syā.)" reference-line="3" id="1">
-    <extra></extra>
+  <note reference-line="3" id="1">
+    <original>kaṭhinaṃ (sī. syā.)</original>
+    <type>auto</type>
+    <snippet> kathinaṃ </snippet>
+    <match>kathinaṃ</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">kathinaṃ</alternative>
       <alternative source-abbr="sī." source="sri lanka">kaṭhinaṃ</alternative>
       <alternative source-abbr="syā." source="thai">kaṭhinaṃ</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> kathinaṃ </snippet>
   </note>
-  <note line="23" original="na gaṇṭusakaraṇamattena (ka.)" reference-line="7" id="2">
-    <extra></extra>
+  <note reference-line="7" id="2">
+    <original>na gaṇṭusakaraṇamattena (ka.)</original>
+    <type>no_match</type>
+    <snippet> ‘‘Evaṃ kho, bhikkhave, atthataṃ hoti kathinaṃ, evaṃ anatthataṃ. Kathañca pana, bhikkhave, anatthataṃ hoti kathinaṃ? Na ullikhitamattena atthataṃ hoti kathinaṃ, na dhovanamattena atthataṃ hoti kathinaṃ, na cīvaravicāraṇamattena </snippet>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">naṃ, evaṃ anatthataṃ. Kathañca pana, bhikkhave, anatthataṃ hoti kathinaṃ? Na ullikhitamattena atthataṃ hoti kathinaṃ, na dhovanamattena atthataṃ hoti kathinaṃ, na cīvaravicāraṇamattena</alternative>
       <alternative source-abbr="ka." source="cambodian">na gaṇṭusakaraṇamattena</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> Evaṃ kho, bhikkhave, atthataṃ hoti kathinaṃ, evaṃ anatthataṃ. Kathañca pana, bhikkhave, anatthataṃ hoti kathinaṃ? Na ullikhitamattena atthataṃ hoti kathinaṃ, na dhovanamattena atthataṃ hoti kathinaṃ, na cīvaravicāraṇamattena </snippet>
   </note>
-  <note line="32" original="na ovaṭṭeyyakaraṇamattena (sī. syā.), na ovadeyyakaraṇamattena (ka.)" reference-line="7" id="3">
-    <extra></extra>
+  <note reference-line="7" id="3">
+    <original>na ovaṭṭeyyakaraṇamattena (sī. syā.), na ovadeyyakaraṇamattena (ka.)</original>
+    <type>no_match</type>
+    <snippet> atthataṃ hoti kathinaṃ, na chedanamattena atthataṃ hoti kathinaṃ, na bandhanamattena atthataṃ hoti kathinaṃ, na ovaṭṭiyakaraṇamattena </snippet>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">naṃ, na chedanamattena atthataṃ hoti kathinaṃ, na bandhanamattena atthataṃ hoti kathinaṃ, na ovaṭṭiyakaraṇamattena</alternative>
       <alternative source-abbr="sī." source="sri lanka">na ovaṭṭeyyakaraṇamattena</alternative>
       <alternative source-abbr="syā." source="thai">na ovaṭṭeyyakaraṇamattena</alternative>
       <alternative source-abbr="ka." source="cambodian">na ovadeyyakaraṇamattena</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> atthataṃ hoti kathinaṃ, na chedanamattena atthataṃ hoti kathinaṃ, na bandhanamattena atthataṃ hoti kathinaṃ, na ovaṭṭiyakaraṇamattena </snippet>
   </note>
-  <note line="43" original="saubbhārāti (ka.)" reference-line="9" id="4">
-    <extra></extra>
+  <note reference-line="9" id="4">
+    <original>saubbhārāti (ka.)</original>
+    <type>auto</type>
+    <snippet> ‘‘Kathañca, bhikkhave, ubbhataṃ hoti kathinaṃ? Aṭṭhimā, bhikkhave, mātikā kathinassa ubbhārāya – pakkamanantikā, niṭṭhānantikā, sanniṭṭhānantikā, nāsanantikā, savanantikā, āsāvacchedikā, sīmātikkantikā, sahubbhārā’’ti </snippet>
+    <match>sahubbhārā’’ti</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">sahubbhārā’’ti</alternative>
-      <alternative source-abbr="ka." source="cambodian">saubbhārā’’ti</alternative>
+      <alternative source-abbr="ka." source="cambodian">saubbhārāti</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> Kathañca, bhikkhave, ubbhataṃ hoti kathinaṃ? Aṭṭhimā, bhikkhave, mātikā kathinassa ubbhārāya – pakkamanantikā, niṭṭhānantikā, sanniṭṭhānantikā, nāsanantikā, savanantikā, āsāvacchedikā, sīmātikkantikā, sahubbhārā’’ti </snippet>
   </note>
-  <note line="52" original="…dutiyaṃ niṭṭhitaṃ (ka.)" reference-line="19" id="5">
-    <extra></extra>
+  <note reference-line="19" id="5">
+    <original>…dutiyaṃ niṭṭhitaṃ (ka.)</original>
+    <type>no_match</type>
+    <snippet>Ādāyasattakaṃ niṭṭhitaṃ </snippet>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">niṭṭhitaṃ</alternative>
       <alternative source-abbr="ka." source="cambodian">…dutiyaṃ niṭṭhitaṃ</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet>Ādāyasattakaṃ niṭṭhitaṃ </snippet>
   </note>
-  <note line="61" original="anāsādvādasakaṃ (sī.)" reference-line="108" id="6">
-    <extra></extra>
-    <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">Anāsādoḷasakaṃ</alternative>
-      <alternative source-abbr="sī." source="sri lanka">anāsādvādasakaṃ</alternative>
-    </alternatives>
+  <note reference-line="108" id="6">
+    <original>anāsādvādasakaṃ (sī.)</original>
     <type>auto</type>
     <snippet>Anāsādoḷasakaṃ </snippet>
-  </note>
-  <note line="70" original="apavinayamāno (sī.), apacinayamāno (ka.)" reference-line="138" id="7">
-    <extra></extra>
+    <match>Anāsādoḷasakaṃ</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">apavilāyamāno</alternative>
+      <alternative source-abbr="sī." source="sri lanka">anāsādvādasakaṃ</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="138" id="7">
+    <original>apavinayamāno (sī.), apacinayamāno (ka.)</original>
+    <type>auto</type>
+    <snippet> atthatakathino disaṃgamiko pakkamati cīvarapaṭivīsaṃ apavilāyamāno </snippet>
+    <match>apavilāyamāno</match>
+    <alternatives>
       <alternative source-abbr="sī." source="sri lanka">apavinayamāno</alternative>
       <alternative source-abbr="ka." source="cambodian">apacinayamāno</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> atthatakathino disaṃgamiko pakkamati cīvarapaṭivīsaṃ apavilāyamāno </snippet>
   </note>
-  <note line="80" original="amukañca (ka.)" reference-line="138" id="8">
-    <extra></extra>
+  <note reference-line="138" id="8">
+    <original>amukañca (ka.)</original>
+    <type>auto</type>
+    <snippet>. Tamenaṃ disaṅgataṃ bhikkhū pucchanti – ‘‘kahaṃ tvaṃ, āvuso, vassaṃvuṭṭho, kattha ca te cīvarapaṭivīso’’ti? So evaṃ vadeti – ‘‘amukasmiṃ āvāse vassaṃvuṭṭhomhi. Tattha ca me cīvarapaṭivīso’’ti. Te evaṃ vadanti – ‘‘gacchāvuso, taṃ cīvaraṃ āhara, mayaṃ te idha cīvaraṃ karissāmā’’ti. So taṃ āvāsaṃ gantvā bhikkhū pucchati – ‘‘kahaṃ me, āvuso, cīvarapaṭivīso’’ti? Te evaṃ vadanti – ‘‘ayaṃ te, āvuso, cīvarapaṭivīso; kahaṃ gamissasī’’ti? So evaṃ vadeti – ‘‘amukaṃ nāma </snippet>
+    <match>nāma</match>
     <alternatives>
       <alternative source-abbr="ka." source="cambodian">amukañca</alternative>
     </alternatives>
-    <type>no_match</type>
-    <snippet>. Tamenaṃ disaṅgataṃ bhikkhū pucchanti – kahaṃ tvaṃ, āvuso, vassaṃvuṭṭho, kattha ca te cīvarapaṭivīso’’ti? So evaṃ vadeti – amukasmiṃ āvāse vassaṃvuṭṭhomhi. Tattha ca me cīvarapaṭivīso’’ti. Te evaṃ vadanti – gacchāvuso, taṃ cīvaraṃ āhara, mayaṃ te idha cīvaraṃ karissāmā’’ti. So taṃ āvāsaṃ gantvā bhikkhū pucchati – kahaṃ me, āvuso, cīvarapaṭivīso’’ti? Te evaṃ vadanti – ayaṃ te, āvuso, cīvarapaṭivīso; kahaṃ gamissasī’’ti? So evaṃ vadeti – amukaṃ nāma </snippet>
   </note>
-  <note line="88" original="anapekkhena (ka.)" reference-line="157" id="9">
-    <extra></extra>
-    <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">anapekkho</alternative>
-      <alternative source-abbr="ka." source="cambodian">anapekkhena</alternative>
-    </alternatives>
+  <note reference-line="157" id="9">
+    <original>anapekkhena (ka.)</original>
     <type>auto</type>
     <snippet>Katame ca, bhikkhave, dve kathinassa apalibodhā? Āvāsaapalibodho ca cīvaraapalibodho ca. Kathañca, bhikkhave, āvāsaapalibodho hoti? Idha, bhikkhave, bhikkhu pakkamati tamhā āvāsā cattena vantena muttena anapekkho </snippet>
-  </note>
-  <note line="97" original="chaṭṭhe vippakatā (sī.), chaccā vippakathā (ka.)" reference-line="201" id="10">
-    <extra></extra>
+    <match>anapekkho</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">chakke vippakate</alternative>
+      <alternative source-abbr="ka." source="cambodian">anapekkhena</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="201" id="10">
+    <original>chaṭṭhe vippakatā (sī.), chaccā vippakathā (ka.)</original>
+    <type>no_match</type>
+    <snippet>Pakkamanantikā natthi, chakke vippakate </snippet>
+    <alternatives>
       <alternative source-abbr="sī." source="sri lanka">chaṭṭhe vippakatā</alternative>
       <alternative source-abbr="ka." source="cambodian">chaccā vippakathā</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet>Pakkamanantikā natthi, chakke vippakate </snippet>
   </note>
-  <note line="107" original="apavilāyamāneva (syā.), apavinā nava cettha (sī.)" reference-line="215" id="11">
-    <extra></extra>
+  <note reference-line="215" id="11">
+    <original>apavilāyamāneva (syā.), apavinā nava cettha (sī.)</original>
+    <type>no_match</type>
+    <snippet>Apavilānā navettha </snippet>
     <alternatives>
       <alternative source-abbr="syā." source="thai">apavilāyamāneva</alternative>
-      <alternative source-abbr="vri" source="vipassana research institut">navettha</alternative>
       <alternative source-abbr="sī." source="sri lanka">apavinā nava cettha</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet>Apavilānā navettha </snippet>
   </note>
 </notes>

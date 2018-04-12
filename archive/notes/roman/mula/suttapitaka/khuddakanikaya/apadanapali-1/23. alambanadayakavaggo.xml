@@ -1,87 +1,85 @@
-<?xml version="1.0" encoding="utf-8"?>
 <notes archive-path="/mula/suttapitaka/khuddakanikaya/apadanapali-1/23. alambanadayakavaggo">
-  <note line="3" original="dvirataniyo (sī.)" reference-line="61" id="0">
-    <extra></extra>
-    <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">dverataniyo</alternative>
-      <alternative source-abbr="sī." source="sri lanka">dvirataniyo</alternative>
-    </alternatives>
+  <note reference-line="61" id="0">
+    <original>dvirataniyo (sī.)</original>
     <type>auto</type>
     <snippet>Itthaṃ sudaṃ āyasmā dverataniyo </snippet>
-  </note>
-  <note line="12" original="vedikā kāritā (syā.)" reference-line="66" id="1">
-    <extra></extra>
+    <match>dverataniyo</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">vedi kārāpitā</alternative>
+      <alternative source-abbr="sī." source="sri lanka">dvirataniyo</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="66" id="1">
+    <original>vedikā kāritā (syā.)</original>
+    <type>no_match</type>
+    <snippet> bhagavato, vedi kārāpitā </snippet>
+    <alternatives>
       <alternative source-abbr="syā." source="thai">vedikā kāritā</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> bhagavato, vedi kārāpitā </snippet>
   </note>
-  <note line="21" original="eko āsiṃ narādhipo (syā.)" reference-line="92" id="2">
-    <extra></extra>
+  <note reference-line="92" id="2">
+    <original>eko āsiṃ narādhipo (syā.)</original>
+    <type>no_match</type>
+    <snippet> ‘‘Ito ca sattame kappe, ekosiṃ aparājito </snippet>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">ekosiṃ aparājito</alternative>
       <alternative source-abbr="syā." source="thai">eko āsiṃ narādhipo</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> Ito ca sattame kappe, ekosiṃ aparājito </snippet>
   </note>
-  <note line="30" original="varado (ka.)" reference-line="100" id="3">
-    <extra></extra>
+  <note reference-line="100" id="3">
+    <original>varado (ka.)</original>
+    <type>auto</type>
+    <snippet> ‘‘Nārado </snippet>
+    <match>‘‘Nārado</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">Nārado</alternative>
       <alternative source-abbr="ka." source="cambodian">varado</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> Nārado </snippet>
   </note>
-  <note line="39" original="vakulapupphaṃ (syā.), bakolapupphaṃ (ka.)" reference-line="104" id="4">
-    <extra></extra>
+  <note reference-line="104" id="4">
+    <original>vakulapupphaṃ (syā.), bakolapupphaṃ (ka.)</original>
+    <type>auto</type>
+    <snippet>Aṅkolapupphaṃ </snippet>
+    <match>Aṅkolapupphaṃ</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">Aṅkolapupphaṃ</alternative>
       <alternative source-abbr="syā." source="thai">vakulapupphaṃ</alternative>
       <alternative source-abbr="ka." source="cambodian">bakolapupphaṃ</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet>Aṅkolapupphaṃ </snippet>
   </note>
-  <note line="49" original="vakulapupphiyo (syā.), bakolapupphiyo (ka.)" reference-line="113" id="5">
-    <extra></extra>
+  <note reference-line="113" id="5">
+    <original>vakulapupphiyo (syā.), bakolapupphiyo (ka.)</original>
+    <type>auto</type>
+    <snippet>Itthaṃ sudaṃ āyasmā aṅkolapupphiyo </snippet>
+    <match>aṅkolapupphiyo</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">aṅkolapupphiyo</alternative>
       <alternative source-abbr="syā." source="thai">vakulapupphiyo</alternative>
       <alternative source-abbr="ka." source="cambodian">bakolapupphiyo</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet>Itthaṃ sudaṃ āyasmā aṅkolapupphiyo </snippet>
   </note>
-  <note line="59" original="ahuṃ (?)" reference-line="148" id="6">
-    <extra></extra>
-    <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">ahaṃ</alternative>
-      <alternative source-abbr="?" source="unknown">ahuṃ</alternative>
-    </alternatives>
+  <note reference-line="148" id="6">
+    <original>ahuṃ (?)</original>
     <type>auto</type>
     <snippet> nāma nāmena, mālākāro ahaṃ </snippet>
-  </note>
-  <note line="68" original="asampattamhi (sī.), asampattova (?)" reference-line="151" id="7">
-    <extra></extra>
+    <match>ahaṃ</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">Asampattomhi</alternative>
+      <alternative source-abbr="?" source="unknown">ahuṃ</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="151" id="7">
+    <original>asampattamhi (sī.), asampattova (?)</original>
+    <type>auto</type>
+    <snippet> ‘‘Asampattomhi </snippet>
+    <match>‘‘Asampattomhi</match>
+    <alternatives>
       <alternative source-abbr="sī." source="sri lanka">asampattamhi</alternative>
       <alternative source-abbr="?" source="unknown">asampattova</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> Asampattomhi </snippet>
   </note>
-  <note line="78" original="vakulaṃ (syā.), bakuḷaṃ (ka.)" reference-line="180" id="8">
-    <extra></extra>
+  <note reference-line="180" id="8">
+    <original>vakulaṃ (syā.), bakuḷaṃ (ka.)</original>
+    <type>auto</type>
+    <snippet>Abyādhi aṅkolaṃ </snippet>
+    <match>aṅkolaṃ</match>
     <alternatives>
       <alternative source-abbr="syā." source="thai">vakulaṃ</alternative>
       <alternative source-abbr="ka." source="cambodian">bakuḷaṃ</alternative>
     </alternatives>
-    <type>no_match</type>
-    <snippet>Abyādhi aṅkolaṃ </snippet>
   </note>
 </notes>

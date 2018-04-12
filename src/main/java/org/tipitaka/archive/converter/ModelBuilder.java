@@ -21,24 +21,27 @@ import java.util.Set;
 import java.util.stream.Collectors;
 import org.tipitaka.archive.model.*;
 
+import org.tipitaka.archive.notes.Notes;
+import org.tipitaka.archive.notes.NotesLocator;
+
 import org.tipitaka.archive.StandardException;
 
 public class ModelBuilder {
-    interface Action<T> {
-        void act(T menu) throws IOException;
-    }
+  interface Action<T> {
+    void act(T menu) throws IOException;
+  }
 
-    static final String BASE_URL = "file:.";
+    private static final String BASE_URL = "file:.";
 
-    final DirectoryStructure directory;
-    final Map<String, Menu> menus;
+    private final DirectoryStructure directory;
+    private final Map<String, Menu> menus;
 
     public ModelBuilder() throws IOException, StandardException {
         this(TipitakaOrgTocVisitor.mirror());
     }
 
-    public ModelBuilder(TipitakaOrgTocVisitor visitor) throws IOException, StandardException {
-        this.directory = new DirectoryStructure(visitor);
+    public ModelBuilder(TipitakaOrgTocVisitor visitortocVisitor) throws IOException, StandardException {
+        this.directory = new DirectoryStructure(visitortocVisitor);
         this.menus = new HashMap<String, Menu>();
     }
 
@@ -81,13 +84,15 @@ public class ModelBuilder {
         }
     }
 
-    public Document buildDocument(Node node) {
-        if (node.normativePath() == null) {
-            return null;
-        }
-        else {
-            return new Document(node.path(), Script.roman, null, BASE_URL, node.titlePath(), node.normativePath(), "/roman" + node.path() + ".xml", Collections.emptyList(), buildMenus(node.parent));
-        }
+    public Document buildDocument(Node node) throws IOException {
+      if (node.normativePath() == null) {
+        return null;
+      }
+      else {
+        Notes notes = NotesLocator.toNotes(node.path());
+        if (!notes.getVersions().isEmpty()) System.out.println(node.normativePath() + " " + notes.getVersions());
+        return new Document(node.path(), Script.roman, null, BASE_URL, node.titlePath(), node.normativePath(), "/roman" + node.path() + ".xml", Collections.emptyList(), buildMenus(node.parent));
+      }
     }
 
     private List<Menu> buildMenus(Node node) {

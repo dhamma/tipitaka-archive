@@ -1,31 +1,26 @@
-<?xml version="1.0" encoding="utf-8"?>
 <notes archive-path="/mula/suttapitaka/samyuttanikaya/khandhavaggapali/13. jhanasamyuttam">
-  <note line="3" original="pāmokkho (syā. kaṃ.) evamuparipi" reference-line="3" id="0">
-    <extra> evamuparipi</extra>
-    <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">mokkho</alternative>
-      <alternative source-abbr="syā." source="thai">pāmokkho</alternative>
-      <alternative source-abbr="kaṃ." source="kaṃ.">pāmokkho</alternative>
-    </alternatives>
-    <type>auto</type>
+  <note reference-line="3" id="0">
+    <original>pāmokkho (syā. kaṃ.) evamuparipi</original>
+    <type>raw</type>
     <snippet>, bhikkhave, ekacco jhāyī samādhismiṃ samādhikusalo hoti, na samādhismiṃ samāpattikusalo. Idha pana, bhikkhave, ekacco jhāyī samādhismiṃ samāpattikusalo hoti, na samādhismiṃ samādhikusalo. Idha pana, bhikkhave, ekacco jhāyī neva samādhismiṃ samādhikusalo hoti, na ca samādhismiṃ samāpattikusalo. Idha pana, bhikkhave, ekacco jhāyī samādhismiṃ samādhikusalo ca hoti, samādhismiṃ samāpattikusalo ca. Tatra, bhikkhave, yvāyaṃ jhāyī samādhismiṃ samādhikusalo ca hoti samādhismiṃ samāpattikusalo ca ayaṃ imesaṃ catunnaṃ jhāyīnaṃ aggo ca seṭṭho ca mokkho </snippet>
-  </note>
-  <note line="13" original="samādhisaṃyuttaṃ (syā. kaṃ.)" reference-line="62" id="1">
-    <extra></extra>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">Jhānasaṃyuttaṃ</alternative>
-      <alternative source-abbr="syā." source="thai">samādhisaṃyuttaṃ</alternative>
-      <alternative source-abbr="kaṃ." source="kaṃ.">samādhisaṃyuttaṃ</alternative>
     </alternatives>
+  </note>
+  <note reference-line="62" id="1">
+    <original>samādhisaṃyuttaṃ (syā. kaṃ.)</original>
     <type>auto</type>
     <snippet>Jhānasaṃyuttaṃ </snippet>
-  </note>
-  <note line="23" original="okkanti (sabbattha)" reference-line="68" id="2">
-    <extra></extra>
+    <match>Jhānasaṃyuttaṃ</match>
     <alternatives>
-      <alternative source-abbr="sabbattha" source="sabbattha">okkanti</alternative>
+      <alternative source-abbr="syā." source="thai">samādhisaṃyuttaṃ</alternative>
+      <alternative source-abbr="kaṃ." source="kam">samādhisaṃyuttaṃ</alternative>
     </alternatives>
-    <type>no_match</type>
+  </note>
+  <note reference-line="68" id="2">
+    <original>okkanti (sabbattha)</original>
+    <type>raw</type>
     <snippet>Khandha rādhasaṃyuttañca, diṭṭhiokkanta </snippet>
+    <alternatives>
+    </alternatives>
   </note>
 </notes>

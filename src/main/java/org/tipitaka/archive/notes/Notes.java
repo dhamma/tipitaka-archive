@@ -8,6 +8,7 @@ import java.util.Map;
 
 import com.fasterxml.jackson.dataformat.xml.annotation.JacksonXmlProperty;
 import com.fasterxml.jackson.dataformat.xml.annotation.JacksonXmlText;
+import com.fasterxml.jackson.annotation.JsonIgnore;
 
 /**
  * Created by cmeier on 3/12/16.
@@ -18,8 +19,12 @@ public class Notes
   @JacksonXmlProperty(isAttribute = true, localName = "archive-path")
   public String archivePath;
 
-  Map<String, List<Note>> perLine = new LinkedHashMap<>();
-  List<Note> notes = new LinkedList<>();
+  @JsonIgnore
+  Map<Integer, List<Note>> perLine = new LinkedHashMap<>();
+
+  public List<Note> notes = new LinkedList<>();
+
+  @JsonIgnore
   Map<String, String> versions = new LinkedHashMap<>();
 
   @JacksonXmlProperty(localName = "note")
@@ -49,6 +54,10 @@ public class Notes
     return id < notes.size() ? notes.get(id): null;
   }
 
+  public boolean isEmpty() {
+    return this.notes.isEmpty();
+  }
+
   Note findNote(String referenceLine) {
     List<Note> notes = perLine.get(referenceLine);
     if (notes != null && notes.size() == 1) {
@@ -69,9 +78,9 @@ public class Notes
   public String toString() {
     final StringBuilder sb = new StringBuilder("Notes { ");
     sb.append("archivePath='").append(archivePath).append('\'');
-    sb.append("\n");
+    sb.append("\n  ");
     for (Note note : notes) {
-      sb.append(note).append("\n");
+      sb.append(note).append("\n  ");
     }
     sb.append('}');
     return sb.toString();

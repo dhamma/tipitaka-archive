@@ -1,22 +1,20 @@
-<?xml version="1.0" encoding="utf-8"?>
 <notes archive-path="/mula/suttapitaka/khuddakanikaya/buddhavamsapali/9. anomadassibuddhavamso">
-  <note line="3" original="sudassanuyyānamuttame (syā. kaṃ.)" reference-line="63" id="0">
-    <extra></extra>
-    <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">sudassane</alternative>
-      <alternative source-abbr="syā." source="thai">sudassanuyyānamuttame</alternative>
-      <alternative source-abbr="kaṃ." source="kaṃ.">sudassanuyyānamuttame</alternative>
-    </alternatives>
+  <note reference-line="63" id="0">
+    <original>sudassanuyyānamuttame (syā. kaṃ.)</original>
     <type>auto</type>
     <snippet>Vatti cakkaṃ mahāvīro, uyyāne so sudassane </snippet>
-  </note>
-  <note line="13" original="asoko ca (sī.)" reference-line="65" id="1">
-    <extra></extra>
+    <match>sudassane</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">anomo ca</alternative>
+      <alternative source-abbr="syā." source="thai">sudassanuyyānamuttame</alternative>
+      <alternative source-abbr="kaṃ." source="kam">sudassanuyyānamuttame</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="65" id="1">
+    <original>asoko ca (sī.)</original>
+    <type>no_match</type>
+    <snippet> Nisabho ca anomo ca </snippet>
+    <alternatives>
       <alternative source-abbr="sī." source="sri lanka">asoko ca</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> Nisabho ca anomo ca </snippet>
   </note>
 </notes>

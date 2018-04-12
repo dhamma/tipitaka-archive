@@ -1,19 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?>
 <notes archive-path="/mula/abhidhammapitaka/patthanapali-2/12. parittattikam">
-  <note line="3" original="paṭhamassa jhānassa (?)" reference-line="318" id="0">
-    <extra></extra>
+  <note reference-line="318" id="0">
+    <original>paṭhamassa jhānassa (?)</original>
+    <type>no_match</type>
+    <snippet> dhammo mahaggatassa dhammassa āsevanapaccayena paccayo – paṭhamassa jhānassa parikammaṃ tasseva </snippet>
     <alternatives>
       <alternative source-abbr="?" source="unknown">paṭhamassa jhānassa</alternative>
     </alternatives>
-    <type>no_match</type>
-    <snippet> dhammo mahaggatassa dhammassa āsevanapaccayena paccayo – paṭhamassa jhānassa parikammaṃ tasseva </snippet>
   </note>
-  <note line="11" original="nevasaññānāsaññāyatanassa (?) aññesu tikesu oloketabbaṃ" reference-line="318" id="1">
-    <extra> aññesu tikesu oloketabbaṃ</extra>
-    <alternatives>
-      <alternative source-abbr="?" source="unknown">nevasaññānāsaññāyatanassa</alternative>
-    </alternatives>
-    <type>no_match</type>
+  <note reference-line="318" id="1">
+    <original>nevasaññānāsaññāyatanassa (?) aññesu tikesu oloketabbaṃ</original>
+    <type>raw</type>
     <snippet> āsevanapaccayena paccayo…pe… nevasaññānāsaññāyatanassa parikammaṃ tasseva </snippet>
+    <alternatives>
+    </alternatives>
   </note>
 </notes>

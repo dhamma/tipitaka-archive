@@ -1,31 +1,29 @@
-<?xml version="1.0" encoding="utf-8"?>
 <notes archive-path="/mula/abhidhammapitaka/patthanapali-1/2. vedanattikam">
-  <note line="3" original="pharusaṃ bhaṇati, samphaṃ palapati (sī. syā.)" reference-line="204" id="0">
-    <extra></extra>
+  <note reference-line="204" id="0">
+    <original>pharusaṃ bhaṇati, samphaṃ palapati (sī. syā.)</original>
+    <type>no_match</type>
+    <snippet>, musā bhaṇati, pisuṇaṃ bhaṇati, samphaṃ palapati </snippet>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">pisuṇaṃ bhaṇati, samphaṃ palapati</alternative>
       <alternative source-abbr="sī." source="sri lanka">pharusaṃ bhaṇati, samphaṃ palapati</alternative>
       <alternative source-abbr="syā." source="thai">pharusaṃ bhaṇati, samphaṃ palapati</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet>, musā bhaṇati, pisuṇaṃ bhaṇati, samphaṃ palapati </snippet>
   </note>
-  <note line="13" original="nānākhaṇikā (ka.)" reference-line="222" id="1">
-    <extra></extra>
-    <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">nānākkhaṇikā</alternative>
-      <alternative source-abbr="ka." source="cambodian">nānākhaṇikā</alternative>
-    </alternatives>
+  <note reference-line="222" id="1">
+    <original>nānākhaṇikā (ka.)</original>
     <type>auto</type>
     <snippet> Sukhāya vedanāya sampayutto dhammo sukhāya vedanāya sampayuttassa dhammassa kammapaccayena paccayo – sahajātā, nānākkhaṇikā </snippet>
-  </note>
-  <note line="22" original="gahetabbaṃ (syā.)" reference-line="349" id="2">
-    <extra></extra>
+    <match>nānākkhaṇikā</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">gaṇetabbaṃ</alternative>
-      <alternative source-abbr="syā." source="thai">gahetabbaṃ</alternative>
+      <alternative source-abbr="ka." source="cambodian">nānākhaṇikā</alternative>
     </alternatives>
+  </note>
+  <note reference-line="349" id="2">
+    <original>gahetabbaṃ (syā.)</original>
     <type>auto</type>
     <snippet>(Yathā kusalattikassa paccanīyagaṇanā gaṇitā, evaṃ idampi asammuyhantena sabbaṃ mūlakaṃ gaṇetabbaṃ </snippet>
+    <match>gaṇetabbaṃ</match>
+    <alternatives>
+      <alternative source-abbr="syā." source="thai">gahetabbaṃ</alternative>
+    </alternatives>
   </note>
 </notes>

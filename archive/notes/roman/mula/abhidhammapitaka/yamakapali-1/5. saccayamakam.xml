@@ -1,124 +1,106 @@
-<?xml version="1.0" encoding="utf-8"?>
 <notes archive-path="/mula/abhidhammapitaka/yamakapali-1/5. saccayamakam">
-  <note line="3" original="avasesaṃ dukkhasaccaṃ dukkhasaccaṃ (syā.) evamuparipi" reference-line="136" id="0">
-    <extra> evamuparipi</extra>
-    <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">avasesaṃ dukkhasaccaṃ</alternative>
-      <alternative source-abbr="syā." source="thai">avasesaṃ dukkhasaccaṃ dukkhasaccaṃ</alternative>
-    </alternatives>
-    <type>auto</type>
+  <note reference-line="136" id="0">
+    <original>avasesaṃ dukkhasaccaṃ dukkhasaccaṃ (syā.) evamuparipi</original>
+    <type>raw</type>
     <snippet>Kāyikaṃ dukkhaṃ cetasikaṃ dukkhaṃ ṭhapetvā avasesaṃ dukkhasaccaṃ </snippet>
-  </note>
-  <note line="12" original="avasesaṃ dukkhasaccaṃ na dukkhaṃ (sī. syā. ka.) evaṃ avasesesu tīsu saccesu" reference-line="148" id="1">
-    <extra> evaṃ avasesesu tīsu saccesu</extra>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">avasesaṃ na dukkhaṃ</alternative>
-      <alternative source-abbr="sī." source="sri lanka">avasesaṃ dukkhasaccaṃ na dukkhaṃ</alternative>
-      <alternative source-abbr="syā." source="thai">avasesaṃ dukkhasaccaṃ na dukkhaṃ</alternative>
-      <alternative source-abbr="ka." source="cambodian">avasesaṃ dukkhasaccaṃ na dukkhaṃ</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet>Kāyikaṃ dukkhaṃ cetasikaṃ dukkhaṃ ṭhapetvā avasesaṃ na dukkhaṃ </snippet>
   </note>
-  <note line="23" original="avasesā saccā saccā (syā.)" reference-line="163" id="2">
-    <extra></extra>
+  <note reference-line="148" id="1">
+    <original>avasesaṃ dukkhasaccaṃ na dukkhaṃ (sī. syā. ka.) evaṃ avasesesu tīsu saccesu</original>
+    <type>raw</type>
+    <snippet>Kāyikaṃ dukkhaṃ cetasikaṃ dukkhaṃ ṭhapetvā avasesaṃ na dukkhaṃ </snippet>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">Avasesā saccā</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="163" id="2">
+    <original>avasesā saccā saccā (syā.)</original>
+    <type>no_match</type>
+    <snippet>Samudayasaccaṃ saccañceva samudayasaccañca. Avasesā saccā </snippet>
+    <alternatives>
       <alternative source-abbr="syā." source="thai">avasesā saccā saccā</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet>Samudayasaccaṃ saccañceva samudayasaccañca. Avasesā saccā </snippet>
   </note>
-  <note line="32" original="taṇhāvippayuttamaggavippayuttacittassa (sī.) evaṃ puggalokāsepi nirodhavārepi" reference-line="283" id="3">
-    <extra> evaṃ puggalokāsepi nirodhavārepi</extra>
-    <alternatives>
-      <alternative source-abbr="sī." source="sri lanka">taṇhāvippayuttamaggavippayuttacittassa</alternative>
-    </alternatives>
-    <type>no_match</type>
+  <note reference-line="283" id="3">
+    <original>taṇhāvippayuttamaggavippayuttacittassa (sī.) evaṃ puggalokāsepi nirodhavārepi</original>
+    <type>raw</type>
     <snippet>Taṇhāya uppādakkhaṇe tesaṃ maggasaccaṃ nuppajjati, no ca tesaṃ samudayasaccaṃ nuppajjati. Sabbesaṃ cittassa bhaṅgakkhaṇe maggavippayuttataṇhāvippayuttacittassa </snippet>
-  </note>
-  <note line="40" original="uppatticittassa (syā.)" reference-line="411" id="4">
-    <extra></extra>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">upapatticittassa</alternative>
-      <alternative source-abbr="syā." source="thai">uppatticittassa</alternative>
     </alternatives>
+  </note>
+  <note reference-line="411" id="4">
+    <original>uppatticittassa (syā.)</original>
     <type>auto</type>
     <snippet>Suddhāvāsānaṃ upapatticittassa </snippet>
-  </note>
-  <note line="49" original="paṭilabhissanti tassa cittassa uppādakkhaṇe ye (sī. syā.) puggalokāsavārepi" reference-line="462" id="5">
-    <extra> puggalokāsavārepi</extra>
+    <match>upapatticittassa</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">paṭilabhissanti ye</alternative>
-      <alternative source-abbr="sī." source="sri lanka">paṭilabhissanti tassa cittassa uppādakkhaṇe ye</alternative>
-      <alternative source-abbr="syā." source="thai">paṭilabhissanti tassa cittassa uppādakkhaṇe ye</alternative>
+      <alternative source-abbr="syā." source="thai">uppatticittassa</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet>Yassa cittassa anantarā aggamaggaṃ paṭilabhissanti ye </snippet>
   </note>
-  <note line="59" original="yassakampi yatthakampi (sī. syā.)" reference-line="585" id="6">
-    <extra></extra>
+  <note reference-line="462" id="5">
+    <original>paṭilabhissanti tassa cittassa uppādakkhaṇe ye (sī. syā.) puggalokāsavārepi</original>
+    <type>raw</type>
+    <snippet>Yassa cittassa anantarā aggamaggaṃ paṭilabhissanti ye </snippet>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">(Yassakampi</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="585" id="6">
+    <original>yassakampi yatthakampi (sī. syā.)</original>
+    <type>no_match</type>
+    <snippet>(Yassakampi </snippet>
+    <alternatives>
       <alternative source-abbr="sī." source="sri lanka">yassakampi yatthakampi</alternative>
       <alternative source-abbr="syā." source="thai">yassakampi yatthakampi</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet>(Yassakampi </snippet>
   </note>
-  <note line="69" original="paṭilabhissanti tassa cittassa uppādakkhaṇe (sī. syā.) uppādavāre pana pāṭhantaraṃ natthi" reference-line="593" id="7">
-    <extra> uppādavāre pana pāṭhantaraṃ natthi</extra>
-    <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">paṭilabhissanti</alternative>
-      <alternative source-abbr="sī." source="sri lanka">paṭilabhissanti tassa cittassa uppādakkhaṇe</alternative>
-      <alternative source-abbr="syā." source="thai">paṭilabhissanti tassa cittassa uppādakkhaṇe</alternative>
-    </alternatives>
-    <type>auto</type>
+  <note reference-line="593" id="7">
+    <original>paṭilabhissanti tassa cittassa uppādakkhaṇe (sī. syā.) uppādavāre pana pāṭhantaraṃ natthi</original>
+    <type>raw</type>
     <snippet>Aggamaggasamaṅgīnaṃ arahantānaṃ yassa cittassa anantarā aggamaggaṃ paṭilabhissanti </snippet>
-  </note>
-  <note line="79" original="vattamāne, nirodhasamāpannānaṃ asaññasattānaṃ (sī. syā.)" reference-line="727" id="8">
-    <extra></extra>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">vattamāne</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="727" id="8">
+    <original>vattamāne, nirodhasamāpannānaṃ asaññasattānaṃ (sī. syā.)</original>
+    <type>no_match</type>
+    <snippet>Ye puthujjanā maggaṃ na paṭilabhissanti tesaṃ taṇhāya bhaṅgakkhaṇe tesaṃ maggasaccaṃ na nirujjhissati, no ca tesaṃ samudayasaccaṃ na nirujjhati. Aggamaggassa bhaṅgakkhaṇe arahantānaṃ ye ca puthujjanā maggaṃ na paṭilabhissanti tesaṃ taṇhāya uppādakkhaṇe taṇhāvippayuttacitte vattamāne </snippet>
+    <alternatives>
       <alternative source-abbr="sī." source="sri lanka">vattamāne, nirodhasamāpannānaṃ asaññasattānaṃ</alternative>
       <alternative source-abbr="syā." source="thai">vattamāne, nirodhasamāpannānaṃ asaññasattānaṃ</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet>Ye puthujjanā maggaṃ na paṭilabhissanti tesaṃ taṇhāya bhaṅgakkhaṇe tesaṃ maggasaccaṃ na nirujjhissati, no ca tesaṃ samudayasaccaṃ na nirujjhati. Aggamaggassa bhaṅgakkhaṇe arahantānaṃ ye ca puthujjanā maggaṃ na paṭilabhissanti tesaṃ taṇhāya uppādakkhaṇe taṇhāvippayuttacitte vattamāne </snippet>
   </note>
-  <note line="89" original="paccuppannenātītā (syā.)" reference-line="864" id="9">
-    <extra></extra>
+  <note reference-line="864" id="9">
+    <original>paccuppannenātītā (syā.)</original>
+    <type>auto</type>
+    <snippet>(Paccuppannaatītā </snippet>
+    <match>(Paccuppannaatītā</match>
     <alternatives>
       <alternative source-abbr="syā." source="thai">paccuppannenātītā</alternative>
     </alternatives>
-    <type>no_match</type>
-    <snippet>(Paccuppannaatītā </snippet>
   </note>
-  <note line="97" original="apāyā asaññasattā (syā.)" reference-line="915" id="10">
-    <extra></extra>
+  <note reference-line="915" id="10">
+    <original>apāyā asaññasattā (syā.)</original>
+    <type>no_match</type>
+    <snippet> uppādakkhaṇe asaññasattā </snippet>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">asaññasattā</alternative>
       <alternative source-abbr="syā." source="thai">apāyā asaññasattā</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> uppādakkhaṇe asaññasattā </snippet>
   </note>
-  <note line="106" original="apāyaṃ asaññasattaṃ (syā.)" reference-line="917" id="11">
-    <extra></extra>
+  <note reference-line="917" id="11">
+    <original>apāyaṃ asaññasattaṃ (syā.)</original>
+    <type>no_match</type>
+    <snippet>Arahantānaṃ cittassa uppādakkhaṇe āpāyikānaṃ ye ca puthujjanā maggaṃ na paṭilabhissanti tesaṃ upapajjantānaṃ pavatte cittassa uppādakkhaṇe asaññasattaṃ </snippet>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">asaññasattaṃ</alternative>
       <alternative source-abbr="syā." source="thai">apāyaṃ asaññasattaṃ</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet>Arahantānaṃ cittassa uppādakkhaṇe āpāyikānaṃ ye ca puthujjanā maggaṃ na paṭilabhissanti tesaṃ upapajjantānaṃ pavatte cittassa uppādakkhaṇe asaññasattaṃ </snippet>
   </note>
-  <note line="115" original="atītenānāgatā (syā.)" reference-line="925" id="12">
-    <extra></extra>
-    <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">atītānāgatā</alternative>
-      <alternative source-abbr="syā." source="thai">atītenānāgatā</alternative>
-    </alternatives>
+  <note reference-line="925" id="12">
+    <original>atītenānāgatā (syā.)</original>
     <type>auto</type>
     <snippet>(Yathā nirodhavāre atītānāgatā </snippet>
+    <match>atītānāgatā</match>
+    <alternatives>
+      <alternative source-abbr="syā." source="thai">atītenānāgatā</alternative>
+    </alternatives>
   </note>
 </notes>

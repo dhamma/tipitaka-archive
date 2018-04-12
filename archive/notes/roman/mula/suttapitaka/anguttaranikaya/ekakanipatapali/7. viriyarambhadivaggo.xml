@@ -1,15 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?>
 <notes archive-path="/mula/suttapitaka/anguttaranikaya/ekakanipatapali/7. viriyarambhadivaggo">
-  <note line="3" original="viriyārambho (sī. syā. kaṃ. pī.)" reference-line="2" id="0">
-    <extra></extra>
-    <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">vīriyārambho</alternative>
-      <alternative source-abbr="sī." source="sri lanka">viriyārambho</alternative>
-      <alternative source-abbr="syā." source="thai">viriyārambho</alternative>
-      <alternative source-abbr="kaṃ." source="kaṃ.">viriyārambho</alternative>
-      <alternative source-abbr="pī." source="pali text society">viriyārambho</alternative>
-    </alternatives>
+  <note reference-line="2" id="0">
+    <original>viriyārambho (sī. syā. kaṃ. pī.)</original>
     <type>auto</type>
     <snippet>, bhikkhave, aññaṃ ekadhammampi samanupassāmi yena anuppannā vā kusalā dhammā uppajjanti uppannā vā akusalā dhammā parihāyanti yathayidaṃ, bhikkhave, vīriyārambho </snippet>
+    <match>vīriyārambho</match>
+    <alternatives>
+      <alternative source-abbr="sī." source="sri lanka">viriyārambho</alternative>
+      <alternative source-abbr="syā." source="thai">viriyārambho</alternative>
+      <alternative source-abbr="kaṃ." source="kam">viriyārambho</alternative>
+      <alternative source-abbr="pī." source="pali text society">viriyārambho</alternative>
+    </alternatives>
   </note>
 </notes>

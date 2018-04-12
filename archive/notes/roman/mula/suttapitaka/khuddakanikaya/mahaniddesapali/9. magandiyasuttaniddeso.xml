@@ -1,164 +1,159 @@
-<?xml version="1.0" encoding="utf-8"?>
 <notes archive-path="/mula/suttapitaka/khuddakanikaya/mahaniddesapali/9. magandiyasuttaniddeso">
-  <note line="3" original="māgandiyāti (sī. syā.)" reference-line="15" id="0">
-    <extra></extra>
+  <note reference-line="15" id="0">
+    <original>māgandiyāti (sī. syā.)</original>
+    <type>auto</type>
+    <snippet>Idaṃ vadāmīti na tassa hoti, [māgaṇḍiyāti</snippet>
+    <match>[māgaṇḍiyāti</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">[māgaṇḍiyāti</alternative>
       <alternative source-abbr="sī." source="sri lanka">māgandiyāti</alternative>
       <alternative source-abbr="syā." source="thai">māgandiyāti</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet>Idaṃ vadāmīti na tassa hoti, [māgaṇḍiyāti</snippet>
   </note>
-  <note line="13" original="paññāvantehi (sī. syā.)" reference-line="40" id="1">
-    <extra></extra>
+  <note reference-line="40" id="1">
+    <original>paññāvantehi (sī. syā.)</original>
+    <type>auto</type>
+    <snippet>ti dhīrehi paṇḍitehi paññavantehi </snippet>
+    <match>paññavantehi</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">paññavantehi</alternative>
       <alternative source-abbr="sī." source="sri lanka">paññāvantehi</alternative>
       <alternative source-abbr="syā." source="thai">paññāvantehi</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet>ti dhīrehi paṇḍitehi paññavantehi </snippet>
   </note>
-  <note line="23" original="sukaṭadukkaṭānaṃ (sī.)" reference-line="53" id="2">
-    <extra></extra>
-    <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">sukatadukkaṭānaṃ</alternative>
-      <alternative source-abbr="sī." source="sri lanka">sukaṭadukkaṭānaṃ</alternative>
-    </alternatives>
+  <note reference-line="53" id="2">
+    <original>sukaṭadukkaṭānaṃ (sī.)</original>
     <type>auto</type>
     <snippet>ti. Diṭṭhipi icchitabbā. Dasavatthukā sammādiṭṭhi – atthi dinnaṃ, atthi yiṭṭhaṃ, atthi hutaṃ, atthi sukatadukkaṭānaṃ </snippet>
-  </note>
-  <note line="32" original="samaggatā (ka.)" reference-line="53" id="3">
-    <extra></extra>
+    <match>sukatadukkaṭānaṃ</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">sammaggatā</alternative>
-      <alternative source-abbr="ka." source="cambodian">samaggatā</alternative>
+      <alternative source-abbr="sī." source="sri lanka">sukaṭadukkaṭānaṃ</alternative>
     </alternatives>
+  </note>
+  <note reference-line="53" id="3">
+    <original>samaggatā (ka.)</original>
     <type>auto</type>
     <snippet> kammānaṃ phalaṃ vipāko, atthi ayaṃ loko, atthi paro loko, atthi mātā, atthi pitā, atthi sattā opapātikā, atthi loke samaṇabrāhmaṇā sammaggatā </snippet>
-  </note>
-  <note line="41" original="kammassakataṃ ñāṇaṃ saccānulomikaṃ ñāṇaṃ (sī. ka.) ñāṇavibhaṅgepi" reference-line="53" id="4">
-    <extra> ñāṇavibhaṅgepi</extra>
+    <match>sammaggatā</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">kammassakatañāṇaṃ, saccānulomikañāṇaṃ</alternative>
-      <alternative source-abbr="sī." source="sri lanka">kammassakataṃ ñāṇaṃ saccānulomikaṃ ñāṇaṃ</alternative>
-      <alternative source-abbr="ka." source="cambodian">kammassakataṃ ñāṇaṃ saccānulomikaṃ ñāṇaṃ</alternative>
+      <alternative source-abbr="ka." source="cambodian">samaggatā</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> sammāpaṭipannā ye imañca lokaṃ parañca lokaṃ sayaṃ abhiññā sacchikatvā pavedentīti; savanampi icchitabbaṃ – parato ghoso, suttaṃ, geyyaṃ, veyyākaraṇaṃ, gāthā, udānaṃ, itivuttakaṃ, jātakaṃ, abbhutadhammaṃ, vedallaṃ; ñāṇampi icchitabbaṃ – kammassakatañāṇaṃ, saccānulomikañāṇaṃ </snippet>
   </note>
-  <note line="51" original="akammayatā (sī. ka.)" reference-line="55" id="5">
-    <extra></extra>
+  <note reference-line="53" id="4">
+    <original>kammassakataṃ ñāṇaṃ saccānulomikaṃ ñāṇaṃ (sī. ka.) ñāṇavibhaṅgepi</original>
+    <type>raw</type>
+    <snippet> sammāpaṭipannā ye imañca lokaṃ parañca lokaṃ sayaṃ abhiññā sacchikatvā pavedentīti; savanampi icchitabbaṃ – parato ghoso, suttaṃ, geyyaṃ, veyyākaraṇaṃ, gāthā, udānaṃ, itivuttakaṃ, jātakaṃ, abbhutadhammaṃ, vedallaṃ; ñāṇampi icchitabbaṃ – kammassakatañāṇaṃ, saccānulomikañāṇaṃ </snippet>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">atammayatā</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="55" id="5">
+    <original>akammayatā (sī. ka.)</original>
+    <type>auto</type>
+    <snippet>ti kaṇhapakkhikānaṃ dhammānaṃ samugghātato pahānaṃ icchitabbaṃ, tedhātukesu kusalesu dhammesu atammayatā </snippet>
+    <match>atammayatā</match>
+    <alternatives>
       <alternative source-abbr="sī." source="sri lanka">akammayatā</alternative>
       <alternative source-abbr="ka." source="cambodian">akammayatā</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet>ti kaṇhapakkhikānaṃ dhammānaṃ samugghātato pahānaṃ icchitabbaṃ, tedhātukesu kusalesu dhammesu atammayatā </snippet>
   </note>
-  <note line="61" original="diṭṭhīsu (sī. syā. ka.)" reference-line="81" id="6">
-    <extra></extra>
+  <note reference-line="81" id="6">
+    <original>diṭṭhīsu (sī. syā. ka.)</original>
+    <type>auto</type>
+    <snippet>Diṭṭhiñca</snippet>
+    <match>Diṭṭhiñca</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">Diṭṭhiñca</alternative>
       <alternative source-abbr="sī." source="sri lanka">diṭṭhīsu</alternative>
       <alternative source-abbr="syā." source="thai">diṭṭhīsu</alternative>
       <alternative source-abbr="ka." source="cambodian">diṭṭhīsu</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet>Diṭṭhiñca</snippet>
   </note>
-  <note line="72" original="samohamāgā (ka.)" reference-line="82" id="7">
-    <extra></extra>
-    <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">pamohamāgā</alternative>
-      <alternative source-abbr="ka." source="cambodian">samohamāgā</alternative>
-    </alternatives>
+  <note reference-line="82" id="7">
+    <original>samohamāgā (ka.)</original>
     <type>auto</type>
     <snippet>Samuggahītesu pamohamāgā</snippet>
-  </note>
-  <note line="81" original="sandhavāni (ka.)" reference-line="112" id="8">
-    <extra></extra>
+    <match>pamohamāgā</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">santhavāni</alternative>
-      <alternative source-abbr="ka." source="cambodian">sandhavāni</alternative>
+      <alternative source-abbr="ka." source="cambodian">samohamāgā</alternative>
     </alternatives>
+  </note>
+  <note reference-line="112" id="8">
+    <original>sandhavāni (ka.)</original>
     <type>auto</type>
     <snippet>pahāya aniketasārī, gāme akubbaṃ muni santhavāni</snippet>
-  </note>
-  <note line="90" original="haliddakānī (sī.)" reference-line="114" id="9">
-    <extra></extra>
+    <match>santhavāni</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">hāliddakāni</alternative>
-      <alternative source-abbr="sī." source="sri lanka">haliddakānī</alternative>
+      <alternative source-abbr="ka." source="cambodian">sandhavāni</alternative>
     </alternatives>
+  </note>
+  <note reference-line="114" id="9">
+    <original>haliddakānī (sī.)</original>
     <type>auto</type>
     <snippet> kho hāliddakāni </snippet>
-  </note>
-  <note line="99" original="rāgavinibaddhañca (sī.)" reference-line="118" id="10">
-    <extra></extra>
+    <match>hāliddakāni</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">rāgavinibandhañca</alternative>
-      <alternative source-abbr="sī." source="sri lanka">rāgavinibaddhañca</alternative>
+      <alternative source-abbr="sī." source="sri lanka">haliddakānī</alternative>
     </alternatives>
+  </note>
+  <note reference-line="118" id="10">
+    <original>rāgavinibaddhañca (sī.)</original>
     <type>auto</type>
     <snippet> rūpadhātu rāgavinibandhañca </snippet>
-  </note>
-  <note line="108" original="upayupādānā (ka.)" reference-line="119" id="11">
-    <extra></extra>
+    <match>rāgavinibandhañca</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">upāyupādānā</alternative>
+      <alternative source-abbr="sī." source="sri lanka">rāgavinibaddhañca</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="119" id="11">
+    <original>upayupādānā (ka.)</original>
+    <type>auto</type>
+    <snippet>‘‘Kathañca, gahapati, anokasārī hoti? Rūpadhātuyā kho, gahapati, yo chando yo rāgo yā nandī yā taṇhā ye upāyupādānā </snippet>
+    <match>upāyupādānā</match>
+    <alternatives>
       <alternative source-abbr="ka." source="cambodian">upayupādānā</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet>Kathañca, gahapati, anokasārī hoti? Rūpadhātuyā kho, gahapati, yo chando yo rāgo yā nandī yā taṇhā ye upāyupādānā </snippet>
   </note>
-  <note line="117" original="kaṇṭakaṃ vārijaṃ (sī.)" reference-line="138" id="12">
-    <extra></extra>
+  <note reference-line="138" id="12">
+    <original>kaṇṭakaṃ vārijaṃ (sī.)</original>
+    <type>no_match</type>
+    <snippet>Elambujaṃ kaṇḍakavārijaṃ</snippet>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">kaṇḍakavārijaṃ</alternative>
       <alternative source-abbr="sī." source="sri lanka">kaṇṭakaṃ vārijaṃ</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet>Elambujaṃ kaṇḍakavārijaṃ</snippet>
   </note>
-  <note line="126" original="anajjhāpanno (sī.), anajjhopanno (syā.)" reference-line="150" id="13">
-    <extra></extra>
+  <note reference-line="150" id="13">
+    <original>anajjhāpanno (sī.), anajjhopanno (syā.)</original>
+    <type>auto</type>
+    <snippet>… rūpadhātuyā… arūpadhātuyā… kāmabhave… rūpabhave… arūpabhave… saññābhave… asaññābhave… nevasaññānāsaññābhave… ekavokārabhave… catuvokārabhave… pañcavokārabhave… atīte… anāgate… paccuppanne… diṭṭha-suta-muta-viññātabbesu dhammesu agiddho agadhito amucchito anajjhosanno </snippet>
+    <match>anajjhosanno</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">anajjhosanno</alternative>
       <alternative source-abbr="sī." source="sri lanka">anajjhāpanno</alternative>
       <alternative source-abbr="syā." source="thai">anajjhopanno</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet>… rūpadhātuyā… arūpadhātuyā… kāmabhave… rūpabhave… arūpabhave… saññābhave… asaññābhave… nevasaññānāsaññābhave… ekavokārabhave… catuvokārabhave… pañcavokārabhave… atīte… anāgate… paccuppanne… diṭṭha-suta-muta-viññātabbesu dhammesu agiddho agadhito amucchito anajjhosanno </snippet>
   </note>
-  <note line="136" original="diṭṭhiyāyako (ka. aṭṭha.) su. ni. 852" reference-line="157" id="14">
-    <extra> su. ni. 852</extra>
-    <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">diṭṭhiyā</alternative>
-      <alternative source-abbr="ka." source="cambodian">diṭṭhiyāyako</alternative>
-      <alternative source-abbr="aṭṭha." source="aṭṭha.">diṭṭhiyāyako</alternative>
-    </alternatives>
-    <type>auto</type>
+  <note reference-line="157" id="14">
+    <original>diṭṭhiyāyako (ka. aṭṭha.) su. ni. 852</original>
+    <type>raw</type>
     <snippet>Na vedagū diṭṭhiyā</snippet>
-  </note>
-  <note line="146" original="ghaṭṭayantā (syā.) su. ni. 853" reference-line="172" id="15">
-    <extra> su. ni. 853</extra>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">ghaṭṭamānā</alternative>
-      <alternative source-abbr="syā." source="thai">ghaṭṭayantā</alternative>
     </alternatives>
+  </note>
+  <note reference-line="172" id="15">
+    <original>ghaṭṭayantā (syā.) su. ni. 853</original>
     <type>auto</type>
     <snippet>Saññañca diṭṭhiñca ye aggahesuṃ, te ghaṭṭamānā</snippet>
-  </note>
-  <note line="155" original="leṭṭūhipi (ka.)" reference-line="175" id="16">
-    <extra></extra>
+    <match>ghaṭṭamānā</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">leḍḍūhipi</alternative>
-      <alternative source-abbr="ka." source="cambodian">leṭṭūhipi</alternative>
+      <alternative source-abbr="syā." source="thai">ghaṭṭayantā</alternative>
     </alternatives>
+    <references>
+      <reference>su. ni. 853</reference>
+    </references>
+  </note>
+  <note reference-line="175" id="16">
+    <original>leṭṭūhipi (ka.)</original>
     <type>auto</type>
     <snippet>. Te tattha kalahaviggahavivādamāpannā aññamaññaṃ pāṇīhipi upakkamanti, leḍḍūhipi </snippet>
+    <match>leḍḍūhipi</match>
+    <alternatives>
+      <alternative source-abbr="ka." source="cambodian">leṭṭūhipi</alternative>
+    </alternatives>
   </note>
 </notes>

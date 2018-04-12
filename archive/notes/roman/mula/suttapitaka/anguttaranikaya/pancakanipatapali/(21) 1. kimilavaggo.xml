@@ -1,98 +1,115 @@
-<?xml version="1.0" encoding="utf-8"?>
 <notes archive-path="/mula/suttapitaka/anguttaranikaya/pancakanipatapali/(21) 1. kimilavaggo">
-  <note line="3" original="kimbilāyaṃ (sī. pī.) a. ni. 6.40; 7.59" reference-line="3" id="0">
-    <extra> a. ni. 6.40; 7.59</extra>
-    <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">kimilāyaṃ</alternative>
-      <alternative source-abbr="sī." source="sri lanka">kimbilāyaṃ</alternative>
-      <alternative source-abbr="pī." source="pali text society">kimbilāyaṃ</alternative>
-    </alternatives>
-    <type>auto</type>
+  <note reference-line="3" id="0">
+    <original>kimbilāyaṃ (sī. pī.) a. ni. 6.40; 7.59</original>
+    <type>raw</type>
     <snippet> samayaṃ bhagavā kimilāyaṃ </snippet>
-  </note>
-  <note line="13" original="kimbilo (sī. syā. kaṃ. pī.)" reference-line="3" id="1">
-    <extra></extra>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">kimilo</alternative>
-      <alternative source-abbr="sī." source="sri lanka">kimbilo</alternative>
-      <alternative source-abbr="syā." source="thai">kimbilo</alternative>
-      <alternative source-abbr="kaṃ." source="kaṃ.">kimbilo</alternative>
-      <alternative source-abbr="pī." source="pali text society">kimbilo</alternative>
     </alternatives>
+  </note>
+  <note reference-line="3" id="1">
+    <original>kimbilo (sī. syā. kaṃ. pī.)</original>
     <type>auto</type>
     <snippet> viharati veḷuvane. Atha kho āyasmā kimilo </snippet>
-  </note>
-  <note line="25" original="vihanati (syā. kaṃ. pī. ka.)" reference-line="6" id="2">
-    <extra></extra>
+    <match>kimilo</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">vitarati</alternative>
+      <alternative source-abbr="sī." source="sri lanka">kimbilo</alternative>
+      <alternative source-abbr="syā." source="thai">kimbilo</alternative>
+      <alternative source-abbr="kaṃ." source="kam">kimbilo</alternative>
+      <alternative source-abbr="pī." source="pali text society">kimbilo</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="6" id="2">
+    <original>vihanati (syā. kaṃ. pī. ka.)</original>
+    <type>auto</type>
+    <snippet>, sutaṃ pariyodāpeti, kaṅkhaṃ vitarati </snippet>
+    <match>vitarati</match>
+    <alternatives>
       <alternative source-abbr="syā." source="thai">vihanati</alternative>
-      <alternative source-abbr="kaṃ." source="kaṃ.">vihanati</alternative>
+      <alternative source-abbr="kaṃ." source="kam">vihanati</alternative>
       <alternative source-abbr="pī." source="pali text society">vihanati</alternative>
       <alternative source-abbr="ka." source="cambodian">vihanati</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet>, sutaṃ pariyodāpeti, kaṅkhaṃ vitarati </snippet>
   </note>
-  <note line="37" original="bhaddo (pī.)" reference-line="8" id="3">
-    <extra></extra>
-    <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">bhadro</alternative>
-      <alternative source-abbr="pī." source="pali text society">bhaddo</alternative>
-    </alternatives>
+  <note reference-line="8" id="3">
+    <original>bhaddo (pī.)</original>
     <type>auto</type>
     <snippet>, bhikkhave, aṅgehi samannāgato rañño bhadro </snippet>
-  </note>
-  <note line="46" original="a. ni. 9.71; ma. ni. 1.185; dī. ni. 3.319" reference-line="14" id="4">
-    <type>raw</type>
-  </note>
-  <note line="49" original="a. ni. 9.72; dī. ni. 3.320" reference-line="17" id="5">
-    <type>raw</type>
-  </note>
-  <note line="52" original="cetovinibaddhā (sāratthadīpanīṭīkāyaṃ)" reference-line="17" id="6">
-    <extra></extra>
+    <match>bhadro</match>
     <alternatives>
-      <alternative source-abbr="sāratthadīpanīṭīkāyaṃ" source="sāratthadīpanīṭīkāyaṃ">cetovinibaddhā</alternative>
+      <alternative source-abbr="pī." source="pali text society">bhaddo</alternative>
     </alternatives>
+  </note>
+  <note reference-line="14" id="4">
+    <original>a. ni. 9.71; ma. ni. 1.185; dī. ni. 3.319</original>
     <type>no_match</type>
-    <snippet> Pañcime, bhikkhave, cetasovinibandhā </snippet>
-  </note>
-  <note line="60" original="avigatarāgo (ka.)" reference-line="17" id="7">
-    <extra></extra>
+    <snippet>.</snippet>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">avītarāgo</alternative>
-      <alternative source-abbr="ka." source="cambodian">avigatarāgo</alternative>
     </alternatives>
+    <references>
+      <reference>a. ni. 9.71</reference>
+      <reference>ma. ni. 1.185</reference>
+      <reference>dī. ni. 3.319</reference>
+    </references>
+  </note>
+  <note reference-line="17" id="5">
+    <original>a. ni. 9.72; dī. ni. 3.320</original>
+    <type>no_match</type>
+    <snippet>.</snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>a. ni. 9.72</reference>
+      <reference>dī. ni. 3.320</reference>
+    </references>
+  </note>
+  <note reference-line="17" id="6">
+    <original>cetovinibaddhā (sāratthadīpanīṭīkāyaṃ)</original>
+    <type>raw</type>
+    <snippet> ‘‘Pañcime, bhikkhave, cetasovinibandhā </snippet>
+    <alternatives>
+    </alternatives>
+  </note>
+  <note reference-line="17" id="7">
+    <original>avigatarāgo (ka.)</original>
     <type>auto</type>
     <snippet>. Katame pañca? Idha, bhikkhave, bhikkhu kāmesu avītarāgo </snippet>
-  </note>
-  <note line="69" original="khudaṃ (sī. pī.) khudhāti sakkatānulomaṃ. mahāva. 282" reference-line="20" id="8">
-    <extra> khudhāti sakkatānulomaṃ. mahāva. 282</extra>
+    <match>avītarāgo</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">Khuddaṃ</alternative>
-      <alternative source-abbr="sī." source="sri lanka">khudaṃ</alternative>
-      <alternative source-abbr="pī." source="pali text society">khudaṃ</alternative>
+      <alternative source-abbr="ka." source="cambodian">avigatarāgo</alternative>
     </alternatives>
-    <type>auto</type>
+  </note>
+  <note reference-line="20" id="8">
+    <original>khudaṃ (sī. pī.) khudhāti sakkatānulomaṃ. mahāva. 282</original>
+    <type>raw</type>
     <snippet>, bhikkhave, ānisaṃsā yāguyā. Katame pañca? Khuddaṃ </snippet>
-  </note>
-  <note line="79" original="pariyonaddhanti (sī. pī.), pariyonaddhati (syā. kaṃ. ka.) cūḷava. 282 passitabbaṃ" reference-line="22" id="9">
-    <extra> cūḷava. 282 passitabbaṃ</extra>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">pariyonandhati</alternative>
-      <alternative source-abbr="sī." source="sri lanka">pariyonaddhanti</alternative>
-      <alternative source-abbr="pī." source="pali text society">pariyonaddhanti</alternative>
-      <alternative source-abbr="syā." source="thai">pariyonaddhati</alternative>
-      <alternative source-abbr="kaṃ." source="kaṃ.">pariyonaddhati</alternative>
-      <alternative source-abbr="ka." source="cambodian">pariyonaddhati</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> Pañcime, bhikkhave, ādīnavā dantakaṭṭhassa akhādane. Katame pañca? Acakkhussaṃ, mukhaṃ duggandhaṃ hoti, rasaharaṇiyo na visujjhanti, pittaṃ semhaṃ bhattaṃ pariyonandhati </snippet>
   </note>
-  <note line="92" original="cūḷava. 249" reference-line="25" id="10">
+  <note reference-line="22" id="9">
+    <original>pariyonaddhanti (sī. pī.), pariyonaddhati (syā. kaṃ. ka.) cūḷava. 282 passitabbaṃ</original>
     <type>raw</type>
+    <snippet> ‘‘Pañcime, bhikkhave, ādīnavā dantakaṭṭhassa akhādane. Katame pañca? Acakkhussaṃ, mukhaṃ duggandhaṃ hoti, rasaharaṇiyo na visujjhanti, pittaṃ semhaṃ bhattaṃ pariyonandhati </snippet>
+    <alternatives>
+    </alternatives>
   </note>
-  <note line="95" original="mahāva. 353" reference-line="27" id="11">
-    <type>raw</type>
+  <note reference-line="25" id="10">
+    <original>cūḷava. 249</original>
+    <type>no_match</type>
+    <snippet>.</snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>cūḷava. 249</reference>
+    </references>
+  </note>
+  <note reference-line="27" id="11">
+    <original>mahāva. 353</original>
+    <type>no_match</type>
+    <snippet>.</snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>mahāva. 353</reference>
+    </references>
   </note>
 </notes>

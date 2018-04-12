@@ -1,20 +1,19 @@
-<?xml version="1.0" encoding="utf-8"?>
 <notes archive-path="/mula/suttapitaka/khuddakanikaya/buddhavamsapali/4. kondannabuddhavamso">
-  <note line="3" original="cajitvā (sī.)" reference-line="69" id="0">
-    <extra></extra>
+  <note reference-line="69" id="0">
+    <original>cajitvā (sī.)</original>
+    <type>auto</type>
+    <snippet>Mahārajjaṃ daditvāna </snippet>
+    <match>daditvāna</match>
     <alternatives>
       <alternative source-abbr="sī." source="sri lanka">cajitvā</alternative>
     </alternatives>
-    <type>no_match</type>
-    <snippet>Mahārajjaṃ daditvāna </snippet>
   </note>
-  <note line="11" original="agāramajjhe ca so vasi (syā.)" reference-line="80" id="1">
-    <extra></extra>
+  <note reference-line="80" id="1">
+    <original>agāramajjhe ca so vasi (syā.)</original>
+    <type>no_match</type>
+    <snippet> Dasavassasahassāni, agāraṃ ajjha so vasi </snippet>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">agāraṃ ajjha so vasi</alternative>
       <alternative source-abbr="syā." source="thai">agāramajjhe ca so vasi</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> Dasavassasahassāni, agāraṃ ajjha so vasi </snippet>
   </note>
 </notes>

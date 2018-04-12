@@ -1,79 +1,85 @@
-<?xml version="1.0" encoding="utf-8"?>
 <notes archive-path="/mula/suttapitaka/anguttaranikaya/catukkanipatapali/(16) 1. indriyavaggo">
-  <note line="3" original="saṅgāhabalaṃ (sī. syā. kaṃ. pī.)" reference-line="7" id="0">
-    <extra></extra>
-    <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">saṅgahabalaṃ</alternative>
-      <alternative source-abbr="sī." source="sri lanka">saṅgāhabalaṃ</alternative>
-      <alternative source-abbr="syā." source="thai">saṅgāhabalaṃ</alternative>
-      <alternative source-abbr="kaṃ." source="kaṃ.">saṅgāhabalaṃ</alternative>
-      <alternative source-abbr="pī." source="pali text society">saṅgāhabalaṃ</alternative>
-    </alternatives>
+  <note reference-line="7" id="0">
+    <original>saṅgāhabalaṃ (sī. syā. kaṃ. pī.)</original>
     <type>auto</type>
     <snippet>, bhikkhave, balāni. Katamāni cattāri? Paññābalaṃ, vīriyabalaṃ, anavajjabalaṃ, saṅgahabalaṃ </snippet>
-  </note>
-  <note line="15" original="dullabhā (sī. syā. kaṃ. pī.)" reference-line="18" id="1">
-    <extra></extra>
+    <match>saṅgahabalaṃ</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">sudullabhā</alternative>
-      <alternative source-abbr="sī." source="sri lanka">dullabhā</alternative>
-      <alternative source-abbr="syā." source="thai">dullabhā</alternative>
-      <alternative source-abbr="kaṃ." source="kaṃ.">dullabhā</alternative>
-      <alternative source-abbr="pī." source="pali text society">dullabhā</alternative>
+      <alternative source-abbr="sī." source="sri lanka">saṅgāhabalaṃ</alternative>
+      <alternative source-abbr="syā." source="thai">saṅgāhabalaṃ</alternative>
+      <alternative source-abbr="kaṃ." source="kam">saṅgāhabalaṃ</alternative>
+      <alternative source-abbr="pī." source="pali text society">saṅgāhabalaṃ</alternative>
     </alternatives>
+  </note>
+  <note reference-line="18" id="1">
+    <original>dullabhā (sī. syā. kaṃ. pī.)</original>
     <type>auto</type>
     <snippet>. Te, bhikkhave, sattā sudullabhā </snippet>
-  </note>
-  <note line="27" original="rāgavepullataṃ (sī. syā. kaṃ. pī.)" reference-line="23" id="2">
-    <extra></extra>
+    <match>sudullabhā</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">Rāgavepullattaṃ</alternative>
+      <alternative source-abbr="sī." source="sri lanka">dullabhā</alternative>
+      <alternative source-abbr="syā." source="thai">dullabhā</alternative>
+      <alternative source-abbr="kaṃ." source="kam">dullabhā</alternative>
+      <alternative source-abbr="pī." source="pali text society">dullabhā</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="23" id="2">
+    <original>rāgavepullataṃ (sī. syā. kaṃ. pī.)</original>
+    <type>auto</type>
+    <snippet>‘‘Yo hi koci, āvuso, bhikkhu vā bhikkhunī vā cattāro dhamme attani samanupassati, niṭṭhamettha gantabbaṃ – ‘parihāyāmi kusalehi dhammehi’. Parihānametaṃ vuttaṃ bhagavatā. Katame cattāro? Rāgavepullattaṃ </snippet>
+    <match>Rāgavepullattaṃ</match>
+    <alternatives>
       <alternative source-abbr="sī." source="sri lanka">rāgavepullataṃ</alternative>
       <alternative source-abbr="syā." source="thai">rāgavepullataṃ</alternative>
-      <alternative source-abbr="kaṃ." source="kaṃ.">rāgavepullataṃ</alternative>
+      <alternative source-abbr="kaṃ." source="kam">rāgavepullataṃ</alternative>
       <alternative source-abbr="pī." source="pali text society">rāgavepullataṃ</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet>Yo hi koci, āvuso, bhikkhu vā bhikkhunī vā cattāro dhamme attani samanupassati, niṭṭhamettha gantabbaṃ – ‘parihāyāmi kusalehi dhammehi’. Parihānametaṃ vuttaṃ bhagavatā. Katame cattāro? Rāgavepullattaṃ </snippet>
   </note>
-  <note line="39" original="rāgatanuttanaṃ (ka.)" reference-line="24" id="3">
-    <extra></extra>
+  <note reference-line="24" id="3">
+    <original>rāgatanuttanaṃ (ka.)</original>
+    <type>auto</type>
+    <snippet>‘‘Yo hi koci, āvuso, bhikkhu vā bhikkhunī vā cattāro dhamme attani samanupassati, niṭṭhamettha gantabbaṃ – ‘na parihāyāmi kusalehi dhammehi’. Aparihānametaṃ vuttaṃ bhagavatā. Katame cattāro? Rāgatanuttaṃ </snippet>
+    <match>Rāgatanuttaṃ</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">Rāgatanuttaṃ</alternative>
       <alternative source-abbr="ka." source="cambodian">rāgatanuttanaṃ</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet>Yo hi koci, āvuso, bhikkhu vā bhikkhunī vā cattāro dhamme attani samanupassati, niṭṭhamettha gantabbaṃ – ‘na parihāyāmi kusalehi dhammehi’. Aparihānametaṃ vuttaṃ bhagavatā. Katame cattāro? Rāgatanuttaṃ </snippet>
   </note>
-  <note line="48" original="kimaṅga (sī. pī.) a. ni. 5.180; cūḷava. 331; saṃ. ni. 5.1020" reference-line="32" id="4">
-    <extra> a. ni. 5.180; cūḷava. 331; saṃ. ni. 5.1020</extra>
+  <note reference-line="32" id="4">
+    <original>kimaṅga (sī. pī.) a. ni. 5.180; cūḷava. 331; saṃ. ni. 5.1020</original>
+    <type>auto</type>
+    <snippet> ayaṃ, bhagini, kāyo mānaṃ nissāya. Māno pahātabbo’ti, iti kho panetaṃ vuttaṃ. Kiñcetaṃ paṭicca vuttaṃ? Idha, bhagini, bhikkhu suṇāti – ‘itthannāmo kira bhikkhu āsavānaṃ khayā anāsavaṃ cetovimuttiṃ paññāvimuttiṃ diṭṭheva dhamme sayaṃ abhiññā sacchikatvā upasampajja viharatī’ti. Tassa evaṃ hoti – ‘so hi nāma āyasmā āsavānaṃ khayā anāsavaṃ cetovimuttiṃ paññāvimuttiṃ diṭṭheva dhamme sayaṃ abhiññā sacchikatvā upasampajja viharissati; kimaṅgaṃ </snippet>
+    <match>kimaṅgaṃ</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">kimaṅgaṃ</alternative>
       <alternative source-abbr="sī." source="sri lanka">kimaṅga</alternative>
       <alternative source-abbr="pī." source="pali text society">kimaṅga</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> ayaṃ, bhagini, kāyo mānaṃ nissāya. Māno pahātabbo’ti, iti kho panetaṃ vuttaṃ. Kiñcetaṃ paṭicca vuttaṃ? Idha, bhagini, bhikkhu suṇāti – ‘itthannāmo kira bhikkhu āsavānaṃ khayā anāsavaṃ cetovimuttiṃ paññāvimuttiṃ diṭṭheva dhamme sayaṃ abhiññā sacchikatvā upasampajja viharatī’ti. Tassa evaṃ hoti – ‘so hi nāma āyasmā āsavānaṃ khayā anāsavaṃ cetovimuttiṃ paññāvimuttiṃ diṭṭheva dhamme sayaṃ abhiññā sacchikatvā upasampajja viharissati; kimaṅgaṃ </snippet>
+    <references>
+      <reference>a. ni. 5.180</reference>
+      <reference>cūḷava. 331</reference>
+      <reference>saṃ. ni. 5.1020</reference>
+    </references>
   </note>
-  <note line="58" original="taggha tvaṃ (sī. pī. ka.)" reference-line="34" id="5">
-    <extra></extra>
+  <note reference-line="34" id="5">
+    <original>taggha tvaṃ (sī. pī. ka.)</original>
+    <type>no_match</type>
+    <snippet> saṃvarāyā’’ti. ‘‘Taggha taṃ </snippet>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">Taggha taṃ</alternative>
       <alternative source-abbr="sī." source="sri lanka">taggha tvaṃ</alternative>
       <alternative source-abbr="pī." source="pali text society">taggha tvaṃ</alternative>
       <alternative source-abbr="ka." source="cambodian">taggha tvaṃ</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> saṃvarāyā’’ti. Taggha taṃ </snippet>
   </note>
-  <note line="69" original="acchinnamūlako (syā. kaṃ.) a. ni. 5.156" reference-line="45" id="6">
-    <extra> a. ni. 5.156</extra>
-    <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">nacchinnamūlako</alternative>
-      <alternative source-abbr="syā." source="thai">acchinnamūlako</alternative>
-      <alternative source-abbr="kaṃ." source="kaṃ.">acchinnamūlako</alternative>
-    </alternatives>
+  <note reference-line="45" id="6">
+    <original>acchinnamūlako (syā. kaṃ.) a. ni. 5.156</original>
     <type>auto</type>
-    <snippet>Puna caparaṃ, bhikkhave, ye te bhikkhū bahussutā āgatāgamā dhammadharā vinayadharā mātikādharā, te sakkaccaṃ suttantaṃ paraṃ vācenti. Tesaṃ accayena nacchinnamūlako </snippet>
+    <snippet>‘‘Puna caparaṃ, bhikkhave, ye te bhikkhū bahussutā āgatāgamā dhammadharā vinayadharā mātikādharā, te sakkaccaṃ suttantaṃ paraṃ vācenti. Tesaṃ accayena nacchinnamūlako </snippet>
+    <match>nacchinnamūlako</match>
+    <alternatives>
+      <alternative source-abbr="syā." source="thai">acchinnamūlako</alternative>
+      <alternative source-abbr="kaṃ." source="kam">acchinnamūlako</alternative>
+    </alternatives>
+    <references>
+      <reference>a. ni. 5.156</reference>
+    </references>
   </note>
 </notes>

@@ -1,86 +1,84 @@
-<?xml version="1.0" encoding="utf-8"?>
 <notes archive-path="/mula/suttapitaka/anguttaranikaya/dukanipatapali/1. kammakaranavaggo">
-  <note line="3" original="vividhāni kammakaraṇāni (ka.)" reference-line="8" id="0">
-    <extra></extra>
+  <note reference-line="8" id="0">
+    <original>vividhāni kammakaraṇāni (ka.)</original>
+    <type>no_match</type>
+    <snippet>. Katamañca, bhikkhave, diṭṭhadhammikaṃ vajjaṃ? Idha, bhikkhave, ekacco passati coraṃ āgucāriṃ rājāno gahetvā vividhā kammakāraṇā </snippet>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">vividhā kammakāraṇā</alternative>
       <alternative source-abbr="ka." source="cambodian">vividhāni kammakaraṇāni</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet>. Katamañca, bhikkhave, diṭṭhadhammikaṃ vajjaṃ? Idha, bhikkhave, ekacco passati coraṃ āgucāriṃ rājāno gahetvā vividhā kammakāraṇā </snippet>
   </note>
-  <note line="12" original="khārāpaṭicchakampi (syā. kaṃ. ka.)" reference-line="8" id="1">
-    <extra></extra>
-    <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">khārāpatacchikampi</alternative>
-      <alternative source-abbr="syā." source="thai">khārāpaṭicchakampi</alternative>
-      <alternative source-abbr="kaṃ." source="kaṃ.">khārāpaṭicchakampi</alternative>
-      <alternative source-abbr="ka." source="cambodian">khārāpaṭicchakampi</alternative>
-    </alternatives>
+  <note reference-line="8" id="1">
+    <original>khārāpaṭicchakampi (syā. kaṃ. ka.)</original>
     <type>auto</type>
     <snippet> karonte, eṇeyyakampi karonte, baḷisamaṃsikampi karonte, kahāpaṇikampi karonte, khārāpatacchikampi </snippet>
-  </note>
-  <note line="23" original="palālapiṭṭhikampi (sī.)" reference-line="8" id="2">
-    <extra></extra>
+    <match>khārāpatacchikampi</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">palālapīṭhakampi</alternative>
-      <alternative source-abbr="sī." source="sri lanka">palālapiṭṭhikampi</alternative>
+      <alternative source-abbr="syā." source="thai">khārāpaṭicchakampi</alternative>
+      <alternative source-abbr="kaṃ." source="kam">khārāpaṭicchakampi</alternative>
+      <alternative source-abbr="ka." source="cambodian">khārāpaṭicchakampi</alternative>
     </alternatives>
+  </note>
+  <note reference-line="8" id="2">
+    <original>palālapiṭṭhikampi (sī.)</original>
     <type>auto</type>
     <snippet> karonte, palighaparivattikampi karonte, palālapīṭhakampi </snippet>
-  </note>
-  <note line="32" original="ahañce (?)" reference-line="9" id="3">
-    <extra></extra>
+    <match>palālapīṭhakampi</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">Ahañceva</alternative>
-      <alternative source-abbr="?" source="unknown">ahañce</alternative>
+      <alternative source-abbr="sī." source="sri lanka">palālapiṭṭhikampi</alternative>
     </alternatives>
+  </note>
+  <note reference-line="9" id="3">
+    <original>ahañce (?)</original>
     <type>auto</type>
     <snippet> hoti – ‘yathārūpānaṃ kho pāpakānaṃ kammānaṃ hetu coraṃ āgucāriṃ rājāno gahetvā vividhā kammakāraṇā kārenti; kasāhipi tāḷenti, vettehipi tāḷenti, addhadaṇḍakehipi tāḷenti, hatthampi chindanti, pādampi chindanti, hatthapādampi chindanti, kaṇṇampi chindanti, nāsampi chindanti, kaṇṇanāsampi chindanti, bilaṅgathālikampi karonti, saṅkhamuṇḍikampi karonti, rāhumukhampi karonti, jotimālikampi karonti, hatthapajjotikampi karonti, erakavattikampi karonti, cīrakavāsikampi karonti, eṇeyyakampi karonti, baḷisamaṃsikampi karonti, kahāpaṇikampi karonti, khārāpatacchikampi karonti, palighaparivattikampi karonti, palālapīṭhakampi karonti, tattenapi telena osiñcanti, sunakhehipi khādāpenti, jīvantampi sūle uttāsenti, asināpi sīsaṃ chindanti. Ahañceva </snippet>
-  </note>
-  <note line="41" original="nahāru (sī. syā. kaṃ. pī.)" reference-line="19" id="4">
-    <extra></extra>
+    <match>Ahañceva</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">nhāru</alternative>
-      <alternative source-abbr="sī." source="sri lanka">nahāru</alternative>
-      <alternative source-abbr="syā." source="thai">nahāru</alternative>
-      <alternative source-abbr="kaṃ." source="kaṃ.">nahāru</alternative>
-      <alternative source-abbr="pī." source="pali text society">nahāru</alternative>
+      <alternative source-abbr="?" source="unknown">ahañce</alternative>
     </alternatives>
+  </note>
+  <note reference-line="19" id="4">
+    <original>nahāru (sī. syā. kaṃ. pī.)</original>
     <type>auto</type>
     <snippet>, bhikkhave, dhammānaṃ upaññāsiṃ – yā ca asantuṭṭhitā kusalesu dhammesu, yā ca appaṭivānitā padhānasmiṃ. Appaṭivānī sudāhaṃ, bhikkhave, padahāmi – ‘kāmaṃ taco ca nhāru </snippet>
-  </note>
-  <note line="53" original="hiri (sī. syā. kaṃ. pī.)" reference-line="26" id="5">
-    <extra></extra>
+    <match>nhāru</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">Hirī</alternative>
+      <alternative source-abbr="sī." source="sri lanka">nahāru</alternative>
+      <alternative source-abbr="syā." source="thai">nahāru</alternative>
+      <alternative source-abbr="kaṃ." source="kam">nahāru</alternative>
+      <alternative source-abbr="pī." source="pali text society">nahāru</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="26" id="5">
+    <original>hiri (sī. syā. kaṃ. pī.)</original>
+    <type>auto</type>
+    <snippet> ‘‘Dveme, bhikkhave, dhammā sukkā. Katame dve? Hirī </snippet>
+    <match>Hirī</match>
+    <alternatives>
       <alternative source-abbr="sī." source="sri lanka">hiri</alternative>
       <alternative source-abbr="syā." source="thai">hiri</alternative>
-      <alternative source-abbr="kaṃ." source="kaṃ.">hiri</alternative>
+      <alternative source-abbr="kaṃ." source="kam">hiri</alternative>
       <alternative source-abbr="pī." source="pali text society">hiri</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> Dveme, bhikkhave, dhammā sukkā. Katame dve? Hirī </snippet>
   </note>
-  <note line="65" original="soṇasigālā (sī. syā. kaṃ. pī.)" reference-line="28" id="6">
-    <extra></extra>
-    <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">soṇasiṅgālā</alternative>
-      <alternative source-abbr="sī." source="sri lanka">soṇasigālā</alternative>
-      <alternative source-abbr="syā." source="thai">soṇasigālā</alternative>
-      <alternative source-abbr="kaṃ." source="kaṃ.">soṇasigālā</alternative>
-      <alternative source-abbr="pī." source="pali text society">soṇasigālā</alternative>
-    </alternatives>
+  <note reference-line="28" id="6">
+    <original>soṇasigālā (sī. syā. kaṃ. pī.)</original>
     <type>auto</type>
     <snippet> vā mātulānīti vā ācariyabhariyāti vā garūnaṃ dārāti vā. Sambhedaṃ loko agamissa, yathā ajeḷakā kukkuṭasūkarā soṇasiṅgālā </snippet>
-  </note>
-  <note line="77" original="paññāyanti (sī.)" reference-line="28" id="7">
-    <extra></extra>
+    <match>soṇasiṅgālā</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">paññāyati</alternative>
-      <alternative source-abbr="sī." source="sri lanka">paññāyanti</alternative>
+      <alternative source-abbr="sī." source="sri lanka">soṇasigālā</alternative>
+      <alternative source-abbr="syā." source="thai">soṇasigālā</alternative>
+      <alternative source-abbr="kaṃ." source="kam">soṇasigālā</alternative>
+      <alternative source-abbr="pī." source="pali text society">soṇasigālā</alternative>
     </alternatives>
+  </note>
+  <note reference-line="28" id="7">
+    <original>paññāyanti (sī.)</original>
     <type>auto</type>
     <snippet>. Yasmā ca kho, bhikkhave, ime dve sukkā dhammā lokaṃ pālenti tasmā paññāyati </snippet>
+    <match>paññāyati</match>
+    <alternatives>
+      <alternative source-abbr="sī." source="sri lanka">paññāyanti</alternative>
+    </alternatives>
   </note>
 </notes>

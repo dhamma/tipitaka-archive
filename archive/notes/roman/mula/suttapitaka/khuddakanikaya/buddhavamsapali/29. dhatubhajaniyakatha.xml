@@ -1,29 +1,29 @@
-<?xml version="1.0" encoding="utf-8"?>
 <notes archive-path="/mula/suttapitaka/khuddakanikaya/buddhavamsapali/29. dhatubhajaniyakatha">
-  <note line="3" original="muggamāsāva (ka.)" reference-line="21" id="0">
-    <extra></extra>
+  <note reference-line="21" id="0">
+    <original>muggamāsāva (ka.)</original>
+    <type>auto</type>
+    <snippet> muggamattā ca </snippet>
+    <match>ca</match>
     <alternatives>
       <alternative source-abbr="ka." source="cambodian">muggamāsāva</alternative>
     </alternatives>
-    <type>no_match</type>
-    <snippet> muggamattā ca </snippet>
   </note>
-  <note line="11" original="silavhaye (syā.)" reference-line="40" id="1">
-    <extra></extra>
-    <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">kapilavhaye</alternative>
-      <alternative source-abbr="syā." source="thai">silavhaye</alternative>
-    </alternatives>
+  <note reference-line="40" id="1">
+    <original>silavhaye (syā.)</original>
     <type>auto</type>
     <snippet>Nivāsanaṃ kulaghare, paccattharaṇaṃ kapilavhaye </snippet>
-  </note>
-  <note line="20" original="devaraṭṭhe (syā.)" reference-line="46" id="2">
-    <extra></extra>
+    <match>kapilavhaye</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">raṭṭhe</alternative>
-      <alternative source-abbr="syā." source="thai">devaraṭṭhe</alternative>
+      <alternative source-abbr="syā." source="thai">silavhaye</alternative>
     </alternatives>
+  </note>
+  <note reference-line="46" id="2">
+    <original>devaraṭṭhe (syā.)</original>
     <type>auto</type>
     <snippet>Nisīdanaṃ avantīsu, raṭṭhe </snippet>
+    <match>raṭṭhe</match>
+    <alternatives>
+      <alternative source-abbr="syā." source="thai">devaraṭṭhe</alternative>
+    </alternatives>
   </note>
 </notes>

@@ -17,18 +17,8 @@ public class NoopBuilder implements Builder
 
   protected final State state;
 
-  protected NoopBuilder(Writer writer) {
-    this.state = new State(writer);
-  }
-
-  @Override
-  public void flush() throws IOException {
-    state.flush();
-  }
-
-  @Override
-  public void close() throws IOException {
-    state.close();
+  protected NoopBuilder() {
+    this.state = new State();
   }
 
   public void documentStart(Document document) throws IOException {

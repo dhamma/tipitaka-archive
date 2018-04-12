@@ -1,33 +1,31 @@
-<?xml version="1.0" encoding="utf-8"?>
 <notes archive-path="/mula/suttapitaka/anguttaranikaya/tikanipatapali/5. culavaggo">
-  <note line="3" original="ye bhavanti (sī. syā. kaṃ. pī.)" reference-line="33" id="0">
-    <extra></extra>
+  <note reference-line="33" id="0">
+    <original>ye bhavanti (sī. syā. kaṃ. pī.)</original>
+    <type>no_match</type>
+    <snippet>Passamānānukubbanti, attamatthaṃ </snippet>
     <alternatives>
       <alternative source-abbr="sī." source="sri lanka">ye bhavanti</alternative>
       <alternative source-abbr="syā." source="thai">ye bhavanti</alternative>
-      <alternative source-abbr="kaṃ." source="kaṃ.">ye bhavanti</alternative>
+      <alternative source-abbr="kaṃ." source="kam">ye bhavanti</alternative>
       <alternative source-abbr="pī." source="pali text society">ye bhavanti</alternative>
     </alternatives>
-    <type>no_match</type>
-    <snippet>Passamānānukubbanti, attamatthaṃ </snippet>
   </note>
-  <note line="14" original="gedhaṃ (sī. pī.)" reference-line="41" id="1">
-    <extra></extra>
+  <note reference-line="41" id="1">
+    <original>gedhaṃ (sī. pī.)</original>
+    <type>auto</type>
+    <snippet> vā rodhaṃ </snippet>
+    <match>rodhaṃ</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">rodhaṃ</alternative>
       <alternative source-abbr="sī." source="sri lanka">gedhaṃ</alternative>
       <alternative source-abbr="pī." source="pali text society">gedhaṃ</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> vā rodhaṃ </snippet>
   </note>
-  <note line="24" original="mahācorena te dasāti (ka.)" reference-line="50" id="2">
-    <extra></extra>
+  <note reference-line="50" id="2">
+    <original>mahācorena te dasāti (ka.)</original>
+    <type>no_match</type>
+    <snippet>Saṅkhataṃ pabbatātappaṃ, mahācorenekādasāti </snippet>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">mahācorenekādasāti</alternative>
       <alternative source-abbr="ka." source="cambodian">mahācorena te dasāti</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet>Saṅkhataṃ pabbatātappaṃ, mahācorenekādasāti </snippet>
   </note>
 </notes>

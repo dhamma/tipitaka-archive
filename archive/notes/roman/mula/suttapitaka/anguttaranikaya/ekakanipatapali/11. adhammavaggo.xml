@@ -1,12 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?>
 <notes archive-path="/mula/suttapitaka/anguttaranikaya/ekakanipatapali/11. adhammavaggo">
-  <note line="3" original="thapentīti (ka.)" reference-line="2" id="0">
-    <extra></extra>
-    <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">ṭhapentī’’ti</alternative>
-      <alternative source-abbr="ka." source="cambodian">thapentī’’ti</alternative>
-    </alternatives>
+  <note reference-line="2" id="0">
+    <original>thapentīti (ka.)</original>
     <type>auto</type>
     <snippet> te, bhikkhave, bhikkhū adhammaṃ adhammoti dīpenti te, bhikkhave, bhikkhū bahujanahitāya paṭipannā bahujanasukhāya, bahuno janassa atthāya hitāya sukhāya devamanussānaṃ. Bahuñca te, bhikkhave, bhikkhū puññaṃ pasavanti, te cimaṃ saddhammaṃ ṭhapentī’’ti </snippet>
+    <match>ṭhapentī’’ti</match>
+    <alternatives>
+      <alternative source-abbr="ka." source="cambodian">thapentīti</alternative>
+    </alternatives>
   </note>
 </notes>

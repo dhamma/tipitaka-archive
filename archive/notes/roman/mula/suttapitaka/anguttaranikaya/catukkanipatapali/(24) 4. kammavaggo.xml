@@ -1,141 +1,132 @@
-<?xml version="1.0" encoding="utf-8"?>
 <notes archive-path="/mula/suttapitaka/anguttaranikaya/catukkanipatapali/(24) 4. kammavaggo">
-  <note line="3" original="akaṇhaṃ asukkaṃ (sī. syā. pī.) (dī. ni. 3.312; ma. ni. 2.81)" reference-line="3" id="0">
-    <extra></extra>
-    <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">kammaṃ akaṇhaasukkaṃ</alternative>
-      <alternative source-abbr="sī." source="sri lanka">akaṇhaṃ asukkaṃ</alternative>
-      <alternative source-abbr="syā." source="thai">akaṇhaṃ asukkaṃ</alternative>
-      <alternative source-abbr="pī." source="pali text society">akaṇhaṃ asukkaṃ</alternative>
-    </alternatives>
-    <type>auto</type>
+  <note reference-line="3" id="0">
+    <original>akaṇhaṃ asukkaṃ (sī. syā. pī.) (dī. ni. 3.312; ma. ni. 2.81)</original>
+    <type>raw</type>
     <snippet> kaṇhasukkaṃ kaṇhasukkavipākaṃ; atthi, bhikkhave, kammaṃ akaṇhaasukkaṃ </snippet>
-  </note>
-  <note line="14" original="sabyāpajjhaṃ (sabbattha)" reference-line="6" id="1">
-    <extra></extra>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">sabyābajjhaṃ</alternative>
-      <alternative source-abbr="sabbattha" source="sabbattha">sabyāpajjhaṃ</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet>Katamañca, bhikkhave, kammaṃ kaṇhaṃ kaṇhavipākaṃ? Idha, bhikkhave, ekacco sabyābajjhaṃ </snippet>
   </note>
-  <note line="23" original="vedayati (ka.) a. ni. 6.63" reference-line="6" id="2">
-    <extra> a. ni. 6.63</extra>
+  <note reference-line="6" id="1">
+    <original>sabyāpajjhaṃ (sabbattha)</original>
+    <type>raw</type>
+    <snippet>‘‘Katamañca, bhikkhave, kammaṃ kaṇhaṃ kaṇhavipākaṃ? Idha, bhikkhave, ekacco sabyābajjhaṃ </snippet>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">vediyati</alternative>
-      <alternative source-abbr="ka." source="cambodian">vedayati</alternative>
     </alternatives>
+  </note>
+  <note reference-line="6" id="2">
+    <original>vedayati (ka.) a. ni. 6.63</original>
     <type>auto</type>
     <snippet> manosaṅkhāraṃ abhisaṅkharoti. So sabyābajjhaṃ kāyasaṅkhāraṃ abhisaṅkharitvā, sabyābajjhaṃ vacīsaṅkhāraṃ abhisaṅkharitvā, sabyābajjhaṃ manosaṅkhāraṃ abhisaṅkharitvā sabyābajjhaṃ lokaṃ upapajjati. Tamenaṃ sabyābajjhaṃ lokaṃ upapannaṃ samānaṃ sabyābajjhā phassā phusanti. So sabyābajjhehi phassehi phuṭṭho samāno sabyābajjhaṃ vedanaṃ vediyati </snippet>
-  </note>
-  <note line="32" original="yampidaṃ (sī. syā. kaṃ. pī.)" reference-line="9" id="3">
-    <extra></extra>
+    <match>vediyati</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">yamidaṃ</alternative>
-      <alternative source-abbr="sī." source="sri lanka">yampidaṃ</alternative>
-      <alternative source-abbr="syā." source="thai">yampidaṃ</alternative>
-      <alternative source-abbr="kaṃ." source="kaṃ.">yampidaṃ</alternative>
-      <alternative source-abbr="pī." source="pali text society">yampidaṃ</alternative>
+      <alternative source-abbr="ka." source="cambodian">vedayati</alternative>
     </alternatives>
+    <references>
+      <reference>a. ni. 6.63</reference>
+    </references>
+  </note>
+  <note reference-line="9" id="3">
+    <original>yampidaṃ (sī. syā. kaṃ. pī.)</original>
     <type>auto</type>
-    <snippet>Katamañca, bhikkhave, kammaṃ akaṇhaasukkaṃ akaṇhaasukkavipākaṃ kammakkhayāya saṃvattati? Tatra, bhikkhave, yamidaṃ kammaṃ kaṇhaṃ kaṇhavipākaṃ tassa pahānāya yā cetanā, yamidaṃ </snippet>
-  </note>
-  <note line="44" original="yampidaṃ (sī. syā. kaṃ. pī.)" reference-line="9" id="4">
-    <extra></extra>
+    <snippet>‘‘Katamañca, bhikkhave, kammaṃ akaṇhaasukkaṃ akaṇhaasukkavipākaṃ kammakkhayāya saṃvattati? Tatra, bhikkhave, yamidaṃ kammaṃ kaṇhaṃ kaṇhavipākaṃ tassa pahānāya yā cetanā, yamidaṃ </snippet>
+    <match>yamidaṃ</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">yamidaṃ</alternative>
       <alternative source-abbr="sī." source="sri lanka">yampidaṃ</alternative>
       <alternative source-abbr="syā." source="thai">yampidaṃ</alternative>
-      <alternative source-abbr="kaṃ." source="kaṃ.">yampidaṃ</alternative>
+      <alternative source-abbr="kaṃ." source="kam">yampidaṃ</alternative>
       <alternative source-abbr="pī." source="pali text society">yampidaṃ</alternative>
     </alternatives>
+  </note>
+  <note reference-line="9" id="4">
+    <original>yampidaṃ (sī. syā. kaṃ. pī.)</original>
     <type>auto</type>
     <snippet> kammaṃ sukkaṃ sukkavipākaṃ tassa pahānāya yā cetanā, yamidaṃ </snippet>
-  </note>
-  <note line="56" original="kammasaccāyī (ka.)" reference-line="12" id="5">
-    <extra></extra>
+    <match>yamidaṃ</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">kammasaccāyaṃ</alternative>
+      <alternative source-abbr="sī." source="sri lanka">yampidaṃ</alternative>
+      <alternative source-abbr="syā." source="thai">yampidaṃ</alternative>
+      <alternative source-abbr="kaṃ." source="kam">yampidaṃ</alternative>
+      <alternative source-abbr="pī." source="pali text society">yampidaṃ</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="12" id="5">
+    <original>kammasaccāyī (ka.)</original>
+    <type>auto</type>
+    <snippet>‘‘Purimāni, bho gotama, divasāni purimatarāni soṇakāyano māṇavo yenāhaṃ tenupasaṅkami; upasaṅkamitvā maṃ etadavoca – ‘samaṇo gotamo sabbakammānaṃ akiriyaṃ paññapeti, sabbakammānaṃ kho pana akiriyaṃ paññapento ucchedaṃ āha lokassa – kammasaccāyaṃ </snippet>
+    <match>kammasaccāyaṃ</match>
+    <alternatives>
       <alternative source-abbr="ka." source="cambodian">kammasaccāyī</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet>Purimāni, bho gotama, divasāni purimatarāni soṇakāyano māṇavo yenāhaṃ tenupasaṅkami; upasaṅkamitvā maṃ etadavoca – ‘samaṇo gotamo sabbakammānaṃ akiriyaṃ paññapeti, sabbakammānaṃ kho pana akiriyaṃ paññapento ucchedaṃ āha lokassa – kammasaccāyaṃ </snippet>
   </note>
-  <note line="65" original="ekacco mātaraṃ (ka.)" reference-line="25" id="6">
-    <extra></extra>
+  <note reference-line="25" id="6">
+    <original>ekacco mātaraṃ (ka.)</original>
+    <type>no_match</type>
+    <snippet>‘‘Katamañca, bhikkhave, kammaṃ kaṇhaṃ kaṇhavipākaṃ? Idha, bhikkhave, ekaccena mātā </snippet>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">ekaccena mātā</alternative>
       <alternative source-abbr="ka." source="cambodian">ekacco mātaraṃ</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet>Katamañca, bhikkhave, kammaṃ kaṇhaṃ kaṇhavipākaṃ? Idha, bhikkhave, ekaccena mātā </snippet>
   </note>
-  <note line="74" original="pitaraṃ (ka.)" reference-line="25" id="7">
-    <extra></extra>
-    <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">pitā</alternative>
-      <alternative source-abbr="ka." source="cambodian">pitaraṃ</alternative>
-    </alternatives>
+  <note reference-line="25" id="7">
+    <original>pitaraṃ (ka.)</original>
     <type>auto</type>
     <snippet> jīvitā voropitā hoti, pitā </snippet>
-  </note>
-  <note line="83" original="voropitā (ka.)" reference-line="25" id="8">
-    <extra></extra>
+    <match>pitā</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">voropito</alternative>
-      <alternative source-abbr="ka." source="cambodian">voropitā</alternative>
+      <alternative source-abbr="ka." source="cambodian">pitaraṃ</alternative>
     </alternatives>
+  </note>
+  <note reference-line="25" id="8">
+    <original>voropitā (ka.)</original>
     <type>auto</type>
     <snippet> jīvitā voropito </snippet>
-  </note>
-  <note line="92" original="arahantaṃ (ka.)" reference-line="25" id="9">
-    <extra></extra>
+    <match>voropito</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">arahaṃ</alternative>
-      <alternative source-abbr="ka." source="cambodian">arahantaṃ</alternative>
+      <alternative source-abbr="ka." source="cambodian">voropitā</alternative>
     </alternatives>
+  </note>
+  <note reference-line="25" id="9">
+    <original>arahantaṃ (ka.)</original>
     <type>auto</type>
     <snippet> hoti, arahaṃ </snippet>
-  </note>
-  <note line="101" original="voropitā (ka.)" reference-line="25" id="10">
-    <extra></extra>
+    <match>arahaṃ</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">voropito</alternative>
-      <alternative source-abbr="ka." source="cambodian">voropitā</alternative>
+      <alternative source-abbr="ka." source="cambodian">arahantaṃ</alternative>
     </alternatives>
+  </note>
+  <note reference-line="25" id="10">
+    <original>voropitā (ka.)</original>
     <type>auto</type>
     <snippet> jīvitā voropito </snippet>
-  </note>
-  <note line="110" original="uppāditā (ka.)" reference-line="25" id="11">
-    <extra></extra>
+    <match>voropito</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">uppāditaṃ</alternative>
-      <alternative source-abbr="ka." source="cambodian">uppāditā</alternative>
+      <alternative source-abbr="ka." source="cambodian">voropitā</alternative>
     </alternatives>
+  </note>
+  <note reference-line="25" id="11">
+    <original>uppāditā (ka.)</original>
     <type>auto</type>
     <snippet> uppāditaṃ </snippet>
-  </note>
-  <note line="119" original="sammādiṭṭhiko (sī. syā. kaṃ.)" reference-line="26" id="12">
-    <extra></extra>
+    <match>uppāditaṃ</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">sammādiṭṭhi</alternative>
+      <alternative source-abbr="ka." source="cambodian">uppāditā</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="26" id="12">
+    <original>sammādiṭṭhiko (sī. syā. kaṃ.)</original>
+    <type>auto</type>
+    <snippet>‘‘Katamañca, bhikkhave, kammaṃ sukkaṃ sukkavipākaṃ? Idha, bhikkhave, ekacco pāṇātipātā paṭivirato hoti, adinnādānā paṭivirato hoti, kāmesumicchācārā paṭivirato hoti, musāvādā paṭivirato hoti, pisuṇāya vācāya paṭivirato hoti, pharusāya vācāya paṭivirato hoti, samphappalāpā paṭivirato hoti, anabhijjhālu hoti, abyāpannacitto hoti, sammādiṭṭhi </snippet>
+    <match>sammādiṭṭhi</match>
+    <alternatives>
       <alternative source-abbr="sī." source="sri lanka">sammādiṭṭhiko</alternative>
       <alternative source-abbr="syā." source="thai">sammādiṭṭhiko</alternative>
-      <alternative source-abbr="kaṃ." source="kaṃ.">sammādiṭṭhiko</alternative>
+      <alternative source-abbr="kaṃ." source="kam">sammādiṭṭhiko</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet>Katamañca, bhikkhave, kammaṃ sukkaṃ sukkavipākaṃ? Idha, bhikkhave, ekacco pāṇātipātā paṭivirato hoti, adinnādānā paṭivirato hoti, kāmesumicchācārā paṭivirato hoti, musāvādā paṭivirato hoti, pisuṇāya vācāya paṭivirato hoti, pharusāya vācāya paṭivirato hoti, samphappalāpā paṭivirato hoti, anabhijjhālu hoti, abyāpannacitto hoti, sammādiṭṭhi </snippet>
   </note>
-  <note line="130" original="samaṇehi aññeti (sī. pī. ka.) ettha aññehīti sakāya paṭiññāya saccābhiññehīti attho veditabbo. dī. ni. 2.214; ma. ni. 1.140" reference-line="47" id="13">
-    <extra> ettha aññehīti sakāya paṭiññāya saccābhiññehīti attho veditabbo. dī. ni. 2.214; ma. ni. 1.140</extra>
+  <note reference-line="47" id="13">
+    <original>samaṇehi aññeti (sī. pī. ka.) ettha aññehīti sakāya paṭiññāya saccābhiññehīti attho veditabbo. dī. ni. 2.214; ma. ni. 1.140</original>
+    <type>raw</type>
+    <snippet> ‘‘‘Idheva, bhikkhave, (paṭhamo) samaṇo, idha dutiyo samaṇo, idha tatiyo samaṇo, idha catuttho samaṇo; suññā parappavādā samaṇehi aññehī’ti </snippet>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">samaṇehi aññehī’ti</alternative>
-      <alternative source-abbr="sī." source="sri lanka">samaṇehi aññeti</alternative>
-      <alternative source-abbr="pī." source="pali text society">samaṇehi aññeti</alternative>
-      <alternative source-abbr="ka." source="cambodian">samaṇehi aññeti</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> ‘Idheva, bhikkhave, (paṭhamo) samaṇo, idha dutiyo samaṇo, idha tatiyo samaṇo, idha catuttho samaṇo; suññā parappavādā samaṇehi aññehī’ti </snippet>
   </note>
 </notes>

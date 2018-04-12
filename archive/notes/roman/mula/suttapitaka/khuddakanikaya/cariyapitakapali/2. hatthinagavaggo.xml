@@ -1,93 +1,92 @@
-<?xml version="1.0" encoding="utf-8"?>
 <notes archive-path="/mula/suttapitaka/khuddakanikaya/cariyapitakapali/2. hatthinagavaggo">
-  <note line="3" original="samaṃ gahite (sī.)" reference-line="11" id="0">
-    <extra></extra>
+  <note reference-line="11" id="0">
+    <original>samaṃ gahite (sī.)</original>
+    <type>no_match</type>
+    <snippet>Saha gahite </snippet>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">Saha gahite</alternative>
       <alternative source-abbr="sī." source="sri lanka">samaṃ gahite</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet>Saha gahite </snippet>
   </note>
-  <note line="12" original="bhisamūlaṃ (ka.)" reference-line="17" id="1">
-    <extra></extra>
-    <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">Bhisamuḷālaṃ</alternative>
-      <alternative source-abbr="ka." source="cambodian">bhisamūlaṃ</alternative>
-    </alternatives>
+  <note reference-line="17" id="1">
+    <original>bhisamūlaṃ (ka.)</original>
     <type>auto</type>
     <snippet>Bhisamuḷālaṃ </snippet>
-  </note>
-  <note line="21" original="ālambaṇo (sī.)" reference-line="48" id="2">
-    <extra></extra>
+    <match>Bhisamuḷālaṃ</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">ālampāyano</alternative>
+      <alternative source-abbr="ka." source="cambodian">bhisamūlaṃ</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="48" id="2">
+    <original>ālambaṇo (sī.)</original>
+    <type>auto</type>
+    <snippet> ‘‘Saṃsito akataññunā, ālampāyano </snippet>
+    <match>ālampāyano</match>
+    <alternatives>
       <alternative source-abbr="sī." source="sri lanka">ālambaṇo</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> Saṃsito akataññunā, ālampāyano </snippet>
   </note>
-  <note line="30" original="ālambaṇe (sī.)" reference-line="52" id="3">
-    <extra></extra>
-    <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">Ālampāyane</alternative>
-      <alternative source-abbr="sī." source="sri lanka">ālambaṇe</alternative>
-    </alternatives>
+  <note reference-line="52" id="3">
+    <original>ālambaṇe (sī.)</original>
     <type>auto</type>
     <snippet>Ālampāyane </snippet>
-  </note>
-  <note line="39" original="tassā (sī.)" reference-line="103" id="4">
-    <extra></extra>
+    <match>Ālampāyane</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">Tissā</alternative>
+      <alternative source-abbr="sī." source="sri lanka">ālambaṇe</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="103" id="4">
+    <original>tassā (sī.)</original>
+    <type>auto</type>
+    <snippet> ‘‘Tissā </snippet>
+    <match>‘‘Tissā</match>
+    <alternatives>
       <alternative source-abbr="sī." source="sri lanka">tassā</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> Tissā </snippet>
   </note>
-  <note line="48" original="vanadugge (sī.)" reference-line="123" id="5">
-    <extra></extra>
+  <note reference-line="123" id="5">
+    <original>vanadugge (sī.)</original>
+    <type>auto</type>
+    <snippet> ‘‘Pabbhāre giridugge </snippet>
+    <match>giridugge</match>
     <alternatives>
       <alternative source-abbr="sī." source="sri lanka">vanadugge</alternative>
     </alternatives>
-    <type>no_match</type>
-    <snippet> Pabbhāre giridugge </snippet>
   </note>
-  <note line="56" original="mittadūbhiṃ (sī.)" reference-line="184" id="6">
-    <extra></extra>
-    <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">mittadubbhiṃ</alternative>
-      <alternative source-abbr="sī." source="sri lanka">mittadūbhiṃ</alternative>
-    </alternatives>
+  <note reference-line="184" id="6">
+    <original>mittadūbhiṃ (sī.)</original>
     <type>auto</type>
     <snippet>‘Idheva ghātayissāmi, mittadubbhiṃ </snippet>
-  </note>
-  <note line="65" original="kampilāyaṃ (sī.), kappilāyaṃ (syā.)" reference-line="240" id="7">
-    <extra></extra>
+    <match>mittadubbhiṃ</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">kapilāyaṃ</alternative>
+      <alternative source-abbr="sī." source="sri lanka">mittadūbhiṃ</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="240" id="7">
+    <original>kampilāyaṃ (sī.), kappilāyaṃ (syā.)</original>
+    <type>auto</type>
+    <snippet> nagaravare, kapilāyaṃ </snippet>
+    <match>kapilāyaṃ</match>
+    <alternatives>
       <alternative source-abbr="sī." source="sri lanka">kampilāyaṃ</alternative>
       <alternative source-abbr="syā." source="thai">kappilāyaṃ</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> nagaravare, kapilāyaṃ </snippet>
   </note>
-  <note line="75" original="paritāsaṃ (sī.)" reference-line="262" id="8">
-    <extra></extra>
-    <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">parittāsaṃ</alternative>
-      <alternative source-abbr="sī." source="sri lanka">paritāsaṃ</alternative>
-    </alternatives>
+  <note reference-line="262" id="8">
+    <original>paritāsaṃ (sī.)</original>
     <type>auto</type>
     <snippet>Tena bhijjissati sīlaṃ, parittāsaṃ </snippet>
-  </note>
-  <note line="84" original="supakkakālamaññāya (pī.)" reference-line="268" id="9">
-    <extra></extra>
+    <match>parittāsaṃ</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">pakkakālamaññāya</alternative>
-      <alternative source-abbr="pī." source="pali text society">supakkakālamaññāya</alternative>
+      <alternative source-abbr="sī." source="sri lanka">paritāsaṃ</alternative>
     </alternatives>
+  </note>
+  <note reference-line="268" id="9">
+    <original>supakkakālamaññāya (pī.)</original>
     <type>auto</type>
     <snippet>Tvaṃ pakkakālamaññāya </snippet>
+    <match>pakkakālamaññāya</match>
+    <alternatives>
+      <alternative source-abbr="pī." source="pali text society">supakkakālamaññāya</alternative>
+    </alternatives>
   </note>
 </notes>

@@ -7,9 +7,7 @@ import org.tipitaka.archive.model.Document;
 /**
  * Created by cmeier on 3/6/16.
  */
-public interface Builder
-    extends BaseBuilder
-{
+public interface Builder {
 
   void documentStart(Document document) throws IOException;
 
@@ -28,4 +26,6 @@ public interface Builder
   void noteEnd() throws IOException;
 
   void pageBreak(String edition, String number) throws IOException;
+
+  void text(String text) throws IOException;
 }

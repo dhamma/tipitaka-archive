@@ -1,161 +1,348 @@
-<?xml version="1.0" encoding="utf-8"?>
 <notes archive-path="/anya/byakarana gantha-sangaho/abhidhanappadipikatika/gantharambha">
-  <note line="3" original="udā. 27" reference-line="11" id="0">
-    <type>raw</type>
-  </note>
-  <note line="6" original="abhidhāna 392 gāthā" reference-line="13" id="1">
-    <type>raw</type>
-  </note>
-  <note line="9" original="abhidhāna 391 gāthā" reference-line="13" id="2">
-    <type>raw</type>
-  </note>
-  <note line="12" original="abhidhāna 661 gāthā" reference-line="13" id="3">
-    <type>raw</type>
-  </note>
-  <note line="15" original="abhidhāna 70 gāthā" reference-line="13" id="4">
-    <type>raw</type>
-  </note>
-  <note line="18" original="abhidhāna 163 gāthā" reference-line="13" id="5">
-    <type>raw</type>
-  </note>
-  <note line="21" original="abhidhāna 65 gāthā" reference-line="13" id="6">
-    <type>raw</type>
-  </note>
-  <note line="24" original="abhidhāna 63 gāthā" reference-line="13" id="7">
-    <type>raw</type>
-  </note>
-  <note line="27" original="abhidhāna 661 gāthā" reference-line="13" id="8">
-    <type>raw</type>
-  </note>
-  <note line="30" original="abhidhāna 550 gāthā" reference-line="13" id="9">
-    <type>raw</type>
-  </note>
-  <note line="33" original="abhidhāna 547 gāthā" reference-line="13" id="10">
-    <type>raw</type>
-  </note>
-  <note line="36" original="abhidhāna 166 gāthā" reference-line="13" id="11">
-    <type>raw</type>
-  </note>
-  <note line="39" original="abhidhāna 24 gāthā" reference-line="13" id="12">
-    <type>raw</type>
-  </note>
-  <note line="42" original="abhidhāna 9 gāthā" reference-line="14" id="13">
-    <type>raw</type>
-  </note>
-  <note line="45" original="abhidhāna 734 gāthā" reference-line="14" id="14">
-    <type>raw</type>
-  </note>
-  <note line="48" original="abhidhāna 249 gāthā" reference-line="14" id="15">
-    <type>raw</type>
-  </note>
-  <note line="51" original="abhidhāna 250 gāthā" reference-line="14" id="16">
-    <type>raw</type>
-  </note>
-  <note line="54" original="abhidhāna 243 gāthā" reference-line="14" id="17">
-    <type>raw</type>
-  </note>
-  <note line="57" original="abhidhāna 244 gāthā" reference-line="14" id="18">
-    <type>raw</type>
-  </note>
-  <note line="60" original="abhidhāna 240 gāthā" reference-line="14" id="19">
-    <type>raw</type>
-  </note>
-  <note line="63" original="abhidhāna 241 gāthā" reference-line="14" id="20">
-    <type>raw</type>
-  </note>
-  <note line="66" original="abhidhāna 246 gāthā" reference-line="14" id="21">
-    <type>raw</type>
-  </note>
-  <note line="69" original="abhidhāna 401 gāthā" reference-line="14" id="22">
-    <type>raw</type>
-  </note>
-  <note line="72" original="amara 1.4" reference-line="16" id="23">
-    <type>raw</type>
-  </note>
-  <note line="75" original="abhidhāna 794 gāthā" reference-line="19" id="24">
-    <type>raw</type>
-  </note>
-  <note line="78" original="abhidhāna 857 gāthā" reference-line="21" id="25">
-    <type>raw</type>
-  </note>
-  <note line="81" original="abhidhāna 1089 gāthā" reference-line="22" id="26">
-    <type>raw</type>
-  </note>
-  <note line="84" original="abhidhāna 938 gāthā" reference-line="23" id="27">
-    <type>raw</type>
-  </note>
-  <note line="87" original="abhidhāna 778 gāthā" reference-line="25" id="28">
-    <type>raw</type>
-  </note>
-  <note line="90" original="abhidhāna 1107 gāthā" reference-line="26" id="29">
-    <type>raw</type>
-  </note>
-  <note line="93" original="abhidhāna 786 gāthā" reference-line="29" id="30">
-    <type>raw</type>
-  </note>
-  <note line="96" original="abhidhāna 1035 gāthā" reference-line="30" id="31">
-    <type>raw</type>
-  </note>
-  <note line="99" original="abhidhāna 1066 gāthā" reference-line="31" id="32">
-    <type>raw</type>
-  </note>
-  <note line="102" original="abhidhāna 24 gāthā" reference-line="33" id="33">
-    <type>raw</type>
-  </note>
-  <note line="105" original="abhidhāna 942 gāthā" reference-line="33" id="34">
-    <type>raw</type>
-  </note>
-  <note line="108" original="nisiddhaliṅga sesatthaṃ (amara 1.5.)" reference-line="33" id="35">
-    <extra></extra>
-    <alternatives>
-      <alternative source-abbr="amara 1.5." source="amara 1.5.">nisiddhaliṅga sesatthaṃ</alternative>
-    </alternatives>
+  <note reference-line="11" id="0">
+    <original>udā. 27</original>
     <type>no_match</type>
-    <snippet>. Ettha ca nisiddhaliṅganāmaṃ pārisesato sesaliṅga’’nti ñeyyaṃ </snippet>
-  </note>
-  <note line="116" original="abhidhāna 81 gāthā" reference-line="33" id="36">
-    <type>raw</type>
-  </note>
-  <note line="119" original="ekaliṅganisedhabyājena liṅgadvayābhidhānamiti (amarakosacintāmaṇiṭīkā)" reference-line="33" id="37">
-    <extra></extra>
+    <snippet> sīlādiguṇehi sadevakehi lokehi patthanīyaṃ. ‘‘Devāpi tassa pihayanti tādino’’ti </snippet>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">liṅgadvayavidhānanti</alternative>
-      <alternative source-abbr="amarakosacintāmaṇiṭīkā" source="amarakosacintāmaṇiṭīkā">ekaliṅganisedhabyājena liṅgadvayābhidhānamiti</alternative>
     </alternatives>
-    <type>auto</type>
+    <references>
+      <reference>udā. 27</reference>
+    </references>
+  </note>
+  <note reference-line="13" id="1">
+    <original>abhidhāna 392 gāthā</original>
+    <type>raw</type>
+    <snippet> rūpabhedena itthipaccayapumbhāvādikāriyakatena thīpunnapuṃsakaṃ ñeyyaṃ, so ca nāmānaṃ nāmavisesanassa, nāmaparāmasisabbanāmasaddassa ca ñeyyo pakārantarābhāvā. Tatra nāmānaṃ rūpabhedo yathā – churikā satya’siputti </snippet>
+    <alternatives>
+    </alternatives>
+  </note>
+  <note reference-line="13" id="2">
+    <original>abhidhāna 391 gāthā</original>
+    <type>raw</type>
+    <snippet>. Asi khaggo ca sāyako </snippet>
+    <alternatives>
+    </alternatives>
+  </note>
+  <note reference-line="13" id="3">
+    <original>abhidhāna 661 gāthā</original>
+    <type>raw</type>
+    <snippet>. Pānīyaṃ salilaṃ dakanti </snippet>
+    <alternatives>
+    </alternatives>
+  </note>
+  <note reference-line="13" id="4">
+    <original>abhidhāna 70 gāthā</original>
+    <type>raw</type>
+    <snippet>. Nāmavisesanassa yathā – nisītho majjhimā rattīti </snippet>
+    <alternatives>
+    </alternatives>
+  </note>
+  <note reference-line="13" id="5">
+    <original>abhidhāna 163 gāthā</original>
+    <type>raw</type>
+    <snippet> ākaṅkhā ruci vuttā sā, tvadhikā lālasā dvisūti </snippet>
+    <alternatives>
+    </alternatives>
+  </note>
+  <note reference-line="13" id="6">
+    <original>abhidhāna 65 gāthā</original>
+    <type>raw</type>
+    <snippet>ti yatra rūpabhedo natthi, taṃ yathā – marīci migataṇhikā </snippet>
+    <alternatives>
+    </alternatives>
+  </note>
+  <note reference-line="13" id="7">
+    <original>abhidhāna 63 gāthā</original>
+    <type>raw</type>
+    <snippet>. Raṃsimā bhākaro bhānu </snippet>
+    <alternatives>
+    </alternatives>
+  </note>
+  <note reference-line="13" id="8">
+    <original>abhidhāna 661 gāthā</original>
+    <type>raw</type>
+    <snippet>. Āpo payo jalaṃ vāri </snippet>
+    <alternatives>
+    </alternatives>
+  </note>
+  <note reference-line="13" id="9">
+    <original>abhidhāna 550 gāthā</original>
+    <type>raw</type>
+    <snippet>ti yatra na rūpabhedo liṅganiṇṇayassa nimittaṃ, na ca sāhacariyaṃ liṅgabhedobhimato, nekameva vā liṅgamicchate, taṃ yathā – vallarī mañjarī nārī </snippet>
+    <alternatives>
+    </alternatives>
+  </note>
+  <note reference-line="13" id="10">
+    <original>abhidhāna 547 gāthā</original>
+    <type>raw</type>
+    <snippet>. Viṭapo viṭabhītthiyaṃ </snippet>
+    <alternatives>
+    </alternatives>
+  </note>
+  <note reference-line="13" id="11">
+    <original>abhidhāna 166 gāthā</original>
+    <type>raw</type>
+    <snippet>. Bhītitthī bhayamuttāso </snippet>
+    <alternatives>
+    </alternatives>
+  </note>
+  <note reference-line="13" id="12">
+    <original>abhidhāna 24 gāthā</original>
+    <type>raw</type>
+    <snippet>. Vajiraṃ punnapuṃsakeccādi </snippet>
+    <alternatives>
+    </alternatives>
+  </note>
+  <note reference-line="14" id="13">
+    <original>abhidhāna 9 gāthā</original>
+    <type>raw</type>
+    <snippet>miccādi. Abhinnaliṅgīnaṃyeva nāmānaṃ dvando kato, na bhinnaliṅgīnaṃ, yathā – vimutyasaṅkhatadhātu, suddhinibbutiyo siyunti </snippet>
+    <alternatives>
+    </alternatives>
+  </note>
+  <note reference-line="14" id="14">
+    <original>abhidhāna 734 gāthā</original>
+    <type>raw</type>
+    <snippet>. Na kevalaṃ dvandoyeva, atha kho ekasesopyabhinnaliṅgānaṃyeva kato, yathā – naggo digambarāvatthā. </snippet>
+    <alternatives>
+    </alternatives>
+  </note>
+  <note reference-line="14" id="15">
+    <original>abhidhāna 249 gāthā</original>
+    <type>raw</type>
+    <snippet> – mātā pitā tu pitaro, puttā tu puttadhītaro </snippet>
+    <alternatives>
+    </alternatives>
+  </note>
+  <note reference-line="14" id="16">
+    <original>abhidhāna 250 gāthā</original>
+    <type>raw</type>
+    <snippet>. Sasurā sassu sasurā, bhātubhagini bhātaroti </snippet>
+    <alternatives>
+    </alternatives>
+  </note>
+  <note reference-line="14" id="17">
+    <original>abhidhāna 243 gāthā</original>
+    <type>raw</type>
+    <snippet>. Ettha hi mātā ca pitā ca pitaro, putto ca dhītā ca puttā, sassu ca sasuro ca sasurā, bhātā ca bhaginī ca bhātaroti bhinnaliṅgānampi ekaseso dassitoti. Ṭhānantare tesaṃ bhinnaliṅgatāya dassitattā na doso. Tāto tu janako pitā </snippet>
+    <alternatives>
+    </alternatives>
+  </note>
+  <note reference-line="14" id="18">
+    <original>abhidhāna 244 gāthā</original>
+    <type>raw</type>
+    <snippet>. Ammā’mbā jananī mātā </snippet>
+    <alternatives>
+    </alternatives>
+  </note>
+  <note reference-line="14" id="19">
+    <original>abhidhāna 240 gāthā</original>
+    <type>raw</type>
+    <snippet>. Apaccaṃ puttotrajo suto </snippet>
+    <alternatives>
+    </alternatives>
+  </note>
+  <note reference-line="14" id="20">
+    <original>abhidhāna 241 gāthā</original>
+    <type>raw</type>
+    <snippet>. Nāriyaṃ duhitā dhītā </snippet>
+    <alternatives>
+    </alternatives>
+  </note>
+  <note reference-line="14" id="21">
+    <original>abhidhāna 246 gāthā</original>
+    <type>raw</type>
+    <snippet>. Jāyāpatīnaṃ jananī, sassu vuttātha tappitā. Sasuroti iccādikañhi tesaṃ </snippet>
+    <alternatives>
+    </alternatives>
+  </note>
+  <note reference-line="14" id="22">
+    <original>abhidhāna 401 gāthā</original>
+    <type>raw</type>
+    <snippet> ṭhānantaranti. Tathā ettha kamaṃ vinā bhinnaliṅgānaṃ gaṇanapāṭho viya saṅkaropi na kato. Tatra hi saggadisādayo atthā yathākkamaṃ taṃsambandhā ca sakkavidisādayo atthā sakasakasambandhasahitā yathābhidhānaṃ sarūpapaṭipatyamatthabhidheyyā, tathā tappariyāyasambandhāni ca yāni nāmāni, tāni sabbāni tadabhidhānāvasare abhidheyyānīti sukhenekatreva sakalanāmapaṭipatti sarūpapaṭipatti ca yathā siyāticcetadatthaṃ kamo abhyupagamyate, tathā ca satyāvassaṃ saggādipariyāye divasaddādayo, harādyavasare kumārādayo abhidheyyā iti kamānurodhena liṅgasaṅkaro pariharitumasakkuṇeyyo, yathāvuttantu kamaṃ vinā neha saṅkaro kato, iti pariyāyena itthippakaraṇādikkamena yathāsambhavamabhidhānato, taṃ yathā – īti tvitthī ajaññañca, upasaggo upaddavoti </snippet>
+    <alternatives>
+    </alternatives>
+  </note>
+  <note reference-line="16" id="23">
+    <original>amara 1.4</original>
+    <type>raw</type>
+    <snippet>Katotra bhinnaliṅgāna-mavuttānaṃ kamaṃ vinā’’ti </snippet>
+    <alternatives>
+    </alternatives>
+  </note>
+  <note reference-line="19" id="24">
+    <original>abhidhāna 794 gāthā</original>
+    <type>raw</type>
+    <snippet>ñāṇadassanaṃ</snippet>
+    <alternatives>
+    </alternatives>
+  </note>
+  <note reference-line="21" id="25">
+    <original>abhidhāna 857 gāthā</original>
+    <type>raw</type>
+    <snippet> sugatālaye </snippet>
+    <alternatives>
+    </alternatives>
+  </note>
+  <note reference-line="22" id="26">
+    <original>abhidhāna 1089 gāthā</original>
+    <type>raw</type>
+    <snippet>mu</snippet>
+    <alternatives>
+    </alternatives>
+  </note>
+  <note reference-line="23" id="27">
+    <original>abhidhāna 938 gāthā</original>
+    <type>raw</type>
+    <snippet> tisu </snippet>
+    <alternatives>
+    </alternatives>
+  </note>
+  <note reference-line="25" id="28">
+    <original>abhidhāna 778 gāthā</original>
+    <type>raw</type>
+    <snippet>Paṭivedhe siyā kāle, pahāne lābhadiṭṭhisu </snippet>
+    <alternatives>
+    </alternatives>
+  </note>
+  <note reference-line="26" id="29">
+    <original>abhidhāna 1107 gāthā</original>
+    <type>raw</type>
+    <snippet> vanaduggesu </snippet>
+    <alternatives>
+    </alternatives>
+  </note>
+  <note reference-line="29" id="30">
+    <original>abhidhāna 786 gāthā</original>
+    <type>raw</type>
+    <snippet>Daḷhatthenatireke cā-navasesamhi taṃ tisu </snippet>
+    <alternatives>
+    </alternatives>
+  </note>
+  <note reference-line="30" id="31">
+    <original>abhidhāna 1035 gāthā</original>
+    <type>raw</type>
+    <snippet>nākule vāccaliṅgiko </snippet>
+    <alternatives>
+    </alternatives>
+  </note>
+  <note reference-line="31" id="32">
+    <original>abhidhāna 1066 gāthā</original>
+    <type>raw</type>
+    <snippet> mahatyapi </snippet>
+    <alternatives>
+    </alternatives>
+  </note>
+  <note reference-line="33" id="33">
+    <original>abhidhāna 24 gāthā</original>
+    <type>raw</type>
+    <snippet>ti padaṃ ñeyyaṃ, yathā – asani dvīsu </snippet>
+    <alternatives>
+    </alternatives>
+  </note>
+  <note reference-line="33" id="34">
+    <original>abhidhāna 942 gāthā</original>
+    <type>raw</type>
+    <snippet>ti padaṃ ñeyyaṃ, yathā – sattannaṃ pūraṇe seṭṭhe’tisante sattamo tisu </snippet>
+    <alternatives>
+    </alternatives>
+  </note>
+  <note reference-line="33" id="35">
+    <original>nisiddhaliṅga sesatthaṃ (amara 1.5.)</original>
+    <type>raw</type>
+    <snippet>. Ettha ca nisiddhaliṅganāmaṃ pārisesato ‘‘sesaliṅga’’nti ñeyyaṃ </snippet>
+    <alternatives>
+    </alternatives>
+  </note>
+  <note reference-line="33" id="36">
+    <original>abhidhāna 81 gāthā</original>
+    <type>raw</type>
+    <snippet>, yathā – vassa saṃvaccharā nitthīti </snippet>
+    <alternatives>
+    </alternatives>
+  </note>
+  <note reference-line="33" id="37">
+    <original>ekaliṅganisedhabyājena liṅgadvayābhidhānamiti (amarakosacintāmaṇiṭīkā)</original>
+    <type>raw</type>
     <snippet>. Atra cekaliṅganisedhabyākhyānena liṅgadvayavidhānanti </snippet>
+    <alternatives>
+    </alternatives>
   </note>
-  <note line="128" original="abhidhāna 4 gāthā" reference-line="34" id="38">
+  <note reference-line="34" id="38">
+    <original>abhidhāna 4 gāthā</original>
     <type>raw</type>
+    <snippet> ādi yassa abhidhānassāti idaṃ abhidhānadvayañca ñeyyaṃ. Tvantamathādikaṃ nāmādipadaṃ pubbena na sambajjhateti bhāvo. Tatra nāmapadaṃ yathā – jino sakko tu siddhattho </snippet>
+    <alternatives>
+    </alternatives>
   </note>
-  <note line="131" original="abhidhāna 16 gāthā" reference-line="34" id="39">
+  <note reference-line="34" id="39">
+    <original>abhidhāna 16 gāthā</original>
     <type>raw</type>
+    <snippet>. Kesavo cakkapāṇyatha </snippet>
+    <alternatives>
+    </alternatives>
   </note>
-  <note line="134" original="abhidhāna 16 gāthā" reference-line="34" id="40">
+  <note reference-line="34" id="40">
+    <original>abhidhāna 16 gāthā</original>
     <type>raw</type>
+    <snippet>. Mahissaro sivo sūlī </snippet>
+    <alternatives>
+    </alternatives>
   </note>
-  <note line="137" original="abhidhāna 277 gāthā" reference-line="34" id="41">
+  <note reference-line="34" id="41">
+    <original>abhidhāna 277 gāthā</original>
     <type>raw</type>
+    <snippet>. Liṅgapadaṃ yathā – pume tu paṇhi pāsaṇi </snippet>
+    <alternatives>
+    </alternatives>
   </note>
-  <note line="140" original="abhidhāna 238 gāthā" reference-line="34" id="42">
+  <note reference-line="34" id="42">
+    <original>abhidhāna 238 gāthā</original>
     <type>raw</type>
+    <snippet>. Pume tūtu rajo pupphaṃ </snippet>
+    <alternatives>
+    </alternatives>
   </note>
-  <note line="143" original="abhidhāna 298 gāthā" reference-line="34" id="43">
+  <note reference-line="34" id="43">
+    <original>abhidhāna 298 gāthā</original>
     <type>raw</type>
+    <snippet>. Sā tirokaraṇīpyatha </snippet>
+    <alternatives>
+    </alternatives>
   </note>
-  <note line="146" original="abhidhāna 299 gāthā" reference-line="34" id="44">
+  <note reference-line="34" id="44">
+    <original>abhidhāna 299 gāthā</original>
     <type>raw</type>
+    <snippet>. Punnapuṃsakamullocaṃ </snippet>
+    <alternatives>
+    </alternatives>
   </note>
-  <note line="149" original="abhidhāna 973 gāthā" reference-line="34" id="45">
+  <note reference-line="34" id="45">
+    <original>abhidhāna 973 gāthā</original>
     <type>raw</type>
+    <snippet>. Atthapadaṃ yathā – udare tu tathā pācā’nalasmiṃ gahaṇītthiyaṃ </snippet>
+    <alternatives>
+    </alternatives>
   </note>
-  <note line="152" original="abhidhāna 940 gāthā" reference-line="34" id="46">
+  <note reference-line="34" id="46">
+    <original>abhidhāna 940 gāthā</original>
     <type>raw</type>
+    <snippet>. Paṇīto tīsu madhure, uttame vihitepyatha. Añjase visikhāyañca, pantiyaṃ vīthi nāriyaṃ </snippet>
+    <alternatives>
+    </alternatives>
   </note>
-  <note line="155" original="abhidhāna 623 gāthā" reference-line="34" id="47">
+  <note reference-line="34" id="47">
+    <original>abhidhāna 623 gāthā</original>
     <type>raw</type>
+    <snippet> saddādīsu ca na pubbena sambajjhate. Pāṇako cāpyatho uccāliṅgo lomasapāṇakoti </snippet>
+    <alternatives>
+    </alternatives>
   </note>
-  <note line="158" original="pāṇini 3.3.132" reference-line="35" id="48">
+  <note reference-line="35" id="48">
+    <original>pāṇini 3.3.132</original>
     <type>raw</type>
+    <snippet>, tatoyeva ‘‘āsīsāyaṃ bhūtamiva ce’’ti </snippet>
+    <alternatives>
+    </alternatives>
   </note>
 </notes>

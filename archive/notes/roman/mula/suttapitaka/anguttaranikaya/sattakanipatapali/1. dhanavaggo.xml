@@ -1,34 +1,33 @@
-<?xml version="1.0" encoding="utf-8"?>
 <notes archive-path="/mula/suttapitaka/anguttaranikaya/sattakanipatapali/1. dhanavaggo">
-  <note line="3" original="hiri (sī. pī. ka.)" reference-line="15" id="0">
-    <extra></extra>
+  <note reference-line="15" id="0">
+    <original>hiri (sī. pī. ka.)</original>
+    <type>auto</type>
+    <snippet> vīriyañca, hirī </snippet>
+    <match>hirī</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">hirī</alternative>
       <alternative source-abbr="sī." source="sri lanka">hiri</alternative>
       <alternative source-abbr="pī." source="pali text society">hiri</alternative>
       <alternative source-abbr="ka." source="cambodian">hiri</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> vīriyañca, hirī </snippet>
   </note>
-  <note line="14" original="varaṃ (ka.)" reference-line="41" id="1">
-    <extra></extra>
-    <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">saraṃ</alternative>
-      <alternative source-abbr="ka." source="cambodian">varaṃ</alternative>
-    </alternatives>
+  <note reference-line="41" id="1">
+    <original>varaṃ (ka.)</original>
     <type>auto</type>
     <snippet>Anuyuñjetha medhāvī, saraṃ </snippet>
-  </note>
-  <note line="23" original="sahassānaṃ (sī.), sahassāni (syā.), satasahassāni (?)" reference-line="59" id="2">
-    <extra></extra>
+    <match>saraṃ</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">satasahassānaṃ</alternative>
+      <alternative source-abbr="ka." source="cambodian">varaṃ</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="59" id="2">
+    <original>sahassānaṃ (sī.), sahassāni (syā.), satasahassāni (?)</original>
+    <type>auto</type>
+    <snippet> panugga, migāro rohaṇeyyo, kīva mahaddhano, kīva mahābhogo’’ti? ‘‘Sataṃ, bhante, satasahassānaṃ </snippet>
+    <match>satasahassānaṃ</match>
+    <alternatives>
       <alternative source-abbr="sī." source="sri lanka">sahassānaṃ</alternative>
       <alternative source-abbr="syā." source="thai">sahassāni</alternative>
       <alternative source-abbr="?" source="unknown">satasahassāni</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> panugga, migāro rohaṇeyyo, kīva mahaddhano, kīva mahābhogo’’ti? Sataṃ, bhante, satasahassānaṃ </snippet>
   </note>
 </notes>

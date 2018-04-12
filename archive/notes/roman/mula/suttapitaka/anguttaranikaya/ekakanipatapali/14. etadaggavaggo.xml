@@ -1,136 +1,129 @@
-<?xml version="1.0" encoding="utf-8"?>
 <notes archive-path="/mula/suttapitaka/anguttaranikaya/ekakanipatapali/14. etadaggavaggo">
-  <note line="3" original="aññātakoṇḍaññoti (ka.), aññākoṇḍañño (sī. syā. kaṃ. pī.)" reference-line="3" id="0">
-    <extra></extra>
-    <alternatives>
-      <alternative source-abbr="ka." source="cambodian">aññātakoṇḍaññoti</alternative>
-      <alternative source-abbr="vri" source="vipassana research institut">aññāsikoṇḍañño</alternative>
-      <alternative source-abbr="sī." source="sri lanka">aññākoṇḍañño</alternative>
-      <alternative source-abbr="syā." source="thai">aññākoṇḍañño</alternative>
-      <alternative source-abbr="kaṃ." source="kaṃ.">aññākoṇḍañño</alternative>
-      <alternative source-abbr="pī." source="pali text society">aññākoṇḍañño</alternative>
-    </alternatives>
+  <note reference-line="3" id="0">
+    <original>aññātakoṇḍaññoti (ka.), aññākoṇḍañño (sī. syā. kaṃ. pī.)</original>
     <type>auto</type>
     <snippet>, bhikkhave, mama sāvakānaṃ bhikkhūnaṃ rattaññūnaṃ yadidaṃ aññāsikoṇḍañño’’ </snippet>
-  </note>
-  <note line="16" original="dhutaṅgadharānaṃ (katthaci)" reference-line="6" id="1">
-    <extra></extra>
+    <match>aññāsikoṇḍañño’’</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">Dhutavādānaṃ</alternative>
-      <alternative source-abbr="katthaci" source="katthaci">dhutaṅgadharānaṃ</alternative>
+      <alternative source-abbr="ka." source="cambodian">aññātakoṇḍaññoti</alternative>
+      <alternative source-abbr="sī." source="sri lanka">aññākoṇḍañño</alternative>
+      <alternative source-abbr="syā." source="thai">aññākoṇḍañño</alternative>
+      <alternative source-abbr="kaṃ." source="kam">aññākoṇḍañño</alternative>
+      <alternative source-abbr="pī." source="pali text society">aññākoṇḍañño</alternative>
     </alternatives>
-    <type>auto</type>
+  </note>
+  <note reference-line="6" id="1">
+    <original>dhutaṅgadharānaṃ (katthaci)</original>
+    <type>raw</type>
     <snippet> … Dhutavādānaṃ </snippet>
-  </note>
-  <note line="25" original="lakuṇṭaka (syā. kaṃ.)" reference-line="9" id="2">
-    <extra></extra>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">lakuṇḍaka</alternative>
-      <alternative source-abbr="syā." source="thai">lakuṇṭaka</alternative>
-      <alternative source-abbr="kaṃ." source="kaṃ.">lakuṇṭaka</alternative>
     </alternatives>
+  </note>
+  <note reference-line="9" id="2">
+    <original>lakuṇṭaka (syā. kaṃ.)</original>
     <type>auto</type>
     <snippet> … Mañjussarānaṃ yadidaṃ lakuṇḍaka </snippet>
-  </note>
-  <note line="35" original="cullapanthako (sī. syā. kaṃ. pī.)" reference-line="15" id="3">
-    <extra></extra>
+    <match>lakuṇḍaka</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">cūḷapanthako</alternative>
-      <alternative source-abbr="sī." source="sri lanka">cullapanthako</alternative>
-      <alternative source-abbr="syā." source="thai">cullapanthako</alternative>
-      <alternative source-abbr="kaṃ." source="kaṃ.">cullapanthako</alternative>
-      <alternative source-abbr="pī." source="pali text society">cullapanthako</alternative>
+      <alternative source-abbr="syā." source="thai">lakuṇṭaka</alternative>
+      <alternative source-abbr="kaṃ." source="kam">lakuṇṭaka</alternative>
     </alternatives>
+  </note>
+  <note reference-line="15" id="3">
+    <original>cullapanthako (sī. syā. kaṃ. pī.)</original>
     <type>auto</type>
     <snippet>, bhikkhave, mama sāvakānaṃ bhikkhūnaṃ manomayaṃ kāyaṃ abhinimminantānaṃ yadidaṃ cūḷapanthako’’ </snippet>
-  </note>
-  <note line="47" original="mahākoṭṭhikoti (aññesu suttesu marammapotthake)" reference-line="37" id="4">
-    <extra></extra>
+    <match>cūḷapanthako’’</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">mahākoṭṭhitoti</alternative>
-      <alternative source-abbr="aññesu suttesu marammapotthake" source="aññesu suttesu marammapotthake">mahākoṭṭhikoti</alternative>
+      <alternative source-abbr="sī." source="sri lanka">cullapanthako</alternative>
+      <alternative source-abbr="syā." source="thai">cullapanthako</alternative>
+      <alternative source-abbr="kaṃ." source="kam">cullapanthako</alternative>
+      <alternative source-abbr="pī." source="pali text society">cullapanthako</alternative>
     </alternatives>
-    <type>auto</type>
+  </note>
+  <note reference-line="37" id="4">
+    <original>mahākoṭṭhikoti (aññesu suttesu marammapotthake)</original>
+    <type>raw</type>
     <snippet> … Paṭisambhidāpattānaṃ yadidaṃ mahākoṭṭhitoti </snippet>
-  </note>
-  <note line="56" original="bakkulo (sī. syā. kaṃ. pī.)" reference-line="47" id="5">
-    <extra></extra>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">bākulo</alternative>
-      <alternative source-abbr="sī." source="sri lanka">bakkulo</alternative>
-      <alternative source-abbr="syā." source="thai">bakkulo</alternative>
-      <alternative source-abbr="kaṃ." source="kaṃ.">bakkulo</alternative>
-      <alternative source-abbr="pī." source="pali text society">bakkulo</alternative>
     </alternatives>
+  </note>
+  <note reference-line="47" id="5">
+    <original>bakkulo (sī. syā. kaṃ. pī.)</original>
     <type>auto</type>
     <snippet> … Appābādhānaṃ yadidaṃ bākulo </snippet>
-  </note>
-  <note line="68" original="sakulā (sī. syā. kaṃ. pī.)" reference-line="65" id="6">
-    <extra></extra>
+    <match>bākulo</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">bakulā</alternative>
-      <alternative source-abbr="sī." source="sri lanka">sakulā</alternative>
-      <alternative source-abbr="syā." source="thai">sakulā</alternative>
-      <alternative source-abbr="kaṃ." source="kaṃ.">sakulā</alternative>
-      <alternative source-abbr="pī." source="pali text society">sakulā</alternative>
+      <alternative source-abbr="sī." source="sri lanka">bakkulo</alternative>
+      <alternative source-abbr="syā." source="thai">bakkulo</alternative>
+      <alternative source-abbr="kaṃ." source="kam">bakkulo</alternative>
+      <alternative source-abbr="pī." source="pali text society">bakkulo</alternative>
     </alternatives>
+  </note>
+  <note reference-line="65" id="6">
+    <original>sakulā (sī. syā. kaṃ. pī.)</original>
     <type>auto</type>
     <snippet> … Dibbacakkhukānaṃ yadidaṃ bakulā </snippet>
-  </note>
-  <note line="80" original="sigālamātāti (sī. syā. kaṃ. pī.)" reference-line="70" id="7">
-    <extra></extra>
+    <match>bakulā</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">siṅgālakamātāti</alternative>
-      <alternative source-abbr="sī." source="sri lanka">sigālamātāti</alternative>
-      <alternative source-abbr="syā." source="thai">sigālamātāti</alternative>
-      <alternative source-abbr="kaṃ." source="kaṃ.">sigālamātāti</alternative>
-      <alternative source-abbr="pī." source="pali text society">sigālamātāti</alternative>
+      <alternative source-abbr="sī." source="sri lanka">sakulā</alternative>
+      <alternative source-abbr="syā." source="thai">sakulā</alternative>
+      <alternative source-abbr="kaṃ." source="kam">sakulā</alternative>
+      <alternative source-abbr="pī." source="pali text society">sakulā</alternative>
     </alternatives>
+  </note>
+  <note reference-line="70" id="7">
+    <original>sigālamātāti (sī. syā. kaṃ. pī.)</original>
     <type>auto</type>
     <snippet> yadidaṃ siṅgālakamātāti </snippet>
-  </note>
-  <note line="92" original="tapassubhallikā (sī. pī.)" reference-line="73" id="8">
-    <extra></extra>
+    <match>siṅgālakamātāti</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">tapussabhallikā</alternative>
+      <alternative source-abbr="sī." source="sri lanka">sigālamātāti</alternative>
+      <alternative source-abbr="syā." source="thai">sigālamātāti</alternative>
+      <alternative source-abbr="kaṃ." source="kam">sigālamātāti</alternative>
+      <alternative source-abbr="pī." source="pali text society">sigālamātāti</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="73" id="8">
+    <original>tapassubhallikā (sī. pī.)</original>
+    <type>auto</type>
+    <snippet> tapussabhallikā </snippet>
+    <match>tapussabhallikā</match>
+    <alternatives>
       <alternative source-abbr="sī." source="sri lanka">tapassubhallikā</alternative>
       <alternative source-abbr="pī." source="pali text society">tapassubhallikā</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> tapussabhallikā </snippet>
   </note>
-  <note line="102" original="sūro ambaṭṭho (sī. syā. kaṃ. pī.) surebandho (ka.)" reference-line="80" id="9">
-    <extra></extra>
+  <note reference-line="80" id="9">
+    <original>sūro ambaṭṭho (sī. syā. kaṃ. pī.) surebandho (ka.)</original>
+    <type>no_match</type>
+    <snippet> … Aveccappasannānaṃ yadidaṃ sūrambaṭṭho </snippet>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">sūrambaṭṭho</alternative>
       <alternative source-abbr="sī." source="sri lanka">sūro ambaṭṭho</alternative>
       <alternative source-abbr="syā." source="thai">sūro ambaṭṭho</alternative>
-      <alternative source-abbr="kaṃ." source="kaṃ.">sūro ambaṭṭho</alternative>
+      <alternative source-abbr="kaṃ." source="kam">sūro ambaṭṭho</alternative>
       <alternative source-abbr="pī." source="pali text society">sūro ambaṭṭho</alternative>
       <alternative source-abbr="ka." source="cambodian">surebandho</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> … Aveccappasannānaṃ yadidaṃ sūrambaṭṭho </snippet>
   </note>
-  <note line="115" original="senānī dhītā (sī. syā. kaṃ. pī.)" reference-line="85" id="10">
-    <extra></extra>
+  <note reference-line="85" id="10">
+    <original>senānī dhītā (sī. syā. kaṃ. pī.)</original>
+    <type>no_match</type>
+    <snippet>, bhikkhave, mama sāvikānaṃ upāsikānaṃ paṭhamaṃ saraṇaṃ gacchantīnaṃ yadidaṃ sujātā seniyadhītā’’ </snippet>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">seniyadhītā</alternative>
       <alternative source-abbr="sī." source="sri lanka">senānī dhītā</alternative>
       <alternative source-abbr="syā." source="thai">senānī dhītā</alternative>
-      <alternative source-abbr="kaṃ." source="kaṃ.">senānī dhītā</alternative>
+      <alternative source-abbr="kaṃ." source="kam">senānī dhītā</alternative>
       <alternative source-abbr="pī." source="pali text society">senānī dhītā</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet>, bhikkhave, mama sāvikānaṃ upāsikānaṃ paṭhamaṃ saraṇaṃ gacchantīnaṃ yadidaṃ sujātā seniyadhītā’’ </snippet>
   </note>
-  <note line="127" original="kulagharikā (ka.)" reference-line="94" id="11">
-    <extra></extra>
-    <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">kulagharikā</alternative>
-      <alternative source-abbr="ka." source="cambodian">kulagharikā</alternative>
-    </alternatives>
+  <note reference-line="94" id="11">
+    <original>kulagharikā (ka.)</original>
     <type>auto</type>
     <snippet> … Anussavappasannānaṃ yadidaṃ kāḷī upāsikā kulagharikā </snippet>
+    <match>kulagharikā</match>
+    <alternatives>
+      <alternative source-abbr="ka." source="cambodian">kulagharikā</alternative>
+    </alternatives>
   </note>
 </notes>

@@ -1,58 +1,59 @@
-<?xml version="1.0" encoding="utf-8"?>
 <notes archive-path="/mula/suttapitaka/khuddakanikaya/apadanapali-1/37. mandaravapupphiyavaggo">
-  <note line="3" original="gokkhanumālaṃ (sī.)" reference-line="20" id="0">
-    <extra></extra>
-    <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">Kakkārumālaṃ</alternative>
-      <alternative source-abbr="sī." source="sri lanka">gokkhanumālaṃ</alternative>
-    </alternatives>
+  <note reference-line="20" id="0">
+    <original>gokkhanumālaṃ (sī.)</original>
     <type>auto</type>
     <snippet>Kakkārumālaṃ </snippet>
-  </note>
-  <note line="12" original="gokkhanupupphiyo (ka.)" reference-line="26" id="1">
-    <extra></extra>
+    <match>Kakkārumālaṃ</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">kakkārupupphiyo</alternative>
-      <alternative source-abbr="ka." source="cambodian">gokkhanupupphiyo</alternative>
+      <alternative source-abbr="sī." source="sri lanka">gokkhanumālaṃ</alternative>
     </alternatives>
+  </note>
+  <note reference-line="26" id="1">
+    <original>gokkhanupupphiyo (ka.)</original>
     <type>auto</type>
     <snippet>Itthaṃ sudaṃ āyasmā kakkārupupphiyo </snippet>
+    <match>kakkārupupphiyo</match>
+    <alternatives>
+      <alternative source-abbr="ka." source="cambodian">gokkhanupupphiyo</alternative>
+    </alternatives>
   </note>
-  <note line="21" original="sappañño (sī. syā.)" reference-line="31" id="2">
-    <extra></extra>
+  <note reference-line="31" id="2">
+    <original>sappañño (sī. syā.)</original>
+    <type>auto</type>
+    <snippet>Vivekakāmo sabbaññū </snippet>
+    <match>sabbaññū</match>
     <alternatives>
       <alternative source-abbr="sī." source="sri lanka">sappañño</alternative>
       <alternative source-abbr="syā." source="thai">sappañño</alternative>
     </alternatives>
-    <type>no_match</type>
-    <snippet>Vivekakāmo sabbaññū </snippet>
   </note>
-  <note line="30" original="kesaripupphāni (sī.)" reference-line="47" id="3">
-    <extra></extra>
+  <note reference-line="47" id="3">
+    <original>kesaripupphāni (sī.)</original>
+    <type>auto</type>
+    <snippet> ‘‘Tīṇi kesarapupphāni </snippet>
+    <match>kesarapupphāni</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">kesarapupphāni</alternative>
       <alternative source-abbr="sī." source="sri lanka">kesaripupphāni</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> Tīṇi kesarapupphāni </snippet>
   </note>
-  <note line="39" original="upagacchihaṃ (sī. syā.)" reference-line="59" id="4">
-    <extra></extra>
+  <note reference-line="59" id="4">
+    <original>upagacchihaṃ (sī. syā.)</original>
+    <type>auto</type>
+    <snippet>Disvāna taṃ ahaṃ buddhaṃ, sayambhuṃ aparājitaṃ </snippet>
+    <match>aparājitaṃ</match>
     <alternatives>
       <alternative source-abbr="sī." source="sri lanka">upagacchihaṃ</alternative>
       <alternative source-abbr="syā." source="thai">upagacchihaṃ</alternative>
     </alternatives>
-    <type>no_match</type>
-    <snippet>Disvāna taṃ ahaṃ buddhaṃ, sayambhuṃ aparājitaṃ </snippet>
   </note>
-  <note line="48" original="sujāto (syā.), anumo (ka.)" reference-line="86" id="5">
-    <extra></extra>
+  <note reference-line="86" id="5">
+    <original>sujāto (syā.), anumo (ka.)</original>
+    <type>auto</type>
+    <snippet> ‘‘Anomo </snippet>
+    <match>‘‘Anomo</match>
     <alternatives>
       <alternative source-abbr="syā." source="thai">sujāto</alternative>
-      <alternative source-abbr="vri" source="vipassana research institut">Anomo</alternative>
       <alternative source-abbr="ka." source="cambodian">anumo</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> Anomo </snippet>
   </note>
 </notes>

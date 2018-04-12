@@ -1,50 +1,48 @@
-<?xml version="1.0" encoding="utf-8"?>
 <notes archive-path="/mula/suttapitaka/dighanikaya/silakkhandhavaggapali/8. mahasihanadasuttam">
-  <note line="3" original="ujuññāyaṃ (sī. syā. kaṃ. pī.)" reference-line="3" id="0">
-    <extra></extra>
-    <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">uruññāyaṃ</alternative>
-      <alternative source-abbr="sī." source="sri lanka">ujuññāyaṃ</alternative>
-      <alternative source-abbr="syā." source="thai">ujuññāyaṃ</alternative>
-      <alternative source-abbr="kaṃ." source="kaṃ.">ujuññāyaṃ</alternative>
-      <alternative source-abbr="pī." source="pali text society">ujuññāyaṃ</alternative>
-    </alternatives>
+  <note reference-line="3" id="0">
+    <original>ujuññāyaṃ (sī. syā. kaṃ. pī.)</original>
     <type>auto</type>
     <snippet> me sutaṃ – ekaṃ samayaṃ bhagavā uruññāyaṃ </snippet>
-  </note>
-  <note line="15" original="dakkhiti (sī.)" reference-line="18" id="1">
-    <extra></extra>
+    <match>uruññāyaṃ</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">dakkhati</alternative>
+      <alternative source-abbr="sī." source="sri lanka">ujuññāyaṃ</alternative>
+      <alternative source-abbr="syā." source="thai">ujuññāyaṃ</alternative>
+      <alternative source-abbr="kaṃ." source="kam">ujuññāyaṃ</alternative>
+      <alternative source-abbr="pī." source="pali text society">ujuññāyaṃ</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="18" id="1">
+    <original>dakkhiti (sī.)</original>
+    <type>auto</type>
+    <snippet> ‘‘Atthi, kassapa, maggo atthi paṭipadā, yathāpaṭipanno sāmaṃyeva ñassati sāmaṃ dakkhati </snippet>
+    <match>dakkhati</match>
+    <alternatives>
       <alternative source-abbr="sī." source="sri lanka">dakkhiti</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> Atthi, kassapa, maggo atthi paṭipadā, yathāpaṭipanno sāmaṃyeva ñassati sāmaṃ dakkhati </snippet>
   </note>
-  <note line="24" original="ubbhaṭṭhikopi (ka.)" reference-line="22" id="2">
-    <extra></extra>
-    <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">ubbhaṭṭhakopi</alternative>
-      <alternative source-abbr="ka." source="cambodian">ubbhaṭṭhikopi</alternative>
-    </alternatives>
+  <note reference-line="22" id="2">
+    <original>ubbhaṭṭhikopi (ka.)</original>
     <type>auto</type>
     <snippet> dhāreti, ajinakkhipampi dhāreti, kusacīrampi dhāreti, vākacīrampi dhāreti, phalakacīrampi dhāreti, kesakambalampi dhāreti, vāḷakambalampi dhāreti, ulūkapakkhikampi dhāreti, kesamassulocakopi hoti kesamassulocanānuyogamanuyutto, ubbhaṭṭhakopi </snippet>
-  </note>
-  <note line="33" original="yato ca kho (ka.)" reference-line="38" id="3">
-    <extra></extra>
+    <match>ubbhaṭṭhakopi</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">Yato kho</alternative>
+      <alternative source-abbr="ka." source="cambodian">ubbhaṭṭhikopi</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="38" id="3">
+    <original>yato ca kho (ka.)</original>
+    <type>no_match</type>
+    <snippet>‘‘Yasmā ca kho, kassapa, aññatreva imāya mattāya aññatra iminā tapopakkamena samaṇo vā hoti brāhmaṇo vā dujjāno sudujjāno, tasmā etaṃ kallaṃ vacanāya – ‘dujjāno samaṇo dujjāno brāhmaṇo’ti. Yato kho </snippet>
+    <alternatives>
       <alternative source-abbr="ka." source="cambodian">yato ca kho</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet>Yasmā ca kho, kassapa, aññatreva imāya mattāya aññatra iminā tapopakkamena samaṇo vā hoti brāhmaṇo vā dujjāno sudujjāno, tasmā etaṃ kallaṃ vacanāya – ‘dujjāno samaṇo dujjāno brāhmaṇo’ti. Yato kho </snippet>
   </note>
-  <note line="42" original="ayaṃ kho (ka.)" reference-line="49" id="4">
-    <extra></extra>
+  <note reference-line="49" id="4">
+    <original>ayaṃ kho (ka.)</original>
+    <type>no_match</type>
+    <snippet>‘‘Sa kho so </snippet>
     <alternatives>
       <alternative source-abbr="ka." source="cambodian">ayaṃ kho</alternative>
     </alternatives>
-    <type>no_match</type>
-    <snippet>Sa kho so </snippet>
   </note>
 </notes>

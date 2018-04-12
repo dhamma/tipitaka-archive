@@ -1,33 +1,31 @@
-<?xml version="1.0" encoding="utf-8"?>
 <notes archive-path="/mula/suttapitaka/khuddakanikaya/dhammapadapali/7. arahantavaggo">
-  <note line="3" original="sakuṇānaṃ (ka.)" reference-line="11" id="0">
-    <extra></extra>
-    <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">sakuntānaṃ</alternative>
-      <alternative source-abbr="ka." source="cambodian">sakuṇānaṃ</alternative>
-    </alternatives>
+  <note reference-line="11" id="0">
+    <original>sakuṇānaṃ (ka.)</original>
     <type>auto</type>
     <snippet>Ākāse va sakuntānaṃ </snippet>
-  </note>
-  <note line="12" original="samathaṃ gatāni (sī. pī.)" reference-line="17" id="1">
-    <extra></extra>
+    <match>sakuntānaṃ</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">samathaṅgatāni</alternative>
+      <alternative source-abbr="ka." source="cambodian">sakuṇānaṃ</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="17" id="1">
+    <original>samathaṃ gatāni (sī. pī.)</original>
+    <type>no_match</type>
+    <snippet> Yassindriyāni samathaṅgatāni </snippet>
+    <alternatives>
       <alternative source-abbr="sī." source="sri lanka">samathaṃ gatāni</alternative>
       <alternative source-abbr="pī." source="pali text society">samathaṃ gatāni</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> Yassindriyāni samathaṅgatāni </snippet>
   </note>
-  <note line="22" original="indakhīlūpamo (sī. syā. ka.)" reference-line="20" id="2">
-    <extra></extra>
+  <note reference-line="20" id="2">
+    <original>indakhīlūpamo (sī. syā. ka.)</original>
+    <type>auto</type>
+    <snippet> Pathavisamo no virujjhati, indakhilupamo </snippet>
+    <match>indakhilupamo</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">indakhilupamo</alternative>
       <alternative source-abbr="sī." source="sri lanka">indakhīlūpamo</alternative>
       <alternative source-abbr="syā." source="thai">indakhīlūpamo</alternative>
       <alternative source-abbr="ka." source="cambodian">indakhīlūpamo</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> Pathavisamo no virujjhati, indakhilupamo </snippet>
   </note>
 </notes>

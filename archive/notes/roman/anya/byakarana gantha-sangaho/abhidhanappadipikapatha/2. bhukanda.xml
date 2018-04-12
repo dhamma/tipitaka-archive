@@ -1,12 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?>
 <notes archive-path="/anya/byakarana gantha-sangaho/abhidhanappadipikapatha/2. bhukanda">
-  <note line="3" original="pajjā…. (ka.)" reference-line="39" id="0">
-    <extra></extra>
-    <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">Pajjo</alternative>
-      <alternative source-abbr="ka." source="cambodian">pajjā….</alternative>
-    </alternatives>
+  <note reference-line="39" id="0">
+    <original>pajjā…. (ka.)</original>
     <type>auto</type>
     <snippet> Pajjo </snippet>
+    <match>Pajjo</match>
+    <alternatives>
+      <alternative source-abbr="ka." source="cambodian">pajjā….</alternative>
+    </alternatives>
   </note>
 </notes>

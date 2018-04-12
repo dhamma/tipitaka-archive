@@ -23,25 +23,25 @@ public class NotesBuilder extends NoopBuilder
 
   public static final String NOTE = "__NOTE__";
 
-  private final Notes notes;
+  private final static Pattern ALTERNATIVE = Pattern.compile(",? ?;?([^()+0-9]*[(]((kaṃ|ka|sī|syā|pī|ṭī|[?]),?[.]?[ ]?)+[)]),? ?");
 
-  public NotesBuilder(Writer writer) {
-    super(writer);
-    this.notes = new Notes();
+  private final static Pattern VERSIONS = Pattern.compile("(kaṃ|ka|sī|syā|pī|ṭī|[?])");
+
+  private final static Pattern HINT = Pattern.compile(",? ?(([^…()-+- ]+[ ][+=][ ])+[^…()-+- ]+),? ?");
+
+  private final static Pattern REFERENCES = Pattern.compile("(\\s|^|;|\\))+(([^0-9 ]+\\.\\s)+[0-9]+([.][0-9]+)*);?");
+
+  private final Notes oldNotes;
+  private final Notes newNotes;
+  private Note note;
+
+  public NotesBuilder(Notes notes) {
+    this.oldNotes = notes;
+    this.newNotes = new Notes();
   }
 
-  @Override
-  public void documentStart(final Document document) throws IOException {
-    state.append("<?xml version=\"1.0\" encoding=\"utf-8\"?>\n");
-    state.append("<notes archive-path=\"").append(document.getPath()).append("\">\n");
-
-    state.nextNumber();
-    state.nextNumber();
-  }
-
-  @Override
-  public void documentEnd() throws IOException {
-    state.append("</notes>\n");
+  public Notes get() {
+    return this.newNotes;
   }
 
   @Override
@@ -50,141 +50,145 @@ public class NotesBuilder extends NoopBuilder
   }
 
   @Override
+  public void documentStart(final Document document) throws IOException {
+    newNotes.archivePath = document.getPath();
+  }
+
+  @Override
   public void noteStart() throws IOException {
+    if (this.note != null) throw new RuntimeException();
     state.push(NOTE);
+    this.note = new Note();
+    this.note.id = state.nextId();
+    this.note.referenceLine = state.getLineNumber();
+  }
+
+  @Override
+  public void noteEnd() throws IOException {
+    state.pop();
+    this.newNotes.addNote(this.note);
+    this.note = null;
+  }
+
+  private boolean hint(String text, String previous) throws IOException {
+    Matcher matcher = HINT.matcher(text);
+    if (matcher.matches()) {
+      String hint = matcher.group(1);
+      this.note.hint = hint;
+      String match = matcher.group(1).replaceFirst(".*=\\s", "");
+      if (!previous.contains(match)) {
+        return false;
+      }
+      if (hint.contains("=") && !match.isEmpty()) {
+        this.note.match = match;
+      }
+      return true;
+    }
+    return false;
+  }
+
+  private boolean alternative(String item) throws IOException {
+    String text = item.replaceFirst("\\(.*", "").trim();
+    Matcher matcher = VERSIONS.matcher(item.replaceFirst(".*\\(", "("));
+    while(matcher.find()) {
+      Version version = Version.toVersion(matcher.group(1));
+      Alternative alt = new Alternative();
+      alt.setVersion(version);
+      alt.text = text;
+      this.note.addAlternative(alt);
+    }
+    return !text.contains(" ");
+  }
+
+  private boolean alternatives(String text, String previous) throws IOException {
+    Matcher matcher = ALTERNATIVE.matcher(text);
+    List<String> found = new LinkedList<String>();
+    int end = 0;
+    int start = 0;
+    while(matcher.find()) {
+      if (found.isEmpty()) start = matcher.start();
+      found.add(matcher.group(1));
+      end = matcher.end();
+    }
+    if (!found.isEmpty() && start == 0) {
+      String subtext = text.substring(end);
+      if (text.length() != end && !hint(subtext, previous) && !references(subtext)) {
+        return false;
+      }
+      boolean single = true;
+      for(String item: found) {
+        single &= alternative(item);
+      }
+      if (single) {
+        String match = previous.trim().replaceFirst(".*\\ ", "");
+        this.note.match = match;
+      }
+      return true;
+    }
+    return false;
+  }
+
+  private boolean references(String text) throws IOException {
+    Matcher matcher = REFERENCES.matcher(text);
+    List<String> found = new LinkedList<String>();
+    int end = 0;
+    int start = 0;
+    while(matcher.find()) {
+      if (found.isEmpty()) start = matcher.start();
+      found.add(matcher.group(2));
+      end = matcher.end();
+    }
+    if (!found.isEmpty() && start == 0 && text.length() == end) {
+      this.note.references = found;
+      return true;
+    }
+    return false;
   }
 
   @Override
   public void text(String text) throws IOException {
     if (NOTE.equals(state.peek())) {
       String previous = state.getPreviousText();
-      int id = state.getId();
-      state.append("  <note line=\"").append(state.nextNumber())
-          .append("\" original=\"").append(text)
-          .append("\" reference-line=\"").append(state.getLineNumber())
-          .append("\" id=\"").append(state.nextId()).append("\">\n");
-      if (text.contains(")") && !text.startsWith("(")) {
-        Note note = notes.get(id);
-        boolean isManual = note != null && Type.manual == note.type;
-
-        LinkedList<String> sections = new LinkedList<>();
-        String extraNote = fillSections(text, sections);
-        state.nextNumber();
-        state.append("    <extra>").append(extraNote).append("</extra>\n");
-        state.nextNumber();
-        state.append("    <alternatives>\n");
-        Type type = appendAlternatives(sections, previous, isManual ? note.getVRI() : null);
-        state.nextNumber();
-        state.append("    </alternatives>\n");
-        state.nextNumber();
-        state.append("    <type>").append(type.name()).append("</type>\n");
-        if (!previous.trim().isEmpty()) {
-          state.nextNumber();
-          state.append("    <snippet>").append(previous.replace("‘‘", "")).append("</snippet>\n");
-        }
+      this.note.original = text;
+      this.note.snippet = previous;
+      this.note.type = Type.raw;
+      if (alternatives(text, previous)) {
+        this.note.type = Type.auto;
       }
       else {
-        state.nextNumber();
-        state.append("    <type>raw</type>\n");
+        if (hint(text, previous) || references(text)) {
+          this.note.type = Type.auto;
+        }
+        //        else if (text.matches(".*[(][^ ]*[)]$")) {
+        //System.out.println(previous + ":::::" + text);
+        //}
       }
-      state.nextNumber();
-      state.append("  </note>\n");
+
+      if (this.note.type == Type.auto) {
+        Note oldNote = oldNotes.get(this.note.id);
+        if (oldNote != null) {
+          if (oldNote.type == Type.manual) {
+            this.note.type = Type.manual;
+            this.note.match = oldNote.match;
+          }
+          else if (oldNote.type == Type.confirmed) {
+            this.note.type = Type.confirmed;
+          }
+        }
+        if (this.note.match == null) {
+          this.note.type = Type.no_match;
+        }
+      }
+      if (this.note.type == Type.raw) {
+        System.err.println("[WARN] (create.raw) " + text);
+      }
+      else if (this.note.type == Type.auto) {
+        System.err.println("[WARN] (create.match) " + this.note.match + " <> " + this.note.original + "\n\t" + this.note.snippet);
+      }
     }
     else {
       state.setPreviousText(text);
     }
-  }
-
-  private final static Pattern ALT_TEXT = Pattern.compile("^([^()]*)\\((([^()]+[.]?[^()]*)|\\?)\\)$");
-
-  private String fillSections(String current, List<String> sections) {
-    String last = current;
-    for (int i = current.indexOf(')'); i > -1; i = current.indexOf(')')) {
-      sections.add(current.substring(0, i + 1));
-      last = current.substring(i + 1);
-      current = last.replaceFirst("^, ?", "");
-    }
-    if (last.length() > 0) {
-      return last;
-    }
-    return "";
-  }
-
-  private Type appendAlternatives(final List<String> sections, final String previous, final String manual) throws IOException {
-    int count = 0;
-    if (manual != null) {
-      count ++;
-      state.nextNumber();
-      state.append("      <alternative source-abbr=\"").append(Version.VIPASSANA_RESEARCH_INSTITUT.getAbbrevation())
-          .append("\" source=\"").append(Version.VIPASSANA_RESEARCH_INSTITUT.getName()).append("\">")
-          .append(manual).append("</alternative>\n");
-    }
-
-    Type type = manual == null ? Type.no_match : Type.manual;
-    String found = null;
-    for (String section : sections) {
-      Matcher matcher = ALT_TEXT.matcher(section);
-      if (matcher.matches() && !matcher.group(1).trim().isEmpty()) {
-        if (found == null) {
-          final String altText = matcher.group(1).trim();
-          found = Fuzzy.findMatchingText(altText,
-              previous.trim().replaceAll("–|’’$", "").replaceFirst("^.*[;]", "").replaceAll("[,\\.‘]", "")
-                  .replaceAll("  ", " ").trim());
-          if (found != null && manual == null) {
-            if (previous.endsWith("’’ti ") && found.endsWith("ti")) {
-              found = found.substring(0, found.length() - 2) + "’’ti";
-            }
-            int index = found.indexOf(" ");
-            if (index > -1) {
-              found = previous.substring(previous.indexOf(found.substring(0, index))).trim();
-            }
-            type = Type.auto;
-            count ++;
-            state.nextNumber();
-            state.append("      <alternative source-abbr=\"").append(Version.VIPASSANA_RESEARCH_INSTITUT.getAbbrevation())
-                .append("\" source=\"").append(Version.VIPASSANA_RESEARCH_INSTITUT.getName()).append("\">")
-                .append(found).append("</alternative>\n");
-          }
-        }
-
-        String altText = matcher.group(1).trim();
-        count ++;
-        if (previous.endsWith("’’ti ") && altText.contains("ti") && found != null && found.endsWith("’’ti")) {
-          int index = altText.lastIndexOf("ti");
-          altText = altText.substring(0, index) + "’’" + altText.substring(index);
-        }
-        String name = matcher.group(2);
-
-        boolean first = true;
-        for(String part: name.split(" ")) {
-          Version version = Version.toVersion(part);
-          if (version == null) {
-            // break the loop after using the name as source
-            System.err.println("notes source: " + name + " " + type + " " + sections);
-            if (first) part = name;
-          }
-          state.nextNumber();
-          state.append("      <alternative source-abbr=\"").append(version == null ? part: version.getAbbrevation())
-              .append("\" source=\"").append(version == null ? part : version.getName())
-              .append("\">").append(altText)
-              .append("</alternative>\n");
-          if (first && name == part) {
-            break;
-          }
-          first = false;
-        }
-      }
-    }
-    if (count == 0) {
-      state.nextNumber();
-      state.append("      <alternative source-abbr=\"dummy\" source=\"dummy\"></alternative>\n");
-    }
-    return type;
-  }
-
-  @Override
-  public void noteEnd() throws IOException {
-    state.pop();
   }
 
 }

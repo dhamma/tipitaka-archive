@@ -1,41 +1,40 @@
-<?xml version="1.0" encoding="utf-8"?>
 <notes archive-path="/mula/suttapitaka/anguttaranikaya/pancakanipatapali/1. sammutipeyyalam">
-  <note line="3" original="na sammanitabbo (ka.) cūḷava. 326 passitabbaṃ" reference-line="3" id="0">
-    <extra> cūḷava. 326 passitabbaṃ</extra>
-    <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">na sammannitabbo</alternative>
-      <alternative source-abbr="ka." source="cambodian">na sammanitabbo</alternative>
-    </alternatives>
-    <type>auto</type>
+  <note reference-line="3" id="0">
+    <original>na sammanitabbo (ka.) cūḷava. 326 passitabbaṃ</original>
+    <type>raw</type>
     <snippet>, bhikkhave, dhammehi samannāgato bhattuddesako na sammannitabbo </snippet>
-  </note>
-  <note line="12" original="sammatopi (sī.)" reference-line="5" id="1">
-    <extra></extra>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">sammato</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="5" id="1">
+    <original>sammatopi (sī.)</original>
+    <type>auto</type>
+    <snippet>‘‘Pañcahi, bhikkhave, dhammehi samannāgato bhattuddesako sammato </snippet>
+    <match>sammato</match>
+    <alternatives>
       <alternative source-abbr="sī." source="sri lanka">sammatopi</alternative>
     </alternatives>
+  </note>
+  <note reference-line="8" id="2">
+    <original>paññattāpaññattaṃ (sī. syā. kaṃ.)</original>
     <type>auto</type>
-    <snippet>Pañcahi, bhikkhave, dhammehi samannāgato bhattuddesako sammato </snippet>
-  </note>
-  <note line="21" original="paññattāpaññattaṃ (sī. syā. kaṃ.)" reference-line="8" id="2">
-    <extra></extra>
-    <alternatives>
-      <alternative source-abbr="sī." source="sri lanka">paññattāpaññattaṃ</alternative>
-      <alternative source-abbr="syā." source="thai">paññattāpaññattaṃ</alternative>
-      <alternative source-abbr="kaṃ." source="kaṃ.">paññattāpaññattaṃ</alternative>
-    </alternatives>
-    <type>no_match</type>
     <snippet> na sammannitabbo…pe… gahitāgahitaṃ </snippet>
-  </note>
-  <note line="31" original="paññattāpaññattaṃ (sī. syā. kaṃ.)" reference-line="8" id="3">
-    <extra></extra>
+    <match>gahitāgahitaṃ</match>
     <alternatives>
       <alternative source-abbr="sī." source="sri lanka">paññattāpaññattaṃ</alternative>
       <alternative source-abbr="syā." source="thai">paññattāpaññattaṃ</alternative>
-      <alternative source-abbr="kaṃ." source="kaṃ.">paññattāpaññattaṃ</alternative>
+      <alternative source-abbr="kaṃ." source="kam">paññattāpaññattaṃ</alternative>
     </alternatives>
-    <type>no_match</type>
+  </note>
+  <note reference-line="8" id="3">
+    <original>paññattāpaññattaṃ (sī. syā. kaṃ.)</original>
+    <type>auto</type>
     <snippet> na jānāti…pe… senāsanagāhāpako sammannitabbo…pe… gahitāgahitaṃ </snippet>
+    <match>gahitāgahitaṃ</match>
+    <alternatives>
+      <alternative source-abbr="sī." source="sri lanka">paññattāpaññattaṃ</alternative>
+      <alternative source-abbr="syā." source="thai">paññattāpaññattaṃ</alternative>
+      <alternative source-abbr="kaṃ." source="kam">paññattāpaññattaṃ</alternative>
+    </alternatives>
   </note>
 </notes>

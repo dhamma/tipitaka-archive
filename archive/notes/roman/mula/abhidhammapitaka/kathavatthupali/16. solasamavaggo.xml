@@ -1,23 +1,37 @@
-<?xml version="1.0" encoding="utf-8"?>
 <notes archive-path="/mula/abhidhammapitaka/kathavatthupali/16. solasamavaggo">
-  <note line="3" original="dha. pa. 165" reference-line="11" id="0">
-    <type>raw</type>
-  </note>
-  <note line="6" original="ma. ni. 2.148 laṭukikopame" reference-line="29" id="1">
-    <type>raw</type>
-  </note>
-  <note line="9" original="dha. pa. 277-279" reference-line="50" id="2">
-    <type>raw</type>
-  </note>
-  <note line="12" original="upādārūpānaṃ (sī. pī. ka.)" reference-line="59" id="3">
-    <extra></extra>
+  <note reference-line="11" id="0">
+    <original>dha. pa. 165</original>
+    <type>no_match</type>
+    <snippet>Suddhi asuddhi paccattaṃ, nāñño aññaṃ visodhaye’’ti </snippet>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">upādāyarūpānaṃ</alternative>
+    </alternatives>
+    <references>
+      <reference>dha. pa. 165</reference>
+    </references>
+  </note>
+  <note reference-line="29" id="1">
+    <original>ma. ni. 2.148 laṭukikopame</original>
+    <type>raw</type>
+    <snippet> Na vattabbaṃ – ‘‘paro parassa sukhaṃ anuppadetī’’ti? Āmantā. Nanu āyasmā udāyī etadavoca – ‘‘bahūnaṃ vata no bhagavā dukkhadhammānaṃ apahattā, bahūnaṃ vata no bhagavā sukhadhammānaṃ upahattā, bahūnaṃ vata no bhagavā akusalānaṃ dhammānaṃ apahattā, bahūnaṃ vata no bhagavā kusalānaṃ dhammānaṃ upahattā’’ti </snippet>
+    <alternatives>
+    </alternatives>
+  </note>
+  <note reference-line="50" id="2">
+    <original>dha. pa. 277-279</original>
+    <type>raw</type>
+    <snippet>Atha nibbindati dukkhe, esa maggo visuddhiyā’’ti </snippet>
+    <alternatives>
+    </alternatives>
+  </note>
+  <note reference-line="59" id="3">
+    <original>upādārūpānaṃ (sī. pī. ka.)</original>
+    <type>auto</type>
+    <snippet> Na vattabbaṃ – ‘‘rūpaṃ hetū’’ti? Āmantā. Nanu mahābhūtā upādāyarūpānaṃ </snippet>
+    <match>upādāyarūpānaṃ</match>
+    <alternatives>
       <alternative source-abbr="sī." source="sri lanka">upādārūpānaṃ</alternative>
       <alternative source-abbr="pī." source="pali text society">upādārūpānaṃ</alternative>
       <alternative source-abbr="ka." source="cambodian">upādārūpānaṃ</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> Na vattabbaṃ – rūpaṃ hetū’’ti? Āmantā. Nanu mahābhūtā upādāyarūpānaṃ </snippet>
   </note>
 </notes>

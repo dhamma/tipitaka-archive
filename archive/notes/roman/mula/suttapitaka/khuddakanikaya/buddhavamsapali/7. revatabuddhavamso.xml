@@ -1,42 +1,40 @@
-<?xml version="1.0" encoding="utf-8"?>
 <notes archive-path="/mula/suttapitaka/khuddakanikaya/buddhavamsapali/7. revatabuddhavamso">
-  <note line="3" original="rājānaṃ (ka.)" reference-line="12" id="0">
-    <extra></extra>
-    <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">rājaṃ</alternative>
-      <alternative source-abbr="ka." source="cambodian">rājānaṃ</alternative>
-    </alternatives>
+  <note reference-line="12" id="0">
+    <original>rājānaṃ (ka.)</original>
     <type>auto</type>
     <snippet> Yadā arindamaṃ rājaṃ </snippet>
-  </note>
-  <note line="12" original="yo so (syā. kaṃ. ka.)" reference-line="24" id="1">
-    <extra></extra>
+    <match>rājaṃ</match>
     <alternatives>
-      <alternative source-abbr="syā." source="thai">yo so</alternative>
-      <alternative source-abbr="kaṃ." source="kaṃ.">yo so</alternative>
-      <alternative source-abbr="ka." source="cambodian">yo so</alternative>
+      <alternative source-abbr="ka." source="cambodian">rājānaṃ</alternative>
     </alternatives>
+  </note>
+  <note reference-line="24" id="1">
+    <original>yo so (syā. kaṃ. ka.)</original>
     <type>no_match</type>
     <snippet> Yopi </snippet>
-  </note>
-  <note line="22" original="sudhammakaṃ nāma (sī.), sudhaññakaṃ nāma (syā.)" reference-line="47" id="2">
-    <extra></extra>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">sudhaññavatī nāma</alternative>
+      <alternative source-abbr="syā." source="thai">yo so</alternative>
+      <alternative source-abbr="kaṃ." source="kam">yo so</alternative>
+      <alternative source-abbr="ka." source="cambodian">yo so</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="47" id="2">
+    <original>sudhammakaṃ nāma (sī.), sudhaññakaṃ nāma (syā.)</original>
+    <type>no_match</type>
+    <snippet> sudhaññavatī nāma </snippet>
+    <alternatives>
       <alternative source-abbr="sī." source="sri lanka">sudhammakaṃ nāma</alternative>
       <alternative source-abbr="syā." source="thai">sudhaññakaṃ nāma</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> sudhaññavatī nāma </snippet>
   </note>
-  <note line="32" original="chabbassasahassāni (sī. syā.)" reference-line="50" id="3">
-    <extra></extra>
+  <note reference-line="50" id="3">
+    <original>chabbassasahassāni (sī. syā.)</original>
+    <type>auto</type>
+    <snippet> ca vassasahassāni </snippet>
+    <match>vassasahassāni</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">vassasahassāni</alternative>
       <alternative source-abbr="sī." source="sri lanka">chabbassasahassāni</alternative>
       <alternative source-abbr="syā." source="thai">chabbassasahassāni</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> ca vassasahassāni </snippet>
   </note>
 </notes>

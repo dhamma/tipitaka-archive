@@ -1,30 +1,23 @@
-<?xml version="1.0" encoding="utf-8"?>
 <notes archive-path="/mula/abhidhammapitaka/vibhangapali/15. patisambhidavibhango">
-  <note line="3" original="paṭibhāṇapaṭisambhidā (syā.) evamuparipi" reference-line="4" id="0">
-    <extra> evamuparipi</extra>
-    <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">paṭibhānapaṭisambhidā</alternative>
-      <alternative source-abbr="syā." source="thai">paṭibhāṇapaṭisambhidā</alternative>
-    </alternatives>
-    <type>auto</type>
+  <note reference-line="4" id="0">
+    <original>paṭibhāṇapaṭisambhidā (syā.) evamuparipi</original>
+    <type>raw</type>
     <snippet> paṭisambhidā – atthapaṭisambhidā, dhammapaṭisambhidā, niruttipaṭisambhidā, paṭibhānapaṭisambhidā </snippet>
-  </note>
-  <note line="12" original="āsavā (sī.) dhātuvibhaṅge pana pāṭhanānattaṃ natthi" reference-line="79" id="1">
-    <extra> dhātuvibhaṅge pana pāṭhanānattaṃ natthi</extra>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">āsavo</alternative>
-      <alternative source-abbr="sī." source="sri lanka">āsavā</alternative>
     </alternatives>
-    <type>auto</type>
+  </note>
+  <note reference-line="79" id="1">
+    <original>āsavā (sī.) dhātuvibhaṅge pana pāṭhanānattaṃ natthi</original>
+    <type>raw</type>
     <snippet> na vattabbā āsavā ceva sāsavā cāti, sāsavā ceva no ca āsavā; atthapaṭisambhidā na vattabbā āsavo </snippet>
-  </note>
-  <note line="21" original="āsavā (sī.) dhātuvibhaṅge pana pāṭhanānattaṃ natthi" reference-line="79" id="2">
-    <extra> dhātuvibhaṅge pana pāṭhanānattaṃ natthi</extra>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">āsavo</alternative>
-      <alternative source-abbr="sī." source="sri lanka">āsavā</alternative>
     </alternatives>
-    <type>auto</type>
+  </note>
+  <note reference-line="79" id="2">
+    <original>āsavā (sī.) dhātuvibhaṅge pana pāṭhanānattaṃ natthi</original>
+    <type>raw</type>
     <snippet> ceva sāsavā cāti, siyā sāsavā ceva no ca āsavo </snippet>
+    <alternatives>
+    </alternatives>
   </note>
 </notes>

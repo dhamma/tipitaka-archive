@@ -1,21 +1,20 @@
-<?xml version="1.0" encoding="utf-8"?>
 <notes archive-path="/mula/suttapitaka/khuddakanikaya/nettippakaranapali/1. sangahavaro">
-  <note line="3" original="nettī (ka.)" reference-line="9" id="0">
-    <extra></extra>
-    <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">netti</alternative>
-      <alternative source-abbr="ka." source="cambodian">nettī</alternative>
-    </alternatives>
+  <note reference-line="9" id="0">
+    <original>nettī (ka.)</original>
     <type>auto</type>
     <snippet>Soḷasahārā netti </snippet>
-  </note>
-  <note line="12" original="mahākaccānena (sī.)" reference-line="10" id="1">
-    <extra></extra>
+    <match>netti</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">mahakaccānena</alternative>
-      <alternative source-abbr="sī." source="sri lanka">mahākaccānena</alternative>
+      <alternative source-abbr="ka." source="cambodian">nettī</alternative>
     </alternatives>
+  </note>
+  <note reference-line="10" id="1">
+    <original>mahākaccānena (sī.)</original>
     <type>auto</type>
     <snippet>Aṭṭhārasamūlapadā, mahakaccānena </snippet>
+    <match>mahakaccānena</match>
+    <alternatives>
+      <alternative source-abbr="sī." source="sri lanka">mahākaccānena</alternative>
+    </alternatives>
   </note>
 </notes>

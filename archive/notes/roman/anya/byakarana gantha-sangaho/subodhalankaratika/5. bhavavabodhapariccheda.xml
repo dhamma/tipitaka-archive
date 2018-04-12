@@ -1,39 +1,38 @@
-<?xml version="1.0" encoding="utf-8"?>
 <notes archive-path="/anya/byakarana gantha-sangaho/subodhalankaratika/5. bhavavabodhapariccheda">
-  <note line="3" original="ṭhāyībhāvādīnaṃ (ka.)" reference-line="17" id="0">
-    <extra></extra>
-    <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">ṭhāyīādīnaṃ</alternative>
-      <alternative source-abbr="ka." source="cambodian">ṭhāyībhāvādīnaṃ</alternative>
-    </alternatives>
+  <note reference-line="17" id="0">
+    <original>ṭhāyībhāvādīnaṃ (ka.)</original>
     <type>auto</type>
     <snippet> Idāni uddiṭṭhesu ṭhāyībhāvādīsu ṭhāyīādīnaṃ </snippet>
-  </note>
-  <note line="12" original="evarūpā (ka.)" reference-line="41" id="1">
-    <extra></extra>
+    <match>ṭhāyīādīnaṃ</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">Evameva</alternative>
-      <alternative source-abbr="ka." source="cambodian">evarūpā</alternative>
+      <alternative source-abbr="ka." source="cambodian">ṭhāyībhāvādīnaṃ</alternative>
     </alternatives>
+  </note>
+  <note reference-line="41" id="1">
+    <original>evarūpā (ka.)</original>
     <type>auto</type>
     <snippet> bhāvā byabhicārino nāma hontīti. Evameva </snippet>
-  </note>
-  <note line="21" original="gāharukkhapatanādīhi (?)" reference-line="73" id="2">
-    <extra></extra>
+    <match>Evameva</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">gāharukkhādīhi</alternative>
-      <alternative source-abbr="?" source="unknown">gāharukkhapatanādīhi</alternative>
+      <alternative source-abbr="ka." source="cambodian">evarūpā</alternative>
     </alternatives>
+  </note>
+  <note reference-line="73" id="2">
+    <original>gāharukkhapatanādīhi (?)</original>
     <type>auto</type>
     <snippet> gāharukkhādīhi </snippet>
-  </note>
-  <note line="30" original="hīnācārānaṃ (ka.)" reference-line="85" id="3">
-    <extra></extra>
+    <match>gāharukkhādīhi</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">hīnānaṃ</alternative>
-      <alternative source-abbr="ka." source="cambodian">hīnācārānaṃ</alternative>
+      <alternative source-abbr="?" source="unknown">gāharukkhapatanādīhi</alternative>
     </alternatives>
+  </note>
+  <note reference-line="85" id="3">
+    <original>hīnācārānaṃ (ka.)</original>
     <type>auto</type>
     <snippet>. Itthīnaṃ, hīnānaṃ </snippet>
+    <match>hīnānaṃ</match>
+    <alternatives>
+      <alternative source-abbr="ka." source="cambodian">hīnācārānaṃ</alternative>
+    </alternatives>
   </note>
 </notes>

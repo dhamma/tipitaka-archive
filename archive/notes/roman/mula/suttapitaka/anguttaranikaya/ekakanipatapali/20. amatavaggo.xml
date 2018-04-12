@@ -1,18 +1,25 @@
-<?xml version="1.0" encoding="utf-8"?>
 <notes archive-path="/mula/suttapitaka/anguttaranikaya/ekakanipatapali/20. amatavaggo">
-  <note line="3" original="aviraddhaṃ (ka.)" reference-line="5" id="0">
-    <extra></extra>
-    <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">āraddhaṃ</alternative>
-      <alternative source-abbr="ka." source="cambodian">aviraddhaṃ</alternative>
-    </alternatives>
+  <note reference-line="5" id="0">
+    <original>aviraddhaṃ (ka.)</original>
     <type>auto</type>
     <snippet> viraddhā. Amataṃ tesaṃ, bhikkhave, āraddhaṃ </snippet>
+    <match>āraddhaṃ</match>
+    <alternatives>
+      <alternative source-abbr="ka." source="cambodian">aviraddhaṃ</alternative>
+    </alternatives>
   </note>
-  <note line="12" original="(ekakanipātassa suttasahassaṃ samattaṃ.) (sī. syā. kaṃ. pī.)" reference-line="13" id="1">
+  <note reference-line="13" id="1">
+    <original>(ekakanipātassa suttasahassaṃ samattaṃ.) (sī. syā. kaṃ. pī.)</original>
     <type>raw</type>
+    <snippet> ‘‘Amataṃ tesaṃ, bhikkhave, asacchikataṃ yesaṃ kāyagatāsati asacchikatā. Amataṃ tesaṃ, bhikkhave, sacchikataṃ yesaṃ kāyagatāsati sacchikatā’’ti. (….) </snippet>
+    <alternatives>
+    </alternatives>
   </note>
-  <note line="15" original="( ) etthantare pāṭho sī. syā. kaṃ. pī. potthakesu natthi" reference-line="14" id="2">
+  <note reference-line="14" id="2">
+    <original>( ) etthantare pāṭho sī. syā. kaṃ. pī. potthakesu natthi</original>
     <type>raw</type>
+    <snippet>(Idamavoca bhagavā. Attamanā te bhikkhū bhagavato bhāsitaṃ abhinandunti.) </snippet>
+    <alternatives>
+    </alternatives>
   </note>
 </notes>

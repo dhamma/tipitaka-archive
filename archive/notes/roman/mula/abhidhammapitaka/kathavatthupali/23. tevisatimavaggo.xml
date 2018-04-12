@@ -1,27 +1,31 @@
-<?xml version="1.0" encoding="utf-8"?>
 <notes archive-path="/mula/abhidhammapitaka/kathavatthupali/23. tevisatimavaggo">
-  <note line="3" original="patāpanaṃ (sī. syā. kaṃ. pī.)" reference-line="11" id="0">
-    <extra></extra>
-    <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">mahātāpanaṃ</alternative>
-      <alternative source-abbr="sī." source="sri lanka">patāpanaṃ</alternative>
-      <alternative source-abbr="syā." source="thai">patāpanaṃ</alternative>
-      <alternative source-abbr="kaṃ." source="kaṃ.">patāpanaṃ</alternative>
-      <alternative source-abbr="pī." source="pali text society">patāpanaṃ</alternative>
-    </alternatives>
+  <note reference-line="11" id="0">
+    <original>patāpanaṃ (sī. syā. kaṃ. pī.)</original>
     <type>auto</type>
     <snippet>, sañjīvaṃ gacchati, kālasuttaṃ gacchati, tāpanaṃ gacchati, mahātāpanaṃ </snippet>
-  </note>
-  <note line="15" original="amaraṃ tapaṃ (saṃ. ni. 1.137)" reference-line="18" id="1">
-    <extra></extra>
+    <match>mahātāpanaṃ</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">aparantapaṃ</alternative>
-      <alternative source-abbr="saṃ. ni. 1.137" source="saṃ. ni. 1.137">amaraṃ tapaṃ</alternative>
+      <alternative source-abbr="sī." source="sri lanka">patāpanaṃ</alternative>
+      <alternative source-abbr="syā." source="thai">patāpanaṃ</alternative>
+      <alternative source-abbr="kaṃ." source="kam">patāpanaṃ</alternative>
+      <alternative source-abbr="pī." source="pali text society">patāpanaṃ</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> Bodhisatto issariyakāmakārikāhetu aparantapaṃ </snippet>
   </note>
-  <note line="24" original="saṃ. ni. 3.15" reference-line="29" id="2">
+  <note reference-line="18" id="1">
+    <original>amaraṃ tapaṃ (saṃ. ni. 1.137)</original>
     <type>raw</type>
+    <snippet> Bodhisatto issariyakāmakārikāhetu aparantapaṃ </snippet>
+    <alternatives>
+    </alternatives>
+  </note>
+  <note reference-line="29" id="2">
+    <original>saṃ. ni. 3.15</original>
+    <type>no_match</type>
+    <snippet>Dukkhaññeva parinipphannanti? Āmantā. Nanu yadaniccaṃ taṃ dukkhaṃ </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>saṃ. ni. 3.15</reference>
+    </references>
   </note>
 </notes>

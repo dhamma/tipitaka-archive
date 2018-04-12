@@ -1,15 +1,18 @@
-<?xml version="1.0" encoding="utf-8"?>
 <notes archive-path="/mula/vinayapitaka/parivarapali/pancavaggo">
-  <note line="3" original="a. ni. 2.201-230" reference-line="21" id="0">
+  <note reference-line="21" id="0">
+    <original>a. ni. 2.201-230</original>
     <type>raw</type>
-  </note>
-  <note line="6" original="vūpasamepi (ka.)" reference-line="31" id="1">
-    <extra></extra>
+    <snippet>.</snippet>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">vūpasamite</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="31" id="1">
+    <original>vūpasamepi (ka.)</original>
+    <type>auto</type>
+    <snippet>Adhikaraṇe samuppanne sace ubho atthapaccatthikā āgacchanti ubhinnampi vatthu ārocāpetabbaṃ. Ubhinnampi vatthu ārocāpetvā ubhinnampi paṭiññā sotabbā. Ubhinnampi paṭiññaṃ sutvā ubhopi vattabbā – ‘‘amhākaṃ imasmiṃ adhikaraṇe vūpasamite </snippet>
+    <match>vūpasamite</match>
+    <alternatives>
       <alternative source-abbr="ka." source="cambodian">vūpasamepi</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet>Adhikaraṇe samuppanne sace ubho atthapaccatthikā āgacchanti ubhinnampi vatthu ārocāpetabbaṃ. Ubhinnampi vatthu ārocāpetvā ubhinnampi paṭiññā sotabbā. Ubhinnampi paṭiññaṃ sutvā ubhopi vattabbā – amhākaṃ imasmiṃ adhikaraṇe vūpasamite </snippet>
   </note>
 </notes>

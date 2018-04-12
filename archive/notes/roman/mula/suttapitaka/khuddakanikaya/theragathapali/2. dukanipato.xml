@@ -1,339 +1,336 @@
-<?xml version="1.0" encoding="utf-8"?>
 <notes archive-path="/mula/suttapitaka/khuddakanikaya/theragathapali/2. dukanipato">
-  <note line="3" original="tamokkhandho (sī. syā.)" reference-line="33" id="0">
-    <extra></extra>
+  <note reference-line="33" id="0">
+    <original>tamokkhandho (sī. syā.)</original>
+    <type>auto</type>
+    <snippet>Tatiye antaravassamhi, tamokhandho </snippet>
+    <match>tamokhandho</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">tamokhandho</alternative>
       <alternative source-abbr="sī." source="sri lanka">tamokkhandho</alternative>
       <alternative source-abbr="syā." source="thai">tamokkhandho</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet>Tatiye antaravassamhi, tamokhandho </snippet>
   </note>
-  <note line="13" original="dha. pa. 13 dhammapade" reference-line="53" id="1">
+  <note reference-line="53" id="1">
+    <original>dha. pa. 13 dhammapade</original>
     <type>raw</type>
-  </note>
-  <note line="16" original="dha. pa. 14 dhammapade" reference-line="56" id="2">
-    <type>raw</type>
-  </note>
-  <note line="19" original="veghamissena (sī. syā.), ve gamissena, vekhamissena (ka.)" reference-line="99" id="3">
-    <extra></extra>
+    <snippet>
+
+</snippet>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">veṭhamissena</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="56" id="2">
+    <original>dha. pa. 14 dhammapade</original>
+    <type>raw</type>
+    <snippet>
+
+</snippet>
+    <alternatives>
+    </alternatives>
+  </note>
+  <note reference-line="99" id="3">
+    <original>veghamissena (sī. syā.), ve gamissena, vekhamissena (ka.)</original>
+    <type>no_match</type>
+    <snippet> ‘‘Ye kho te veṭhamissena </snippet>
+    <alternatives>
       <alternative source-abbr="sī." source="sri lanka">veghamissena</alternative>
       <alternative source-abbr="syā." source="thai">veghamissena</alternative>
       <alternative source-abbr="ka." source="cambodian">ve gamissena, vekhamissena</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> Ye kho te veṭhamissena </snippet>
   </note>
-  <note line="30" original="sambaddho (syā. ka.)" reference-line="125" id="4">
-    <extra></extra>
+  <note reference-line="125" id="4">
+    <original>sambaddho (syā. ka.)</original>
+    <type>auto</type>
+    <snippet> ‘‘Jano janamhi sambaddho </snippet>
+    <match>sambaddho</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">sambaddho</alternative>
       <alternative source-abbr="syā." source="thai">sambaddho</alternative>
       <alternative source-abbr="ka." source="cambodian">sambaddho</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> Jano janamhi sambaddho </snippet>
   </note>
-  <note line="40" original="bodhiyati, bādheti ca (ka.)" reference-line="126" id="5">
-    <extra></extra>
+  <note reference-line="126" id="5">
+    <original>bodhiyati, bādheti ca (ka.)</original>
+    <type>no_match</type>
+    <snippet>Jano janena heṭhīyati, heṭheti ca </snippet>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">heṭheti ca</alternative>
       <alternative source-abbr="ka." source="cambodian">bodhiyati, bādheti ca</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet>Jano janena heṭhīyati, heṭheti ca </snippet>
   </note>
-  <note line="49" original="bādhayitvā (ka.)" reference-line="129" id="6">
-    <extra></extra>
-    <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">heṭhayitvā</alternative>
-      <alternative source-abbr="ka." source="cambodian">bādhayitvā</alternative>
-    </alternatives>
+  <note reference-line="129" id="6">
+    <original>bādhayitvā (ka.)</original>
     <type>auto</type>
     <snippet>Janaṃ ohāya gacchaṃ taṃ, heṭhayitvā </snippet>
+    <match>heṭhayitvā</match>
+    <alternatives>
+      <alternative source-abbr="ka." source="cambodian">bādhayitvā</alternative>
+    </alternatives>
   </note>
-  <note line="58" original="passissanti (ka.)" reference-line="138" id="7">
-    <extra></extra>
+  <note reference-line="138" id="7">
+    <original>passissanti (ka.)</original>
+    <type>auto</type>
+    <snippet>Tasmā pajānaṃ upadhiṃ na kayirā, māhaṃ puna bhinnasiro sayissa’’nti </snippet>
+    <match>sayissa’’nti</match>
     <alternatives>
       <alternative source-abbr="ka." source="cambodian">passissanti</alternative>
     </alternatives>
-    <type>no_match</type>
-    <snippet>Tasmā pajānaṃ upadhiṃ na kayirā, māhaṃ puna bhinnasiro sayissa’’nti </snippet>
   </note>
-  <note line="66" original="kimbilo (sī. syā. pī.)" reference-line="155" id="8">
-    <extra></extra>
-    <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">Kimilo</alternative>
-      <alternative source-abbr="sī." source="sri lanka">kimbilo</alternative>
-      <alternative source-abbr="syā." source="thai">kimbilo</alternative>
-      <alternative source-abbr="pī." source="pali text society">kimbilo</alternative>
-    </alternatives>
+  <note reference-line="155" id="8">
+    <original>kimbilo (sī. syā. pī.)</original>
     <type>auto</type>
     <snippet>… Kimilo </snippet>
-  </note>
-  <note line="77" original="kimbilo (sī. syā. pī.), chandalakkhaṇānulomaṃ" reference-line="175" id="9">
-    <extra>, chandalakkhaṇānulomaṃ</extra>
+    <match>Kimilo</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">kimilo</alternative>
       <alternative source-abbr="sī." source="sri lanka">kimbilo</alternative>
       <alternative source-abbr="syā." source="thai">kimbilo</alternative>
       <alternative source-abbr="pī." source="pali text society">kimbilo</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet>Somamitto sabbamitto, kālo tisso ca kimilo </snippet>
   </note>
-  <note line="88" original="abbuhitvāna (ka.)" reference-line="183" id="10">
-    <extra></extra>
+  <note reference-line="175" id="9">
+    <original>kimbilo (sī. syā. pī.), chandalakkhaṇānulomaṃ</original>
+    <type>raw</type>
+    <snippet>Somamitto sabbamitto, kālo tisso ca kimilo </snippet>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">abbahitvāna</alternative>
-      <alternative source-abbr="ka." source="cambodian">abbuhitvāna</alternative>
     </alternatives>
+  </note>
+  <note reference-line="183" id="10">
+    <original>abbuhitvāna (ka.)</original>
     <type>auto</type>
     <snippet> khandhe pariññāya, abbahitvāna </snippet>
-  </note>
-  <note line="97" original="soḷasapabbedho (sī. aṭṭha.), soḷasabbāṇo (?)" reference-line="189" id="11">
-    <extra></extra>
+    <match>abbahitvāna</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">soḷasubbedho</alternative>
-      <alternative source-abbr="sī." source="sri lanka">soḷasapabbedho</alternative>
-      <alternative source-abbr="aṭṭha." source="aṭṭha.">soḷasapabbedho</alternative>
-      <alternative source-abbr="?" source="unknown">soḷasabbāṇo</alternative>
+      <alternative source-abbr="ka." source="cambodian">abbuhitvāna</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet>Tiriyaṃ soḷasubbedho </snippet>
   </note>
-  <note line="108" original="uddhamāhu (sī.), uccamāhu (syā.)" reference-line="189" id="12">
-    <extra></extra>
+  <note reference-line="189" id="11">
+    <original>soḷasapabbedho (sī. aṭṭha.), soḷasabbāṇo (?)</original>
+    <type>raw</type>
+    <snippet>Tiriyaṃ soḷasubbedho </snippet>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">ubbhamāhu</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="189" id="12">
+    <original>uddhamāhu (sī.), uccamāhu (syā.)</original>
+    <type>auto</type>
+    <snippet>, ubbhamāhu </snippet>
+    <match>ubbhamāhu</match>
+    <alternatives>
       <alternative source-abbr="sī." source="sri lanka">uddhamāhu</alternative>
       <alternative source-abbr="syā." source="thai">uccamāhu</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet>, ubbhamāhu </snippet>
   </note>
-  <note line="118" original="nāvarujjhissaṃ (ka. sī. ka.)" reference-line="205" id="13">
-    <extra></extra>
-    <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">nāvarajjhissaṃ</alternative>
-      <alternative source-abbr="ka." source="cambodian">nāvarujjhissaṃ</alternative>
-      <alternative source-abbr="sī." source="sri lanka">nāvarujjhissaṃ</alternative>
-      <alternative source-abbr="ka." source="cambodian">nāvarujjhissaṃ</alternative>
-    </alternatives>
+  <note reference-line="205" id="13">
+    <original>nāvarujjhissaṃ (ka. sī. ka.)</original>
     <type>auto</type>
     <snippet>Karissaṃ nāvarajjhissaṃ </snippet>
-  </note>
-  <note line="129" original="savāhanaṃ (bahūsu)" reference-line="245" id="14">
-    <extra></extra>
+    <match>nāvarajjhissaṃ</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">savāhaniṃ</alternative>
-      <alternative source-abbr="bahūsu" source="bahūsu">savāhanaṃ</alternative>
+      <alternative source-abbr="ka." source="cambodian">nāvarujjhissaṃ</alternative>
+      <alternative source-abbr="sī." source="sri lanka">nāvarujjhissaṃ</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet>Vīrā vijitasaṅgāmā, jetvā māraṃ savāhaniṃ </snippet>
   </note>
-  <note line="138" original="gahakārakaṃ (sī. pī.)" reference-line="275" id="15">
-    <extra></extra>
+  <note reference-line="245" id="14">
+    <original>savāhanaṃ (bahūsu)</original>
+    <type>raw</type>
+    <snippet>Vīrā vijitasaṅgāmā, jetvā māraṃ savāhaniṃ </snippet>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">Gahakāraṃ</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="275" id="15">
+    <original>gahakārakaṃ (sī. pī.)</original>
+    <type>auto</type>
+    <snippet>Gahakāraṃ </snippet>
+    <match>Gahakāraṃ</match>
+    <alternatives>
       <alternative source-abbr="sī." source="sri lanka">gahakārakaṃ</alternative>
       <alternative source-abbr="pī." source="pali text society">gahakārakaṃ</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet>Gahakāraṃ </snippet>
   </note>
-  <note line="148" original="thūṇirā (pī. ka.), dhuṇirā (syā.)" reference-line="278" id="16">
-    <extra></extra>
+  <note reference-line="278" id="16">
+    <original>thūṇirā (pī. ka.), dhuṇirā (syā.)</original>
+    <type>auto</type>
+    <snippet>Sabbā te phāsukā bhaggā, thūṇikā </snippet>
+    <match>thūṇikā</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">thūṇikā</alternative>
       <alternative source-abbr="pī." source="pali text society">thūṇirā</alternative>
       <alternative source-abbr="ka." source="cambodian">thūṇirā</alternative>
       <alternative source-abbr="syā." source="thai">dhuṇirā</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet>Sabbā te phāsukā bhaggā, thūṇikā </snippet>
   </note>
-  <note line="159" original="padālitā (sī. syā.)" reference-line="278" id="17">
-    <extra></extra>
+  <note reference-line="278" id="17">
+    <original>padālitā (sī. syā.)</original>
+    <type>auto</type>
+    <snippet> ca vidālitā </snippet>
+    <match>vidālitā</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">vidālitā</alternative>
       <alternative source-abbr="sī." source="sri lanka">padālitā</alternative>
       <alternative source-abbr="syā." source="thai">padālitā</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> ca vidālitā </snippet>
   </note>
-  <note line="169" original="sīvako (sī.)" reference-line="280" id="18">
-    <extra></extra>
-    <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">Sivako</alternative>
-      <alternative source-abbr="sī." source="sri lanka">sīvako</alternative>
-    </alternatives>
+  <note reference-line="280" id="18">
+    <original>sīvako (sī.)</original>
     <type>auto</type>
     <snippet>… Sivako </snippet>
-  </note>
-  <note line="178" original="… bādhito (ka.)" reference-line="283" id="19">
-    <extra></extra>
+    <match>Sivako</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">vātehābādhito</alternative>
+      <alternative source-abbr="sī." source="sri lanka">sīvako</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="283" id="19">
+    <original>… bādhito (ka.)</original>
+    <type>no_match</type>
+    <snippet> ‘‘Arahaṃ sugato loke, vātehābādhito </snippet>
+    <alternatives>
       <alternative source-abbr="ka." source="cambodian">… bādhito</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> Arahaṃ sugato loke, vātehābādhito </snippet>
   </note>
-  <note line="187" original="pūjanīyānaṃ (sī.)" reference-line="286" id="20">
-    <extra></extra>
+  <note reference-line="286" id="20">
+    <original>pūjanīyānaṃ (sī.)</original>
+    <type>auto</type>
+    <snippet> ‘‘Pūjito pūjaneyyānaṃ </snippet>
+    <match>pūjaneyyānaṃ</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">pūjaneyyānaṃ</alternative>
       <alternative source-abbr="sī." source="sri lanka">pūjanīyānaṃ</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> Pūjito pūjaneyyānaṃ </snippet>
   </note>
-  <note line="196" original="apacanīyānaṃ (sī.), apacineyyānaṃ (syā.)" reference-line="287" id="21">
-    <extra></extra>
+  <note reference-line="287" id="21">
+    <original>apacanīyānaṃ (sī.), apacineyyānaṃ (syā.)</original>
+    <type>auto</type>
+    <snippet>Apacitopaceyyānaṃ </snippet>
+    <match>Apacitopaceyyānaṃ</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">Apacitopaceyyānaṃ</alternative>
       <alternative source-abbr="sī." source="sri lanka">apacanīyānaṃ</alternative>
       <alternative source-abbr="syā." source="thai">apacineyyānaṃ</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet>Apacitopaceyyānaṃ </snippet>
   </note>
-  <note line="206" original="sambahulakaccāno (ka.)" reference-line="306" id="22">
-    <extra></extra>
-    <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">Sambulakaccāno</alternative>
-      <alternative source-abbr="ka." source="cambodian">sambahulakaccāno</alternative>
-    </alternatives>
+  <note reference-line="306" id="22">
+    <original>sambahulakaccāno (ka.)</original>
     <type>auto</type>
     <snippet>… Sambulakaccāno </snippet>
-  </note>
-  <note line="215" original="udā. 34 udānepi" reference-line="309" id="23">
-    <type>raw</type>
-  </note>
-  <note line="218" original="khitako (sī. syā.)" reference-line="316" id="24">
-    <extra></extra>
+    <match>Sambulakaccāno</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">Nitako</alternative>
+      <alternative source-abbr="ka." source="cambodian">sambahulakaccāno</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="309" id="23">
+    <original>udā. 34 udānepi</original>
+    <type>raw</type>
+    <snippet>
+
+</snippet>
+    <alternatives>
+    </alternatives>
+  </note>
+  <note reference-line="316" id="24">
+    <original>khitako (sī. syā.)</original>
+    <type>auto</type>
+    <snippet>… Nitako </snippet>
+    <match>Nitako</match>
+    <alternatives>
       <alternative source-abbr="sī." source="sri lanka">khitako</alternative>
       <alternative source-abbr="syā." source="thai">khitako</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet>… Nitako </snippet>
   </note>
-  <note line="228" original="selissariyo (sī.), poṭṭiriyaputto (syā.)" reference-line="324" id="25">
-    <extra></extra>
-    <alternatives>
-      <alternative source-abbr="sī." source="sri lanka">selissariyo</alternative>
-      <alternative source-abbr="vri" source="vipassana research institut">poṭiriyo</alternative>
-      <alternative source-abbr="syā." source="thai">poṭṭiriyaputto</alternative>
-    </alternatives>
+  <note reference-line="324" id="25">
+    <original>selissariyo (sī.), poṭṭiriyaputto (syā.)</original>
     <type>auto</type>
     <snippet>… Soṇo poṭiriyo </snippet>
-  </note>
-  <note line="238" original="atibhariyāya (sī. ka.), accaṃ bharāya (syā.)" reference-line="343" id="26">
-    <extra></extra>
+    <match>poṭiriyo</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">atibharitāya</alternative>
+      <alternative source-abbr="sī." source="sri lanka">selissariyo</alternative>
+      <alternative source-abbr="syā." source="thai">poṭṭiriyaputto</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="343" id="26">
+    <original>atibhariyāya (sī. ka.), accaṃ bharāya (syā.)</original>
+    <type>no_match</type>
+    <snippet> ‘‘Ayamiti kappaṭo kappaṭakuro, acchāya atibharitāya </snippet>
+    <alternatives>
       <alternative source-abbr="sī." source="sri lanka">atibhariyāya</alternative>
       <alternative source-abbr="ka." source="cambodian">atibhariyāya</alternative>
       <alternative source-abbr="syā." source="thai">accaṃ bharāya</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> Ayamiti kappaṭo kappaṭakuro, acchāya atibharitāya </snippet>
   </note>
-  <note line="249" original="dhammakaṭapatto (syā. ka. aṭṭha.), dhammakaṭamaggo (sī. aṭṭha.)" reference-line="344" id="27">
-    <extra></extra>
-    <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">dhammakaṭamatto</alternative>
-      <alternative source-abbr="syā." source="thai">dhammakaṭapatto</alternative>
-      <alternative source-abbr="ka." source="cambodian">dhammakaṭapatto</alternative>
-      <alternative source-abbr="aṭṭha." source="aṭṭha.">dhammakaṭapatto</alternative>
-      <alternative source-abbr="sī." source="sri lanka">dhammakaṭamaggo</alternative>
-      <alternative source-abbr="aṭṭha." source="aṭṭha.">dhammakaṭamaggo</alternative>
-    </alternatives>
-    <type>auto</type>
+  <note reference-line="344" id="27">
+    <original>dhammakaṭapatto (syā. ka. aṭṭha.), dhammakaṭamaggo (sī. aṭṭha.)</original>
+    <type>raw</type>
     <snippet>Amataghaṭikāyaṃ dhammakaṭamatto </snippet>
+    <alternatives>
+    </alternatives>
   </note>
-  <note line="262" original="na vā (ka.)" reference-line="347" id="28">
-    <extra></extra>
+  <note reference-line="347" id="28">
+    <original>na vā (ka.)</original>
+    <type>no_match</type>
+    <snippet> hi </snippet>
     <alternatives>
       <alternative source-abbr="ka." source="cambodian">na vā</alternative>
     </alternatives>
-    <type>no_match</type>
-    <snippet> hi </snippet>
   </note>
-  <note line="270" original="patisuttesu (sī. ka.)" reference-line="367" id="29">
-    <extra></extra>
+  <note reference-line="367" id="29">
+    <original>patisuttesu (sī. ka.)</original>
+    <type>auto</type>
+    <snippet>Jāgaro sa hi suttesu </snippet>
+    <match>suttesu</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">suttesu</alternative>
       <alternative source-abbr="sī." source="sri lanka">patisuttesu</alternative>
       <alternative source-abbr="ka." source="cambodian">patisuttesu</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet>Jāgaro sa hi suttesu </snippet>
   </note>
-  <note line="280" original="tassa (bahūsu)" reference-line="375" id="30">
-    <extra></extra>
-    <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">kassa</alternative>
-      <alternative source-abbr="bahūsu" source="bahūsu">tassa</alternative>
-    </alternatives>
-    <type>auto</type>
-    <snippet>Pahīnamānassa anāsavassa, devāpi kassa </snippet>
-  </note>
-  <note line="289" original="dha. pa. 94 dhammapadepi" reference-line="377" id="31">
+  <note reference-line="375" id="30">
+    <original>tassa (bahūsu)</original>
     <type>raw</type>
-  </note>
-  <note line="292" original="hemantikakālarattiyo (ka.)" reference-line="383" id="32">
-    <extra></extra>
+    <snippet>Pahīnamānassa anāsavassa, devāpi kassa </snippet>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">Hemantikasītakālarattiyo</alternative>
-      <alternative source-abbr="ka." source="cambodian">hemantikakālarattiyo</alternative>
     </alternatives>
+  </note>
+  <note reference-line="377" id="31">
+    <original>dha. pa. 94 dhammapadepi</original>
+    <type>raw</type>
+    <snippet>
+
+</snippet>
+    <alternatives>
+    </alternatives>
+  </note>
+  <note reference-line="383" id="32">
+    <original>hemantikakālarattiyo (ka.)</original>
     <type>auto</type>
     <snippet>Hemantikasītakālarattiyo </snippet>
-  </note>
-  <note line="301" original="jhāyitaṃ (syā. ka.)" reference-line="401" id="33">
-    <extra></extra>
+    <match>Hemantikasītakālarattiyo</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">jhāyataṃ</alternative>
+      <alternative source-abbr="ka." source="cambodian">hemantikakālarattiyo</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="401" id="33">
+    <original>jhāyitaṃ (syā. ka.)</original>
+    <type>auto</type>
+    <snippet> sumanassa jhāyataṃ </snippet>
+    <match>jhāyataṃ</match>
+    <alternatives>
       <alternative source-abbr="syā." source="thai">jhāyitaṃ</alternative>
       <alternative source-abbr="ka." source="cambodian">jhāyitaṃ</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> sumanassa jhāyataṃ </snippet>
   </note>
-  <note line="311" original="cūlako (sī. aṭṭha.)" reference-line="403" id="34">
-    <extra></extra>
-    <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">Cūḷako</alternative>
-      <alternative source-abbr="sī." source="sri lanka">cūlako</alternative>
-      <alternative source-abbr="aṭṭha." source="aṭṭha.">cūlako</alternative>
-    </alternatives>
-    <type>auto</type>
+  <note reference-line="403" id="34">
+    <original>cūlako (sī. aṭṭha.)</original>
+    <type>raw</type>
     <snippet>… Cūḷako </snippet>
-  </note>
-  <note line="321" original="andhībhūto (ka.)" reference-line="415" id="35">
-    <extra></extra>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">andhabhūto</alternative>
-      <alternative source-abbr="ka." source="cambodian">andhībhūto</alternative>
     </alternatives>
+  </note>
+  <note reference-line="415" id="35">
+    <original>andhībhūto (ka.)</original>
     <type>auto</type>
     <snippet>Apassaṃ ariyasaccāni, andhabhūto </snippet>
-  </note>
-  <note line="330" original="alabhiṃ haṃ (ka.)" reference-line="423" id="36">
-    <extra></extra>
+    <match>andhabhūto</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">alabhitthaṃ</alternative>
+      <alternative source-abbr="ka." source="cambodian">andhībhūto</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="423" id="36">
+    <original>alabhiṃ haṃ (ka.)</original>
+    <type>no_match</type>
+    <snippet>Ekaṃ buddhagataṃ saññaṃ, alabhitthaṃ </snippet>
+    <alternatives>
       <alternative source-abbr="ka." source="cambodian">alabhiṃ haṃ</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet>Ekaṃ buddhagataṃ saññaṃ, alabhitthaṃ </snippet>
   </note>
 </notes>

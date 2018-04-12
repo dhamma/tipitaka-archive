@@ -1,105 +1,103 @@
-<?xml version="1.0" encoding="utf-8"?>
 <notes archive-path="/mula/suttapitaka/khuddakanikaya/apadanapali-1/29. pannadayakavaggo">
-  <note line="3" original="mahāmuni (sī.)" reference-line="5" id="0">
-    <extra></extra>
-    <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">mahāisi</alternative>
-      <alternative source-abbr="sī." source="sri lanka">mahāmuni</alternative>
-    </alternatives>
+  <note reference-line="5" id="0">
+    <original>mahāmuni (sī.)</original>
     <type>auto</type>
     <snippet>Upaviṭṭhañca maṃ santaṃ, upāgacchi mahāisi </snippet>
-  </note>
-  <note line="12" original="nisinnassa (syā. aṭṭha.)" reference-line="8" id="1">
-    <extra></extra>
+    <match>mahāisi</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">nisinnaṃ</alternative>
-      <alternative source-abbr="syā." source="thai">nisinnassa</alternative>
-      <alternative source-abbr="aṭṭha." source="aṭṭha.">nisinnassa</alternative>
+      <alternative source-abbr="sī." source="sri lanka">mahāmuni</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet>Tassa paṇṇaṃ mayā dinnaṃ, nisinnaṃ </snippet>
   </note>
-  <note line="22" original="dharaṇīdhara (sī. syā.)" reference-line="19" id="2">
-    <extra></extra>
+  <note reference-line="8" id="1">
+    <original>nisinnassa (syā. aṭṭha.)</original>
+    <type>raw</type>
+    <snippet>Tassa paṇṇaṃ mayā dinnaṃ, nisinnaṃ </snippet>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">dharaṇīsama</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="19" id="2">
+    <original>dharaṇīdhara (sī. syā.)</original>
+    <type>auto</type>
+    <snippet>, dharaṇīsama </snippet>
+    <match>dharaṇīsama</match>
+    <alternatives>
       <alternative source-abbr="sī." source="sri lanka">dharaṇīdhara</alternative>
       <alternative source-abbr="syā." source="thai">dharaṇīdhara</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet>, dharaṇīsama </snippet>
   </note>
-  <note line="32" original="harītakiṃ (syā.)" reference-line="22" id="3">
-    <extra></extra>
+  <note reference-line="22" id="3">
+    <original>harītakiṃ (syā.)</original>
+    <type>auto</type>
+    <snippet> ‘‘Harītakaṃ </snippet>
+    <match>‘‘Harītakaṃ</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">Harītakaṃ</alternative>
       <alternative source-abbr="syā." source="thai">harītakiṃ</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> Harītakaṃ </snippet>
   </note>
-  <note line="41" original="sattavīse (sī. syā.)" reference-line="48" id="4">
-    <extra></extra>
+  <note reference-line="48" id="4">
+    <original>sattavīse (sī. syā.)</original>
+    <type>auto</type>
+    <snippet> ‘‘Sattatiṃse </snippet>
+    <match>‘‘Sattatiṃse</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">Sattatiṃse</alternative>
       <alternative source-abbr="sī." source="sri lanka">sattavīse</alternative>
       <alternative source-abbr="syā." source="thai">sattavīse</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> Sattatiṃse </snippet>
   </note>
-  <note line="51" original="paṭiggahesi (ka.)" reference-line="90" id="5">
-    <extra></extra>
+  <note reference-line="90" id="5">
+    <original>paṭiggahesi (ka.)</original>
+    <type>auto</type>
+    <snippet> ‘‘Paṭiggahetvā </snippet>
+    <match>‘‘Paṭiggahetvā</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">Paṭiggahetvā</alternative>
       <alternative source-abbr="ka." source="cambodian">paṭiggahesi</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> Paṭiggahetvā </snippet>
   </note>
-  <note line="60" original="mahāisi (ka.)" reference-line="90" id="6">
-    <extra></extra>
-    <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">mahāmuni</alternative>
-      <alternative source-abbr="ka." source="cambodian">mahāisi</alternative>
-    </alternatives>
+  <note reference-line="90" id="6">
+    <original>mahāisi (ka.)</original>
     <type>auto</type>
     <snippet> sambuddho, niyyādesi mahāmuni </snippet>
-  </note>
-  <note line="69" original="veṭambarīti (sī.), vedhambhinīti (syā.)" reference-line="132" id="7">
-    <extra></extra>
+    <match>mahāmuni</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">Veṭambhinīti</alternative>
+      <alternative source-abbr="ka." source="cambodian">mahāisi</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="132" id="7">
+    <original>veṭambarīti (sī.), vedhambhinīti (syā.)</original>
+    <type>auto</type>
+    <snippet> ‘‘Veṭambhinīti </snippet>
+    <match>‘‘Veṭambhinīti</match>
+    <alternatives>
       <alternative source-abbr="sī." source="sri lanka">veṭambarīti</alternative>
       <alternative source-abbr="syā." source="thai">vedhambhinīti</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> Veṭambhinīti </snippet>
   </note>
-  <note line="79" original="pitā’santaṃ (?)" reference-line="132" id="8">
-    <extra></extra>
-    <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">pitusantaṃ</alternative>
-      <alternative source-abbr="?" source="unknown">pitā’santaṃ</alternative>
-    </alternatives>
+  <note reference-line="132" id="8">
+    <original>pitā’santaṃ (?)</original>
     <type>auto</type>
     <snippet> me nāmaṃ, pitusantaṃ </snippet>
+    <match>pitusantaṃ</match>
+    <alternatives>
+      <alternative source-abbr="?" source="unknown">pitā’santaṃ</alternative>
+    </alternatives>
   </note>
-  <note line="88" original="paricariṃ (sī. syā.)" reference-line="138" id="9">
-    <extra></extra>
+  <note reference-line="138" id="9">
+    <original>paricariṃ (sī. syā.)</original>
+    <type>auto</type>
+    <snippet> ‘‘Ekattiṃse ito kappe, buddhe upaṭṭhahiṃ </snippet>
+    <match>upaṭṭhahiṃ</match>
     <alternatives>
       <alternative source-abbr="sī." source="sri lanka">paricariṃ</alternative>
       <alternative source-abbr="syā." source="thai">paricariṃ</alternative>
     </alternatives>
-    <type>no_match</type>
-    <snippet> Ekattiṃse ito kappe, buddhe upaṭṭhahiṃ </snippet>
   </note>
-  <note line="97" original="samohā (syā.)" reference-line="152" id="10">
-    <extra></extra>
+  <note reference-line="152" id="10">
+    <original>samohā (syā.)</original>
+    <type>auto</type>
+    <snippet> sabhavā </snippet>
+    <match>sabhavā</match>
     <alternatives>
       <alternative source-abbr="syā." source="thai">samohā</alternative>
     </alternatives>
-    <type>no_match</type>
-    <snippet> sabhavā </snippet>
   </note>
 </notes>

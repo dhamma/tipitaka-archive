@@ -1,76 +1,101 @@
-<?xml version="1.0" encoding="utf-8"?>
 <notes archive-path="/mula/abhidhammapitaka/kathavatthupali/11. ekadasamavaggo">
-  <note line="3" original="sakavādīpucchā viya dissati" reference-line="39" id="0">
+  <note reference-line="39" id="0">
+    <original>sakavādīpucchā viya dissati</original>
     <type>raw</type>
-  </note>
-  <note line="6" original="īti (syā. pī.)" reference-line="49" id="1">
-    <extra></extra>
+    <snippet> cakkhuviññāṇasamaṅgī ‘‘paññavā’’ti vattabboti </snippet>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">I’’ti</alternative>
-      <alternative source-abbr="syā." source="thai">ī’’ti</alternative>
-      <alternative source-abbr="pī." source="pali text society">ī’’ti</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> Idaṃ dukkha’’nti vācaṃ bhāsato idaṃ dukkha’’nti ñāṇaṃ pavattatīti? Āmantā. I’’ti </snippet>
   </note>
-  <note line="16" original="dūti (syā. pī.)" reference-line="49" id="2">
-    <extra></extra>
+  <note reference-line="49" id="1">
+    <original>īti (syā. pī.)</original>
+    <type>auto</type>
+    <snippet> ‘‘Idaṃ dukkha’’nti vācaṃ bhāsato ‘‘idaṃ dukkha’’nti ñāṇaṃ pavattatīti? Āmantā. ‘‘I’’ti </snippet>
+    <match>‘‘I’’ti</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">du’’ti</alternative>
-      <alternative source-abbr="syā." source="thai">dū’’ti</alternative>
-      <alternative source-abbr="pī." source="pali text society">dū’’ti</alternative>
+      <alternative source-abbr="syā." source="thai">īti</alternative>
+      <alternative source-abbr="pī." source="pali text society">īti</alternative>
     </alternatives>
+  </note>
+  <note reference-line="49" id="2">
+    <original>dūti (syā. pī.)</original>
     <type>auto</type>
-    <snippet> ca da’’nti ca du’’ti </snippet>
-  </note>
-  <note line="26" original="dī. ni. 2.166; saṃ. ni. 5.822; udā. 51" reference-line="58" id="3">
-    <type>raw</type>
-  </note>
-  <note line="29" original="ponobhavikāni (sī. pī.)" reference-line="59" id="4">
-    <extra></extra>
+    <snippet> ca ‘‘da’’nti ca ‘‘du’’ti </snippet>
+    <match>‘‘du’’ti</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">ponobbhavikāni</alternative>
+      <alternative source-abbr="syā." source="thai">dūti</alternative>
+      <alternative source-abbr="pī." source="pali text society">dūti</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="58" id="3">
+    <original>dī. ni. 2.166; saṃ. ni. 5.822; udā. 51</original>
+    <type>no_match</type>
+    <snippet> Na vattabbaṃ – ‘‘iddhibalena samannāgato kappaṃ tiṭṭheyyā’’ti? Āmantā. Nanu vuttaṃ bhagavatā – ‘‘yassa kassaci, ānanda, cattāro iddhipādā bhāvitā bahulīkatā yānīkatā vatthukatā anuṭṭhitā paricitā susamāraddhā, so ākaṅkhamāno kappaṃ vā tiṭṭheyya kappāvasesaṃ vā’’ti </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>dī. ni. 2.166</reference>
+      <reference>saṃ. ni. 5.822</reference>
+      <reference>udā. 51</reference>
+    </references>
+  </note>
+  <note reference-line="59" id="4">
+    <original>ponobhavikāni (sī. pī.)</original>
+    <type>auto</type>
+    <snippet> samaṇo vā brāhmaṇo vā devo vā māro vā brahmā vā koci vā lokasmiṃ. Byādhidhammo ‘‘mā byādhiyī’’ti…pe… maraṇadhammo ‘‘mā mīyī’’ti…pe… yāni kho pana tāni pubbe katāni pāpakāni kammāni saṃkilesikāni ponobbhavikāni </snippet>
+    <match>ponobbhavikāni</match>
+    <alternatives>
       <alternative source-abbr="sī." source="sri lanka">ponobhavikāni</alternative>
       <alternative source-abbr="pī." source="pali text society">ponobhavikāni</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> samaṇo vā brāhmaṇo vā devo vā māro vā brahmā vā koci vā lokasmiṃ. Byādhidhammo mā byādhiyī’’ti…pe… maraṇadhammo mā mīyī’’ti…pe… yāni kho pana tāni pubbe katāni pāpakāni kammāni saṃkilesikāni ponobbhavikāni </snippet>
   </note>
-  <note line="39" original="nissārāni (sī. pī. ka.), dukkhudrayāni (syā.)" reference-line="59" id="5">
-    <extra></extra>
+  <note reference-line="59" id="5">
+    <original>nissārāni (sī. pī. ka.), dukkhudrayāni (syā.)</original>
+    <type>auto</type>
+    <snippet> sadarāni </snippet>
+    <match>sadarāni</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">sadarāni</alternative>
       <alternative source-abbr="sī." source="sri lanka">nissārāni</alternative>
       <alternative source-abbr="pī." source="pali text society">nissārāni</alternative>
       <alternative source-abbr="ka." source="cambodian">nissārāni</alternative>
       <alternative source-abbr="syā." source="thai">dukkhudrayāni</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> sadarāni </snippet>
   </note>
-  <note line="51" original="a. ni. 4.182" reference-line="59" id="6">
-    <type>raw</type>
-  </note>
-  <note line="54" original="rattidivāni (ka.)" reference-line="66" id="7">
-    <extra></extra>
+  <note reference-line="59" id="6">
+    <original>a. ni. 4.182</original>
+    <type>no_match</type>
+    <snippet> dukkhavipākāni āyatiṃ jātijarāmaraṇiyāni tesaṃ vipāko ‘‘mā nibbattī’’ti natthi koci pāṭibhogo samaṇo vā brāhmaṇo vā devo vā māro vā brahmā vā koci vā lokasmiṃ. Imesaṃ kho, bhikkhave, catunnaṃ dhammānaṃ natthi koci pāṭibhogo samaṇo vā brāhmaṇo vā devo vā māro vā brahmā vā koci vā lokasmi’’nti </snippet>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">rattindivāni</alternative>
+    </alternatives>
+    <references>
+      <reference>a. ni. 4.182</reference>
+    </references>
+  </note>
+  <note reference-line="66" id="7">
+    <original>rattidivāni (ka.)</original>
+    <type>auto</type>
+    <snippet> bhagavatā – ‘‘ahaṃ kho, āvuso nigaṇṭhā, pahomi aniñjamāno kāyena, abhāsamāno vācaṃ, satta rattindivāni </snippet>
+    <match>rattindivāni</match>
+    <alternatives>
       <alternative source-abbr="ka." source="cambodian">rattidivāni</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> bhagavatā – ahaṃ kho, āvuso nigaṇṭhā, pahomi aniñjamāno kāyena, abhāsamāno vācaṃ, satta rattindivāni </snippet>
   </note>
-  <note line="63" original="ma. ni. 1.180" reference-line="66" id="8">
-    <type>raw</type>
-  </note>
-  <note line="66" original="yattha saddo (sī.), yathāsaddaṃ (?)" reference-line="86" id="9">
-    <extra></extra>
+  <note reference-line="66" id="8">
+    <original>ma. ni. 1.180</original>
+    <type>no_match</type>
+    <snippet> ekantasukhaṃ paṭisaṃvedī viharitu’’nti </snippet>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">yattha sadde</alternative>
+    </alternatives>
+    <references>
+      <reference>ma. ni. 1.180</reference>
+    </references>
+  </note>
+  <note reference-line="86" id="9">
+    <original>yattha saddo (sī.), yathāsaddaṃ (?)</original>
+    <type>no_match</type>
+    <snippet> vigate ñāṇī, ñāṇaṃ cittavippayuttaṃ, yattha sadde </snippet>
+    <alternatives>
       <alternative source-abbr="sī." source="sri lanka">yattha saddo</alternative>
       <alternative source-abbr="?" source="unknown">yathāsaddaṃ</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> vigate ñāṇī, ñāṇaṃ cittavippayuttaṃ, yattha sadde </snippet>
   </note>
 </notes>

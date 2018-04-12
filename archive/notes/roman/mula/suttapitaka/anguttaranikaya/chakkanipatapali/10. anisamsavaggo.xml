@@ -1,114 +1,117 @@
-<?xml version="1.0" encoding="utf-8"?>
 <notes archive-path="/mula/suttapitaka/anguttaranikaya/chakkanipatapali/10. anisamsavaggo">
-  <note line="3" original="paccājāto dullabho (syā.)" reference-line="3" id="0">
-    <extra></extra>
+  <note reference-line="3" id="0">
+    <original>paccājāto dullabho (syā.)</original>
+    <type>no_match</type>
+    <snippet>, bhikkhave, pātubhāvo dullabho lokasmiṃ. Katamesaṃ channaṃ? Tathāgatassa arahato sammāsambuddhassa pātubhāvo dullabho lokasmiṃ, tathāgatappaveditassa dhammavinayassa desetā puggalo dullabho lokasmiṃ, ariyāyatane paccājāti dullabhā </snippet>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">paccājāti dullabhā</alternative>
       <alternative source-abbr="syā." source="thai">paccājāto dullabho</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet>, bhikkhave, pātubhāvo dullabho lokasmiṃ. Katamesaṃ channaṃ? Tathāgatassa arahato sammāsambuddhassa pātubhāvo dullabho lokasmiṃ, tathāgatappaveditassa dhammavinayassa desetā puggalo dullabho lokasmiṃ, ariyāyatane paccājāti dullabhā </snippet>
   </note>
-  <note line="12" original="kusaladhammacchando (sī. syā. pī.)" reference-line="3" id="1">
-    <extra></extra>
+  <note reference-line="3" id="1">
+    <original>kusaladhammacchando (sī. syā. pī.)</original>
+    <type>auto</type>
+    <snippet> lokasmiṃ, indriyānaṃ avekallatā dullabhā lokasmiṃ, ajaḷatā aneḷamūgatā dullabhā lokasmiṃ, kusale dhamme chando </snippet>
+    <match>chando</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">chando</alternative>
       <alternative source-abbr="sī." source="sri lanka">kusaladhammacchando</alternative>
       <alternative source-abbr="syā." source="thai">kusaladhammacchando</alternative>
       <alternative source-abbr="pī." source="pali text society">kusaladhammacchando</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> lokasmiṃ, indriyānaṃ avekallatā dullabhā lokasmiṃ, ajaḷatā aneḷamūgatā dullabhā lokasmiṃ, kusale dhamme chando </snippet>
   </note>
-  <note line="23" original="dukkhaṃ na hoti (syā. pī. ka.)" reference-line="5" id="2">
-    <extra></extra>
+  <note reference-line="5" id="2">
+    <original>dukkhaṃ na hoti (syā. pī. ka.)</original>
+    <type>no_match</type>
+    <snippet> ‘‘Chayime, bhikkhave, ānisaṃsā sotāpattiphalasacchikiriyāya. Katame cha? Saddhammaniyato hoti, aparihānadhammo hoti, pariyantakatassa dukkhaṃ hoti </snippet>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">dukkhaṃ hoti</alternative>
       <alternative source-abbr="syā." source="thai">dukkhaṃ na hoti</alternative>
       <alternative source-abbr="pī." source="pali text society">dukkhaṃ na hoti</alternative>
       <alternative source-abbr="ka." source="cambodian">dukkhaṃ na hoti</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> Chayime, bhikkhave, ānisaṃsā sotāpattiphalasacchikiriyāya. Katame cha? Saddhammaniyato hoti, aparihānadhammo hoti, pariyantakatassa dukkhaṃ hoti </snippet>
   </note>
-  <note line="34" original="arahattaphalaṃ (ka.) paṭi. ma. 3.36" reference-line="7" id="3">
-    <extra> paṭi. ma. 3.36</extra>
+  <note reference-line="7" id="3">
+    <original>arahattaphalaṃ (ka.) paṭi. ma. 3.36</original>
+    <type>auto</type>
+    <snippet> ‘‘‘So vata, bhikkhave, bhikkhu kañci saṅkhāraṃ niccato samanupassanto anulomikāya khantiyā samannāgato bhavissatī’ti netaṃ ṭhānaṃ vijjati. ‘Anulomikāya khantiyā asamannāgato sammattaniyāmaṃ okkamissatī’ti netaṃ ṭhānaṃ vijjati. ‘Sammattaniyāmaṃ anokkamamāno sotāpattiphalaṃ vā sakadāgāmiphalaṃ vā anāgāmiphalaṃ vā arahattaṃ </snippet>
+    <match>arahattaṃ</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">arahattaṃ</alternative>
       <alternative source-abbr="ka." source="cambodian">arahattaphalaṃ</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> ‘So vata, bhikkhave, bhikkhu kañci saṅkhāraṃ niccato samanupassanto anulomikāya khantiyā samannāgato bhavissatī’ti netaṃ ṭhānaṃ vijjati. ‘Anulomikāya khantiyā asamannāgato sammattaniyāmaṃ okkamissatī’ti netaṃ ṭhānaṃ vijjati. ‘Sammattaniyāmaṃ anokkamamāno sotāpattiphalaṃ vā sakadāgāmiphalaṃ vā anāgāmiphalaṃ vā arahattaṃ </snippet>
+    <references>
+      <reference>paṭi. ma. 3.36</reference>
+    </references>
   </note>
-  <note line="43" original="sabbasaṅkhāraṃ (sī. pī.)" reference-line="8" id="4">
-    <extra></extra>
+  <note reference-line="8" id="4">
+    <original>sabbasaṅkhāraṃ (sī. pī.)</original>
+    <type>auto</type>
+    <snippet> vata, bhikkhave, bhikkhu sabbasaṅkhāre </snippet>
+    <match>sabbasaṅkhāre</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">sabbasaṅkhāre</alternative>
       <alternative source-abbr="sī." source="sri lanka">sabbasaṅkhāraṃ</alternative>
       <alternative source-abbr="pī." source="pali text society">sabbasaṅkhāraṃ</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> vata, bhikkhave, bhikkhu sabbasaṅkhāre </snippet>
   </note>
-  <note line="53" original="sabbadhammaṃ (sī. pī.), kiñcidhammaṃ (ka.) paṭi. ma. 3.36" reference-line="12" id="5">
-    <extra> paṭi. ma. 3.36</extra>
+  <note reference-line="12" id="5">
+    <original>sabbadhammaṃ (sī. pī.), kiñcidhammaṃ (ka.) paṭi. ma. 3.36</original>
+    <type>auto</type>
+    <snippet> ‘‘So vata, bhikkhave, bhikkhu kañci dhammaṃ attato samanupassanto…pe… sabbadhamme </snippet>
+    <match>sabbadhamme</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">sabbadhamme</alternative>
       <alternative source-abbr="sī." source="sri lanka">sabbadhammaṃ</alternative>
       <alternative source-abbr="pī." source="pali text society">sabbadhammaṃ</alternative>
       <alternative source-abbr="ka." source="cambodian">kiñcidhammaṃ</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> So vata, bhikkhave, bhikkhu kañci dhammaṃ attato samanupassanto…pe… sabbadhamme </snippet>
+    <references>
+      <reference>paṭi. ma. 3.36</reference>
+    </references>
   </note>
-  <note line="64" original="anavaṭṭhitato (sī. syā. pī.)" reference-line="17" id="6">
-    <extra></extra>
+  <note reference-line="17" id="6">
+    <original>anavaṭṭhitato (sī. syā. pī.)</original>
+    <type>auto</type>
+    <snippet>, bhikkhave, ānisaṃse sampassamānena alameva bhikkhunā sabbasaṅkhāresu anodhiṃ karitvā aniccasaññaṃ upaṭṭhāpetuṃ. Katame cha? ‘Sabbasaṅkhārā ca me anavatthitā </snippet>
+    <match>anavatthitā</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">anavatthitā</alternative>
       <alternative source-abbr="sī." source="sri lanka">anavaṭṭhitato</alternative>
       <alternative source-abbr="syā." source="thai">anavaṭṭhitato</alternative>
       <alternative source-abbr="pī." source="pali text society">anavaṭṭhitato</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet>, bhikkhave, ānisaṃse sampassamānena alameva bhikkhunā sabbasaṅkhāresu anodhiṃ karitvā aniccasaññaṃ upaṭṭhāpetuṃ. Katame cha? ‘Sabbasaṅkhārā ca me anavatthitā </snippet>
   </note>
-  <note line="75" original="na ramissati (ka.)" reference-line="17" id="7">
-    <extra></extra>
+  <note reference-line="17" id="7">
+    <original>na ramissati (ka.)</original>
+    <type>no_match</type>
+    <snippet> khāyissanti, sabbaloke ca me mano nābhiramissati </snippet>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">nābhiramissati</alternative>
       <alternative source-abbr="ka." source="cambodian">na ramissati</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> khāyissanti, sabbaloke ca me mano nābhiramissati </snippet>
   </note>
-  <note line="84" original="gacchanti (syā. pī. ka.)" reference-line="17" id="8">
-    <extra></extra>
+  <note reference-line="17" id="8">
+    <original>gacchanti (syā. pī. ka.)</original>
+    <type>auto</type>
+    <snippet>, sabbalokā ca me mano vuṭṭhahissati, nibbānapoṇañca me mānasaṃ bhavissati, saṃyojanā ca me pahānaṃ gacchissanti </snippet>
+    <match>gacchissanti</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">gacchissanti</alternative>
       <alternative source-abbr="syā." source="thai">gacchanti</alternative>
       <alternative source-abbr="pī." source="pali text society">gacchanti</alternative>
       <alternative source-abbr="ka." source="cambodian">gacchanti</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet>, sabbalokā ca me mano vuṭṭhahissati, nibbānapoṇañca me mānasaṃ bhavissati, saṃyojanā ca me pahānaṃ gacchissanti </snippet>
   </note>
-  <note line="95" original="gacchanti (pī. ka.)" reference-line="19" id="9">
-    <extra></extra>
+  <note reference-line="19" id="9">
+    <original>gacchanti (pī. ka.)</original>
+    <type>auto</type>
+    <snippet> ‘‘Cha, bhikkhave, ānisaṃse sampassamānena alameva bhikkhunā sabbasaṅkhāresu anodhiṃ karitvā dukkhasaññaṃ upaṭṭhāpetuṃ. Katame cha? ‘Sabbasaṅkhāresu ca me nibbidasaññā paccupaṭṭhitā bhavissati, seyyathāpi ukkhittāsike vadhake. Sabbalokā ca me mano vuṭṭhahissati, nibbāne ca santadassāvī bhavissāmi, anusayā ca me samugghātaṃ gacchissanti </snippet>
+    <match>gacchissanti</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">gacchissanti</alternative>
       <alternative source-abbr="pī." source="pali text society">gacchanti</alternative>
       <alternative source-abbr="ka." source="cambodian">gacchanti</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> Cha, bhikkhave, ānisaṃse sampassamānena alameva bhikkhunā sabbasaṅkhāresu anodhiṃ karitvā dukkhasaññaṃ upaṭṭhāpetuṃ. Katame cha? ‘Sabbasaṅkhāresu ca me nibbidasaññā paccupaṭṭhitā bhavissati, seyyathāpi ukkhittāsike vadhake. Sabbalokā ca me mano vuṭṭhahissati, nibbāne ca santadassāvī bhavissāmi, anusayā ca me samugghātaṃ gacchissanti </snippet>
   </note>
-  <note line="105" original="pañcamo (syā. ka.)" reference-line="26" id="10">
-    <extra></extra>
+  <note reference-line="26" id="10">
+    <original>pañcamo (syā. ka.)</original>
+    <type>auto</type>
+    <snippet>Ānisaṃsavaggo dasamo. </snippet>
+    <match>dasamo.</match>
     <alternatives>
       <alternative source-abbr="syā." source="thai">pañcamo</alternative>
       <alternative source-abbr="ka." source="cambodian">pañcamo</alternative>
     </alternatives>
-    <type>no_match</type>
-    <snippet>Ānisaṃsavaggo dasamo. </snippet>
   </note>
 </notes>

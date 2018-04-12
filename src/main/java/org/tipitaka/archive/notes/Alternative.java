@@ -18,6 +18,15 @@ public class Alternative
   @JacksonXmlText
   public String text;
 
+  public Version getVersion() {
+    return Version.toVersion(sourceAbbreviation);
+  }
+
+  public void setVersion(Version version) {
+    this.source = version.getName();
+    this.sourceAbbreviation = version.getAbbrevation();
+  }
+
   @Override
   public boolean equals(final Object o) {
     if (this == o) {
@@ -46,7 +55,7 @@ public class Alternative
   @Override
   public String toString() {
     final StringBuilder sb = new StringBuilder("Alternative{");
-    sb.append("lang='").append(sourceAbbreviation).append('\'');
+    sb.append("version='").append(sourceAbbreviation).append('\'');
     sb.append(", text='").append(text).append('\'');
     sb.append('}');
     return sb.toString();

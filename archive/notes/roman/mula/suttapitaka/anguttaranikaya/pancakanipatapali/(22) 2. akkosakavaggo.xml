@@ -1,45 +1,49 @@
-<?xml version="1.0" encoding="utf-8"?>
 <notes archive-path="/mula/suttapitaka/anguttaranikaya/pancakanipatapali/(22) 2. akkosakavaggo">
-  <note line="3" original="chinnaparibandho (ka.)" reference-line="3" id="0">
-    <extra></extra>
-    <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">chinnaparipantho</alternative>
-      <alternative source-abbr="ka." source="cambodian">chinnaparibandho</alternative>
-    </alternatives>
+  <note reference-line="3" id="0">
+    <original>chinnaparibandho (ka.)</original>
     <type>auto</type>
     <snippet> so, bhikkhave, bhikkhu akkosakaparibhāsako ariyūpavādī sabrahmacārīnaṃ, tassa pañca ādīnavā pāṭikaṅkhā. Katame pañca? Pārājiko vā hoti chinnaparipantho </snippet>
-  </note>
-  <note line="12" original="adhigataṃ (sabbattha)" reference-line="5" id="1">
-    <extra></extra>
+    <match>chinnaparipantho</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">adhigatā</alternative>
-      <alternative source-abbr="sabbattha" source="sabbattha">adhigataṃ</alternative>
+      <alternative source-abbr="ka." source="cambodian">chinnaparibandho</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> Yo so, bhikkhave, bhikkhu bhaṇḍanakārako kalahakārako vivādakārako bhassakārako saṅghe adhikaraṇakārako, tassa pañca ādīnavā pāṭikaṅkhā. Katame pañca? Anadhigataṃ nādhigacchati, adhigatā </snippet>
   </note>
-  <note line="21" original="mahāva. 209; dī. ni. 3.316" reference-line="7" id="2">
+  <note reference-line="5" id="1">
+    <original>adhigataṃ (sabbattha)</original>
     <type>raw</type>
-  </note>
-  <note line="24" original="na kataṃ (syā. kaṃ. ka.)" reference-line="30" id="3">
-    <extra></extra>
+    <snippet> ‘‘Yo so, bhikkhave, bhikkhu bhaṇḍanakārako kalahakārako vivādakārako bhassakārako saṅghe adhikaraṇakārako, tassa pañca ādīnavā pāṭikaṅkhā. Katame pañca? Anadhigataṃ nādhigacchati, adhigatā </snippet>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">akataṃ</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="7" id="2">
+    <original>mahāva. 209; dī. ni. 3.316</original>
+    <type>no_match</type>
+    <snippet>.</snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>mahāva. 209</reference>
+      <reference>dī. ni. 3.316</reference>
+    </references>
+  </note>
+  <note reference-line="30" id="3">
+    <original>na kataṃ (syā. kaṃ. ka.)</original>
+    <type>no_match</type>
+    <snippet> nappasīdanti, pasannānañca ekaccānaṃ aññathattaṃ hoti, satthusāsanaṃ akataṃ </snippet>
+    <alternatives>
       <alternative source-abbr="syā." source="thai">na kataṃ</alternative>
-      <alternative source-abbr="kaṃ." source="kaṃ.">na kataṃ</alternative>
+      <alternative source-abbr="kaṃ." source="kam">na kataṃ</alternative>
       <alternative source-abbr="ka." source="cambodian">na kataṃ</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> nappasīdanti, pasannānañca ekaccānaṃ aññathattaṃ hoti, satthusāsanaṃ akataṃ </snippet>
   </note>
-  <note line="35" original="saṅgaṇikāpavaddhano (sī.), saṅgaṇikārāmabaddhano (ka.)" reference-line="33" id="4">
-    <extra></extra>
+  <note reference-line="33" id="4">
+    <original>saṅgaṇikāpavaddhano (sī.), saṅgaṇikārāmabaddhano (ka.)</original>
+    <type>auto</type>
+    <snippet>, bhikkhave, ādīnavā aggismiṃ. Katame pañca? Acakkhusso, dubbaṇṇakaraṇo, dubbalakaraṇo, saṅgaṇikāpavaḍḍhano </snippet>
+    <match>saṅgaṇikāpavaḍḍhano</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">saṅgaṇikāpavaḍḍhano</alternative>
       <alternative source-abbr="sī." source="sri lanka">saṅgaṇikāpavaddhano</alternative>
       <alternative source-abbr="ka." source="cambodian">saṅgaṇikārāmabaddhano</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet>, bhikkhave, ādīnavā aggismiṃ. Katame pañca? Acakkhusso, dubbaṇṇakaraṇo, dubbalakaraṇo, saṅgaṇikāpavaḍḍhano </snippet>
   </note>
 </notes>

@@ -1,26 +1,53 @@
-<?xml version="1.0" encoding="utf-8"?>
 <notes archive-path="/mula/abhidhammapitaka/kathavatthupali/19. ekunavisatimavaggo">
-  <note line="3" original="ma. ni. 3.69 āneñjasappāye" reference-line="17" id="0">
+  <note reference-line="17" id="0">
+    <original>ma. ni. 3.69 āneñjasappāye</original>
     <type>raw</type>
-  </note>
-  <note line="6" original="evaṃ kho bhikkhave puggalo (a. ni. 7.15)" reference-line="63" id="1">
-    <extra></extra>
+    <snippet> Na vattabbaṃ – suññatā saṅkhārakkhandhapariyāpannā’’ti? Āmantā. Nanu vuttaṃ bhagavatā – ‘‘suññamidaṃ, bhikkhave, saṅkhārā attena vā attaniyena vā’’ti </snippet>
     <alternatives>
-      <alternative source-abbr="a. ni. 7.15" source="a. ni. 7.15">evaṃ kho bhikkhave puggalo</alternative>
     </alternatives>
+  </note>
+  <note reference-line="63" id="1">
+    <original>evaṃ kho bhikkhave puggalo (a. ni. 7.15)</original>
+    <type>raw</type>
+    <snippet> Na vattabbaṃ – ‘‘atthi puthujjanassa accantaniyāmatā’’ti? Āmantā. Nanu vuttaṃ bhagavatā – ‘‘idha, bhikkhave, ekacco puggalo samannāgato hoti ekantakāḷakehi akusalehi dhammehi, so </snippet>
+    <alternatives>
+    </alternatives>
+  </note>
+  <note reference-line="63" id="2">
+    <original>a. ni. 7.15</original>
     <type>no_match</type>
-    <snippet> Na vattabbaṃ – atthi puthujjanassa accantaniyāmatā’’ti? Āmantā. Nanu vuttaṃ bhagavatā – idha, bhikkhave, ekacco puggalo samannāgato hoti ekantakāḷakehi akusalehi dhammehi, so </snippet>
+    <snippet> nimuggova hotī’’ti </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>a. ni. 7.15</reference>
+    </references>
   </note>
-  <note line="14" original="a. ni. 7.15" reference-line="63" id="2">
-    <type>raw</type>
+  <note reference-line="64" id="3">
+    <original>a. ni. 7.15</original>
+    <type>no_match</type>
+    <snippet> Vuttaṃ bhagavatā – ‘‘idha, bhikkhave, ekacco puggalo samannāgato hoti ekantakāḷakehi akusalehi dhammehi, so sakiṃ nimuggo nimuggova hotī’’ti katvā tena ca kāraṇena atthi puthujjanassa accantaniyāmatāti? Āmantā. Vuttaṃ bhagavatā – ‘‘idha, bhikkhave, ekacco puggalo ummujjitvā nimujjatī’’ti </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>a. ni. 7.15</reference>
+    </references>
   </note>
-  <note line="17" original="a. ni. 7.15" reference-line="64" id="3">
-    <type>raw</type>
+  <note reference-line="65" id="4">
+    <original>a. ni. 7.15</original>
+    <type>no_match</type>
+    <snippet>Vuttaṃ bhagavatā – ‘‘idha, bhikkhave, ekacco puggalo samannāgato hoti ekantakāḷakehi akusalehi dhammehi, so sakiṃ nimuggo nimuggova hotī’’ti – katvā tena ca kāraṇena atthi puthujjanassa accantaniyāmatāti? Āmantā. Vuttaṃ bhagavatā – ‘‘idha, bhikkhave, ekacco puggalo ummujjitvā ṭhito hoti, ummujjitvā vipassati viloketi, ummujjitvā patarati, ummujjitvā patigādhappatto hotī’’ti </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>a. ni. 7.15</reference>
+    </references>
   </note>
-  <note line="20" original="a. ni. 7.15" reference-line="65" id="4">
+  <note reference-line="77" id="5">
+    <original>ma. ni. 1.283 tattha ‘‘dvākāre duviññāpaye’’ iccādīnipi padāni dissanti</original>
     <type>raw</type>
-  </note>
-  <note line="23" original="ma. ni. 1.283 tattha ‘‘dvākāre duviññāpaye’’ iccādīnipi padāni dissanti" reference-line="77" id="5">
-    <type>raw</type>
+    <snippet>, appekacce paralokavajjabhayadassāvino viharante’’ti </snippet>
+    <alternatives>
+    </alternatives>
   </note>
 </notes>

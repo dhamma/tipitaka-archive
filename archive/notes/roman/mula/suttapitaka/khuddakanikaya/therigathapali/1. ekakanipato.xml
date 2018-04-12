@@ -1,90 +1,79 @@
-<?xml version="1.0" encoding="utf-8"?>
 <notes archive-path="/mula/suttapitaka/khuddakanikaya/therigathapali/1. ekakanipato">
-  <note line="3" original="tamokkhandhaṃ (sī. syā.)" reference-line="18" id="0">
-    <extra></extra>
+  <note reference-line="18" id="0">
+    <original>tamokkhandhaṃ (sī. syā.)</original>
+    <type>auto</type>
+    <snippet>Paripuṇṇāya paññāya, tamokhandhaṃ </snippet>
+    <match>tamokhandhaṃ</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">tamokhandhaṃ</alternative>
       <alternative source-abbr="sī." source="sri lanka">tamokkhandhaṃ</alternative>
       <alternative source-abbr="syā." source="thai">tamokkhandhaṃ</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet>Paripuṇṇāya paññāya, tamokhandhaṃ </snippet>
   </note>
-  <note line="13" original="phussehi (sī.)" reference-line="32" id="1">
-    <extra></extra>
-    <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">phusehi</alternative>
-      <alternative source-abbr="sī." source="sri lanka">phussehi</alternative>
-    </alternatives>
+  <note reference-line="32" id="1">
+    <original>phussehi (sī.)</original>
     <type>auto</type>
     <snippet> nirodhaṃ phusehi </snippet>
-  </note>
-  <note line="22" original="yogakkhemaṃ anuttaranti (sī. syā.)" reference-line="33" id="2">
-    <extra></extra>
+    <match>phusehi</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">yogakkhemamanuttara’’nti</alternative>
+      <alternative source-abbr="sī." source="sri lanka">phussehi</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="33" id="2">
+    <original>yogakkhemaṃ anuttaranti (sī. syā.)</original>
+    <type>no_match</type>
+    <snippet>Ārādhayāhi nibbānaṃ, yogakkhemamanuttara’’nti </snippet>
+    <alternatives>
       <alternative source-abbr="sī." source="sri lanka">yogakkhemaṃ anuttaranti</alternative>
       <alternative source-abbr="syā." source="thai">yogakkhemaṃ anuttaranti</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet>Ārādhayāhi nibbānaṃ, yogakkhemamanuttara’’nti </snippet>
   </note>
-  <note line="32" original="dhīrā dhīrehi (ka.)" reference-line="37" id="3">
-    <extra></extra>
+  <note reference-line="37" id="3">
+    <original>dhīrā dhīrehi (ka.)</original>
+    <type>no_match</type>
+    <snippet> vīrehi </snippet>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">vīrehi</alternative>
       <alternative source-abbr="ka." source="cambodian">dhīrā dhīrehi</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> vīrehi </snippet>
   </note>
-  <note line="41" original="savāhananti (ka.)" reference-line="38" id="4">
-    <extra></extra>
-    <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">savāhini’’nti</alternative>
-      <alternative source-abbr="ka." source="cambodian">savāhananti</alternative>
-    </alternatives>
+  <note reference-line="38" id="4">
+    <original>savāhananti (ka.)</original>
     <type>auto</type>
     <snippet>Dhārehi antimaṃ dehaṃ, jetvā māraṃ savāhini’’nti </snippet>
-  </note>
-  <note line="50" original="phuṭṭhā (syā.), phuṭhā (sī. aṭṭha.)" reference-line="63" id="5">
-    <extra></extra>
+    <match>savāhini’’nti</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">phuṭā</alternative>
-      <alternative source-abbr="syā." source="thai">phuṭṭhā</alternative>
-      <alternative source-abbr="sī." source="sri lanka">phuṭhā</alternative>
-      <alternative source-abbr="aṭṭha." source="aṭṭha.">phuṭhā</alternative>
+      <alternative source-abbr="ka." source="cambodian">savāhananti</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> Chandajātā avasāyī, manasā ca phuṭā </snippet>
   </note>
-  <note line="61" original="appaṭibandhacittā (ka.)" reference-line="64" id="6">
-    <extra></extra>
+  <note reference-line="63" id="5">
+    <original>phuṭṭhā (syā.), phuṭhā (sī. aṭṭha.)</original>
+    <type>raw</type>
+    <snippet> ‘‘Chandajātā avasāyī, manasā ca phuṭā </snippet>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">appaṭibaddhacittā</alternative>
-      <alternative source-abbr="ka." source="cambodian">appaṭibandhacittā</alternative>
     </alternatives>
+  </note>
+  <note reference-line="64" id="6">
+    <original>appaṭibandhacittā (ka.)</original>
     <type>auto</type>
     <snippet>Kāmesu appaṭibaddhacittā </snippet>
-  </note>
-  <note line="70" original="uddhaṃsotā vimuccatīti (sī. pī.)" reference-line="64" id="7">
-    <extra></extra>
+    <match>appaṭibaddhacittā</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">vuccatī’’ti</alternative>
-      <alternative source-abbr="sī." source="sri lanka">uddhaṃsotā vimuccatī’’ti</alternative>
-      <alternative source-abbr="pī." source="pali text society">uddhaṃsotā vimuccatī’’ti</alternative>
+      <alternative source-abbr="ka." source="cambodian">appaṭibandhacittā</alternative>
     </alternatives>
-    <type>auto</type>
+  </note>
+  <note reference-line="64" id="7">
+    <original>uddhaṃsotā vimuccatīti (sī. pī.)</original>
+    <type>no_match</type>
     <snippet> vuccatī’’ti </snippet>
-  </note>
-  <note line="80" original="pabbajitā (sī. aṭṭha.)" reference-line="94" id="8">
-    <extra></extra>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">pabbajitvā</alternative>
-      <alternative source-abbr="sī." source="sri lanka">pabbajitā</alternative>
-      <alternative source-abbr="aṭṭha." source="aṭṭha.">pabbajitā</alternative>
+      <alternative source-abbr="sī." source="sri lanka">uddhaṃsotā vimuccatīti</alternative>
+      <alternative source-abbr="pī." source="pali text society">uddhaṃsotā vimuccatīti</alternative>
     </alternatives>
-    <type>auto</type>
+  </note>
+  <note reference-line="94" id="8">
+    <original>pabbajitā (sī. aṭṭha.)</original>
+    <type>raw</type>
     <snippet> ghare pabbajitvā </snippet>
+    <alternatives>
+    </alternatives>
   </note>
 </notes>

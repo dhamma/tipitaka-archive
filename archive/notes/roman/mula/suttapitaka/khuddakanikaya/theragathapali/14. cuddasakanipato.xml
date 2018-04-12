@@ -1,40 +1,37 @@
-<?xml version="1.0" encoding="utf-8"?>
 <notes archive-path="/mula/suttapitaka/khuddakanikaya/theragathapali/14. cuddasakanipato">
-  <note line="3" original="mettaṃ cittaṃ (sī. syā.)" reference-line="14" id="0">
-    <extra></extra>
+  <note reference-line="14" id="0">
+    <original>mettaṃ cittaṃ (sī. syā.)</original>
+    <type>no_match</type>
+    <snippet>Mettacittañca </snippet>
     <alternatives>
       <alternative source-abbr="sī." source="sri lanka">mettaṃ cittaṃ</alternative>
       <alternative source-abbr="syā." source="thai">mettaṃ cittaṃ</alternative>
     </alternatives>
-    <type>no_match</type>
-    <snippet>Mettacittañca </snippet>
   </note>
-  <note line="12" original="abyāpajjharato (sī. syā.)" reference-line="14" id="1">
-    <extra></extra>
+  <note reference-line="14" id="1">
+    <original>abyāpajjharato (sī. syā.)</original>
+    <type>auto</type>
+    <snippet> bhāvemi, abyāpajjarato </snippet>
+    <match>abyāpajjarato</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">abyāpajjarato</alternative>
       <alternative source-abbr="sī." source="sri lanka">abyāpajjharato</alternative>
       <alternative source-abbr="syā." source="thai">abyāpajjharato</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> bhāvemi, abyāpajjarato </snippet>
   </note>
-  <note line="22" original="dhurāsaho (aṭṭha.)" reference-line="47" id="2">
-    <extra></extra>
+  <note reference-line="47" id="2">
+    <original>dhurāsaho (aṭṭha.)</original>
+    <type>raw</type>
+    <snippet> ‘‘Yathāpi bhaddo ājañño, dhure yutto dhurassaho </snippet>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">dhurassaho</alternative>
-      <alternative source-abbr="aṭṭha." source="aṭṭha.">dhurāsaho</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> Yathāpi bhaddo ājañño, dhure yutto dhurassaho </snippet>
   </note>
-  <note line="31" original="mānavā (sī.)" reference-line="54" id="3">
-    <extra></extra>
-    <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">māṇavā</alternative>
-      <alternative source-abbr="sī." source="sri lanka">mānavā</alternative>
-    </alternatives>
+  <note reference-line="54" id="3">
+    <original>mānavā (sī.)</original>
     <type>auto</type>
     <snippet>Narā dukkhaṃ nigacchanti, tedha socanti māṇavā </snippet>
+    <match>māṇavā</match>
+    <alternatives>
+      <alternative source-abbr="sī." source="sri lanka">mānavā</alternative>
+    </alternatives>
   </note>
 </notes>

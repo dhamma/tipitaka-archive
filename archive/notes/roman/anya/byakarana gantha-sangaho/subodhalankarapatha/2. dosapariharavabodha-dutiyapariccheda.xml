@@ -1,12 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?>
 <notes archive-path="/anya/byakarana gantha-sangaho/subodhalankarapatha/2. dosapariharavabodha-dutiyapariccheda">
-  <note line="3" original="paheḷikāya (ka.)" reference-line="21" id="0">
-    <extra></extra>
-    <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">Pahelikāya</alternative>
-      <alternative source-abbr="ka." source="cambodian">paheḷikāya</alternative>
-    </alternatives>
+  <note reference-line="21" id="0">
+    <original>paheḷikāya (ka.)</original>
     <type>auto</type>
     <snippet> Pahelikāya </snippet>
+    <match>Pahelikāya</match>
+    <alternatives>
+      <alternative source-abbr="ka." source="cambodian">paheḷikāya</alternative>
+    </alternatives>
   </note>
 </notes>

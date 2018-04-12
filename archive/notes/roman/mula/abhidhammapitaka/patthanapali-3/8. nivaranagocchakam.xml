@@ -1,12 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?>
 <notes archive-path="/mula/abhidhammapitaka/patthanapali-3/8. nivaranagocchakam">
-  <note line="3" original="thīnamiddhanīvaraṇaṃ (syā.)" reference-line="7" id="0">
-    <extra></extra>
-    <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">thinamiddhanīvaraṇaṃ</alternative>
-      <alternative source-abbr="syā." source="thai">thīnamiddhanīvaraṇaṃ</alternative>
-    </alternatives>
+  <note reference-line="7" id="0">
+    <original>thīnamiddhanīvaraṇaṃ (syā.)</original>
     <type>auto</type>
     <snippet> dhammaṃ paṭicca nīvaraṇo dhammo uppajjati hetupaccayā – kāmacchandanīvaraṇaṃ paṭicca thinamiddhanīvaraṇaṃ </snippet>
+    <match>thinamiddhanīvaraṇaṃ</match>
+    <alternatives>
+      <alternative source-abbr="syā." source="thai">thīnamiddhanīvaraṇaṃ</alternative>
+    </alternatives>
   </note>
 </notes>

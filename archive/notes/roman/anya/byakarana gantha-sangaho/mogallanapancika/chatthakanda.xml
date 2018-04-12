@@ -1,28 +1,37 @@
-<?xml version="1.0" encoding="utf-8"?>
 <notes archive-path="/anya/byakarana gantha-sangaho/mogallanapancika/chatthakanda">
-  <note line="3" original="atthināmāti (potthake)" reference-line="8" id="0">
-    <extra></extra>
-    <alternatives>
-      <alternative source-abbr="potthake" source="potthake">atthināmāti</alternative>
-    </alternatives>
-    <type>no_match</type>
+  <note reference-line="8" id="0">
+    <original>atthināmāti (potthake)</original>
+    <type>raw</type>
     <snippet> cetitā asi, bhuñjissasīti bhuñjitā asi. Anokappanā assaddhā. Amarisanaṃ akkhamā. Imināvāti atthivacane upapade kodhā saddhāsu gammamānesva-satīpi vacanantare imināva sāmaññavacanena siddhanti attho. Garahāvamāti tassa hetuvacanaṃ. Tathāhiccādinā garahāvagamameva samattheti. Atthināma īdisanti </snippet>
-  </note>
-  <note line="11" original="īdisampīti" reference-line="8" id="1">
-    <type>raw</type>
-  </note>
-  <note line="14" original="bhāvavirahena (potthake)" reference-line="28" id="2">
-    <extra></extra>
     <alternatives>
-      <alternative source-abbr="potthake" source="potthake">bhāvavirahena</alternative>
     </alternatives>
-    <type>no_match</type>
+  </note>
+  <note reference-line="8" id="1">
+    <original>īdisampīti</original>
+    <type>raw</type>
+    <snippet> ābhidosikassa kummāsassa paribhuñjanaṃ vijjate nāmāti attho. Vijjamānampi taṃ asaddahanto amarisanto evaṃ vadati. Natthīti maññeti adhippāyo, tenāha- ‘paccakkhamapī’ti </snippet>
+    <alternatives>
+    </alternatives>
+  </note>
+  <note reference-line="28" id="2">
+    <original>bhāvavirahena (potthake)</original>
+    <type>raw</type>
     <snippet>Liṅgenāti ettha pubbe dakkhiṇena gamane sati sakaṭissāpariyā bhavanadassanaṃ dakkhiṇena gamanassa sakaṭāpariyābhavanahetutte liṅgaṃ, dakkhiṇena gamanassātipattiyā aññato gamanādi liṅgaṃ. Sakaṭā kiriyābhavanātipattiyā sakaṭe garubhārāropanādi liṅgaṃ. Paṭhamavaye arahattabhavanaṃ taṃhetubhūtañca pabbajjaṃ paresaṃ paṭhamavaye pabbajjānimittārahattappattiliṅgena viññāya pabbajjāyātipatti gharakammabyāvaṭatādiliṅgena, arahattassātipatti ca pabbajjānimittābhāvena </snippet>
+    <alternatives>
+    </alternatives>
   </note>
-  <note line="22" original="bhātāssa" reference-line="142" id="3">
+  <note reference-line="142" id="3">
+    <original>bhātāssa</original>
     <type>raw</type>
+    <snippet> vikkamabāhu bāhitaripū tātvassa </snippet>
+    <alternatives>
+    </alternatives>
   </note>
-  <note line="25" original="tisūro" reference-line="144" id="4">
+  <note reference-line="144" id="4">
+    <original>tisūro</original>
     <type>raw</type>
+    <snippet>Nibbhīto </snippet>
+    <alternatives>
+    </alternatives>
   </note>
 </notes>

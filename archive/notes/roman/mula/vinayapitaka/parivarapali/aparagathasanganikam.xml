@@ -1,23 +1,22 @@
-<?xml version="1.0" encoding="utf-8"?>
 <notes archive-path="/mula/vinayapitaka/parivarapali/aparagathasanganikam">
-  <note line="3" original="vuttānusandhitena (sī. syā. ka.)" reference-line="21" id="0">
-    <extra></extra>
+  <note reference-line="21" id="0">
+    <original>vuttānusandhitena (sī. syā. ka.)</original>
+    <type>auto</type>
+    <snippet>Bahumpi alajjī bhāseyya, vattānusandhitena </snippet>
+    <match>vattānusandhitena</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">vattānusandhitena</alternative>
       <alternative source-abbr="sī." source="sri lanka">vuttānusandhitena</alternative>
       <alternative source-abbr="syā." source="thai">vuttānusandhitena</alternative>
       <alternative source-abbr="ka." source="cambodian">vuttānusandhitena</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet>Bahumpi alajjī bhāseyya, vattānusandhitena </snippet>
   </note>
-  <note line="14" original="evañca (ka.)" reference-line="23" id="1">
-    <extra></extra>
-    <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">Etañca</alternative>
-      <alternative source-abbr="ka." source="cambodian">evañca</alternative>
-    </alternatives>
+  <note reference-line="23" id="1">
+    <original>evañca (ka.)</original>
     <type>auto</type>
     <snippet>Etañca </snippet>
+    <match>Etañca</match>
+    <alternatives>
+      <alternative source-abbr="ka." source="cambodian">evañca</alternative>
+    </alternatives>
   </note>
 </notes>

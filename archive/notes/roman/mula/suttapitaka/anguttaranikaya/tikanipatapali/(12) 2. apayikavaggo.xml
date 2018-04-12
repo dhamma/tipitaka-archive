@@ -1,25 +1,34 @@
-<?xml version="1.0" encoding="utf-8"?>
 <notes archive-path="/mula/suttapitaka/anguttaranikaya/tikanipatapali/(12) 2. apayikavaggo">
-  <note line="3" original="abhūtena (ka.)" reference-line="3" id="0">
-    <extra></extra>
+  <note reference-line="3" id="0">
+    <original>abhūtena (ka.)</original>
+    <type>auto</type>
+    <snippet> ca abrahmacārī brahmacāripaṭiñño, yo ca suddhaṃ brahmacariyaṃ carantaṃ amūlakena </snippet>
+    <match>amūlakena</match>
     <alternatives>
       <alternative source-abbr="ka." source="cambodian">abhūtena</alternative>
     </alternatives>
-    <type>no_match</type>
-    <snippet> ca abrahmacārī brahmacāripaṭiñño, yo ca suddhaṃ brahmacariyaṃ carantaṃ amūlakena </snippet>
   </note>
-  <note line="11" original="jīvitaṃ (syā. kaṃ. ka.)" reference-line="30" id="1">
-    <extra></extra>
+  <note reference-line="30" id="1">
+    <original>jīvitaṃ (syā. kaṃ. ka.)</original>
+    <type>auto</type>
+    <snippet>‘‘Katamā ca, bhikkhave, ājīvavipatti? Idha, bhikkhave, ekacco micchāājīvo hoti, micchāājīvena jīvikaṃ </snippet>
+    <match>jīvikaṃ</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">jīvikaṃ</alternative>
       <alternative source-abbr="syā." source="thai">jīvitaṃ</alternative>
-      <alternative source-abbr="kaṃ." source="kaṃ.">jīvitaṃ</alternative>
+      <alternative source-abbr="kaṃ." source="kam">jīvitaṃ</alternative>
       <alternative source-abbr="ka." source="cambodian">jīvitaṃ</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet>Katamā ca, bhikkhave, ājīvavipatti? Idha, bhikkhave, ekacco micchāājīvo hoti, micchāājīvena jīvikaṃ </snippet>
   </note>
-  <note line="22" original="itivu. 66" reference-line="43" id="2">
-    <type>raw</type>
+  <note reference-line="43" id="2">
+    <original>itivu. 66</original>
+    <type>no_match</type>
+    <snippet>
+
+</snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>itivu. 66</reference>
+    </references>
   </note>
 </notes>

@@ -38,7 +38,7 @@ public class Main {
     System.err.println("usage:");
     for (Command com : Command.values()) {
       System.err.println("\tjava " + Main.class.getName() + " "
-                         + com.toString().toLowerCase() + " <basedir> <script>");
+                         + com.toString().toLowerCase());
     }
   }
 }

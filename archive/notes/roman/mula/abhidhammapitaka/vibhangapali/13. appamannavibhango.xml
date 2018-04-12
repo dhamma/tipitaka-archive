@@ -1,32 +1,31 @@
-<?xml version="1.0" encoding="utf-8"?>
 <notes archive-path="/mula/abhidhammapitaka/vibhangapali/13. appamannavibhango">
-  <note line="3" original="catutthiṃ (sī.)" reference-line="3" id="0">
-    <extra></extra>
-    <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">catutthaṃ</alternative>
-      <alternative source-abbr="sī." source="sri lanka">catutthiṃ</alternative>
-    </alternatives>
+  <note reference-line="3" id="0">
+    <original>catutthiṃ (sī.)</original>
     <type>auto</type>
     <snippet> appamaññāyo – idha bhikkhu mettāsahagatena cetasā ekaṃ disaṃ pharitvā viharati, tathā dutiyaṃ, tathā tatiyaṃ, tathā catutthaṃ </snippet>
-  </note>
-  <note line="12" original="abyāpajjhena (sī. syā.)" reference-line="3" id="1">
-    <extra></extra>
+    <match>catutthaṃ</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">abyāpajjena</alternative>
+      <alternative source-abbr="sī." source="sri lanka">catutthiṃ</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="3" id="1">
+    <original>abyāpajjhena (sī. syā.)</original>
+    <type>auto</type>
+    <snippet>. Iti uddhamadho tiriyaṃ sabbadhi sabbattatāya sabbāvantaṃ lokaṃ mettāsahagatena cetasā vipulena mahaggatena appamāṇena averena abyāpajjena </snippet>
+    <match>abyāpajjena</match>
+    <alternatives>
       <alternative source-abbr="sī." source="sri lanka">abyāpajjhena</alternative>
       <alternative source-abbr="syā." source="thai">abyāpajjhena</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet>. Iti uddhamadho tiriyaṃ sabbadhi sabbattatāya sabbāvantaṃ lokaṃ mettāsahagatena cetasā vipulena mahaggatena appamāṇena averena abyāpajjena </snippet>
   </note>
-  <note line="22" original="abyāpajjho (sī. syā.)" reference-line="15" id="2">
-    <extra></extra>
+  <note reference-line="15" id="2">
+    <original>abyāpajjho (sī. syā.)</original>
+    <type>auto</type>
+    <snippet> yaṃ vipulaṃ taṃ mahaggataṃ, yaṃ mahaggataṃ taṃ appamāṇaṃ, yaṃ appamāṇaṃ so avero, yo avero so abyāpajjo </snippet>
+    <match>abyāpajjo</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">abyāpajjo</alternative>
       <alternative source-abbr="sī." source="sri lanka">abyāpajjho</alternative>
       <alternative source-abbr="syā." source="thai">abyāpajjho</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> yaṃ vipulaṃ taṃ mahaggataṃ, yaṃ mahaggataṃ taṃ appamāṇaṃ, yaṃ appamāṇaṃ so avero, yo avero so abyāpajjo </snippet>
   </note>
 </notes>

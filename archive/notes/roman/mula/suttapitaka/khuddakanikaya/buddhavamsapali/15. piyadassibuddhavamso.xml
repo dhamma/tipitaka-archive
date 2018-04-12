@@ -1,21 +1,20 @@
-<?xml version="1.0" encoding="utf-8"?>
 <notes archive-path="/mula/suttapitaka/khuddakanikaya/buddhavamsapali/15. piyadassibuddhavamso">
-  <note line="3" original="mānavo (syā. kaṃ.)" reference-line="27" id="0">
-    <extra></extra>
+  <note reference-line="27" id="0">
+    <original>mānavo (syā. kaṃ.)</original>
+    <type>auto</type>
+    <snippet> Ahaṃ tena samayena, kassapo nāma brāhmaṇo </snippet>
+    <match>brāhmaṇo</match>
     <alternatives>
       <alternative source-abbr="syā." source="thai">mānavo</alternative>
-      <alternative source-abbr="kaṃ." source="kaṃ.">mānavo</alternative>
+      <alternative source-abbr="kaṃ." source="kam">mānavo</alternative>
     </alternatives>
-    <type>no_match</type>
-    <snippet> Ahaṃ tena samayena, kassapo nāma brāhmaṇo </snippet>
   </note>
-  <note line="12" original="saraṇaṃ pañcasīlañca (sī.)" reference-line="34" id="1">
-    <extra></extra>
+  <note reference-line="34" id="1">
+    <original>saraṇaṃ pañcasīlañca (sī.)</original>
+    <type>no_match</type>
+    <snippet>Saraṇe pañca sīle ca </snippet>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">ca</alternative>
       <alternative source-abbr="sī." source="sri lanka">saraṇaṃ pañcasīlañca</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet>Saraṇe pañca sīle ca </snippet>
   </note>
 </notes>

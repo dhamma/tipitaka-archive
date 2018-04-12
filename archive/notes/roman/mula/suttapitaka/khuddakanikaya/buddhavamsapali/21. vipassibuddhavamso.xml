@@ -1,13 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?>
 <notes archive-path="/mula/suttapitaka/khuddakanikaya/buddhavamsapali/21. vipassibuddhavamso">
-  <note line="3" original="upanissā jino (syā. kaṃ.)" reference-line="18" id="0">
-    <extra></extra>
-    <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">upanisādino</alternative>
-      <alternative source-abbr="syā." source="thai">upanissā jino</alternative>
-      <alternative source-abbr="kaṃ." source="kaṃ.">upanissā jino</alternative>
-    </alternatives>
-    <type>auto</type>
+  <note reference-line="18" id="0">
+    <original>upanissā jino (syā. kaṃ.)</original>
+    <type>no_match</type>
     <snippet> bhāsato, sutvā upanisādino </snippet>
+    <alternatives>
+      <alternative source-abbr="syā." source="thai">upanissā jino</alternative>
+      <alternative source-abbr="kaṃ." source="kam">upanissā jino</alternative>
+    </alternatives>
   </note>
 </notes>

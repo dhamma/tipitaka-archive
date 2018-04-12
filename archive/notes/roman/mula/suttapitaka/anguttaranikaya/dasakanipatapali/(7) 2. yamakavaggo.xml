@@ -1,84 +1,98 @@
-<?xml version="1.0" encoding="utf-8"?>
 <notes archive-path="/mula/suttapitaka/anguttaranikaya/dasakanipatapali/(7) 2. yamakavaggo">
-  <note line="3" original="avijjampahaṃ (sī. syā.)" reference-line="4" id="0">
-    <extra></extra>
+  <note reference-line="4" id="0">
+    <original>avijjampahaṃ (sī. syā.)</original>
+    <type>auto</type>
+    <snippet>‘‘Avijjampāhaṃ </snippet>
+    <match>‘‘Avijjampāhaṃ</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">Avijjampāhaṃ</alternative>
       <alternative source-abbr="sī." source="sri lanka">avijjampahaṃ</alternative>
       <alternative source-abbr="syā." source="thai">avijjampahaṃ</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet>Avijjampāhaṃ </snippet>
   </note>
-  <note line="13" original="(galagalāyante) (sī.), (gaḷagaḷāyante) (syā.)" reference-line="6" id="1">
+  <note reference-line="6" id="1">
+    <original>(galagalāyante) (sī.), (gaḷagaḷāyante) (syā.)</original>
     <type>raw</type>
-  </note>
-  <note line="16" original="kussubbhe (sī.), kusubbhe (syā.), kusombhe (ka.) a. ni. 3.96" reference-line="6" id="2">
-    <extra> a. ni. 3.96</extra>
+    <snippet> deve vassante ( ) </snippet>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">kusobbhe</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="6" id="2">
+    <original>kussubbhe (sī.), kusubbhe (syā.), kusombhe (ka.) a. ni. 3.96</original>
+    <type>auto</type>
+    <snippet> taṃ udakaṃ yathāninnaṃ pavattamānaṃ pabbatakandarapadarasākhā paripūreti, pabbatakandarapadarasākhā paripūrā kusobbhe </snippet>
+    <match>kusobbhe</match>
+    <alternatives>
       <alternative source-abbr="sī." source="sri lanka">kussubbhe</alternative>
       <alternative source-abbr="syā." source="thai">kusubbhe</alternative>
       <alternative source-abbr="ka." source="cambodian">kusombhe</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> taṃ udakaṃ yathāninnaṃ pavattamānaṃ pabbatakandarapadarasākhā paripūreti, pabbatakandarapadarasākhā paripūrā kusobbhe </snippet>
+    <references>
+      <reference>a. ni. 3.96</reference>
+    </references>
   </note>
-  <note line="27" original="mahāsombhe (ka.)" reference-line="6" id="3">
-    <extra></extra>
-    <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">mahāsobbhe</alternative>
-      <alternative source-abbr="ka." source="cambodian">mahāsombhe</alternative>
-    </alternatives>
+  <note reference-line="6" id="3">
+    <original>mahāsombhe (ka.)</original>
     <type>auto</type>
     <snippet> paripūrenti. Kusobbhā paripūrā mahāsobbhe </snippet>
-  </note>
-  <note line="36" original="vigatathīnamiddho (sī. syā. kaṃ. pī.)" reference-line="34" id="4">
-    <extra></extra>
+    <match>mahāsobbhe</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">Vigatathinamiddho</alternative>
+      <alternative source-abbr="ka." source="cambodian">mahāsombhe</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="34" id="4">
+    <original>vigatathīnamiddho (sī. syā. kaṃ. pī.)</original>
+    <type>auto</type>
+    <snippet>‘‘Vigatathinamiddho </snippet>
+    <match>‘‘Vigatathinamiddho</match>
+    <alternatives>
       <alternative source-abbr="sī." source="sri lanka">vigatathīnamiddho</alternative>
       <alternative source-abbr="syā." source="thai">vigatathīnamiddho</alternative>
-      <alternative source-abbr="kaṃ." source="kaṃ.">vigatathīnamiddho</alternative>
+      <alternative source-abbr="kaṃ." source="kam">vigatathīnamiddho</alternative>
       <alternative source-abbr="pī." source="pali text society">vigatathīnamiddho</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet>Vigatathinamiddho </snippet>
   </note>
-  <note line="48" original="hiri (sī. syā. kaṃ. pī.)" reference-line="36" id="5">
-    <extra></extra>
-    <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">hirī</alternative>
-      <alternative source-abbr="sī." source="sri lanka">hiri</alternative>
-      <alternative source-abbr="syā." source="thai">hiri</alternative>
-      <alternative source-abbr="kaṃ." source="kaṃ.">hiri</alternative>
-      <alternative source-abbr="pī." source="pali text society">hiri</alternative>
-    </alternatives>
+  <note reference-line="36" id="5">
+    <original>hiri (sī. syā. kaṃ. pī.)</original>
     <type>auto</type>
     <snippet> kassaci, āvuso, saddhā natthi kusalesu dhammesu, hirī </snippet>
-  </note>
-  <note line="60" original="viriyaṃ (sī. syā. kaṃ. pī.)" reference-line="36" id="6">
-    <extra></extra>
+    <match>hirī</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">vīriyaṃ</alternative>
-      <alternative source-abbr="sī." source="sri lanka">viriyaṃ</alternative>
-      <alternative source-abbr="syā." source="thai">viriyaṃ</alternative>
-      <alternative source-abbr="kaṃ." source="kaṃ.">viriyaṃ</alternative>
-      <alternative source-abbr="pī." source="pali text society">viriyaṃ</alternative>
+      <alternative source-abbr="sī." source="sri lanka">hiri</alternative>
+      <alternative source-abbr="syā." source="thai">hiri</alternative>
+      <alternative source-abbr="kaṃ." source="kam">hiri</alternative>
+      <alternative source-abbr="pī." source="pali text society">hiri</alternative>
     </alternatives>
+  </note>
+  <note reference-line="36" id="6">
+    <original>viriyaṃ (sī. syā. kaṃ. pī.)</original>
     <type>auto</type>
     <snippet>… vīriyaṃ </snippet>
-  </note>
-  <note line="72" original="dī. ni. 1.17; ma. ni. 2.223; saṃ. ni. 5.1080; pāci. 508" reference-line="53" id="7">
-    <type>raw</type>
-  </note>
-  <note line="75" original="itthikathaṃ purisakathaṃ (ka.) ma. ni. aṭṭha. 2.223 passitabbaṃ" reference-line="53" id="8">
-    <extra> ma. ni. aṭṭha. 2.223 passitabbaṃ</extra>
+    <match>vīriyaṃ</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">janapadakathaṃ itthikathaṃ</alternative>
-      <alternative source-abbr="ka." source="cambodian">itthikathaṃ purisakathaṃ</alternative>
+      <alternative source-abbr="sī." source="sri lanka">viriyaṃ</alternative>
+      <alternative source-abbr="syā." source="thai">viriyaṃ</alternative>
+      <alternative source-abbr="kaṃ." source="kam">viriyaṃ</alternative>
+      <alternative source-abbr="pī." source="pali text society">viriyaṃ</alternative>
     </alternatives>
-    <type>auto</type>
+  </note>
+  <note reference-line="53" id="7">
+    <original>dī. ni. 1.17; ma. ni. 2.223; saṃ. ni. 5.1080; pāci. 508</original>
+    <type>no_match</type>
+    <snippet> upaṭṭhānasālāyaṃ sannisinnā sannipatitā anekavihitaṃ tiracchānakathaṃ anuyuttā viharanti, seyyathidaṃ – </snippet>
+    <alternatives>
+    </alternatives>
+    <references>
+      <reference>dī. ni. 1.17</reference>
+      <reference>ma. ni. 2.223</reference>
+      <reference>saṃ. ni. 5.1080</reference>
+      <reference>pāci. 508</reference>
+    </references>
+  </note>
+  <note reference-line="53" id="8">
+    <original>itthikathaṃ purisakathaṃ (ka.) ma. ni. aṭṭha. 2.223 passitabbaṃ</original>
+    <type>raw</type>
     <snippet> rājakathaṃ corakathaṃ mahāmattakathaṃ senākathaṃ bhayakathaṃ yuddhakathaṃ annakathaṃ pānakathaṃ vatthakathaṃ sayanakathaṃ mālākathaṃ gandhakathaṃ ñātikathaṃ yānakathaṃ gāmakathaṃ nigamakathaṃ nagarakathaṃ janapadakathaṃ itthikathaṃ </snippet>
+    <alternatives>
+    </alternatives>
   </note>
 </notes>

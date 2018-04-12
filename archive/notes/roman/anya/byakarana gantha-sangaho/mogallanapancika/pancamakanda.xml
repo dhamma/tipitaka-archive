@@ -1,98 +1,128 @@
-<?xml version="1.0" encoding="utf-8"?>
 <notes archive-path="/anya/byakarana gantha-sangaho/mogallanapancika/pancamakanda">
-  <note line="3" original="kīla (pañcikā)" reference-line="14" id="0">
-    <extra></extra>
-    <alternatives>
-      <alternative source-abbr="pañcikā" source="pañcikā">kīla</alternative>
-    </alternatives>
-    <type>no_match</type>
+  <note reference-line="14" id="0">
+    <original>kīla (pañcikā)</original>
+    <type>raw</type>
     <snippet>Acetanattā kūlassa icchāyāsambhavoti ‘kūlappatitumicchatī’ti vākyamevecchāpakāsanamasiddhaṃ, tenāsiddhena vākyenāsiddhānaṃ kha cha sānaṃ sādhanaṃ asiddhenāsiddhasādhanaṃ. Icchāvacanicchāti icchāya vattumicchā. Icchāyapavattito upaladdhīti icchāya upaladdhi upālambo parijānanaṃ pavattitoti attho. Cetanāvaticāti vuttaṃ tasmā cetanāvati pavattito upaladdhiṃ dassetvā tadapadese nācetanepi dassetuṃ ‘yopesā’tiādimāha. Devadatte rajju khīlādipāṇinā uyyogo, kūle mattikāvikīraṇādi. Rajju guṇo. Khīlo </snippet>
-  </note>
-  <note line="11" original="tasmā" reference-line="62" id="1">
-    <type>raw</type>
-  </note>
-  <note line="14" original="dhānena" reference-line="64" id="2">
-    <type>raw</type>
-  </note>
-  <note line="17" original="(sati)" reference-line="64" id="3">
-    <type>raw</type>
-  </note>
-  <note line="20" original="(ti)" reference-line="64" id="4">
-    <type>raw</type>
-  </note>
-  <note line="23" original="dhātuniyamatthaṃ" reference-line="65" id="5">
-    <type>raw</type>
-  </note>
-  <note line="26" original="vihitāeva, vo-kāsikāvutti" reference-line="82" id="6">
-    <type>raw</type>
-  </note>
-  <note line="29" original="kimatthamiccādi codya, vicasasavihiteccādi parihāro, kiccā hi sāmaññena vihitā, pañcamī tu pesādinātthavisesena, ato tena visesavihitena kiccā pesādivisaye bādhīyeranti punabbiyate, vāsarūpeccādinā parihāraṃ vighaṭayati. evaṃ carahiccādinā pesādīsu kiccavidhānassa ñāpakattaṃ dassayati. (jinindabuddhinu 21 sa)" reference-line="82" id="7">
-    <extra></extra>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">carahi etaṃ ñāpeti ‘itthīadhikārato parena vāsarūpavidhi nāvassambhavatī’ti</alternative>
-      <alternative source-abbr="jinindabuddhinu 21 sa" source="jinindabuddhinu 21 sa">kimatthamiccādi codya, vicasasavihiteccādi parihāro, kiccā hi sāmaññena vihitā, pañcamī tu pesādinātthavisesena, ato tena visesavihitena kiccā pesādivisaye bādhīyeranti punabbiyate, vāsarūpeccādinā parihāraṃ vighaṭayati. evaṃ carahiccādinā pesādīsu kiccavidhānassa ñāpakattaṃ dassayati.</alternative>
     </alternatives>
-    <type>auto</type>
+  </note>
+  <note reference-line="62" id="1">
+    <original>tasmā</original>
+    <type>raw</type>
+    <snippet>Subhedattādineti hetumhi karaṇe vā tatiyā. Atthatoti ‘kammeyeva kyo’ti (na sakkhi) </snippet>
+    <alternatives>
+    </alternatives>
+  </note>
+  <note reference-line="64" id="2">
+    <original>dhānena</original>
+    <type>raw</type>
+    <snippet>Asmiṃ pakkheti asmiṃ kattuttena vivacchite pakkhe. Tabbisayattanti kammavācīsayaṃ saddavisayattaṃ. Bhāvakammesūtīmassa kattariccassa ca paccayavisesanatthe sati sāmatthiyaladdhampayojanaṃ dassetumāha- ‘bhāvakammesū’tiādi. Iminā anena ca visesisattāti sambandho. Kintaṃ visesitanti āha- ‘mānanta tyādīsū’ti. Kintampayojananti payojanaṃ dassetumāha- ‘tyādīna’miccādi. Yadi bhāvakammesu kattari ca tena tena </snippet>
+    <alternatives>
+    </alternatives>
+  </note>
+  <note reference-line="64" id="3">
+    <original>(sati)</original>
+    <type>raw</type>
+    <snippet> suttena mānādayo na siyuṃ, kathantaṃ visesitesu mānādīsu paresu kyādayo siyuntīminā sāmatthiyena ( ) </snippet>
+    <alternatives>
+    </alternatives>
+  </note>
+  <note reference-line="64" id="4">
+    <original>(ti)</original>
+    <type>raw</type>
+    <snippet> bhāvakammesu kattari ( ) </snippet>
+    <alternatives>
+    </alternatives>
+  </note>
+  <note reference-line="65" id="5">
+    <original>dhātuniyamatthaṃ</original>
+    <type>raw</type>
+    <snippet>Natadatthaṃ vacanamāraddhanti bhāvakammesu kattari mānantatyādividhānatthaṃ pāṇiniyehi viya suttantaraṃ nāraddhanti attho. Atha bhāvakammesu kattari ca mānādividhānatthaṃ vacanaṃ nāraddhaṃ dhātuniyamanaṃ </snippet>
+    <alternatives>
+    </alternatives>
+  </note>
+  <note reference-line="82" id="6">
+    <original>vihitāeva, vo-kāsikāvutti</original>
+    <type>raw</type>
+    <snippet>Nanu ca sāmaññena vihitā e(te), tathā ca sati vijjhatthavihi tehi eyyādīhi te bādhīyanticcāha- ‘nace’ccādi. Vidhivisesatte pīti vidhānaṃ vidhi niyojanaṃ kiriyāsu byāpāraṇā, tassa vidhino pesādīnaṃ visesattepi, nāvassantiādi jayādiccabyākhyānaṃ nissāya vuttaṃ, vuttañhi tena ‘‘kimatthaṃ pesādīsu kiccasaññino tabbaanīyaṇyatyappaccayā vidhīyante, na sāmaññena bhāvakammesu vihitā, evamete </snippet>
+    <alternatives>
+    </alternatives>
+  </note>
+  <note reference-line="82" id="7">
+    <original>kimatthamiccādi codya, vicasasavihiteccādi parihāro, kiccā hi sāmaññena vihitā, pañcamī tu pesādinātthavisesena, ato tena visesavihitena kiccā pesādivisaye bādhīyeranti punabbiyate, vāsarūpeccādinā parihāraṃ vighaṭayati. evaṃ carahiccādinā pesādīsu kiccavidhānassa ñāpakattaṃ dassayati. (jinindabuddhinu 21 sa)</original>
+    <type>raw</type>
     <snippet> pesvādīññasvatra ca bhavissantīti visesavihitena vidhyādīsu paccayena bādhīyante, vāsarūpavidhinā bhavissanti evañcarahi etaṃ ñāpeti ‘itthīadhikārato parena vāsarūpavidhi nāvassambhavatī’ti </snippet>
-  </note>
-  <note line="38" original="suttadosaṃ" reference-line="123" id="8">
-    <type>raw</type>
-  </note>
-  <note line="41" original="atthitāya (bhojanākaṅkhitattā) yathecchaṃ sāmaññena bhojane pavattiyaṃ mattāyaṃ asaddhabhojanaṃ satthavihitamupalabhamānassa saddhato nivattitvā visese hi saddhe pavattiniyamo vatamuccate, niyamocātraduvidho sambhavati-asaddhaṃ bhūñjati eva, athaddhamo bhuñjatīti vā, tatrādime niyame yadevā saddhaṃ na bhuñjati tadevavata loposiyā (ra-3-228) kātantapañjikā" reference-line="133" id="9">
-    <extra> kātantapañjikā</extra>
     <alternatives>
-      <alternative source-abbr="bhojanākaṅkhitattā" source="bhojanākaṅkhitattā">atthitāya</alternative>
-      <alternative source-abbr="vri" source="vipassana research institut">bhojane atthitāyaṃ saddhaassaddhabhojanavisayāyaṃ pavattiyaṃ yadi bhuñjati assaddhameva bhuñjati na saddhanti satthe vuttaniyamo, assaddhaṃ bhuñjati evāti nottarapadāvadhāraṇaṃ… evañhi viññāyamāne yadevāssaddhaṃ na bhuñjati tadeva vatalopo siyāti</alternative>
-      <alternative source-abbr="ra-3-228" source="ra-3-228">yathecchaṃ sāmaññena bhojane pavattiyaṃ mattāyaṃ asaddhabhojanaṃ satthavihitamupalabhamānassa saddhato nivattitvā visese hi saddhe pavattiniyamo vatamuccate, niyamocātraduvidho sambhavati-asaddhaṃ bhūñjati eva, athaddhamo bhuñjatīti vā, tatrādime niyame yadevā saddhaṃ na bhuñjati tadevavata loposiyā</alternative>
     </alternatives>
-    <type>auto</type>
+  </note>
+  <note reference-line="123" id="8">
+    <original>suttadosaṃ</original>
+    <type>raw</type>
+    <snippet>Tabbādippaccayo ca vihitoti sakiyavohārenāha. Sakiya satthe avuttadosaṃ </snippet>
+    <alternatives>
+    </alternatives>
+  </note>
+  <note reference-line="133" id="9">
+    <original>atthitāya (bhojanākaṅkhitattā) yathecchaṃ sāmaññena bhojane pavattiyaṃ mattāyaṃ asaddhabhojanaṃ satthavihitamupalabhamānassa saddhato nivattitvā visese hi saddhe pavattiniyamo vatamuccate, niyamocātraduvidho sambhavati-asaddhaṃ bhūñjati eva, athaddhamo bhuñjatīti vā, tatrādime niyame yadevā saddhaṃ na bhuñjati tadevavata loposiyā (ra-3-228) kātantapañjikā</original>
+    <type>raw</type>
     <snippet>Yogavibhāgāti ‘ṇī’ti yoga vibhāgā. Sādhuṃ karoti, brahmaṃ vadati, asaddhaṃ bhuñjati, paṇḍitamattānaṃ maññatīti viggaho. Sādhunti kiriyāvisesanaṃ. Assaddhabhojīti vate. Vatañca bhojane atthitāyaṃ saddhaassaddhabhojanavisayāyaṃ pavattiyaṃ yadi bhuñjati assaddhameva bhuñjati na saddhanti satthe vuttaniyamo, assaddhaṃ bhuñjati evāti nottarapadāvadhāraṇaṃ… evañhi viññāyamāne yadevāssaddhaṃ na bhuñjati tadeva vatalopo siyāti </snippet>
-  </note>
-  <note line="51" original="punabbacanaṃ" reference-line="143" id="10">
-    <type>raw</type>
-  </note>
-  <note line="54" original="apakatatthaṃ (potthake)" reference-line="164" id="11">
-    <extra></extra>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">Agatthaṃ</alternative>
-      <alternative source-abbr="potthake" source="potthake">apakatatthaṃ</alternative>
     </alternatives>
-    <type>auto</type>
+  </note>
+  <note reference-line="143" id="10">
+    <original>punabbacanaṃ</original>
+    <type>raw</type>
+    <snippet>Kasmā evaṃ na vuttanti āha- ‘pubbasmiṃ viyā’ti ādi. Aniyamuppatti saññāya sati ñāpananti tannisedhetumāha- ‘punabbacanato’tiādi. Māsaṅkīti kammani, tenevuppattīti paṭhamā. Evaṃ maññate ‘‘bhāvakamma gahaṇaṃ cākārenānukaḍḍhiya ‘bhāvakammesu cā’tyanena ktevidhīya māne idamāsaṅkīyate ‘pubbeneva sāmaññena siddhe punabbacanā </snippet>
+    <alternatives>
+    </alternatives>
+  </note>
+  <note reference-line="164" id="11">
+    <original>apakatatthaṃ (potthake)</original>
+    <type>raw</type>
     <snippet> ṇako tīsupi kālesu sāmaññena vihito, kriyatthā yaṃ kriyāyaṃ upapade kattuno-bhidhānaṃ siddhaṃ, na cāssa visesavihitena tuṃpaccayena bādhā bhinnattā, tuṃpaccayassa hi bhāve vidhānaṃ ṇakassa tu kattarīti. Pubbaṇakeneva siddhepi ltvādinivattiyā so vidheyyova, no ce ltvādayopi siyunti codakappasaṅgamāsaṅkiyāha- ‘naceva’miccādi. Avagamābhāvameva phuṭayitumāha- ‘nahiṃ’ccādi. Hi yasmātyatthe yo eso vajati so kattā, yo eso vajati so vikkhipotyayamattho-tra gamyate, na pana tehi tādatthiyaṃ gamyateti attho. Codako ltvādīhi sāmyamāpādayituṃ sāmarisaṃ vuttavidhinevāppattiṃ ṇakassāpyāha- ‘ṇakopi’ccādi. Agatthaṃ </snippet>
-  </note>
-  <note line="63" original="cāpaccayabhova" reference-line="164" id="12">
-    <type>raw</type>
-  </note>
-  <note line="66" original="vadati" reference-line="175" id="13">
-    <type>raw</type>
-  </note>
-  <note line="69" original="tañca (potthake)" reference-line="190" id="14">
-    <extra></extra>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">tattha</alternative>
-      <alternative source-abbr="potthake" source="potthake">tañca</alternative>
     </alternatives>
-    <type>auto</type>
+  </note>
+  <note reference-line="164" id="12">
+    <original>cāpaccayabhova</original>
+    <type>raw</type>
+    <snippet> yadipi ṇakena tādatthiyaṃ na gamyate pakaraṇato gamyateti ṇako bhavissatītyāsaṅkiya codako āha- ‘athe’ccādi. Pubbeccādinā vutto-yaṃ ‘ṇako na vidheyyo’ccassa na parihāro… sottarattā yathāvuttena, kintu‘tasmā nevi’ccādinā iminā vuccamānovaparihārotiviññātabbaṃ. Tadevaṃltvādīnampipattitoṇakaltvādīhi tādatthiyānavagame vinicchite tādatthiyavisesena tesaṃ sambhavoti anatthakaṃ ‘‘ṇakassa kiriyatthopapadassavidhānaṃ ltvādipaṭisedhanattha’’nti vākyakāravacananti satthakāro nigamayamāha- ‘tasmā’’ccādi. Bhavatu pakaraṇatova </snippet>
+    <alternatives>
+    </alternatives>
+  </note>
+  <note reference-line="175" id="13">
+    <original>vadati</original>
+    <type>raw</type>
+    <snippet>Bhuñjati devadattoti ettha yajjapi bhuñjamāno hasati khajjati </snippet>
+    <alternatives>
+    </alternatives>
+  </note>
+  <note reference-line="190" id="14">
+    <original>tañca (potthake)</original>
+    <type>raw</type>
     <snippet>Saṅkhyeyyañcettha saddarūpamuccāraṇaṃ vā, tattha uccāraṇe saṅkhyeyye ṭhāne dvibbacanaṃ na sambhavati… uccāraṇassa saddā(nugata) dhammattā. Saddarūpe saṅkhyeyye ṭhāne dvibbacanaṃ, tattha </snippet>
-  </note>
-  <note line="78" original="tadantavidhicirabhedanāccanabyāpāraṃ (potthake)" reference-line="215" id="15">
-    <extra></extra>
     <alternatives>
-      <alternative source-abbr="potthake" source="potthake">tadantavidhicirabhedanāccanabyāpāraṃ</alternative>
     </alternatives>
-    <type>no_match</type>
-    <snippet>Nanu kimatthamantaggahaṇaṃ yato kvimhi lopo-ntabyañjanassā’’ti vuttaṃ, chaṭṭhiyantassā’’ti (1-17) antasseva lopo siyāti codanaṃ manasi nidhāya taggahaṇe payojanaṃ dassento āha- ‘antaggahaṇa’miccādi. Lopavidhīsūti (vīādilopavidhīsu, chaṭṭhī niddiṭṭhanti) vīmantu vantū’’nti (4-138) chaṭṭhīniddiṭṭhaṃ. Bhadantavidhicaritattabyāpāraṃ </snippet>
   </note>
-  <note line="86" original="aññasmiṃ" reference-line="245" id="16">
+  <note reference-line="215" id="15">
+    <original>tadantavidhicirabhedanāccanabyāpāraṃ (potthake)</original>
     <type>raw</type>
-  </note>
-  <note line="89" original="pakāroti (potthake)" reference-line="302" id="17">
-    <extra></extra>
+    <snippet>Nanu kimatthamantaggahaṇaṃ yato ‘‘kvimhi lopo-ntabyañjanassā’’ti vuttaṃ, ‘‘chaṭṭhiyantassā’’ti (1-17) antasseva lopo siyāti codanaṃ manasi nidhāya taggahaṇe payojanaṃ dassento āha- ‘antaggahaṇa’miccādi. Lopavidhīsūti (vīādilopavidhīsu, chaṭṭhī niddiṭṭhanti) ‘‘vīmantu vantū’’nti (4-138) chaṭṭhīniddiṭṭhaṃ. Bhadantavidhicaritattabyāpāraṃ </snippet>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">pakaraṇatoti</alternative>
-      <alternative source-abbr="potthake" source="potthake">pakāroti</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet>Nanu nassāti vutte paccayanakārassāti kathaṃ viññāyatīti āha- ‘nassā’tiādi,ntamānatyādīnaṃ paccayānaṃ nassa nantamānatyādīna’’nti (5-172) ṇattapaṭisedhā viññāyati pakaraṇatoti </snippet>
+  </note>
+  <note reference-line="245" id="16">
+    <original>aññasmiṃ</original>
+    <type>raw</type>
+    <snippet>Nāññatracayādīsūti nicchayato-ññesu </snippet>
+    <alternatives>
+    </alternatives>
+  </note>
+  <note reference-line="302" id="17">
+    <original>pakāroti (potthake)</original>
+    <type>raw</type>
+    <snippet>Nanu nassāti vutte paccayanakārassāti kathaṃ viññāyatīti āha- ‘nassā’tiādi,ntamānatyādīnaṃ paccayānaṃ nassa ‘‘nantamānatyādīna’’nti (5-172) ṇattapaṭisedhā viññāyati pakaraṇatoti </snippet>
+    <alternatives>
+    </alternatives>
   </note>
 </notes>

@@ -54,7 +54,6 @@ public class Visitor
       throw new IOException("pull parser error", e);
     }
     builder.documentEnd();
-    builder.flush();
   }
 
   private void accept(Builder builder, XmlPullParser xpp) throws XmlPullParserException, IOException {
@@ -71,7 +70,6 @@ public class Visitor
       }
       eventType = xpp.next();
     }
-    builder.flush();
   }
 
   private void visitStartTag(Builder builder, XmlPullParser xpp) throws XmlPullParserException, IOException {

@@ -1,43 +1,38 @@
-<?xml version="1.0" encoding="utf-8"?>
 <notes archive-path="/mula/suttapitaka/khuddakanikaya/dhammapadapali/22. nirayavaggo">
-  <note line="3" original="yo cāpi (sī. pī. ka.)" reference-line="3" id="0">
-    <extra></extra>
+  <note reference-line="3" id="0">
+    <original>yo cāpi (sī. pī. ka.)</original>
+    <type>no_match</type>
+    <snippet> nirayaṃ upeti, yo vāpi </snippet>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">yo vāpi</alternative>
       <alternative source-abbr="sī." source="sri lanka">yo cāpi</alternative>
       <alternative source-abbr="pī." source="pali text society">yo cāpi</alternative>
       <alternative source-abbr="ka." source="cambodian">yo cāpi</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> nirayaṃ upeti, yo vāpi </snippet>
   </note>
-  <note line="14" original="na karomīti cāha (syā.)" reference-line="3" id="1">
-    <extra></extra>
+  <note reference-line="3" id="1">
+    <original>na karomīti cāha (syā.)</original>
+    <type>no_match</type>
+    <snippet> katvā na karomi cāha </snippet>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">na karomi cāha</alternative>
       <alternative source-abbr="syā." source="thai">na karomīti cāha</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> katvā na karomi cāha </snippet>
   </note>
-  <note line="23" original="kayirā naṃ (ka.)" reference-line="24" id="2">
-    <extra></extra>
+  <note reference-line="24" id="2">
+    <original>kayirā naṃ (ka.)</original>
+    <type>no_match</type>
+    <snippet> Kayirā ce kayirāthenaṃ </snippet>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">kayirāthenaṃ</alternative>
       <alternative source-abbr="ka." source="cambodian">kayirā naṃ</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> Kayirā ce kayirāthenaṃ </snippet>
   </note>
-  <note line="32" original="khaṇo ve (sī. pī. ka.)" reference-line="31" id="3">
-    <extra></extra>
+  <note reference-line="31" id="3">
+    <original>khaṇo ve (sī. pī. ka.)</original>
+    <type>no_match</type>
+    <snippet> gopetha attānaṃ, khaṇo vo </snippet>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">khaṇo vo</alternative>
       <alternative source-abbr="sī." source="sri lanka">khaṇo ve</alternative>
       <alternative source-abbr="pī." source="pali text society">khaṇo ve</alternative>
       <alternative source-abbr="ka." source="cambodian">khaṇo ve</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> gopetha attānaṃ, khaṇo vo </snippet>
   </note>
 </notes>

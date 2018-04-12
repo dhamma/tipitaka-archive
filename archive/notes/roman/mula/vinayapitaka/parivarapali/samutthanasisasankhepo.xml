@@ -1,124 +1,120 @@
-<?xml version="1.0" encoding="utf-8"?>
 <notes archive-path="/mula/vinayapitaka/parivarapali/samutthanasisasankhepo">
-  <note line="3" original="kukkuccaṃ dhammikaṃ cīvaraṃ (sī.), kukkuccaṃ dhammikaṃ datvā (syā.)" reference-line="50" id="0">
-    <extra></extra>
+  <note reference-line="50" id="0">
+    <original>kukkuccaṃ dhammikaṃ cīvaraṃ (sī.), kukkuccaṃ dhammikaṃ datvā (syā.)</original>
+    <type>no_match</type>
+    <snippet>Kukkuccaṃ dhammikaṃ cīvaraṃ, datvā </snippet>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">cīvaraṃ, datvā</alternative>
       <alternative source-abbr="sī." source="sri lanka">kukkuccaṃ dhammikaṃ cīvaraṃ</alternative>
       <alternative source-abbr="syā." source="thai">kukkuccaṃ dhammikaṃ datvā</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet>Kukkuccaṃ dhammikaṃ cīvaraṃ, datvā </snippet>
   </note>
-  <note line="13" original="dvāradānasibbinī (sī. syā.)" reference-line="68" id="1">
-    <extra></extra>
+  <note reference-line="68" id="1">
+    <original>dvāradānasibbinī (sī. syā.)</original>
+    <type>auto</type>
+    <snippet>Dvāradānasibbāni </snippet>
+    <match>Dvāradānasibbāni</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">Dvāradānasibbāni</alternative>
       <alternative source-abbr="sī." source="sri lanka">dvāradānasibbinī</alternative>
       <alternative source-abbr="syā." source="thai">dvāradānasibbinī</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet>Dvāradānasibbāni </snippet>
   </note>
-  <note line="23" original="na cittato (sī. syā.)" reference-line="75" id="2">
-    <extra></extra>
+  <note reference-line="75" id="2">
+    <original>na cittato (sī. syā.)</original>
+    <type>no_match</type>
+    <snippet>Kāyavācā na ca cittā </snippet>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">ca cittā</alternative>
       <alternative source-abbr="sī." source="sri lanka">na cittato</alternative>
       <alternative source-abbr="syā." source="thai">na cittato</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet>Kāyavācā na ca cittā </snippet>
   </note>
-  <note line="33" original="na vācato (sī. syā.)" reference-line="75" id="3">
-    <extra></extra>
+  <note reference-line="75" id="3">
+    <original>na vācato (sī. syā.)</original>
+    <type>no_match</type>
+    <snippet>, kāyacittā na vācikā </snippet>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">na vācikā</alternative>
       <alternative source-abbr="sī." source="sri lanka">na vācato</alternative>
       <alternative source-abbr="syā." source="thai">na vācato</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet>, kāyacittā na vācikā </snippet>
   </note>
-  <note line="43" original="tīhi ṭhānehi (syā.)" reference-line="76" id="4">
-    <extra></extra>
+  <note reference-line="76" id="4">
+    <original>tīhi ṭhānehi (syā.)</original>
+    <type>no_match</type>
+    <snippet> na kāyena, tīhi dvārehi </snippet>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">tīhi dvārehi</alternative>
       <alternative source-abbr="syā." source="thai">tīhi ṭhānehi</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> na kāyena, tīhi dvārehi </snippet>
   </note>
-  <note line="52" original="anvaddhamāsaṃ (sī. syā.)" reference-line="87" id="5">
-    <extra></extra>
+  <note reference-line="87" id="5">
+    <original>anvaddhamāsaṃ (sī. syā.)</original>
+    <type>auto</type>
+    <snippet>Anvaddhaṃ </snippet>
+    <match>Anvaddhaṃ</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">Anvaddhaṃ</alternative>
       <alternative source-abbr="sī." source="sri lanka">anvaddhamāsaṃ</alternative>
       <alternative source-abbr="syā." source="thai">anvaddhamāsaṃ</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet>Anvaddhaṃ </snippet>
   </note>
-  <note line="62" original="na cittato (syā.)" reference-line="100" id="6">
-    <extra></extra>
+  <note reference-line="100" id="6">
+    <original>na cittato (syā.)</original>
+    <type>no_match</type>
+    <snippet>Kāyavācā na ca cittā </snippet>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">ca cittā</alternative>
       <alternative source-abbr="syā." source="thai">na cittato</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet>Kāyavācā na ca cittā </snippet>
   </note>
-  <note line="71" original="uyyuttaṃ vase (syā.)" reference-line="107" id="7">
-    <extra></extra>
+  <note reference-line="107" id="7">
+    <original>uyyuttaṃ vase (syā.)</original>
+    <type>no_match</type>
+    <snippet>Uyyuttaṃ senaṃ </snippet>
     <alternatives>
       <alternative source-abbr="syā." source="thai">uyyuttaṃ vase</alternative>
     </alternatives>
-    <type>no_match</type>
-    <snippet>Uyyuttaṃ senaṃ </snippet>
   </note>
-  <note line="79" original="anokāse (sī. syā.)" reference-line="121" id="8">
-    <extra></extra>
+  <note reference-line="121" id="8">
+    <original>anokāse (sī. syā.)</original>
+    <type>auto</type>
+    <snippet> dve vuttā, anokāso </snippet>
+    <match>anokāso</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">anokāso</alternative>
       <alternative source-abbr="sī." source="sri lanka">anokāse</alternative>
       <alternative source-abbr="syā." source="thai">anokāse</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> dve vuttā, anokāso </snippet>
   </note>
-  <note line="89" original="kāyacittakā (ka.)" reference-line="122" id="9">
-    <extra></extra>
-    <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">kāyacittato</alternative>
-      <alternative source-abbr="ka." source="cambodian">kāyacittakā</alternative>
-    </alternatives>
+  <note reference-line="122" id="9">
+    <original>kāyacittakā (ka.)</original>
     <type>auto</type>
     <snippet>Satta sikkhāpadā ete, vācā na kāyacittato </snippet>
-  </note>
-  <note line="98" original="samānayā (syā.)" reference-line="134" id="10">
-    <extra></extra>
+    <match>kāyacittato</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">samā</alternative>
-      <alternative source-abbr="syā." source="thai">samānayā</alternative>
+      <alternative source-abbr="ka." source="cambodian">kāyacittakā</alternative>
     </alternatives>
+  </note>
+  <note reference-line="134" id="10">
+    <original>samānayā (syā.)</original>
     <type>auto</type>
     <snippet> buddhañāṇena, addhānena sahā samā </snippet>
+    <match>samā</match>
+    <alternatives>
+      <alternative source-abbr="syā." source="thai">samānayā</alternative>
+    </alternatives>
   </note>
-  <note line="107" original="tatheva (sī. syā.)" reference-line="147" id="11">
-    <extra></extra>
+  <note reference-line="147" id="11">
+    <original>tatheva (sī. syā.)</original>
+    <type>auto</type>
+    <snippet>Evameva </snippet>
+    <match>Evameva</match>
     <alternatives>
       <alternative source-abbr="sī." source="sri lanka">tatheva</alternative>
       <alternative source-abbr="syā." source="thai">tatheva</alternative>
     </alternatives>
-    <type>no_match</type>
-    <snippet>Evameva </snippet>
   </note>
-  <note line="116" original="ṭhapitaṃ (syā.)" reference-line="164" id="12">
-    <extra></extra>
+  <note reference-line="164" id="12">
+    <original>ṭhapitaṃ (syā.)</original>
+    <type>auto</type>
+    <snippet>Akataṃ dvisamuṭṭhānaṃ, dhammarājena bhāsitaṃ </snippet>
+    <match>bhāsitaṃ</match>
     <alternatives>
       <alternative source-abbr="syā." source="thai">ṭhapitaṃ</alternative>
     </alternatives>
-    <type>no_match</type>
-    <snippet>Akataṃ dvisamuṭṭhānaṃ, dhammarājena bhāsitaṃ </snippet>
   </note>
 </notes>

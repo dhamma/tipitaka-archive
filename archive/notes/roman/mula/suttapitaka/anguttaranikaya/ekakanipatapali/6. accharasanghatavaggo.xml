@@ -1,16 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?>
 <notes archive-path="/mula/suttapitaka/anguttaranikaya/ekakanipatapali/6. accharasanghatavaggo">
-  <note line="3" original="mettaṃ cittaṃ (sī.), mettacittaṃ (syā. kaṃ. pī. ka.)" reference-line="4" id="0">
-    <extra></extra>
+  <note reference-line="4" id="0">
+    <original>mettaṃ cittaṃ (sī.), mettacittaṃ (syā. kaṃ. pī. ka.)</original>
+    <type>no_match</type>
+    <snippet> ‘‘Accharāsaṅghātamattampi ce, bhikkhave, bhikkhu mettācittaṃ </snippet>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">mettācittaṃ</alternative>
       <alternative source-abbr="sī." source="sri lanka">mettaṃ cittaṃ</alternative>
       <alternative source-abbr="syā." source="thai">mettacittaṃ</alternative>
-      <alternative source-abbr="kaṃ." source="kaṃ.">mettacittaṃ</alternative>
+      <alternative source-abbr="kaṃ." source="kam">mettacittaṃ</alternative>
       <alternative source-abbr="pī." source="pali text society">mettacittaṃ</alternative>
       <alternative source-abbr="ka." source="cambodian">mettacittaṃ</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> Accharāsaṅghātamattampi ce, bhikkhave, bhikkhu mettācittaṃ </snippet>
   </note>
 </notes>

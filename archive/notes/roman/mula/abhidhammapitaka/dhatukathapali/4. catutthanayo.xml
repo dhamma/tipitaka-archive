@@ -1,12 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?>
 <notes archive-path="/mula/abhidhammapitaka/dhatukathapali/4. catutthanayo">
-  <note line="3" original="tiṃsavidhanti (pī.)" reference-line="9" id="0">
-    <extra></extra>
-    <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">tiṃsavidhāti</alternative>
-      <alternative source-abbr="pī." source="pali text society">tiṃsavidhanti</alternative>
-    </alternatives>
+  <note reference-line="9" id="0">
+    <original>tiṃsavidhanti (pī.)</original>
     <type>auto</type>
     <snippet>Uddhaṃ puna ekādasa, gocchakapadamettha tiṃsavidhāti </snippet>
+    <match>tiṃsavidhāti</match>
+    <alternatives>
+      <alternative source-abbr="pī." source="pali text society">tiṃsavidhanti</alternative>
+    </alternatives>
   </note>
 </notes>

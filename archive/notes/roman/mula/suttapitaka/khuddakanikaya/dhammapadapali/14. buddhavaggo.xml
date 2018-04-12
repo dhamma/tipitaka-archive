@@ -1,57 +1,58 @@
-<?xml version="1.0" encoding="utf-8"?>
 <notes archive-path="/mula/suttapitaka/khuddakanikaya/dhammapadapali/14. buddhavaggo">
-  <note line="3" original="jitamassa (sī. syā. pī.), jitaṃ massa (ka.)" reference-line="3" id="0">
-    <extra></extra>
+  <note reference-line="3" id="0">
+    <original>jitamassa (sī. syā. pī.), jitaṃ massa (ka.)</original>
+    <type>no_match</type>
+    <snippet> jitaṃ nāvajīyati, jitaṃ yassa </snippet>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">yassa</alternative>
       <alternative source-abbr="sī." source="sri lanka">jitamassa</alternative>
       <alternative source-abbr="syā." source="thai">jitamassa</alternative>
       <alternative source-abbr="pī." source="pali text society">jitamassa</alternative>
       <alternative source-abbr="ka." source="cambodian">jitaṃ massa</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> jitaṃ nāvajīyati, jitaṃ yassa </snippet>
   </note>
-  <note line="15" original="kusalassūpasampadā (syā.)" reference-line="15" id="1">
-    <extra></extra>
-    <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">upasampadā</alternative>
-      <alternative source-abbr="syā." source="thai">kusalassūpasampadā</alternative>
-    </alternatives>
+  <note reference-line="15" id="1">
+    <original>kusalassūpasampadā (syā.)</original>
     <type>auto</type>
     <snippet> Sabbapāpassa akaraṇaṃ, kusalassa upasampadā </snippet>
-  </note>
-  <note line="24" original="sacittapariyodāpanaṃ (?)" reference-line="16" id="2">
-    <extra></extra>
+    <match>upasampadā</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">Sacittapariyodapanaṃ</alternative>
-      <alternative source-abbr="?" source="unknown">sacittapariyodāpanaṃ</alternative>
+      <alternative source-abbr="syā." source="thai">kusalassūpasampadā</alternative>
     </alternatives>
+  </note>
+  <note reference-line="16" id="2">
+    <original>sacittapariyodāpanaṃ (?)</original>
     <type>auto</type>
     <snippet>Sacittapariyodapanaṃ </snippet>
-  </note>
-  <note line="33" original="nibbāṇaṃ (ka. sī. pī.)" reference-line="18" id="3">
-    <extra></extra>
+    <match>Sacittapariyodapanaṃ</match>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">nibbānaṃ</alternative>
+      <alternative source-abbr="?" source="unknown">sacittapariyodāpanaṃ</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="18" id="3">
+    <original>nibbāṇaṃ (ka. sī. pī.)</original>
+    <type>auto</type>
+    <snippet> Khantī paramaṃ tapo titikkhā, nibbānaṃ </snippet>
+    <match>nibbānaṃ</match>
+    <alternatives>
       <alternative source-abbr="ka." source="cambodian">nibbāṇaṃ</alternative>
       <alternative source-abbr="sī." source="sri lanka">nibbāṇaṃ</alternative>
       <alternative source-abbr="pī." source="pali text society">nibbāṇaṃ</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> Khantī paramaṃ tapo titikkhā, nibbānaṃ </snippet>
   </note>
-  <note line="44" original="ayaṃ nakāro sī. syā. pī. pātthakesu na dissati" reference-line="19" id="4">
+  <note reference-line="19" id="4">
+    <original>ayaṃ nakāro sī. syā. pī. pātthakesu na dissati</original>
     <type>raw</type>
-  </note>
-  <note line="47" original="anupavādo anupaghāto (syā. ka.)" reference-line="21" id="5">
-    <extra></extra>
+    <snippet>Na hi pabbajito parūpaghātī, na </snippet>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">Anūpavādo anūpaghāto</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="21" id="5">
+    <original>anupavādo anupaghāto (syā. ka.)</original>
+    <type>no_match</type>
+    <snippet> Anūpavādo anūpaghāto </snippet>
+    <alternatives>
       <alternative source-abbr="syā." source="thai">anupavādo anupaghāto</alternative>
       <alternative source-abbr="ka." source="cambodian">anupavādo anupaghāto</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet> Anūpavādo anūpaghāto </snippet>
   </note>
 </notes>

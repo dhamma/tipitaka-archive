@@ -1,34 +1,27 @@
-<?xml version="1.0" encoding="utf-8"?>
 <notes archive-path="/mula/vinayapitaka/parivarapali/dutiyagathasanganikam">
-  <note line="3" original="sabbe adhammikā (sī. syā.)" reference-line="148" id="0">
-    <extra></extra>
+  <note reference-line="148" id="0">
+    <original>sabbe adhammikā (sī. syā.)</original>
+    <type>no_match</type>
+    <snippet>Campāyaṃ vinayavatthusmiṃ, sabbeva adhammikā </snippet>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">sabbeva adhammikā</alternative>
       <alternative source-abbr="sī." source="sri lanka">sabbe adhammikā</alternative>
       <alternative source-abbr="syā." source="thai">sabbe adhammikā</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet>Campāyaṃ vinayavatthusmiṃ, sabbeva adhammikā </snippet>
   </note>
-  <note line="13" original="sabbevādhammikā (sī.), sabbe adhammikā (syā.)" reference-line="150" id="1">
-    <extra></extra>
+  <note reference-line="150" id="1">
+    <original>sabbevādhammikā (sī.), sabbe adhammikā (syā.)</original>
+    <type>no_match</type>
+    <snippet>Campāyaṃ vinayavatthusmiṃ, sabbeva adhammikā </snippet>
     <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">adhammikā</alternative>
       <alternative source-abbr="sī." source="sri lanka">sabbevādhammikā</alternative>
       <alternative source-abbr="syā." source="thai">sabbe adhammikā</alternative>
     </alternatives>
-    <type>auto</type>
-    <snippet>Campāyaṃ vinayavatthusmiṃ, sabbeva adhammikā </snippet>
   </note>
-  <note line="23" original="visayāni (sī. syā. evamuparipi)" reference-line="174" id="2">
-    <extra></extra>
-    <alternatives>
-      <alternative source-abbr="vri" source="vipassana research institut">vinayāni</alternative>
-      <alternative source-abbr="sī." source="sri lanka">visayāni</alternative>
-      <alternative source-abbr="syā." source="thai">visayāni</alternative>
-      <alternative source-abbr="evamuparipi" source="evamuparipi">visayāni</alternative>
-    </alternatives>
-    <type>auto</type>
+  <note reference-line="174" id="2">
+    <original>visayāni (sī. syā. evamuparipi)</original>
+    <type>raw</type>
     <snippet>Vinayaṃ paṭijānantassa, vinayāni </snippet>
+    <alternatives>
+    </alternatives>
   </note>
 </notes>

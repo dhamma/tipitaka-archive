@@ -20,7 +20,10 @@ import java.util.Map;
 import java.util.Set;
 import java.util.stream.Collectors;
 import org.tipitaka.archive.model.*;
+import org.tipitaka.archive.notes.Notes;
 import org.tipitaka.archive.notes.NotesBuilder;
+import org.tipitaka.archive.notes.NotesLocator;
+import org.tipitaka.archive.notes.XmlBuilder;
 import org.tipitaka.archive.legacy.Visitor;
 
 import org.tipitaka.archive.StandardException;
@@ -35,9 +38,9 @@ public class NotesProcessor {
         this(TipitakaOrgTocVisitor.mirror());
     }
 
-    public NotesProcessor(TipitakaOrgTocVisitor visitor) throws IOException, StandardException {
-        this.model = new ModelBuilder(visitor);
-        this.sourceUrl = visitor.getBaseUrl() + "/romn";
+    public NotesProcessor(TipitakaOrgTocVisitor tocVisitor) throws IOException, StandardException {
+        this.model = new ModelBuilder(tocVisitor);
+        this.sourceUrl = tocVisitor.getBaseUrl() + "/romn";
         this.visitor = new Visitor();
     }
 
@@ -57,10 +60,15 @@ public class NotesProcessor {
     private void buildDocument(final File base, final Document doc) throws IOException {
         File file = new File(base, doc.getPath() + ".xml");
         String source = sourceUrl + "/" + doc.getNormativeSource();
-        //System.out.println(file);
 
-        try (NotesBuilder builder = new NotesBuilder(new FileWriter(file))) {
-          visitor.accept(builder, source, doc);
+        Notes notes = NotesLocator.toNotes(doc.getPath());
+        NotesBuilder builder = new NotesBuilder(notes);
+        visitor.accept(builder, source, doc);
+        Notes newNotes = builder.get();
+        if (!newNotes.isEmpty()) {
+          try (Writer writer = new FileWriter(file)) {
+            new XmlBuilder(writer).build(newNotes);
+          }
         }
     }
 
