@@ -1,4 +1,4 @@
-package org.tipitaka.archive.converter;
+package org.tipitaka.archive.creators;
 
 import java.io.BufferedReader;
 import java.io.File;
@@ -28,23 +28,23 @@ import org.tipitaka.archive.legacy.Visitor;
 
 import org.tipitaka.archive.StandardException;
 
-public class NotesProcessor {
+public class NotesCreator {
 
-    private final ModelBuilder model;
+    private final ModelIterator model;
     private final String sourceUrl;
     private final Visitor visitor;
 
-    public NotesProcessor() throws IOException, StandardException {
+    public NotesCreator() throws IOException, StandardException {
         this(TipitakaOrgTocVisitor.mirror());
     }
 
-    public NotesProcessor(TipitakaOrgTocVisitor tocVisitor) throws IOException, StandardException {
-        this.model = new ModelBuilder(tocVisitor);
+    public NotesCreator(TipitakaOrgTocVisitor tocVisitor) throws IOException, StandardException {
+        this.model = new ModelIterator(tocVisitor);
         this.sourceUrl = tocVisitor.getBaseUrl() + "/romn";
         this.visitor = new Visitor();
     }
 
-    public void build(final File path) throws IOException {
+    public void create(final File path) throws IOException {
         path.mkdirs();
         final File base = new File(path, Script.roman.name());
         base.mkdir();

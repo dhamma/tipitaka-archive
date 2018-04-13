@@ -1,4 +1,4 @@
-package org.tipitaka.archive.converter;
+package org.tipitaka.archive.creators;
 
 import java.io.IOException;
 import java.io.InputStreamReader;

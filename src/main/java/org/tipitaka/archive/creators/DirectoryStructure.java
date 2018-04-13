@@ -1,4 +1,4 @@
-package org.tipitaka.archive.converter;
+package org.tipitaka.archive.creators;
 
 import java.io.BufferedReader;
 import java.io.File;

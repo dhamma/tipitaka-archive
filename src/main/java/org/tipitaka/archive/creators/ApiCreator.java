@@ -1,4 +1,4 @@
-package org.tipitaka.archive.converter;
+package org.tipitaka.archive.creators;
 
 import java.io.BufferedReader;
 import java.io.File;
@@ -23,19 +23,19 @@ import org.tipitaka.archive.model.*;
 
 import org.tipitaka.archive.StandardException;
 
-public class ApiBuilder {
+public class ApiCreator {
 
-    final ModelBuilder model;
+    final ModelIterator model;
 
-    public ApiBuilder() throws IOException, StandardException {
+    public ApiCreator() throws IOException, StandardException {
         this(TipitakaOrgTocVisitor.mirror());
     }
 
-    public ApiBuilder(TipitakaOrgTocVisitor visitor) throws IOException, StandardException {
-        this.model = new ModelBuilder(visitor);
+    public ApiCreator(TipitakaOrgTocVisitor visitor) throws IOException, StandardException {
+        this.model = new ModelIterator(visitor);
     }
 
-    public void build(File path) throws IOException {
+    public void create(File path) throws IOException {
         path.mkdirs();
         final File base = new File(path, Script.roman.name());
         base.mkdir();

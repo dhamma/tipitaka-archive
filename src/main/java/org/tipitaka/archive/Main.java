@@ -2,8 +2,8 @@ package org.tipitaka.archive;
 
 import java.io.File;
 
-import org.tipitaka.archive.converter.ApiBuilder;
-import org.tipitaka.archive.converter.NotesProcessor;
+import org.tipitaka.archive.creators.ApiCreator;
+import org.tipitaka.archive.creators.NotesCreator;
 
 public class Main {
 
@@ -23,15 +23,15 @@ public class Main {
   }
 
   private static void api(String... args) throws Exception {
-    ApiBuilder builder = new ApiBuilder();
+    ApiCreator creator = new ApiCreator();
     File path = new File("archive/api");
-    builder.build(path);
+    creator.create(path);
   }
 
   private static void notes(String... args) throws Exception {
-    NotesProcessor builder = new NotesProcessor();
+    NotesCreator creator = new NotesCreator();
     File path = new File("archive/notes");
-    builder.build(path);
+    creator.create(path);
   }
 
   private static void showHelp() {
