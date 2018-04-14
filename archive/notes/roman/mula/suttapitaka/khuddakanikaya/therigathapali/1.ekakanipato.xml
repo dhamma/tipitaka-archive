@@ -1,0 +1,75 @@
+<notes archive-path="/mula/suttapitaka/khuddakanikaya/therigathapali/1.ekakanipato">
+  <note reference-line="18" id="0">
+    <original>tamokkhandhaṃ (sī. syā.)</original>
+    <type>auto</type>
+    <snippet>Paripuṇṇāya paññāya, tamokhandhaṃ </snippet>
+    <match>tamokhandhaṃ</match>
+    <alternatives>
+      <alternative source-abbr="sī." source="sri lanka">tamokkhandhaṃ</alternative>
+      <alternative source-abbr="syā." source="thai">tamokkhandhaṃ</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="32" id="1">
+    <original>phussehi (sī.)</original>
+    <type>auto</type>
+    <snippet> nirodhaṃ phusehi </snippet>
+    <match>phusehi</match>
+    <alternatives>
+      <alternative source-abbr="sī." source="sri lanka">phussehi</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="33" id="2">
+    <original>yogakkhemaṃ anuttaranti (sī. syā.)</original>
+    <type>no_match</type>
+    <snippet>Ārādhayāhi nibbānaṃ, yogakkhemamanuttara’’nti </snippet>
+    <alternatives>
+      <alternative source-abbr="sī." source="sri lanka">yogakkhemaṃ anuttaranti</alternative>
+      <alternative source-abbr="syā." source="thai">yogakkhemaṃ anuttaranti</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="37" id="3">
+    <original>dhīrā dhīrehi (ka.)</original>
+    <type>no_match</type>
+    <snippet> vīrehi </snippet>
+    <alternatives>
+      <alternative source-abbr="ka." source="cambodian">dhīrā dhīrehi</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="38" id="4">
+    <original>savāhananti (ka.)</original>
+    <type>auto</type>
+    <snippet>Dhārehi antimaṃ dehaṃ, jetvā māraṃ savāhini’’nti </snippet>
+    <match>savāhini’’nti</match>
+    <alternatives>
+      <alternative source-abbr="ka." source="cambodian">savāhananti</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="63" id="5">
+    <original>phuṭṭhā (syā.), phuṭhā (sī. aṭṭha.)</original>
+    <type>raw</type>
+    <snippet> ‘‘Chandajātā avasāyī, manasā ca phuṭā </snippet>
+  </note>
+  <note reference-line="64" id="6">
+    <original>appaṭibandhacittā (ka.)</original>
+    <type>auto</type>
+    <snippet>Kāmesu appaṭibaddhacittā </snippet>
+    <match>appaṭibaddhacittā</match>
+    <alternatives>
+      <alternative source-abbr="ka." source="cambodian">appaṭibandhacittā</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="64" id="7">
+    <original>uddhaṃsotā vimuccatīti (sī. pī.)</original>
+    <type>no_match</type>
+    <snippet> vuccatī’’ti </snippet>
+    <alternatives>
+      <alternative source-abbr="sī." source="sri lanka">uddhaṃsotā vimuccatīti</alternative>
+      <alternative source-abbr="pī." source="pali text society">uddhaṃsotā vimuccatīti</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="94" id="8">
+    <original>pabbajitā (sī. aṭṭha.)</original>
+    <type>raw</type>
+    <snippet> ghare pabbajitvā </snippet>
+  </note>
+</notes>

@@ -1,0 +1,942 @@
+<notes archive-path="/mula/suttapitaka/khuddakanikaya/petavatthupali/4.mahavaggo">
+  <note reference-line="4" id="0">
+    <original>ambasakkharo (sī. syā.), appasakkaro (ka.)</original>
+    <type>auto</type>
+    <snippet> nāma nagaratthi vajjīnaṃ, tattha ahu licchavi ambasakkaro </snippet>
+    <match>ambasakkaro</match>
+    <alternatives>
+      <alternative source-abbr="sī." source="sri lanka">ambasakkharo</alternative>
+      <alternative source-abbr="syā." source="thai">ambasakkharo</alternative>
+      <alternative source-abbr="ka." source="cambodian">appasakkaro</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="8" id="1">
+    <original>paricāraṇā (sī. pī.)</original>
+    <type>auto</type>
+    <snippet>Asitapītakhāyitavatthabhogā, paricārikā </snippet>
+    <match>paricārikā</match>
+    <alternatives>
+      <alternative source-abbr="sī." source="sri lanka">paricāraṇā</alternative>
+      <alternative source-abbr="pī." source="pali text society">paricāraṇā</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="11" id="2">
+    <original>virādhitatto (sī. pī.)</original>
+    <type>auto</type>
+    <snippet>Daṭṭhumpi te dāni na taṃ labhanti, virājitatto </snippet>
+    <match>virājitatto</match>
+    <alternatives>
+      <alternative source-abbr="sī." source="sri lanka">virādhitatto</alternative>
+      <alternative source-abbr="pī." source="pali text society">virādhitatto</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="23" id="3">
+    <original>pati + ayaṃ = patāyaṃ</original>
+    <type>auto</type>
+    <snippet>Disvā ca me kāruññamahosi rāja, mā pāpadhammo nirayaṃ patāyaṃ </snippet>
+    <hint>pati + ayaṃ = patāyaṃ</hint>
+    <match>patāyaṃ</match>
+  </note>
+  <note reference-line="29" id="4">
+    <original>pate + ayaṃ = patāyaṃ</original>
+    <type>auto</type>
+    <snippet>Ekantadukkhaṃ kaṭukaṃ bhayānakaṃ, ekantatibbaṃ nirayaṃ patāyaṃ </snippet>
+    <hint>pate + ayaṃ = patāyaṃ</hint>
+    <match>patāyaṃ</match>
+  </note>
+  <note reference-line="34" id="5">
+    <original>ajjhito esa (ka.)</original>
+    <type>no_match</type>
+    <snippet> ‘‘Aññāto eso </snippet>
+    <alternatives>
+      <alternative source-abbr="ka." source="cambodian">ajjhito esa</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="37" id="6">
+    <original>paṭiññātametaṃ tadāhu (ka.), paṭiññā na mete tadā ahu (?)</original>
+    <type>no_match</type>
+    <snippet> ‘‘Addhā paṭiññā me tadā ahu </snippet>
+    <alternatives>
+      <alternative source-abbr="ka." source="cambodian">paṭiññātametaṃ tadāhu</alternative>
+      <alternative source-abbr="?" source="unknown">paṭiññā na mete tadā ahu</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="38" id="7">
+    <original>visayaṃ (ka.)</original>
+    <type>auto</type>
+    <snippet>Akāmā saddheyyavacoti katvā, pucchassu maṃ kāmaṃ yathā visayha’’nti </snippet>
+    <match>visayha’’nti</match>
+    <alternatives>
+      <alternative source-abbr="ka." source="cambodian">visayaṃ</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="40" id="8">
+    <original>passāmi (ka.)</original>
+    <type>auto</type>
+    <snippet> kiñcahaṃ cakkhunā passissāmi </snippet>
+    <match>passissāmi</match>
+    <alternatives>
+      <alternative source-abbr="ka." source="cambodian">passāmi</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="41" id="9">
+    <original>karohi (katthaci)</original>
+    <type>raw</type>
+    <snippet>Disvāva taṃ nopi ce saddaheyyaṃ, kareyyāsi </snippet>
+  </note>
+  <note reference-line="45" id="10">
+    <original>sabbaṃ ācikkhissaṃ (sī.)</original>
+    <type>no_match</type>
+    <snippet>Sabbampi akkhissaṃ </snippet>
+    <alternatives>
+      <alternative source-abbr="sī." source="sri lanka">sabbaṃ ācikkhissaṃ</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="50" id="11">
+    <original>tassa nagarassa (sī. syā. pī.)</original>
+    <type>no_match</type>
+    <snippet> nagarassa </snippet>
+    <alternatives>
+      <alternative source-abbr="sī." source="sri lanka">tassa nagarassa</alternative>
+      <alternative source-abbr="syā." source="thai">tassa nagarassa</alternative>
+      <alternative source-abbr="pī." source="pali text society">tassa nagarassa</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="51" id="12">
+    <original>setuṃ (syā. ka.)</original>
+    <type>auto</type>
+    <snippet>Gosīsamekāhaṃ pasannacitto, setaṃ </snippet>
+    <match>setaṃ</match>
+    <alternatives>
+      <alternative source-abbr="syā." source="thai">setuṃ</alternative>
+      <alternative source-abbr="ka." source="cambodian">setuṃ</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="62" id="13">
+    <original>disvā samantemi (ka.)</original>
+    <type>no_match</type>
+    <snippet> ‘‘Yasañca kittiñca dhamme ṭhitānaṃ, disvāna mantemi </snippet>
+    <alternatives>
+      <alternative source-abbr="ka." source="cambodian">disvā samantemi</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="92" id="14">
+    <original>so (sabbattha)</original>
+    <type>raw</type>
+    <snippet> ‘‘Na matthi kammāni sayaṃkatāni, datvāpi me natthi yo </snippet>
+  </note>
+  <note reference-line="96" id="15">
+    <original>saddhāyitaṃ (sī. pī.)</original>
+    <type>auto</type>
+    <snippet>Ācikkha me tvaṃ yadatthi hetu, saddhāyikaṃ </snippet>
+    <match>saddhāyikaṃ</match>
+    <alternatives>
+      <alternative source-abbr="sī." source="sri lanka">saddhāyitaṃ</alternative>
+      <alternative source-abbr="pī." source="pali text society">saddhāyitaṃ</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="98" id="16">
+    <original>kappinako (sī.)</original>
+    <type>auto</type>
+    <snippet> ‘‘Kappitako </snippet>
+    <match>Kappitako</match>
+    <alternatives>
+      <alternative source-abbr="sī." source="sri lanka">kappinako</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="114" id="17">
+    <original>sa majja (sī.)</original>
+    <type>no_match</type>
+    <snippet>Yo majja </snippet>
+    <alternatives>
+      <alternative source-abbr="sī." source="sri lanka">sa majja</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="119" id="18">
+    <original>yathāhaṃ (ka.)</original>
+    <type>auto</type>
+    <snippet> ‘‘Tathāhaṃ </snippet>
+    <match>Tathāhaṃ</match>
+    <alternatives>
+      <alternative source-abbr="ka." source="cambodian">yathāhaṃ</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="137" id="19">
+    <original>yugāni bhante (syā. ka.)</original>
+    <type>no_match</type>
+    <snippet> ‘‘Imāni me aṭṭha yugā subhāni </snippet>
+    <alternatives>
+      <alternative source-abbr="syā." source="thai">yugāni bhante</alternative>
+      <alternative source-abbr="ka." source="cambodian">yugāni bhante</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="141" id="20">
+    <original>bhijjanti tava (syā. ka.)</original>
+    <type>no_match</type>
+    <snippet>Pattāni bhijjanti ca te </snippet>
+    <alternatives>
+      <alternative source-abbr="syā." source="thai">bhijjanti tava</alternative>
+      <alternative source-abbr="ka." source="cambodian">bhijjanti tava</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="141" id="21">
+    <original>vipāṭayanti (sī.), vipātayanti (ka.)</original>
+    <type>auto</type>
+    <snippet> nivesane, saṅghāṭiyo cāpi vidālayanti </snippet>
+    <match>vidālayanti</match>
+    <alternatives>
+      <alternative source-abbr="sī." source="sri lanka">vipāṭayanti</alternative>
+      <alternative source-abbr="ka." source="cambodian">vipātayanti</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="157" id="22">
+    <original>tappaccayā tāhaṃ (sī.), tappaccayā cāhaṃ (pī.)</original>
+    <type>no_match</type>
+    <snippet> ‘‘Taṃ disvā saṃvegamalatthaṃ bhante, tappaccayā vāpi </snippet>
+    <alternatives>
+      <alternative source-abbr="sī." source="sri lanka">tappaccayā tāhaṃ</alternative>
+      <alternative source-abbr="pī." source="pali text society">tappaccayā cāhaṃ</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="178" id="23">
+    <original>parāyanañca (syā. ka.)</original>
+    <type>auto</type>
+    <snippet> ‘‘Gatī ca bandhū ca parāyaṇañca </snippet>
+    <match>parāyaṇañca</match>
+    <alternatives>
+      <alternative source-abbr="syā." source="thai">parāyanañca</alternative>
+      <alternative source-abbr="ka." source="cambodian">parāyanañca</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="178" id="24">
+    <original>devatāsi (sī. syā.)</original>
+    <type>auto</type>
+    <snippet>, mitto mamāsi atha devatā me </snippet>
+    <match>me</match>
+    <alternatives>
+      <alternative source-abbr="sī." source="sri lanka">devatāsi</alternative>
+      <alternative source-abbr="syā." source="thai">devatāsi</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="179" id="25">
+    <original>yācāmahaṃ (sī.)</original>
+    <type>auto</type>
+    <snippet>Yācāmi taṃ </snippet>
+    <match>taṃ</match>
+    <alternatives>
+      <alternative source-abbr="sī." source="sri lanka">yācāmahaṃ</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="182" id="26">
+    <original>teneva maṃ na lacchasī (sī.), teneva maṃ licchavi (syā.), teneva maṃ lacchasi (ka.)</original>
+    <type>no_match</type>
+    <snippet>Tvaṃ neva maṃ lacchasi </snippet>
+    <alternatives>
+      <alternative source-abbr="sī." source="sri lanka">teneva maṃ na lacchasī</alternative>
+      <alternative source-abbr="syā." source="thai">teneva maṃ licchavi</alternative>
+      <alternative source-abbr="ka." source="cambodian">teneva maṃ lacchasi</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="190" id="27">
+    <original>sūlāvuto (sī. syā.)</original>
+    <type>auto</type>
+    <snippet> sūlato </snippet>
+    <match>sūlato</match>
+    <alternatives>
+      <alternative source-abbr="sī." source="sri lanka">sūlāvuto</alternative>
+      <alternative source-abbr="syā." source="thai">sūlāvuto</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="194" id="28">
+    <original>tena (syā. ka.)</original>
+    <type>auto</type>
+    <snippet> ‘‘Kappitakañca upasaṅkamitvā, teneva </snippet>
+    <match>teneva</match>
+    <alternatives>
+      <alternative source-abbr="syā." source="thai">tena</alternative>
+      <alternative source-abbr="ka." source="cambodian">tena</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="205" id="29">
+    <original>paṇītanaṇḍo (ka.)</original>
+    <type>auto</type>
+    <snippet> puriso luddakammo, paṇīhitadaṇḍo </snippet>
+    <match>paṇīhitadaṇḍo</match>
+    <alternatives>
+      <alternative source-abbr="ka." source="cambodian">paṇītanaṇḍo</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="205" id="30">
+    <original>anupakkarūpo (ka.)</original>
+    <type>auto</type>
+    <snippet> anusattarūpo </snippet>
+    <match>anusattarūpo</match>
+    <alternatives>
+      <alternative source-abbr="ka." source="cambodian">anupakkarūpo</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="210" id="31">
+    <original>vadethāti (ka.), vadetha ca (syā.)</original>
+    <type>no_match</type>
+    <snippet> ‘‘Etañca aññañca lahuṃ pamuñca, ko taṃ vadetha </snippet>
+    <alternatives>
+      <alternative source-abbr="ka." source="cambodian">vadethāti</alternative>
+      <alternative source-abbr="syā." source="thai">vadetha ca</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="216" id="32">
+    <original>tena samaṃ (sī.), tena saha (syā. ka.)</original>
+    <type>no_match</type>
+    <snippet> upasaṅkamitvā, teneva saha </snippet>
+    <alternatives>
+      <alternative source-abbr="sī." source="sri lanka">tena samaṃ</alternative>
+      <alternative source-abbr="syā." source="thai">tena saha</alternative>
+      <alternative source-abbr="ka." source="cambodian">tena saha</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="231" id="33">
+    <original>ñātomhi (ka.)</original>
+    <type>auto</type>
+    <snippet> ‘‘Aññāto </snippet>
+    <match>Aññāto</match>
+    <alternatives>
+      <alternative source-abbr="ka." source="cambodian">ñātomhi</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="239" id="34">
+    <original>imañca (syā.)</original>
+    <type>auto</type>
+    <snippet>Imañca ariyaṃ </snippet>
+    <match>ariyaṃ</match>
+    <alternatives>
+      <alternative source-abbr="syā." source="thai">imañca</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="243" id="35">
+    <original>sadā puññaṃ pavaḍḍhati (syā. ka.)</original>
+    <type>no_match</type>
+    <snippet>Dadāhi ujubhūtesu, vippasannena cetasā </snippet>
+    <alternatives>
+      <alternative source-abbr="syā." source="thai">sadā puññaṃ pavaḍḍhati</alternative>
+      <alternative source-abbr="ka." source="cambodian">sadā puññaṃ pavaḍḍhati</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="248" id="36">
+    <original>kammāni (sī. syā.)</original>
+    <type>auto</type>
+    <snippet> ‘‘Evañca dhammāni </snippet>
+    <match>dhammāni</match>
+    <alternatives>
+      <alternative source-abbr="sī." source="sri lanka">kammāni</alternative>
+      <alternative source-abbr="syā." source="thai">kammāni</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="249" id="37">
+    <original>mucceyya so tvaṃ (ka.)</original>
+    <type>no_match</type>
+    <snippet>Muñca tuvaṃ </snippet>
+    <alternatives>
+      <alternative source-abbr="ka." source="cambodian">mucceyya so tvaṃ</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="262" id="38">
+    <original>vikappāmi (sī. syā.)</original>
+    <type>auto</type>
+    <snippet>Dadāmi na vikampāmi </snippet>
+    <match>vikampāmi</match>
+    <alternatives>
+      <alternative source-abbr="sī." source="sri lanka">vikappāmi</alternative>
+      <alternative source-abbr="syā." source="thai">vikappāmi</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="267" id="39">
+    <original>pabbajjamupagacchi (ka.)</original>
+    <type>auto</type>
+    <snippet> sukhī pabbajjaṃ upāgami </snippet>
+    <match>upāgami</match>
+    <alternatives>
+      <alternative source-abbr="ka." source="cambodian">pabbajjamupagacchi</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="271" id="40">
+    <original>phussayi (syā. ka.)</original>
+    <type>auto</type>
+    <snippet>Sūlāvuto aggaphalaṃ aphassayi </snippet>
+    <match>aphassayi</match>
+    <alternatives>
+      <alternative source-abbr="syā." source="thai">phussayi</alternative>
+      <alternative source-abbr="ka." source="cambodian">phussayi</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="275" id="41">
+    <original>vi. va. 1228</original>
+    <type>no_match</type>
+    <snippet>
+
+</snippet>
+    <references>
+      <reference>vi. va. 1228</reference>
+    </references>
+  </note>
+  <note reference-line="278" id="42">
+    <original>nāmo (sī.)</original>
+    <type>auto</type>
+    <snippet> Yo so ahu rājā pāyāsi nāma </snippet>
+    <match>nāma</match>
+    <alternatives>
+      <alternative source-abbr="sī." source="sri lanka">nāmo</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="284" id="43">
+    <original>bhikkho (ka.)</original>
+    <type>auto</type>
+    <snippet> ‘‘Nayidha phalā mūlamayā ca santi, upādānaṃ natthi kutodha bhakkho </snippet>
+    <match>bhakkho</match>
+    <alternatives>
+      <alternative source-abbr="ka." source="cambodian">bhikkho</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="305" id="44">
+    <original>vettaṃ paraṃ (syā.), vettācāraṃ (ka.)</original>
+    <type>no_match</type>
+    <snippet> ‘‘Pāraṃ samuddassa imañca vaṇṇuṃ, vettācaraṃ </snippet>
+    <alternatives>
+      <alternative source-abbr="syā." source="thai">vettaṃ paraṃ</alternative>
+      <alternative source-abbr="ka." source="cambodian">vettācāraṃ</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="314" id="45">
+    <original>pahūtamālyā (syā.)</original>
+    <type>auto</type>
+    <snippet> ‘‘Vehāyasaṃ pokkharañño savanti, pahūtamalyā </snippet>
+    <match>pahūtamalyā</match>
+    <alternatives>
+      <alternative source-abbr="syā." source="thai">pahūtamālyā</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="324" id="46">
+    <original>vaggu sumukho susaṅgato (sī.)</original>
+    <type>no_match</type>
+    <snippet>Daḷho ca vaggu ca susaṅgato ca </snippet>
+    <alternatives>
+      <alternative source-abbr="sī." source="sri lanka">vaggu sumukho susaṅgato</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="330" id="47">
+    <original>naḷiññaṃ (ka.)</original>
+    <type>auto</type>
+    <snippet>Acintiyo sabbaguṇūpapanno, rājā yathā vessavaṇo naḷinyā </snippet>
+    <match>naḷinyā</match>
+    <alternatives>
+      <alternative source-abbr="ka." source="cambodian">naḷiññaṃ</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="369" id="48">
+    <original>ime sirīsūpavanā ca (sī.), imepi sirīsavanā ca (pī. ka.)</original>
+    <type>no_match</type>
+    <snippet> ‘‘Ime ca sirīsavanā </snippet>
+    <alternatives>
+      <alternative source-abbr="sī." source="sri lanka">ime sirīsūpavanā ca</alternative>
+      <alternative source-abbr="pī." source="pali text society">imepi sirīsavanā ca</alternative>
+      <alternative source-abbr="ka." source="cambodian">imepi sirīsavanā ca</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="406" id="49">
+    <original>bhasmi (syā.), bhasma (ka.)</original>
+    <type>auto</type>
+    <snippet>Aññatra teniha bhasmī </snippet>
+    <match>bhasmī</match>
+    <alternatives>
+      <alternative source-abbr="syā." source="thai">bhasmi</alternative>
+      <alternative source-abbr="ka." source="cambodian">bhasma</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="422" id="50">
+    <original>purakkhipitvā (sī.)</original>
+    <type>auto</type>
+    <snippet> Te tattha sabbeva ‘ahaṃ pure’ti, taṃ kappakaṃ tattha purakkhatvā </snippet>
+    <match>purakkhatvā</match>
+    <alternatives>
+      <alternative source-abbr="sī." source="sri lanka">purakkhipitvā</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="432" id="51">
+    <original>udaya (pī. ka.)</original>
+    <type>auto</type>
+    <snippet> Gantvāna te sindhusovīrabhūmiṃ, dhanatthikā uddayaṃ </snippet>
+    <match>uddayaṃ</match>
+    <alternatives>
+      <alternative source-abbr="pī." source="pali text society">udaya</alternative>
+      <alternative source-abbr="ka." source="cambodian">udaya</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="440" id="52">
+    <original>sukhino (pī. ka.)</original>
+    <type>auto</type>
+    <snippet>Ekassa atthāya upāsakassa, sabbeva sattā sukhitā </snippet>
+    <match>sukhitā</match>
+    <alternatives>
+      <alternative source-abbr="pī." source="pali text society">sukhino</alternative>
+      <alternative source-abbr="ka." source="cambodian">sukhino</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="448" id="53">
+    <original>majjhantike (sabbattha)</original>
+    <type>raw</type>
+    <snippet> Uṇhe majjhanhike </snippet>
+  </note>
+  <note reference-line="448" id="54">
+    <original>vaṅkaṃ (ka.)</original>
+    <type>auto</type>
+    <snippet> kāle, rājā paṅkaṃ </snippet>
+    <match>paṅkaṃ</match>
+    <alternatives>
+      <alternative source-abbr="ka." source="cambodian">vaṅkaṃ</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="449" id="55">
+    <original>vaṇṇanāpathaṃ (sī. syā.)</original>
+    <type>auto</type>
+    <snippet>Addasa maggaṃ ramaṇīyaṃ, petānaṃ taṃ vaṇṇupathaṃ </snippet>
+    <match>vaṇṇupathaṃ</match>
+    <alternatives>
+      <alternative source-abbr="sī." source="sri lanka">vaṇṇanāpathaṃ</alternative>
+      <alternative source-abbr="syā." source="thai">vaṇṇanāpathaṃ</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="462" id="56">
+    <original>sūyati (sī. syā.)</original>
+    <type>auto</type>
+    <snippet>Amānuso vāyati gandho, ghoso suyyati </snippet>
+    <match>suyyati</match>
+    <alternatives>
+      <alternative source-abbr="sī." source="sri lanka">sūyati</alternative>
+      <alternative source-abbr="syā." source="thai">sūyati</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="471" id="57">
+    <original>catuddissā (ka.)</original>
+    <type>auto</type>
+    <snippet> Hatthikkhandhaṃ samāruyha, olokento catuddisaṃ </snippet>
+    <match>catuddisaṃ</match>
+    <alternatives>
+      <alternative source-abbr="ka." source="cambodian">catuddissā</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="472" id="58">
+    <original>rukkhaṃ nigrodhaṃ (syā. ka.)</original>
+    <type>no_match</type>
+    <snippet>Addasa nigrodhaṃ ramaṇīyaṃ </snippet>
+    <alternatives>
+      <alternative source-abbr="syā." source="thai">rukkhaṃ nigrodhaṃ</alternative>
+      <alternative source-abbr="ka." source="cambodian">rukkhaṃ nigrodhaṃ</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="500" id="59">
+    <original>namhi (ka.)</original>
+    <type>auto</type>
+    <snippet> ‘‘Nāmhi devo na gandhabbo, nāpi </snippet>
+    <match>nāpi</match>
+    <alternatives>
+      <alternative source-abbr="ka." source="cambodian">namhi</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="518" id="60">
+    <original>kule (syā. ka.)</original>
+    <type>auto</type>
+    <snippet> bhūtāni, kuto </snippet>
+    <match>kuto</match>
+    <alternatives>
+      <alternative source-abbr="syā." source="thai">kule</alternative>
+      <alternative source-abbr="ka." source="cambodian">kule</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="522" id="61">
+    <original>pariṇāmajā (sī. ka.)</original>
+    <type>auto</type>
+    <snippet>Laddheyyaṃ labhate macco, niyatipariṇāmajaṃ </snippet>
+    <match>niyatipariṇāmajaṃ</match>
+    <alternatives>
+      <alternative source-abbr="sī." source="sri lanka">pariṇāmajā</alternative>
+      <alternative source-abbr="ka." source="cambodian">pariṇāmajā</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="527" id="62">
+    <original>purisassa chinde (syā. ka.)</original>
+    <type>no_match</type>
+    <snippet> haneyya purisaṃ, parassa chindate </snippet>
+    <alternatives>
+      <alternative source-abbr="syā." source="thai">purisassa chinde</alternative>
+      <alternative source-abbr="ka." source="cambodian">purisassa chinde</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="530" id="63">
+    <original>bhejjo (sī.), abhejjo (syā.), bhejjāsi (ka.)</original>
+    <type>auto</type>
+    <snippet> ‘‘‘Acchejjābhejjo hi </snippet>
+    <match>hi</match>
+    <alternatives>
+      <alternative source-abbr="sī." source="sri lanka">bhejjo</alternative>
+      <alternative source-abbr="syā." source="thai">abhejjo</alternative>
+      <alternative source-abbr="ka." source="cambodian">bhejjāsi</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="542" id="64">
+    <original>cuḷāsīti (sī. syā. ka.)</original>
+    <type>auto</type>
+    <snippet> ‘‘‘Cullāsīti </snippet>
+    <match>Cullāsīti</match>
+    <alternatives>
+      <alternative source-abbr="sī." source="sri lanka">cuḷāsīti</alternative>
+      <alternative source-abbr="syā." source="thai">cuḷāsīti</alternative>
+      <alternative source-abbr="ka." source="cambodian">cuḷāsīti</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="542" id="65">
+    <original>mahākappuno (sī.)</original>
+    <type>auto</type>
+    <snippet> mahākappino </snippet>
+    <match>mahākappino</match>
+    <alternatives>
+      <alternative source-abbr="sī." source="sri lanka">mahākappuno</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="555" id="66">
+    <original>pe. va. 70</original>
+    <type>no_match</type>
+    <snippet>
+
+</snippet>
+    <references>
+      <reference>pe. va. 70</reference>
+    </references>
+  </note>
+  <note reference-line="558" id="67">
+    <original>pe. va. 71</original>
+    <type>no_match</type>
+    <snippet>
+
+</snippet>
+    <references>
+      <reference>pe. va. 71</reference>
+    </references>
+  </note>
+  <note reference-line="598" id="68">
+    <original>maggapaṭipannā (sī. syā.)</original>
+    <type>auto</type>
+    <snippet> ca paṭipannā </snippet>
+    <match>paṭipannā</match>
+    <alternatives>
+      <alternative source-abbr="sī." source="sri lanka">maggapaṭipannā</alternative>
+      <alternative source-abbr="syā." source="thai">maggapaṭipannā</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="614" id="69">
+    <original>opuṇāmi (sī.), ophunāmi (syā. ka.), opunāmi (?)</original>
+    <type>auto</type>
+    <snippet> ‘‘Ophuṇāmi </snippet>
+    <match>Ophuṇāmi</match>
+    <alternatives>
+      <alternative source-abbr="sī." source="sri lanka">opuṇāmi</alternative>
+      <alternative source-abbr="syā." source="thai">ophunāmi</alternative>
+      <alternative source-abbr="ka." source="cambodian">ophunāmi</alternative>
+      <alternative source-abbr="?" source="unknown">opunāmi</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="617" id="70">
+    <original>pāpadassanaṃ (syā. ka.)</original>
+    <type>auto</type>
+    <snippet> Idaṃ vatvāna soraṭṭho, viramitvā pāpadassanā </snippet>
+    <match>pāpadassanā</match>
+    <alternatives>
+      <alternative source-abbr="syā." source="thai">pāpadassanaṃ</alternative>
+      <alternative source-abbr="ka." source="cambodian">pāpadassanaṃ</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="622" id="71">
+    <original>vi. va. 863</original>
+    <type>no_match</type>
+    <snippet>
+
+</snippet>
+    <references>
+      <reference>vi. va. 863</reference>
+    </references>
+  </note>
+  <note reference-line="623" id="72">
+    <original>samajjatā (sī.)</original>
+    <type>auto</type>
+    <snippet>Nessāma taṃ yattha thunanti duggatā, samappitā </snippet>
+    <match>samappitā</match>
+    <alternatives>
+      <alternative source-abbr="sī." source="sri lanka">samajjatā</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="625" id="73">
+    <original>iccevaṃ (syā. ka.)</original>
+    <type>auto</type>
+    <snippet> Icceva </snippet>
+    <match>Icceva</match>
+    <alternatives>
+      <alternative source-abbr="syā." source="thai">iccevaṃ</alternative>
+      <alternative source-abbr="ka." source="cambodian">iccevaṃ</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="631" id="74">
+    <original>candanasārānulittā (syā.)</original>
+    <type>auto</type>
+    <snippet> ‘‘Nārīgaṇā candanasāralittā </snippet>
+    <match>candanasāralittā</match>
+    <alternatives>
+      <alternative source-abbr="syā." source="thai">candanasārānulittā</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="672" id="75">
+    <original>sayana (sī.)</original>
+    <type>auto</type>
+    <snippet>‘Nikkhittadaṇḍesu dadātha dānaṃ, acchādanaṃ seyya </snippet>
+    <match>seyya</match>
+    <alternatives>
+      <alternative source-abbr="sī." source="sri lanka">sayana</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="697" id="76">
+    <original>na dāni me taṃ (sī. ka.)</original>
+    <type>no_match</type>
+    <snippet>Taṃ dāni me na </snippet>
+    <alternatives>
+      <alternative source-abbr="sī." source="sri lanka">na dāni me taṃ</alternative>
+      <alternative source-abbr="ka." source="cambodian">na dāni me taṃ</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="699" id="77">
+    <original>vihaññāmi (ka.)</original>
+    <type>auto</type>
+    <snippet> ‘‘Haññāmi </snippet>
+    <match>Haññāmi</match>
+    <alternatives>
+      <alternative source-abbr="ka." source="cambodian">vihaññāmi</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="700" id="78">
+    <original>kissassa (sī.), kissassu (?)</original>
+    <type>auto</type>
+    <snippet>Svāhaṃ chinnathāmo kapaṇo lālapāmi, kissa </snippet>
+    <match>kissa</match>
+    <alternatives>
+      <alternative source-abbr="sī." source="sri lanka">kissassa</alternative>
+      <alternative source-abbr="?" source="unknown">kissassu</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="703" id="79">
+    <original>dūrato ca me (syā. ka.)</original>
+    <type>no_match</type>
+    <snippet>Rudato ca me </snippet>
+    <alternatives>
+      <alternative source-abbr="syā." source="thai">dūrato ca me</alternative>
+      <alternative source-abbr="ka." source="cambodian">dūrato ca me</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="717" id="80">
+    <original>iṅgha tvaṃ piṭṭhito gaṇha ucchuṃ (sī.)</original>
+    <type>no_match</type>
+    <snippet> ‘‘Iṅgha tvaṃ gantvāna piṭṭhito gaṇheyyāsi </snippet>
+    <alternatives>
+      <alternative source-abbr="sī." source="sri lanka">iṅgha tvaṃ piṭṭhito gaṇha ucchuṃ</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="728" id="81">
+    <original>pamattā (ka.)</original>
+    <type>auto</type>
+    <snippet> ‘‘Sammattā </snippet>
+    <match>Sammattā</match>
+    <alternatives>
+      <alternative source-abbr="ka." source="cambodian">pamattā</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="734" id="82">
+    <original>bahussutesu (sī. ka.)</original>
+    <type>auto</type>
+    <snippet> ‘‘‘Bahūsu vata </snippet>
+    <match>vata</match>
+    <alternatives>
+      <alternative source-abbr="sī." source="sri lanka">bahussutesu</alternative>
+      <alternative source-abbr="ka." source="cambodian">bahussutesu</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="738" id="83">
+    <original>khuppipāsāsamappitā (sī. pī.)</original>
+    <type>auto</type>
+    <snippet>Upapannā pettivisayaṃ, khuppipāsasamappitā </snippet>
+    <match>khuppipāsasamappitā</match>
+    <alternatives>
+      <alternative source-abbr="sī." source="sri lanka">khuppipāsāsamappitā</alternative>
+      <alternative source-abbr="pī." source="pali text society">khuppipāsāsamappitā</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="741" id="84">
+    <original>caranti (sī. pī.), maranti (syā.)</original>
+    <type>auto</type>
+    <snippet>Bhamanti </snippet>
+    <match>Bhamanti</match>
+    <alternatives>
+      <alternative source-abbr="sī." source="sri lanka">caranti</alternative>
+      <alternative source-abbr="pī." source="pali text society">caranti</alternative>
+      <alternative source-abbr="syā." source="thai">maranti</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="755" id="85">
+    <original>sunita (ka.)</original>
+    <type>auto</type>
+    <snippet> Isiṃ sunetta </snippet>
+    <match>sunetta</match>
+    <alternatives>
+      <alternative source-abbr="ka." source="cambodian">sunita</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="780" id="86">
+    <original>khuppipāsāhato nāma (sī. pī)</original>
+    <type>no_match</type>
+    <snippet>Khuppipāsahato nāma </snippet>
+    <alternatives>
+      <alternative source-abbr="sī." source="sri lanka">khuppipāsāhato nāma</alternative>
+      <alternative source-abbr="pī." source="pali text society">khuppipāsāhato nāma</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="782" id="87">
+    <original>disvā (sī.)</original>
+    <type>auto</type>
+    <snippet> Etamādīnavaṃ ñatvā </snippet>
+    <match>ñatvā</match>
+    <alternatives>
+      <alternative source-abbr="sī." source="sri lanka">disvā</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="790" id="88">
+    <original>dīno hi tiṭṭhasi (sī.)</original>
+    <type>no_match</type>
+    <snippet> uggantvā, ko nu dīno patiṭṭhasi </snippet>
+    <alternatives>
+      <alternative source-abbr="sī." source="sri lanka">dīno hi tiṭṭhasi</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="843" id="89">
+    <original>uppāsuḷikā (ka.)</original>
+    <type>auto</type>
+    <snippet>Upphāsulikā </snippet>
+    <match>Upphāsulikā</match>
+    <alternatives>
+      <alternative source-abbr="ka." source="cambodian">uppāsuḷikā</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="860" id="90">
+    <original>adhiyojanāni (sī. ka.)</original>
+    <type>auto</type>
+    <snippet> ‘‘Api yojanāni </snippet>
+    <match>yojanāni</match>
+    <alternatives>
+      <alternative source-abbr="sī." source="sri lanka">adhiyojanāni</alternative>
+      <alternative source-abbr="ka." source="cambodian">adhiyojanāni</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="866" id="91">
+    <original>tattha papahitā (ka.)</original>
+    <type>no_match</type>
+    <snippet> ‘‘Te ca tattheva patitā </snippet>
+    <alternatives>
+      <alternative source-abbr="ka." source="cambodian">tattha papahitā</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="892" id="92">
+    <original>dhārayati (syā. ka.)</original>
+    <type>auto</type>
+    <snippet> ‘‘Idañca te ambavanaṃ surammaṃ, sabbotukaṃ dhārayate </snippet>
+    <match>dhārayate</match>
+    <alternatives>
+      <alternative source-abbr="syā." source="thai">dhārayati</alternative>
+      <alternative source-abbr="ka." source="cambodian">dhārayati</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="895" id="93">
+    <original>ambapakkodakaṃ (sī. syā. pī.), ambapakkūdakaṃ (ka.)</original>
+    <type>auto</type>
+    <snippet> ‘‘Ambapakkaṃ dakaṃ </snippet>
+    <match>dakaṃ</match>
+    <alternatives>
+      <alternative source-abbr="sī." source="sri lanka">ambapakkodakaṃ</alternative>
+      <alternative source-abbr="syā." source="thai">ambapakkodakaṃ</alternative>
+      <alternative source-abbr="pī." source="pali text society">ambapakkodakaṃ</alternative>
+      <alternative source-abbr="ka." source="cambodian">ambapakkūdakaṃ</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="898" id="94">
+    <original>sandiṭṭhikaṃ eva (syā.)</original>
+    <type>no_match</type>
+    <snippet> kammaṃ evaṃ </snippet>
+    <alternatives>
+      <alternative source-abbr="syā." source="thai">sandiṭṭhikaṃ eva</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="904" id="95">
+    <original>tena (ka.)</original>
+    <type>auto</type>
+    <snippet>Ubhayaṃ tena dānena </snippet>
+    <match>dānena</match>
+    <alternatives>
+      <alternative source-abbr="ka." source="cambodian">tena</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="913" id="96">
+    <original>jā. 1.4.54 jātakepi</original>
+    <type>raw</type>
+    <snippet>
+
+</snippet>
+  </note>
+  <note reference-line="916" id="97">
+    <original>jā. 1.4.55 jātakepi</original>
+    <type>raw</type>
+    <snippet>
+
+</snippet>
+  </note>
+  <note reference-line="917" id="98">
+    <original>mama tuyhañca mārisa (sī. syā. pī.)</original>
+    <type>no_match</type>
+    <snippet>Tathā hi pakataṃ pāpaṃ, tuyhaṃ mayhañca mārisā </snippet>
+    <alternatives>
+      <alternative source-abbr="sī." source="sri lanka">mama tuyhañca mārisa</alternative>
+      <alternative source-abbr="syā." source="thai">mama tuyhañca mārisa</alternative>
+      <alternative source-abbr="pī." source="pali text society">mama tuyhañca mārisa</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="919" id="99">
+    <original>jā. 1.4.53 jātakepi</original>
+    <type>raw</type>
+    <snippet>
+
+</snippet>
+  </note>
+  <note reference-line="922" id="100">
+    <original>jā. 1.4.56 jātakepi</original>
+    <type>raw</type>
+    <snippet>
+
+</snippet>
+  </note>
+  <note reference-line="928" id="101">
+    <original>pāpakammaṃ (syā. pī.)</original>
+    <type>auto</type>
+    <snippet>Nissaṃsayaṃ pāpakammanto </snippet>
+    <match>pāpakammanto</match>
+    <alternatives>
+      <alternative source-abbr="syā." source="thai">pāpakammaṃ</alternative>
+      <alternative source-abbr="pī." source="pali text society">pāpakammaṃ</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="949" id="102">
+    <original>nipatanti, vo bhindanteva (sī. dhammapadaṭṭhakathā)</original>
+    <type>raw</type>
+    <snippet>Sīse mayhaṃ nipatanti, te bhindanti ca </snippet>
+  </note>
+</notes>

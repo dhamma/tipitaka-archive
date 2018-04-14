@@ -9,18 +9,13 @@ import org.tipitaka.archive.notes.Note;
 /**
  * Created by cmeier on 3/6/16.
  */
-// TODO separate into State and NGState
 public class State
 {
-  private String indent = "";
-
   private int count = 0;
 
   private int lineCount = 0;
 
   private int id = 0;
-
-  //private final Writer writer;
 
   private final LinkedList<String> stack = new LinkedList<>();
 
@@ -34,8 +29,7 @@ public class State
 
   private String previousText;
 
-  protected State() {//Writer writer) {
-    //this.writer = writer;
+  protected State() {
   }
 
   public void push(String name) {
@@ -70,47 +64,4 @@ public class State
   public int nextLineNumber() {
     return ++lineCount;
   }
-
-  // State appendText(String text) throws IOException {
-  //   this.previousText = text;
-  //   return append(text);
-  // }
-
-  // State appendLine(CharSequence string) throws IOException {
-  //   writer.append(indent).append(string).append("\n");
-  //   return this;
-  // }
-
-  // State appendIndent(CharSequence string) throws IOException {
-  //   writer.append(indent).append(string);
-  //   return this;
-  // }
-
-  // State appendEnd(CharSequence string) throws IOException {
-  //   writer.append(string).append("\n");
-  //   return this;
-  // }
-
-  // State indent() {
-  //   indent += "  ";
-  //   return this;
-  // }
-
-  // State outdent() {
-  //   indent = indent.substring(0, indent.length() - 2);
-  //   return this;
-  // }
-
-  // public State append(CharSequence string) throws IOException {
-  //  writer.append(string);
-  //  return this;
-  //}
-
-  //public void flush() throws IOException {
-  //  writer.flush();;
-  //}
-
-  //public void close() throws IOException {
-  //  writer.close();
-  //}
 }

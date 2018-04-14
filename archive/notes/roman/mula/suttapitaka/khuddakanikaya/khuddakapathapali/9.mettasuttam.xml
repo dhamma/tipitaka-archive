@@ -1,0 +1,110 @@
+<notes archive-path="/mula/suttapitaka/khuddakanikaya/khuddakapathapali/9.mettasuttam">
+  <note reference-line="4" id="0">
+    <original>sūjū (sī.)</original>
+    <type>auto</type>
+    <snippet>Sakko ujū ca suhujū </snippet>
+    <match>suhujū</match>
+    <alternatives>
+      <alternative source-abbr="sī." source="sri lanka">sūjū</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="10" id="1">
+    <original>sabbe sattā (sī. syā.)</original>
+    <type>no_match</type>
+    <snippet>Sukhinova khemino hontu, sabbasattā </snippet>
+    <alternatives>
+      <alternative source-abbr="sī." source="sri lanka">sabbe sattā</alternative>
+      <alternative source-abbr="syā." source="thai">sabbe sattā</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="13" id="2">
+    <original>mahanta (?)</original>
+    <type>auto</type>
+    <snippet>Dīghā vā yeva mahantā </snippet>
+    <match>mahantā</match>
+    <alternatives>
+      <alternative source-abbr="?" source="unknown">mahanta</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="15" id="3">
+    <original>adiṭṭha (?)</original>
+    <type>auto</type>
+    <snippet> Diṭṭhā vā yeva adiṭṭhā </snippet>
+    <match>adiṭṭhā</match>
+    <alternatives>
+      <alternative source-abbr="?" source="unknown">adiṭṭha</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="15" id="4">
+    <original>ye ca (sī. syā. kaṃ. pī.)</original>
+    <type>no_match</type>
+    <snippet>, ye va </snippet>
+    <alternatives>
+      <alternative source-abbr="sī." source="sri lanka">ye ca</alternative>
+      <alternative source-abbr="syā." source="thai">ye ca</alternative>
+      <alternative source-abbr="kaṃ." source="kam">ye ca</alternative>
+      <alternative source-abbr="pī." source="pali text society">ye ca</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="16" id="5">
+    <original>vā (syā. kaṃ. pī. ka.)</original>
+    <type>auto</type>
+    <snippet>Bhūtā va </snippet>
+    <match>va</match>
+    <alternatives>
+      <alternative source-abbr="syā." source="thai">vā</alternative>
+      <alternative source-abbr="kaṃ." source="kam">vā</alternative>
+      <alternative source-abbr="pī." source="pali text society">vā</alternative>
+      <alternative source-abbr="ka." source="cambodian">vā</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="16" id="6">
+    <original>vā (sī. syā. kaṃ. pī.)</original>
+    <type>auto</type>
+    <snippet> sambhavesī va </snippet>
+    <match>va</match>
+    <alternatives>
+      <alternative source-abbr="sī." source="sri lanka">vā</alternative>
+      <alternative source-abbr="syā." source="thai">vā</alternative>
+      <alternative source-abbr="kaṃ." source="kam">vā</alternative>
+      <alternative source-abbr="pī." source="pali text society">vā</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="18" id="7">
+    <original>naṃ kañci (sī. pī.), naṃ kiñci (syā.), na kiñci (ka.)</original>
+    <type>no_match</type>
+    <snippet> Na paro paraṃ nikubbetha, nātimaññetha katthaci na kañci </snippet>
+    <alternatives>
+      <alternative source-abbr="sī." source="sri lanka">naṃ kañci</alternative>
+      <alternative source-abbr="pī." source="pali text society">naṃ kañci</alternative>
+      <alternative source-abbr="syā." source="thai">naṃ kiñci</alternative>
+      <alternative source-abbr="ka." source="cambodian">na kiñci</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="27" id="8">
+    <original>vā (sī. syā. kaṃ. pī.)</original>
+    <type>auto</type>
+    <snippet> Tiṭṭhaṃ caraṃ nisinno va </snippet>
+    <match>va</match>
+    <alternatives>
+      <alternative source-abbr="sī." source="sri lanka">vā</alternative>
+      <alternative source-abbr="syā." source="thai">vā</alternative>
+      <alternative source-abbr="kaṃ." source="kam">vā</alternative>
+      <alternative source-abbr="pī." source="pali text society">vā</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="27" id="9">
+    <original>vigatamiddho (bahūsu)</original>
+    <type>raw</type>
+    <snippet>, sayāno yāvatāssa vitamiddho </snippet>
+  </note>
+  <note reference-line="31" id="10">
+    <original>vineyya (sī.)</original>
+    <type>auto</type>
+    <snippet>Kāmesu vinaya </snippet>
+    <match>vinaya</match>
+    <alternatives>
+      <alternative source-abbr="sī." source="sri lanka">vineyya</alternative>
+    </alternatives>
+  </note>
+</notes>

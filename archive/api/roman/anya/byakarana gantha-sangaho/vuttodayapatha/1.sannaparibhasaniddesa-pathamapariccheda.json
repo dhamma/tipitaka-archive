@@ -1,0 +1,69 @@
+{
+  "path":"/anya/byakarana gantha-sangaho/vuttodayapatha/1.sannaparibhasaniddesa-pathamapariccheda",
+  "script":"roman",
+  "version":null,
+  "baseUrl":"file:.",
+  "titlePath":[
+    "1.Saññāparibhāsāniddesa-paṭhamapariccheda",
+    "Vuttodayapāṭha",
+    "Byākaraṇa gantha-saṅgaho",
+    "Anya"
+  ],
+  "normativeSource":"cscd/e0808n.nrf0.xml",
+  "source":"/roman/anya/byakarana gantha-sangaho/vuttodayapatha/1.sannaparibhasaniddesa-pathamapariccheda.xml",
+  "versions":[],
+  "menus":[
+    {
+      "path":null,
+      "items":{
+        "mula":"Mūla",
+        "atthakatha":"Aṭṭhakathā",
+        "tika":"Tīkā",
+        "anya":"Anya"
+      }
+    },
+    {
+      "path":"/anya",
+      "items":{
+        "visuddhimagga":"Visuddhimagga",
+        "sangayana-puccha vissajjana":"Saṅgāyana-puccha vissajjanā",
+        "ledi sayado gantha-sangaho":"Leḍī sayāḍo gantha-saṅgaho",
+        "buddha-vandana gantha-sangaho":"Buddha-vandanā gantha-saṅgaho",
+        "vamsa-gantha-sangaho":"Vaṃsa-gantha-saṅgaho",
+        "byakarana gantha-sangaho":"Byākaraṇa gantha-saṅgaho",
+        "niti-gantha-sangaho":"Nīti-gantha-saṅgaho",
+        "pakinnaka-gantha-sangaho":"Pakiṇṇaka-gantha-saṅgaho",
+        "sihala-gantha-sangaho":"Sihaḷa-gantha-saṅgaho"
+      }
+    },
+    {
+      "path":"/anya/byakarana gantha-sangaho",
+      "items":{
+        "kaccayanabyakaranam":"Kaccāyanabyākaraṇaṃ",
+        "moggallanabyakaranam":"Moggallānabyākaraṇaṃ",
+        "saddanitippakaranam (padamala)":"Saddanītippakaraṇaṃ (padamālā)",
+        "saddanitippakaranam (dhatumala)":"Saddanītippakaraṇaṃ (dhātumālā)",
+        "padarupasiddhi":"Padarūpasiddhi",
+        "mogallanapancika":"Mogallānapañcikā",
+        "payogasiddhipatha":"Payogasiddhipāṭha",
+        "vuttodayapatha":"Vuttodayapāṭha",
+        "abhidhanappadipikapatha":"Abhidhānappadīpikāpāṭha",
+        "abhidhanappadipikatika":"Abhidhānappadīpikāṭīkā",
+        "subodhalankarapatha":"Subodhālaṅkārapāṭha",
+        "subodhalankaratika":"Subodhālaṅkāraṭīkā",
+        "balavatara ganthipadatthavinicchayasara":"Bālāvatāra gaṇṭhipadatthavinicchayasāra"
+      }
+    },
+    {
+      "path":"/anya/byakarana gantha-sangaho/vuttodayapatha",
+      "items":{
+        "1.sannaparibhasaniddesa-pathamapariccheda":"1.Saññāparibhāsāniddesa-paṭhamapariccheda",
+        "2.mattavuttiniddesa-dutiyapariccheda":"2.Mattāvuttiniddesa-dutiyapariccheda",
+        "3.samavuttiniddesa-tatiyapariccheda":"3.Samavuttiniddesa-tatiyapariccheda",
+        "4.addhasamavuttiniddesa-catutthapariccheda":"4.Aḍḍhasamavuttiniddesa-catutthapariccheda",
+        "5.visamavuttiniddesa-pancamapariccheda":"5.Visamavuttiniddesa-pañcamapariccheda",
+        "6.chappaccayavibhaga-chatthapariccheda":"6.Chappaccayavibhāga-chaṭṭhapariccheda"
+      }
+    }
+  ]
+}

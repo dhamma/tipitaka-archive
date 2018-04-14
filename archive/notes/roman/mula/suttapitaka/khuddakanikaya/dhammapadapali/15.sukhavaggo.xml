@@ -1,0 +1,61 @@
+<notes archive-path="/mula/suttapitaka/khuddakanikaya/dhammapadapali/15.sukhavaggo">
+  <note reference-line="19" id="0">
+    <original>khandhādisā (sī. syā. pī. rūpasiddhiyā sameti)</original>
+    <type>raw</type>
+    <snippet>Natthi khandhasamā </snippet>
+  </note>
+  <note reference-line="21" id="1">
+    <original>saṅkārā paramā (bahūsu)</original>
+    <type>raw</type>
+    <snippet> rogā, saṅkhāraparamā </snippet>
+  </note>
+  <note reference-line="25" id="2">
+    <original>vissāsaparamo ñāti (ka. sī.), vissāsaparamā ñātī (sī. aṭṭha.), vissāsā paramā ñāti (ka.)</original>
+    <type>no_match</type>
+    <snippet>Vissāsaparamā ñāti </snippet>
+    <alternatives>
+      <alternative source-abbr="ka." source="cambodian">vissāsaparamo ñāti</alternative>
+      <alternative source-abbr="sī." source="sri lanka">vissāsaparamo ñāti</alternative>
+      <alternative source-abbr="ka." source="cambodian">vissāsā paramā ñāti</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="25" id="3">
+    <original>nibbāṇaparamaṃ (ka. sī.)</original>
+    <type>auto</type>
+    <snippet>, nibbānaṃ paramaṃ </snippet>
+    <match>paramaṃ</match>
+    <alternatives>
+      <alternative source-abbr="ka." source="cambodian">nibbāṇaparamaṃ</alternative>
+      <alternative source-abbr="sī." source="sri lanka">nibbāṇaparamaṃ</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="27" id="4">
+    <original>pītvā (sī. syā. kaṃ. pī.)</original>
+    <type>auto</type>
+    <snippet> pitvā </snippet>
+    <match>pitvā</match>
+    <alternatives>
+      <alternative source-abbr="sī." source="sri lanka">pītvā</alternative>
+      <alternative source-abbr="syā." source="thai">pītvā</alternative>
+      <alternative source-abbr="kaṃ." source="kam">pītvā</alternative>
+      <alternative source-abbr="pī." source="pali text society">pītvā</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="33" id="5">
+    <original>bālasaṅgaticārī (ka.)</original>
+    <type>auto</type>
+    <snippet> Bālasaṅgatacārī </snippet>
+    <match>Bālasaṅgatacārī</match>
+    <alternatives>
+      <alternative source-abbr="ka." source="cambodian">bālasaṅgaticārī</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="39" id="6">
+    <original>tasmā hi dhīraṃ paññañca, bahussutañca dhorayhaṃ; sīlaṃ dhutavatamariyaṃ, taṃ tādisaṃ sappurisaṃ; sumedhaṃ bhajetha nakkhattapathaṃva candimā; (ka.)</original>
+    <type>no_match</type>
+    <snippet>Taṃ tādisaṃ sappurisaṃ sumedhaṃ, bhajetha nakkhattapathaṃva candimā </snippet>
+    <alternatives>
+      <alternative source-abbr="ka." source="cambodian">tasmā hi dhīraṃ paññañca, bahussutañca dhorayhaṃ; sīlaṃ dhutavatamariyaṃ, taṃ tādisaṃ sappurisaṃ; sumedhaṃ bhajetha nakkhattapathaṃva candimā;</alternative>
+    </alternatives>
+  </note>
+</notes>

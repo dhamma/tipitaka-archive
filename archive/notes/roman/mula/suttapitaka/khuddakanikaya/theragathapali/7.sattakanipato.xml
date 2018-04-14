@@ -1,0 +1,54 @@
+<notes archive-path="/mula/suttapitaka/khuddakanikaya/theragathapali/7.sattakanipato">
+  <note reference-line="4" id="0">
+    <original>mālābhārī (sī.), mālabhārī (syā.)</original>
+    <type>auto</type>
+    <snippet> suvasanā, māladhārī </snippet>
+    <match>māladhārī</match>
+    <alternatives>
+      <alternative source-abbr="sī." source="sri lanka">mālābhārī</alternative>
+      <alternative source-abbr="syā." source="thai">mālabhārī</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="8" id="1">
+    <original>mihitapubbaṃ (sī.)</original>
+    <type>auto</type>
+    <snippet>Sā maṃ saṇhena mudunā, mhitapubbaṃ </snippet>
+    <match>mhitapubbaṃ</match>
+    <alternatives>
+      <alternative source-abbr="sī." source="sri lanka">mihitapubbaṃ</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="27" id="2">
+    <original>bhaddo’dhijhāyāyati (sī.), bhaddo jhiyāyati (syā. sī. aṭṭha.)</original>
+    <type>raw</type>
+    <snippet>Samūlaṃ taṇhamabbuyha, tattha bhaddova jhāyati </snippet>
+  </note>
+  <note reference-line="29" id="3">
+    <original>mutiṅgehi (sī. aṭṭha.)</original>
+    <type>raw</type>
+    <snippet> ‘‘Ramanteke mudiṅgehi </snippet>
+  </note>
+  <note reference-line="32" id="4">
+    <original>buddho ca (sabbattha)</original>
+    <type>raw</type>
+    <snippet> ‘‘Buddho ce </snippet>
+  </note>
+  <note reference-line="73" id="5">
+    <original>vandisaṃ (sī. pī.)</original>
+    <type>auto</type>
+    <snippet>Tattha naṃ upasaṅkamma, vandissaṃ </snippet>
+    <match>vandissaṃ</match>
+    <alternatives>
+      <alternative source-abbr="sī." source="sri lanka">vandisaṃ</alternative>
+      <alternative source-abbr="pī." source="pali text society">vandisaṃ</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="114" id="6">
+    <original>yasmiṃ na nibbattate (ka.)</original>
+    <type>no_match</type>
+    <snippet> nivattate </snippet>
+    <alternatives>
+      <alternative source-abbr="ka." source="cambodian">yasmiṃ na nibbattate</alternative>
+    </alternatives>
+  </note>
+</notes>

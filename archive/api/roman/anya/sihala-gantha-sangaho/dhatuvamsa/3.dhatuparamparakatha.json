@@ -1,0 +1,70 @@
+{
+  "path":"/anya/sihala-gantha-sangaho/dhatuvamsa/3.dhatuparamparakatha",
+  "script":"roman",
+  "version":null,
+  "baseUrl":"file:.",
+  "titlePath":[
+    "3.Dhātuparamparākathā",
+    "Dhātuvaṃsa",
+    "Sihaḷa-gantha-saṅgaho",
+    "Anya"
+  ],
+  "normativeSource":"cscd/e1205n.nrf2.xml",
+  "source":"/roman/anya/sihala-gantha-sangaho/dhatuvamsa/3.dhatuparamparakatha.xml",
+  "versions":[],
+  "menus":[
+    {
+      "path":null,
+      "items":{
+        "mula":"Mūla",
+        "atthakatha":"Aṭṭhakathā",
+        "tika":"Tīkā",
+        "anya":"Anya"
+      }
+    },
+    {
+      "path":"/anya",
+      "items":{
+        "visuddhimagga":"Visuddhimagga",
+        "sangayana-puccha vissajjana":"Saṅgāyana-puccha vissajjanā",
+        "ledi sayado gantha-sangaho":"Leḍī sayāḍo gantha-saṅgaho",
+        "buddha-vandana gantha-sangaho":"Buddha-vandanā gantha-saṅgaho",
+        "vamsa-gantha-sangaho":"Vaṃsa-gantha-saṅgaho",
+        "byakarana gantha-sangaho":"Byākaraṇa gantha-saṅgaho",
+        "niti-gantha-sangaho":"Nīti-gantha-saṅgaho",
+        "pakinnaka-gantha-sangaho":"Pakiṇṇaka-gantha-saṅgaho",
+        "sihala-gantha-sangaho":"Sihaḷa-gantha-saṅgaho"
+      }
+    },
+    {
+      "path":"/anya/sihala-gantha-sangaho",
+      "items":{
+        "moggallana vuttivivaranapancika":"Moggallāna vuttivivaraṇapañcikā",
+        "thupavamsa":"Thūpavaṃsa",
+        "dathavamsa":"Dāṭhāvaṃsa",
+        "dhatupathavilasiniya":"Dhātupāṭhavilāsiniyā",
+        "dhatuvamsa":"Dhātuvaṃsa",
+        "hatthavanagallaviharavamsa":"Hatthavanagallavihāravaṃsa",
+        "jinacaritaya":"Jinacaritaya",
+        "jinavamsadipam":"Jinavaṃsadīpaṃ",
+        "telakatahagatha":"Telakaṭāhagāthā",
+        "milidatika":"Milidaṭīkā",
+        "padamanjari":"Padamañjarī",
+        "padasadhanam":"Padasādhanaṃ",
+        "saddabindupakaranam":"Saddabindupakaraṇaṃ",
+        "kaccayanadhatumanjusa":"Kaccāyanadhātumañjusā",
+        "samantakutavannana":"Sāmantakūṭavaṇṇanā"
+      }
+    },
+    {
+      "path":"/anya/sihala-gantha-sangaho/dhatuvamsa",
+      "items":{
+        "1.tathagatassagamanakatha":"1.Tathāgatassāgamanakathā",
+        "2.parinibbanakatha":"2.Parinibbānakathā",
+        "3.dhatuparamparakatha":"3.Dhātuparamparākathā",
+        "4.pakinnakakatha":"4.Pakiṇṇakakathā",
+        "5.dhatunidhanadhikaro":"5.Dhātunidhānādhikāro"
+      }
+    }
+  ]
+}

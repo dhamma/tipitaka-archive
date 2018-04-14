@@ -1,0 +1,115 @@
+<notes archive-path="/mula/suttapitaka/khuddakanikaya/dhammapadapali/9.papavaggo">
+  <note reference-line="6" id="0">
+    <original>na taṃ (sī. pī.)</original>
+    <type>no_match</type>
+    <snippet> Pāpañce puriso kayirā, na naṃ </snippet>
+    <alternatives>
+      <alternative source-abbr="sī." source="sri lanka">na taṃ</alternative>
+      <alternative source-abbr="pī." source="pali text society">na taṃ</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="9" id="1">
+    <original>kayirāthetaṃ (sī. syā.), kayirāthenaṃ (pī.)</original>
+    <type>auto</type>
+    <snippet> Puññañce puriso kayirā, kayirā naṃ </snippet>
+    <match>naṃ</match>
+    <alternatives>
+      <alternative source-abbr="sī." source="sri lanka">kayirāthetaṃ</alternative>
+      <alternative source-abbr="syā." source="thai">kayirāthetaṃ</alternative>
+      <alternative source-abbr="pī." source="pali text society">kayirāthenaṃ</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="13" id="2">
+    <original>atha pāpāni (?)</original>
+    <type>no_match</type>
+    <snippet>Yadā ca paccati pāpaṃ, atha pāpo pāpāni </snippet>
+    <alternatives>
+      <alternative source-abbr="?" source="unknown">atha pāpāni</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="16" id="3">
+    <original>atha bhadrāni (?)</original>
+    <type>no_match</type>
+    <snippet>Yadā ca paccati bhadraṃ, atha bhadro bhadrāni </snippet>
+    <alternatives>
+      <alternative source-abbr="?" source="unknown">atha bhadrāni</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="18" id="4">
+    <original>māppamaññetha (sī. syā. pī.)</original>
+    <type>auto</type>
+    <snippet> Māvamaññetha </snippet>
+    <match>Māvamaññetha</match>
+    <alternatives>
+      <alternative source-abbr="sī." source="sri lanka">māppamaññetha</alternative>
+      <alternative source-abbr="syā." source="thai">māppamaññetha</alternative>
+      <alternative source-abbr="pī." source="pali text society">māppamaññetha</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="18" id="5">
+    <original>na maṃ taṃ (sī. pī.), na mattaṃ (syā.)</original>
+    <type>no_match</type>
+    <snippet> pāpassa, na mantaṃ </snippet>
+    <alternatives>
+      <alternative source-abbr="sī." source="sri lanka">na maṃ taṃ</alternative>
+      <alternative source-abbr="pī." source="pali text society">na maṃ taṃ</alternative>
+      <alternative source-abbr="syā." source="thai">na mattaṃ</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="20" id="6">
+    <original>pūrati bālo (sī. ka.), āpūrati bālo (syā.)</original>
+    <type>no_match</type>
+    <snippet>Bālo pūrati </snippet>
+    <alternatives>
+      <alternative source-abbr="sī." source="sri lanka">pūrati bālo</alternative>
+      <alternative source-abbr="ka." source="cambodian">pūrati bālo</alternative>
+      <alternative source-abbr="syā." source="thai">āpūrati bālo</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="20" id="7">
+    <original>thoka thokampi (sī. pī.)</original>
+    <type>no_match</type>
+    <snippet> pāpassa, thokaṃ thokampi </snippet>
+    <alternatives>
+      <alternative source-abbr="sī." source="sri lanka">thoka thokampi</alternative>
+      <alternative source-abbr="pī." source="pali text society">thoka thokampi</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="38" id="8">
+    <original>pavisaṃ (syā.)</original>
+    <type>auto</type>
+    <snippet> antalikkhe na samuddamajjhe, na pabbatānaṃ vivaraṃ pavissa </snippet>
+    <match>pavissa</match>
+    <alternatives>
+      <alternative source-abbr="syā." source="thai">pavisaṃ</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="39" id="9">
+    <original>na vijjati (ka. sī. pī. ka.)</original>
+    <type>no_match</type>
+    <snippet> vijjatī </snippet>
+    <alternatives>
+      <alternative source-abbr="ka." source="cambodian">na vijjati</alternative>
+      <alternative source-abbr="sī." source="sri lanka">na vijjati</alternative>
+      <alternative source-abbr="pī." source="pali text society">na vijjati</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="39" id="10">
+    <original>yatraṭṭhito (syā.)</original>
+    <type>auto</type>
+    <snippet> so jagatippadeso, yatthaṭṭhito </snippet>
+    <match>yatthaṭṭhito</match>
+    <alternatives>
+      <alternative source-abbr="syā." source="thai">yatraṭṭhito</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="42" id="11">
+    <original>yatraṭṭhitaṃ (syā.)</original>
+    <type>auto</type>
+    <snippet>Na vijjatī so jagatippadeso, yatthaṭṭhitaṃ </snippet>
+    <match>yatthaṭṭhitaṃ</match>
+    <alternatives>
+      <alternative source-abbr="syā." source="thai">yatraṭṭhitaṃ</alternative>
+    </alternatives>
+  </note>
+</notes>

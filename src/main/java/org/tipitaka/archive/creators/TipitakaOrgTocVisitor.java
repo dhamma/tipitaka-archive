@@ -118,6 +118,7 @@ public class TipitakaOrgTocVisitor {
         return text.trim().replaceAll("[,.]$", "")
             .replace("Tipiṭaka (Mūla)", "Mūla")
             .replace(" (ṭīkā)", "")
-            .replace(" (aṭṭhakathā)", "");
+            .replace(" (aṭṭhakathā)", "")
+            .replace(". ", ".");
     }
 }

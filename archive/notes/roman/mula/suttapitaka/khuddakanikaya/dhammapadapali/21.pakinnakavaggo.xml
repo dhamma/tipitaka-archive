@@ -1,0 +1,39 @@
+<notes archive-path="/mula/suttapitaka/khuddakanikaya/dhammapadapali/21.pakinnakavaggo">
+  <note reference-line="6" id="0">
+    <original>yo attano (syā. pī. ka.)</original>
+    <type>no_match</type>
+    <snippet> Paradukkhūpadhānena, attano </snippet>
+    <alternatives>
+      <alternative source-abbr="syā." source="thai">yo attano</alternative>
+      <alternative source-abbr="pī." source="pali text society">yo attano</alternative>
+      <alternative source-abbr="ka." source="cambodian">yo attano</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="9" id="1">
+    <original>tadapaviddhaṃ (sī. syā.)</original>
+    <type>auto</type>
+    <snippet> kiccaṃ apaviddhaṃ </snippet>
+    <match>apaviddhaṃ</match>
+    <alternatives>
+      <alternative source-abbr="sī." source="sri lanka">tadapaviddhaṃ</alternative>
+      <alternative source-abbr="syā." source="thai">tadapaviddhaṃ</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="42" id="2">
+    <original>tasmā na caddhagū na ca (ka.)</original>
+    <type>no_match</type>
+    <snippet>Tasmā na caddhagū siyā, na ca </snippet>
+    <alternatives>
+      <alternative source-abbr="ka." source="cambodian">tasmā na caddhagū na ca</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="42" id="3">
+    <original>dukkhānupātito (?)</original>
+    <type>auto</type>
+    <snippet> dukkhānupatito siyā </snippet>
+    <match>siyā</match>
+    <alternatives>
+      <alternative source-abbr="?" source="unknown">dukkhānupātito</alternative>
+    </alternatives>
+  </note>
+</notes>

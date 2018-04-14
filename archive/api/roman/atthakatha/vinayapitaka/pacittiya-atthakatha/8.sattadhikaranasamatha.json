@@ -1,0 +1,58 @@
+{
+  "path":"/atthakatha/vinayapitaka/pacittiya-atthakatha/8.sattadhikaranasamatha",
+  "script":"roman",
+  "version":null,
+  "baseUrl":"file:.",
+  "titlePath":[
+    "8.Sattādhikaraṇasamathā",
+    "Pācittiya-aṭṭhakathā",
+    "Vinayapiṭaka",
+    "Aṭṭhakathā"
+  ],
+  "normativeSource":"cscd/vin02a1.att3.xml",
+  "source":"/roman/atthakatha/vinayapitaka/pacittiya-atthakatha/8.sattadhikaranasamatha.xml",
+  "versions":[],
+  "menus":[
+    {
+      "path":null,
+      "items":{
+        "mula":"Mūla",
+        "atthakatha":"Aṭṭhakathā",
+        "tika":"Tīkā",
+        "anya":"Anya"
+      }
+    },
+    {
+      "path":"/atthakatha",
+      "items":{
+        "vinayapitaka":"Vinayapiṭaka",
+        "suttapitaka":"Suttapiṭaka",
+        "abhidhammapitaka":"Abhidhammapiṭaka"
+      }
+    },
+    {
+      "path":"/atthakatha/vinayapitaka",
+      "items":{
+        "parajikakanda-atthakatha":"Pārājikakaṇḍa-aṭṭhakathā",
+        "pacittiya-atthakatha":"Pācittiya-aṭṭhakathā",
+        "mahavagga-atthakatha":"Mahāvagga-aṭṭhakathā",
+        "culavagga-atthakatha":"Cūḷavagga-aṭṭhakathā",
+        "parivara-atthakatha":"Parivāra-aṭṭhakathā"
+      }
+    },
+    {
+      "path":"/atthakatha/vinayapitaka/pacittiya-atthakatha",
+      "items":{
+        "5.pacittiyakandam":"5.Pācittiyakaṇḍaṃ",
+        "6.patidesaniyakandam":"6.Pāṭidesanīyakaṇḍaṃ",
+        "7.sekhiyakandam":"7.Sekhiyakaṇḍaṃ",
+        "8.sattadhikaranasamatha":"8.Sattādhikaraṇasamathā",
+        "1.parajikakandam (bhikkhunivibhangavannana)":"1.Pārājikakaṇḍaṃ (bhikkhunīvibhaṅgavaṇṇanā)",
+        "2.sanghadisesakandam (bhikkhunivibhangavannana)":"2.Saṅghādisesakaṇḍaṃ (bhikkhunīvibhaṅgavaṇṇanā)",
+        "3.nissaggiyakandam (bhikkhunivibhangavannana)":"3.Nissaggiyakaṇḍaṃ (bhikkhunīvibhaṅgavaṇṇanā)",
+        "4.pacittiyakandam (bhikkhunivibhangavannana)":"4.Pācittiyakaṇḍaṃ (bhikkhunīvibhaṅgavaṇṇanā)",
+        "5.patidesaniyakandam (bhikkhunivibhangavannana)":"5.Pāṭidesanīyakaṇḍaṃ (bhikkhunīvibhaṅgavaṇṇanā)"
+      }
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+<notes archive-path="/mula/suttapitaka/khuddakanikaya/buddhavamsapali/7.revatabuddhavamso">
+  <note reference-line="12" id="0">
+    <original>rājānaṃ (ka.)</original>
+    <type>auto</type>
+    <snippet> Yadā arindamaṃ rājaṃ </snippet>
+    <match>rājaṃ</match>
+    <alternatives>
+      <alternative source-abbr="ka." source="cambodian">rājānaṃ</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="24" id="1">
+    <original>yo so (syā. kaṃ. ka.)</original>
+    <type>no_match</type>
+    <snippet> Yopi </snippet>
+    <alternatives>
+      <alternative source-abbr="syā." source="thai">yo so</alternative>
+      <alternative source-abbr="kaṃ." source="kam">yo so</alternative>
+      <alternative source-abbr="ka." source="cambodian">yo so</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="47" id="2">
+    <original>sudhammakaṃ nāma (sī.), sudhaññakaṃ nāma (syā.)</original>
+    <type>no_match</type>
+    <snippet> sudhaññavatī nāma </snippet>
+    <alternatives>
+      <alternative source-abbr="sī." source="sri lanka">sudhammakaṃ nāma</alternative>
+      <alternative source-abbr="syā." source="thai">sudhaññakaṃ nāma</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="50" id="3">
+    <original>chabbassasahassāni (sī. syā.)</original>
+    <type>auto</type>
+    <snippet> ca vassasahassāni </snippet>
+    <match>vassasahassāni</match>
+    <alternatives>
+      <alternative source-abbr="sī." source="sri lanka">chabbassasahassāni</alternative>
+      <alternative source-abbr="syā." source="thai">chabbassasahassāni</alternative>
+    </alternatives>
+  </note>
+</notes>

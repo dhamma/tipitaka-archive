@@ -1,0 +1,43 @@
+<notes archive-path="/mula/suttapitaka/khuddakanikaya/theragathapali/8.atthakanipato">
+  <note reference-line="14" id="0">
+    <original>yathā vetti (sī.)</original>
+    <type>no_match</type>
+    <snippet>Attā ca naṃ yathāvedi </snippet>
+    <alternatives>
+      <alternative source-abbr="sī." source="sri lanka">yathā vetti</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="20" id="1">
+    <original>abhāvena (sī. aṭṭha.)</original>
+    <type>raw</type>
+    <snippet>Paññāya ca alābhena </snippet>
+  </note>
+  <note reference-line="27" id="2">
+    <original>passetha (ka.)</original>
+    <type>auto</type>
+    <snippet>Atha atthe samuppanne, sayetha </snippet>
+    <match>sayetha</match>
+    <alternatives>
+      <alternative source-abbr="ka." source="cambodian">passetha</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="38" id="3">
+    <original>yo (syā.)</original>
+    <type>auto</type>
+    <snippet>Kalyāṇasīlo so </snippet>
+    <match>so</match>
+    <alternatives>
+      <alternative source-abbr="syā." source="thai">yo</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="78" id="4">
+    <original>vivasane (sī. syā.)</original>
+    <type>auto</type>
+    <snippet> ratyā vivasāne </snippet>
+    <match>vivasāne</match>
+    <alternatives>
+      <alternative source-abbr="sī." source="sri lanka">vivasane</alternative>
+      <alternative source-abbr="syā." source="thai">vivasane</alternative>
+    </alternatives>
+  </note>
+</notes>

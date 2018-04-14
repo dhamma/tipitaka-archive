@@ -1,0 +1,67 @@
+{
+  "path":"/anya/niti-gantha-sangaho/lokaniti/1.panditakando",
+  "script":"roman",
+  "version":null,
+  "baseUrl":"file:.",
+  "titlePath":[
+    "1.Paṇḍitakaṇḍo",
+    "Lokanīti",
+    "Nīti-gantha-saṅgaho",
+    "Anya"
+  ],
+  "normativeSource":"cscd/e1005n.nrf0.xml",
+  "source":"/roman/anya/niti-gantha-sangaho/lokaniti/1.panditakando.xml",
+  "versions":[],
+  "menus":[
+    {
+      "path":null,
+      "items":{
+        "mula":"Mūla",
+        "atthakatha":"Aṭṭhakathā",
+        "tika":"Tīkā",
+        "anya":"Anya"
+      }
+    },
+    {
+      "path":"/anya",
+      "items":{
+        "visuddhimagga":"Visuddhimagga",
+        "sangayana-puccha vissajjana":"Saṅgāyana-puccha vissajjanā",
+        "ledi sayado gantha-sangaho":"Leḍī sayāḍo gantha-saṅgaho",
+        "buddha-vandana gantha-sangaho":"Buddha-vandanā gantha-saṅgaho",
+        "vamsa-gantha-sangaho":"Vaṃsa-gantha-saṅgaho",
+        "byakarana gantha-sangaho":"Byākaraṇa gantha-saṅgaho",
+        "niti-gantha-sangaho":"Nīti-gantha-saṅgaho",
+        "pakinnaka-gantha-sangaho":"Pakiṇṇaka-gantha-saṅgaho",
+        "sihala-gantha-sangaho":"Sihaḷa-gantha-saṅgaho"
+      }
+    },
+    {
+      "path":"/anya/niti-gantha-sangaho",
+      "items":{
+        "lokaniti":"Lokanīti",
+        "suttantaniti":"Suttantanīti",
+        "surassatiniti":"Sūrassatinīti",
+        "maharahaniti":"Mahārahanīti",
+        "dhammaniti":"Dhammanīti",
+        "kavidappananiti":"Kavidappaṇanīti",
+        "nitimanjari":"Nītimañjarī",
+        "naradakkhadipani":"Naradakkhadīpanī",
+        "caturarakkhadipani":"Caturārakkhadīpanī",
+        "canakyaniti":"Cāṇakyanīti"
+      }
+    },
+    {
+      "path":"/anya/niti-gantha-sangaho/lokaniti",
+      "items":{
+        "1.panditakando":"1.Paṇḍitakaṇḍo",
+        "sujanakando":"Sujanakaṇḍo",
+        "4.baladujjanakando":"4.Bāladujjanakaṇḍo",
+        "4.mittakando":"4.Mittakaṇḍo",
+        "5.itthikando":"5.Itthikaṇḍo",
+        "6.rajakando":"6.Rājakaṇḍo",
+        "7.pakinnakakando":"7.Pakiṇṇakakaṇḍo"
+      }
+    }
+  ]
+}

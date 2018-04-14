@@ -1,0 +1,72 @@
+{
+  "path":"/anya/byakarana gantha-sangaho/kaccayanabyakaranam/4.samasakappa",
+  "script":"roman",
+  "version":null,
+  "baseUrl":"file:.",
+  "titlePath":[
+    "4.Samāsakappa",
+    "Kaccāyanabyākaraṇaṃ",
+    "Byākaraṇa gantha-saṅgaho",
+    "Anya"
+  ],
+  "normativeSource":"cscd/e0802n.nrf4.xml",
+  "source":"/roman/anya/byakarana gantha-sangaho/kaccayanabyakaranam/4.samasakappa.xml",
+  "versions":[],
+  "menus":[
+    {
+      "path":null,
+      "items":{
+        "mula":"Mūla",
+        "atthakatha":"Aṭṭhakathā",
+        "tika":"Tīkā",
+        "anya":"Anya"
+      }
+    },
+    {
+      "path":"/anya",
+      "items":{
+        "visuddhimagga":"Visuddhimagga",
+        "sangayana-puccha vissajjana":"Saṅgāyana-puccha vissajjanā",
+        "ledi sayado gantha-sangaho":"Leḍī sayāḍo gantha-saṅgaho",
+        "buddha-vandana gantha-sangaho":"Buddha-vandanā gantha-saṅgaho",
+        "vamsa-gantha-sangaho":"Vaṃsa-gantha-saṅgaho",
+        "byakarana gantha-sangaho":"Byākaraṇa gantha-saṅgaho",
+        "niti-gantha-sangaho":"Nīti-gantha-saṅgaho",
+        "pakinnaka-gantha-sangaho":"Pakiṇṇaka-gantha-saṅgaho",
+        "sihala-gantha-sangaho":"Sihaḷa-gantha-saṅgaho"
+      }
+    },
+    {
+      "path":"/anya/byakarana gantha-sangaho",
+      "items":{
+        "kaccayanabyakaranam":"Kaccāyanabyākaraṇaṃ",
+        "moggallanabyakaranam":"Moggallānabyākaraṇaṃ",
+        "saddanitippakaranam (padamala)":"Saddanītippakaraṇaṃ (padamālā)",
+        "saddanitippakaranam (dhatumala)":"Saddanītippakaraṇaṃ (dhātumālā)",
+        "padarupasiddhi":"Padarūpasiddhi",
+        "mogallanapancika":"Mogallānapañcikā",
+        "payogasiddhipatha":"Payogasiddhipāṭha",
+        "vuttodayapatha":"Vuttodayapāṭha",
+        "abhidhanappadipikapatha":"Abhidhānappadīpikāpāṭha",
+        "abhidhanappadipikatika":"Abhidhānappadīpikāṭīkā",
+        "subodhalankarapatha":"Subodhālaṅkārapāṭha",
+        "subodhalankaratika":"Subodhālaṅkāraṭīkā",
+        "balavatara ganthipadatthavinicchayasara":"Bālāvatāra gaṇṭhipadatthavinicchayasāra"
+      }
+    },
+    {
+      "path":"/anya/byakarana gantha-sangaho/kaccayanabyakaranam",
+      "items":{
+        "kaccayanabyakaranam":"Kaccāyanabyākaraṇaṃ",
+        "1.sandhikappa":"1.Sandhikappa",
+        "2.namakappa":"2.Nāmakappa",
+        "3.karakakappa":"3.Kārakakappa",
+        "4.samasakappa":"4.Samāsakappa",
+        "5.taddhitakappa":"5.Taddhitakappa",
+        "6.akhyatakappa":"6.Ākhyātakappa",
+        "7.kibbidhanakappa":"7.Kibbidhānakappa",
+        "8.unadikappa":"8.Uṇādikappa"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+<notes archive-path="/mula/suttapitaka/khuddakanikaya/apadanapali-1/27.padumukkhipavaggo">
+  <note reference-line="39" id="0">
+    <original>yaṃ puppha (ka.)</original>
+    <type>no_match</type>
+    <snippet> ‘‘Dvenavute ito kappe, yaṃ canda </snippet>
+    <alternatives>
+      <alternative source-abbr="ka." source="cambodian">yaṃ puppha</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="60" id="1">
+    <original>apaṇṇadīpiyo (sī. ka.)</original>
+    <type>auto</type>
+    <snippet>Itthaṃ sudaṃ āyasmā padīpadāyako </snippet>
+    <match>padīpadāyako</match>
+    <alternatives>
+      <alternative source-abbr="sī." source="sri lanka">apaṇṇadīpiyo</alternative>
+      <alternative source-abbr="ka." source="cambodian">apaṇṇadīpiyo</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="133" id="2">
+    <original>upāgatahāsaniyo (syā.), upāgatāhāsaniyo (ka.)</original>
+    <type>auto</type>
+    <snippet>Itthaṃ sudaṃ āyasmā upāgatāsayo </snippet>
+    <match>upāgatāsayo</match>
+    <alternatives>
+      <alternative source-abbr="syā." source="thai">upāgatahāsaniyo</alternative>
+      <alternative source-abbr="ka." source="cambodian">upāgatāhāsaniyo</alternative>
+    </alternatives>
+  </note>
+</notes>

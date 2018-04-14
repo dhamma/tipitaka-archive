@@ -1,0 +1,77 @@
+{
+  "path":"/mula/suttapitaka/anguttaranikaya/atthakadinipatapali/(10) 5.samannavaggo",
+  "script":"roman",
+  "version":null,
+  "baseUrl":"file:.",
+  "titlePath":[
+    "(10) 5.Sāmaññavaggo",
+    "Aṭṭhakādinipātapāḷi",
+    "Aṅguttaranikāya",
+    "Suttapiṭaka",
+    "Mūla"
+  ],
+  "normativeSource":"cscd/s0404m1.mul9.xml",
+  "source":"/roman/mula/suttapitaka/anguttaranikaya/atthakadinipatapali/(10) 5.samannavaggo.xml",
+  "versions":[],
+  "menus":[
+    {
+      "path":null,
+      "items":{
+        "mula":"Mūla",
+        "atthakatha":"Aṭṭhakathā",
+        "tika":"Tīkā",
+        "anya":"Anya"
+      }
+    },
+    {
+      "path":"/mula",
+      "items":{
+        "vinayapitaka":"Vinayapiṭaka",
+        "suttapitaka":"Suttapiṭaka",
+        "abhidhammapitaka":"Abhidhammapiṭaka"
+      }
+    },
+    {
+      "path":"/mula/suttapitaka",
+      "items":{
+        "dighanikaya":"Dīghanikāya",
+        "majjhimanikaya":"Majjhimanikāya",
+        "samyuttanikaya":"Saṃyuttanikāya",
+        "anguttaranikaya":"Aṅguttaranikāya",
+        "khuddakanikaya":"Khuddakanikāya"
+      }
+    },
+    {
+      "path":"/mula/suttapitaka/anguttaranikaya",
+      "items":{
+        "ekakanipatapali":"Ekakanipātapāḷi",
+        "dukanipatapali":"Dukanipātapāḷi",
+        "tikanipatapali":"Tikanipātapāḷi",
+        "catukkanipatapali":"Catukkanipātapāḷi",
+        "pancakanipatapali":"Pañcakanipātapāḷi",
+        "chakkanipatapali":"Chakkanipātapāḷi",
+        "sattakanipatapali":"Sattakanipātapāḷi",
+        "atthakadinipatapali":"Aṭṭhakādinipātapāḷi",
+        "navakanipatapali":"Navakanipātapāḷi",
+        "dasakanipatapali":"Dasakanipātapāḷi",
+        "ekadasakanipatapali":"Ekādasakanipātapāḷi"
+      }
+    },
+    {
+      "path":"/mula/suttapitaka/anguttaranikaya/atthakadinipatapali",
+      "items":{
+        "1.mettavaggo":"1.Mettāvaggo",
+        "2.mahavaggo":"2.Mahāvaggo",
+        "3.gahapativaggo":"3.Gahapativaggo",
+        "4.danavaggo":"4.Dānavaggo",
+        "5.uposathavaggo":"5.Uposathavaggo",
+        "(6) 1.gotamivaggo":"(6) 1.Gotamīvaggo",
+        "(7) 2.bhumicalavaggo":"(7) 2.Bhūmicālavaggo",
+        "(8) 3.yamakavaggo":"(8) 3.Yamakavaggo",
+        "(9) 4.sativaggo":"(9) 4.Sativaggo",
+        "(10) 5.samannavaggo":"(10) 5.Sāmaññavaggo",
+        "(11).ragapeyyalam":"(11).Rāgapeyyālaṃ"
+      }
+    }
+  ]
+}

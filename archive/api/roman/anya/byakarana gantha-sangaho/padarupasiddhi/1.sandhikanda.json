@@ -1,0 +1,70 @@
+{
+  "path":"/anya/byakarana gantha-sangaho/padarupasiddhi/1.sandhikanda",
+  "script":"roman",
+  "version":null,
+  "baseUrl":"file:.",
+  "titlePath":[
+    "1.Sandhikaṇḍa",
+    "Padarūpasiddhi",
+    "Byākaraṇa gantha-saṅgaho",
+    "Anya"
+  ],
+  "normativeSource":"cscd/e0805n.nrf0.xml",
+  "source":"/roman/anya/byakarana gantha-sangaho/padarupasiddhi/1.sandhikanda.xml",
+  "versions":[],
+  "menus":[
+    {
+      "path":null,
+      "items":{
+        "mula":"Mūla",
+        "atthakatha":"Aṭṭhakathā",
+        "tika":"Tīkā",
+        "anya":"Anya"
+      }
+    },
+    {
+      "path":"/anya",
+      "items":{
+        "visuddhimagga":"Visuddhimagga",
+        "sangayana-puccha vissajjana":"Saṅgāyana-puccha vissajjanā",
+        "ledi sayado gantha-sangaho":"Leḍī sayāḍo gantha-saṅgaho",
+        "buddha-vandana gantha-sangaho":"Buddha-vandanā gantha-saṅgaho",
+        "vamsa-gantha-sangaho":"Vaṃsa-gantha-saṅgaho",
+        "byakarana gantha-sangaho":"Byākaraṇa gantha-saṅgaho",
+        "niti-gantha-sangaho":"Nīti-gantha-saṅgaho",
+        "pakinnaka-gantha-sangaho":"Pakiṇṇaka-gantha-saṅgaho",
+        "sihala-gantha-sangaho":"Sihaḷa-gantha-saṅgaho"
+      }
+    },
+    {
+      "path":"/anya/byakarana gantha-sangaho",
+      "items":{
+        "kaccayanabyakaranam":"Kaccāyanabyākaraṇaṃ",
+        "moggallanabyakaranam":"Moggallānabyākaraṇaṃ",
+        "saddanitippakaranam (padamala)":"Saddanītippakaraṇaṃ (padamālā)",
+        "saddanitippakaranam (dhatumala)":"Saddanītippakaraṇaṃ (dhātumālā)",
+        "padarupasiddhi":"Padarūpasiddhi",
+        "mogallanapancika":"Mogallānapañcikā",
+        "payogasiddhipatha":"Payogasiddhipāṭha",
+        "vuttodayapatha":"Vuttodayapāṭha",
+        "abhidhanappadipikapatha":"Abhidhānappadīpikāpāṭha",
+        "abhidhanappadipikatika":"Abhidhānappadīpikāṭīkā",
+        "subodhalankarapatha":"Subodhālaṅkārapāṭha",
+        "subodhalankaratika":"Subodhālaṅkāraṭīkā",
+        "balavatara ganthipadatthavinicchayasara":"Bālāvatāra gaṇṭhipadatthavinicchayasāra"
+      }
+    },
+    {
+      "path":"/anya/byakarana gantha-sangaho/padarupasiddhi",
+      "items":{
+        "1.sandhikanda":"1.Sandhikaṇḍa",
+        "2.namakanda":"2.Nāmakaṇḍa",
+        "3.karakakanda":"3.Kārakakaṇḍa",
+        "4.samasakanda":"4.Samāsakaṇḍa",
+        "5.taddhitakanda":"5.Taddhitakaṇḍa",
+        "6.akhyatakanda":"6.Ākhyātakaṇḍa",
+        "7.kibbidhanakanda":"7.Kibbidhānakaṇḍa"
+      }
+    }
+  ]
+}

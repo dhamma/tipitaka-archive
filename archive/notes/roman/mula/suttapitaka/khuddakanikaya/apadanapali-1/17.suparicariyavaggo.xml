@@ -1,0 +1,94 @@
+<notes archive-path="/mula/suttapitaka/khuddakanikaya/apadanapali-1/17.suparicariyavaggo">
+  <note reference-line="31" id="0">
+    <original>karavīraṃ (sakkatānulomaṃ), kaṇavīraṃ (pākata)</original>
+    <type>raw</type>
+    <snippet> ‘‘Kaṇaveraṃ </snippet>
+  </note>
+  <note reference-line="34" id="1">
+    <original>ropayiṃ (syā.)</original>
+    <type>auto</type>
+    <snippet> kappe, yaṃ pupphamabhipūjayiṃ </snippet>
+    <match>pupphamabhipūjayiṃ</match>
+    <alternatives>
+      <alternative source-abbr="syā." source="thai">ropayiṃ</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="49" id="2">
+    <original>kāmakārī, upapajjaṃ (sī.)</original>
+    <type>no_match</type>
+    <snippet>Modāmahaṃ kāmakāmī, upapajjiṃ </snippet>
+    <alternatives>
+      <alternative source-abbr="sī." source="sri lanka">kāmakārī, upapajjaṃ</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="49" id="3">
+    <original>sabbatthapi evameva dissati</original>
+    <type>raw</type>
+    <snippet> yamicchakaṃ </snippet>
+  </note>
+  <note reference-line="96" id="4">
+    <original>nāmātha (sī.)</original>
+    <type>auto</type>
+    <snippet> nāmāsi </snippet>
+    <match>nāmāsi</match>
+    <alternatives>
+      <alternative source-abbr="sī." source="sri lanka">nāmātha</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="100" id="5">
+    <original>tatohaṃ (sī. syā.)</original>
+    <type>auto</type>
+    <snippet>Tato taṃ </snippet>
+    <match>taṃ</match>
+    <alternatives>
+      <alternative source-abbr="sī." source="sri lanka">tatohaṃ</alternative>
+      <alternative source-abbr="syā." source="thai">tatohaṃ</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="130" id="6">
+    <original>rājaputto ahaṃ (sī. syā.)</original>
+    <type>no_match</type>
+    <snippet> pure ramme, rājaputtosahaṃ </snippet>
+    <alternatives>
+      <alternative source-abbr="sī." source="sri lanka">rājaputto ahaṃ</alternative>
+      <alternative source-abbr="syā." source="thai">rājaputto ahaṃ</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="133" id="7">
+    <original>navaṃ (ka.)</original>
+    <type>auto</type>
+    <snippet> bhagavā, vatthaṃ </snippet>
+    <match>vatthaṃ</match>
+    <alternatives>
+      <alternative source-abbr="ka." source="cambodian">navaṃ</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="151" id="8">
+    <original>paṭṭhacarā (syā.)</original>
+    <type>auto</type>
+    <snippet>Tesāhaṃ pavaro āsiṃ, mama baddhacarā </snippet>
+    <match>baddhacarā</match>
+    <alternatives>
+      <alternative source-abbr="syā." source="thai">paṭṭhacarā</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="162" id="9">
+    <original>ekūnasaṭṭhikappamhi (sī. syā.)</original>
+    <type>auto</type>
+    <snippet> ‘‘Ekūnasattatikappe </snippet>
+    <match>Ekūnasattatikappe</match>
+    <alternatives>
+      <alternative source-abbr="sī." source="sri lanka">ekūnasaṭṭhikappamhi</alternative>
+      <alternative source-abbr="syā." source="thai">ekūnasaṭṭhikappamhi</alternative>
+    </alternatives>
+  </note>
+  <note reference-line="178" id="10">
+    <original>pañcaṅguliyidaṃ (sī.)</original>
+    <type>auto</type>
+    <snippet>Duggatiṃ nābhijānāmi, pañcaṅgulissidaṃ </snippet>
+    <match>pañcaṅgulissidaṃ</match>
+    <alternatives>
+      <alternative source-abbr="sī." source="sri lanka">pañcaṅguliyidaṃ</alternative>
+    </alternatives>
+  </note>
+</notes>
