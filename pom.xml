@@ -169,6 +169,7 @@
               <mainClass>org.tipitaka.archive.Main</mainClass>
               <arguments>
                 <argument>NOTES</argument>
+                <argument>--${args}</argument>
               </arguments>
             </configuration>
             <executions>

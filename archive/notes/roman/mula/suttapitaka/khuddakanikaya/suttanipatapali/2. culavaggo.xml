@@ -73,8 +73,6 @@
     <original>abhabbo (bahūsu)</original>
     <type>raw</type>
     <snippet>Abhabba </snippet>
-    <alternatives>
-    </alternatives>
   </note>
   <note reference-line="45" id="8">
     <original>paṭicchādāya (sī.)</original>
@@ -186,8 +184,6 @@
     <original>na macchamaṃsaṃ na anāsakattaṃ (sī. aṭṭha mūlapāṭho), na maṃcchamaṃsānānāsakattaṃ (syā. ka.)</original>
     <type>raw</type>
     <snippet> ‘‘Na macchamaṃsānamanāsakattaṃ </snippet>
-    <alternatives>
-    </alternatives>
   </note>
   <note reference-line="105" id="20">
     <original>sotesu (sī. pī.)</original>
@@ -256,15 +252,11 @@
     <original>attasammāpaṇīdhī (katthaci)</original>
     <type>raw</type>
     <snippet>Attasammāpaṇidhi </snippet>
-    <alternatives>
-    </alternatives>
   </note>
   <note reference-line="156" id="27">
     <original>dhammasavaṇaṃ (katthaci), dhammasavanaṃ (sī. ka.)</original>
     <type>raw</type>
     <snippet>Kālena dhammassavanaṃ </snippet>
-    <alternatives>
-    </alternatives>
   </note>
   <note reference-line="171" id="28">
     <original>yāva jānāmi (sī. pī.)</original>
@@ -297,8 +289,6 @@
     <original>abhinibbajjayātha (sī. pī. a. ni. 8.10)</original>
     <type>raw</type>
     <snippet> samaggā hutvāna, abhinibbajjiyātha </snippet>
-    <alternatives>
-    </alternatives>
   </note>
   <note reference-line="212" id="32">
     <original>kāraṇḍaṃ va (syā. ka.) a. ni. 8.10</original>
@@ -336,8 +326,6 @@
     <original>kapilasuttaṃ (aṭṭha.)</original>
     <type>raw</type>
     <snippet>Dhammacariyasuttaṃ </snippet>
-    <alternatives>
-    </alternatives>
   </note>
   <note reference-line="263" id="36">
     <original>sukhadā ca tā (ka.)</original>
@@ -379,8 +367,6 @@
     <original>nirākatvā (?) yathā anirākatajjhānoti</original>
     <type>raw</type>
     <snippet>Jātivādaṃ niraṃkatvā </snippet>
-    <alternatives>
-    </alternatives>
   </note>
   <note reference-line="344" id="41">
     <original>piyena (sī. syā.)</original>
@@ -434,8 +420,6 @@
     <type>raw</type>
     <snippet> ‘‘Kālena gacche garūnaṃ sakāsaṃ, thambhaṃ niraṃkatvā </snippet>
     <hint>ni + ā + kara + tvā</hint>
-    <alternatives>
-    </alternatives>
   </note>
   <note reference-line="368" id="47">
     <original>sārambha kakkassa kasāva mucchaṃ (syā. pī.)</original>
@@ -459,8 +443,6 @@
     <original>abbūḷhe (syā. pī.), abbuhe (ka. aṭṭha.)</original>
     <type>raw</type>
     <snippet>Appamādena vijjāya, abbahe </snippet>
-    <alternatives>
-    </alternatives>
   </note>
   <note reference-line="396" id="50">
     <original>okkādhāro (syā. ka.)</original>
@@ -476,14 +458,12 @@
     <original>tava (sī. aṭṭha.)</original>
     <type>raw</type>
     <snippet> manussānaṃ, kacci apacito tayā’’ </snippet>
-    <alternatives>
-    </alternatives>
   </note>
   <note reference-line="423" id="52">
     <original>pucchāmi (ka.)</original>
     <type>auto</type>
     <snippet> ‘‘Pucchāma </snippet>
-    <match>‘‘Pucchāma</match>
+    <match>Pucchāma</match>
     <alternatives>
       <alternative source-abbr="ka." source="cambodian">pucchāmi</alternative>
     </alternatives>
@@ -570,8 +550,6 @@
     <original>varāvaraṃ (katthaci)</original>
     <type>raw</type>
     <snippet> ‘‘Parovaraṃ </snippet>
-    <alternatives>
-    </alternatives>
   </note>
   <note reference-line="454" id="62">
     <original>sutassa vassa (syā.)</original>
@@ -585,7 +563,7 @@
     <original>yadatthiyaṃ (pī.), yadatthitaṃ (ka.)</original>
     <type>auto</type>
     <snippet> ‘‘Yadatthikaṃ </snippet>
-    <match>‘‘Yadatthikaṃ</match>
+    <match>Yadatthikaṃ</match>
     <alternatives>
       <alternative source-abbr="pī." source="pali text society">yadatthiyaṃ</alternative>
       <alternative source-abbr="ka." source="cambodian">yadatthitaṃ</alternative>
@@ -595,7 +573,7 @@
     <original>achejji (ka.)</original>
     <type>auto</type>
     <snippet> ‘‘Acchecchi </snippet>
-    <match>‘‘Acchecchi</match>
+    <match>Acchecchi</match>
     <alternatives>
       <alternative source-abbr="ka." source="cambodian">achejji</alternative>
     </alternatives>

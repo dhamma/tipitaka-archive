@@ -206,8 +206,6 @@
     <original>evampi ve (syā.), evaṃ hi me (ka.) jā. 1 asītinipāte</original>
     <type>raw</type>
     <snippet>Evampi ce </snippet>
-    <alternatives>
-    </alternatives>
   </note>
   <note reference-line="276" id="22">
     <original>kupitamānaso (ka.)</original>
@@ -242,8 +240,6 @@
     <original>ma. ni. 2.119</original>
     <type>no_match</type>
     <snippet>‘Tejosamaṃ </snippet>
-    <alternatives>
-    </alternatives>
     <references>
       <reference>ma. ni. 2.119</reference>
     </references>
@@ -272,28 +268,22 @@
     <original>ekagghano (ka.) dha. pa. 81 dhammapade</original>
     <type>raw</type>
     <snippet> yathā ekaghano </snippet>
-    <alternatives>
-    </alternatives>
   </note>
   <note reference-line="317" id="29">
     <original>paccavekkhitvā (sabbattha)</original>
     <type>raw</type>
     <snippet>Sayaṃva paccavekkhāmi </snippet>
-    <alternatives>
-    </alternatives>
   </note>
   <note reference-line="317" id="30">
     <original>ekako (sabbattha)</original>
     <type>raw</type>
     <snippet>, ekaggo </snippet>
-    <alternatives>
-    </alternatives>
   </note>
   <note reference-line="318" id="31">
     <original>rajjasi (sī.), rañjasi (pī.)</original>
     <type>auto</type>
     <snippet>‘‘‘Rajjase </snippet>
-    <match>‘‘‘Rajjase</match>
+    <match>Rajjase</match>
     <alternatives>
       <alternative source-abbr="sī." source="sri lanka">rajjasi</alternative>
       <alternative source-abbr="pī." source="pali text society">rañjasi</alternative>
@@ -332,8 +322,6 @@
     <original>ma. ni. 2.119</original>
     <type>no_match</type>
     <snippet>, mahārāja, yoginā yogāvacarena kule gaṇe lābhe āvāse palibodhe paccaye sabbakilesesu ca sabbattha alaggena bhavitabbaṃ, anāsattena appatiṭṭhitena apalibuddhena bhavitabbaṃ. Idaṃ, mahārāja, ākāsassa pañcamaṃ aṅgaṃ gahetabbaṃ. Bhāsitampetaṃ, mahārāja, bhagavatā devātidevena sakaṃ puttaṃ rāhulaṃ ovadantena – ‘seyyathāpi, rāhula </snippet>
-    <alternatives>
-    </alternatives>
     <references>
       <reference>ma. ni. 2.119</reference>
     </references>
@@ -354,7 +342,7 @@
     <original>suriyassa (sī. syā. pī.)</original>
     <type>auto</type>
     <snippet> ‘‘Bhante nāgasena, ‘sūriyassa </snippet>
-    <match>‘sūriyassa</match>
+    <match>sūriyassa</match>
     <alternatives>
       <alternative source-abbr="sī." source="sri lanka">suriyassa</alternative>
       <alternative source-abbr="syā." source="thai">suriyassa</alternative>
@@ -375,8 +363,6 @@
     <original>bhāvayatī (syā.) dha. pa. 350 dhammapade</original>
     <type>raw</type>
     <snippet>‘‘‘Vitakkūpasame ca yo rato, asubhaṃ bhāvayate </snippet>
-    <alternatives>
-    </alternatives>
   </note>
   <note reference-line="370" id="40">
     <original>vītipatantīti (sī. pī.)</original>
@@ -392,7 +378,7 @@
     <original>undurassa (syā. ka.)</original>
     <type>auto</type>
     <snippet> ‘‘Bhante nāgasena, ‘undūrassa </snippet>
-    <match>‘undūrassa</match>
+    <match>undūrassa</match>
     <alternatives>
       <alternative source-abbr="syā." source="thai">undurassa</alternative>
       <alternative source-abbr="ka." source="cambodian">undurassa</alternative>
@@ -402,7 +388,7 @@
     <original>dhammasīsaṃ (sī. pī.)</original>
     <type>auto</type>
     <snippet>‘‘‘Dhammāsīsaṃ </snippet>
-    <match>‘‘‘Dhammāsīsaṃ</match>
+    <match>Dhammāsīsaṃ</match>
     <alternatives>
       <alternative source-abbr="sī." source="sri lanka">dhammasīsaṃ</alternative>
       <alternative source-abbr="pī." source="pali text society">dhammasīsaṃ</alternative>
@@ -489,7 +475,7 @@
     <original>kāyena (ka.)</original>
     <type>auto</type>
     <snippet>‘‘‘Kāye </snippet>
-    <match>‘‘‘Kāye</match>
+    <match>Kāye</match>
     <alternatives>
       <alternative source-abbr="ka." source="cambodian">kāyena</alternative>
     </alternatives>
@@ -553,7 +539,7 @@
     <original>yamekarattiṃ (sī. pī.)</original>
     <type>auto</type>
     <snippet>‘‘‘Mayekarattaṃ </snippet>
-    <match>‘‘‘Mayekarattaṃ</match>
+    <match>Mayekarattaṃ</match>
     <alternatives>
       <alternative source-abbr="sī." source="sri lanka">yamekarattiṃ</alternative>
       <alternative source-abbr="pī." source="pali text society">yamekarattiṃ</alternative>
@@ -583,7 +569,7 @@
     <original>cittakathalakummassa (sī. pī.)</original>
     <type>auto</type>
     <snippet> nāgasena, ‘cittakadharakummassa </snippet>
-    <match>‘cittakadharakummassa</match>
+    <match>cittakadharakummassa</match>
     <alternatives>
       <alternative source-abbr="sī." source="sri lanka">cittakathalakummassa</alternative>
       <alternative source-abbr="pī." source="pali text society">cittakathalakummassa</alternative>
@@ -638,7 +624,7 @@
     <original>kāḷahaṃsassa (ka.)</original>
     <type>auto</type>
     <snippet> ‘‘Bhante nāgasena, ‘kāḷāyasassa </snippet>
-    <match>‘kāḷāyasassa</match>
+    <match>kāḷāyasassa</match>
     <alternatives>
       <alternative source-abbr="ka." source="cambodian">kāḷahaṃsassa</alternative>
     </alternatives>
@@ -704,8 +690,6 @@
     <original>ito paraṃ rājaṅgapañhādikā aṭṭhatiṃsa pañhā vinaṭṭhā, yehi tā diṭṭhā,§tehi no ārocetabbā puna muddāpanakāle pakkhipanatthāyāti (na, bu, sa)</original>
     <type>raw</type>
     <snippet>Kumbhavaggo sattamo </snippet>
-    <alternatives>
-    </alternatives>
   </note>
   <note reference-line="667" id="75">
     <original>so va (pī.)</original>
@@ -728,7 +712,5 @@
     <original>pūjiyanti (pī.) ito paraṃ tisso gāthāyo sī. pī. potthakesu natthi</original>
     <type>raw</type>
     <snippet>Paññavantaṃbhipūjeyya, cetiyaṃ viya sādaro’’ti </snippet>
-    <alternatives>
-    </alternatives>
   </note>
 </notes>

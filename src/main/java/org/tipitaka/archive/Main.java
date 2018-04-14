@@ -12,7 +12,7 @@ public class Main {
   }
 
   public static void main(String... args) throws Exception {
-    if( args.length != 1){
+    if( args.length == 0){
       showHelp();
     }
     switch(Command.valueOf(args[0])) {
@@ -31,7 +31,8 @@ public class Main {
   private static void notes(String... args) throws Exception {
     NotesCreator creator = new NotesCreator();
     File path = new File("archive/notes");
-    creator.create(path);
+    boolean interactive = args.length == 2 && args[1].contains("interactive");
+    creator.create(path, interactive);
   }
 
   private static void showHelp() {

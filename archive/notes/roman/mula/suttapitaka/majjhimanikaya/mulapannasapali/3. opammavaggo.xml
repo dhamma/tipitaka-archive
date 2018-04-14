@@ -74,8 +74,6 @@
     <snippet> – ‘he je, kāḷī’ti. ‘Kiṃ, ayye’ti? ‘Kiṃ, je, divā uṭṭhāsī’ti? ‘Na khvayye, kiñcī’ti. ‘No vata re kiñci, pāpi dāsi, divā uṭṭhāsī’ti kupitā anattamanā aggaḷasūciṃ gahetvā sīse pahāraṃ adāsi, sīsaṃ vobhindi </snippet>
     <hint>vi + ava + bhindi = vobhindi</hint>
     <match>vobhindi</match>
-    <alternatives>
-    </alternatives>
   </note>
   <note reference-line="18" id="8">
     <original>dhammaṃ yeva sakkaronto dhammaṃ garukaronto dhammaṃ apacāyamāno (sī. syā. pī.)</original>
@@ -91,8 +89,6 @@
     <original>abyāpajjhena (sī. syā. pī.), abyāpajjena (ka.) aṅguttaratikanipātaṭīkā oloketabbā</original>
     <type>raw</type>
     <snippet>; mettacittā vā, bhikkhave, pare vadamānā vadeyyuṃ dosantarā vā. Tatrāpi vo, bhikkhave, evaṃ sikkhitabbaṃ – ‘na ceva no cittaṃ vipariṇataṃ bhavissati, na ca pāpikaṃ vācaṃ nicchāressāma, hitānukampī ca viharissāma mettacittā, na dosantarā. Tañca puggalaṃ mettāsahagatena cetasā pharitvā viharissāma, tadārammaṇañca sabbāvantaṃ lokaṃ mettāsahagatena cittena vipulena mahaggatena appamāṇena averena abyābajjhena </snippet>
-    <alternatives>
-    </alternatives>
   </note>
   <note reference-line="20" id="10">
     <original>kuddālapiṭakaṃ (sī. syā. pī.)</original>
@@ -131,7 +127,7 @@
     <original>imañce (?)</original>
     <type>auto</type>
     <snippet> ‘‘Imañca </snippet>
-    <match>‘‘Imañca</match>
+    <match>Imañca</match>
     <alternatives>
       <alternative source-abbr="?" source="unknown">imañce</alternative>
     </alternatives>
@@ -149,8 +145,6 @@
     <original>evaṃ kho (?) bhagavato sammukhāyevassa ‘‘evaṃbyākho’’ti</original>
     <type>raw</type>
     <snippet> evarūpaṃ pāpakaṃ diṭṭhigataṃ uppannaṃ hoti – ‘‘tathāhaṃ bhagavatā dhammaṃ desitaṃ ājānāmi yathā yeme antarāyikā dhammā vuttā bhagavatā te paṭisevato nālaṃ antarāyāyā’’ti. Assosuṃ kho sambahulā bhikkhū – ‘‘ariṭṭhassa kira nāma bhikkhuno gaddhabādhipubbassa evarūpaṃ pāpakaṃ diṭṭhigataṃ uppannaṃ – ‘tathāhaṃ bhagavatā dhammaṃ desitaṃ ājānāmi yathā yeme antarāyikā dhammā vuttā bhagavatā te paṭisevato nālaṃ antarāyāyā’’’ti. Atha kho te bhikkhū yena ariṭṭho bhikkhu gaddhabādhipubbo tenupasaṅkamiṃsu; upasaṅkamitvā ariṭṭhaṃ bhikkhuṃ gaddhabādhipubbaṃ etadavocuṃ – ‘‘saccaṃ kira te, āvuso ariṭṭha, evarūpaṃ pāpakaṃ diṭṭhigataṃ uppannaṃ – ‘tathāhaṃ bhagavatā dhammaṃ desitaṃ ājānāmi yathā yeme antarāyikā dhammā vuttā bhagavatā te paṭisevato nālaṃ antarāyāyā’’’ti. ‘‘Evaṃbyākho </snippet>
-    <alternatives>
-    </alternatives>
   </note>
   <note reference-line="30" id="16">
     <original>samanuggāhanti (syā.)</original>
@@ -174,21 +168,17 @@
     <original>samanuggāhiyamāno (syā. vinayepi)</original>
     <type>raw</type>
     <snippet> tehi bhikkhūhi samanuyuñjiyamāno samanugāhiyamāno </snippet>
-    <alternatives>
-    </alternatives>
   </note>
   <note reference-line="30" id="19">
     <original>tatheva taṃ (vinaye)</original>
     <type>raw</type>
     <snippet> samanubhāsiyamāno tadeva </snippet>
-    <alternatives>
-    </alternatives>
   </note>
   <note reference-line="35" id="20">
     <original>kiṃti (ka.)</original>
     <type>auto</type>
     <snippet> kho bhagavā bhikkhū āmantesi – ‘‘taṃ kiṃ maññatha, bhikkhave, api nāyaṃ ariṭṭho bhikkhu gaddhabādhipubbo usmīkatopi imasmiṃ dhammavinaye’’ti? ‘‘Kiñhi </snippet>
-    <match>‘‘Kiñhi</match>
+    <match>Kiñhi</match>
     <alternatives>
       <alternative source-abbr="ka." source="cambodian">kiṃti</alternative>
     </alternatives>
@@ -253,7 +243,7 @@
     <original>tañca (ka.)</original>
     <type>auto</type>
     <snippet> ‘‘Taṃ </snippet>
-    <match>‘‘Taṃ</match>
+    <match>Taṃ</match>
     <alternatives>
       <alternative source-abbr="ka." source="cambodian">tañca</alternative>
     </alternatives>
@@ -327,15 +317,11 @@
     <original>tattha no (ka.) tattha + imeti padacchedo</original>
     <type>raw</type>
     <snippet> kareyyuṃ māneyyuṃ pūjeyyuṃ, tatra tumhākaṃ evamassa – ‘yaṃ kho idaṃ pubbe pariññātaṃ, tattha me </snippet>
-    <alternatives>
-    </alternatives>
   </note>
   <note reference-line="82" id="36">
     <original>vammīko (katthaci) sakkatānurūpaṃ</original>
     <type>raw</type>
     <snippet> bhikkhu, ayaṃ vammiko </snippet>
-    <alternatives>
-    </alternatives>
   </note>
   <note reference-line="82" id="37">
     <original>paṅkavāraṃ (syā.), caṅkavāraṃ (ka.)</original>
@@ -371,8 +357,6 @@
     <original>( ) natthi (sī. syā.)</original>
     <type>raw</type>
     <snippet> ārabbha rattiṃ anuvitakketi anuvicāreti – ayaṃ rattiṃ dhūmāyanā. Yaṃ kho, bhikkhu, rattiṃ anuvitakketvā anuvicāretvā divā kammante payojeti kāyena vācāya ‘manasā’ </snippet>
-    <alternatives>
-    </alternatives>
   </note>
   <note reference-line="102" id="41">
     <original>samāgamaṃ gaccheyya (ka.)</original>
@@ -386,8 +370,6 @@
     <original>paññāpessa (sī. syā.) evamaññatthapi</original>
     <type>raw</type>
     <snippet> ce, āvuso, bhagavā anupādāparinibbānaṃ paññapeyya, saupādānaṃyeva samānaṃ anupādāparinibbānaṃ paññapeyya </snippet>
-    <alternatives>
-    </alternatives>
   </note>
   <note reference-line="144" id="43">
     <original>uppajjati (ka.)</original>
@@ -468,8 +450,6 @@
     <original>( ) natthi (sī. syā. pī.)</original>
     <type>raw</type>
     <snippet> sacchikatvā upasampajja pavedemi. Iti yāhaṃ dhammaṃ jānāmi taṃ tvaṃ dhammaṃ jānāsi, yaṃ tvaṃ dhammaṃ jānāsi tamahaṃ dhammaṃ jānāmi. Iti yādiso ahaṃ tādiso tuvaṃ, yādiso tuvaṃ tādiso ahaṃ. Ehi dāni, āvuso, ubhova santā imaṃ gaṇaṃ pariharāmā’ti. Iti kho, bhikkhave, āḷāro kālāmo ācariyo me samāno (attano) </snippet>
-    <alternatives>
-    </alternatives>
   </note>
   <note reference-line="201" id="52">
     <original>attano (sī. pī.)</original>
@@ -496,8 +476,6 @@
     <original>āvuso rāma (sī. syā. ka.) mahāsatto rāmaputtameva avoca, na rāmaṃ, rāmo hi tattha gaṇācariyo bhaveyya, tadā ca kālaṅkato asanto. tenevettha rāmāyattāni kriyapadāni atītakālavasena āgatāni, udako ca rāmaputto mahāsattassa sabrahmacārītveva vutto, na ācariyoti. ṭīkāyaṃ ca ‘‘pāḷiyaṃ rāmasseva samāpattilābhitā āgatā na udakassā’’ti ādi pacchābhāge pakāsitā</original>
     <type>raw</type>
     <snippet> rāmaputto tenupasaṅkamiṃ; upasaṅkamitvā udakaṃ rāmaputtaṃ etadavocaṃ – ‘icchāmahaṃ, āvuso </snippet>
-    <alternatives>
-    </alternatives>
   </note>
   <note reference-line="209" id="55">
     <original>sāmantā (?)</original>
@@ -625,7 +603,7 @@
     <original>huveyyapāvuso (sī. pī.), huveyyāvuso (syā.)</original>
     <type>auto</type>
     <snippet> vutte, bhikkhave, upako ājīvako ‘hupeyyapāvuso’ti </snippet>
-    <match>‘hupeyyapāvuso’ti</match>
+    <match>hupeyyapāvuso’ti</match>
     <alternatives>
       <alternative source-abbr="sī." source="sri lanka">huveyyapāvuso</alternative>
       <alternative source-abbr="pī." source="pali text society">huveyyapāvuso</alternative>
@@ -636,15 +614,11 @@
     <original>aññamaññaṃ katikaṃ saṇṭhapesuṃ (vinayapiṭake mahāvagge)</original>
     <type>raw</type>
     <snippet> ‘‘Atha khvāhaṃ, bhikkhave, anupubbena cārikaṃ caramāno yena bārāṇasī isipatanaṃ migadāyo yena pañcavaggiyā bhikkhū tenupasaṅkamiṃ. Addasaṃsu kho maṃ, bhikkhave, pañcavaggiyā bhikkhū dūrato āgacchantaṃ. Disvāna aññamaññaṃ saṇṭhapesuṃ </snippet>
-    <alternatives>
-    </alternatives>
   </note>
   <note reference-line="253" id="69">
     <original>bāhuliko (sī. pī.) sāratthadīpanīṭīkāya sameti</original>
     <type>raw</type>
     <snippet> – ‘ayaṃ kho, āvuso, samaṇo gotamo āgacchati bāhulliko </snippet>
-    <alternatives>
-    </alternatives>
   </note>
   <note reference-line="254" id="70">
     <original>samudācarittha (sī. syā. pī.)</original>
@@ -661,8 +635,6 @@
     <original>bhāsitametanti (sī. syā. vinayepi)</original>
     <type>raw</type>
     <snippet>‘‘Evaṃ vutte, ahaṃ, bhikkhave, pañcavaggiye bhikkhū etadavocaṃ – ‘abhijānātha me no tumhe, bhikkhave, ito pubbe evarūpaṃ pabhāvitameta’nti </snippet>
-    <alternatives>
-    </alternatives>
   </note>
   <note reference-line="256" id="72">
     <original>chabbaggā (sī. syā.)</original>
@@ -714,8 +686,6 @@
     <type>raw</type>
     <snippet> ‘‘Katamāni cattāri? Idhāhaṃ, bho, passāmi ekacce khattiyapaṇḍite nipuṇe kataparappavāde vālavedhirūpe, te bhindantā </snippet>
     <hint>vi + ava + bhindantā</hint>
-    <alternatives>
-    </alternatives>
   </note>
   <note reference-line="282" id="78">
     <original>kutassa (sī. syā. pī.)</original>
@@ -759,15 +729,11 @@
     <original>imassa anantaraṃ ‘‘so iminā ariyena sīlakkhandhena samannāgato ajjhattaṃ anavajjasukhaṃ paṭisaṃvedetī’’ti vacanaṃ dīghanikāye āgataṃ, taṃ idha santosakathāvasāne āgataṃ, sā ca santosakathā tattha satisampajaññānantarameva āgatā</original>
     <type>raw</type>
     <snippet> paṭivirato hoti </snippet>
-    <alternatives>
-    </alternatives>
   </note>
   <note reference-line="302" id="83">
     <original>( ) etthantare pāṭho idha nadissati, catukkaṅguttare pana imasmiṃ ṭhāne dissati, aṭṭhakathāṭīkāsu ca tadattho pakāsito. tasmā so ettha paṭīpūrito</original>
     <type>raw</type>
     <snippet> ‘‘So iminā ca ariyena sīlakkhandhena samannāgato, (imāya ca ariyāya santuṭṭhiyā samannāgato) </snippet>
-    <alternatives>
-    </alternatives>
   </note>
   <note reference-line="319" id="84">
     <original>pathavīdhātu pakuppati (ka.)</original>

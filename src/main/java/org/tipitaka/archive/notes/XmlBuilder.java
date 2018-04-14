@@ -123,8 +123,10 @@ public class XmlBuilder {
         tag("snippet", note.snippet);
         tag("hint", note.hint);
         tag("match", note.match);
-        nestedTag("alternatives",
-                  () -> note.alternatives.forEach(alt -> build(alt)));
+        if (!note.alternatives.isEmpty()) {
+          nestedTag("alternatives",
+                    () -> note.alternatives.forEach(alt -> build(alt)));
+        }
         if (note.references != null) {
             nestedTag("references",
                       () -> note.references.forEach(ref -> tag("reference", ref)));

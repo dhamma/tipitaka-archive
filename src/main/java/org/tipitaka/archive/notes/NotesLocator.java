@@ -2,10 +2,12 @@ package org.tipitaka.archive.notes;
 
 import java.io.File;
 import java.io.FileReader;
+import java.io.FileNotFoundException;
 import java.io.IOException;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.dataformat.xml.XmlMapper;
+import com.fasterxml.jackson.databind.JsonMappingException;
 
 public class NotesLocator
 {
@@ -23,12 +25,13 @@ public class NotesLocator
     try {
       return MAPPER.readValue(new FileReader(toFile(path)), Notes.class);
     }
-    catch(IOException e) {
-      // this is happens if the file does not exists or has no nodes
-      // where the parsing fails as there are no nested 'note' elements
+    catch(FileNotFoundException e) {
       Notes notes = new Notes();
       notes.archivePath = path;
       return notes;
+    }
+    catch(JsonMappingException e) {
+      throw new IOException(toFile(path) + "\n" + e.getMessage(), e);
     }
   }
 }

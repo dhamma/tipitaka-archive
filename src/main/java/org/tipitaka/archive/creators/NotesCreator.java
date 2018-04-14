@@ -30,52 +30,70 @@ import org.tipitaka.archive.StandardException;
 
 public class NotesCreator {
 
-    private final ModelIterator model;
-    private final String sourceUrl;
-    private final Visitor visitor;
+  private final ModelIterator model;
+  private final String sourceUrl;
+  private final Visitor visitor;
 
-    public NotesCreator() throws IOException, StandardException {
-        this(TipitakaOrgTocVisitor.mirror());
+  public NotesCreator() throws IOException, StandardException {
+    this(TipitakaOrgTocVisitor.mirror());
+  }
+
+  public NotesCreator(final TipitakaOrgTocVisitor tocVisitor) throws IOException, StandardException {
+    this.model = new ModelIterator(tocVisitor);
+    this.sourceUrl = tocVisitor.getBaseUrl() + "/romn";
+    this.visitor = new Visitor();
+  }
+
+  public void create(final File path) throws IOException {
+    create(path, false);
+  }
+
+  public void create(final File path, boolean interactive) throws IOException {
+    path.mkdirs();
+    final File base = new File(path, Script.roman.name());
+    base.mkdir();
+    model.eachFolder(folder -> { buildFolder(base, folder); });
+    new DocumentBuilder(interactive).build(model, base);
+  }
+
+  private void buildFolder(final File base, final Folder folder) throws IOException {
+    File fpath = path(base, folder);
+    fpath.mkdir();
+  }
+
+  private File path(final File base, final Folder folder) {
+    if (folder.getPath() != null) {
+      return new File(base, folder.getPath());
+    }
+    return base;
+  }
+
+  private class DocumentBuilder {
+
+    private boolean interactive;
+
+    private DocumentBuilder(final boolean interactive) {
+      this.interactive = interactive;
     }
 
-    public NotesCreator(TipitakaOrgTocVisitor tocVisitor) throws IOException, StandardException {
-        this.model = new ModelIterator(tocVisitor);
-        this.sourceUrl = tocVisitor.getBaseUrl() + "/romn";
-        this.visitor = new Visitor();
-    }
-
-    public void create(final File path) throws IOException {
-        path.mkdirs();
-        final File base = new File(path, Script.roman.name());
-        base.mkdir();
-        model.eachFolder(folder -> { buildFolder(base, folder); });
-        model.eachDocument(doc -> { buildDocument(base, doc); });
-    }
-
-    private void buildFolder(final File base, final Folder folder) throws IOException {
-        File fpath = path(base, folder);
-        fpath.mkdir();
+    private void build(final ModelIterator model, final File base) throws IOException {
+      model.eachDocument(doc -> { buildDocument(base, doc); });
     }
 
     private void buildDocument(final File base, final Document doc) throws IOException {
-        File file = new File(base, doc.getPath() + ".xml");
-        String source = sourceUrl + "/" + doc.getNormativeSource();
+      File file = new File(base, doc.getPath() + ".xml");
+      String source = sourceUrl + "/" + doc.getNormativeSource();
 
-        Notes notes = NotesLocator.toNotes(doc.getPath());
-        NotesBuilder builder = new NotesBuilder(notes);
-        visitor.accept(builder, source, doc);
-        Notes newNotes = builder.get();
-        if (!newNotes.isEmpty()) {
-          try (Writer writer = new FileWriter(file)) {
-            new XmlBuilder(writer).build(newNotes);
-          }
+      Notes notes = NotesLocator.toNotes(doc.getPath());
+      NotesBuilder builder = new NotesBuilder(notes, interactive);
+      visitor.accept(builder, source, doc);
+      Notes newNotes = builder.get();
+      if (!newNotes.isEmpty()) {
+        try (Writer writer = new FileWriter(file)) {
+          new XmlBuilder(writer).build(newNotes);
         }
+      }
+      this.interactive = builder.isInteractive();
     }
-
-    private File path(final File base, final Folder folder) {
-        if (folder.getPath() != null) {
-            return new File(base, folder.getPath());
-        }
-        return base;
-    }
+  }
 }

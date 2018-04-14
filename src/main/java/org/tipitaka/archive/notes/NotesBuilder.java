@@ -8,6 +8,7 @@ import java.io.OutputStreamWriter;
 import java.io.Writer;
 import java.util.LinkedList;
 import java.util.List;
+import java.util.Scanner;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
@@ -33,11 +34,19 @@ public class NotesBuilder extends NoopBuilder
 
   private final Notes oldNotes;
   private final Notes newNotes;
+  private final Scanner scanner;
   private Note note;
+  private boolean interactive;
 
-  public NotesBuilder(Notes notes) {
+  public NotesBuilder(final Notes notes, final boolean interactive) {
+    this.interactive = interactive;
     this.oldNotes = notes;
     this.newNotes = new Notes();
+    this.scanner = new Scanner(System.in);
+  }
+
+  public boolean isInteractive() {
+    return this.interactive;
   }
 
   public Notes get() {
@@ -45,7 +54,7 @@ public class NotesBuilder extends NoopBuilder
   }
 
   @Override
-  public void paraStart(String name, String number) throws IOException {
+  public void paraStart(final String name, final String number) throws IOException {
     state.nextLineNumber();
   }
 
@@ -70,7 +79,7 @@ public class NotesBuilder extends NoopBuilder
     this.note = null;
   }
 
-  private boolean hint(String text, String previous) throws IOException {
+  private boolean hint(final String text, final String previous) throws IOException {
     Matcher matcher = HINT.matcher(text);
     if (matcher.matches()) {
       String hint = matcher.group(1);
@@ -87,7 +96,7 @@ public class NotesBuilder extends NoopBuilder
     return false;
   }
 
-  private boolean alternative(String item) throws IOException {
+  private boolean alternative(final String item) throws IOException {
     String text = item.replaceFirst("\\(.*", "").trim();
     Matcher matcher = VERSIONS.matcher(item.replaceFirst(".*\\(", "("));
     while(matcher.find()) {
@@ -100,7 +109,7 @@ public class NotesBuilder extends NoopBuilder
     return !text.contains(" ");
   }
 
-  private boolean alternatives(String text, String previous) throws IOException {
+  private boolean alternatives(final String text, final String previous) throws IOException {
     Matcher matcher = ALTERNATIVE.matcher(text);
     List<String> found = new LinkedList<String>();
     int end = 0;
@@ -120,7 +129,7 @@ public class NotesBuilder extends NoopBuilder
         single &= alternative(item);
       }
       if (single) {
-        String match = previous.trim().replaceFirst(".*\\ ", "");
+        String match = previous.trim().replaceFirst(".*(\\ |‘)", "");
         this.note.match = match;
       }
       return true;
@@ -128,7 +137,7 @@ public class NotesBuilder extends NoopBuilder
     return false;
   }
 
-  private boolean references(String text) throws IOException {
+  private boolean references(final String text) throws IOException {
     Matcher matcher = REFERENCES.matcher(text);
     List<String> found = new LinkedList<String>();
     int end = 0;
@@ -146,7 +155,7 @@ public class NotesBuilder extends NoopBuilder
   }
 
   @Override
-  public void text(String text) throws IOException {
+  public void text(final String text) throws IOException {
     if (NOTE.equals(state.peek())) {
       String previous = state.getPreviousText();
       this.note.original = text;
@@ -164,26 +173,61 @@ public class NotesBuilder extends NoopBuilder
         //}
       }
 
-      if (this.note.type == Type.auto) {
+      switch(this.note.type) {
+      case raw:
+        System.err.println("[WARN] (create.raw) " + text);
+        break;
+      case auto:
         Note oldNote = oldNotes.get(this.note.id);
         if (oldNote != null) {
-          if (oldNote.type == Type.manual) {
-            this.note.type = Type.manual;
+          switch(oldNote.type) {
+          case manual:
             this.note.match = oldNote.match;
-          }
-          else if (oldNote.type == Type.confirmed) {
-            this.note.type = Type.confirmed;
+          case confirmed:
+          case broken:
+            this.note.type = oldNote.type;
+            break;
+          default:
           }
         }
         if (this.note.match == null) {
           this.note.type = Type.no_match;
         }
       }
-      if (this.note.type == Type.raw) {
-        System.err.println("[WARN] (create.raw) " + text);
-      }
-      else if (this.note.type == Type.auto) {
-        System.err.println("[WARN] (create.match) " + this.note.match + " <> " + this.note.original + "\n\t" + this.note.snippet);
+
+      if (this.note.type == Type.auto) {
+        if (interactive) {
+          System.out.println("match   : " + this.note.match);
+          System.out.println("original: " + this.note.original);
+          System.out.println("snippet : " + this.note.snippet);
+          System.out.print("change type " + this.note.type.name() + ": ");
+          System.out.flush();
+          String input = scanner.nextLine();
+          switch(input) {
+          case "q":
+            interactive = false;
+            break;
+          case "c":
+          case "confirmed":
+            this.note.type = Type.confirmed;
+            break;
+          case "b":
+          case "broken":
+            this.note.type = Type.broken;
+            break;
+          case "":
+          case "s":
+          case "skip":
+            break;
+          default:
+            this.note.match = input;
+            this.note.type = Type.manual;
+            break;
+          }
+        }
+        else {
+          System.err.println("[WARN] (create.match) " + this.note.match + " <> " + this.note.original + "\n\t" + this.note.snippet);
+        }
       }
     }
     else {
