@@ -1,10 +1,12 @@
 package org.tipitaka.archive.notes;
 
 import java.util.Collections;
+import java.util.HashSet;
 import java.util.LinkedHashMap;
 import java.util.LinkedList;
 import java.util.List;
 import java.util.Map;
+import java.util.Set;
 
 import com.fasterxml.jackson.dataformat.xml.annotation.JacksonXmlProperty;
 import com.fasterxml.jackson.dataformat.xml.annotation.JacksonXmlText;
@@ -25,7 +27,7 @@ public class Notes
   public List<Note> notes = new LinkedList<>();
 
   @JsonIgnore
-  Map<String, String> versions = new LinkedHashMap<>();
+  private Set<Version> versions = new HashSet<>();
 
   @JacksonXmlProperty(localName = "note")
   public void addNote(Note note) {
@@ -35,7 +37,7 @@ public class Notes
     this.notes.add(note);
     if (note.alternatives != null) {
       for (Alternative alt: note.alternatives) {
-        versions.putIfAbsent(alt.sourceAbbreviation, alt.source);
+        versions.add(alt.getVersion());
       }
     }
     List<Note> notes = perLine.get(note.referenceLine);
@@ -46,8 +48,8 @@ public class Notes
     notes.add(note);
   }
 
-  public Map<String, String> getVersions(){
-    return Collections.unmodifiableMap(versions);
+  public List<Version> getVersions(){
+    return new LinkedList(versions);
   }
 
   public Note get(final int id) {

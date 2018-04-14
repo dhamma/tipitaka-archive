@@ -18,11 +18,13 @@ import java.util.LinkedHashMap;
 import java.util.List;
 import java.util.Map;
 import java.util.Set;
+import java.util.TreeSet;
 import java.util.stream.Collectors;
 import org.tipitaka.archive.model.*;
 
 import org.tipitaka.archive.notes.Notes;
 import org.tipitaka.archive.notes.NotesLocator;
+import org.tipitaka.archive.notes.Version;
 
 import org.tipitaka.archive.StandardException;
 
@@ -35,17 +37,39 @@ public class ModelIterator {
 
   private final DirectoryStructure directory;
   private final Map<String, Menu> menus;
+  private final Map<String, Set<String>> versions;
 
   public ModelIterator() throws IOException, StandardException {
     this(TipitakaOrgTocVisitor.mirror());
   }
 
-  public ModelIterator(TipitakaOrgTocVisitor visitortocVisitor) throws IOException, StandardException {
+  public ModelIterator(final TipitakaOrgTocVisitor visitortocVisitor) throws IOException, StandardException {
     this.directory = new DirectoryStructure(visitortocVisitor);
     this.menus = new HashMap<String, Menu>();
+    this.versions = new HashMap<String, Set<String>>();
+    collectVersions();
   }
 
-  public void eachMenu(Action<Menu> action) throws IOException {
+  private void collectVersions() throws IOException {
+    for (Node node: this.directory.nodes) {
+      if (node.normativePath() != null) {
+        String path = node.path();
+        Set<String> versions = new TreeSet(getVersions(node));
+        this.versions.put(path, versions);
+        addVersions(path.replaceFirst("/[^/]+$", ""), versions);
+      }
+    }
+  }
+
+  private void addVersions(final String path, Set<String> versions) {
+    this.versions.putIfAbsent(path, new TreeSet<String>());
+    this.versions.get(path).addAll(versions);
+    if (path.length() > 0) {
+      addVersions(path.replaceFirst("/[^/]+$", ""), versions);
+    }
+  }
+
+  public void eachMenu(final Action<Menu> action) throws IOException {
     for (Node node: directory.nodes) {
       buildMenus(node);
     }
@@ -54,19 +78,20 @@ public class ModelIterator {
     }
   }
 
-  public void eachFolder(Action<Folder> action) throws IOException {
+  public void eachFolder(final Action<Folder> action) throws IOException {
     visitFolders(action, directory.root);
   }
 
-  public void eachDocument(Action<Document> action) throws IOException {
+  public void eachDocument(final Action<Document> action) throws IOException {
     for (Node node: directory.nodes) {
       Document doc = buildDocument(node);
       if (doc != null) action.act(doc);
     }
   }
 
-  private void visitFolders(Action<Folder> action, Node node) throws IOException {
+  private void visitFolders(final Action<Folder> action, final Node node) throws IOException {
     Folder folder = buildFolder(node);
+
     if (folder != null) action.act(folder);
     if (node.children != null) {
       for (Node child: node.children.values()) {
@@ -75,33 +100,38 @@ public class ModelIterator {
     }
   }
 
-  private Folder buildFolder(Node node) {
+  private Folder buildFolder(final Node node) {
     if (node.normativePath() == null) {
-      return new Folder(node.path(), Script.roman, null, BASE_URL, node.titlePath(), buildMenus(node));
+      return new Folder(node.path(), Script.roman, null, BASE_URL, node.titlePath(), new LinkedList<String>(this.versions.get(node.path())), buildMenus(node));
     }
     else {
       return null;
     }
   }
 
-  private Document buildDocument(Node node) throws IOException {
+  private Document buildDocument(final Node node) throws IOException {
     if (node.normativePath() == null) {
       return null;
     }
     else {
-      Notes notes = NotesLocator.toNotes(node.path());
-      if (!notes.getVersions().isEmpty()) System.out.println(node.normativePath() + " " + notes.getVersions());
-      return new Document(node.path(), Script.roman, null, BASE_URL, node.titlePath(), node.normativePath(), "/roman" + node.path() + ".xml", Collections.emptyList(), buildMenus(node.parent));
+      return new Document(node.path(), Script.roman, null, BASE_URL, node.titlePath(), node.normativePath(), "/roman" + node.path() + ".xml", getVersions(node), buildMenus(node.parent));
     }
   }
 
-  private List<Menu> buildMenus(Node node) {
+  private List<String> getVersions(final Node node) throws IOException {
+      final Notes notes = NotesLocator.toNotes(node.path());
+      final List<String> versions = notes.getVersions().stream().map(v -> v.name()).collect(Collectors.toList());
+      versions.add(Version.VIPASSANA_RESEARCH_INSTITUT.name());
+      return versions;
+  }
+
+  private List<Menu> buildMenus(final Node node) {
     LinkedList<Menu> menus = new LinkedList<Menu>();
     addMenu(node, menus);
     return menus;
   }
 
-  private void addMenu(Node node, LinkedList<Menu> menus) {
+  private void addMenu(final Node node, final LinkedList<Menu> menus) {
     Menu menu = getOrBuild(node);
     menus.addFirst(menu);
     if (node.parent != null) {
@@ -109,7 +139,7 @@ public class ModelIterator {
     }
   }
 
-  private Menu getOrBuild(Node node) {
+  private Menu getOrBuild(final Node node) {
     Menu menu;
     String path = node.path();
     if (this.menus.containsKey(path)) {
@@ -122,7 +152,7 @@ public class ModelIterator {
     return menu;
   }
 
-  private Menu buildMenu(Node node) {
+  private Menu buildMenu(final Node node) {
     if (node.children == null) return null;
     Map<String, String> items = new LinkedHashMap<String, String>();
     for(Map.Entry<String, Node> entry: node.children.entrySet()) {

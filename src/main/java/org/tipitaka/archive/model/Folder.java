@@ -10,17 +10,23 @@ import java.util.Map;
 public class Folder extends ExtendedBase {
 
     private final List<Menu> menus;
+    private final List<String> versions;
 
-    public Folder(String path, Script script, String version, String baseUrl, List<String> titlePath, Menu... menus) {
-        this(path, script, version, baseUrl, titlePath, Arrays.asList(menus));
+    public Folder(String path, Script script, String version, String baseUrl, List<String> titlePath, List<String> versions, Menu... menus) {
+        this(path, script, version, baseUrl, titlePath, versions, Arrays.asList(menus));
     }
 
-    public Folder(String path, Script script, String version, String baseUrl, List<String> titlePath, List<Menu> menus) {
+    public Folder(String path, Script script, String version, String baseUrl, List<String> titlePath, List<String> versions, List<Menu> menus) {
         super(path, script, version, baseUrl, titlePath);
         this.menus = menus;
+        this.versions = versions;
     }
 
     public List<Menu> getMenus() {
         return menus;
+    }
+
+    public List<String> getVersions() {
+        return versions;
     }
 }

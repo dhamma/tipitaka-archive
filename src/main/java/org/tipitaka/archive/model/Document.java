@@ -11,7 +11,6 @@ import java.util.List;
 public class Document extends Folder {
     private final String normativeSource;
     private final String source;
-    private final List<String> versions;
 
     @JsonCreator
     public Document(String path, Script script, String version,
@@ -26,10 +25,9 @@ public class Document extends Folder {
                     String baseUrl, List<String> titlePath,
                     String normativeSource, String source,
                     List<String> versions, List<Menu> menus) {
-        super(path, script, version, baseUrl, titlePath, menus);
+        super(path, script, version, baseUrl, titlePath, versions, menus);
         this.normativeSource = normativeSource;
         this.source = source;
-        this.versions = versions;
     }
 
     public String getNormativeSource() {
@@ -38,10 +36,6 @@ public class Document extends Folder {
 
     public String getSource() {
         return source;
-    }
-
-    public List<String> getVersions() {
-        return versions;
     }
 
     public String toString() {

@@ -99,7 +99,10 @@ public class NotesBuilder extends NoopBuilder
   private boolean alternative(final String item) throws IOException {
     String text = item.replaceFirst("\\(.*", "").trim();
     Matcher matcher = VERSIONS.matcher(item.replaceFirst(".*\\(", "("));
+    System.out.println("=====" + item);
     while(matcher.find()) {
+
+    System.out.println("=====" + matcher.group(1));
       Version version = Version.toVersion(matcher.group(1));
       Alternative alt = new Alternative();
       alt.setVersion(version);

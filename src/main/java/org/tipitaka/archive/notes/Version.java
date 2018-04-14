@@ -30,7 +30,7 @@ public enum Version {
     if (name.endsWith(",")) name = name.substring(0, name.length() - 1);
     if (!name.endsWith(".")) name += ".";
     for (Version version: values()) {
-      if (version.getAbbrevation().equals(name)) {
+      if (version.getAbbrevation().equals(name) || version.name().equals(name)) {
         return version;
       }
     }

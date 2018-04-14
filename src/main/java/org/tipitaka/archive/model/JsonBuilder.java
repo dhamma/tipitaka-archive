@@ -70,6 +70,7 @@ public class JsonBuilder {
     public void build(Folder folder) throws IOException {
         indentHash();
         buildExtendedBase(folder);
+        buildVersions(folder);
         buildMenus(folder.getMenus());
         dedentHash();
     }
@@ -81,18 +82,22 @@ public class JsonBuilder {
         comma();
         append("\"source\":\"").append(document.getSource()).append("\"");
         comma();
+        buildVersions(document);
+        buildMenus(document.getMenus());
+        dedentHash();
+    }
+
+    private void buildVersions(Folder folder)  throws IOException {
         append("\"versions\":[");
         int index = 0;
-        for(String version: document.getVersions()) {
+        for(String version: folder.getVersions()) {
             appendable.append("\"").append(version).append("\"");
-            if (++index < document.getVersions().size()) {
+            if (++index < folder.getVersions().size()) {
                 appendable.append(",");
             }
         }
         appendable.append("]");
         comma();
-        buildMenus(document.getMenus());
-        dedentHash();
     }
 
     private void buildItems(Map<String,String> items) throws IOException {
